@@ -1,0 +1,167 @@
+{
+  "id": "zanthoxylum",
+  "name": {
+    "commonName": [
+      "Prickly Ash",
+      "Szechuan Pepper"
+    ],
+    "latinName": "Zanthoxylum americanum (Northern Prickly Ash); Z. simulans (Chinese Prickly Ash / Szechuan Pepper)",
+    "family": "Rutaceae (Citrus family)"
+  },
+  "range": {
+    "nativeRange": "Z. americanum — central and eastern North America; found in moist woodland edges, rocky upland slopes, thickets, and open woods from Quebec and Manitoba south to Virginia and Oklahoma. Z. simulans — native to central and eastern China.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Z. americanum is native throughout the eastern and central US — from the Great Plains eastward through the Midwest, Great Lakes, and mid-Atlantic states into New England. Common in woodland margins, thickets, and rocky slopes across this range. Z. simulans is not native to the US; it is cultivated as a spice crop and occasionally naturalizes near old plantings but has not established wild populations of concern."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — Z. americanum is native across its range and not invasive; it spreads by root suckers and can form dense thickets, but this is natural colonial behavior, not invasive spread. Z. simulans has no invasive record in the US and does not appear on any state noxious weed lists or the federal noxious weed list."
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "Z. americanum — Zone 3-7; extremely cold hardy with no protection needed through Zone 7. Z. simulans — Zone 6-9; marginally hardy at the cold end of its range; site selection and shelter matter in Zone 6."
+    }
+  },
+  "description": {
+    "height": "Z. americanum — 6-15', typically 8-10' as a multi-stemmed shrub; occasionally to 25' as a small tree with age. Z. simulans — 10-15', upright shrub to small tree.",
+    "spread": "Z. americanum — 6-15' or more over time as it spreads by root suckers to form a dense, interconnected thicket; colony-forming and self-expanding. Z. simulans — 8-12'; not strongly colonial.",
+    "spacing": "8-10' for a specimen; allow 12-15' if planting as a hedge or thicket anchor",
+    "growthRate": "Moderate; establishes relatively quickly compared to many woody plants; begins producing berries within 3-5 years",
+    "timeToMaturity": "First berry production years 3-5; full thicket development over 5-10 years as suckers mature",
+    "lifespan": "Long-lived; the colony can be essentially permanent once established",
+    "deciduousEvergreen": "Deciduous — leaves emerge late spring; medium green through summer; yellow fall color; bare in winter",
+    "winterInterest": "Moderate — the thorny, zig-zagging branch structure and persistent small dried berry clusters provide textural interest; dense thorn structure is visible and effective as a barrier through winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive and most vigorous in full sun; tolerates part shade at the woodland edge, which is its natural habitat; avoid deep shade",
+    "water": "Low to medium; drought tolerant once established; native to a wide range of soil moisture conditions; tolerates dry rocky slopes as well as moist edges; more adaptable than most fruiting shrubs",
+    "drainagePreference": {
+      "description": "Adaptable; performs in average to dry soils; tolerates clay; not suited to prolonged waterlogging. The main drainage risk is sustained saturation in poorly drained clay hollows, which can cause root decline over time — but this is a notably forgiving shrub for imperfect drainage compared to most woody plants.",
+      "claySoilPerformance": {
+        "rating": "good-excellent",
+        "description": "Good to excellent — Z. americanum naturally occurs on clay-heavy soils throughout the Midwest and mid-Atlantic and tolerates compacted clay better than most shrubs. Clay does not cause root rot in this species unless drainage is truly stagnant. No amendment is strictly required for clay planting, though loosening the planting hole and adding coarse organic matter improves early establishment. Z. simulans is slightly less clay-tolerant but still performs adequately in amended clay."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7.5,
+      "description": "5.0-7.5; broadly adaptable; not fussy about soil chemistry"
+    },
+    "texturePreference": "Adaptable — rocky, loamy, or clay soils; tolerates heavy and compacted soils better than most shrubs; performs well on thin rocky ground as well as deep clay",
+    "rootCharacter": "Spreading lateral roots with aggressive root suckering habit; the root system is how the plant colonizes and expands its territory; do not disturb roots near the drip line if you want to limit spread"
+  },
+  "bloom": {
+    "bloomTime": "April-May — flowers before or just as leaves emerge; one of the earlier native shrubs to bloom",
+    "bloomDescription": "Small clusters of tiny yellowish-green flowers; not showy; borne on short stalks along the previous year's wood; inconspicuous but numerous; the foliage and bark are far more notable than the flowers",
+    "fragrance": "Strongly aromatic — the crushed leaves and bark release a pungent, citrusy, pepper-spice scent; the characteristic sanshool compounds are detectable in the fragrance",
+    "flowerSex": "Dioecious — plants are either male or female; only female plants produce berries; both sexes needed for fruit set",
+    "pollination": "Bees and small insects; not highly dependent on specialist pollinators; self-fertile within a colony once both sexes are present"
+  },
+  "yield": {
+    "edibleParts": "Berry husks (the outer red-orange pericarp of the small berry clusters, harvested September; the husks — not the seeds or inner berry pulp — carry the characteristic citrus-pepper flavor and mild numbing quality; usable as a spice, though less potent than Z. simulans; best dried and ground or used whole in cooking); bark (medicinal — see below)",
+    "harvestSeason": "Berries September; bark year-round (spring harvest preferred when bark slips easily)",
+    "medicinalUses": "One of the most important traditional North American medicinal plants. The bark was chewed raw by many Native American peoples — including Cherokee, Ojibwe, Iroquois, and others — for toothache relief; the hydroxy-alpha-sanshool compounds cause a characteristic numbing and tingling sensation in the mouth that temporarily deadens nerve pain, earning it the common name \"toothache tree.\" Bark tea was used as a circulatory stimulant and tonic, for chronic rheumatism, and for digestive complaints. The bark extract has documented properties as a diaphoretic (promotes sweating), a sialagogue (stimulates saliva), and a peripheral circulatory stimulant — making it genuinely useful for poor circulation, cold extremities, and sluggish digestion. Considered a warming herb in both Western herbalism and in parallels with its Asian relatives. One of the most clinically interesting native medicinal shrubs of the eastern US — underutilized in modern herbalism relative to its genuine pharmacological interest.",
+    "craftOtherYield": "Dense thorny canes useful as a deterrent barrier material; the aromatic wood has some craft use"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Bark and berries are medicinally active — not for casual consumption in large quantities; the numbing compounds are noticeable even in small amounts; pregnant women should avoid medicinal use of the bark (traditional contraindication — uterine stimulant). Culinary use of the berry husks in cooking quantities is considered safe.",
+    "toxicityAnimals": "Some reports of sensitivity in livestock; not a primary concern in a garden context; dogs and cats are unlikely to seek it out given the strong scent",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer (primary); can reach small tree scale in age"
+    },
+    "roles": [
+      "Medicinal Plant (high-value bark medicine — one of the most practically useful native medicinal shrubs)",
+      "Spice Crop (berry husks — secondary but genuine)",
+      "Wildlife Support (see Wildlife section)",
+      "Defensive Hedge (thorny thicket is formidable wildlife barrier)",
+      "Deer Barrier",
+      "Native Plant Contribution",
+      "Soil Stabilizer (spreading root system stabilizes slopes and thicket edges)"
+    ],
+    "companionPlants": [
+      "Sambucus canadensis (elderberry — similar thicket-edge habitat; both provide wildlife berries in a hedge system)",
+      "Cornus amomum (silky dogwood)",
+      "Rosa carolina or R. blanda (native roses — complementary thorny hedge components)",
+      "Ilex verticillata (winterberry — moist edge companion)",
+      "native grasses and meadow species at the thicket margin"
+    ],
+    "antagonists": [
+      "None documented; keep away from areas where the suckering habit is not wanted — it will spread into adjacent beds if not managed"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Bees and small insects (early spring flowers); birds (berries eaten by many species — American robin, cedar waxwing, wild turkey, ring-necked pheasant, and others); the dense thorny thicket provides exceptional protected foraging and cover for small birds and mammals",
+    "hostPlantFor": "Giant swallowtail butterfly (Papilio cresphontes) — Z. americanum is a primary larval host for the giant swallowtail, the largest butterfly in North America; the caterpillars (which mimic bird droppings throughout their larval life) are a remarkable sight; this host plant relationship alone makes Zanthoxylum a very high-priority native plant for lepidopteran support. Also used by the two-spotted skipper and various other Lepidoptera associated with Rutaceae.",
+    "nestingHabitat": "Outstanding — the dense, thorny, impenetrable thicket structure is among the best nesting habitat available; provides protected cover for ground-nesting birds, small mammals (rabbits, voles), and overwintering insects; the thorns deter predator access to nesting sites in a way that unarmed shrubs cannot match"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the thorns are a genuine physical deterrent; one of the more deer-resistant shrubs available; deer will not browse into an established thicket; very useful as a deer barrier hedge component in areas with heavy browse pressure"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates roadside and incidental salt exposure better than most native shrubs; recovers from light salt spray without lasting damage"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — once established, handles dry periods well; native to rocky upland slopes and thin soils in parts of its range; supplemental water only needed during establishment"
+    },
+    "other": "Extremely cold hardy (Zone 3); tolerates compacted clay soils; tolerates air pollution and urban conditions; very low-maintenance once established; among the toughest native shrubs for difficult sites across the eastern and central US"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — once established, requires minimal intervention; the main management task is controlling the spread of root suckers if you want to keep the colony within defined bounds",
+    "pruningNotes": "Prune with heavy leather gloves — the thorns are serious. Remove dead wood as needed. To limit spread, sever root suckers at the soil line or use a sharp spade to cut the connecting roots; this must be done annually if strict containment is needed. To rejuvenate, coppice the oldest canes to the base in late winter; the plant responds vigorously. For bark harvest, remove suckers and young canes rather than harvesting from the main trunks — this doubles as thicket management.",
+    "propagationMethods": [
+      "Root suckers (easiest — simply dig and sever rooted suckers in early spring; they transplant readily)",
+      "seed (requires cold stratification; slow; 1-2 years to germination)",
+      "root cuttings (fall — moderate success)",
+      "hardwood cuttings (less reliable than root division)"
+    ]
+  },
+  "cultivarNotes": "The most significant cultivar consideration is whether to grow Z. americanum, Z. simulans, or both as complementary species. The choice depends primarily on hardiness zone and culinary intent.\nZ. americanum (Northern Prickly Ash) is the native species, extremely cold hardy (Zone 3-7), and the better choice for gardeners prioritizing medicinal use, wildlife habitat, and deer barrier function. The berry husks have a mild citrus-pepper flavor usable as a spice but are less potent than Z. simulans. For gardeners in Zones 3-5, Z. americanum is the only reliable option and is genuinely worthwhile on medicinal and wildlife grounds alone.\nZ. simulans (Chinese Prickly Ash / Szechuan Pepper) is the authentic culinary spice. The dried, split berry husks are the source of the famous \"mouth-numbing\" sensation in Szechuan, Tibetan, Japanese (where it is known as sansho), and Korean cuisines. The active compound — hydroxy-alpha-sanshool — produces a distinctive electric tingling and numbness distinct from capsaicin heat; it is the defining flavor of mapo tofu and many Szechuan dishes. Z. simulans is the most widely available and most widely grown of the true Szechuan pepper species in Western horticulture. Zone 6-9; marginally hardy at the cold end of its range. For gardeners in Zones 6-7, it is worth attempting in a sheltered south-facing position or against a warm wall, accepting possible winter dieback. In Zones 8-9, it is fully reliable and can be grown as a primary specimen. A named selection, 'Harvest Moon', offers reduced thorns and is available from some specialty nurseries, making harvest easier. The spice yield from even a single bush is significant; the berry husks are harvested in late summer before fully ripe, then dried and the seeds discarded (the seeds are gritty and flavorless — only the husk is used).\nFor gardeners in Zones 6-7 who want both medicinal and culinary value, the recommended approach is to grow Z. americanum as the primary species and Z. simulans as a secondary specimen in the warmest microclimate available.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Defensive hedgerow",
+      "wildlife corridor edge",
+      "deer barrier",
+      "medicinal plant garden",
+      "food forest hedge layer",
+      "thicket planting on difficult or disturbed ground"
+    ],
+    "designPlacement": "Best suited to a defined boundary or hedgerow role where the suckering and spreading habit is an asset rather than a problem. Ideal along deer entry corridors or property edges where a thorny, impenetrable thicket serves both as a wildlife barrier and a habitat node. Not suitable for managed ornamental beds or small garden spaces due to thorns, size, and aggressive suckering. Plant Z. simulans in the warmest sheltered position available — against a south-facing wall or in the most protected corner of the garden — and treat it as a trial specimen in marginal zones.",
+    "acquisitionStatus": "To source — Z. americanum from a native plant nursery (widely available in PA through native plant sales and specialty nurseries); Z. simulans from a specialty herb or edible plant nursery (Raintree Nursery, One Green World, or similar)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zanthoxylum_americanum",
+    "inaturalist": "https://www.inaturalist.org/taxa/54836-Zanthoxylum-americanum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m900"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Z. americanum is native to Pennsylvania and is commonly found in thickets, woodland margins, and rocky slopes throughout the state; appropriate as a primary species for any PA garden",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania. Z. americanum is a native species. Z. simulans is not on the PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "The red compacted clay at Hegins is well within the tolerance range for Z. americanum — no amendment required for hedgerow or property-edge planting; the species handles construction-disturbed clay soils without complaint. Z. simulans, if trialed, benefits from a more prepared planting hole with added compost and coarse drainage material given the heavier clay at this site.",
+      "soil": "The red compacted clay at Hegins is not a constraint for Z. americanum — plant directly into existing soil for hedgerow and property-edge use. No raised beds needed. Z. simulans benefits from a prepared hole with added organic matter if planted at this site.",
+      "cultivarNotes": "Grow Z. americanum as the primary species — it is native, completely hardy, and requires no protection. Trial Z. simulans in the warmest, most sheltered position available (south-facing wall or protected courtyard). If Z. simulans proves unreliable over multiple winters, Z. americanum alone earns its place on medicinal and wildlife grounds.",
+      "designPlacement": "Ideal for the east wildlife corridor edge where deer pressure is highest; a Z. americanum thicket planted along the deer entry point would function as both a barrier and a wildlife habitat node. Not suitable for beds A, B, or C (thorns, size, and spreading habit all make it incompatible with managed garden beds). Plant Z. simulans against the south-facing back wall if trialing.",
+      "siteObservations": "The east wildlife corridor is the primary deer entry vector on this property; a Z. americanum thicket here would address the single most persistent wildlife management challenge on the site. The compacted red clay and construction-disturbed soil along the property boundary are well within tolerance for this species — no amendment needed. Z. simulans trial placement would be the south-facing back porch wall (Section C area but outside the managed bed), which offers the best winter protection available on the property."
+    }
+  }
+}

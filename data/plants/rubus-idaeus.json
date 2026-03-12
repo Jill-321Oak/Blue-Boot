@@ -1,0 +1,171 @@
+{
+  "id": "rubus-idaeus",
+  "name": {
+    "commonName": [
+      "Raspberry",
+      "Red Raspberry"
+    ],
+    "latinName": "Rubus idaeus",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and northern Asia; widely naturalized across temperate North America; R. idaeus var. strigosa (American red raspberry) is native to parts of North America from Alaska and Canada south through much of the eastern US, but the cultivated raspberry and most named varieties are derived primarily from the European species",
+    "usNativeStatus": {
+      "native": null,
+      "description": "R. idaeus var. strigosa (American red raspberry) is native to much of the eastern US, the northern Great Plains, the Pacific Northwest, and mountain states at higher elevations; the European species (R. idaeus var. idaeus) is extensively naturalized across the northern US from coast to coast and is the primary parent of most named cultivars; most cultivated raspberries sold commercially are derived from the European species, not the native variety"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — Rubus idaeus is not listed as invasive by any US state noxious weed program; it spreads by root suckering within a managed patch and can naturalize in disturbed areas, forest edges, and roadsides, but it does not displace native plant communities or exhibit the aggressive invasion ecology of problematic Rubus species such as R. armeniacus (Himalayan blackberry) in the Pacific Northwest"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 (excellent cold hardiness; performs best in Zones 4-7 where cool nights and adequate winter chill promote strong cane growth and high fruit quality; southern growers in Zone 8-9 should select low-chill varieties or expect reduced performance)"
+    }
+  },
+  "description": {
+    "height": "4-6' on average; canes can reach 6-8' in vigorous varieties or rich soil; maintained with annual pruning",
+    "spread": "Spreads laterally by root suckers; a mature planting will gradually expand into a thicket unless the edges are managed; plan for a patch 2-4' wide per row",
+    "spacing": "18-24\" between plants in a row; rows 6-8' apart; allow the planting to fill in as a managed hedge or cane patch",
+    "growthRate": "Fast — new primocanes (first-year canes) emerge vigorously each spring; a newly planted raspberry will often produce a small crop in its second season",
+    "timeToMaturity": "Light first crop year 2; full production year 3 and beyond; plantings remain highly productive for 10-15 years with proper management",
+    "lifespan": "The root system is perennial and long-lived; individual canes are biennial (see Pruning Notes); a well-managed patch can produce indefinitely with periodic renovation",
+    "deciduousEvergreen": "Deciduous — foliage is unremarkable but pleasant; the cane structure is visible and somewhat interesting in winter",
+    "winterInterest": "Low to moderate — the upright cane structure has some visual presence in winter; the dormant canes of red-stemmed varieties can add subtle color to the winter garden"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours; full sun is the single most important factor for disease management and fruit quality; plantings in partial shade produce less fruit and are dramatically more susceptible to fungal disease; in Zone 8+ the southernmost limit of practical culture, afternoon shade may reduce heat stress but at the cost of increased disease pressure",
+    "water": "Medium — consistent moisture promotes strong cane growth and fruit development; avoid drought stress during fruit fill; drip irrigation is ideal; overhead watering should be avoided as it promotes fungal disease; in the humid East, natural rainfall often provides adequate moisture except during dry spells in summer; in the arid West, irrigation is essential throughout the growing season",
+    "drainagePreference": {
+      "description": "Well-drained; raspberries are intolerant of waterlogged soil; good drainage is critical — the biennial cane system is highly susceptible to Phytophthora root rot and other root rots in saturated soils; raised rows or raised beds are beneficial wherever drainage is marginal; ideal conditions are a gentle slope with loamy soil that never stands wet after rain",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — heavy clay is the single most limiting soil condition for raspberries; the shallow, rot-prone root system cannot tolerate the waterlogging and poor aeration typical of compacted clay; Phytophthora root rot (the most destructive disease of raspberries) is dramatically worse in clay soils; success in clay requires aggressive amendment with compost and coarse organic matter to improve drainage and aeration, or (more reliably) planting in raised rows 8-12\" above grade; unamended heavy clay will likely kill a raspberry planting within 2-3 years"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5; slightly acidic preferred; avoid high pH soils which cause iron and manganese deficiency; most eastern US soils fall naturally within this range; western gardeners on alkaline soils may need sulfur amendment"
+    },
+    "texturePreference": "Loose, well-drained loam with high organic matter; sandy loam is also excellent; avoid heavy unamended clay (see Clay Soil Performance); good drainage is more important than high fertility; organic matter content is the most important factor — compost, rotted leaves, and wood-based mulch all improve raspberry soil",
+    "rootCharacter": "Shallow to moderately deep perennial root system; spreads laterally by root suckers; roots are sensitive to compaction and waterlogging; maintain a deep organic mulch layer to moderate soil temperature and moisture"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Small, five-petaled white flowers in clusters; individually modest but produced in quantity; not ornamentally significant; the real value is the fruit that follows",
+    "fragrance": "Slight; not notable",
+    "flowerSex": "Hermaphrodite — both male and female parts in each flower",
+    "pollination": "Self-fertile; does not require a second variety for pollination; bees are the primary pollinators and fruit set is improved with good pollinator activity"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the primary yield — bright red drupelets aggregated into the familiar raspberry; sweet-tart, aromatic, exceptionally flavored fresh; one of the finest of all fruits for fresh eating, jam, jelly, baking, and freezing); young leaves (dried for raspberry leaf tea — a well-known medicinal herb, particularly in relation to pregnancy and uterine tone); the fruit is also used for vinegar and shrubs",
+    "harvestSeason": "Summer-bearing varieties: June-July (on second-year floricanes); fall/everbearing varieties: August-October (on first-year primocane tips); with a mix of types, harvest can span June through hard frost",
+    "medicinalUses": "Raspberry leaf tea (Rubus idaeus folium) is one of the most widely used Western herbal preparations — traditionally used as a uterine tonic, particularly in the third trimester of pregnancy to prepare for labor; also used for diarrhea, sore throat (gargle), and general digestive complaints; the fruit is exceptionally high in vitamin C, manganese, fiber, and ellagic acid; ellagitannins in raspberry have documented antioxidant and anti-inflammatory activity; one of the most medicinally significant edible plants in the home garden",
+    "craftOtherYield": "Jam and preserves (raspberry jam is one of the all-time classic fruit preserves); fruit vinegar (raspberry shrub — a culinary preparation with a long history); frozen fruit (raspberries freeze exceptionally well — a primary method of preserving large harvests); cordials and liqueurs"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — fruit and leaves are widely consumed; raspberry leaf is a well-established herbal preparation; some caution is traditionally advised regarding large doses of raspberry leaf in early pregnancy (consult a qualified herbalist or midwife)",
+    "toxicityAnimals": "Not toxic to dogs, cats, or horses; the fruit is consumed safely by most animals",
+    "allelopathy": "None documented; Rubus species are generally well-behaved companions",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Food (primary yield — outstanding fruit production per square foot; one of the most productive and reliable home fruits)",
+      "Medicinal Plant (raspberry leaf — see Medicinal Uses)",
+      "Wildlife Support (exceptional — see Wildlife)",
+      "Edge Planting (the cane thicket works well as a productive wildlife edge)",
+      "Nitrogen Cycle (annual pruning biomass; cane chop-and-drop is a useful mulch source)",
+      "Living Mulch Base (deep organic mulch under the canes supports soil life)"
+    ],
+    "companionPlants": [
+      "Comfrey (excellent — planted along the base; the dynamic accumulator root system improves soil and the leaf mulch feeds the cane roots)",
+      "garlic (interspersed to deter aphids and reduce mosaic virus pressure)",
+      "yarrow (insectary — supports parasitic wasps)",
+      "white clover (living mulch in the row alleys)",
+      "tansy (aphid and pest deterrent — plant at row ends)"
+    ],
+    "antagonists": [
+      "Overhead irrigation is the primary management enemy — it promotes spur blight",
+      "botrytis",
+      "and other fungal problems; avoid at all cost; do not plant in shaded or poorly ventilated locations; raspberry mosaic virus (spread by aphids) is the most serious long-term disease concern — healthy",
+      "well-spaced plantings in full sun are the best defense; keep the planting renovated and remove any canes showing mosaic symptoms immediately"
+    ],
+    "coppiceable": "Managed analogously — all canes are cut to the ground annually or on a two-year cycle depending on the bearing type; see Pruning Notes for the full cane management approach"
+  },
+  "wildlife": {
+    "attracts": "Outstanding — raspberry is among the most important wildlife food plants in the US; over 150 bird species have been recorded consuming Rubus fruit, including American robin, gray catbird, cedar waxwing, wood thrush, Eastern bluebird, brown thrasher, and many warblers during fall migration; black bears, red foxes, raccoons, opossums, groundhogs, and virtually all small mammals consume the fruit enthusiastically; the dense cane thicket is among the most valuable nesting and refuge habitats in a managed garden",
+    "hostPlantFor": "Numerous native Lepidoptera use Rubus as a larval host, including the raspberry pyrausta moth, Acronicta funeralis (the funerary dagger moth), and various other native moths; the host plant value is significant; the native Rubus occidentalis (black raspberry) is particularly important for native fauna",
+    "nestingHabitat": "Excellent — the dense, thorny cane thicket provides outstanding nesting cover for gray catbirds, yellow warblers, brown thrashers, and other shrub-nesting species; the thorny structure provides protection from nest predators; one of the best nesting shrubs in the garden"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate to poor — deer browse raspberry canes readily, particularly in winter and early spring when other food is scarce; the developing fruit is highly attractive to deer in summer; young plantings must be protected with wire fencing or individual cages; established plantings with thorny second-year canes are less targeted but still browsed; in areas with heavy deer pressure, plan for a permanent deer exclusion fence around the raspberry patch"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — avoid road salt exposure; raspberries are not salt tolerant and will suffer foliar burn and cane dieback from salt spray or salty runoff"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — raspberries are not drought tolerant; consistent moisture is required for strong cane growth and good fruit set; drip irrigation or deep mulching is strongly recommended in regions with dry summers or during summer dry spells in the humid East"
+    },
+    "other": "Phytophthora root rot is the most destructive disease and is worst in heavy, wet soils; fungal cane diseases (spur blight, cane blight, anthracnose) are the primary above-ground threats and are managed by full sun, good air circulation, and prompt removal of old canes; raspberry mosaic virus (transmitted by aphids) is the most serious long-term disease — remove symptomatic canes immediately and source virus-free nursery stock; cedar-apple rust (Gymnosporangium) can occasionally affect Rosaceae family members near Eastern red cedars (Juniperus virginiana), but rust is not a primary concern for Rubus"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — the cane management cycle requires attention and an understanding of the biennial cane structure, but is very straightforward once understood; annual pruning is the critical task",
+    "pruningNotes": "Understanding the cane cycle is the key to managing raspberries correctly. The ROOT SYSTEM is perennial. The CANES are biennial.\nPRIMOCANES (Year 1): New canes emerge from the crown and roots each spring. They grow vegetatively all season — no fruit. These are the primocanes. In fall-bearing (everbearing) varieties, primocane tips will produce a crop in late summer/fall before winter.\nFLORICANES (Year 2): The same canes overwinter and emerge in spring as floricanes. They leaf out, produce lateral shoots, flower, and fruit (June-July for summer-bearing types). After fruiting, the floricane is exhausted and dies — it will not fruit again.\nSUMMER-BEARING VARIETIES: After the summer harvest (June-July), cut all fruited floricanes to the ground immediately. Do not wait — this removes the spent cane, improves airflow, and reduces disease. Leave the current primocanes standing (they will become next year's floricanes). In late winter (February-March), thin the primocanes to 4-6 strong canes per linear foot; remove weak, damaged, or overcrowded canes at the ground; tip the remaining canes if they are over 5' to improve lateral branching and fruit production.\nFALL/EVERBEARING VARIETIES (TWO OPTIONS):\nOption A (Two-crop management): Do not cut all canes in winter. Instead, after the fall primocane crop has finished, cut only the top portion of each cane that fruited (the tip). The lower portion of the same cane will fruit again the following summer as a floricane. After that summer crop, remove those canes entirely. This maximizes total yield but requires tracking which portion of which cane has fruited.\nOption B (One-crop simplification — recommended): In late winter, cut ALL canes to the ground, regardless of age. Sacrifice the summer floricane crop entirely. Every cane that emerges is a fresh primocane; all will produce a single heavy fall crop. This is the simplest and most disease-resistant management approach and is recommended for most home gardens. The fall harvest on all-new vigorous growth is typically larger and healthier than what Option A produces.",
+    "propagationMethods": [
+      "Root division (dig and transplant rooted suckers in early spring — the simplest and most reliable method; established plantings produce suckers freely)",
+      "tip layering (peg the tip of a primocane to the soil in late summer; it will root and can be severed and transplanted the following spring)",
+      "seed (not recommended for named cultivars; seedlings will not come true to type)"
+    ]
+  },
+  "cultivarNotes": "For best results, choose named cultivars selected for disease resistance, regional adaptation, and flavor — generic unnamed stock is rarely worth planting.\nSUMMER-BEARING (red):\n- **'Latham'** — Zone 3-9; the classic cold-climate summer raspberry; vigorous, very disease-resistant; moderate flavor; reliable and time-tested; an excellent workhorse variety across the northern US (Zones 3-6); widely available\n- **'Boyne'** — Zone 3-8; very cold-hardy; rich flavor; considered one of the best-flavored summer raspberries; somewhat smaller fruit than modern varieties but excellent quality; a strong choice for Zones 3-6\n- **'Tulameen'** — Zone 6-9; outstanding fruit size and flavor; the commercial standard in the Pacific Northwest; less cold-hardy than Latham or Boyne; best suited for mild-winter areas (Zones 6-8) with cool summers\nFALL/EVERBEARING (red):\n- **'Heritage'** — Zone 4-8; the benchmark everbearing variety; widely grown, very well-documented, consistently productive; reliable and disease-resistant; the best starting point for fall-bearing types across most of the US\n- **'Caroline'** — Zone 4-8; larger fruit than Heritage; excellent flavor; considered by many to be the finest-flavored red raspberry available; ripens earlier than Heritage, which is advantageous in shorter-season areas\n- **'Autumn Bliss'** — Zone 4-8; one of the earliest fall-bearing varieties; compact habit (4-5'); good choice for smaller spaces or tighter planting areas; earlier crop than Heritage\n- **'Dorman Red'** — Zone 7-9; specifically bred for low-chill southern conditions; one of the few red raspberry varieties that performs well in Zone 8-9; essential for southern US growers where standard varieties fail\nBLACK RASPBERRY (native-type):\n- **'Jewel'** (Rubus occidentalis) — Zone 4-8; black raspberry, not red; the premier named black raspberry cultivar; more disease-resistant than most red raspberries; rich, complex, intensely flavored fruit; Rubus occidentalis is native to the eastern US — planting 'Jewel' provides all the benefits of the cultivated raspberry while supporting native plant ecology; highly recommended as a companion or alternative to R. idaeus; note that black raspberries spread by tip layering rather than root suckering and should be planted in a separate location from red raspberries to prevent cross-contamination of cane diseases\nA planting of 'Caroline' or 'Heritage' (fall-bearing, Option B management) combined with a small patch of 'Jewel' black raspberry provides maximum flavor diversity, a multi-season harvest, and excellent wildlife value with manageable maintenance.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Productive hedge or cane patch",
+      "food forest shrub layer",
+      "wildlife edge planting",
+      "medicinal herb garden",
+      "kitchen garden"
+    ],
+    "designPlacement": "Raspberry belongs at the edge of a productive zone — ideally the rear or side boundary of a kitchen garden or food forest edge, where full sun is guaranteed and the spreading cane habit is acceptable. A raised row (6-8\" high, amended with compost) along a back fence or garden edge is the classic placement. Drip tape laid under deep wood chip mulch is the ideal irrigation setup. The cane thicket at the garden edge creates a natural transition to the wider landscape and provides outstanding nesting cover. In deer-heavy areas, site the patch where a permanent deer fence is practical.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubus_idaeus",
+    "inaturalist": "https://www.inaturalist.org/taxa/54436-Rubus-idaeus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=295999"
+      },
+      {
+        "label": "'Heritage'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261671"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "R. idaeus var. strigosa (American red raspberry) is native to Pennsylvania and occurs in open woods, clearings, and disturbed ground throughout the state; however, most named cultivars sold at nurseries are derived from the European species (R. idaeus var. idaeus) and are technically non-native; the closely related Rubus occidentalis (black raspberry) is fully native to PA and common in local hedgerows",
+      "paInvasiveStatus": "Not listed on the Pennsylvania noxious weed list or the PA DCNR invasive species list; same as general Invasive field — not regulated in PA",
+      "drainage": "The red clay at Hegins is a serious constraint for raspberries; raised rows amended with generous compost are strongly recommended over in-ground planting; if planting in-ground, double-dig and incorporate 4-6\" of compost plus coarse bark to break up the clay; monitor drainage carefully after heavy rain — if water pools around the base of canes for more than a few hours, the planting will fail",
+      "soil": "Amend the red clay heavily with compost before planting; raised rows are the most reliable approach at the Hegins site; in-ground planting requires deep incorporation of organic matter to create a well-drained root zone in the compacted clay",
+      "cultivarNotes": "'Caroline' or 'Heritage' are the top choices for fall-bearing production; 'Latham' is the classic summer-bearer. 'Jewel' black raspberry is strongly recommended as a native companion. All perform well in Zone 6a with adequate drainage management.",
+      "designPlacement": "Plant along the east or south-facing edge of the mulberry or apple guilds to capture full sun while contributing to the wildlife edge. Protect with a simple wire deer fence on the wildlife-corridor side of the property. Raised rows are strongly recommended given the red clay drainage constraints.",
+      "siteObservations": "Poorly drained red clay is the primary site limitation; raised rows and deep compost incorporation are the most important site preparation steps. Active deer pressure from the east wildlife corridor means a permanent exclusion fence around the raspberry patch is essential — young canes will be heavily browsed without it. Eastern red cedars (Juniperus virginiana) are common in nearby hedgerows but cedar-apple rust is not a primary concern for Rubus."
+    }
+  }
+}

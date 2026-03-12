@@ -1,0 +1,165 @@
+{
+  "id": "prunus-tomentosa",
+  "name": {
+    "commonName": [
+      "Nanking Cherry",
+      "Manchu Cherry",
+      "Downy Cherry",
+      "Korean Cherry"
+    ],
+    "latinName": "Prunus tomentosa",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Northern and western China (including Tibet), Korea, Mongolia, Japan, and the Himalayas; widely cultivated throughout temperate North America and Europe",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from East Asia and widely planted as an ornamental and fruiting shrub across the northern and central US; naturalized in scattered locations but has not established significant wild populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — P. tomentosa does not naturalize aggressively anywhere in the lower 48; not listed on any state noxious weed lists or the federal USDA invasive species list; the species produces bird-dispersed fruit but seedling establishment in wild areas is uncommon; not a concern for any US region"
+    },
+    "zone": {
+      "min": 2,
+      "max": 7,
+      "description": "2-7 (exceptionally cold-hardy; one of the most cold-tolerant fruiting shrubs available to temperate gardeners; heat tolerance limits it in Zone 8+ where insufficient winter chill and summer heat stress reduce performance)"
+    }
+  },
+  "description": {
+    "height": "6-10'",
+    "spread": "6-10'; broad, dense, multi-stemmed, rounded shrub; roughly as wide as tall at maturity; forms a substantial presence in the landscape",
+    "spacing": "6-8' from other large shrubs; plant two individuals at least 6' apart but within 50' for cross-pollination",
+    "growthRate": "Moderate; establishes quickly relative to most fruiting shrubs; meaningful fruit production typically begins by year 3-4",
+    "timeToMaturity": "First fruit years 2-3; full production from year 4-6; remarkably quick to bearing for a fruiting shrub",
+    "lifespan": "Moderate to long-lived; 20-40 years for individual shrubs; may decline after 30 years in production but remains ornamentally valuable longer; not a permanent fixture in the way a tree would be — plan for eventual replacement",
+    "deciduousEvergreen": "Deciduous — covered in white-to-pale-pink flowers before leaves emerge in early spring; soft, hairy (downy) medium-green leaves through summer; modest yellow-orange fall color; twiggy winter framework visible after leaf drop",
+    "winterInterest": "Low to moderate — the dense, interlocking twiggy branch structure has character in winter; no persistent fruit typically remains; the reddish-brown bark has subtle ornamental texture"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred for best flowering and fruit production; tolerates part shade (4-6 hours direct sun) but bloom density and fruit yield drop noticeably; site in the sunniest available position; in Zone 8+ regions, light afternoon shade may reduce heat stress without significantly harming production",
+    "water": "Low to medium; drought tolerant once established; native to continental climates with periodic dry summers; one of the more drought-resilient fruiting shrubs; in the humid East, supplemental watering is rarely needed for established plants; in the arid West, periodic deep watering through summer is advisable; do not overwater — good drainage is more important than consistent moisture",
+    "drainagePreference": {
+      "description": "Well-drained; performs well in average to dry-leaning soils; does not tolerate prolonged waterlogging — saturated root zones invite Phytophthora and other root rot pathogens common to Prunus; raised planting or berming is advisable in any site with poor internal drainage",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — tolerates clay soils provided drainage is adequate; clay holds moisture longer than loam or sand, which is acceptable for established plants but risky for newly planted stock during wet seasons; amend clay planting sites with generous organic matter (compost, aged bark) worked into a wide planting hole to improve structure and drainage in the root zone; avoid creating a \"bathtub\" effect by ensuring the amended zone drains into surrounding soil rather than collecting water; in heavy clay across the eastern US and Midwest, planting slightly high (root flare 1-2\" above grade) helps prevent crown rot"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable; tolerates moderately acidic to slightly alkaline soils; no pH adjustment required in most US garden soils"
+    },
+    "texturePreference": "Adaptable — sandy loam to clay loam; tolerates lean soils; does not require rich soil and can over-vegetate (at the expense of fruit) if heavily fertilized; performs best in moderately fertile, well-structured soil with good organic matter content",
+    "rootCharacter": "Fibrous, spreading root system; does not produce aggressive root suckers the way P. americana does; stays relatively well-behaved in the landscape; still — keep away from foundations and buried infrastructure"
+  },
+  "bloom": {
+    "bloomTime": "Early spring — before or just as leaves emerge; one of the earliest fruiting shrubs to bloom; often coincides with the first significant bee flights of spring; timing varies by zone: late March in Zone 7, early-to-mid April in Zone 5-6, late April in Zone 3-4",
+    "bloomDescription": "Masses of small (0.5\") five-petaled flowers covering every branch before leaves appear; color is white to pale blush-pink, often opening white and fading slightly pink or opening softly pink from the bud; the overall effect of a mature plant in full bloom is spectacular — the entire shrub becomes a dense cloud of flowers; one of the most ornamental moments in the spring food garden, rivaling flowering ornamental cherries in visual impact",
+    "fragrance": "Lightly to moderately fragrant — sweet, classic Prunus cherry blossom scent; pleasant but not as strongly perfumed as some flowering cherries; most noticeable up close on warm days",
+    "flowerSex": "Hermaphrodite (perfect flowers — both male and female parts present in each flower)",
+    "pollination": "Self-fertile to a meaningful degree — a single plant will produce fruit; however, cross-pollination from a second individual (any other Prunus tomentosa; some sources indicate other Prunus species may also help) substantially increases fruit set and yield; always plant two for best production; bees are the primary pollinators — the early bloom is a critical early-season resource"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small round drupes, approximately 0.5\" diameter; bright scarlet-red when fully ripe; flesh is juicy, tender, and tart-sweet with a flavor reminiscent of a wild cherry crossed with a tart pie cherry; the pit-to-flesh ratio is less favorable than larger fruiting cherries, but the sheer quantity of fruit produced per bush more than compensates; a mature established plant can yield 10-20 lbs of fruit per season; excellent for fresh eating (best when fully ripe — deep red, slightly soft), jam, jelly, juice, wine, and syrup; the small size makes processing mildly tedious (pitting by hand is impractical at scale — pass through a food mill or steam-juice for jam and jelly use)",
+    "harvestSeason": "June-July in most of the lower 48; one of the earliest fruiting shrubs to ripen; fruit is typically available 2-4 weeks before most summer berries; this early-season gap-filling role is one of Nanking Cherry's most valuable contributions to a food forest planting; fruit ripens over a 2-3 week window; monitor closely as it ripens quickly and birds find it immediately",
+    "medicinalUses": "Fruit is nutritious; traditional medicinal use of the bark and seeds in Chinese medicine (similar to other Prunus species); not a primary medicinal plant in western herbalism; the fresh fruit contains vitamin C and anthocyanins; no significant documented western medicinal use",
+    "craftOtherYield": "Juice and wine (the tart, richly colored juice produces an excellent fruit wine and syrup); fruit leather; the highly ornamental spring bloom makes this plant a genuine dual-purpose ornamental-edible; wood is small-diameter but hard — suitable for small turned items"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Fruit flesh is edible and non-toxic; seeds (pits) contain amygdalin (cyanogenic glycoside) as with all Prunus species — do not crush and eat pits in quantity; incidental swallowing of a pit whole is not a significant concern; the same applies to leaves and bark in large quantity; no concern for normal culinary use",
+    "toxicityAnimals": "Fruit flesh is safe for birds and wildlife; pits and wilted leaves contain cyanogenic glycosides toxic to livestock (horses, cattle, sheep) — low risk in a managed garden setting but worth noting if grazing animals are present near the planting",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Food (fresh fruit, jam, jelly, juice, wine — meaningful yield starting early in the season)",
+      "Wildlife Support (early fruit — robins, catbirds, waxwings)",
+      "Early Pollinator Support (one of the earliest blooming fruiting shrubs)",
+      "Ornamental-Edible (exceptional spring bloom — genuinely beautiful)",
+      "Gap Filler (early fruiting season before most other fruits ripen)",
+      "Hedgerow Structure (dense habit suitable for informal fruiting hedge)"
+    ],
+    "companionPlants": [
+      "Symphytum officinale (comfrey — dynamic accumulator as ground cover under the shrub, mulch the base)",
+      "Allium species (chives, garlic — understory guild companions)",
+      "Trifolium repens (white clover — nitrogen-fixing ground cover)",
+      "Amelanchier species (serviceberry — complementary early fruiting, similar ecological niche, extends the early-fruit window)",
+      "other Prunus tomentosa (plant two for cross-pollination — the most important companion decision)",
+      "Sambucus canadensis (elderberry — follows Nanking Cherry in the fruiting sequence, extends the early-summer harvest)"
+    ],
+    "antagonists": [
+      "Do not plant near Juglans nigra (black walnut) — Prunus species are sensitive to juglone toxicity. Brown rot (Monilinia) is the primary stone fruit disease in humid climates; P. tomentosa is notably more resistant to brown rot than peach or sweet cherry — do not treat this as a disease-free plant but expect substantially fewer problems than with other stone fruits. Cedar-apple rust (Gymnosporangium) affects Rosaceae pome fruits but P. tomentosa is a stone fruit and not a primary host — monitor neighboring apples and pears if Juniperus virginiana (eastern red cedar) is present nearby."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds — the early-ripening fruit is fed upon heavily by American robin, gray catbird, cedar waxwing, and other summer-resident birds immediately upon ripening; expect significant bird competition; the dense branching structure also provides excellent cover; bees (early spring flowers — critical early-season pollen and nectar source, particularly for native bees and honey bees emerging from winter); butterflies and beneficial insects through the season",
+    "hostPlantFor": "Multiple native Lepidoptera use Prunus species as larval hosts — Eastern Tiger Swallowtail (Papilio glaucus), Coral Hairstreak (Satyrium titus), Viceroy (Limenitis archippus), and numerous moth species including Cecropia (Hyalophora cecropia) and Promethea (Callosamia promethea) use Prunus; as an introduced species P. tomentosa offers some (though not equivalent) host plant value relative to native Prunus; for maximum host plant value, pair with a regionally native Prunus species in the same planting",
+    "nestingHabitat": "Good — the dense, multi-stemmed, twiggy structure provides excellent nesting cover for shrubland birds; catbirds and robins commonly nest in dense fruiting shrubs of this size and structure; the combination of nesting habitat and early fruit makes this plant a high-value wildlife planting even though it is not native"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — better than most fruiting shrubs; the dense, stiff, twiggy branching structure and somewhat rough bark texture are not preferred browse; deer will investigate but rarely devastate an established plant in the way they would browse a rose or young apple; protect young plants in the first 1-2 growing seasons before the branching hardens; fencing or tree tubes recommended for establishment in high-pressure deer areas across the eastern US and Midwest"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not documented as salt-tolerant; avoid locations with regular road salt exposure or maritime salt spray"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — one of the better drought-tolerant fruiting shrubs once established; native to continental climates with seasonal drought; well-suited to drier-than-average conditions on south-facing or exposed sites; established plants handle dry summers across most of the eastern US without intervention; western US gardeners should expect to provide periodic deep watering in arid climates"
+    },
+    "other": "Exceptional cold hardiness (Zone 2) — far more cold-tolerant than peach, sweet cherry, or even most plums; early bloom does carry some frost risk in all zones during unusual late cold snaps; tolerates clay soils with adequate drainage; tolerates lean soils; very low disease pressure compared to other stone fruits; moderate wind tolerance — the dense branching structure handles typical garden exposure but may suffer mechanical damage in persistently high-wind sites"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the least-demanding fruiting shrubs available; minimal spraying, minimal disease management, no complex pruning requirements; the primary ongoing task is harvesting",
+    "pruningNotes": "Annual late-winter pruning (February-March in most zones, before bloom) to remove dead or crossing branches and thin the interior for airflow. Every 3-5 years, remove the oldest and most crowded canes at the base to maintain vigor and encourage productive new growth — Nanking Cherry fruits best on younger wood. Rejuvenate old, declining plants by removing one-third of the oldest canes per year over three years rather than cutting the whole plant back at once. No specialized disease-spray program required. Remove any brown rot-infected mummies from the plant and ground in fall if observed, but significant intervention is rarely needed.",
+    "propagationMethods": [
+      "Seed (cold stratification required — 90-120 days at 34-40°F; direct sow outdoors in fall for natural cold stratification; germination the following spring; standard method since named cultivars are uncommon and the species is consistent from seed); softwood cuttings (June — moderate to good success); hardwood cuttings (fall — possible); layering; bare-root plants widely available from specialty nurseries in late winter"
+    ]
+  },
+  "cultivarNotes": "No significant named cultivars are in wide commercial circulation — P. tomentosa is almost universally grown as the straight species, and this is entirely appropriate. Unlike many fruiting plants where cultivar selection is critical for zone adaptation and disease resistance, Nanking Cherry is consistent and reliable from seed-grown plants across its entire range (Zones 2-7). The straight species is the correct choice for all zone bands. Zone 3-5 gardeners benefit from P. tomentosa's exceptional cold hardiness — few other fruiting shrubs perform this well this far north. Zone 6-7 gardeners are in the species' sweet spot with reliable bloom, pollination, and fruit set. Zone 8+ gardeners should be cautious — insufficient winter chill and summer heat stress may reduce bloom, fruit set, and overall vigor; consider Prunus besseyi (western sand cherry) or native Prunus species as alternatives in hot-summer regions. Source at least two plants from different nursery sources (ideally from different seed lots) to ensure genetic diversity and good cross-pollination. Some specialty nurseries may list a 'White' form (white-fruited) — this is ornamentally interesting but offers no practical advantage over the typical red-fruited species for food production.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "wildlife garden",
+      "informal fruiting hedge",
+      "ornamental-edible shrub border",
+      "early-fruiting gap-filler planting"
+    ],
+    "designPlacement": "Position at the sunny edge of a food forest guild or hedgerow where it receives full sun and its early spring bloom is visible — this plant earns ornamental placement. Best used as a standalone pair (two plants, 6-8' apart for cross-pollination) or in a row of 3-4 plants spaced 5-6' apart for a dense informal fruiting hedge. At 6-10' tall and wide at maturity, give it room — do not crowd against structures or under canopy trees. Place where the early bloom is appreciated (near a path, window, or gathering area) and where June fruit harvest is convenient. Avoid placing in deep shade, low wet spots, or near black walnut. Works well as a transition between mown areas and food forest canopy, or as a property-edge screening hedge that also produces food.",
+    "acquisitionStatus": "To source (specialty fruit nursery or online bare-root; source two plants for cross-pollination; straight species, not a named cultivar)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_tomentosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/167472-Prunus-tomentosa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286358"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — P. tomentosa is native to Asia; not a Pennsylvania or eastern North American native",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — not a concern",
+      "drainage": "The red clay at the Hegins site is workable for Nanking Cherry if drainage is addressed at planting — amend the planting hole generously with compost and plant slightly high; avoid low spots where water pools after heavy rain; raised beds are not required but berming the planting area 4-6\" above surrounding grade is good insurance; the construction-disturbed soil benefits from a thick comfrey-mulch ring to build organic matter over time",
+      "soil": "The typical construction-disturbed red clay at the Hegins site benefits from organic matter amendment at planting; ongoing comfrey mulch and leaf mold will gradually improve structure; do not over-fertilize — lean soil actually encourages fruiting over vegetative growth",
+      "cultivarNotes": "The straight species is the clear choice; two seed-grown plants from different sources for cross-pollination; Zone 6a is comfortably within the optimal range with no zone-related concerns.",
+      "designPlacement": "Excellent candidate for the outer shrub layer of the apple or paw paw guilds, or as a standalone pair in an open, sunny position on the property. Its early fruiting season (June-July) fills the gap before summer berries and long before apples and pears are ready — a genuinely valuable role in the sequential-harvest plan. Also well-suited to a dense informal fruiting hedge along a property boundary. Not recommended for Sections A, B, or C in their current configurations — at 6-10' tall and wide, this shrub needs open ground with adequate sun and exceeds Section A and C height limits.",
+      "siteObservations": "The east wildlife corridor deer pressure is manageable for this species — established Nanking Cherry is one of the more deer-resistant fruiting shrubs, but protect newly planted stock with tree tubes or temporary fencing for the first two growing seasons. The early bloom (early April in Zone 6a, typically 1-2 weeks ahead of most Prunus species) carries some frost risk during unusual late cold snaps — site away from frost pockets if possible. Brown rot pressure exists in humid central PA but P. tomentosa is substantially more resistant than peach or sweet cherry; monitor but do not expect significant problems. Red clay drainage is addressed at planting (see Drainage Preference above); a comfrey ring at the base will build organic matter and serve as living mulch."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "allium-cepa",
+  "name": {
+    "commonName": [
+      "Onion (also: Bulb Onion",
+      "Common Onion; shallots are Allium cepa var. aggregatum — see Cultivar Notes)"
+    ],
+    "latinName": "Allium cepa",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Unknown in the wild — Allium cepa has been in continuous cultivation for so long (at least 5,000 years) that its true wild progenitor is uncertain; believed to have originated in Central Asia (modern Iran / western Pakistan region); not native anywhere in the wild in any meaningful horticultural sense",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Onion (Allium cepa) is not native to the US; it originated in Central Asia; cultivated throughout the US; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; a cultivated annual that does not establish aggressively"
+    },
+    "zone": {
+      "min": 5,
+      "max": 10,
+      "description": "5-10 as a crop; grown as a cool-season annual in Zone 6a (planted spring, harvested mid-summer)"
+    }
+  },
+  "description": {
+    "height": "12-18\" in active leaf growth; scape (if allowed to bolt) can reach 24-36\"",
+    "spread": "4-6\" per plant at maturity for standard bulbing types",
+    "spacing": "4-6\" for full-size bulbing onions; 1-2\" for green onion / scallion harvest; rows 8-12\" apart in traditional beds; in raised beds, plant in a grid at 4-6\" spacing",
+    "growthRate": "Moderate; leaf growth is steady through spring; bulb expansion is rapid once day-length threshold triggers the switch from leaf to bulb production",
+    "timeToMaturity": "100-175 days from seed to harvest depending on variety (shorter from sets or transplants); green onions can be pulled from transplants in as little as 8 weeks; mature bulbs are typically ready late July to mid-August in Zone 6a",
+    "lifespan": "Biennial grown as an annual — in year 1, the plant produces a bulb; in year 2 (if overwintered), it bolts, flowers, and sets seed. For culinary purposes, all effort focuses on the year-1 bulb. Allowing plants to overwinter and bolt is generally undesirable and results in inedible or poor-quality bulbs.",
+    "deciduousEvergreen": "Annual (cultivated as such) — foliage dies back completely when bulbs cure; tops fall over naturally at maturity as a harvest signal",
+    "winterInterest": "None — a warm-season / cool-season crop plant with no winter presence"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — onions require at least 6-8 hours of direct sun for good bulb development; part shade will result in reduced bulb size and poor yields; do not plant in shaded locations",
+    "water": "Medium — consistent moisture is important during leaf growth; reduce watering as bulbs approach maturity (when tops begin to yellow and fall); avoid overwatering once bulbs are sizing up, which encourages rot; drip irrigation or soaker hose at the base is preferable to overhead watering, which promotes fungal disease",
+    "drainagePreference": {
+      "description": "Well-drained — onions are particularly sensitive to waterlogged soil; standing water causes bulb rot (Botrytis, neck rot, fusarium) and stunted growth; raised beds are ideal for sites with clay or drainage issues",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor in heavy clay; bulb crops need loose, well-drained soil; clay causes compaction around developing bulbs, waterlogging risk, and poor bulb sizing; raised beds are the standard solution for heavy-soil gardeners"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral preferred; below 6.0 reduces nutrient availability and can promote disease"
+    },
+    "texturePreference": "Loose, well-cultivated, friable soil — onion bulbs expand laterally and downward; compacted or heavy clay restricts bulb expansion and reduces size; raised beds with amended, loamy soil are ideal; in-ground clay beds can work with generous compost incorporation (6-8\" deep); avoid excessive nitrogen in the soil after bulbing begins (see notes below)",
+    "rootCharacter": "Shallow, fibrous root system — onions are not deep-rooted; they rely heavily on surface soil nutrients and moisture; this shallow rooting makes them excellent raised bed candidates but means they compete poorly with weeds; keep beds meticulously weeded, especially early in the season"
+  },
+  "bloom": {
+    "bloomTime": "Year 2 (if overwintered) — scapes emerge in spring of the second year; flowers June-July; in Zone 6a, first-year crops are harvested before flowering occurs",
+    "bloomDescription": "Tall (24-36\") hollow scape topped with a dense, spherical umbel of white to pale purple-white florets; ornamentally attractive but marks a plant that has bolted and will not produce a good eating bulb; if a plant bolts in year 1 (triggered by cold stress or improper planting timing), the bulb will be poor quality — harvest and use immediately, do not cure for storage",
+    "fragrance": "Strong onion scent from foliage and bulb; flowers mildly fragrant",
+    "flowerSex": "Hermaphrodite — each floret has both male and female parts",
+    "pollination": "Insect-pollinated — primarily bees; seed production is possible if two or more plants flower simultaneously; onions are outcrossing and will cross-pollinate with other Allium cepa plants (including shallots and potato onions); save seed only from intentionally isolated plants"
+  },
+  "yield": {
+    "edibleParts": "Bulb (the primary yield — raw, cooked, caramelized, pickled, dried; the most widely used vegetable in world cuisine); green tops / scallions (harvest young plants before bulbing begins, or pull any plant early for fresh green onion use — the hollow green tops have a milder, fresher flavor); scapes (rarely eaten but technically edible); flowers (edible, mild onion flavor, used as a garnish)",
+    "harvestSeason": "Green onions / scallions — 6-8 weeks from transplant (May-June in Zone 6a); mature bulbs — when approximately 50% of tops have naturally fallen over, typically late July to mid-August; do not wait until all tops fall — harvest promptly to avoid weather damage to curing bulbs in the field. Dig carefully with a fork to avoid puncturing bulbs; punctured or bruised bulbs do not store. Cure immediately after harvest.",
+    "medicinalUses": "Long history of traditional use — allicin and other sulfur compounds have documented antimicrobial, anti-inflammatory, and cardiovascular benefits; quercetin (particularly concentrated in red onion skins) is a potent antioxidant; traditional remedies include onion poultices for chest congestion, onion syrup for cough, and raw onion for topical application to insect stings; primarily a culinary plant with incidental medicinal value",
+    "craftOtherYield": "Onion skins (especially yellow and red varieties) are excellent natural dyes — yellow-gold to orange-brown from yellow skins; deeper gold and greenish tones from red skins; the skins are also used as a mordant in some dyeing traditions. Braided storage ropes of cured onions are both functional and decorative."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe and widely consumed; raw onion can cause digestive discomfort in some individuals due to fructans; people with IBS or FODMAP sensitivities may need to limit intake of raw onion",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species, including onions, cause hemolytic anemia (destruction of red blood cells) in dogs and cats; onions are among the most dangerous of the alliums for pets because they are commonly available in the kitchen; even cooked onion is toxic; never feed onions, onion powder, or dishes containing onion to dogs or cats. Toxic to horses as well. This is a significant caution if pets or horses have access to the garden or kitchen scraps.",
+    "allelopathy": "Mild — onion root exudates contain sulfur compounds that have some suppressive effect on certain soil pathogens and aphids; this is the basis for many companion planting recommendations; however, these same exudates can inhibit the growth of legumes (beans, peas) — avoid planting adjacent to those crops",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Root / Rhizosphere (annual vegetable)"
+    },
+    "roles": [
+      "Food (primary role — among the most important culinary crops in the garden)",
+      "Pest Confuser (allium scent and root exudates deter aphids, onion fly, carrot fly, and other pests — classic companion planting value)",
+      "Dynamic Accumulator (sulfur compounds concentrated in the bulb and foliage)",
+      "Weed Suppressor (dense planting in raised beds outcompetes weeds effectively once established)"
+    ],
+    "companionPlants": [
+      "Carrots (classic pairing — onion scent deters carrot fly; carrot scent deters onion fly; plant in alternating rows or intermingled; one of the best-documented beneficial companion planting relationships in the vegetable garden)",
+      "beets",
+      "lettuce",
+      "chamomile",
+      "summer savory",
+      "tomatoes",
+      "brassicas (cabbage, broccoli — onion scent confuses cabbage moths)",
+      "strawberries",
+      "roses (onions deter aphids)"
+    ],
+    "antagonists": [
+      "Beans and peas — allium exudates inhibit legume growth; do not plant onions adjacent to or recently in a bed where legumes will be grown; this antagonism is significant enough to affect yields; also avoid planting near asparagus (traditional antagonism noted in companion planting literature, though less well-documented)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when in flower (year 2 only); otherwise minimal wildlife value — the pungent allium scent actively deters most animals",
+    "hostPlantFor": "Not a significant host plant; no notable Lepidoptera associations",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — onions are among the most reliable deer-resistant vegetables; the pungent allium scent is highly effective at deterring deer browsing; deer rarely if ever eat onion foliage; interplanting onions throughout vegetable rows adds a layer of deer deterrence for neighboring plants"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates average garden soil salinity; not particularly salt-sensitive under normal growing conditions"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — onions have shallow roots and are not drought-tolerant; consistent moisture is required for good bulb development; drought stress during bulbing will result in small, split, or premature bulbs; mulching helps retain moisture and regulate soil temperature"
+    },
+    "other": "Cold-tolerant transplants — young onion seedlings can tolerate light frost (down to about 28°F / -2°C) once hardened off; this makes them among the earliest spring transplants possible in Zone 6a, typically going out in late March to mid-April, 2-3 weeks before last frost. Do not allow sets or transplants to experience extended hard freezes after planting, which can trigger premature bolting."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — requires attentive timing, weed management, and proper curing; not a \"plant and forget\" crop, but also not difficult once the photoperiod and timing principles are understood",
+    "pruningNotes": "Trim tops at transplanting — when setting out transplants or seedlings, cut the green tops back to 4-6 inches at planting time; this reduces transplant shock and redirects energy to root establishment rather than top growth; the plant will quickly produce new foliage. Do NOT add nitrogen fertilizer after the tops begin to turn yellow and fall over — this signals the onset of bulbing; nitrogen at this stage encourages lush top growth at the expense of bulb development and storage quality, and promotes neck rot in cured bulbs. Weed control is critical — onions compete very poorly with weeds due to shallow roots and sparse foliage; keep beds weed-free, especially in the first 6 weeks after transplanting.",
+    "propagationMethods": [
+      "Seed (most variety selection available — the best approach for accessing named storage varieties like Copra or Patterson): Sow thickly in flats indoors in late February to mid-March (approximately 10-12 weeks before transplant date); sow at 1/4\" depth; germination at 65-75°F in 7-14 days; thin seedlings to 1\" apart in the flat; grow on under lights (onion seedlings need strong light — leggy seedlings produce poor bulbs); harden off for 1 week before transplanting outdoors in late March to mid-April (when overnight temps stay above 28°F); transplant when seedlings are 6-8\" tall.\nSets (small bulbs sold in bags at nurseries and box stores): The easiest method — press sets pointed-end up",
+      "1-2\" deep",
+      "4-6\" apart in April; they establish quickly and produce green onions in weeks and small-to-medium bulbs by summer; variety selection is very limited (usually just 'Yellow', 'White', 'Red') and specific named varieties are rarely available; sets are most useful for those who want onions without starting from seed.\nTransplants (from nursery): Reliable and convenient; plant in early April; produces good results with less effort than seed-starting; variety availability is better than sets but still more limited than seed."
+    ]
+  },
+  "cultivarNotes": "CRITICAL — DAY LENGTH AND VARIETY SELECTION: This is the single most important factor in onion success and the most common cause of onion failure in home gardens. Onions form bulbs in response to day length (photoperiod), not temperature or season per se. There are three types, and choosing the wrong one for your latitude guarantees failure regardless of soil, timing, or care:\nLong-day onions (bulb formation triggered at 14-16 hours of daylight): Adapted for latitudes above roughly 36-37°N — the northern two-thirds of the US, roughly from Virginia/Missouri northward. As days lengthen past the threshold in early summer, the plant stops making leaves and puts all energy into bulb expansion. Long-day varieties grown at northern latitudes have more time to build leaf mass before bulbing triggers, resulting in larger bulbs. If you are north of the 36th parallel, plant long-day types.\nIntermediate-day onions (bulb formation at 12-14 hours): Adapted for latitudes roughly 32-38°N — a band including the mid-South, parts of the mid-Atlantic, and transition zones. Useful for gardeners in that latitude band who want to experiment with sweeter intermediate varieties; can be used further north with acceptable (though not optimal) results.\nShort-day onions (bulb formation at 10-12 hours): Adapted for the Deep South (below roughly 32°N) — Texas, Louisiana, Georgia, and southward. These are the Vidalia-style sweet onions. If planted in the northern US, they will begin bulbing very early in the season (May-June) when the days hit 10-12 hours, before the plant has built enough leaf mass to support a large bulb. The result is small, disappointing bulbs. This is the most common onion mistake in northern gardens — buying short-day types from a seed rack without checking the day-length category. Always verify day-length type before purchasing.\nRecommended long-day varieties (for north of 36th parallel):\n'Copra' — the gold standard for long-day storage onions in the Northeast and Midwest; high sulfur content makes it pungent; stores 6+ months when properly cured; consistent, reliable, excellent yielder; yellow globe; widely considered the best all-around storage onion for home gardeners in the north\n'Patterson' — excellent storage (up to 9 months), high yield, good disease resistance; yellow globe; long-day; highly recommended for northern zones\n'Ailsa Craig' — large exhibition-type onion; mild flavor; long-day; excellent for those wanting impressive-sized bulbs; does not store as long as Copra or Patterson but is a remarkable fresh onion\n'Red Bull' — red-skinned storage onion; long-day; good keeper; attractive in kitchen; milder than yellow storage types but keeps well\n'Stuttgarter' — classic yellow storage type; available widely as sets and seed; reliable long-day performer across the northern US\n'Walla Walla' — intermediate to long-day sweet onion; not a storage type (short shelf life); mild, sweet, low-sulfur; excellent fresh but use within 1-2 months; notable for outstanding flavor\n'Candy' — intermediate-day hybrid; sweet, mild; versatile; decent short-term storage; can succeed in the northern transition zone",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden (primary vegetable crop)",
+      "raised vegetable beds",
+      "in-ground vegetable rows",
+      "companion planting throughout the vegetable garden"
+    ],
+    "designPlacement": "The raised vegetable bed is the ideal primary location for onion production anywhere soils are heavy, compacted, or slow to drain — the loose, well-drained growing medium directly addresses onions' sensitivity to compacted clay, and the raised bed environment allows precise soil amendment and weed management. For in-ground production, choose the sunniest, most well-drained spot; amend heavily with compost before planting. The deer-resistance of onions makes them a strong candidate for any in-ground planting where deer pressure is a concern — intersperse throughout rows of more palatable crops for a deterrence effect. The classic carrot-onion companion planting combination is highly recommended in both raised and in-ground beds: grow in alternating rows or blocks alongside carrots, beets, and lettuces. Always verify day-length type before purchasing seed or sets (see Cultivar Notes).",
+    "acquisitionStatus": "To source — seed preferred for variety selection (Copra, Patterson, Ailsa Craig from Johnny's Selected Seeds or Fedco Seeds); sets available locally as a backup\nPennsylvania — Hegins Site Observations:\nCuring is as important as growing — onions that are harvested promptly when tops fall and cured properly (2-4 weeks in a dry, well-ventilated, shaded space with temperatures 75-85°F and low humidity) will store 3-6 months. Spread on screens or hang in mesh bags; do not pile in buckets. Braid or hang in a cool, dry cellar or garage after curing. Storage types (Copra, Patterson) keep far longer than sweet types (Walla Walla, Ailsa Craig) — plan the harvest accordingly."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Onion",
+    "inaturalist": "https://www.inaturalist.org/taxa/48592-Allium-cepa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282056"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — cultivated crop plant with no wild Pennsylvania presence",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised beds strongly recommended for reliable onion production; in-ground possible with deep grit/compost amendment",
+      "soil": "Raised beds preferred for best bulb development at Hegins",
+      "cultivarNotes": "Pennsylvania is long-day onion territory (approximately 40-42°N latitude) — recommend specific long-day varieties like 'Copra', 'Stuttgarter', 'Patterson', or 'Ailsa Craig' for reliable performance; avoid short-day and unlabeled types from generic seed racks; short-day types will produce poor results. Source named long-day varieties from specialty seed suppliers such as Johnny's Selected Seeds or Fedco Seeds.\nShallots (Allium cepa var. aggregatum): Shallots are a botanical variety of Allium cepa, not a separate species. They form clusters of small, elongated bulbs with a more complex, nuanced flavor than standard onions — milder, sweeter, with a hint of garlic. They are grown similarly to garlic (planted as individual cloves, which multiply into a cluster), prefer well-drained soil, and are started in fall (like garlic) or early spring. 'French Gray Shallot' (sometimes classified as Allium oschaninii) and 'Ambition' are recommended varieties. Shallots are not covered in detail here — they merit their own profile entry given their distinct growing requirements, planting timing, and culinary role.",
+      "designPlacement": "Place onion production in raised beds given the Hegins red clay — in-ground production is possible with heavy amendment but raised beds are strongly preferred for consistent bulb sizing. Transplant outdoors late March to mid-April (Zone 6a last frost typically mid-April); plan for harvest late July to mid-August. Prioritize named long-day storage varieties (Copra for long storage, Ailsa Craig for fresh use) over generic nursery sets or unlabeled short-day types.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "hamamelis-virginiana",
+  "name": {
+    "commonName": [
+      "Witch Hazel",
+      "American Witch Hazel",
+      "Common Witch Hazel"
+    ],
+    "latinName": "Hamamelis virginiana",
+    "family": "Hamamelidaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Nova Scotia west to Minnesota, south to central Florida and eastern Texas; one of the most widespread native large shrubs of the eastern deciduous forest; found in moist woodland understories, forest edges, stream banks, and rocky slopes throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across the entire eastern US from the Great Lakes and upper Midwest south through the Gulf Coast states and west to eastern Texas; present in nearly every state east of the Mississippi and several west of it; one of the most broadly distributed native large shrubs in the eastern half of the country"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; not listed on any state noxious weed list or the federal noxious weed list; does not escape cultivation or naturalize aggressively outside its native range; spreads slowly by root suckers in appropriate habitat but never weedy"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "15-20'; can reach 30' in optimal native woodland conditions",
+    "spread": "15-20'; broadly spreading, multi-stemmed, suckering habit; naturally forms a wide, open, arching canopy; one of the larger native shrubs when fully mature",
+    "spacing": "12-15' from other large shrubs; allow full spread — do not crowd",
+    "growthRate": "Slow to moderate; patient establishment; long-lived",
+    "timeToMaturity": "Blooms from an early age — first flowers within 3-5 years; medicinal harvest from established stems can begin in years 3-5",
+    "lifespan": "Long-lived; essentially permanent in appropriate habitat; colonial over time via root suckers",
+    "deciduousEvergreen": "Deciduous — medium-green leaves throughout summer; good yellow fall color; REMARKABLE: flowers emerge on bare branches after leaf drop in October-December — the only large native shrub to bloom this late in the season; extraordinary seasonal interest when nothing else is flowering",
+    "winterInterest": "Very high — the defining feature of this plant; spidery yellow-orange flowers bloom on bare stems from October through December; no other native woody plant in the eastern US fills this seasonal niche; winter interest is genuinely exceptional"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full sun; tolerates deep shade — native to woodland understory; adaptable across a wide light gradient; one of the more shade-tolerant large native shrubs; performs well at woodland edges where it receives dappled to half-day sun; in Zone 8+ and the Deep South, afternoon shade is beneficial to prevent leaf scorch",
+    "water": "Medium to high; prefers consistent moisture; native to moist woodland edges and stream banks; tolerates occasional flooding and periodic saturation better than most shrubs of its size; in arid western climates, supplemental irrigation is essential — this is not a xeric plant",
+    "drainagePreference": {
+      "description": "Moist, well-drained to wet; notably tolerant of wet soils and seasonal flooding; a good candidate for wet spots and rain garden margins; poor drainage is rarely a problem for this species — it handles saturated conditions better than most large shrubs",
+      "claySoilPerformance": {
+        "rating": "good-excellent",
+        "description": "Good to excellent — one of the more clay-tolerant large native shrubs; fibrous root system handles heavy soil well; tolerates seasonal waterlogging that would damage many other shrubs; performs reliably in clay-loam and even heavy clay with adequate organic matter; clay gardeners across the eastern US and Midwest can plant this species with confidence in unamended or lightly amended clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5; prefers slightly acidic conditions typical of eastern woodland soils; broadly adaptable; alkaline soils (above 7.0) may cause chlorosis over time"
+    },
+    "texturePreference": "Moist, well-drained loam to clay-loam; performs well in a wide range of soil textures provided moisture is adequate; benefits from good organic matter content; tolerates rocky or gravelly woodland soils in its native range",
+    "rootCharacter": "Spreading fibrous root system; suckering habit produces a multi-stemmed colony over time; not aggressive, but will naturalize slowly in good conditions"
+  },
+  "bloom": {
+    "bloomTime": "October-December — after all other trees and shrubs have dropped their leaves; one of the very last woody plants to bloom in the eastern US growing season; flowers may persist into December in mild falls; this bloom timing is one of the most remarkable and distinctive traits of any eastern native plant",
+    "bloomDescription": "Clusters of spidery, ribbon-like petals, approximately 0.75\" long, yellow to yellow-orange; emerge directly from the bare stems after leaf drop; the crinkled, strap-shaped petals have an unmistakable character unlike any other native flower; appear as a soft yellow haze across the bare gray branches; visible from a distance and extraordinarily ornamental in a season when nothing else is flowering; in hard frost the petals curl inward and then unfurl again as temperatures moderate — a frost-tolerance adaptation",
+    "fragrance": "Mildly fragrant — a light, sweet, honey-like scent; not strongly perfumed but pleasant at close range on warm fall days",
+    "flowerSex": "Monoecious — male and female flowers on the same plant; hermaphroditic in practice; self-fertile",
+    "pollination": "Self-fertile; pollinated primarily by late-flying moths and gnats active in the October-December season; the plant has co-evolved with cold-weather pollinators; no partner required for seed set"
+  },
+  "yield": {
+    "edibleParts": "None of culinary significance; bark and leaves are consumed medicinally (see below) but are not edible as food",
+    "harvestSeason": "Bark and twigs: dormant season (fall through early spring); leaves: summer; extract distillation: traditionally performed from late fall through winter",
+    "medicinalUses": "Among the most clinically and commercially significant native medicinal plants in North America — witch hazel distillate (Hamamelis water) is one of the most widely sold botanical products in American drugstores, used topically for hemorrhoids, varicose veins, bruising, skin inflammation, insect bites, razor burn, and general skin toning. The bark, leaves, and twigs all contain tannins (primarily hamamelitannin) and gallic acid with documented astringent and anti-inflammatory properties. The Haudenosaunee (Iroquois) and other Indigenous peoples of the eastern US used witch hazel extensively for skin conditions, sore muscles, and inflammation — one of the most thoroughly documented and clinically validated native plant medicines of eastern North America. Home preparation: bark or leaf tea used as an astringent wash; commercial witch hazel extract is steam-distilled from the bark and twigs. The medicinal yield of this plant is genuine, substantial, and unique among native shrubs — it is not merely ornamental.",
+    "craftOtherYield": "The forked branches were traditionally used as dowsing rods (the origin of the name \"witch hazel\"); dried bark and leaf material for home tinctures and preparations; ornamental cut branches with flowers for fall arrangements — striking and unusual"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; bark and leaf tea safe for topical use; internal use of undiluted extract should be avoided in quantity due to tannin content; commercial witch hazel products are formulated for safe use",
+    "toxicityAnimals": "Not a documented toxin concern; the tannin content could cause digestive upset if consumed by pets in large quantities, but not a primary concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub to small tree layer; upper shrub or edge-of-canopy layer in a food forest"
+    },
+    "roles": [
+      "Medicinal (primary — genuine high-value medicinal yield from bark and leaves; one of the most commercially significant native medicinals)",
+      "Wildlife Support (late-season nectar for moths; nesting habitat; seed food for birds)",
+      "Native Plant Contribution",
+      "Beauty / Seasonal Interest (extraordinary — blooms in the dormant season when nothing else is flowering; fills a unique seasonal niche)",
+      "Nurse Plant (large multi-stemmed structure provides shelter at woodland edge)"
+    ],
+    "companionPlants": [
+      "Lindera benzoin (spicebush — shares moist woodland edge habitat; the classic eastern understory pairing)",
+      "Asimina triloba (paw paw — moist, part-shade conditions; good guild companion)",
+      "Ilex verticillata (winterberry holly — same wet woodland edge conditions; complementary late-season interest)",
+      "Cornus sericea (red-twig dogwood — wet conditions companion)",
+      "Matteuccia struthiopteris (ostrich fern — moist understory ground cover)",
+      "Asarum canadense (wild ginger)",
+      "Allium tricoccum (ramps)",
+      "native ephemerals"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Late-flying moths (primary pollinators — witch hazel bloom timing is specifically synchronized with cold-weather moth activity in October-December; this is one of the only native shrubs providing nectar for moths in this season); small birds (seeds consumed by chickadees, titmice, and other birds in winter); the dense multi-stemmed structure provides significant winter cover and shelter",
+    "hostPlantFor": "Multiple native moth species use witch hazel as a larval host, including the Witch Hazel Leaf Roller (Sciota subfusca) and several other specialist species; the late flowers are a critical nectar resource for moths active in the fall-winter shoulder season — a genuinely unusual and ecologically important wildlife function",
+    "nestingHabitat": "The large, dense, multi-stemmed arching structure is excellent nesting habitat for small songbirds; the shrub's size and branching complexity make it one of the better nesting shrubs for its size class"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — generally not heavily browsed; the aromatic bark and astringent foliage deter some browsing; not heavily targeted by deer in areas with typical pressure; more deer-resistant than many native shrubs of comparable size; not deer-proof — young plants should be protected until established in any area with regular deer activity"
+    },
+    "salt": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate; not recommended for roadside planting or coastal salt spray exposure; established plants may tolerate light incidental salt but will show damage from repeated exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; established plants handle short dry periods; prefers consistent moisture; drought stress may reduce bloom; in the arid West or during prolonged summer drought, supplemental watering is necessary"
+    },
+    "other": "Excellent shade tolerance — one of the more shade-tolerant large native shrubs; performs in deep woodland shade though flowering is best with more light; cold hardy to Zone 3; notably tolerant of wet soils and occasional flooding; good wind tolerance once established; broadly adaptable to difficult conditions once established"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; essentially self-sustaining in appropriate conditions",
+    "pruningNotes": "Minimal pruning required. Remove dead or damaged wood in early spring. If rejuvenation is needed, the oldest canes can be removed to the base to encourage fresh multi-stem growth. Do not prune in late summer or fall — flower buds for the October bloom set on current-year wood and pruning will sacrifice the flowering display. Allow root suckers to naturalize if a colony effect is desired (appropriate at woodland edges and in native plant gardens); remove suckers to maintain a single-specimen form. The plant is slow enough that excessive size is rarely a problem in a naturalistic setting.",
+    "propagationMethods": [
+      "Seed (requires warm stratification followed by cold stratification — double dormancy; germination occurs 18 months after collection; challenging but rewarding; collect seeds before the capsules fully open and eject them — seeds are forcibly ejected up to 30' with an audible pop as capsules dry); softwood cuttings (June-July; moderate success with rooting hormone); layering (reliable — bend a low branch to the ground, pin, and allow to root over a full growing season before severing); division of rooted suckers (easiest method for home gardeners)"
+    ]
+  },
+  "cultivarNotes": "For native plant value and ecological function, the straight species (H. virginiana) is always the preferred choice across all zones. It is the hardiest witch hazel, the most ecologically integrated, and the only one that flowers in true fall (October-December). The widely available H. x intermedia hybrids ('Arnold Promise', 'Jelena', 'Diane', 'Pallida') are showier in bloom but flower in late winter (February-March) — a fundamentally different seasonal role. They also lack native plant value.\nZone 3-5: The straight species is the clear choice; H. x intermedia cultivars are marginally hardy in this range and often suffer dieback. H. virginiana is fully reliable to Zone 3 with no winter protection.\nZone 6-7: Both the straight species and H. x intermedia hybrids perform well, but they serve different purposes. Choose H. virginiana for fall bloom, native ecology, and medicinal use. Choose H. x intermedia only if late-winter bloom is the specific goal and native provenance is not a priority.\nZone 8+: H. virginiana is hardy through Zone 8 but may struggle with heat stress in the Deep South and arid Southwest. H. x intermedia cultivars are similarly limited. In hot climates, site in afternoon shade with consistent moisture. Southern gardeners may find the straight species performs better than hybrids due to its deeper genetic adaptation to southeastern US conditions.\nIf purchasing, seek out H. virginiana from a reputable native plant nursery — not a big-box cultivar selection. The species comes true from seed and regionally sourced plants are preferable for local ecological adaptation.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden",
+      "food forest understory and edge",
+      "native plant garden",
+      "rain garden margin",
+      "wet areas",
+      "medicinal garden",
+      "wildlife garden",
+      "large shrub border"
+    ],
+    "designPlacement": "Best suited to woodland edges, food forest understory, or naturalized shrub borders where its 15-20' mature size can develop without constraint. The fall bloom timing (October-December) fills a seasonal niche that no other native woody plant occupies — consider placing it where the bare-branch flowers will be visible from a window, path, or seating area. Pairs naturally with Lindera benzoin (spicebush), Ilex verticillata (winterberry), and Asimina triloba (paw paw) in moist woodland edge plantings. The medicinal yield adds genuine functional value: bark and leaf harvest for home witch hazel preparations is entirely practical from an established plant. Not appropriate for formal beds or areas with strict height limits below 10'.",
+    "acquisitionStatus": "To source (native plant nursery; specify straight species H. virginiana, not hybrid; regionally sourced seed stock preferred)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamamelis_virginiana",
+    "inaturalist": "https://www.inaturalist.org/taxa/51970-Hamamelis-virginiana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a749"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — H. virginiana is native to Pennsylvania; commonly found in moist woodland edges, stream banks, and forest understories throughout the state; a genuine eastern US native with deep regional ecological roots",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed on the PA Dept. of Agriculture invasive species list or flagged by DCNR; a desirable native species",
+      "drainage": "The Hegins red clay is well within this plant's tolerance; in-ground planting is practical without raised beds; top-dress with 2-3\" of leaf mold or composted bark to improve the surface layer and mimic the woodland duff H. virginiana grows in naturally; the site's drainage issues after heavy rain are a non-issue for this species, which is native to seasonally wet conditions",
+      "soil": "The Hegins red clay-loam is a suitable substrate; amend the planting hole with leaf mold and composted bark to create a transition zone that mimics native woodland soil; no need for raised beds or extensive soil replacement",
+      "cultivarNotes": "The straight species H. virginiana is the unambiguous best choice. It is native to Pennsylvania, cold-hardy well beyond Zone 6a, and flowers during the October-December window when nothing else is blooming in the Hegins landscape. There is no reason to choose a hybrid for this site.",
+      "designPlacement": "Too large (15-20') for Sections A or C (5' height limit). An ideal candidate for the food forest edge or a dedicated native/medicinal planting area at the back of the property where it can naturalize and spread. Place it in the paw paw guild understory or at the edge of a moist woodland area, paired with Lindera benzoin. Site it where the October-December flowers will be visible from a window or path — this plant's bloom season is unique on the property and should be enjoyed, not hidden behind the garage.",
+      "siteObservations": "The Hegins red clay and drainage issues are a non-concern for this species — H. virginiana is native to seasonally wet woodland soils and handles clay well. Active deer pressure from the east wildlife corridor is a moderate concern for young plants only; protect with fencing or caging for the first 2-3 years until established; once mature, the aromatic bark and astringent foliage provide moderate natural deterrence. The north-facing aspects of Sections A and B are irrelevant since the plant's size excludes it from those beds regardless. The food forest area or back-property woodland edge is the appropriate location, where its suckering habit is an asset rather than a management issue."
+    }
+  }
+}

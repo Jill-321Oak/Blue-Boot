@@ -1,0 +1,159 @@
+{
+  "id": "ajuga-reptans",
+  "name": {
+    "commonName": [
+      "Bugleweed",
+      "Carpet Bugle"
+    ],
+    "latinName": "Ajuga reptans",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and southwestern Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe; widely naturalized in moist, disturbed areas, woodland edges, and lawns across the eastern US and Pacific NW; well-established as a garden escapee in many regions"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "US-wide — Ajuga reptans is considered invasive or a plant of concern in several US states; it spreads by stolons and self-seeds; can colonize native woodland understories and lawns; listed as invasive in some mid-Atlantic and northeastern states; gardeners in the Pacific NW should also be aware of its escape potential; assess your state's invasive plant list before planting, particularly if you garden near natural woodland edges or riparian areas"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "3-6\" in leaf; flower spikes to 6-9\"",
+    "spread": "12-24\" per plant; spreads by surface runners (stolons) rapidly",
+    "spacing": "6-12\" (wide spacing for faster coverage; closer for quicker closure)",
+    "growthRate": "Fast — one of the quickest-establishing ground covers available",
+    "timeToMaturity": "Full coverage within one growing season",
+    "lifespan": "Long-lived; essentially permanent once established",
+    "deciduousEvergreen": "Semi-evergreen to evergreen — foliage persists through winter in zone 6a; one of the few ground covers that looks presentable in February",
+    "winterInterest": "Good — rosettes of foliage (often with purple-bronze tones) remain visible through winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to full shade; genuinely tolerates the full range — one of the most shade-adaptable flowering ground covers available",
+    "water": "Medium; tolerates moist conditions well; more drought tolerant in shade than sun",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates clay and moist soils that would kill thyme or lavender; this is its primary advantage over creeping thyme for north-facing front beds",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good to moderate in heavy clay; clay holds moisture which suits Ajuga through summer, but winter saturation can cause crown rot in poorly draining sites; in regions with wet winters, ensure crowns are not sitting in standing water; raised or sloped planting sites reduce risk; overall one of the better ground covers for clay-heavy situations"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "5.0-7.0"
+    },
+    "texturePreference": "Highly adaptable; clay, loam, and moist soils all acceptable",
+    "rootCharacter": "Shallow fibrous roots; spreads primarily by surface stolons (runners) that root at nodes — vigorous lateral spread is the defining characteristic"
+  },
+  "bloom": {
+    "bloomTime": "April to June",
+    "bloomDescription": "Dense upright spikes of small violet-blue to purple flowers; covers the mat at peak bloom; flower color is rich and true blue-purple — relatively rare in the plant world",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees and bumblebees work the flowers; good early-season pollinator value"
+  },
+  "yield": {
+    "edibleParts": "Leaves reportedly used as a salad ingredient in some European traditions; not commonly used",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Traditional wound-healing and anti-inflammatory herb; used in European folk medicine; astringent properties",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic; edible",
+    "toxicityAnimals": "Generally considered safe; mild GI upset possible if large quantities ingested",
+    "allelopathy": "Some evidence of mild allelopathic effect on grass — an advantage when used as a lawn substitute or bed edger, as it actively resists grass encroachment",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (primary)",
+      "Insect Attractor (early spring bloom)",
+      "Beauty"
+    ],
+    "companionPlants": [
+      "Spring bulbs (crocus and tulips naturalize beautifully through ajuga)",
+      "hellebore (same shade/moisture preference)",
+      "astilbe",
+      "hostas"
+    ],
+    "antagonists": [
+      "Will compete with and potentially outcompete small or delicate plants — give aggressive neighbors like echinacea and lilac enough space; edge regularly to contain"
+    ],
+    "coppiceable": "Mow or shear after bloom (June) to remove spent flower spikes and encourage fresh dense foliage; renovate thin patches by division"
+  },
+  "wildlife": {
+    "attracts": "Bees and bumblebees (good early spring pollen and nectar source)",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Dense mat provides ground-level cover for beetles and other beneficial insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally avoided; not heavily browsed"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — better in part shade; will struggle in hot, dry, full sun"
+    },
+    "other": "Tolerates clay, moist soil, part to full shade, and foot traffic (light); genuinely cold-hardy to Zone 3"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — but requires edging to prevent spread into lawn and adjacent areas",
+    "pruningNotes": "Shear flower spikes after bloom for a tidy appearance. Divide congested patches every 3-4 years. Edge beds firmly each spring — stolons extend beyond the bed edge readily. In north-facing front beds, install a physical edging barrier (metal or plastic) at the bed perimeter to contain spread toward the path.",
+    "propagationMethods": [
+      "Division (extremely easy — simply pull rooted stolons and replant)",
+      "stem sections with nodes (root readily in moist soil)"
+    ]
+  },
+  "cultivarNotes": "For a purple/pink/yellow palette in north-facing front beds, dark-foliaged cultivars create the most dramatic contrast: 'Black Scallop' (near-black purple scalloped leaves, deep violet flowers — the most striking cultivar; excellent contrast against yellow rose); 'Catlin's Giant' (large bronze-green leaves, larger flower spikes, more vigorous than most — good for quick coverage); 'Burgundy Glow' (burgundy, cream, and pink variegated foliage — softer, more colorful effect); 'Chocolate Chip' / 'Valfredda' (tiny chocolate-colored leaves, very compact at 2\" — excellent for tight spaces between stepping stones). For a purple/yellow scheme, 'Black Scallop' is the standout choice.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Ground cover",
+      "shade garden",
+      "front border zone",
+      "lawn alternative",
+      "bank stabilization"
+    ],
+    "designPlacement": "Versatile shade-tolerant ground cover suited to the front zone of shaded or semi-shaded beds; use as a carpet beneath taller shrubs and perennials; one of the few flowering ground covers that performs in full shade; plant in drifts of a single cultivar for strong visual effect; install physical edging where spread needs to be contained; suitable for slopes and banks where root-node spread aids erosion control",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajuga_reptans",
+    "inaturalist": "https://www.inaturalist.org/taxa/56099-Ajuga-reptans",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b200"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA — European introduction; naturalized but not a PA native species",
+      "paInvasiveStatus": "Ajuga reptans is not currently on Pennsylvania's official noxious weed list, but it is widely naturalized throughout the state and noted as a garden escapee in some PA natural areas contexts; plant with edging controls near wooded edges; monitor for spread beyond intended planting areas",
+      "drainage": "Hegins red clay — in-ground planting generally acceptable; the north-facing front bed location reduces summer drying stress; monitor drainage in the lowest points of the bed during winter wet periods and avoid planting in any areas where water pools after heavy rain",
+      "soil": "Hegins red clay — clay tolerant and well-suited to site conditions; light amendment with compost at planting improves establishment speed but is not required; no grit or sand amendment needed",
+      "cultivarNotes": "'Black Scallop' is the top recommendation for Hegins — reliably cold-hardy to Zone 3, so it handles Zone 6a winters without issue; the near-black foliage creates maximum contrast against the yellow climbing rose and provides strong winter rosette interest in the cold north-facing microclimate; 'Catlin's Giant' is a good secondary choice for faster coverage of larger bare areas",
+      "designPlacement": "Section A front beds — preferred alternative to creeping thyme in the shadier or wetter portions of the north-facing bed; tolerates the red clay drainage conditions that challenge thyme; 'Black Scallop' pairs well with the yellow climbing rose above and the purple/pink palette; also a candidate for Section B garage strip where shade from the food forest increases over time; install metal edging at all bed perimeters to contain stolon spread\nPennsylvania — Hegins Site Observations:\nSection A is north-facing with a cold microclimate, partial shade, and 5' height limit — ideal conditions for Ajuga; the clay soil and occasional moisture retention from the slope actually suit this plant better than creeping thyme; 'Black Scallop' foliage remains attractive through winter, which is a significant advantage in a visible front bed; active deer pressure in the area is less of a concern here as Ajuga is generally deer-resistant; monitor stolon spread toward the central path and the lawn edge each spring; edge firmly before stolons root beyond the bed boundary",
+      "siteObservations": null
+    }
+  }
+}

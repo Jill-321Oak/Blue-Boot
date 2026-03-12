@@ -1,0 +1,159 @@
+{
+  "id": "chenopodium-album",
+  "name": {
+    "commonName": [
+      "Lamb's Quarters",
+      "Common Lambsquarters",
+      "Fat Hen",
+      "White Goosefoot",
+      "Wild Spinach"
+    ],
+    "latinName": "Chenopodium album",
+    "family": "Amaranthaceae (formerly Chenopodiaceae)"
+  },
+  "range": {
+    "nativeRange": "Eurasia (widely disputed as truly native anywhere — likely a very ancient cultigen or cosmopolitan weed); now naturalized on every inhabited continent; one of the most widespread annual weeds in the world",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Eurasia and fully naturalized throughout all 48 contiguous states; present in virtually every county in the lower 48 and in every habitat type from gardens and roadsides to cropland and disturbed natural areas; behaves as a naturalized annual weed"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as a noxious weed or regulated invasive in the lower 48 states as of this writing; however, it is highly prolific and colonizes disturbed soil in enormous quantities wherever it occurs; in organic and conventional agriculture it is one of the most economically significant crop weeds; in permaculture and food forest contexts it is typically a welcome self-sowing vegetable rather than a problem; check your state's noxious weed list for any local designations; manage by harvesting heavily and pulling before seed set if spread needs limiting"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "Annual — germinates in zones 3-10 across the lower 48; no hardiness zone applies"
+    }
+  },
+  "description": {
+    "height": "1-5' (30-150 cm); typically 2-3' in garden conditions; can reach 5'+ in rich, disturbed soil",
+    "spread": "6-18\" per plant; individual plants do not spread vegetatively but self-seed prolifically to colonize an area",
+    "spacing": "Allow to self-sow naturally; if transplanting, space 12\" apart; in practice, thin volunteers to 6-12\" for productive harvest plants",
+    "growthRate": "Very fast — germinates and establishes quickly in spring and again after summer rains; reaches harvestable size within 3-4 weeks of germination",
+    "timeToMaturity": "Harvestable from seedling stage onward; most productive as a leaf green in the first 4-6 weeks before flowering; full seed maturity by late summer",
+    "lifespan": "Annual — completes its cycle in one season; perpetuates via prolific self-seeding; treat as a self-sowing annual vegetable that will reappear each year without intervention",
+    "deciduousEvergreen": "Annual — dies after setting seed; in Zone 6a, germinates April-May (sometimes earlier), flowers July-August, seeds ripen August-September; timing shifts earlier in warmer zones and later in cooler zones",
+    "winterInterest": "None; dead stalks may persist but are not ornamentally significant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive and palatable in full sun; tolerates part shade with reduced growth; volunteers freely in both conditions",
+    "water": "Low to medium; highly drought-tolerant once established; germinates best with consistent moisture; thrives in disturbed, dry soil that would stress more sensitive plants",
+    "drainagePreference": {
+      "description": "Adaptable across the full range of soil drainage conditions encountered in the lower 48; tolerates clay, compacted, and disturbed soils as readily as loam or sandy ground; not bothered by periodic wetness; performs well in both the wet clay of the upper Midwest and mid-Atlantic and the droughty sandy soils of the Southeast and Great Plains",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the few annual vegetables that performs without any soil amendment in heavy clay; roots penetrate compacted clay and biomass improves structure over successive seasons"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; highly adaptable; tolerates acid to moderately alkaline soils; succeeds across the pH range typical of lower 48 garden soils from the acidic Southeast to the alkaline West"
+    },
+    "texturePreference": "Thrives in disturbed, nitrogen-rich soil of any texture; particularly vigorous in clay or loam with organic matter; a reliable indicator of fertile, disturbed, high-nitrogen ground — its presence signals good garden soil",
+    "rootCharacter": "Taproot with fibrous lateral roots; moderately deep; breaks up compacted clay somewhat; roots are not aggressive or spreading; entire plant pulls easily when young"
+  },
+  "bloom": {
+    "bloomTime": "July-September in Zone 6a; shifts earlier (June-August) in warmer southern zones and later (August-October) in cooler northern zones",
+    "bloomDescription": "Inconspicuous dense clusters of tiny green flowers on erect branching spikes; not ornamentally significant; flower clusters resemble compact green catkins; each plant can produce tens of thousands to hundreds of thousands of seeds; remove before seed set if self-seeding needs to be limited",
+    "fragrance": "None notable; leaves have a faintly mealy, earthy scent when crushed",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Wind-pollinated; self-fertile; no pollinators required"
+  },
+  "yield": {
+    "edibleParts": "Young leaves and growing tips are the primary harvest — eaten raw in salads when very young and tender, or cooked as a spinach substitute (steamed, sautéed, added to soups and stir-fries). Flavor is mild, slightly earthy, and pleasant — comparable to spinach or Good King Henry (Chenopodium bonus-henricus) but with less mucilaginous texture. The white mealy coating on young leaves is normal and harmless. Best harvested before flowering; once the plant bolts, leaves become tougher and somewhat more bitter. Seeds are fully edible when cooked — nutritious, grain-like, used like quinoa (same genus); rinse thoroughly before cooking to remove saponins. Seeds can also be dried and ground into flour as a traditional grain.",
+    "harvestSeason": "Leaves: April-July (peak April-June before bolting) in Zone 6a; timing shifts by 2-4 weeks depending on zone; Seeds: August-September when ripe and dry",
+    "medicinalUses": "Historically used in folk medicine as a mild laxative and anti-inflammatory poultice for skin irritations and insect stings; leaves applied topically for minor burns and rashes in traditional use. Exceptionally nutritious: among the highest protein content of any leafy green vegetable, and rich in calcium, iron, phosphorus, potassium, and vitamins A and C — nutritionally superior to spinach in several measures. No significant modern clinical applications, but its nutritional profile makes it genuinely valuable as a food.",
+    "craftOtherYield": "None significant; dried stalks are occasionally used as kindling"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — oxalic acid: Lamb's quarters contains significant oxalic acid, comparable to spinach and sorrel. Cooking reduces oxalic acid considerably and is the recommended preparation for large servings. Do not consume very large quantities raw on a regular basis; moderate raw consumption (as a salad green) is fine for healthy adults. Individuals with kidney stones (calcium oxalate type), gout, or rheumatoid arthritis should limit or avoid consumption. The saponin coating on seeds must be rinsed off before cooking; eating large amounts of unrinsed seeds may cause digestive upset. In normal culinary quantities, these cautions are academic — this plant has been eaten safely by humans across cultures for thousands of years.",
+    "toxicityAnimals": "Oxalic acid content is a concern for dogs and cats in large quantities; do not feed in significant amounts to pets. Livestock (poultry, pigs) have historically eaten this plant; large amounts may cause issues due to oxalates and nitrates that can accumulate in nitrogen-rich soil. Horses are more sensitive to oxalate-containing plants — exercise caution.",
+    "allelopathy": "None well-documented; competes with crop plants through shading and nutrient uptake rather than chemical suppression",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer; self-sowing annual ground layer"
+    },
+    "roles": [
+      "Food — self-sowing annual vegetable (primary role; one of the most nutritious freely available wild greens; treat as a no-effort salad and cooked green crop in disturbed beds)",
+      "Dynamic Accumulator (deep taproot mines subsoil nutrients; entire plant is biomass-rich and makes excellent compost or chop-and-drop mulch)",
+      "Nitrogen Indicator (strong presence signals high-nitrogen, fertile, disturbed soil — use its appearance as a site quality signal)",
+      "Ground Cover (dense leafy growth in early season suppresses competing weeds in its footprint)",
+      "Bird Food (prolific seed producer; seed heads persist and feed songbirds through fall and winter)",
+      "Pioneer Species (colonizes bare disturbed soil, building organic matter as it decays; ideal gap-filler in newly established food forest areas)"
+    ],
+    "companionPlants": [
+      "Comfrey (nitrogen-rich, disturbed soil companion; similar cultural conditions)",
+      "corn and squash (traditional companion — a common Three Sisters weed associate that is now sometimes considered a fourth element; provides ground cover and edible greens)",
+      "tomatoes and brassicas (tolerates presence in vegetable beds; harvest young plants as thinnings)",
+      "Good King Henry (related species filling a similar culinary role as a perennial counterpart)",
+      "fruit tree guilds (welcome volunteer in the disturbed ground of newly planted guilds)"
+    ],
+    "antagonists": [
+      "Can compete aggressively with shallow-rooted seedlings and transplants if allowed to grow large before the crop establishes; manage by harvesting or pulling rather than leaving to dominate"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Prolific seed producer — seeds are eaten by a wide range of songbirds including sparrows, finches, juncos, towhees, and doves; one of the more significant annual seed plants for wild bird food across the lower 48; small insects visit flowers",
+    "hostPlantFor": "Several moth and butterfly species in the Amaranthaceae family use Chenopodium species as larval hosts, including some noctuid moths (owlet moths) and the gray hairstreak (Strymon melinus); supports the general garden invertebrate food web",
+    "nestingHabitat": "None significant; annual growth habit does not provide meaningful nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Low-moderate — deer will browse lamb's quarters readily; the plant is palatable and nutritious, so deer pressure will reduce it. However, its prolific self-seeding and fast growth provide resilience — a browsed planting will regenerate from seed. In areas with active deer pressure, expect browsing but not elimination; treat it as a managed self-sowing weed crop rather than a specimen planting that requires protection."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates roadside salt spray better than most vegetables"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "High — one of the more drought-tolerant leafy greens; maintains growth in dry periods that would wilt spinach and lettuce; established plants in clay soil tolerate extended dry spells"
+    },
+    "other": "Excellent heat tolerance across the lower 48, including the humid summers of the Southeast and mid-Atlantic and the hot, dry summers of the Southwest and Great Plains; tolerates compacted, disturbed, and poor soils; frost-sensitive (annual); seeds have very long soil viability (20-40 years reported) — once established, it will self-sow indefinitely"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially zero — lamb's quarters requires no planting, watering, fertilizing, or care once it has self-seeded into a site; the only management decisions are when and how much to harvest, and whether to allow seed set",
+    "pruningNotes": "Harvest young growing tips regularly to delay bolting and extend the leaf harvest window. If self-seeding needs to be managed, pull plants or cut before seed heads ripen (late July in Zone 6a; timing varies by zone). To encourage self-sowing for next year, allow at least some plants to complete their seed cycle and drop seed on bare soil.",
+    "propagationMethods": [
+      "Self-sows prolifically without any intervention — once present in a site",
+      "it will return annually; direct seed into bare soil in early spring if establishing from scratch (surface sow; needs light to germinate); no special treatment required"
+    ]
+  },
+  "cultivarNotes": "No named cultivars exist for Chenopodium album — the wild species is always grown. Unlike its close relative quinoa (Chenopodium quinoa), lamb's quarters has not been domesticated into named varieties. Across the lower 48, the plant is obtained from seed libraries, foraging-focused seed suppliers (Experimental Farm Network, Prairie Moon Nursery occasionally), or simply by allowing existing volunteers to self-sow — it is almost certainly already present or soon to arrive in any disturbed garden soil throughout the contiguous US, from the Pacific Northwest to the Gulf Coast. Magenta Spreen (Chenopodium giganteum) is a related ornamental/edible species with similar uses and a striking magenta growing tip — consider as a companion or aesthetic substitute where ornamental interest is desired; it performs across the same zone range (zones 3-10 as an annual).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Self-sowing annual vegetable in food forest disturbed areas",
+      "vegetable beds",
+      "and orchard guild ground layer; wild green harvest plant; bird food planting; gap-filler in newly established food forest beds; suitable for any food-production zone across the lower 48 where bare or disturbed soil is present"
+    ],
+    "designPlacement": "Best treated as a welcome volunteer rather than a deliberate specimen planting. In any food garden or food forest across the lower 48, lamb's quarters will self-select into disturbed soil and bare gaps — the design task is to recognize it, allow it where it is useful, and manage it where it competes with more deliberate plantings. It is most valuable filling bare ground in newly established guilds, orchard understories, and vegetable beds during the establishment phase. It is generally not appropriate for ornamental beds where its weedy character conflicts with design intent.",
+    "acquisitionStatus": "No acquisition needed across the lower 48 — allow to self-establish; likely already present or arriving naturally in any disturbed garden soil\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chenopodium_album",
+    "inaturalist": "https://www.inaturalist.org/taxa/58127-Chenopodium-album",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced from Eurasia; naturalized throughout the Commonwealth and behaves as a common garden and field weed",
+      "paInvasiveStatus": "Not listed as invasive or noxious in Pennsylvania; prolific self-seeder but not regulated",
+      "drainage": "Grows vigorously in the red clay, compacted, and construction-disturbed soils typical of the Hegins site without any amendment; tolerates periodic standing water after heavy rain",
+      "soil": "Performs without amendment in the red clay of central Pennsylvania; most vigorous where soil has been recently disturbed or where nitrogen is elevated (compost, manure, decomposing wood chip areas)",
+      "cultivarNotes": "Lamb's quarters is almost certainly already present or will arrive naturally in any disturbed garden soil in the Hegins area; no sourcing effort needed. Treat it as a self-managing annual vegetable volunteer.",
+      "designPlacement": "At the Hegins site, lamb's quarters will almost certainly appear on its own in any disturbed bed. Encourage it in the disturbed-soil zones around the food forest guild areas (apple, paw paw, mulberry), where it fills bare ground productively while the guild establishes. Not appropriate for Sections A or C (ornamental/fragrance beds). In Section B (garage strip, kitchen-adjacent), it is a practical and useful volunteer — harvest young leaves for the kitchen and allow a few plants to seed for birds. Its high-nutrition greens make it worth encouraging wherever ground disturbance creates bare soil in the food production zones.",
+      "siteObservations": null
+    }
+  }
+}

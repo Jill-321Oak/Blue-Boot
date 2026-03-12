@@ -1,0 +1,168 @@
+{
+  "id": "origanum-vulgare",
+  "name": {
+    "commonName": [
+      "Oregano",
+      "Wild Marjoram",
+      "Common Oregano"
+    ],
+    "latinName": "Origanum vulgare",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean Europe and western Asia; widely naturalized across temperate North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Extensively naturalized across much of the eastern US, Pacific Northwest, and scattered western states, primarily in disturbed ground, roadsides, and old fields. Established populations occur from New England through the mid-Atlantic, Midwest, and into the northern Rockies."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive or noxious in any US state. Spreads by rhizomes and self-seeding and can colonize adjacent ground, but does not displace native vegetation aggressively enough to warrant regulatory status. Manage with root barriers or edging where spread into lawn or adjacent plantings is unwanted. Not considered a threat to natural areas at the federal or state level."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 (hardy varieties to Zone 4; Mediterranean types may need Zone 5+ or winter protection)"
+    }
+  },
+  "description": {
+    "height": "12-24\" (highly variable — compact to spreading depending on cultivar and conditions)",
+    "spread": "12-24\"; spreads by creeping rhizomes to form colonies; self-seeds moderately",
+    "spacing": "12-18\"",
+    "growthRate": "Moderate to fast; establishes readily and begins spreading in year 2",
+    "timeToMaturity": "Productive from first year; harvest lightly in year 1, heavily from year 2",
+    "lifespan": "Long-lived perennial; 5-10+ years; self-renews by rhizome and seed",
+    "deciduousEvergreen": "Semi-evergreen — foliage often persists through mild winters in Zone 6-7; dies back to the ground in hard winters (Zone 5 and colder) but reliably returns",
+    "winterInterest": "Low to moderate — woody stems and some foliage visible in winter; not ornamentally significant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade with reduced aromatic intensity. In hotter climates (Zone 8+), light afternoon shade can prevent stress without sacrificing much oil production. In cooler or northern zones, full sun is essential for best flavor.",
+    "water": "Low to medium; drought tolerant once established; overwatering reduces aromatic intensity. In arid western climates, occasional deep watering during summer dry spells maintains productivity; in the humid East, supplemental water is rarely needed.",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average soil; susceptible to root rot in poorly-drained or waterlogged conditions. Oregano's Mediterranean origins mean it performs best in soils that dry out between waterings. Raised beds, mounded planting, or slope positioning all improve performance in heavy soils.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Oregano can grow in clay soils if drainage is improved — amending with coarse sand, gravel, or organic matter to break up compaction is effective. Unamended heavy clay with standing water will cause root rot within a season or two. Mounding the planting area 4-6\" above grade helps significantly. In amended or well-drained clay, oregano performs adequately but will never match the aromatic intensity it achieves in lean, gravelly soil."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline soil; lean soil actually concentrates aromatic oils"
+    },
+    "texturePreference": "Lean to average; does not need fertile soil; excess fertility produces lush foliage with diluted flavor. Performs best in sandy, gravelly, or rocky soils that mimic its Mediterranean habitat. Avoid rich compost-heavy beds — the growth will be vigorous but the herb will lack culinary punch.",
+    "rootCharacter": "Spreading rhizomatous root system; colonizes gradually; fibrous and shallow"
+  },
+  "bloom": {
+    "bloomTime": "July-September",
+    "bloomDescription": "Dense clusters of tiny pink-purple to white tubular flowers on branching stems; individually small but collectively attractive; the entire plant in bloom is covered with a soft pink-purple haze",
+    "fragrance": "Strongly aromatic — the characteristic oregano/marjoram scent from volatile oils (primarily carvacrol and thymol); some cultivars (especially 'Greek' or Origanum vulgare subsp. hirtum) are far more aromatic than the straight species; the common form naturalized in eastern North America often lacks strong flavor compared to Mediterranean cultivars",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant during bloom — bees, butterflies, and beneficial insects work oregano flowers intensively; in flower, it is one of the most insect-visited herbs in the garden"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers (one of the most important culinary herbs; pizza, pasta, sauces, Mediterranean cooking; used fresh or dried; dried intensifies flavor)",
+    "harvestSeason": "Leaves year-round (harvest light in winter); harvest in bulk just before flowering for strongest flavor and best drying",
+    "medicinalUses": "Antimicrobial (carvacrol and thymol are documented antibacterials and antifungals); respiratory support; digestive aid; oregano oil (concentrated essential oil) is used medicinally; traditional wound-healing herb",
+    "craftOtherYield": "Dried herb; essential oil"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe culinary herb; oregano essential oil is potent — use diluted",
+    "toxicityAnimals": "Generally safe in culinary quantities; large amounts may cause GI upset in dogs and cats; essential oil should not be used on or around pets",
+    "allelopathy": "Some evidence of mild allelopathic effects from volatile oils on neighboring seedlings; space appropriately",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Food (culinary herb — primary)",
+      "Medicinal (antimicrobial, respiratory)",
+      "Insect Attractor (excellent during bloom)",
+      "Pest Confuser (aromatic foliage deters some pest insects)",
+      "Ground Cover & Weed Suppression"
+    ],
+    "companionPlants": [
+      "Tomatoes (classic companion — oregano said to improve tomato flavor)",
+      "peppers",
+      "squash; excellent in herb garden alongside thyme",
+      "rosemary",
+      "and sage; compatible with most garden plants"
+    ],
+    "antagonists": [
+      "Avoid planting adjacent to plants needing highly moist",
+      "rich conditions — oregano's preferred lean",
+      "dry conditions are incompatible with neighboring plants that need consistent moisture"
+    ],
+    "coppiceable": "Cut back by half in early summer and again after bloom to encourage fresh growth; cut to the ground in early spring before new growth emerges; responds vigorously"
+  },
+  "wildlife": {
+    "attracts": "Bees and butterflies (excellent during bloom — one of the most bee-worked herbs in flower), beneficial wasps and hoverflies, ground beetles",
+    "hostPlantFor": "Some native Lepidoptera use Origanum species; not a primary host",
+    "nestingHabitat": "Dense mounding foliage provides minimal ground-level cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic; among the most reliably deer-resistant herbs. Carvacrol and thymol oils make foliage unpalatable to deer even under heavy browse pressure. Rarely browsed at any growth stage. One of the safest herbs to plant without fencing in deer-heavy areas across the eastern US and Midwest."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates moderate road salt exposure and recovers from incidental salt spray; not suited to direct coastal salt wind but handles typical roadside conditions"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; Mediterranean origin confers strong drought tolerance; performs well through extended dry spells in Zones 6-9 without supplemental water"
+    },
+    "other": "Tolerates lean soil and rocky conditions; performs in Mediterranean-style beds; handles wind exposure well; tolerates light frost without damage; one of the most reliable perennial herbs for a low-maintenance herb garden"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Cut back by one-third to one-half in late spring to encourage bushier, more compact growth. Cut back after flowering in late summer. Cut to the ground in early spring before new growth to remove woody old stems. Divide crowns every 3-4 years when they become woody and open in the center.",
+    "propagationMethods": [
+      "Division (easy — divide in spring)",
+      "stem cuttings (root very readily in summer)",
+      "seed (easy — direct sow in spring; flavor varies from seed so vegetative propagation of a good-flavored plant is preferred)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "The straight species naturalized in eastern North America (sometimes called \"wild oregano\") often has mild flavor — it produces flowers and appearance but lacks the intense flavor of culinary varieties. For best culinary quality across the lower 48:\n**Zone 3-5 (cold climates):** 'Greek' oregano (Origanum vulgare subsp. hirtum) is the best choice — white flowers, intensely flavored, reliably hardy to Zone 5. In Zone 3-4, mulch crowns heavily in winter or grow in sheltered microclimates. 'Hot and Spicy' is another hardy, pungent selection that performs well in cold-winter areas.\n**Zone 6-7 (temperate):** 'Greek' oregano remains the top recommendation. 'Italian' oregano (O. x majoricum or O. vulgare 'Compactum') is slightly less intense but very compact and well-suited to edging and containers. All standard culinary cultivars perform well in this zone range.\n**Zone 8-9 (warm climates):** 'Greek' oregano still excels but benefits from afternoon shade in the hottest areas. Mexican oregano (Lippia graveolens — a different genus entirely) is the traditional choice for Tex-Mex and Southwestern cuisine and thrives in hot, dry conditions where true oregano may struggle with summer heat and humidity. Southern growers should also consider 'Kent Beauty' (ornamental, not culinary) for decorative use.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "kitchen garden",
+      "Mediterranean-style bed",
+      "path edging",
+      "rock garden",
+      "companion planting throughout food forest"
+    ],
+    "designPlacement": "Place in full sun to maximize aromatic oil production. Excellent as path edging, border front, or ground cover in herb spirals and Mediterranean-style beds. Position near kitchen access for frequent harvest. Works well interplanted with other drought-tolerant aromatics (thyme, sage, lavender). Keep away from moisture-loving neighbors. In mixed borders, use at the front where its 12-24\" height won't be shaded out. Responds well to container culture where garden soil is too heavy or wet.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Origanum_vulgare",
+    "inaturalist": "https://www.inaturalist.org/taxa/61396-Origanum-vulgare",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281411"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No. Not native to Pennsylvania. Naturalized throughout the state in disturbed areas, roadsides, and old fields, particularly in the Ridge and Valley region.",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Same as general Invasive field — not regulated in PA.",
+      "drainage": "In the Hegins red clay, plant oregano in raised or mounded positions with generous gravel and coarse organic matter worked in. The compacted, drainage-impaired clay at this site is a poor fit for in-ground planting without amendment. Section B's garage strip beds or raised herb beds are the practical approach — avoid low spots where water pools after rain.",
+      "soil": "At the Hegins site, the heavy red clay should be amended with coarse sand or gravel rather than compost. Do not enrich the soil — oregano thrives on neglect in lean conditions. If planting in raised beds with imported soil, use a sandy or gravelly mix rather than standard potting soil.",
+      "cultivarNotes": "'Greek' oregano (subsp. hirtum) is the first recommendation for both culinary quality and ease of culture at this site. Hardy, intensely flavored, and well-suited to the lean, well-drained conditions oregano prefers. Source a named vegetative clone rather than growing from seed to ensure flavor quality.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is the primary placement — essential kitchen herb in easy reach, productivity over beauty. A south-facing Section C position would deliver maximum aromatic intensity and fits the fragrance theme, and oregano could serve both locations. Avoid Section A's north-facing partial shade for the primary culinary planting. Can also be incorporated into tree guild understory (apple or mulberry guilds) as a pollinator-attracting ground cover, though flavor will be reduced in partial shade.",
+      "siteObservations": "The compacted red clay at this site requires amendment or raised bed planting for oregano — do not plant directly into unamended clay in low-drainage areas. Active deer pressure from the east wildlife corridor is not a concern for this plant; oregano is among the most reliably deer-proof herbs and can be planted without protection. Road salt from the north border is irrelevant given the ~50 ft setback of the front beds. The north-facing light in Section B is workable but will produce less aromatic foliage than a south-facing position; if a Section C planting is added, use it as the primary culinary harvest source."
+    }
+  }
+}

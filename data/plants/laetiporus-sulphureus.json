@@ -1,0 +1,155 @@
+{
+  "id": "laetiporus-sulphureus",
+  "name": {
+    "commonName": [
+      "Chicken of the Woods",
+      "Sulphur Shelf",
+      "Chicken Mushroom"
+    ],
+    "latinName": "Laetiporus sulphureus",
+    "family": "Polyporaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread across North America, Europe, and parts of Asia; one of the most commonly encountered bracket fungi on hardwood trees in temperate forests worldwide",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from Maine to Florida and west to the Great Plains; present in hardwood forests across the Midwest, Southeast, and mid-Atlantic; the related species L. gilbertsonii replaces it in western North America (Pacific Coast states); L. sulphureus sensu stricto is primarily an eastern species"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; a native saprotrophic/parasitic fungus that occurs naturally wherever suitable hardwood hosts are present; not regulated on any state noxious species list"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "Not applicable — a fungal species that occurs across a wide climate range (Zones 3–9+) wherever host trees are present; fruiting is driven by moisture and temperature rather than hardiness zone"
+    }
+  },
+  "description": {
+    "height": "Fruiting body shelf up to 20\" wide; 2-8\" thick; multiple overlapping shelves",
+    "spread": "Fruiting bodies can cover several square feet of tree surface; mycelium extends throughout the host tree's wood",
+    "spacing": "Not cultivated in the traditional sense; can be encouraged on logs",
+    "growthRate": "Fruiting bodies appear rapidly when conditions are right (cool, moist weather after rain); a mature fruiting body can appear within days and reach full size in 1-2 weeks",
+    "timeToMaturity": "When present on a host tree or inoculated log, fruiting can occur in the first season in appropriate conditions; inoculated logs may fruit in 1-2 years",
+    "lifespan": "The mycelium persists in the host wood for years to decades; fruiting occurs unpredictably in optimal conditions; individual fruiting bodies are ephemeral (1-3 weeks before becoming inedible)",
+    "deciduousEvergreen": "Not applicable; mushroom organism; seasonal fruiting",
+    "winterInterest": "None — fruiting occurs in warm season (May-October in most of the eastern US; earlier in southern states, later in northern); mycelium overwinters in the host wood"
+  },
+  "lightAndWater": {
+    "sun": "Not applicable; the mushroom fruits in any light condition; partial to dappled shade is common in its natural habitat",
+    "water": "Fruiting triggered by moisture — rain followed by cool temperatures; regular moisture helps but the fungus primarily depends on the moisture in the host wood",
+    "drainagePreference": {
+      "description": "Not applicable in the traditional sense — the fungus grows within wood, not in soil; however, inoculated logs should be placed in contact with the ground or partially buried to maintain moisture; avoid placing logs on well-drained gravel or exposed hilltops where they will dry out",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not applicable — L. sulphureus does not grow in soil; however, clay soil sites are often advantageous for log culture because the surrounding soil retains moisture longer, keeping inoculated logs hydrated; logs placed on clay soil tend to fruit more reliably than logs on sandy, fast-draining ground"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood, not soil"
+    },
+    "texturePreference": "Not applicable — the fungus colonizes wood, not soil; for log culture, the surrounding ground texture matters only for moisture retention; heavier soils that hold moisture are preferable to sandy soils for log placement",
+    "rootCharacter": "Mycelium (white to cream-colored fungal threads) penetrates the dead and dying heartwood of host trees; the fungus typically grows on the heartwood rather than the living sapwood; it causes a brown cubical rot (brown rot) of the wood"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: May-October across most of the eastern US; peak fruiting typically occurs in late spring and early fall after rain when temperatures are 50-65°F; southern growers (Zone 8+) may see earlier spring flushes; northern growers (Zone 3-5) may see a compressed season",
+    "bloomDescription": "Fruiting bodies are dramatic shelf-like brackets with bright orange-yellow upper surfaces (the \"sulphur\" reference) and paler yellow to cream pore surfaces beneath; freshly emerging bodies are bright and striking; color fades and flesh toughens as they age; in peak condition, a large flush is a spectacular sight",
+    "fragrance": "Fresh young fruiting bodies have a pleasant lemony-mushroom scent; old or overripe bodies develop an unpleasant smell",
+    "flowerSex": "Not applicable — sporing organism; spores are pale yellow, released from pore surface on the underside",
+    "pollination": "Not applicable; spore dispersal by wind"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies when young and tender — the flesh of young L. sulphureus is white, firm, and meaty; the flavor is mild and chicken-like in texture (the source of the common name); one of the most highly regarded wild edibles in the US; harvest only the young, actively growing edges of the shelf; the flesh should be white and firm and snap cleanly; discard tough, pale yellow, or crumbling sections",
+    "harvestSeason": "Variable; when fruiting bodies appear (May-October); harvest promptly when the shelf is still actively growing and firm; do not eat specimens growing on locust (Robinia pseudoacacia), eucalyptus, or conifers — these are associated with adverse reactions; safe on oak, cherry, and most hardwoods",
+    "medicinalUses": "Like most edible fungi, L. sulphureus contains beta-glucans and other immunomodulatory compounds; not primarily medicinal but contributes to the general immune-supporting properties of fungal consumption; some traditional use in European herbalism",
+    "craftOtherYield": "Dried mushroom (dries well; stores for months); orange-yellow natural dye from the fruiting bodies"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "IMPORTANT — a small percentage of people (estimated 5-10%) experience GI reactions to Laetiporus even when it is properly identified and prepared; symptoms include nausea, vomiting, and dizziness; this reaction is more common in older or very large specimens, specimens growing on certain trees (notably conifers, locust, and eucalyptus), and in individuals with pre-existing conditions; introduce gradually by eating a small amount the first time; always cook thoroughly — raw specimens can cause reactions even in people who tolerate cooked ones well. IDENTIFICATION: positive ID is required before eating; L. sulphureus is distinctive but confirm with multiple field guides. In the western US, confirm you are not confusing L. sulphureus with L. gilbertsonii or L. conifericola (the conifer-associated western species).",
+    "toxicityAnimals": "Similar considerations as for people; the GI sensitization can affect dogs; avoid feeding to pets",
+    "allelopathy": "The brown rot caused by Laetiporus is a natural decomposition process; it will eventually cause structural damage to trees where it is actively growing (though healthy trees may compartmentalize the infection); not allelopathic in the soil sense",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (gourmet wild edible — one of the most appreciated)",
+      "Soil Builder (decomposition of woody material contributes to humus)",
+      "Nutrient Cycling",
+      "Natural Log Cultivation (can be encouraged on cut logs)"
+    ],
+    "companionPlants": [
+      "Compatible with all garden plants as a saprotrophic/parasitic fungus on woody material; not a plant companion in the traditional sense; pairs conceptually with Pleurotus (oyster mushroom) and Stropharia (wine cap) as components of the food forest fungal layer"
+    ],
+    "antagonists": [
+      "None for garden plants; the fungus is potentially a long-term concern for living trees it parasitizes — if significant fruiting occurs on a living valuable tree",
+      "the tree's structural integrity may eventually be compromised"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Various insects are attracted to the fruiting bodies; beetles, flies, and other invertebrates use the shelf fungi for breeding and feeding; woodpeckers and other birds investigate trees with bracket fungi for associated insect activity",
+    "hostPlantFor": "Many invertebrates breed in decaying wood and bracket fungi",
+    "nestingHabitat": "Decaying wood within old bracket fungi provides cavities and microhabitats for small insects and spiders"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable — deer do not browse fungal fruiting bodies; no protection needed"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable — the fungus grows within wood, not in soil where salt accumulation occurs"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting is reduced in drought conditions; the mycelium persists in the host wood but does not fruit without moisture; in arid western climates or during summer drought in the eastern US, supplemental watering of inoculated logs can encourage fruiting"
+    },
+    "other": "This fungus requires a hardwood host and cannot be cultivated in wood chip beds like Stropharia (wine cap); it needs actual logs or tree sections; tolerates a wide range of temperatures and humidity as long as the host wood is present; wind exposure does not affect the mycelium but can dry out fruiting bodies prematurely"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — essentially self-managing",
+    "pruningNotes": "Harvest fruiting bodies when young and fresh; leave older, tougher sections to complete spore release (they will fall and may inoculate other woody material nearby). Mark trees where the fungus fruits for future monitoring. If the fungus appears on a valuable living tree, monitor the tree's structural health annually.",
+    "propagationMethods": [
+      "Not commercially cultivatable in the traditional sense; can be encouraged by: (1) leaving cut logs or stumps of appropriate hardwoods (oak, cherry) in moist",
+      "shaded areas; (2) purchasing plug or sawdust spawn and inoculating cut log sections; logs should be fresh (cut within 6 weeks)",
+      "4-8\" diameter",
+      "and placed in a moist",
+      "shaded location"
+    ]
+  },
+  "cultivarNotes": "No named cultivars. The primary species across the lower 48 breaks down by region: L. sulphureus (eastern North America, Zones 3-8, east of the Great Plains) — the classic species, found on oaks and other hardwoods; L. cincinnatus (white-pored chicken of the woods) — grows at the base of oaks across the eastern US, similarly edible, sometimes preferred for its tenderness; L. gilbertsonii (western North America, Pacific Coast states) — the western replacement species, also edible; L. conifericola (western US) — conifer-associated, avoid eating. When purchasing spawn, confirm the species matches your region: eastern growers should source L. sulphureus or L. cincinnatus; western growers should source L. gilbertsonii.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest fungal layer",
+      "log culture",
+      "passive wild cultivation on stumps"
+    ],
+    "designPlacement": "Place inoculated logs or leave stumps in moist, shaded locations within a food forest or woodland edge — the interior of tree guilds, the north side of buildings or fences, under canopy trees, or in any consistently damp area that receives minimal direct sun. Leave stumps and deadwood from any hardwood tree removals as potential natural hosts. Do not remove all deadwood from the food forest — it is the substrate for this and other valuable fungal species. Pair with oyster mushroom (Pleurotus) log culture and wine cap (Stropharia) wood chip beds for a complete fungal layer.",
+    "acquisitionStatus": "May already be present on site (check mature hardwood trees for characteristic orange-yellow shelf brackets in summer); spawn available from mushroom cultivation suppliers if inoculated logs are desired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Laetiporus_sulphureus",
+    "inaturalist": "https://www.inaturalist.org/taxa/53713-Laetiporus-sulphureus",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — L. sulphureus is native to Pennsylvania; found on oak, cherry, locust, and other hardwood trees throughout the state; common in central PA hardwood forests; may already be present on any mature hardwood at the Hegins property",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — native fungal species; not on PA Dept. of Agriculture or DCNR invasive lists",
+      "drainage": "The Hegins red clay is actually beneficial for log culture — the moisture-retentive clay keeps the ground damp around placed logs, supporting consistent fruiting; no amendments or raised beds needed since the fungus grows in wood, not soil",
+      "soil": "The Hegins red clay provides excellent moisture retention around placed logs; no soil preparation needed for this species",
+      "cultivarNotes": "Source L. sulphureus spawn specifically; L. cincinnatus is also an excellent choice if you have mature oaks, as it fruits at the base of living trees rather than on trunks.",
+      "designPlacement": "Encourage on any cut logs or stumps within or adjacent to the paw paw guild; leave the stumps of any trees removed during guild establishment as potential hosts; the moist, shaded interior of tree guilds is ideal. Inoculate purchased hardwood logs with plug spawn for more predictable results; the red clay ground beneath placed logs will help maintain moisture. Good candidate for any shaded area on the east side of the property near the wildlife corridor where mature hardwoods may already host wild populations.",
+      "siteObservations": "Survey existing hardwood trees on and adjacent to the property for current presence — the east wildlife corridor with mature hardwoods is the most likely location for wild fruiting. The site's moist conditions and clay soil are favorable for log culture. Deer pressure is not a concern for this species. No height or placement constraints apply since the fungus grows on existing trees and logs rather than being planted in bed sections."
+    }
+  }
+}

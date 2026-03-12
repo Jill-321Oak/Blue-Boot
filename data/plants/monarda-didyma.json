@@ -1,0 +1,169 @@
+{
+  "id": "monarda-didyma",
+  "name": {
+    "commonName": [
+      "Bee Balm",
+      "Scarlet Bee Balm",
+      "Oswego Tea",
+      "Bergamot (note: not the same as the Bergamot orange used in Earl Grey tea",
+      "which is Citrus bergamia)"
+    ],
+    "latinName": "Monarda didyma",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Quebec to Georgia, west to Michigan and Ontario; native to the Appalachian region, Great Lakes, and surrounding areas; found in moist woodlands, stream banks, and rich bottomlands from sea level to moderate elevations",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — found throughout the Northeast, mid-Atlantic, upper South, and Great Lakes region. Native range extends from Maine south to Georgia and west to Michigan, Minnesota, and Missouri. Not native to the western US, Gulf Coast, or Great Plains, though widely cultivated and occasionally naturalized outside its native range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed on any state noxious weed list in the lower 48. Spreads by rhizomes and can form expanding colonies in garden settings, but this is manageable with division and is not ecologically invasive. Does not escape cultivation into wild habitats in a problematic way. Not listed in the USDA PLANTS database as invasive or noxious in any US state"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "2-4' (cultivar-dependent; compact cultivars 18-24\"; standard cultivars 3-4')",
+    "spread": "18-24\" per clump; spreads by creeping rhizomes to form expanding colonies; divide every 3-4 years to control",
+    "spacing": "18-24\"",
+    "growthRate": "Fast; vigorous",
+    "timeToMaturity": "Blooms from first or second year; full spread by year 2-3",
+    "lifespan": "Long-lived perennial; essentially permanent; colony persists and spreads indefinitely",
+    "deciduousEvergreen": "Deciduous — dies back in frost; basal foliage often appears in early spring before last frost",
+    "winterInterest": "Dried seed heads have modest ornamental value through winter; not a primary winter interest plant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than many perennials while maintaining bloom — excellent in full sun and adaptable to dappled light elsewhere. In Zone 8+ and the Deep South, afternoon shade helps prevent heat stress and reduces mildew pressure",
+    "water": "Medium to high; performs best with consistent moisture; struggles in prolonged drought; native habitat is moist woodland edges and stream sides. In arid western climates, regular irrigation is essential — this is not a xeric plant",
+    "drainagePreference": {
+      "description": "Average to moist; does not do well in dry, sandy, or sharply-draining conditions — among the more moisture-demanding of the native perennials. Tolerates periodic wet feet better than most ornamental perennials but sustained waterlogging causes root rot. Ideal drainage is consistently moist but not saturated",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — tolerates clay soil well and is one of the more clay-adaptable native perennials, since its native habitat includes heavy bottomland soils. Clay's moisture retention is actually an advantage for this moisture-loving species. However, compacted clay with poor drainage can cause root rot in winter when the plant is dormant. Amend with compost to improve structure without excessively increasing drainage. In heavy unamended clay, the rhizomes may spread more slowly but the plant will persist"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Average to moderately moist loam is ideal; performs well in clay-loam and silty soils. Avoid excessively sandy or gravelly soils that dry out quickly. Humus-rich soil with good organic content produces the strongest growth and best bloom",
+    "rootCharacter": "Creeping rhizomatous root system; spreads steadily in all directions; shallow root system"
+  },
+  "bloom": {
+    "bloomTime": "July-August",
+    "bloomDescription": "Ragged-looking clustered flower heads to 3\" wide; individual flowers are tubular, 2-lipped, and vivid scarlet-red (species and standard cultivars); heads arranged in whorls; the effect at peak bloom is stunning — a mass planting in full bloom is one of the finest sights in the late summer garden; pink, purple, white, and lavender cultivars also available",
+    "fragrance": "Strongly aromatic foliage — citrus-bergamot scent (the source of the \"bergamot\" common name); one of the most distinctive and pleasant aromatic plants in the native garden; leaves and stems release fragrance when bruised",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding hummingbird plant — the tubular scarlet flowers are sized specifically for hummingbird feeding; also an exceptional bumblebee plant; butterflies visit; one of the top 10 native plants for hummingbird attraction in eastern North America"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers (fresh or dried — herbal tea; citrus-bergamot flavor; the traditional \"Oswego tea\" used by the Oswego Nation and later by American colonists after the Boston Tea Party as a substitute for imported tea); flowers as a salad garnish",
+    "harvestSeason": "Leaves spring through fall; harvest before and during flowering for best flavor; dry for winter tea",
+    "medicinalUses": "Traditionally used by multiple Native American peoples for digestive complaints, respiratory conditions, and as a wound treatment; antimicrobial properties (thymol and carvacrol compounds similar to thyme); used for colds, sore throat, nausea, and flatulence; one of the important native medicinal herbs",
+    "craftOtherYield": "Dried herb for tea; potpourri; aromatic dried flower arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal; safe",
+    "toxicityAnimals": "Generally safe; not a known toxin concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Beauty (primary — outstanding summer bloom, especially for hummingbird viewing)",
+      "Insect Attractor (exceptional — hummingbirds, bumblebees, butterflies, native bees)",
+      "Medicinal",
+      "Food (tea herb)",
+      "Wildlife Support"
+    ],
+    "companionPlants": [
+      "Echinacea (classic native pairing — both bloom in summer and attract pollinators)",
+      "Thalictrum",
+      "ferns; pairs well with lavender in sunny borders for a summer pollinator planting; companions with similar moisture requirements include Lobelia cardinalis",
+      "Chelone",
+      "and Eupatorium"
+    ],
+    "antagonists": [
+      "Powdery mildew is the primary concern — ensure good air circulation; do not crowd; avoid overhead watering; choose mildew-resistant cultivars (critical recommendation)"
+    ],
+    "coppiceable": "Cut back stems to the ground after bloom or in late fall; the rhizomatous colony regrows each spring; divide outer sections annually or every 2 years to control spread"
+  },
+  "wildlife": {
+    "attracts": "Ruby-throated hummingbird in the East, various hummingbird species in western gardens (outstanding — one of the top hummingbird plants for North American gardens; hummingbirds will return year after year to reliable Monarda plantings), bumblebees (primary among insects), butterflies (swallowtails, fritillaries, monarchs), native bees",
+    "hostPlantFor": "Hermit sphinx moth (Sphinx eremitus) larvae feed on Monarda — a bonus habitat contribution",
+    "nestingHabitat": "Dense colony provides ground cover for invertebrates; hollow dried stems provide overwintering habitat for native bees if left standing through winter"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — the strong aromatic scent deters casual browsing; however, deer do browse bee balm in high-pressure situations. Not as reliably deer-resistant as lavender, alliums, or strongly toxic plants. The fragrant foliage provides some protection but is not a guarantee. Young transplants are more vulnerable than established colonies. In areas with heavy deer pressure, protect new plantings with temporary fencing or repellent spray until established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure; not a frontline salt-tolerant species but recovers from light seasonal exposure"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — struggles in dry conditions; requires consistent moisture; drought stress increases disease susceptibility and reduces bloom quality"
+    },
+    "other": "Powdery mildew is the primary disease issue — all standard cultivars are susceptible; humidity + poor airflow = mildew; choose resistant cultivars (see Cultivar Notes). Heat tolerance is moderate; in Zone 8+ and the Deep South, provide afternoon shade and extra moisture. Wind tolerance is fair — tall cultivars may need staking in exposed locations"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — mildew management is the primary task",
+    "pruningNotes": "Cut back to the ground in fall or early spring before new growth. Divide the expanding clump every 2-3 years — the center dies out as the colony expands outward; dig up the older center and replant the vigorous outer sections. Deadhead spent blooms to encourage a second flush if desired. Thin the clump by removing some stems at the base to improve airflow and reduce mildew pressure.",
+    "propagationMethods": [
+      "Division (easy — divide in spring; most reliable method)",
+      "stem cuttings (root in summer)",
+      "seed (easy but cultivars do not come true from seed)"
+    ]
+  },
+  "cultivarNotes": "Mildew resistance is the most important selection criterion across most of the lower 48, particularly in the humid East and Midwest. In arid western climates, mildew is less of a concern and cultivar selection can prioritize color and size. TOP MILDEW-RESISTANT CULTIVARS: **'Jacob Cline'** (scarlet-red, 3-4', excellent mildew resistance, Zone 4-9 — widely considered the best red cultivar overall; outstanding hummingbird attractor); **'Raspberry Wine'** (deep wine-red, 2-3', very good mildew resistance, Zone 4-9); **'Marshall's Delight'** (pink, 2.5-3', outstanding mildew resistance — bred in Canada specifically for this trait; Zone 3-9; top choice for northern gardeners in Zone 3-5); **'Bee-You' series** (compact 18-24\", various colors, good mildew resistance — excellent for smaller gardens and containers). ZONE BAND GUIDANCE: **Zone 3-5** — cold-hardiness is reliable for all cultivars; 'Marshall's Delight' and 'Petite Delight' are proven performers in short-season northern gardens. **Zone 6-7** — the sweet spot for bee balm; all recommended cultivars perform well; mildew-resistant selection is critical due to humid summers. **Zone 8-9** — provide afternoon shade; increase irrigation; heat stress and mildew pressure are both elevated; 'Jacob Cline' and 'Raspberry Wine' are the most heat-tolerant of the resistant cultivars.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native garden",
+      "cottage garden",
+      "wildlife garden",
+      "hummingbird garden",
+      "fragrance border",
+      "rain garden",
+      "pollinator meadow edge",
+      "herb garden (tea herb)"
+    ],
+    "designPlacement": "Place in full sun for maximum bloom; part shade is acceptable but reduces flower density. Mid-border height (2-4') — use behind low edging plants and in front of taller shrubs or grasses. Excellent massed in groups of 3-5 for visual impact and hummingbird attraction. Allow 18-24\" spacing for air circulation to reduce mildew. Pair with other summer-blooming natives (Echinacea, Rudbeckia, Phlox) for a continuous pollinator border. The aromatic foliage makes it a natural companion for fragrance-themed plantings. Site where hummingbird activity can be observed and enjoyed — near seating areas, porches, or windows. Requires consistent moisture — avoid dry, exposed sites far from water access",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Monarda_didyma",
+    "inaturalist": "https://www.inaturalist.org/taxa/52735-Monarda-didyma",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q250"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Monarda didyma is native to Pennsylvania and the broader Appalachian region; common in moist woodland edges, stream sides, and rich bottomlands throughout the state",
+      "paInvasiveStatus": "Not invasive in Pennsylvania. Not listed on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list. Same as general Invasive field — no regulatory concern",
+      "drainage": "Hegins red clay is a reasonable match for bee balm's moisture preferences — the clay's water retention suits this plant better than it does most perennials. In-ground planting is viable with compost amendment to break up compaction. No raised bed required. Monitor drainage in winter to ensure dormant crowns are not sitting in standing water after heavy rain",
+      "soil": "Hegins red clay-loam is workable for bee balm — amend planting area with 3-4\" of compost worked into the top 12\" to improve structure and organic content. The naturally moisture-retentive clay is an advantage here rather than a limitation",
+      "cultivarNotes": "'Jacob Cline' is the first recommendation — scarlet-red flowers are spectacular, mildew resistance is excellent for PA's humid summers, and the hummingbird value is exceptional. 'Raspberry Wine' is a strong second choice if a darker color is preferred.",
+      "designPlacement": "Section C (south-facing, fragrance focus) — the hummingbird value makes this a perfect back-porch planting; watching hummingbirds work the bee balm from the porch is one of the finest summer garden experiences. Full sun in the south-facing bed maximizes bloom production. The aromatic foliage complements the fragrance theme of Section C. Place in the mid-zone of the south-facing border. Monitor moisture in dry summers — the south-facing microclimate can be drier than bee balm prefers; irrigate as needed. Also a candidate for tree guild understory (apple or mulberry guilds) where dappled shade and moister soil conditions suit its native woodland-edge habitat",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a consideration — bee balm's aromatic foliage provides moderate deterrence but is not fully deer-proof under heavy pressure. Protect new transplants in the first season with repellent spray or temporary fencing until the colony establishes. The red clay soil's moisture retention is actually favorable for this moisture-loving species, but compaction should be addressed with compost amendment at planting. Salt from the road on the north border is not a concern for Section C placement (south-facing, far from road). If placed in Section A (front, north-facing), incidental salt exposure is possible but bee balm's moderate salt tolerance should be sufficient at ~50 ft from the road"
+    }
+  }
+}

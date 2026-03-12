@@ -1,0 +1,162 @@
+{
+  "id": "cucumis-melo",
+  "name": {
+    "commonName": [
+      "Melon",
+      "Cantaloupe",
+      "Muskmelon",
+      "Honeydew"
+    ],
+    "latinName": "Cucumis melo",
+    "family": "Cucurbitaceae"
+  },
+  "range": {
+    "nativeRange": "Paleotropics — likely originating in South Asia or Africa; exact wild origin debated; cultivated for millennia throughout the Old World; introduced to the Americas by European colonizers in the 15th-16th centuries and now widely grown throughout the world's temperate and tropical agricultural zones",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced crop plant with no native presence in any US state"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — does not naturalize in any US state; an annual that completes its life cycle and does not persist without replanting; poses no invasive risk across the lower 48"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "Annual grown in Zones 3-11; fruiting success in the northern US (Zones 5-6) requires deliberate heat management; most reliable in Zones 7-10 with minimal intervention"
+    }
+  },
+  "description": {
+    "height": "Vines trail 4-6' along the ground or climb 6-8' on a vertical trellis; the plant is prostrate by nature and does not have a meaningful \"height\" in the traditional sense",
+    "spread": "4-6' sprawl radius from the crown when grown horizontally; individual vines can reach 6-8' in length in favorable conditions",
+    "spacing": "2-3' between plants in-row; rows 4-6' apart if growing multiple rows to allow vine spread and air circulation; on a vertical trellis, plants can be spaced 18-24\" apart",
+    "growthRate": "Fast once warm soil temperatures are achieved — slow and stalled in cool soil (below 65°F), then explosive growth once soil reaches 70°F+; fruit development to ripeness spans 70-90 days from transplant depending on variety",
+    "timeToMaturity": "70-90 days from transplant to ripe fruit; short-season varieties (70-80 days) are essential in Zones 5-6a where the reliable warm growing window is narrow; in Zones 8-10, longer-season varieties (90-110 days) are practical",
+    "lifespan": "Annual — completes its life cycle in a single season; killed by the first frost; no perennial component",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None"
+  },
+  "lightAndWater": {
+    "sun": "Full sun absolutely required — 8+ hours of direct sun per day is the minimum for fruit set and ripening; even slight shading from adjacent plants, structures, or trees significantly reduces yield and sugar development; in northern zones, always place in the hottest, most south-facing, most sun-exposed bed available; morning sun that dries dew from the foliage also reduces fungal disease pressure",
+    "water": "Medium to high during vine establishment and fruit sizing; REDUCE watering significantly 1-2 weeks before expected harvest — this is one of the most important yield-quality steps in melon growing; as the plant senses water stress near maturity, it concentrates sugars in the fruit; overwatering at this stage produces watery, bland melons; drip irrigation at the root zone (not overhead) is strongly preferred to keep foliage dry and reduce foliar disease",
+    "drainagePreference": {
+      "description": "WELL-DRAINED — non-negotiable; melon roots rot quickly in waterlogged or compacted soil, and cool wet soil dramatically stunts growth; raised beds with black plastic mulch over well-amended, loose, warm soil are the ideal growing system for northern zones; ground-level planting on heavy or poorly drained soil is a formula for failure in any climate",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to Very Poor — heavy clay stays cold and wet, both of which are fatal to melon productivity; clay soil must be substantially amended with compost and grit, or bypassed entirely with raised beds, before melons can succeed; this applies universally across the lower 48 wherever clay soils are present"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8; slightly acidic to near-neutral; reasonably forgiving of minor pH variation within this range"
+    },
+    "texturePreference": "Loose, fertile, well-amended loam or sandy loam with high organic matter; the two most important soil qualities are warmth and drainage — heavy clay soil stays cold and wet, both of which are fatal to melon productivity; raised beds filled with loam-compost mix, covered with black plastic mulch to retain and build soil heat, solve both problems simultaneously and are strongly recommended wherever native soil is heavy or cold",
+    "rootCharacter": "Taprooted with wide lateral feeder roots; melon roots are highly sensitive to disturbance — transplanting must be done with extreme care, moving the entire root ball without disturbing it; roots do not recover from breakage as readily as tomatoes or brassicas; this transplant sensitivity is one of the defining cultivation constraints of the crop"
+  },
+  "bloom": {
+    "bloomTime": "June-August; flowering begins 4-5 weeks after transplant and continues until frost",
+    "bloomDescription": "Yellow, funnel-shaped flowers, 0.5-1.5\" across, borne in the leaf axils along the vines; monoecious — male and female flowers appear on the same plant but are separate structures; male flowers appear first and in greater numbers; female flowers are identifiable by the small proto-fruit (ovary) visible at the base of the flower before it opens; fruit only sets on female flowers that receive pollen from male flowers via pollinators",
+    "fragrance": "Flowers mildly fragrant; ripe fruit of muskmelon types is powerfully and distinctively sweet-musky — the fragrance is one of the key ripeness indicators",
+    "flowerSex": "Monoecious — separate male and female flowers on the same plant; fruit set requires transfer of pollen from male to female flowers; early in the season when only male flowers are present, no fruit will form — this is normal and not a sign of plant failure; wait for female flowers to appear",
+    "pollination": "Requires pollinators — bees (honey bees and native bees) are the primary vectors; hand pollination is possible but rarely necessary in an outdoor garden with adequate bee activity; time transplanting so that the plant begins flowering when bee populations are active; avoid pesticide applications during flowering; planting companion flowers (marigold, nasturtium, borage) nearby increases pollinator visits"
+  },
+  "yield": {
+    "edibleParts": "Fruit — the ripe flesh, which ranges from pale green (honeydew types) to deep salmon-orange (muskmelon/cantaloupe types) depending on variety; seeds are edible roasted (similar to pumpkin seeds); immature fruit can be pickled in some varieties; the primary yield is fully ripe, fresh fruit eaten out of hand or in salads",
+    "harvestSeason": "August-September in northern zones (5-6); July-September in central zones (7-8); May-October in the deep South (Zones 9-10, where two successions are possible); RIPENESS INDICATORS for muskmelon/cantaloupe (C. melo var. reticulatus): (1) the netted surface pattern is fully developed and pronounced; (2) background skin color transitions from green to tan or yellow-gold; (3) the stem separates from the fruit with minimal pressure — cantaloupe forms a clean abscission layer and a ripe fruit will \"slip\" off the vine with a gentle push or slight tug; do not force; (4) a hollow sound when thumped; (5) powerful sweet-musky fragrance near the blossom end; for honeydew types (var. inodorus), there is NO slip — harvest when the blossom end yields to gentle pressure and the rind color has changed fully; reduce watering 7-14 days before expected harvest to concentrate sugars",
+    "medicinalUses": "High in beta-carotene (orange-fleshed varieties), vitamin C, and potassium; traditionally regarded as cooling and hydrating; minor folk use for digestive support; not a primary medicinal plant",
+    "craftOtherYield": "Seeds can be saved from open-pollinated/heirloom varieties for replanting; seeds of roasted muskmelon are a traditional snack in parts of Asia and the Middle East"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None; all parts of ripe fruit are safe; unripe fruit is edible but bland and sometimes used for pickling",
+    "toxicityAnimals": "Generally safe; fruit is palatable to deer, groundhogs, raccoons, and other wildlife — pest pressure on ripe melons is significant and should be anticipated; dogs can eat small amounts of ripe melon without harm; the rind should not be fed to pets in quantity",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous ground layer (sprawling annual vine)"
+    },
+    "roles": [
+      "Annual Vegetable (primary — one of the most rewarding summer crops when the site conditions are met)",
+      "Pollinator Attractor (flowers support bees throughout summer)",
+      "Living Mulch (dense vine growth suppresses weeds between plants once vines run)",
+      "Trap Crop Host (aphids preferentially colonize melon before spreading to other cucurbits — monitor and act early)"
+    ],
+    "companionPlants": [
+      "Nasturtium (Tropaeolum majus — excellent trap crop for aphids; aphids colonize nasturtium preferentially, protecting the melons; also deters squash bugs; plant at the bed edge)",
+      "Marigold (Tagetes — especially French marigold T. patula; root exudates suppress root-knot nematodes; flowers attract beneficial insects; interplant at bed ends)",
+      "Catnip (Nepeta cataria — repels aphids and cucumber beetles when planted nearby; not inside the melon bed but at the border)",
+      "Borage (attracts pollinators; companion to cucurbits in traditional practice)",
+      "Radish (planted as a sacrifice crop for cucumber beetles — beetles prefer radish; also deters squash vine borer)",
+      "Corn (traditional; provides wind protection and does not compete aggressively)"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare — allelopathic; inhibits most vegetables including cucurbits; do not plant near melons)",
+      "Potatoes (compete for nutrients; increased disease risk when grown adjacent)",
+      "other cucurbits in close proximity (shared disease and pest vectors — cucumber beetles, powdery mildew, and downy mildew spread rapidly within the cucurbit family; provide air space between cucurbit crops)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (honey bees and native bumblebees, sweat bees — heavily visit the yellow flowers from June through August), butterflies and beneficial wasps (visit flowers for nectar); ripe and overripe fruit attracts deer, raccoons, groundhogs, and yellow jacket wasps — the sweet smell of ripe melons is a significant wildlife attractant at harvest time",
+    "hostPlantFor": "Cucumber beetle (Diabrotica and Acalymma species) uses cucurbits including melon as a primary host; the striped cucumber beetle (Acalymma vittatum) and spotted cucumber beetle (Diabrotica undecimpunctata) both feed on foliage and flowers and vector bacterial wilt and cucumber mosaic virus; this is the primary insect pest to monitor",
+    "nestingHabitat": "None significant; the vine mass provides temporary low cover but not meaningful nesting habitat"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer will eat the fruit, especially as it ripens and the fragrance intensifies; groundhogs and raccoons are also significant melon predators across most of the lower 48; physical exclusion (row cover, wire cage around ripening fruit, or fencing) is the only reliable protection; row cover used in spring for heat retention doubles as early-season deer deterrence"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to salt; avoid sites with road salt influence or saline irrigation water"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — melons require consistent moisture for vine development and fruit sizing; water stress during fruit sizing causes blossom end problems, cracking, and reduced fruit size; the critical period is from fruit set through the final 2 weeks before harvest, at which point deliberate mild stress is beneficial"
+    },
+    "other": "Cold-sensitive — any frost kills the plant immediately; soil temperature below 60°F causes stunted growth and root problems; northern Zones 5-6 are at the edge of reliable melon production and success depends on stacking every available heat-management technique; transplant shock is a significant risk due to tap-sensitive roots"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — melons require more active management than many vegetables; heat management, pest monitoring, correct ripeness identification, and deliberate water reduction before harvest are all active tasks that directly affect yield quality; this is not a plant-and-ignore crop",
+    "pruningNotes": "Pinching the main vine tip after 4-5 lateral branches have developed encourages lateral branching and more female flowers — optional but can increase yield in short-season situations. Removing excess fruit (limiting to 2-3 per plant) directs the plant's energy into sizing and ripening the remaining fruit rather than splitting resources across many underdeveloped ones — strongly recommended in Zones 5-6 where the season is tight. Remove any diseased leaves or vines promptly to slow the spread of powdery mildew and other foliar pathogens. After the season, pull all vine material and compost it away from the bed — do not till cucurbit debris back into the soil, as this perpetuates fungal spores and disease inoculum.",
+    "propagationMethods": [
+      "Seed",
+      "started indoors 3-4 weeks before transplant date; use individual biodegradable pots (peat pots or soil blocks) that allow transplanting without root disturbance — melon roots are extremely transplant-sensitive and must not be disturbed; harden off for 7-10 days before transplanting; transplant after soil has warmed to 65°F+ and nights are consistently above 50°F; black plastic mulch laid 2-3 weeks before transplant will pre-warm the soil significantly; direct sowing is possible in Zones 7+ but rarely produces adequate heat accumulation in Zones 5-6 for consistent ripening"
+    ]
+  },
+  "cultivarNotes": "Variety selection is critically important and should be matched to your zone. The lower 48 spans Zones 5-10, and day-count requirements differ dramatically by region.\n**Zones 5-6 (northern US — MN, WI, MI, NY, PA, NE, northern Plains):** Zone is at or beyond the northern edge of reliable melon production. Choose only varieties rated 75-85 days or fewer. Muskmelon/cantaloupe types (C. melo var. reticulatus) are by far the best suited — shortest season requirements, clearest ripeness indicators, and best flavor-per-day efficiency. Honeydew types (var. inodorus, 85-110 days) are marginal to impractical; attempt only with the full heat-management stack and only a short-season variety. The heat-management protocol (black plastic mulch + row cover + sunniest bed) is not optional at Zone 5-6 — it is the difference between a reliable harvest and consistent failure.\n**Zones 7-8 (mid-Atlantic, upper South, Pacific Northwest coast, transition states):** The sweet spot for most American melon cultivars. Standard varieties (75-90 days) succeed reliably with minimal intervention. Honeydew types are practical. Two successions are not typically possible but single crops are very reliable. Black plastic mulch is beneficial but not critical. Select for disease resistance (powdery mildew, Fusarium wilt) as heat and humidity increase.\n**Zones 9-10 (Deep South, Gulf Coast, southern California, desert Southwest):** Long-season and large-fruited varieties (90-110 days) are practical. Two successions per season are possible — a spring crop (transplant Feb-March, harvest May-June) and a fall crop (transplant July-August, harvest Sept-Oct); the deep summer heat pause is often too extreme for fruit set. Heat and drought tolerance are key selection criteria. Casaba, Crenshaw, and large Persian types thrive here where they fail everywhere north of Zone 8.\n**Avoid everywhere:** any variety marketed as \"long keeper\" without a confirmed day count; unnamed bulk seed of unknown origin; very large-fruited varieties (over 15 lbs) without confirming day count against your frost window.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable bed (primary); black plastic mulch system; vertical trellis with fruit slings for space efficiency"
+    ],
+    "designPlacement": "Melons belong in the hottest, most sun-exposed bed available — south-facing exposure, maximum reflected heat, away from any tree or structure shade. Full sun is non-negotiable across all zones. In Zones 5-6, black plastic mulch is essentially mandatory: it pre-warms soil 10-15°F above ambient and is the single most impactful heat-management technique for northern gardens. In Zones 7+, black plastic is beneficial but not critical. Vertical trellis growing is an excellent option for space efficiency across all zones — vines are trained up a 6' trellis, and each developing fruit is supported with a fabric sling (old pantyhose or mesh bags work perfectly) tied to the trellis; this also improves air circulation and reduces foliar disease. Limit to 2-3 fruits per plant for best size and ripening, especially in shorter-season zones. Row cover from transplant through first female flowers extends the season in Zones 5-6 and excludes early-season cucumber beetles. Do not grow melons in heavy clay or poorly drained soil without raised beds or substantial amendment — drainage and soil warmth are the two prerequisites that override all other considerations.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations: Zone 6a is genuinely marginal for melons — not impossible, but requiring deliberate effort. The four non-negotiables for Hegins melon success are: (1) correct short-season variety (75-85 days maximum — this is the most important single decision); (2) black plastic mulch to pre-warm soil and maintain soil temperature through the season; (3) row cover from transplant through first female flowers to extend the season and exclude cucumber beetles; (4) hottest, sunniest bed position on the property. Given these, a reliable harvest is achievable most years. Deer and groundhog pressure from the active east wildlife corridor is the other major variable — ripe melons are powerfully attractive to wildlife and losses at harvest time are common without exclusion. A simple wire cage placed over individual ripening fruit, or a low fence around the bed, is worth the effort. Do not grow honeydew types unless willing to accept high failure risk — muskmelon/cantaloupe types are the correct choice for Zone 6a. Cucumber beetles are the primary pest threat; they vector bacterial wilt, for which there is no cure — once a plant wilts from bacterial wilt, remove and dispose of it immediately. Row cover in early season is the best prevention; yellow sticky traps help monitor pressure."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cucumis_melo",
+    "inaturalist": "https://www.inaturalist.org/taxa/76538-Cucumis-melo",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279561&isprofile=1&basic=cucumis+melo"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; not naturalized or invasive in Pennsylvania",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Hegins red clay is antithetical to direct in-ground melon growing; raised beds filled with loam-compost mix are the correct and essentially mandatory solution; black plastic mulch over raised beds addresses both drainage and heat retention simultaneously",
+      "soil": "Hegins red clay requires full bypass via raised beds; direct in-ground planting in unammended clay is not viable; raised beds filled with loam-compost mix, covered with black plastic mulch, are the standard approach and are effectively mandatory for reliable production in Zone 6a",
+      "cultivarNotes": "Focus exclusively on varieties rated 75-85 days or fewer. 'Earligold' (68-72 days), 'Sarah's Choice' (75 days), 'Collective Farm Woman' (70 days), and 'Athena' (75-80 days) are the most reliable performers. 'Petit Gris de Rennes' (75-80 days) is worth growing for exceptional flavor. Do not attempt honeydew types without accepting high failure risk.\n**'Earligold'** — one of the earliest muskmelons available, approximately 68-72 days; orange flesh, netted skin, good flavor; designed specifically for short-season northern gardens; the safest choice for Zones 5-6a when reliability is the priority\n**'Sarah's Choice'** — 75 days; muskmelon type; disease-resistant (powdery mildew, Fusarium wilt); excellent sweet flavor with firm flesh; one of the best-balanced short-season varieties for the Northeast; widely recommended by extension programs in the mid-Atlantic region\n**'Athena'** — 75-80 days; semi-netted cantaloupe type; excellent disease resistance; stores slightly longer after harvest than many varieties; good commercial-quality flavor; widely grown and reliable in Zones 6-8\n**'Hales Best Jumbo'** — classic heirloom muskmelon, 80-85 days; heavily netted, orange flesh, outstanding old-fashioned sweet flavor; less disease resistance than modern hybrids but beloved for flavor; suitable Zones 6-9; push the zone slightly in Zone 6a but worth trying with full heat management\n**'Collective Farm Woman'** — heirloom, approximately 70 days; small, creamy-yellow skin, white-to-pale-yellow flesh; sweet and aromatic; developed in Ukraine for short northern seasons; the most cold-tolerant and earliest-ripening heirloom available; excellent seed-saving candidate; flavor is distinctive and excellent; best suited to Zones 5-7\n**'Petit Gris de Rennes'** — French heirloom, 75-80 days; small orange-fleshed charentais type with gray-green netted skin; intensely perfumed and richly flavored; considered one of the finest-flavored melons in existence; less productive than American types but the flavor justifies growing it for the sheer experience; suited to Zones 6-9\n**'Honey Rock'** — 80-85 days; classic American muskmelon; dense, sweet orange flesh; reliable and widely adapted across Zones 6-9; widely recommended for home gardens throughout the Midwest and mid-Atlantic\n**'Crimson Sweet Watermelon' note:** This profile covers Cucumis melo only; watermelons (Citrullus lanatus) are a separate species with different zone requirements and are not included here.\n**Avoid in Zones 5-6:** any honeydew (var. inodorus) rated over 85 days; Crenshaw and Casaba types (90-110 days); any melon described as \"long keeper\" without a short-season rating — these are designed for warm climates and will not ripen reliably north of Zone 7 without a greenhouse",
+      "designPlacement": "Place in the hottest, sunniest raised bed on the property — south-facing, maximum reflected heat. Black plastic mulch is not optional; lay it 2-3 weeks before transplanting to pre-warm the soil. The full protocol is: lay black plastic → cut planting holes → transplant in mid-May → cover immediately with row cover (Reemay or similar) to trap heat and exclude early cucumber beetles → remove row cover when female flowers appear and bees need access (typically late June). This combination effectively extends the usable growing season by 2-3 weeks at both ends. Hegins red clay rules out in-ground planting without raised beds; raised beds filled with loam-compost mix are the correct solution. Deer pressure from the east wildlife corridor means ripening fruit requires monitoring and physical exclusion from midsummer onward.",
+      "siteObservations": null
+    }
+  }
+}

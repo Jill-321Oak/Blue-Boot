@@ -1,0 +1,168 @@
+{
+  "id": "helianthus-tuberosus",
+  "name": {
+    "commonName": [
+      "Jerusalem Artichoke",
+      "Sunchoke",
+      "Sunroot"
+    ],
+    "latinName": "Helianthus tuberosus",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — from Nova Scotia and Manitoba south to Georgia and Kansas; one of the most widely distributed native food plants in North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across much of the eastern and central US — found from the Great Plains eastward through the Midwest, Great Lakes, Mid-Atlantic, and Southeast; naturalized widely in the western US, Pacific Northwest, and parts of the Southwest where it has escaped cultivation. Present in nearly every US state either as a native or naturalized species."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive or noxious in any US state. However, this plant is HIGHLY AGGRESSIVE by tuber spread and should be treated as a permanent, expanding colony wherever it is planted. Every piece of tuber left in the soil will generate a new plant. Once established, it cannot be fully eradicated without sustained effort over 2-3 seasons. This is a feature in the right placement (wild food zones, property edges, food forests) and a serious management problem in the wrong one (formal beds, vegetable gardens, foundation plantings). Plant only where spread is either welcome or physically contained by a deep root barrier (12-18\" underground HDPE barrier recommended). This aggressive spreading habit is consistent across all USDA zones where the plant grows."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "6-10'; occasional plants reach 12' in rich, moist soil",
+    "spread": "Unlimited without containment — spreads aggressively by underground rhizomes and tubers; a single plant will expand to a dense colony over several seasons",
+    "spacing": "18-24\" within a dedicated patch; 3' if planting in rows for harvest access",
+    "growthRate": "Very fast — emerges reliably each spring and reaches full height by midsummer; one of the most vigorous perennial food plants in the temperate palette",
+    "timeToMaturity": "First-year harvest is modest; full production begins year 2; the colony reaches peak productivity in year 3+ as the tuber mass expands",
+    "lifespan": "Essentially permanent — once established, the colony is self-sustaining indefinitely; plants do not die out unless the entire tuber mass is removed",
+    "deciduousEvergreen": "Deciduous — tall stems and foliage die back completely after hard frost; stems can be left standing for winter structure and wildlife habitat",
+    "winterInterest": "The tall dried stems and seed heads provide structural winter interest and are attractive in a naturalistic or food forest setting; seed heads are used by birds"
+  },
+  "lightAndWater": {
+    "sun": "Full sun (best production); tolerates part shade but tuber yield decreases significantly. In Zone 8+ with intense summer heat, light afternoon shade can reduce stress without major yield loss.",
+    "water": "Medium; very adaptable — performs well in average to moist conditions; tolerates periodic flooding (naturally found on floodplain edges); once established, tolerates moderate drought via the deep tuber and root system. In arid western climates (intermountain West, Southwest), supplemental irrigation is needed for good tuber production.",
+    "drainagePreference": {
+      "description": "Adaptable; performs well in average, moist, or slightly wet soils; not ideal in permanently saturated ground but tolerates wet periods well. Tolerates imperfect drainage far better than most perennial food crops. Avoid only standing water that persists for weeks.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the best perennial food plants for heavy clay. The dense tuber and rhizome mass actively breaks up compacted clay over time, improving soil structure as a side effect of growth. Does not suffer root rot in clay the way many perennials do. Actually thrives in heavy clay soils common across the eastern US, Midwest, and Pacific Northwest. No amendment required for establishment; the plant improves the clay rather than needing the clay improved for it."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.8,
+      "max": 7,
+      "description": "5.8-7.0; highly adaptable — performs adequately in soils outside this range"
+    },
+    "texturePreference": "Grows in virtually any soil — clay, loam, sandy loam, disturbed fill, gravelly subsoil. Actually thrives in poor soils where more demanding plants struggle. Loose, deep loam produces the largest and smoothest tubers, but yield is respectable in any texture. Sandy soils make harvest easiest; heavy clay makes harvest more laborious but the plant grows just as vigorously.",
+    "rootCharacter": "Dense mass of rhizomes and tubers in the top 6-18\" of soil; tubers are knobby, elongated, and white to tan; the rhizome network is the primary mechanism of spread and the reason containment is so important"
+  },
+  "bloom": {
+    "bloomTime": "August–October; one of the latest-blooming native perennials in the landscape",
+    "bloomDescription": "Yellow, daisy-like sunflowers, 2-3\" across, borne in profusion at the branch tips; very similar in appearance to a small annual sunflower; the late bloom season fills a critical gap when most summer perennials have finished and native bees are preparing for winter",
+    "fragrance": "Mild, faintly sweet; not significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Highly attractive to a wide range of pollinators — bees (native bumblebees, sweat bees, honey bees), butterflies, and beneficial wasps; one of the most ecologically valuable late-season pollinator plants in the temperate native palette"
+  },
+  "yield": {
+    "edibleParts": "Tubers — the primary harvest; crisp, nutty, and mildly sweet with a flavor often compared to water chestnut or artichoke heart; eaten raw (sliced thin in salads, crudités), roasted, sautéed, in soups and stews, or pickled. Flavor and sweetness improve significantly after frost, as inulin is partially converted to fructose — the best tubers are harvested after the first hard frost or even left in the ground through winter and harvested as needed. Young shoots and flower buds are edible in small amounts. Flowers are edible as garnish. IMPORTANT DIGESTIVE NOTE: Helianthus tuberosus stores carbohydrates as inulin rather than starch. Inulin is not digested by human enzymes — it passes to the colon where gut bacteria ferment it, producing significant gas. This effect can be severe in some individuals. Start with very small portions (a few tablespoons) and gradually increase to build tolerance over several weeks. Cooking at low heat for extended time partially breaks down the inulin; pairing with digestive herbs (fennel, ginger, caraway) helps. This is the most commonly reported downside of Jerusalem artichoke and should not be understated.",
+    "harvestSeason": "October–March; tubers can be left in the ground all winter and harvested as needed — they store better in the ground than in the refrigerator; harvest before spring growth begins as tubers shrink rapidly once the plant breaks dormancy. In Zone 8-9, fall harvest begins earlier (September); in Zone 3-5, ground may freeze too hard for midwinter harvest — mulch heavily or harvest the bulk in late fall and store in damp sand in a root cellar.",
+    "medicinalUses": "The inulin content makes Jerusalem artichoke one of the best foods for blood sugar management — inulin does not raise blood glucose and acts as a prebiotic fiber, feeding beneficial gut bacteria. Historically used by Native American peoples for food; the tubers were a staple of many eastern nations. Modern interest focuses on the prebiotic and glycemic benefits.",
+    "craftOtherYield": "Tall stems can be used as a temporary windbreak or privacy screen during the growing season — a 6-10' wall of dense vegetation is effective. Dried stems can be used for staking or rough tying. The extensive tuber and root mass is useful for breaking up compacted soil over time — a legitimate soil remediation tool on heavy clay or construction-disturbed sites."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — all parts are safe; the primary caution is digestive (see Edible Parts above)",
+    "toxicityAnimals": "Generally safe; deer eat the tubers and browse the stems; livestock will consume the foliage without harm; the tubers are palatable to pigs, who will efficiently root out a planting (can be used intentionally for tillage)",
+    "allelopathy": "Not significantly allelopathic, but the dense colony shades out virtually all understory competition — it is a competitive excluder by physical dominance rather than chemical means",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herbaceous layer (reaches the low shrub layer by mid-season)"
+    },
+    "roles": [
+      "Perennial Staple Food Crop (primary — one of the most productive perennial carbohydrates in temperate permaculture)",
+      "Prebiotic / Medicinal Food",
+      "Dynamic Mineral Accumulator (moderate — the extensive tuber mass cycles large amounts of material through the soil)",
+      "Pollinator Support (excellent — critical late-season bloom)",
+      "Windbreak / Privacy Screen (seasonal, effective)",
+      "Soil Breaker (tuber mass loosens compacted soil)",
+      "Native Plant",
+      "Wildlife Habitat"
+    ],
+    "companionPlants": [
+      "Comfrey (excellent companion — comfrey's mineral-accumulating root and chop-and-drop habit complements the sunchoke's aggressive spreading; both can be contained in a shared wild edge zone)",
+      "nitrogen fixers (Caragana, Siberian pea shrub at the edge of a sunchoke patch adds fertility)",
+      "native wildflowers at the border (Echinacea, Monarda — these will eventually be outcompeted but can coexist in early years)",
+      "corn and beans (traditional Three Sisters companion)"
+    ],
+    "antagonists": [
+      "Do not plant near any plant you value that cannot compete — the spreading tuber mass will displace neighbors over time; not compatible with formal beds",
+      "herb gardens",
+      "or annual vegetable plots without a buried root barrier; keep away from foundation plantings"
+    ],
+    "coppiceable": "No; cut back annually after frost; stems can be cut in late summer to reduce height and encourage branching but this is rarely necessary"
+  },
+  "wildlife": {
+    "attracts": "Native bees (bumblebees, sweat bees, mining bees — heavily worked during August-October bloom), butterflies (monarchs, swallowtails, skippers), beneficial wasps, songbirds (goldfinches, chickadees harvest seeds from dried heads in winter)",
+    "hostPlantFor": "Some native Helianthus-specialist bees (Melissodes, Svastra) use Helianthus species as pollen hosts; supports several species of native bee that require composite flowers",
+    "nestingHabitat": "Tall dried stems provide overwintering habitat for stem-nesting solitary bees and wasps if left standing through winter; the dense colony provides ground-level cover for small mammals and ground-nesting birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer eat the tubers when the ground softens after frost, and browse the stems during the growing season; not deer-resistant. A dedicated sunchoke patch in deer country will be visited regularly. Deer browsing does not eliminate the planting (the tuber mass is extensive and regenerates faster than deer can consume it) but will reduce yield. Where deer pressure is high, fencing the patch or using deterrent sprays on foliage during the growing season can protect yield. Unfenced patches in high-pressure areas should be sized larger to compensate for browse losses."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light spray; not suitable for direct roadside planting in heavily salted northern corridors"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — the dense tuber mass stores water and the plant has deep roots; tolerates dry summers without irrigation after the first season. In arid western climates, supplemental water improves yield but the plant survives without it."
+    },
+    "other": "Tolerates flooding, compacted soil, clay, poor fertility, wind, and neglect better than almost any other perennial food plant; genuinely one of the most indestructible plants in the temperate palette. Heat-tolerant through Zone 9. Humidity is not a concern — no significant foliar disease issues even in the humid Southeast or Mid-Atlantic."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once placed correctly — essentially self-maintaining; the primary maintenance task is managing spread",
+    "pruningNotes": "Cut stems to the ground after hard frost or leave standing for winter wildlife value — either is fine. If the patch is expanding beyond desired limits, cut rhizomes at the patch edge in spring with a sharp spade; any tuber pieces left in the soil will re-sprout, so remove and eat or compost the dug tubers rather than leaving them. To reduce height (e.g., near a path), cut stems by half in late June — this delays bloom slightly and produces a bushier plant at 4-6' instead of 8-10'. If you decide to remove a sunchoke planting, expect 2-3 years of persistent digging and re-sprouting before the patch is fully eliminated — it is not a commitment to be made casually.",
+    "propagationMethods": [
+      "Tuber division (plant any tuber piece 1-2\" long, 3-4\" deep, in spring after last frost or in fall); seed (plants do produce viable seed but tubers are the standard propagation method); the plant propagates itself aggressively and no special technique is required"
+    ]
+  },
+  "cultivarNotes": "The straight species produces well and is appropriate for wild food areas or large dedicated patches where tuber appearance is secondary to productivity. For kitchen use, smooth-skinned cultivars are strongly preferred — the knobbiness of wild-type tubers makes them tedious to clean. Cultivar performance is consistent across the full Zone 3-9 range; selection is based on tuber shape, harvest timing, and plant height rather than climate adaptation.\n**'Fuseau'** — the gold standard for kitchen use; long, smooth, carrot-shaped tubers with minimal knobs; by far the easiest to clean and prepare; good flavor; widely available. Performs well in all zones. The top recommendation for any gardener prioritizing culinary use.\n**'Mammoth French White'** — large, relatively smooth tubers with white skin; excellent yield; easier to clean than the straight species; good all-purpose choice. Slightly higher total yield than Fuseau in most trials.\n**'Red Fuseau'** — smooth, elongated tubers with attractive reddish-purple skin; very good flavor; similar ease of preparation to Fuseau; visually distinctive. The red skin holds up well in roasting.\n**'Stampede'** — early-maturing (2-3 weeks ahead of standard cultivars), compact habit (4-5' tall vs. the usual 6-10'); blooms earlier. The best choice for shorter-season areas (Zone 3-5) where early frost may catch standard cultivars before tubers fully size up. Also the best choice where the standard 6-10' height is a concern — though still spreads aggressively by tubers despite the compact top growth.\n**'Dwarf Sunray'** — compact habit similar to Stampede; good for Zone 6-8 gardeners who want sunchokes in a more managed setting without the towering height.\nAll cultivars spread aggressively — there is no non-spreading cultivar. The cultivar choice affects tuber character and plant height, not growth habit.\n**Zone 3-5:** 'Stampede' is the safest choice for reliable sizing before hard freeze. 'Fuseau' and 'Mammoth French White' perform well but benefit from heavy mulch to extend the harvest window.\n**Zone 6-7:** All cultivars perform well. 'Fuseau' is the default kitchen recommendation; 'Stampede' if height is a concern.\n**Zone 8-9:** All cultivars perform well; the long season means even late-maturing types size up fully. Heat is not a limiting factor. Earlier harvest window (September onward).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated sunchoke patch",
+      "food forest wild/edge zone",
+      "wild food area",
+      "seasonal windbreak/privacy screen",
+      "large naturalistic perennial border (with root barrier)",
+      "field edge",
+      "soil remediation on compacted or disturbed sites"
+    ],
+    "designPlacement": "Best placed at property edges, along fence lines, at the back of a food forest, or in any area where aggressive spread is an asset rather than a liability. Avoid formal beds, vegetable gardens, herb gardens, and any mixed planting without a 12-18\" buried root barrier. The 6-10' height makes this a background plant — place on the north side of shorter plantings to avoid shading them. A patch of 3-5 tubers will eventually fill a 10'x10' area and produce 30-50+ lbs of tubers annually. In deer-heavy areas, size patches larger to compensate for browse, or fence the planting. South-facing placements maximize tuber yield; north-facing placements reduce height slightly and delay maturity.",
+    "acquisitionStatus": "Not yet on site"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Helianthus_tuberosus",
+    "inaturalist": "https://www.inaturalist.org/taxa/122970-Helianthus-tuberosus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=277201"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — native to Pennsylvania; found throughout the state in disturbed areas, floodplain edges, roadsides, old fields, and forest margins. Common in central PA landscapes.",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Not regulated. The aggressive tuber spread is a management concern but not a legal one.",
+      "drainage": "Thrives in Hegins red clay without amendment. The compacted, drainage-challenged clay at this site is no obstacle — sunchoke tuber mass will actively loosen and aerate the soil over successive seasons. In-ground planting is fully appropriate; raised beds are unnecessary and would actually limit the tuber spread that makes this plant productive.",
+      "soil": "Hegins red clay presents no growth problem. Harvest in heavy clay is more work than in loose soil — a digging fork is essential, and wet-season harvest (late fall/early spring) will be messy. Tubers will be knobbier in compacted clay than in loose loam, which makes smooth-skinned cultivars even more important for kitchen use at this site.",
+      "cultivarNotes": "'Fuseau' or 'Mammoth French White' for kitchen use. 'Stampede' if planting in a location where 6-10' height would be a problem. All cultivars will size up fully before hard freeze in central PA's typical October-November frost timing.",
+      "designPlacement": "NOT recommended for Sections A, B, or C — the aggressive spreading habit is incompatible with managed beds, and the 6-10' height exceeds the 5' limits in Sections A and C. Best placement is a dedicated patch at the property edge, the back of the lot, or along a fence line where spread in one direction is bounded by a hard surface. A section of the east wildlife corridor would be an excellent placement — the sunchoke patch provides a permanent food source and late-season pollinator habitat while the spreading habit is an asset rather than a problem in that context. If grown in a raised or bordered bed, install a 12-18\" deep HDPE root barrier before planting.",
+      "siteObservations": "Strong candidate for the property edge or wild food zone. The aggressive spreading habit, deer interest in tubers, and towering height all argue against placing this in a formal bed. Deer from the east wildlife corridor will browse the stems and dig tubers after frost — this reduces yield but does not threaten the colony, as the tuber mass regenerates faster than deer can consume it. An unfenced patch should be oversized to account for deer browse losses. In the right wild-edge context, this is one of the most productive and lowest-maintenance perennial food plants available — arguably the best calorie-per-square-foot perennial for this site. The Hegins red clay soil is actually an advantage: the tuber mass will break up the compacted clay over time, improving soil structure as a side benefit. Prioritize 'Fuseau' or 'Mammoth French White' for kitchen usability. Start with 3-5 tubers in a contained or edge location and harvest aggressively each fall to manage the expansion."
+    }
+  }
+}

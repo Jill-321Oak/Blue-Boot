@@ -1,0 +1,165 @@
+{
+  "id": "hemerocallis",
+  "name": {
+    "commonName": [
+      "Daylily (Orange Daylily",
+      "Tawny Daylily)"
+    ],
+    "latinName": "Hemerocallis fulva (genus: Hemerocallis)",
+    "family": "Asphodelaceae (formerly Xanthorrhoeaceae / Liliaceae)"
+  },
+  "range": {
+    "nativeRange": "Asia (China, Japan, Korea); naturalized throughout temperate North America, Europe, and parts of South America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to any US state. Hemerocallis fulva has naturalized extensively across the eastern US from Maine to Florida and west to the Great Plains, appearing along roadsides, old homesteads, ditchbanks, and woodland edges. It is less commonly naturalized in the arid West and Pacific Northwest interior, though it persists where irrigated or near water. Hybrid cultivars do not naturalize."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "H. fulva is classified as invasive or potentially invasive in several US states and regions. It is listed as invasive in Wisconsin, Illinois, and several New England states. It is flagged as a plant of concern in parts of the mid-Atlantic and upper Midwest. H. fulva spreads aggressively by rhizome into natural areas — particularly floodplains, moist woodland edges, and riparian corridors — where it forms dense monocultures that displace native herbaceous plants. It does not spread meaningfully by seed in North America (most naturalized clones are triploid and sterile), so its invasion mechanism is entirely vegetative. Modern hybrid cultivars are clump-forming and do not exhibit invasive behavior. Gardeners in states with invasive listings should avoid planting the straight species H. fulva near natural areas; hybrid cultivars are not subject to these concerns."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "18-48\"; H. fulva scapes can reach 3-4' in bloom; foliage mound 18-24\"",
+    "spread": "Vigorous and expanding; H. fulva colonies spread indefinitely by rhizome if unchecked; modern cultivars expand slowly to 24-36\"",
+    "spacing": "18-24\" for cultivars; H. fulva will fill space aggressively — plant where spread is welcome",
+    "growthRate": "Fast — H. fulva is one of the most vigorous spreading perennials in the temperate US landscape",
+    "timeToMaturity": "Blooms from first or second season; edible flower buds available from first summer",
+    "lifespan": "Indefinite — spreads vegetatively; established colonies persist for generations without care",
+    "deciduousEvergreen": "Herbaceous — dies back fully in winter; foliage emerges early in spring (timing varies by zone: March in Zone 7-8, April in Zone 5-6, May in Zone 3-4); some southern-bred cultivars are semi-evergreen or evergreen in Zone 8+",
+    "winterInterest": "Low — dies back completely; previous year's dried foliage becomes litter; no meaningful winter presence"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms best in full sun (6+ hours); tolerates significant shade but flowering diminishes proportionally. In Zone 8+ and the Deep South, afternoon shade prevents flower color from bleaching and extends individual bloom duration. In Zone 3-6, full sun is preferred for maximum bloom count.",
+    "water": "Medium; drought tolerant once established; tolerates periodic wet conditions; extremely adaptable. In the humid East and Midwest, supplemental irrigation is rarely needed for established plants. In the arid West and Southwest, regular irrigation is required — daylilies are not true xeric plants despite their drought tolerance.",
+    "drainagePreference": {
+      "description": "Adaptable to a wide range of drainage conditions, from seasonally wet clay to well-drained sandy loam. H. fulva's naturalization along ditchbanks, roadside swales, and compacted fill soils demonstrates tolerance of both poor drainage and drought. The fleshy root tubers can rot in truly waterlogged conditions (standing water for weeks), but short-term saturation is well tolerated. Ideal drainage is moderate — moist but not soggy.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent. Daylilies are among the most reliable performers in heavy clay across the eastern US, Midwest, and Pacific Northwest. The dense, fibrous root system with fleshy tubers tolerates compaction and poor aeration that would kill many perennials. Clay's moisture retention actually benefits daylilies during summer dry spells. No amendments are strictly necessary for establishment in clay, though incorporating compost at planting improves first-year root development. H. fulva has naturalized extensively in heavy clay soils with zero amendment."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates mildly acidic to neutral soils across the US; performs acceptably in slightly alkaline conditions (to 7.8) common in limestone regions of the Midwest and Great Plains"
+    },
+    "texturePreference": "Thrives in almost any soil texture — clay, loam, sandy loam, gravelly fill. No meaningful preference. H. fulva has naturalized in roadside gravel, compacted fill, and heavy clay with equal vigor. Loamy soil with moderate organic matter produces the best bloom on hybrid cultivars, but this is optimization rather than necessity.",
+    "rootCharacter": "Dense, fibrous root system with small fleshy tubers at the root tips; rhizomatous; spreads laterally by rhizome to form expanding clumps; roots are tenacious and difficult to fully eradicate once established"
+  },
+  "bloom": {
+    "bloomTime": "June-July for H. fulva; modern hybrid cultivars range from May through September (early, mid, late, and rebloomers available); bloom timing shifts by 2-3 weeks between Zone 5 and Zone 8",
+    "bloomDescription": "H. fulva — large (4-5\"), tawny orange, lily-like flowers with six tepals; each individual flower opens for a single day only, hence the common name; scapes carry multiple buds opening in succession over 3-4 weeks; modern hybrids range from miniatures (2\") to large-flowered (7\"+) in every color except true blue — yellows, pinks, reds, purples, near-whites, bicolors, and complex patterns",
+    "fragrance": "H. fulva — faint to none; many yellow-flowered hybrids (especially those with H. lilioasphodelus in their background) are notably fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; attracts bumblebees and other long-tongued bees; H. fulva sets very little viable seed in North America (most clones are triploid sterile) and spreads almost entirely vegetatively"
+  },
+  "yield": {
+    "edibleParts": "Flower buds (primary, most prized), open flowers, young spring shoots, root tubers — all edible; see Cautions",
+    "harvestSeason": "Spring shoots emerge early (timing varies by zone — March-April in Zone 6-7, later northward); flower buds June-July (H. fulva) through summer into September (hybrid rebloomers); tubers anytime roots are accessible",
+    "medicinalUses": "Traditional use in Chinese medicine; not significantly used in Western herbalism; not a primary medicinal plant",
+    "craftOtherYield": "Dried flower buds (\"golden needles\" / \"tiger lily buds\") are a staple ingredient in traditional Chinese cuisine and can be dried at home; fibrous leaves have been used for weaving and cordage in traditional contexts"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally safe; some individuals experience gastrointestinal upset — nausea, cramping — especially from raw flowers or when consuming large quantities; cooking (sauteing, stir-frying, blanching) significantly reduces or eliminates GI issues; introduce to the diet gradually; avoid eating large raw quantities until personal tolerance is established",
+    "toxicityAnimals": "*** SEVERE CAT TOXICITY — ALL Hemerocallis species and hybrids are highly toxic to cats. All parts of the plant — flowers, leaves, pollen, stems, and roots — cause acute kidney failure in cats. Even small exposures (a few petals, licking pollen from fur) can be fatal. Mortality without immediate veterinary treatment is very high. This is one of the most dangerous common garden plants for cats. Do not plant daylilies in any garden where cats roam freely. Dogs and other pets are generally not affected. *** Non-toxic to horses, cattle, dogs. Not toxic to people (see above for GI caution).",
+    "allelopathy": "Not documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous ground layer"
+    },
+    "roles": [
+      "Food (significant — buds, flowers, shoots, tubers)",
+      "Edible Landscape",
+      "Erosion Control (excellent — dense rhizome mat holds slopes)",
+      "Ground Cover (H. fulva)",
+      "Beauty / Ornamental (hybrid cultivars especially)",
+      "Wildlife Forage (flowers)"
+    ],
+    "companionPlants": [
+      "Comfrey (neighboring herbaceous layer; comfrey's deep roots break compaction while daylily holds surface)",
+      "alliums (compatible edible ground layer)",
+      "yarrow",
+      "native grasses",
+      "fruit tree guilds (daylily as ground layer under canopy layer)"
+    ],
+    "antagonists": [
+      "None documented; H. fulva's aggressive spread can outcompete less vigorous herbaceous plants — site accordingly"
+    ],
+    "coppiceable": "N/A — herbaceous; cut back spent scapes to the base; leave foliage to photosynthesize through fall before dying back naturally"
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (primary pollinator), long-tongued native bees, hummingbirds (attracted to tubular orange flowers), butterflies; open flowers provide accessible nectar",
+    "hostPlantFor": "Not a significant native insect host plant in the US (Asian genus, limited co-evolved native relationships); minimal value as a host compared to native alternatives",
+    "nestingHabitat": "Dense foliage clumps provide light ground cover; not a significant nesting plant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse daylily foliage and buds, sometimes heavily; the dense rhizome system means plants recover readily and are rarely killed by browse; established H. fulva colonies are essentially impossible to eliminate by deer pressure alone. Hybrid cultivars in managed beds may show more conspicuous browse damage because gardeners notice it. Young transplants benefit from temporary fencing or repellent spray for the first season until root systems establish. Once established, daylilies generally persist through even heavy browse — they are not deer-proof but they are deer-resilient."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — H. fulva has naturalized extensively along salted roadsides across the northern US, demonstrating high tolerance to road salt spray and soil salt accumulation; suitable for roadside plantings and near salted walkways"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — tolerates extended dry periods; H. fulva grows in roadside gravel with no supplemental water; in the arid West, supplemental irrigation is still needed but daylilies tolerate dry spells better than most perennials"
+    },
+    "other": "Tolerates poor soil, compaction, air pollution, neglect, periodic flooding, and extreme temperature swings; one of the most adaptable perennials in cultivation across the entire lower 48"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low (hybrid cultivars in managed beds) to Very Low (H. fulva in naturalized/slope settings)",
+    "pruningNotes": "Remove spent flower scapes at the base after bloom ends for tidiness; cut back winter-killed foliage in early spring before new growth emerges (or leave it — the dead foliage breaks down quickly); divide hybrid cultivars every 3-5 years to maintain vigor and bloom quality; H. fulva rarely needs division and will simply continue expanding; to control H. fulva spread, rhizomes must be physically dug and removed — herbicide is the only practical option for large established colonies; repeated cutting alone will not eliminate it",
+    "propagationMethods": [
+      "Division (primary method; spring or fall; H. fulva spreads so readily that division is effectively automatic)",
+      "seed (possible but H. fulva NA clones are largely sterile; hybrids will not come true from seed)"
+    ]
+  },
+  "cultivarNotes": "The hybrid daylily complex is enormous — over 80,000 registered cultivars. Key distinctions for gardeners across the lower 48:\n**Zone 3-5 (Northern US / Upper Midwest / Mountain West):** Choose cultivars bred for cold hardiness and early bloom initiation. Dormant-type cultivars (fully deciduous) are essential — evergreen and semi-evergreen types suffer winter crown damage in Zone 3-4. Strong performers: 'Stella de Oro' (12-18\", yellow, prolific rebloomer — the gold standard across all zones), 'Happy Returns' (18\", soft yellow, lemon-scented, reliable rebloomer), 'Rosy Returns' (18\", pink-lavender, excellent rebloomer). All three are dormant types that thrive in cold winters. Avoid cultivars from Florida or Gulf Coast breeders unless specifically rated for northern zones.\n**Zone 6-7 (Mid-Atlantic / Central US / Pacific NW):** The widest selection performs well. Both dormant and semi-evergreen types succeed. Full-size mid-season cultivars shine here: 'Chicago Apache' (28\", vivid red), 'Hyperion' (36-40\", classic fragrant yellow — one of the oldest hybrids still widely grown), 'Bela Lugosi' (28-32\", deep purple), 'Pardon Me' (18\", dark red, fragrant, rebloomer). Southern-bred cultivars with complex patterning (eyes, edges, ruffling) may not rebloom reliably in the shorter season — verify performance ratings for your specific zone before investing in expensive cultivars.\n**Zone 8-9 (Deep South / Gulf Coast / Desert Southwest):** Evergreen and semi-evergreen types are preferred — dormant cultivars may not get enough chill and can bloom erratically. Southern breeders (Stamile, Trimmer, Salter) produce cultivars optimized for long growing seasons, with elaborate patterning and extended bloom periods. Heat tolerance is rarely an issue, but afternoon shade prevents color bleaching on dark-flowered cultivars. In the arid Southwest, reliable irrigation is essential.\n**For edible use (all zones):** H. fulva and any yellow-flowered cultivar are traditional preferences in Chinese cuisine, but all Hemerocallis cultivars produce edible buds and flowers — edibility is genus-wide. Rebloomers significantly extend the harvest window.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Slope stabilization and erosion control (H. fulva)",
+      "edible landscape",
+      "food forest ground layer",
+      "low-maintenance perennial border",
+      "cut flower garden (hybrid cultivars)",
+      "mass planting",
+      "roadside naturalization"
+    ],
+    "designPlacement": "H. fulva is most appropriate for slopes, banks, ditches, or any area where spreading and naturalization is welcome — not for managed beds where it will need constant containment. Hybrid cultivars (especially compact rebloomers) are suited to perennial borders, foundation plantings, and edible landscape beds. In food forest design, daylilies function well as a productive, low-maintenance ground layer beneath fruit trees — the edible buds are a genuine yield and the plants require almost no attention once established. Place where the height of scapes (up to 3-4') will not block shorter plants behind them. Full sun positions produce the most bloom; part shade is acceptable but reduces flower count. Keep away from any area accessible to cats.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemerocallis_fulva",
+    "inaturalist": "https://www.inaturalist.org/taxa/126583-Hemerocallis-fulva",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=k430"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or North America. H. fulva is an Asian species that has naturalized widely across eastern PA and virtually all of the eastern US, commonly found along roadsides, railroad embankments, and old homesteads throughout the state.",
+      "paInvasiveStatus": "Not listed on Pennsylvania's official noxious weed list or the PA DCNR invasive species list. However, H. fulva behaves invasively in practice — it escapes cultivation and forms persistent colonies along roadsides and in disturbed habitats throughout the state. Its absence from formal lists reflects regulatory gaps rather than ecological innocence. Treat it as potentially invasive when planting near natural areas in PA.",
+      "drainage": "Hegins red clay is no obstacle for daylilies. H. fulva thrives in identical compacted red clay soils throughout central PA without any amendment. For hybrid cultivars in managed beds, incorporating 2-3\" of compost at planting will improve establishment speed but is optional — daylilies will grow in the unamended clay. Raised beds are unnecessary. Drainage issues at the Hegins site after heavy rain are irrelevant to daylilies; they tolerate temporary saturation without damage.",
+      "soil": "Hegins red clay requires no special preparation for daylilies. The species grows vigorously in identical soil along roadsides throughout Schuylkill County. For hybrid cultivars in display beds, top-dressing with compost annually will improve bloom quality, but the clay itself is not a limitation.",
+      "cultivarNotes": "'Stella de Oro', 'Happy Returns', and 'Rosy Returns' are all proven performers for the mid-Atlantic climate. For larger flowers, 'Hyperion' and 'Bela Lugosi' are reliable. Southern-bred cultivars with complex patterns often do not rebloom in PA's shorter season — stick with cultivars that have documented reblooming in Zone 6. For edible production, prioritize rebloomers for maximum bud harvest from June through September.",
+      "designPlacement": "Hybrid cultivars (especially compact rebloomers like 'Stella de Oro' or 'Happy Returns') are suitable for Section C (south-facing, warm, dry) as a low-maintenance, drought-tolerant edible ornamental within the 5' height limit. H. fulva is a strong candidate for slope erosion control elsewhere on the property wherever cats are not a concern. In the food forest context, daylilies work as a productive ground layer beneath apple or paw paw canopy. Not ideal for Section A (beauty-first with purple/pink/yellow palette) unless using cultivars in the correct color range; the tawny orange of H. fulva clashes with the Section A palette.",
+      "siteObservations": "H. fulva is freely available by division from roadsides and established gardens throughout eastern PA — essentially free to acquire in quantity. Hybrid cultivars are widely available at nurseries; bare root divisions available online in spring at low cost. Before acquiring H. fulva from roadsides, confirm no cat access to the planting area. Deer browse daylily foliage and buds at this site — the active deer pressure from the east wildlife corridor means hybrid cultivars in Section C may show browse damage, but established plants recover and the rhizome system ensures persistence. H. fulva along salted roadsides throughout Schuylkill County confirms the species' salt tolerance in local conditions."
+    }
+  }
+}

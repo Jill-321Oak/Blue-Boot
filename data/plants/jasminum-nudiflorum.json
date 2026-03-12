@@ -1,0 +1,158 @@
+{
+  "id": "jasminum-nudiflorum",
+  "name": {
+    "commonName": [
+      "Winter Jasmine",
+      "Early Jasmine"
+    ],
+    "latinName": "Jasminum nudiflorum",
+    "family": "Oleaceae"
+  },
+  "range": {
+    "nativeRange": "China (western provinces — Sichuan, Yunnan, Gansu)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely cultivated as an ornamental across the eastern US, Mid-Atlantic, Southeast, and Pacific Northwest. Naturalized in scattered locations in the Southeast but not considered broadly established outside cultivation."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US. Winter jasmine spreads locally by stem layering (arching stems root where they contact soil) but does not produce viable seed in most US climates and does not escape into wildlands. Not listed on any state noxious weed list or federal invasive species list. The layering spread is slow and manageable with annual pruning."
+    },
+    "zone": {
+      "min": 6,
+      "max": 9,
+      "description": "6-9 (some sources list Zone 5b with careful siting on a warm wall; reliably hardy through Zone 6a)"
+    }
+  },
+  "description": {
+    "height": "3-5' as a mound; 4-15' if trained against a wall or slope; more of a sprawling/scrambling shrub than a true climber",
+    "spread": "4-7' as a mound; wider if allowed to layer and spread",
+    "spacing": "5-7' from other plants for a mound form; adjust for trained/espalier form",
+    "growthRate": "Moderate to fast once established; vigorous spreading habit",
+    "timeToMaturity": "Flowers from first or second year",
+    "lifespan": "Long-lived; essentially permanent once established",
+    "deciduousEvergreen": "Semi-deciduous to deciduous — green stems are the dominant winter presence; leaves drop in fall; stems remain green through winter (the \"green stem\" look is a distinctive winter feature). More deciduous in colder zones (6-7); may retain some foliage into winter in Zone 8-9.",
+    "winterInterest": "Outstanding — the primary reason to grow this plant; bright yellow 5-petaled flowers appear on bare green stems from late January through March (timing varies by zone and aspect — as early as December in Zone 8-9, late February in Zone 6); the green stems themselves provide a fine-textured evergreen-like appearance through winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms best in full sun; produces adequate bloom in part shade; adaptable. In Zone 8+ where summers are hot, light afternoon shade is acceptable without reducing bloom.",
+    "water": "Low to medium; drought tolerant once established. In arid western climates, supplemental summer irrigation helps maintain foliage quality.",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates a range of soil conditions but does not tolerate prolonged waterlogging, which causes root rot. Good drainage is especially important through winter when the root zone is cold and wet simultaneously.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — winter jasmine tolerates clay better than many ornamentals but is not a clay specialist. In heavy, poorly drained clay, root rot risk increases during wet winters. Amended clay (compost incorporation to break up compaction and improve drainage) supports good performance. Planting on a slight slope or raised mound helps in heavy clay regions across the eastern US and Midwest. Avoid low-lying clay positions where water pools."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; broadly adaptable across most US soils"
+    },
+    "texturePreference": "Average to well-drained loam is ideal; performs acceptably in sandy soils with adequate moisture and in amended clay. Avoid heavy unamended clay or perpetually wet soils.",
+    "rootCharacter": "Fibrous spreading root system; stems root where they touch the soil (layering) — this is the primary spread mechanism; manageable"
+  },
+  "bloom": {
+    "bloomTime": "January through March in Zone 6-7; December through February in Zone 8-9 — one of the very few ornamentals that blooms reliably in winter; flowers appear on bare stems well before most other plants show life",
+    "bloomDescription": "Small, bright canary-yellow 5-6-petaled flowers, 1\" wide, clustered at the nodes of bare green arching stems; flowers are bright and cheerful against the winter landscape; they are NOT fragrant — a significant distinction from the familiar summer jasmine (J. officinale); the pure visual impact is the value",
+    "fragrance": "None — despite being a jasmine, winter jasmine has no fragrance; this is the primary trade-off vs. other jasmines",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Some winter bees and flies may visit on warm days; early honeybees have been observed at winter jasmine blooms during mild periods"
+  },
+  "yield": {
+    "edibleParts": "None",
+    "harvestSeason": "N/A",
+    "medicinalUses": "None significant in Western herbalism; some traditional Chinese uses",
+    "craftOtherYield": "Cut branches forced indoors — cut stems in January, bring inside to a warm room, and branches burst into bloom within 1-2 weeks; one of the best plants for winter forcing"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Moderately toxic — berries and foliage contain glycosides that cause GI distress; not a high-risk plant in normal garden exposure (berries rarely form on this species); wash hands after handling",
+    "toxicityAnimals": "Moderately toxic to dogs and cats — berries and foliage can cause GI upset; not a primary toxicity concern as fruiting is rare",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub / Vine (trained)"
+    },
+    "roles": [
+      "Beauty (primary — winter bloom is the entire value proposition)",
+      "Winter Color",
+      "Slope Stabilization (rooting stems secure loose soil on banks)",
+      "Ground Cover (if allowed to sprawl)"
+    ],
+    "companionPlants": [
+      "Plant near spring-blooming bulbs (crocus, daffodils, early tulips) whose bloom follows the winter jasmine; combine with other early-season plants to create a continuous early color display from January through April"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Early emerging bees and flies during mild winter periods; minimal wildlife value compared to native shrubs",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Dense arching stems provide some structure for ground-nesting birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — jasmines are not typically preferred browse; the semi-woody stems and small leaves are less palatable than broad-leaved alternatives. Young plants may be nibbled opportunistically in high-pressure areas but established plants are generally left alone. Temporary fencing or repellent spray recommended for the first 1-2 seasons in areas with heavy deer pressure."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — reasonable tolerance for road salt exposure and coastal salt spray; recovers from incidental winter salt contact"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — deep fibrous roots sustain the plant through dry periods; supplemental water during the first two summers aids establishment"
+    },
+    "other": "Cold hardiness — reliable through Zone 6; site on a south or east-facing aspect for best winter protection and earliest bloom in the northern end of the range (Zone 6). West and north aspects may delay or reduce flowering in harsh winters. Wind tolerance is moderate; strong winter winds can desiccate green stems and damage open flowers, so a sheltered wall position is ideal in exposed locations."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "The most important task: prune immediately after bloom ends (late March-April); cut back to a low framework of 12-18\" or cut all flowering shoots back by two-thirds; this forces vigorous new long stems which become next winter's flowering wood; without this annual cut, the plant becomes congested and tangled; flowering declines on old overcrowded wood. Tie in long new shoots to the wall or fence if using as a trained/wall plant. Remove any dead or weak stems at the same time.",
+    "propagationMethods": [
+      "Layering (very easy — peg an arching stem to the ground; roots form within one season; sever and transplant)",
+      "hardwood cuttings (fall/winter — reasonable success)",
+      "stem sections with nodes (root in moist medium)"
+    ]
+  },
+  "cultivarNotes": "The straight species is the standard and is the most widely available form across the US. No significantly improved named cultivars are in broad commerce for this species — most nurseries sell only the type. A few minor selections exist: 'Aureum' has gold-variegated foliage but is rare in US nurseries and less vigorous. For gardeners in all zone bands (Zone 6-9), the straight species is the correct choice. In Zone 6-7 (northern range), siting matters more than cultivar selection — a warm south or east-facing wall gains the equivalent of a half-zone or more in winter protection. In Zone 8-9, the species performs reliably in any aspect and bloom timing shifts earlier (December-January). Note for all zones: several other jasmines offer fragrance but are less cold-hardy — Jasminum officinale (summer jasmine, Zone 7-10) and Jasminum x stephanense (Zone 6-9, fragrant pink flowers in summer, possible in Zone 6 in a sheltered position).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Winter garden",
+      "south or east-facing wall or slope",
+      "early color garden",
+      "bank stabilization",
+      "forced branches for indoor use"
+    ],
+    "designPlacement": "Best sited against a south or east-facing wall, fence, or slope where reflected heat and shelter advance bloom timing and protect flowers from hard freezes. The warm microclimate of a wall position can advance bloom by 2-4 weeks compared to an open site. Train arching stems against the structure for maximum floral display, or allow to mound freely on a bank for slope stabilization. Plant where the yellow winter flowers will be visible from a window, porch, or frequently used path — the psychological and aesthetic value of winter bloom is highest when seen daily. Combine with early spring bulbs and witch hazel for a continuous January-April color sequence. Maintain the 5' height with annual post-bloom pruning if space is limited; left unpruned, trained specimens can reach 10-15' on a wall.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jasminum_nudiflorum",
+    "inaturalist": "https://www.inaturalist.org/taxa/164232-Jasminum-nudiflorum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a152"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list. Same as general Invasive field — no concerns.",
+      "drainage": "At the Hegins site, the compacted red clay with drainage issues requires amendment before planting. Incorporate 4-6\" of compost into the planting area and plant slightly elevated (mound the root crown 2-3\" above grade). A south-facing wall position (Section C) helps because the warm aspect dries soil faster through winter, reducing waterlogging risk. Not a candidate for unamended in-ground clay at this site.",
+      "soil": "Hegins red clay needs compost amendment (4-6\" worked in) before planting. The naturally slightly acidic pH of the site clay (~5.5-6.5) is within acceptable range. Raised bed planting is not required but mounding above grade is recommended.",
+      "cultivarNotes": "The straight species is the correct choice. Site against a south-facing wall for earliest bloom and best winter survival. J. nudiflorum provides winter color while other fragrant plants (lavender, mock orange, bee balm) cover fragrance needs in other seasons.",
+      "designPlacement": "Section C (south-facing back porch strip) is the ideal placement — the warm, dry microclimate advances bloom timing into January-February and the wall proximity provides winter shelter. The yellow flowers are visible from the back porch during the bleakest winter months. Stays within the 5' height limit with annual post-bloom pruning. Not suited for Section A (north-facing, cold microclimate would delay bloom and reduce reliability). Not a kitchen herb, so not a fit for Section B.",
+      "siteObservations": "The compacted red clay at this site requires amendment before planting — compost incorporation and mounding above grade are essential (see Drainage and Soil sections). Deer pressure from the east wildlife corridor is not a significant concern for this plant given its good deer resistance, but a temporary fence or repellent spray for the first season is prudent. The Section C south wall will provide the warmest microclimate on the property, making this the most reliable position for consistent winter bloom in Zone 6a. Expect bloom from late January through March in most years; in a harsh winter, bloom may be delayed to mid-February. Prune hard immediately after bloom (late March-April) to keep within the 5' height limit and ensure vigorous flowering wood for the following winter."
+    }
+  }
+}

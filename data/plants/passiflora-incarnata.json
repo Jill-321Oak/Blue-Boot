@@ -1,0 +1,162 @@
+{
+  "id": "passiflora-incarnata",
+  "name": {
+    "commonName": [
+      "Maypop",
+      "Purple Passionflower",
+      "Wild Passionflower"
+    ],
+    "latinName": "Passiflora incarnata",
+    "family": "Passifloraceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and south-central United States — Virginia to Florida, west to Kansas and Texas; also found in parts of southern Pennsylvania and scattered northward where naturalized",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern and south-central US, from the mid-Atlantic south through Florida and west to Kansas, Oklahoma, and Texas; naturalized beyond its traditional range northward into the upper mid-Atlantic and lower Midwest; not native to the western US, Pacific Northwest, or northern tier states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive at the federal level or on most state noxious weed lists; however, it spreads aggressively by underground rhizomes and can colonize well beyond the intended planting area in any region where it is hardy; gardeners in Zones 6-9 should plan for lateral spread and install root barriers (buried 12-18\" deep) if containment is needed; the rhizome spread is a management issue rather than an ecological invasive threat, as P. incarnata rarely escapes into undisturbed wild habitats"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "6-15' as a climbing vine on support; sprawling without support",
+    "spread": "Wide; underground rhizomes spread the plant laterally; can colonize a significant area over several years",
+    "spacing": "One plant; allow to spread as desired or install root barrier",
+    "growthRate": "Moderate to fast once established; can be slow in year 1-2 while root system establishes",
+    "timeToMaturity": "First flowers and possibly fruit in year 1-2; full production from year 3-4",
+    "lifespan": "Long-lived perennial; the underground root system is essentially permanent; aboveground dies back each winter",
+    "deciduousEvergreen": "Dies back to the ground each fall in Zone 5-7; the underground root system survives and sends up new shoots each spring (sometimes alarmingly far from the original planting — the spreading rhizomes are vigorous); in Zone 8-9 may retain some stem base through mild winters",
+    "winterInterest": "None — dies back completely"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; flowers and fruits best in full sun; tolerates significant shade but with reduced bloom and fruit production",
+    "water": "Medium; drought tolerant once established; the spreading root system accesses moisture across a wide area",
+    "drainagePreference": {
+      "description": "Average to well-drained; adaptable; native to disturbed areas, roadsides, and woodland edges — tolerates a range of conditions; poor drainage with standing water can lead to root rot, but brief waterlogging is tolerated",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — P. incarnata is native to a wide range of soils including clay-loam and disturbed heavy soils; the vigorous rhizomatous root system pushes through compacted substrates effectively; in heavy unamended clay, establishment may be slower in year 1 but the rhizomes adapt well; amending with coarse organic matter at planting improves first-year root development but is not strictly required"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; average garden soil, including clay-loam and sandy soils; does not require fertile soil; tolerates poor, disturbed, and compacted ground — this is a roadside and old-field colonizer by nature",
+    "rootCharacter": "Deep, spreading rhizomatous root system; the rhizomes spread underground and send up new shoots; essentially impossible to fully remove once established — manage the spread rather than trying to contain it"
+  },
+  "bloom": {
+    "bloomTime": "June-September — long bloom season",
+    "bloomDescription": "Among the most exotic and spectacular flowers of any temperate plant; 2-3\" wide intricate flowers with white and lavender petals and a complex fringed corona (the \"passion\" elements referenced in the name relate to the crucifixion); the flower is unmistakably tropical-looking in a temperate garden; each flower lasts only one day but is produced prolifically",
+    "fragrance": "Lightly fragrant; sweet and subtle",
+    "flowerSex": "Hermaphrodite; mostly self-sterile — cross-pollination from another plant significantly improves fruit set",
+    "pollination": "Primarily large native bees — carpenter bees (Xylocopa virginica) are the primary pollinators; the large flower structure requires a large bee to effectively transfer pollen; honeybees are too small to efficiently pollinate"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the maypop — a yellow-green oval fruit 2-3\" long; the gelatinous pulp surrounding the seeds is edible; flavor is tropical, sweet-tart, similar to a mild passionfruit; delicious fresh, in juices, and jams; the pulp is eaten around the seeds; best eaten when the fruit turns yellow and slightly soft); young leaves (dried for tea)",
+    "harvestSeason": "August-October; fruit falls when ripe; harvest when slightly soft and yellow; refrigerate for up to a week",
+    "medicinalUses": "Passionflower is a well-documented medicinal herb — one of the best botanical medicines for anxiety, insomnia, and nervous tension; the sedative compounds (harmala alkaloids and flavonoids including chrysin) are well-studied and effective; passionflower tea and extract are widely used for sleep support and anxiety reduction; one of the top 5 most important medicinal plants for a home pharmacy",
+    "craftOtherYield": "Passionflower tea (dried leaves); jam and jelly from the fruit; tropical-flavored syrup"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally safe in culinary and medicinal use; HIGH DOSES of passionflower (especially root and seeds) can cause drowsiness, nausea, and vomiting — do not consume in large quantities; not for use during pregnancy; may interact with sedatives and blood thinners",
+    "toxicityAnimals": "Generally considered safe for dogs and cats in small amounts; large quantities may cause sedation; not a primary toxicity concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "vine",
+      "description": "Vine"
+    },
+    "roles": [
+      "Food (fruit — edible and productive)",
+      "Medicinal (anxiety and insomnia — high priority for a home pharmacy)",
+      "Beauty (spectacular flowers)",
+      "Insect Attractor",
+      "Nitrogen Cycle (dying vine biomass)",
+      "Native Plant Contribution"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — the classic pairing; passionflora provides a vine layer in the paw paw guild canopy)",
+      "Lindera benzoin (the whole paw paw guild community shares similar habitat requirements)"
+    ],
+    "antagonists": [
+      "The spreading rhizomes are the primary management challenge — they can colonize into neighboring beds and lawn; install a physical root barrier (buried 12-18\" deep) if needed to contain the spread"
+    ],
+    "coppiceable": "Naturally dies to the ground each fall; cut remaining dead stems in spring; the root crown sends up fresh new growth each May"
+  },
+  "wildlife": {
+    "attracts": "Carpenter bees (primary pollinators — worth growing for this alone; large native bees are essential guild members), bumblebees, birds and small mammals (fruit), butterflies",
+    "hostPlantFor": "Gulf fritillary butterfly (Agraulis vanillae) — passionflower is the larval host; the orange Gulf fritillary is a spectacular and fast-flying butterfly found primarily in the southern US but wanders northward in late summer. Zebra longwing butterfly (Heliconius charithonia) — a tropical species found in the Deep South that occasionally wanders north; also uses passionflower. The host plant value for Gulf fritillary is the primary wildlife contribution.",
+    "nestingHabitat": "Dense vine growth provides structure for nesting birds; the habitat value is good where the vine is established on a trellis or arbor"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — deer generally do not browse passionflower; anecdotally very resistant; likely due to the alkaloid content; young transplants may still be sampled in areas of extreme deer pressure, but established plants are reliably left alone"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light salt spray; not suited for direct roadside planting in heavily salted corridors"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — the spreading root system accesses moisture across a wide area"
+    },
+    "other": "Tolerates part shade; appears later in spring than most perennials (late May-early June emergence) — don't assume it's dead in spring; it emerges late; tolerates heat and humidity well through Zone 9"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Cut back dead vine stems to the ground in spring; the root crown will send up fresh new growth. Manage rhizome spread by cutting back runners at the boundary of the intended area annually. If growing as a trellis vine, train new growth to the support in May-June while it's still supple. No other pruning needed — the plant manages itself well.",
+    "propagationMethods": [
+      "Root cuttings (spring or fall — sections of rhizome replant readily)",
+      "stem cuttings (semi-hardwood in summer)",
+      "seed (requires warm stratification; slower than vegetative propagation)"
+    ]
+  },
+  "cultivarNotes": "The straight species is standard and excellent for most applications across Zones 5-9. Several named cultivars exist: **'Alba'** (white flowers — performs well across the full zone range); **'Incense'** (P. incarnata x P. cincinnata hybrid — slightly more complex flower color; best in Zone 7+ where the cincinnata parentage is more comfortable; may be less cold-hardy than the straight species in Zone 5-6). For Zone 3-5 gardeners pushing the northern limit, the straight species is the safest choice — select plants from northern seed sources when possible for improved cold hardiness. Zone 6-7 gardeners have full access to the species and most cultivars. Zone 8-9 gardeners can grow all cultivars freely and may find 'Incense' particularly rewarding as a longer-season performer.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "paw paw guild",
+      "medicinal garden",
+      "trellis feature",
+      "native plant garden"
+    ],
+    "designPlacement": "Train on a sturdy trellis, arbor, or fence, or allow to climb the lower branches of compatible trees (paw paw, apple, or other small to mid-size trees); the vine adds a productive layer to guild plantings and provides medicinal harvest from shared guild space; the spectacular flowers are a summer highlight wherever the vine is visible; site in full sun for maximum flower and fruit production; allow room for rhizome spread or install a buried root barrier at the intended boundary; pair with a second plant for cross-pollination if fruit production is a priority",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Passiflora_incarnata",
+    "inaturalist": "https://www.inaturalist.org/taxa/51453-Passiflora-incarnata",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q280"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginal — P. incarnata native range reaches into southeastern PA; central PA (Schuylkill County area) is at or slightly north of the reliable native range; plants have naturalized further north than the traditional native range in many areas",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or the PA Dept. of Agriculture invasive species list; not flagged by DCNR; rhizome spread is a garden management concern but not a regulatory issue in PA",
+      "drainage": "The red clay at Hegins is workable for passionflower — amend the planting hole with compost and coarse organic matter to improve first-year establishment, but the rhizomes will spread into unamended clay without difficulty once the plant is growing; raised beds are not required; in-ground planting is fine",
+      "soil": "The Hegins red clay is acceptable without major amendment; compost worked into the initial planting hole is sufficient; the rhizomes will spread into surrounding unamended clay on their own",
+      "cultivarNotes": "The straight species is the first choice — proven cold-hardy, native provenance available, and the best combination of medicinal value, host plant contribution, and reliable performance at the northern edge of the native range.",
+      "designPlacement": "Paw paw guild vine layer — trained on a trellis or allowed to climb the lower branches of the paw paw trees; the vine adds the vine layer to the guild and provides medicinal harvest from the same guild space; the spectacular flowers are a summer highlight in the guild; manage rhizome spread with a buried root barrier at the boundary of the guild area if needed",
+      "siteObservations": "Central PA is at the northern margin of the native range — expect late emergence (late May to early June) and don't assume the plant is dead in spring; the root system overwinters reliably in Zone 6a once established; deer pressure from the east wildlife corridor is not a concern for this plant (excellent deer resistance from alkaloid content); the compacted red clay soil is not an obstacle for the vigorous rhizomatous root system; consider root barrier installation at the guild boundary to prevent runners from colonizing into adjacent beds or lawn areas"
+    }
+  }
+}

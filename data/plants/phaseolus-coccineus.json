@@ -1,0 +1,163 @@
+{
+  "id": "phaseolus-coccineus",
+  "name": {
+    "commonName": [
+      "Runner Bean",
+      "Scarlet Runner Bean",
+      "Multiflora Bean"
+    ],
+    "latinName": "Phaseolus coccineus",
+    "family": "Fabaceae (Leguminosae)"
+  },
+  "range": {
+    "nativeRange": "Central America and southern Mexico (highlands of Guatemala and Mexico); widely cultivated throughout the temperate world, especially in the UK and Europe where it is the dominant pole bean crop",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Central America and grown exclusively as a cultivated crop. Does not naturalize in most of the lower 48 — killed by frost in Zones 3–7, and while the tuberous roots persist in Zones 8–11, the plant does not spread beyond cultivated settings. No established wild populations are documented in the continental US."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states. Annual in Zones 3–7 (killed by frost each year with no seed bank persistence); tender perennial in Zones 8–11 but stays where planted with no vegetative spread or volunteer seedling escape. Not listed on any state noxious weed list or the federal noxious weed list. No USDA PLANTS records of naturalization in the US."
+    },
+    "zone": {
+      "min": 7,
+      "max": 11,
+      "description": "7–11 as a perennial; grown as a frost-tender annual in Zones 3–7 and all of temperate North America; roots hardy in Zone 8+ without protection"
+    }
+  },
+  "description": {
+    "height": "8–12' or more in a single season; a vigorous twining vine that will quickly fill a trellis, fence, or arbor; capable of reaching 15' in rich moist soil with a long season",
+    "spread": "3–5' per plant once established; multiple plants trained along a fence will fill the space laterally; space plants 6–9\" apart for a productive row planting",
+    "spacing": "6–9\" for bean production in a row; 12–18\" if ornamental use is the priority to allow each plant to develop fully; provide support from the moment of planting — these vines climb immediately",
+    "growthRate": "Fast once warm temperatures arrive — germination in 7–10 days at 60°F+ soil temperature, and the vines add significant height daily in warm weather; the entire season from seed to first harvest is 60–75 days",
+    "timeToMaturity": "Flowers appear 4–5 weeks after planting; snap bean harvest begins at 60–75 days from seed; shell bean harvest follows as pods fill and mature; dry bean harvest at 90–100 days from seed at the end of the season",
+    "lifespan": "Annual in Zones 3–7 — the vine is killed by the first hard frost and does not overwinter reliably. Biologically a tender perennial with tuberous roots that persist in frost-free climates (Zone 8+). With very heavy mulch (6–8\" of straw or leaves applied before hard freeze), the tuberous roots may occasionally survive a Zone 6–7 winter — worth attempting in a sheltered south-facing raised bed, but not reliable enough to count on. As insurance, tuberous roots can be dug in fall after frost kills the top growth and stored dry in a cool (45–50°F) frost-free location — treated exactly like dahlia tubers — replanted in spring after last frost. This extends the productive root system year over year if desired.",
+    "deciduousEvergreen": "Deciduous/Annual — killed to the ground by first frost; no winter foliage",
+    "winterInterest": "None — all above-ground growth dies at frost; dry bean pods may persist briefly but are not ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6–8 hours minimum for good pod set and flowering; will grow in part shade but flower and fruit production drops significantly; always site in the sunniest available location",
+    "water": "Medium; consistent moisture is important, especially during flowering and pod set; drought during flowering causes blossom drop and reduced yield; mulch around the base to retain moisture; never waterlogged, but do not allow to dry out in summer heat. In the humid eastern US, natural rainfall often supplies adequate moisture outside of drought periods; in the arid West and Great Plains, regular irrigation is essential throughout the growing season.",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates brief wet periods better than common beans (P. vulgaris) due to the larger root system; does not tolerate standing water or persistently saturated soil — root rot develops quickly in waterlogged conditions. Raised beds or mounded rows are strongly recommended in any heavy soil.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — runner beans tolerate clay-based soils better than common beans (P. vulgaris) because the large, vigorous tuberous root system has more mechanical strength to penetrate heavier ground. However, clay that stays saturated will cause rot. Amend with generous compost (3–4\" worked into the top 8–10\") to improve drainage and aeration. Raised beds or deep-mulched mounded rows are the most reliable approach in unamended heavy clay. In clay soils with adequate drainage (slopes, raised beds, well-amended in-ground beds), runner beans perform well."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0–7.5; slightly acidic to neutral; tolerates a range well; amend very acidic soil with lime if below 5.8"
+    },
+    "texturePreference": "Fertile, organically rich, consistently moist, well-drained loam is ideal. Runner beans tolerate clay-based soils better than common beans — the large, vigorous root and tuber system has more mechanical strength to work through heavier ground. Mix in compost generously before planting in any soil type; good soil fertility is repaid directly in pod size and yield. Sandy soils require more frequent watering and benefit from heavy mulching.",
+    "rootCharacter": "Large, fleshy tuberous roots — the same root system that enables perenniality in mild climates; the tubers are substantial (potato-like in older plants in their native range); roots reach deep relative to common beans; apply Rhizobium inoculant (same strain as other Phaseolus beans) at planting to ensure nitrogen fixation; uninoculated plants in soil without existing bean-symbiont populations will fix little nitrogen"
+  },
+  "bloom": {
+    "bloomTime": "Late June through October (frost); flowers continuously from first bloom onward; the bloom period is one of the longest of any vegetable or ornamental vine in the temperate garden — often 14–16 weeks of uninterrupted color",
+    "bloomDescription": "Brilliant scarlet-red pea-family flowers, 1¼\" long, borne in loose pendulous racemes on stems rising from the leaf axils; the flower color is an unusually saturated orange-red — far more vivid than most flowering vines; individual clusters carry 6–12+ flowers; the display is genuinely ornamental at any scale and one of the most striking features of the plant. Named variety 'Painted Lady' produces bicolor red-and-white flowers. 'White Dutch' and 'Moonlight' produce pure white flowers. All forms bloom profusely.",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female organs",
+    "pollination": "Cross-pollinated by bumblebees as the primary effective pollinator — this is an important distinction. Runner beans (unlike P. vulgaris, which is largely self-fertile) evolved in the highlands of Central America where large bumblebees (Bombus species) are the primary pollinators, using buzz pollination (sonication) to dislodge pollen. Honeybees can visit the flowers and collect nectar but their tongue length and body size prevent effective pollen transfer in most cases — they are nectar robbers more than pollinators. Bumblebees are essential for good pod set. If yields are disappointingly low despite abundant flowers and adequate water, the likely cause is insufficient bumblebee activity at the site. Planting in or near areas with established bumblebee habitat improves this. Hummingbirds also pollinate the flowers effectively with their bill geometry."
+  },
+  "yield": {
+    "edibleParts": "Three distinct uses, each with different harvest timing:\nSNAP BEAN (pods harvested young): Pods are best harvested at 4–6 inches long, before seeds begin to swell noticeably. At this stage, the pod is tender and the flavor is sweet and rich — more complex than common green beans, with a slightly heartier texture. Note that runner bean pods are somewhat stringier than P. vulgaris snap beans; removing the string along the seam before cooking is recommended. Once pods exceed 6–7 inches or the seeds inside begin to bulge, the pod wall becomes tough and fibrous — at that point, shift to shell bean use. Harvest every 2–3 days; leaving mature pods on the plant signals the vine to stop producing and sharply reduces yield.\nSHELL BEAN (seeds harvested fresh from mature pods): As pods mature and the seeds swell to full size but before the pod dries, the seeds are harvested fresh — large, beautiful beans with a striking purple-black and white mottled pattern (classic Scarlet Runner seeds; 'Painted Lady' produces similarly mottled seeds). Fresh-shelled runner beans are cooked like flageolet or fresh borlotti beans — simmered until tender (30–45 minutes), buttery and starchy with a rich, meaty flavor. One of the most underused and genuinely excellent shell beans in the American garden. The seeds are considerably larger than common bean seeds, making shelling efficient.\nDRY BEAN (seeds fully dried on vine): Pods left on the vine to full maturity will dry down to papery husks containing large, fully dried runner beans. Dried scarlet runner beans are a staple in the UK and are used similarly to borlotti or kidney beans — soaked overnight, then simmered 1–1.5 hours until tender. The flavor is starchy, substantial, and excellent in soups, stews, and chilis. Nutritious and filling; runner beans have been a traditional food crop in Britain and Europe for centuries. Harvest dry pods before fall rains can cause mold; bring indoors and finish drying on the vine if needed.\nFLOWERS: The scarlet flowers are edible and can be used as a salad garnish or vegetable. Young leaves are edible as a pot herb but are not commonly used.",
+    "harvestSeason": "Snap bean: July–October (continuous with regular picking). Shell bean: August–September (as pods fill). Dry bean: September–October (after pods dry on vine). The snap and shell bean windows overlap — harvest snap beans from July onward, then transition to shell beans as the summer progresses; dry beans are harvested at season's end from any remaining pods.",
+    "medicinalUses": "None significant beyond general legume nutritional value (high protein, iron, potassium, B vitamins); dry beans are highly nutritious",
+    "craftOtherYield": "The vigorous vines provide a dense, fast-growing seasonal screen on a trellis or fence — 8–12' of visual privacy from seed in a single season. The large, vivid scarlet flowers are a valuable cut flower addition. Dried seed pods are ornamental with the mottled seeds inside."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Raw beans (both the pods and especially the seeds) contain lectins (phytohaemagglutinin — PHA) at higher concentrations than common beans; runner beans have one of the higher PHA concentrations among Phaseolus species. Raw or undercooked runner beans can cause significant gastric distress — nausea, vomiting, and diarrhea — within 1–3 hours of consumption. Always cook thoroughly (boiling for at least 10 minutes destroys the lectins; slow cookers alone are NOT sufficient as the temperature is too low to denature PHA). This is a meaningful safety note — do not eat raw runner beans directly from the vine, and do not use a slow cooker without a prior boil.",
+    "toxicityAnimals": "Same lectin concern applies to dogs, cats, and livestock; cooked beans are safe; raw beans should not be fed to pets",
+    "allelopathy": "None",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Climbing herbaceous layer (vertical layer — occupies the trellised/fence plane); annual, so does not persist in the canopy layer"
+    },
+    "roles": [
+      "Annual Food Crop (triple use: snap, shell, dry)",
+      "Nitrogen Fixer (with Rhizobium inoculant — fixes atmospheric nitrogen into root nodules, improving soil fertility; pulls double duty as food and soil builder)",
+      "Ornamental Climber (brilliant scarlet flowers rival most dedicated ornamental vines)",
+      "Hummingbird Attractor",
+      "Bumblebee Forage",
+      "Seasonal Screen/Privacy Vine",
+      "Vertical Space Utilizer (converts horizontal bed space into vertical production)",
+      "Pollinator Support (extended 14–16 week bloom)"
+    ],
+    "companionPlants": [
+      "Squash and corn (traditional Three Sisters companion — beans fix nitrogen used by corn; corn provides a living trellis for beans; note that runner beans are vigorous enough to overwhelm small corn stalks — use with field corn or very tall sweet corn, or provide a separate structure); Borage (attracts bumblebees — beneficial for runner bean pollination; borage's bright blue flowers and musky scent draw bumblebee populations; plant borage nearby); Summer savory (traditional bean companion — said to deter bean beetles and improve flavor; also a companion in the kitchen); Nasturtium (aphid trap crop — keeps aphids off beans); Marigolds (Tagetes — root-knot nematode suppression, general pest deterrent)"
+    ],
+    "antagonists": [
+      "Alliums (onion, garlic, leeks — traditionally considered inhibitory to beans; avoid planting immediately adjacent); Fennel (inhibitory to most vegetables including beans); do not follow with another nitrogen-hungry crop immediately without verifying nodule development"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Hummingbirds (Ruby-throated Hummingbird — Archilochus colubris — in the eastern US, and various western hummingbird species in western gardens, are strongly attracted to the tubular scarlet flowers; the bloom color (red/orange-red) and shape are precisely calibrated for hummingbird foraging; planting near a window, porch, or sitting area turns the trellis into a reliable hummingbird viewing station from July through October); Bumblebees (multiple Bombus species — the primary effective pollinator; species vary by region); Butterflies (various swallowtails and skippers visit for nectar)",
+    "hostPlantFor": "No significant North American host plant relationships; this is a Central American native and supports generalist rather than specialist native insect communities",
+    "nestingHabitat": "None significant; annual vine"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — the foliage is palatable and young pods will be browsed if deer have access. Runner beans require deer protection (fencing or netting) the same as any vegetable crop. The vigorous, fast-growing vines can somewhat outpace light deer browse pressure mid-season, but a dedicated deer visit will strip a planting. In areas with consistent deer pressure, physical exclusion fencing around the vegetable production area is essential for reliable harvests. Repellent sprays are minimally effective on food-producing plants due to reapplication needs after rain and harvest concerns."
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; tolerates light incidental road salt exposure but not direct salt spray or saline soils; not a plant typically sited near roadways"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — runner beans require consistent moisture for pod set; drought during flowering causes blossom drop and empty pods; the larger root/tuber system provides modest additional drought buffering versus P. vulgaris, but irrigation or mulching is important in dry periods; midsummer heat above 90°F compounds drought stress (see Other below)"
+    },
+    "other": "HEAT SENSITIVITY — this is one of the most important cultural facts for runner bean growers across the lower 48: runner beans stop setting pods when daytime temperatures exceed 90°F. During midsummer heat waves, the plants may flower abundantly but produce few or no pods — a frustrating midsummer gap. This is especially relevant in Zones 7–9 and during heat waves in Zone 6. The effect contrasts with P. vulgaris (common beans), which continue to set pods in moderate heat. The good news is that runner beans resume pod set as temperatures drop in late summer and fall, often producing a robust flush of beans with the cooler weather. In the Deep South (Zones 8–9), the heat gap may last most of the summer, making runner beans primarily a spring and fall crop there. In the northern tier (Zones 3–5), heat issues are minimal and runner beans produce continuously. In Zones 6–7, expect a potential 2–6 week midsummer productivity gap in hot years. COLD SENSITIVITY — seeds should not be planted until soil temperature reaches 60°F consistently (night temps above 50°F); planting in cold soil causes seeds to rot. Wait until after last frost and soil has warmed before direct sowing."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the plant is vigorous and largely self-managing once established and climbing; primary tasks are providing initial trellis support, watering during dry periods, harvesting regularly, and managing the trellis at season end",
+    "pruningNotes": "No pruning is required or beneficial for productivity. Pinching the growing tips at 5–6' can encourage bushier side branching if space is limited, but runner beans are best allowed to climb to their natural height. At the end of the season after frost, cut all vines from the support structure, compost the vines, and either pull the roots (if not attempting overwinter) or mulch heavily over them (if attempting perennial root survival). If attempting to overwinter the tuberous roots in Zones 6–7, apply 6–8\" of straw or leaf mulch over the root zone immediately after the first frost kills the top growth; mark the location clearly. In spring, wait until the soil has thoroughly warmed before pulling back mulch to check for surviving root shoots.",
+    "propagationMethods": [
+      "Seed (direct sow after last frost when soil reaches 60°F+; sow 1–2\" deep, 6–9\" apart; seeds are large and easy to handle; germination in 7–10 days); Pre-soaking seeds for 6–12 hours before planting speeds germination but is not required; Indoors: start 4–6 weeks before last frost in individual large pots or deep cells — runner beans dislike root disturbance",
+      "so transplant carefully at the true-leaf stage; Tuberous root division (from overwintered or stored tubers — plant the entire tuber or large sections with a growth point)"
+    ]
+  },
+  "cultivarNotes": "Several named varieties offer different flower colors, seed colors, and pod characters — all are highly productive and ornamentally valuable. Performance is consistent across most of the lower 48, with regional considerations noted below.\n**'Scarlet Runner'** — the classic heirloom; brilliant scarlet flowers; seeds are large, beautiful purple-black and cream mottled; the benchmark for flavor, ornamental value, and triple-use productivity; the default recommendation for anyone growing runner beans for the first time. Performs well across all zones where runner beans are grown. Widely available from most seed companies.\n**'Painted Lady'** — bicolor flowers with red and white petals, giving a striking two-tone ornamental effect; similar seed characteristics to Scarlet Runner; somewhat lower yield than Scarlet Runner in some reports but the flower display is extraordinary; best choice where ornamental priority is highest. Performs consistently across all zones.\n**'White Dutch'** (also sold as 'White Emergo') — pure white flowers and white seeds; a classic European market variety; the white seeds have a milder, more delicate flavor than the traditional mottled types; a historic cultivar well-regarded in the UK; the white flower color makes it useful in white or cool-toned garden schemes where the scarlet of the standard variety would clash. Good performance across all zones.\n**'Moonlight'** — white flowers; described as producing particularly buttery, mild pods that are less stringy than typical runner beans; the snap pod quality is excellent; a good choice if snap bean use is the priority over ornamental impact. Performs well across all zones.\n**'Enorma'** — one of the longest-podded varieties; pods regularly reach 16–18\"; bred for show and kitchen use; prolific producer with good pod quality; excellent for snap bean and shell bean use. Performs well across all zones.\n**'Prizewinner'** — another long-pod variety popular in the UK; large pods, vigorous growth, good disease tolerance; a solid all-purpose choice.\n**Zone guidance:** In Zones 3–5 (short seasons, cool summers), all varieties perform well with minimal heat gap — runner beans are at their best in cool-summer climates. Start indoors 4–6 weeks before last frost to maximize the growing season. In Zones 6–7 (moderate seasons, periodic heat), all varieties experience some midsummer pod-set reduction during heat waves; the fall flush compensates. In Zones 8–9 (long seasons, hot summers), treat as a spring and fall crop — direct sow early in spring and again in late summer for a fall harvest; the extended heat gap limits midsummer productivity but the perennial root system is a genuine advantage in these zones. In Zone 10+ (frost-free), runner beans grow as true perennials; the heat limitation still applies, making them primarily a cool-season crop.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Vegetable garden trellis or fence (primary food production)",
+      "ornamental arbor or pergola",
+      "hummingbird garden planting",
+      "seasonal privacy screen",
+      "raised bed with trellis",
+      "food forest annual nitrogen-fixing layer"
+    ],
+    "designPlacement": "Runner beans belong on any vertical structure with full sun — trellis, cattle panel arch, arbor, pergola, fence, or post-and-wire support. The 8–12' height makes them a natural fit for tall structures in the vegetable garden or along a property edge; they exceed the height of most foundation plantings and formal beds. A cattle panel arch over a garden path is a classic approach: productive, functional, and spectacular in bloom. Alternatively, a post-and-wire fence along a sunny garden edge provides 20–30 linear feet of runner bean production. Site near a window, porch, or sitting area to maximize the hummingbird viewing experience — the scarlet flowers draw hummingbirds reliably from July through October. The perennial root overwinter attempt (Zones 6–7) is worth trying in the most sheltered raised bed; even if roots freeze out, seed is cheap and the plant grows back fast. In Zones 8+, the perennial root system is a genuine asset — site the planting where a permanent vine is welcome.",
+    "acquisitionStatus": "Not yet acquired; seed is very widely available from seed companies (Botanical Interests, Baker Creek, Johnny's, Burpee, and many UK-sourced vendors online carry extensive variety selections); seed is inexpensive ($3–5 per packet, each packet sows a full trellis section)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Phaseolus_coccineus",
+    "inaturalist": "https://www.inaturalist.org/taxa/122860-Phaseolus-coccineus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280328"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of North America",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concern.",
+      "drainage": "The compacted red clay at Hegins requires either raised beds or heavy amendment for runner beans. Raised vegetable beds are the ideal solution — they eliminate the drainage constraint entirely. If planting in-ground, work in 4–6\" of compost and consider a mounded row to keep the root zone above the water table after heavy rain. The clay does retain moisture well in summer, which is a benefit for runner beans during dry spells once drainage is addressed.",
+      "soil": "At Hegins, the red clay benefits from generous compost amendment (4–6\" worked in) or, preferably, planting in the raised vegetable beds where soil structure is already managed. The clay's natural moisture retention is an advantage for runner beans once drainage is corrected.",
+      "cultivarNotes": "'Scarlet Runner' is the primary recommendation for its triple-use value, proven reliability, outstanding ornamental impact, and hummingbird attraction. Add 'Painted Lady' if running a second trellis for visual variety. Try 'Moonlight' or 'White Dutch' if a white-flowered form is desired for a color-scheme application. Direct sow after May 1 when soil reaches 60°F.",
+      "designPlacement": "The south-facing raised beds are the ideal microclimate — warm soil, maximum sun, and the structure to support a tall vine. A trellis along the back porch (Section C, south-facing) or on a free-standing arbor visible from the porch or kitchen window is the best placement for combining food production with hummingbird viewing. The 8–12' height exceeds the 5' limits of Sections A and C as formal foundation beds — runner beans belong on a structure in the garden proper or on a free-standing arbor rather than in the foundation bed plantings. Section B (garage strip, no height limit) could support a trellis if sun exposure is adequate before food forest shading increases. A cattle panel arch over a raised bed path is a strong option for the vegetable garden area. The perennial root overwinter attempt is worth trying in the most sheltered south-facing raised bed.",
+      "siteObservations": "The south-facing raised beds at Hegins are the ideal microclimate — warm soil, maximum sun, and the structure to support a tall vine. The midsummer heat gap (pod drop above 90°F) means runner beans are at their best in June–July and again in September–October, rather than at peak midsummer productivity. The fall flush in September is a particular strength — as other warm-season vegetables wind down, runner beans accelerate with the cooling temperatures. The tuberous root overwinter attempt is low-risk and potentially high-reward — if even one in three winters produces a surviving root, the spring head start is significant. Apply Rhizobium inoculant (the standard bean/legume strain; available from any garden center) at planting; this is inexpensive and directly improves nitrogen fixation. Deer fencing around the vegetable garden area is required regardless of species, so runner beans do not add unique deer management burden beyond what is already needed — the active east corridor pressure at Hegins makes perimeter fencing non-negotiable for any vegetable production. The ornamental placement on a porch trellis or front fence may experience less deer pressure than the back garden beds due to proximity to the house and road activity."
+    }
+  }
+}

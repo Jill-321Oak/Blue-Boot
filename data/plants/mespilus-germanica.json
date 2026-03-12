@@ -1,0 +1,163 @@
+{
+  "id": "mespilus-germanica",
+  "name": {
+    "commonName": [
+      "Medlar",
+      "Common Medlar"
+    ],
+    "latinName": "Mespilus germanica",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Southeast Europe to central Asia — Turkey, Iran, Caucasus, southeastern Europe; one of the oldest cultivated fruit trees, with records of cultivation stretching back over 3,000 years; grown throughout medieval Europe and long a staple of monastery and cottage orchards",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to any US region. Introduced to North America as a cultivated fruit tree; occasionally found in old homestead sites and heritage orchards but does not naturalize or persist without cultivation. Not established in the wild in any US state."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not documented as invasive anywhere in the lower 48 US states; does not naturalize aggressively; not listed on any state noxious weed list or the USDA Federal Noxious Weed list; no escape potential; fruits require bletting and do not disperse readily"
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8"
+    }
+  },
+  "description": {
+    "height": "10-20' (unpruned standard); easily maintained at 8-12' with moderate pruning; naturally compact with a wide, spreading crown",
+    "spread": "10-15'; the natural form is broader than it is tall — irregular, wide, and wonderfully gnarled",
+    "spacing": "12-15' for standard; 10' for a more compact or pruned specimen",
+    "growthRate": "Slow to moderate; begins fruiting reliably in years 4-6",
+    "timeToMaturity": "First fruit in years 3-5; full, consistent production by years 6-8",
+    "lifespan": "Very long-lived; 50-100+ years; old medlar specimens in European heritage orchards are famously gnarled and characterful",
+    "deciduousEvergreen": "Deciduous — large, slightly fuzzy leaves through the season; good russet-orange to red-brown fall color; bare in winter with a strikingly gnarled, sculptural silhouette",
+    "winterInterest": "High — the medlar's twisted, irregular winter branching is one of the most ornamental of any fruit tree; widely described as among the most picturesque of all temperate trees in the winter garden"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; one of the most shade-tolerant of all fruiting trees — genuinely fruits in dappled light and tolerates canopy edges well; full sun maximizes yield but part shade (4-6 hours) is acceptable",
+    "water": "Medium; drought tolerant once established; tolerates heavier soils and occasional wet periods better than most Rosaceae fruit trees",
+    "drainagePreference": {
+      "description": "Adaptable — performs in clay-loam with adequate drainage; not demanding; among the more forgiving fruit trees for imperfect soil conditions. Avoid waterlogged or standing-water sites, which promote root rot in any Rosaceae, but moderate drainage imperfections are tolerated better by medlar than by most fruiting relatives.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — medlar is one of the more clay-tolerant fruit trees in the Rosaceae family. Heavy clay-loam is acceptable provided drainage is not persistently waterlogged. In unamended heavy clay, growth may be slower in the first few years as roots establish; amending the planting hole with compost and ensuring the root flare sits at or slightly above grade helps significantly. Mature trees handle clay well once root systems are established. In the heaviest clays (tight, poorly drained), consider a raised planting mound or berm to improve root-zone drainage in the critical first 2-3 years."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; loam to clay-loam preferred; tolerates a range of textures from sandy loam to moderately heavy clay; amend with compost at planting in heavy soils; not fussy about soil structure once established",
+    "rootCharacter": "Moderately deep, fibrous root system; not invasive; typical of the genus"
+  },
+  "bloom": {
+    "bloomTime": "May — relatively late bloom; after pear, near the end of the Rosaceae bloom sequence; late bloom reduces frost damage risk in Zones 5-6",
+    "bloomDescription": "Large, 1.5-2\" single white flowers (occasionally flushed pale pink), borne singly at the tips of short leafy shoots; five broad petals; prominent stamens; extremely showy for a fruit tree; among the most ornamental spring flowers of any fruiting Rosaceae",
+    "fragrance": "Lightly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile — a single tree produces a full crop with no pollinator required; no second tree needed"
+  },
+  "yield": {
+    "edibleParts": "Fruit — uniquely, the medlar must be \"bletted\" before eating; this is not a defect but the traditional and correct preparation method. Harvest the fruit in October-November, after the first frost (when it turns from green to russet-brown), then store at room temperature for 2-4 weeks until the flesh softens, darkens to a deep brown, and the sugars develop fully. Bletted medlar flesh has the texture of soft apple butter or a very ripe date and a complex flavor — brown sugar, apple butter, cinnamon, mild wine, and a slight fermented depth. The flesh is scooped from the skin with a spoon and eaten fresh, or used in medlar jelly (high pectin content; sets beautifully) and medlar cheese (a traditional paste similar to quince membrillo). The flavor is unlike any other fruit.",
+    "harvestSeason": "October-November; harvest after the first hard frost triggers color change; bletting takes 2-4 weeks at room temperature; fully bletted fruit is soft, dark brown, and fragrant",
+    "medicinalUses": "Traditional astringent; the tannin-rich fruit was used historically for digestive complaints; high in vitamin C and pectin",
+    "craftOtherYield": "Medlar jelly (a classic English preserve — the high pectin content produces a firm, copper-colored jelly without added pectin); medlar cheese (a stiff paste served with cheese or game — a traditional British confection); medlar wine (fermented from the bletted flesh)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; the seeds, in common with all Rosaceae, contain trace amygdalin — do not consume in quantity, but incidental seed consumption is not a concern",
+    "toxicityAnimals": "Generally safe; avoid feeding large quantities of seeds (amygdalin, as with apple and pear seeds)",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy / Shrub layer (depending on rootstock and pruning); occupies the understory canopy position in a food forest and genuinely earns that position — it is one of the few fruit trees that performs well there without prime full-sun placement"
+    },
+    "roles": [
+      "Food (specialty heritage fruit — high culinary value; unique flavor not available from commercial sources)",
+      "Beauty (exceptional ornamental value across all four seasons — flowers, summer foliage, fall color, winter structure)",
+      "Wildlife Habitat (fruit for birds and mammals; nesting structure)",
+      "Canopy Break (provides dappled shade to the understory layer below)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base)",
+      "garlic and chives (pest deterrent)",
+      "alpine strawberry and woodland strawberry (shade-tolerant ground cover beneath the canopy)",
+      "wood sorrel",
+      "sweet cicely; compatible with standard fruit tree guild companions; pairs well with hawthorn",
+      "quince",
+      "and paw paw in a heritage fruit forest"
+    ],
+    "antagonists": [
+      "Fire blight (Erwinia amylovora) can occur — medlar is susceptible as a Rosaceae member",
+      "though generally less severely affected than pear; avoid excess nitrogen fertilization; prune out any blighted wood immediately (cut 12\" below visible infection; disinfect tools between cuts). Cedar-apple rust (Gymnosporangium) can infect medlar — eastern red cedars (Juniperus virginiana) are a potential nearby rust host across the eastern US and should be noted when present within 500 feet."
+    ],
+    "coppiceable": "No; responds well to formative open-center pruning; can be maintained at a moderate size with annual pruning but is not a coppice subject"
+  },
+  "wildlife": {
+    "attracts": "Bees (large, accessible flowers; good late-spring pollinator resource); birds and small mammals eat fallen and overripe fruit — robins, thrushes, and small rodents are documented consumers of bletted and fallen medlar",
+    "hostPlantFor": "Shared Rosaceae fruit pests (codling moth, aphids) — standard integrated pest management applies; generally far less pest pressure than apple",
+    "nestingHabitat": "High — the gnarled, irregular branching structure and dense crown provide excellent nesting sites; mature medlars are particularly valued by birds for nest placement"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — not a primary target; the somewhat coarse, fuzzy foliage is less palatable than apple or pear. Young trees should be protected with tree tubes or wire cages until established (first 3-4 years), as with all fruit trees in areas with active deer pressure. Established trees are browsed occasionally but rarely sustain serious damage. No chemical deterrent is typically necessary once the tree reaches 6-8' height."
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — tolerates incidental road salt exposure but not heavy salt spray or saline soils; site away from direct salt runoff where possible"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — better than most Rosaceae fruit trees; the deep fibrous root system accesses subsoil moisture effectively; supplemental water in the first two seasons is important for establishment"
+    },
+    "other": "Notable shade tolerance makes medlar one of the most versatile of all fruiting trees for food forest placement; does not demand the premium full-sun spots that peaches, cherries, and plums require; wind-protected sites preferred for best fruit set and to protect the large spring flowers; tolerates moderate humidity well"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the least demanding temperate fruit trees; disease pressure is generally low across its hardiness range; no spray program required for a productive harvest; the main tasks are minimal annual pruning and harvesting at the right time",
+    "pruningNotes": "Prune to an open-center vase form to maximize airflow and light penetration; remove crossing branches and watersprouts. Annual maintenance pruning in late winter (February-March) before bud break. The tree's naturally irregular, spreading habit requires little intervention beyond keeping the interior open. Do not over-fertilize — excess nitrogen promotes rank growth and fire blight susceptibility. Cut out any fire blighted branches immediately, cutting 12\" below visible infection and disinfecting tools between cuts with a 10% bleach solution or isopropyl alcohol.",
+    "propagationMethods": [
+      "Grafting (the standard method for named cultivars — typically grafted onto hawthorn, quince, or seedling medlar rootstock); hardwood cuttings (possible but slow and inconsistent); seed (viable but highly variable in fruit quality and form; seedlings may have thorns; bletting and stratification required for germination)"
+    ]
+  },
+  "cultivarNotes": "**'Nottingham'** is the classic and most widely recommended cultivar across the US — compact, upright habit; the best-flavored fruit of the named cultivars; smaller fruit than 'Royal' or 'Dutch' but consistently excellent quality; the standard of the heritage orchard tradition and the most widely available from specialist nurseries. Performs well across Zones 5-8. **'Royal'** (syn. 'Large Russian') produces large fruit on a vigorous, spreading tree — good for jelly and preserves; flavor is more variable than 'Nottingham'; slightly more cold-hardy than some cultivars, making it a strong choice for Zone 5 and colder Zone 6 sites. **'Dutch'** is large-fruited and wide-spreading — good ornamental form; best for jelly due to large fruit size; performs well in Zones 5-8 without notable regional variation. **'Macrocarpa'** produces the largest fruit of all; lower flavor quality fresh but excellent for jelly and medlar cheese; not as widely available; no meaningful zone-band preference. For Zone 8+ southern US gardens, all cultivars perform adequately but benefit from afternoon shade in the hottest climates to prevent sunscald on fruit; 'Nottingham' remains the best all-around choice. For Zone 3-5 northern gardens, 'Nottingham' and 'Royal' are the safest choices — both are reliably hardy to Zone 5 and have survived in sheltered Zone 4b sites.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory anchor",
+      "heritage orchard specimen",
+      "cottage garden feature",
+      "ornamental edible landscape",
+      "heritage/heirloom garden"
+    ],
+    "designPlacement": "An excellent understory tree for the food forest — its genuine tolerance of part shade makes it one of the few fruiting trees that does not need to compete for prime full-sun positions, freeing those spots for peach, cherry, and plum. The gnarled, irregular form and large white May flowers make it a strong ornamental anchor wherever it is placed. Well-suited as a specimen in a heritage orchard alongside quince and paw paw, where its picturesque winter silhouette, showy spring bloom, good fall color, and unique edible yield round out a four-season planting. Its modest mature size (maintained at 10-12') and self-fertile nature make it an unusually easy choice for a small property. One of the most rewarding heritage fruit trees — underplanted, underappreciated, and entirely practical.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mespilus_germanica",
+    "inaturalist": "https://www.inaturalist.org/taxa/1367002-Crataegus-germanica (iNaturalist lists this species under the synonym Crataegus germanica; the taxon page correctly resolves to medlar)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286587"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concerns.",
+      "drainage": "The red clay at the Hegins site is workable for medlar without raised beds, provided the planting hole is generously amended with compost and the root flare is set 2-3\" above grade to prevent crown rot in wet springs. Drainage issues after heavy rain are a concern in the first two years — a slight mound or berm at planting is recommended. Once established, medlar should handle the site's clay drainage without intervention.",
+      "soil": "The red clay at Hegins will benefit from generous compost amendment at planting — mix 30-40% compost into backfill. No raised bed required for medlar. The slightly acidic native soil pH at this site is within the acceptable range and should not need lime correction.",
+      "cultivarNotes": "'Nottingham' is the clear first choice — ideally suited for both ornamental value and fresh eating; late bloom timing fits the Zone 6a frost window well; compact size works with the property's space constraints.",
+      "designPlacement": "Best placed within or adjacent to one of the tree guilds (apple pair or paw paw pair) where it can serve as an understory companion without competing for prime canopy position. Its shade tolerance makes it a natural fit near the paw paw pair, where it can occupy the canopy edge and benefit from wind protection. Not suited for Sections A, B, or C (too large for the 5' height limits in A and C; not an herb or zone 0 plant for B). The self-fertile nature means a single specimen is sufficient. The gnarled winter silhouette will be a strong visual feature visible from the house.",
+      "siteObservations": "Active deer pressure from the east wildlife corridor will require tree tube or wire cage protection for the first 3-4 years after planting. Eastern red cedars (Juniperus virginiana) are common in Pennsylvania hedgerows and should be scouted near the planting site as potential cedar-apple rust hosts. The late May bloom timing is an advantage at this site — it falls after the typical last frost date for Zone 6a Hegins, reducing the risk of frost damage to flowers. Salt from the road on the north border is not a concern for food forest or guild placement, which is well south of the road frontage."
+    }
+  }
+}

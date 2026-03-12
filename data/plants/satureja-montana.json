@@ -1,0 +1,164 @@
+{
+  "id": "satureja-montana",
+  "name": {
+    "commonName": [
+      "Winter Savory"
+    ],
+    "latinName": "Satureja montana",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Southern Europe and the Mediterranean basin; mountains of southern France, Spain, Italy, the Balkans, and North Africa; widely cultivated since antiquity",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced culinary herb widely grown in gardens but not significantly naturalized in any region of the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not invasive anywhere in the US; does not self-seed prolifically, does not spread by runners, and does not escape cultivation; slowly expands from a woody base within its planted footprint only; not listed on any state noxious weed list"
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8 (reliable perennial with good drainage; heat zone upper limit is rarely a concern in the lower 48)"
+    }
+  },
+  "description": {
+    "height": "12-18\"; forms a low, woody subshrub",
+    "spread": "12-18\"; slowly mounding; does not spread by runners",
+    "spacing": "12-15\"",
+    "growthRate": "Slow to moderate; woody base firms up over 2-3 seasons into a persistent subshrub",
+    "timeToMaturity": "Harvestable lightly in year 1; fully productive from year 2 onward as the woody framework establishes",
+    "lifespan": "Long-lived woody perennial; 5-10+ years with appropriate drainage; individual plants can become quite permanent in a well-sited rock garden or raised bed",
+    "deciduousEvergreen": "Semi-evergreen; foliage persists into winter but becomes partially brown and ragged after hard freezes in Zones 5-6; the woody stems and residual leaves remain visible through winter; in milder zones (7-8), more foliage survives intact; new growth reliably emerges from the base in early spring",
+    "winterInterest": "Low; the semi-persistent foliage and woody structure give the plant a visible presence in winter but it is not ornamentally significant in that season; trim back dead and brown wood in early spring before new growth emerges"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required; minimum 6-8 hours; aromatic intensity depends on sun exposure — shaded plants produce less essential oil and weaker flavor; not appropriate for north-facing or partially shaded beds",
+    "water": "Low; drought tolerant once established; moderate water during establishment in year 1; overwatering and wet soils are the primary cause of plant failure; in the humid eastern US, natural rainfall is often sufficient after the first season",
+    "drainagePreference": {
+      "description": "Excellent drainage essential; this is a Mediterranean subshrub adapted to rocky, free-draining hillsides; will not tolerate standing water or persistently moist conditions; root rot and crown rot are the primary failure modes in poorly drained sites",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; heavy clay is the most challenging soil type for Winter Savory; the combination of slow drainage and water retention around the woody crown creates conditions for root rot; in clay soils, raised beds, mounded plantings, or rock garden pockets with generous additions of coarse sand, grit, or perlite are strongly recommended; do not plant directly into unamended clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline and neutral soils; actually performs best in lean, low-fertility conditions"
+    },
+    "texturePreference": "Lean to rocky; poor, sandy, or gravelly soil is ideal; do not amend heavily with compost or fertilize — excess fertility produces lush, flavorless foliage and reduces essential oil concentration; the Mediterranean hillside is the model: rocky, exposed, infertile, and dry",
+    "rootCharacter": "Fibrous, shallow; woody crown at the base; does not spread aggressively by root; stays where planted"
+  },
+  "bloom": {
+    "bloomTime": "July-August; midsummer",
+    "bloomDescription": "Small, tubular flowers in white to pale pink, borne in whorls along the upper stems; individually modest but produced in abundance; the plant in full bloom has a soft, airy floral display over the dark foliage",
+    "fragrance": "Strongly aromatic foliage at all times — peppery, resinous, thyme-like but more pungent; flowers add a lighter fragrance dimension during bloom",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant; bees — especially honeybees and native bumblebees — work the flowers intensively; beneficial wasps and hoverflies also visit; one of the better midsummer pollinator herbs available in the culinary garden"
+  },
+  "yield": {
+    "edibleParts": "Leaves and tender stems; used fresh or dried; flavor is peppery, slightly bitter, resinous, and more pungent than thyme — stronger and more assertive than its annual relative Summer Savory (Satureja hortensis), which is milder and sweeter; the perennial species is the better garden investment as a permanent, self-renewing plant",
+    "harvestSeason": "Harvest fresh leaves year-round (lightly in winter from persistent foliage); harvest in bulk just before or during early flowering for maximum flavor concentration and best drying quality; the essential oil content peaks at bud stage",
+    "medicinalUses": "Traditional antimicrobial and antifungal herb; contains carvacrol and thymol — the same bioactive compounds found in oregano and thyme — with documented antibacterial properties; traditionally used for digestive complaints, flatulence, and as a general tonic; rubbing fresh leaves on bee stings is a long-standing folk remedy with plausible pharmacological basis (carvacrol has anti-inflammatory action); moderate medicinal significance — not a primary medicinal herb but a useful one, especially given kitchen proximity",
+    "craftOtherYield": "Dried herb; small quantities of essential oil possible; dried stems have minor use in herb wreaths"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe culinary herb in all normal quantities; essential oil is potent and should be used diluted",
+    "toxicityAnimals": "Generally safe in culinary quantities; large amounts may cause mild GI upset in dogs and cats; essential oil should not be applied to or used around pets",
+    "allelopathy": "Volatile oils (carvacrol, thymol) may have mild inhibitory effects on germinating seeds immediately adjacent; space seedlings appropriately; not a significant concern for established neighboring plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Food (culinary herb — primary)",
+      "Medicinal (antimicrobial, digestive)",
+      "Insect Attractor (excellent midsummer pollinator resource)",
+      "Pest Confuser (strongly aromatic foliage deters browsing insects and deer)",
+      "Nitrogen Accumulator (minor)",
+      "Weed Suppression (low, mounding woody form suppresses weeds within its footprint)"
+    ],
+    "companionPlants": [
+      "Beans are the classic and most traditional companion — Winter Savory has been intercropped with beans throughout European garden history; in German",
+      "savory is called \"Bohnenkraut\" (bean herb)",
+      "reflecting this deep cultural association; it is said to deter bean beetles and improve yield; also compatible with onions",
+      "brassicas",
+      "and the broader Mediterranean herb guild (thyme, rosemary, oregano, lavender); natural companion in any sunny",
+      "well-drained herb planting"
+    ],
+    "antagonists": [
+      "Avoid siting adjacent to moisture-loving plants or those requiring rich",
+      "consistently moist soil — the cultural requirements are incompatible; does not combine well with heavy clay bed plantings that are watered regularly"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Bees (honeybees, bumblebees, native solitary bees), beneficial wasps, hoverflies, butterflies; midsummer bloom bridges the gap between spring and late-summer nectar sources",
+    "hostPlantFor": "Not a significant Lepidoptera host; no documented primary caterpillar hosts in the US",
+    "nestingHabitat": "Dense woody mounding base may provide minimal shelter for ground-dwelling beneficial insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent; strongly aromatic foliage is reliably avoided by deer; one of the better deer-resistant culinary herbs; the pungent volatile oils (carvacrol, thymol) appear to deter browsing consistently; even young transplants are rarely damaged; no protection typically needed after establishment"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure and light salt spray but is not a coastal or roadside-adapted species"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; a defining characteristic of Mediterranean subshrubs; performs better with less water than more in most situations"
+    },
+    "other": "Tolerates lean, rocky, infertile soil exceptionally well; thrives in conditions that would stress or kill more moisture-demanding herbs; heat tolerant; performs well at wall bases and in raised rock garden conditions; tolerates wind and exposed sites without issue"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low; once established in a well-drained site, requires very little intervention",
+    "pruningNotes": "Trim back by one-third to one-half in early spring before new growth emerges — this is the most important annual task; removes winter-killed and brown wood, stimulates fresh growth from the woody base, and maintains compact form. A light trim after flowering in late August can encourage a flush of fresh foliage for late-season harvest. Do not cut to the ground aggressively — unlike oregano, Winter Savory does not regenerate as readily from a bare-wood cut; preserve some green growth when trimming.",
+    "propagationMethods": [
+      "Stem cuttings (easiest and most reliable — take semi-hardwood cuttings in summer; root readily); division (divide established clumps in spring, though the woody base makes this less convenient than with rhizomatous herbs); seed (germinates readily; direct sow in spring or start indoors 6-8 weeks before last frost; flavor is consistent from seed, unlike oregano); layering (peg a low stem to the soil — it will root within a season)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Satureja montana) is the standard in commerce and performs well across Zones 5-8 without special selection. 'Nana' is a compact dwarf selection reaching 6-8\" — useful for edging, containers, or tight spaces in a rock garden; flavor is comparable to the species; hardy through the same range. No other cultivars of significant distinction are widely available in the US market. Unlike oregano, flavor quality is reasonably consistent across seed-grown plants of the straight species, making seed propagation practical regardless of region. Do not confuse with Summer Savory (Satureja hortensis), which is an annual with a milder, sweeter flavor; both are used similarly in the kitchen, but Winter Savory is the better garden investment as a permanent, self-renewing perennial.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Rock garden",
+      "raised herb bed",
+      "path edging",
+      "Mediterranean-style herb planting",
+      "bean bed companion",
+      "kitchen garden"
+    ],
+    "designPlacement": "Best in full-sun, well-drained positions — south- or west-facing aspects in northern zones, any sunny aspect in warmer zones; excellent for raised beds, rock garden pockets, wall bases, and gravel gardens; place near frequently harvested culinary herbs for kitchen convenience; low stature makes it ideal for front-of-bed edging or border plants; combine with other Mediterranean herbs (thyme, oregano, lavender, rosemary) that share its lean-soil, sharp-drainage needs; avoid placing in beds that receive regular irrigation for moisture-loving neighbors",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satureja_montana",
+    "inaturalist": "https://www.inaturalist.org/taxa/168442-Satureja-montana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281431"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; non-native Mediterranean culinary herb; not found in any wild or naturalized populations in Pennsylvania",
+      "paInvasiveStatus": "Not regulated in PA; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "At the Hegins site, the compacted red clay with post-rain drainage issues makes in-ground planting risky without significant amendment; a raised bed or mounded planting with added grit and sharp sand is the recommended approach; Section C's south-facing aspect helps with surface drying but does not solve subsurface drainage alone",
+      "soil": "The Hegins red clay is the opposite of ideal texture; if planting in-ground, create a pocket of gritty, lean mix (sharp sand, gravel, and minimal compost) at least 12\" deep and 18\" wide; a raised herb bed or rock garden section eliminates the clay issue entirely",
+      "cultivarNotes": "the straight species is the standard choice; 'Nana' is a good option for tight spaces in a raised herb bed or rock garden edge; no cultivar-specific considerations for this zone.",
+      "designPlacement": "Section C (south-facing back porch strip) is the ideal placement — the warm, dry microclimate, full sun exposure, and fragrance focus align perfectly with Winter Savory's cultural needs and sensory contribution. Section B (garage kitchen strip) is also appropriate if drainage can be managed with a raised or mounded planting position; kitchen proximity is a practical asset for a frequently used culinary herb. Avoid Section A (north-facing) entirely — insufficient sun for acceptable aromatic quality. In heavy clay areas, establish in a raised mound with added grit or sharp sand, or in a dedicated raised bed; do not plant directly into undrained clay.",
+      "siteObservations": "The compacted red clay and post-rain drainage issues at this site are the primary challenge for Winter Savory; a raised bed or mounded planting with grit amendment is non-negotiable for long-term survival. Active deer pressure from the east wildlife corridor is not a concern — Winter Savory's aromatic oils make it reliably deer-resistant. The south-facing Section C microclimate is the closest analog to the Mediterranean hillside conditions this plant requires."
+    }
+  }
+}

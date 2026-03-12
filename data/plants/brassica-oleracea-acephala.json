@@ -1,0 +1,161 @@
+{
+  "id": "brassica-oleracea-acephala",
+  "name": {
+    "commonName": [
+      "Kale",
+      "Borecole",
+      "Leaf Cabbage"
+    ],
+    "latinName": "Brassica oleracea var. acephala (syn. Brassica oleracea Acephala Group)",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Descended from wild cabbage (Brassica oleracea) native to coastal Mediterranean Europe and the Atlantic coasts of western Europe; cultivated forms developed over millennia throughout Europe, with curly-leaved kales strongly associated with northern European traditions (Scotland, Germany, the Netherlands); now grown worldwide in temperate climates",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced entirely through cultivation; no native range within the lower 48 states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states; kale does not naturalize in wild or natural areas; may self-seed modestly in garden settings if allowed to flower and set seed in year 2, but is not a spread concern and does not establish outside of cultivation"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 (grown as a cool-season annual or biennial); most varieties are cold-hardy to Zone 6 and below; some are rated to Zone 2-3; Zone 6a is excellent kale territory"
+    }
+  },
+  "description": {
+    "height": "Typically 1.5-3' tall depending on variety and growing season; Lacinato types often reach 2-3'; dwarf curly types stay closer to 1.5'; Tree Kale (var. ramosa) can reach 4-6' over multiple years",
+    "spread": "1.5-2.5' depending on variety; allow adequate airflow between plants",
+    "spacing": "18-24\" between plants in rows; 24-30\" between rows for large varieties; can be grown more tightly (12\") if harvesting as baby leaf",
+    "growthRate": "Fast for a vegetable — seed-to-harvest in 55-80 days depending on variety; transplants from indoor starts will reach harvestable size in 30-50 days after setting out",
+    "timeToMaturity": "Begin harvesting lower leaves when plants are 8-12\" tall; continuous harvest is possible from about 6-8 weeks after transplanting; the plant keeps producing from the growing tip as long as conditions remain cool and lower leaves are removed",
+    "lifespan": "Technically biennial — completes its life cycle over two years; in year 1 it produces vegetative growth (the edible leaves); in year 2 it bolts and flowers; in Zone 6a and comparable climates, a fall-sown plant can overwinter, resume growth in spring, and still produce acceptable leaves before eventually bolting as days lengthen and temperatures warm; treat as an annual for consistent high-quality leaf production; Tree Kale (var. ramosa) is a true short-lived perennial exception worth noting",
+    "deciduousEvergreen": "Evergreen in the vegetative sense — kale does not die back in winter under Zone 6a and warmer conditions; it persists through frost, often looking ragged after hard freezes but remaining alive and edible; fall-sown plants can continue producing into January under row cover in most of the lower 48 cool-season growing window",
+    "winterInterest": "Significant practical winter interest — one of very few vegetables that remains harvestable through Zone 5-7 winters with minimal protection; dark blue-green Lacinato types and frosted curly types have genuine ornamental beauty in the winter garden; the contrast of dark crinkled foliage against snow is striking"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred — 6+ hours for best growth and leaf production; tolerates partial shade (4-5 hours) but growth slows noticeably and plants become leggy; do not plant in heavy shade; fall plantings benefit from every hour of autumn sun as day length shortens",
+    "water": "Medium; consistent, even moisture produces the best leaf quality; the worst kale (tough, bitter, leathery) comes from water-stressed plants; inconsistent watering invites bolting; once established, kale is more drought-tolerant than most brassicas but this should not be tested in the vegetable garden if quality harvest is the goal; good drainage is important — kale does not like wet feet",
+    "drainagePreference": {
+      "description": "Prefers well-drained to average-draining soil; standing water and prolonged waterlogging around the crown cause root disease and crown rot; raised beds reliably prevent drainage problems and are the recommended approach on heavy soils anywhere in the lower 48",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "More tolerant of heavy clay than most vegetables; produces reasonable harvests in unammended clay where many other crops struggle; incorporating compost at planting (2-4\" worked into the top 12\") significantly improves yield and leaf quality in clay; clay's moisture retention actually benefits kale during summer dry spells for fall-planted crops"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral is ideal; brassicas generally prefer slightly alkaline conditions closer to 6.5-7.0; a pH above 7.0 suppresses nutrient uptake; liming clay soil to raise pH also improves clay structure — a double benefit on heavy-clay sites"
+    },
+    "texturePreference": "Rich, organically amended, well-drained loam is ideal; kale is notably clay-tolerant among vegetables — it produces reasonable harvests in heavy clay soil where many other crops struggle; incorporating compost at planting significantly improves performance in clay; kale is not as demanding as brassica cousins like cauliflower or broccoli",
+    "rootCharacter": "Moderately deep taproot with lateral fibrous roots; not as deep as asparagus or comfrey but deeper than many annual vegetables; the root system improves soil aeration in clay over time; plants are not easily transplanted once established beyond seedling stage"
+  },
+  "bloom": {
+    "bloomTime": "Year 2 — overwintered plants bolt in spring (March-May) as day length increases; spring-sown plants may bolt in heat of summer if left in the ground; yellow flowers appear on tall branching stalks",
+    "bloomDescription": "Classic brassica flowers — four-petaled, bright yellow, borne in loose terminal racemes; individually small and cheerful; the flowering structure can reach 3-5' tall on overwintered plants; flowers are followed by slender seed pods (siliques); the entire flowering plant has a wild, architectural quality and is genuinely attractive; allowing a few plants to complete the full biennial cycle provides both beauty and seed",
+    "fragrance": "Mild, slightly sweet brassica scent; the classic faint \"cabbage flower\" smell; not offensive",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female reproductive structures",
+    "pollination": "Insect-pollinated, primarily by bees; cross-pollinates readily with other Brassica oleracea varieties (broccoli, cabbage, Brussels sprouts, collards) — if saving seed for true-to-type kale, isolate by 300-1000 feet or use bagging; cross-pollination does not affect the current season's leaves, only the seed produced"
+  },
+  "yield": {
+    "edibleParts": "Leaves (primary edible crop) — harvested at all stages from baby leaf to full-size; young leaves are most tender and mild; more mature leaves are more substantial and nutritious but increasingly fibrous with age; stems of young plants are edible and palatable; stems of older plants are tough and best removed; young flower shoots (raab) of overwintering plants are edible and delicious in spring — essentially free broccoli raab from a plant that has done its job. Nutritional value is exceptional: kale has the highest vitamin K content of any commonly grown vegetable, is a major source of vitamins A and C, and provides meaningful calcium and iron. This is genuinely one of the most nutrient-dense foods in the temperate garden.",
+    "harvestSeason": "Kale can be on the table almost year-round with two strategic plantings in Zones 5-7. SPRING CROP: Start seeds indoors 6-8 weeks before last frost (timing varies by zone — Zone 5: start early March, transplant late April; Zone 6a: start mid-March, transplant early-to-mid April; Zone 7: start late February, transplant mid-March); harvest from early summer through midsummer, tapering as heat builds and flavor becomes more bitter. FALL/WINTER CROP (the superior planting in cold climates): Direct-sow July through early August; transplant or thin to final spacing in August; harvest October through January in Zones 5-7, with quality and sweetness improving dramatically after each frost. Kale subjected to repeated freezing temperatures undergoes enzymatic conversion of starches to sugars — the flavor difference between pre-frost and post-frost kale is profound and transformative. Cover with row cover or low tunnels to extend harvest through December and into January. Overwintering plants resume growth in late winter/early spring and produce edible leaves again before bolting. In Zones 8-9, kale is a true cool-season crop with a fall-to-spring season rather than a summer-to-winter one. Begin harvesting individual lower leaves as soon as the plant reaches 8-12\" tall; always harvest from the bottom, leaving the central growing tip intact to continue producing.",
+    "medicinalUses": "Not a primary medicinal plant in the Western herbal tradition, but the nutritional density is medicinal in effect: exceptionally high vitamin K (bone health, blood clotting), beta-carotene (immune function, vision), vitamin C (immune support, iron absorption), lutein and zeaxanthin (eye health), sulforaphane and indole-3-carbinol (glucosinolate compounds with well-documented anti-inflammatory and cancer-preventive research). Regular consumption of kale is among the most evidence-supported dietary interventions for long-term health in the temperate climate food garden.",
+    "craftOtherYield": "Overwintered kale plants in bloom are striking enough for cutting arrangements; seed can be saved for the following season if varieties are not cross-pollinated; large-leaved Lacinato types are sometimes used decoratively as serving wrappers; ornamental kale varieties (Acephala Group, bred for intense color) are grown as winter bedding plants and are edible, though selected for appearance over flavor"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None in normal consumption. Note: kale and all Brassica oleracea vegetables contain goitrogens — compounds that can interfere with thyroid function when consumed in very large quantities raw over long periods; cooking largely neutralizes this effect; this is not a practical concern for typical garden consumption but worth noting for people with thyroid conditions who eat kale daily in raw form",
+    "toxicityAnimals": "Potentially problematic for dogs and cats in large quantities — the goitrogenic and thiosulfate compounds can cause gastrointestinal upset and hemolytic anemia in dogs with excessive raw consumption; moderate incidental contact is not a concern; do not deliberately feed large amounts of raw kale to dogs. Chickens relish kale and can be given trimmings freely — it is a valuable flock supplement.",
+    "allelopathy": "None known; kale is generally considered neutral to mildly beneficial as a companion plant in the vegetable garden",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual/biennial vegetable layer); potential food forest ground layer under young trees in the establishment phase"
+    },
+    "roles": [
+      "Annual/Biennial Food Crop (primary and most productive role)",
+      "Cool-Season Ground Cover (dense leaf canopy suppresses weeds between plantings)",
+      "Nitrogen Scavenger (deep enough roots to capture nutrients before they leach; good soil improver when chopped and dropped)",
+      "Beneficial Insect Support (flowering year-2 plants attract early-season bees and beneficial insects — leave a few to bolt)",
+      "Clay Soil Pioneer (tolerates and gradually improves clay soils; a practical ground-layer crop while the food forest is establishing)",
+      "Quick Yield in Young Food Forest Guilds (provides harvestable food between newly planted trees; gaps in canopy allow enough light for 2-4 seasons before closing)"
+    ],
+    "companionPlants": [
+      "Beets (compatible and traditionally planted together)",
+      "Celery and Celeriac (said to repel white cabbage butterfly)",
+      "Dill and other Apiaceae (attract parasitic wasps that prey on cabbageworms — highly recommended)",
+      "Nasturtiums (trap crop for aphids — plant nearby and sacrifice them to draw aphids away from kale)",
+      "Chamomile (traditional brassica companion)",
+      "Alliums — garlic and onions (long tradition as brassica companions; some evidence for aphid deterrence)",
+      "Comfrey (excellent at the bed edge or in a food forest setting — mineral cycling and chop-and-drop mulch benefit brassicas)"
+    ],
+    "antagonists": [
+      "Other brassicas planted in succession in the same soil (club root and black rot build up rapidly; rotate brassica family crops on a minimum 3-year cycle in any given bed); Strawberries (traditional antagonist — inhibit each other when grown in close proximity); Fennel (allelopathic to most vegetables, including brassicas)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when in flower (year 2 overwintered plants); Cabbage white butterflies (Pieris rapae) are attracted to all Brassica oleracea for egg-laying — this is a pest relationship, not a benefit, but the caterpillars (cabbageworms) do in turn attract parasitic wasps which are beneficial garden allies; Goldfinches and other small birds eat ripening seeds from plants allowed to go to seed",
+    "hostPlantFor": "Cabbage white butterfly (Pieris rapae) — caterpillars are a significant pest; imported cabbageworm (Artogeia rapae); cabbage looper (Trichoplusia ni); harlequin bug (in warmer zones); these are well-known pests but kale is notably more tolerant of pest pressure than its cabbage, broccoli, or cauliflower relatives — a kale plant with some cabbageworm holes still produces abundantly, while a comparable broccoli or cabbage head may be ruined",
+    "nestingHabitat": "Dense foliage provides minimal nesting habitat; flowering stalks in year 2 may provide some minor cover; not a significant habitat plant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor to very poor — kale is a significant deer browse target across all regions where it is grown; the succulent, nutritious leaves are highly palatable, and deer will consume entire plants rapidly where deer pressure exists; the plant is fully vulnerable to deer predation; raised beds with deer fencing, or any fenced vegetable garden enclosure, are the appropriate mitigation; open planting outside a fenced perimeter is not recommended in areas with active deer populations; kale's food forest utility as a permanent open ground-layer planting is severely limited by deer browse risk wherever deer are present"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not tolerant of salt spray or road salt; a concern for coastal gardens in salt-spray zones or for any bed within 20-30 feet of a heavily salted road; not a concern for inland gardens set well back from roads"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — kale handles short dry spells better than most brassicas and is genuinely more robust in adverse conditions; however, sustained drought reduces leaf quality, promotes bitterness and toughness, and can trigger premature bolting; consistent moisture produces the best harvest"
+    },
+    "other": "Cold-hardiness is one of kale's defining characteristics — it is among the most cold-tolerant of all vegetables. Most curly and Lacinato types survive temperatures down to 10-20°F; very cold-hardy varieties (Winterbor, Siberian types) can survive to 0°F and below with appropriate protection; with row cover or low tunnels adding 4-8°F of protection, plants can survive brief dips to -10°F in Zones 5-6. Heat tolerance is the limiting factor at the other extreme — extended temperatures above 85-90°F cause bitterness, accelerated bolting, and insect pressure surges; spring plantings degrade through summer and should be planned accordingly. Kale is generally unfazed by late frosts in spring or early frosts in fall that would devastate other crops."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate; lower maintenance than most brassicas (broccoli, cauliflower) and considerably more forgiving; the main active tasks are pest monitoring, consistent watering, and the discipline of harvesting regularly from the bottom to keep plants productive",
+    "pruningNotes": "Harvest lower leaves regularly and consistently — this is the single most important maintenance practice for kale. Remove yellowing or damaged lower leaves promptly to improve airflow and reduce disease pressure. Always leave the central growing tip and at least 4-6 healthy upper leaves intact after each harvest; the plant regrows from the top. Remove flower stalks on spring-sown plants if bolting occurs and you want to extend the harvest window — this delays but does not permanently prevent bolting once the plant is committed. For fall-sown overwintering plants, allow the plant to complete its full biennial cycle if you want spring shoots (delicious) and seed saving. Row cover installation in October extends the harvest window significantly in Zones 5-7 and is one of the highest-value-per-effort season extension techniques available; lightweight floating row cover (1.5 oz) allows light through while adding 4-6°F of frost protection.",
+    "propagationMethods": [
+      "Direct seed (most common for fall plantings — sow 1/4\" deep, thin to final spacing as seedlings establish; fastest and most economical method); Transplants from indoor starts (preferred for spring plantings — start seeds 6-8 weeks before transplant date; transplants get a head start and outperform direct-sown in the spring race against summer heat); Division is not applicable; vegetative propagation is possible (stem cuttings root for Tree Kale/var. ramosa) but is not the standard method for annual kale varieties"
+    ]
+  },
+  "cultivarNotes": "Kale is not a single type of plant but a loosely defined group with dramatic diversity in leaf form, texture, color, cold-hardiness, and flavor. Choosing the right type for the intended use and climate zone matters.\n**Curly Kale** — the classic supermarket kale with tightly ruffled, dark blue-green leaves. Robust, cold-hardy, stores well, holds up to cooking. The most widely grown type. **'Winterbor'** is the benchmark: F1 hybrid, extremely cold-hardy (to 0°F), very productive, tall (to 3'), vigorous; an excellent all-purpose curly kale for Zones 4-7 and a strong candidate for any cold-climate fall planting. **'Dwarf Blue Scotch'** (also called 'Vates' or 'Blue Curled Scotch') is a compact heirloom type that stays under 18\" — excellent for tight spaces, containers, or where height is a concern; excellent cold-hardiness; open-pollinated and seed-saveable. **'Redbor'** is a striking red-purple curly type — ornamental and edible; slightly less cold-hardy than Winterbor but beautiful in the garden; a good choice where visual interest in the vegetable bed matters.\n**Lacinato Kale (Dinosaur/Tuscan Kale)** — narrow, strap-like leaves with a distinctive dark blue-green, pebbled/savoyed surface texture; flavor is notably more tender and less bitter than curly types; excellent raw (massaged kale salads) and cooked; the preferred type for many culinary applications. **'Lacinato'** (also sold as 'Nero di Toscana', 'Toscano', or 'Dinosaur Kale') is the standard variety — open-pollinated, tall (to 3'), productive, and one of the most beautiful vegetables in the garden; moderately cold-hardy (less so than Winterbor — protection below 15°F is advisable); reliable in Zones 5-9 with appropriate season management; an excellent second planting alongside Winterbor for culinary variety.\n**Red Russian Kale** — IMPORTANT NOTE: Red Russian kale is technically Brassica napus, not B. oleracea; it is a different species (related to rutabaga and canola rather than cabbage), though cultural requirements are identical. It has frilly, oak-leaf shaped, flat leaves in blue-green with purple stems; the most tender and mildest-flavored kale available; outstanding for fresh eating and salads; bolts more readily in heat than B. oleracea types; cold-hardy but not quite to the level of Winterbor. Included here as a cultural companion to B. oleracea kales — grow it the same way, expect the same harvest, note the taxonomic distinction if it matters for record-keeping.\n**Siberian Kale (B. napus var. pabularia)** — another Brassica napus type, also grown identically; very broad, flat, grey-green leaves; exceptional cold-hardiness, among the most winter-tolerant kales available; flavor improves remarkably after frost; less common in seed catalogs but worth seeking out for the dedicated cold-season garden; suited to Zones 3-7.\n**Ornamental Kale** — Brassica oleracea Acephala Group varieties bred for intense color (white, pink, magenta, purple centers); fully edible but selected for appearance over flavor; typically used as fall and winter bedding plants; useful where ornamental value is the priority and edibility is a bonus; widely grown across Zones 5-9 as seasonal color.\n**Tree Kale / Walking Stick Kale (Brassica oleracea var. ramosa)** — a genuinely perennial kale that forms a woody-stemmed, shrub-like plant over multiple years; can reach 4-6' tall; productive in Zones 7-9 and marginally perennial in Zone 6 with protection (it may die back to the crown in hard winters and resprout, or survive mild winters outright). Tree Kale produces continuously over a much longer season than annual kale. Worth trialing as a food forest ground-layer or understorey shrub candidate in Zones 6-9 — it represents the closest thing to a permanent kale plant available for temperate climates. Hardy Walking Stick Kale selections from UK seed sources have better cold tolerance. Propagated by cuttings; not reliably available in US retail but findable through specialty seed companies and plant swaps.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary and most practical use, especially where deer pressure is present); container growing (dwarf varieties); fall and winter season extension planting; potential food forest ground layer under young trees during canopy establishment phase (with deer fencing where deer are active)"
+    ],
+    "designPlacement": "Kale is one of the most productive and lowest-effort vegetables for Zones 5-7 and deserves a prominent place in any raised vegetable bed system — a fall sowing of Winterbor and Lacinato together is among the highest-value plantings for October-January harvests. In the raised bed context, plant on the north side of the bed to avoid shading lower-growing companions. Where deer pressure exists, the vegetable bed must be fenced; any food forest trial planting also requires physical deer exclusion. The food forest opportunity is real but contingent: during the 2-5 year establishment phase of young fruit trees, kale could serve as a productive, nitrogen-scavenging, weed-suppressing ground layer if the entire young food forest planting is within a deer fence — which is appropriate practice for young fruit trees anyway. Once deer pressure is managed at the site level, Tree Kale as a multi-year structural plant in the food forest understorey becomes a longer-term possibility worth revisiting. For ornamental value, 'Redbor' or ornamental kale varieties serve well as cool-season color in fall and early winter in any bed that tolerates 18-24\" height.",
+    "acquisitionStatus": "Not yet acquired; seed is the standard acquisition method and is widely available, inexpensive, and reliable\nPennsylvania — Hegins Site Observations: Zone 6a Hegins is excellent kale territory — the cold winters are a direct asset, improving flavor rather than limiting the plant. The clay soil is a non-issue for kale relative to other vegetables; it is one of the more clay-tolerant crops, and raised beds make it a non-factor entirely. The deer pressure is the single most significant site constraint and effectively limits kale to fenced areas. The fall planting is far more valuable than the spring planting for this site: sow in July, harvest from October through January with row cover, and experience the profound flavor transformation that hard frosts bring. If only one cool-season vegetable is grown at Hegins, kale is a strong candidate — it outperforms lettuce, spinach, and most other greens in cold-hardiness, nutritional density, and length of harvest season."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kale",
+    "inaturalist": "https://www.inaturalist.org/taxa/54516-Brassica-oleracea (parent species — Brassica oleracea; iNaturalist does not track variety-level taxa for cultivated groups)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=269745&isprofile=0&chr=19"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; not naturalized or invasive in Pennsylvania natural areas",
+      "paInvasiveStatus": "Not listed as invasive by the Pennsylvania Department of Agriculture or the Pennsylvania Invasive Species Council; no restrictions on planting",
+      "drainage": "Hegins red clay is a non-issue for kale relative to most other vegetables; it is among the more clay-tolerant annual crops; ground-level planting in the clay is viable with organic matter incorporation, but raised beds are the practical first choice given the site's compaction and drainage challenges; the clay's moisture retention helps sustain fall plantings through dry autumn stretches",
+      "soil": "Hegins red clay is workable for kale with compost amendment; raised beds filled with quality vegetable mix are the fastest path to excellent production; for in-ground planting, work in 3-4\" of compost to the top 12\" before planting and mulch after transplanting; the compacted subsoil is not a concern given kale's moderate root depth",
+      "cultivarNotes": "Primary recommendations for Hegins raised beds: 'Winterbor' (fall main crop; maximum cold-hardiness for Zone 6a winters) + 'Lacinato' (culinary variety; tender leaves) + Red Russian (fresh eating; mild flavor). This three-variety planting covers all use cases and provides sequential harvest across the full cool season. 'Redbor' or ornamental kale in fall containers or Section A/C seasonal plantings adds winter color as a bonus.",
+      "designPlacement": "Kale belongs in the raised vegetable beds as the primary placement — fenced beds are the non-negotiable first step given the active deer pressure from the east corridor. The food forest guilds are a secondary opportunity: if the apple, paw paw, or mulberry guild areas are enclosed within a deer fence during tree establishment (strongly recommended for the trees themselves), kale can fill the ground layer productively for the first 2-4 seasons while canopy closes. Ornamental kale and 'Redbor' are worth considering as seasonal color in Section A or C for fall and early winter interest — both sections accommodate the modest height, and ornamental kale is a genuinely beautiful winter bedding plant at those scales.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "prunus-domestica",
+  "name": {
+    "commonName": [
+      "European Plum (includes prune plums",
+      "Italian plums",
+      "fresh eating types)"
+    ],
+    "latinName": "Prunus domestica",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Southwest Asia (Caucasus region); naturalized widely across Europe and North America; the cultivated plum has been grown in Europe for over 2,000 years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely naturalized across the eastern US and Pacific Northwest; escaped specimens occasionally found in hedgerows, old homesteads, and woodland edges from New England through the mid-Atlantic and upper Midwest. Wild populations are scattered and not ecologically dominant."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not considered invasive anywhere in the lower 48 US states. Escaped specimens naturalize occasionally near old orchards and roadsides but do not spread aggressively or displace native vegetation. Not listed on any state noxious weed lists or the federal noxious weed list. The related Prunus cerasifera (cherry plum / Myrobalan rootstock) is more escape-prone and is flagged in some western states — do not confuse the two species."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "Zone 4-9 (European types); Zone 5-9 (Japanese types — Prunus salicina)"
+    }
+  },
+  "description": {
+    "height": "Semi-dwarf — 10-15'; standard — 15-25'. Semi-dwarf on size-controlling rootstock is the recommended home garden form.",
+    "spread": "10-15' on semi-dwarf",
+    "spacing": "10-15' apart for semi-dwarf; most European plums are self-fertile, so a single tree is productive — but planting two different cultivars improves yield through cross-pollination and is recommended when space allows",
+    "growthRate": "Moderate; begins fruiting years 3-5; tends to bear earlier than apple",
+    "timeToMaturity": "First fruit years 3-5; full production years 6-8",
+    "lifespan": "20-50 years for semi-dwarf; standards can live longer; plums are generally shorter-lived than apples in the orchard",
+    "deciduousEvergreen": "Deciduous — early spring bloom is one of the first fruit tree flowers of the season; good yellow fall color",
+    "winterInterest": "Low to moderate — branching structure visible; some persistent dried fruit if not harvested; early spring bloom is a notable seasonal event"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours; good air circulation is critical for disease management, especially black knot and brown rot",
+    "water": "Medium; consistent moisture during fruit development; avoid waterlogging; established trees are moderately drought tolerant but fruit size and quality decline under stress. In arid western regions, supplemental irrigation during fruit development is essential; in the humid East, natural rainfall is often sufficient but monitor during dry spells.",
+    "drainagePreference": {
+      "description": "Well-drained preferred; plums tolerate heavier soils better than cherries but do not like standing water. Persistently waterlogged roots lead to root rot and decline. On heavy soils, mound planting or raised berms improve drainage and reduce risk. Ideal is a deep loam with moderate moisture retention but no seasonal ponding.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay better than most stone fruits (cherries, peaches), but heavy, compacted clay with poor internal drainage will cause root health problems over time. Amend clay planting holes generously with compost and coarse organic matter to improve structure. On sites with seasonal waterlogging, mound planting (setting the root flare 4-6\" above grade on a broad mound of amended soil) is strongly recommended. Once established in amended clay, plums perform well — the moisture retention of clay can actually benefit fruit sizing if drainage is adequate. Common across the eastern US, Midwest, and Pacific NW clay belt regions."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5; tolerates slightly acidic to neutral soils well. Most eastern US soils fall naturally in this range; western alkaline soils may need sulfur amendment."
+    },
+    "texturePreference": "Well-drained loam preferred; tolerates clay better than many stone fruits. Sandy soils are acceptable but require more frequent irrigation during fruit development. In all soil types, generous compost incorporation at planting improves establishment and long-term root health.",
+    "rootCharacter": "Moderately spreading root system; less surface-rooting than apple; semi-dwarf rootstocks (Myrobalan, Citation, or St. Julian A) limit spread and tree size"
+  },
+  "bloom": {
+    "bloomTime": "Early spring — among the earliest of the fruit trees; often blooms before leaves fully emerge. Exact timing varies by zone: late March in Zone 7-8, early-to-mid April in Zone 5-6, late April in Zone 4. Late frost is a real risk in all zones where bloom coincides with the last frost date — site selection on slightly elevated ground (avoiding frost pockets) matters more for plum than for later-blooming apple.",
+    "bloomDescription": "Small, 5-petaled white flowers in clusters of 2-3; profuse — a well-established plum tree in full bloom is a striking spring sight; blooms slightly earlier than apple",
+    "fragrance": "Mildly sweet; not strongly fragrant compared to some Prunus species",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Most European plums (Prunus domestica) are self-fertile — a major practical advantage over Japanese plums, cherries, and most pears. 'Stanley', 'Valor', 'Mount Royal', and 'Italian/Fellenberg' are all self-fertile and will set fruit without a pollinator. Cross-pollination with a second cultivar will improve yield and fruit size. Japanese plums (Prunus salicina) are generally not cross-compatible with European types — pair within the same species group."
+  },
+  "yield": {
+    "edibleParts": "Fruit (fresh eating, drying/prunes, jam, preserves, baking, liqueur); the freestone prune types are particularly valuable for drying whole",
+    "harvestSeason": "Late July through September depending on cultivar; European types generally ripen mid-to-late season (August-September); Japanese types ripen earlier (July-August)",
+    "medicinalUses": "Plums and prunes are well-documented for digestive health — high in sorbitol and fiber; fresh plums are rich in vitamin C, vitamin K, and antioxidants; dried prunes have a long history of use as a gentle laxative and bone-health food",
+    "craftOtherYield": "Pruneau d'Agen and other traditional prune products; plum wine and brandy (slivovitz); plum wood is dense and fine-grained — useful for small turned objects and tool handles; flowers are early-season pollinator forage"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Seeds (pits) contain amygdalin, a cyanogenic glycoside — do not crack and eat the kernels; the fruit flesh is entirely non-toxic and safe; same caution applies as with all stone fruits (Prunus family)",
+    "toxicityAnimals": "Plum fruit flesh is generally safe for dogs in small amounts; the pits are a choking hazard and contain cyanogenic compounds — keep fallen fruit managed; leaves and stems are also mildly toxic to livestock in quantity",
+    "allelopathy": "None documented for Prunus domestica specifically; some Prunus species are reported to have mild allelopathic effects via root exudates, but this is not a practical concern in normal garden spacing",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Understory fruit tree layer (semi-dwarf 10-15'); can function as canopy in a smaller-scale guild or as mid-layer beneath taller standard trees"
+    },
+    "roles": [
+      "Food (fruit — high-value fresh and preserved)",
+      "early-season pollinator support (one of the first fruit tree blooms)",
+      "wildlife food source",
+      "guild anchor tree",
+      "nitrogen-fixer support (pairs well with nearby nitrogen fixers in the understory)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base — essential)",
+      "garlic/chives (alliums deter borers and add pest-suppression aromatics)",
+      "white clover (nitrogen-fixing ground cover)",
+      "nasturtium (aphid trap crop)",
+      "yarrow (insectary — attracts beneficial predators)",
+      "daffodils (deer deterrent ring around the drip line)",
+      "borage (pollinator attractor); avoid planting directly under large canopy trees that will shade out the plum"
+    ],
+    "antagonists": [
+      "Black knot fungus (Dibotryon morbosum) — see Maintenance Notes; do NOT plant near wild Prunus hedgerow trees if avoidable (major black knot inoculum reservoir); juglone sensitivity — do not plant within the drip-line zone of black walnut (Juglans nigra); keep away from eastern red cedars (Juniperus virginiana) which harbor cedar-plum rust (Gymnosporangium clavipes — a minor issue compared to black knot but worth noting for Rosaceae family)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and early pollinators (extremely important — plum blooms when few other nectar sources are available in early spring); birds (fruit consumed by many species — robins, cedar waxwings, mockingbirds, and others; late-hanging fruit into fall is valued); beneficial insects throughout the season",
+    "hostPlantFor": "Numerous native Lepidoptera use Prunus species — Eastern tiger swallowtail (Papilio glaucus), Coral hairstreak (Satyrium titus), Spring azure (Celastrina ladon), Viceroy (Limenitis archippus), and many moth species; Prunus is one of the highest-value native insect host genera in eastern North America despite P. domestica being a non-native cultivated species — its close relatives (wild plum, chokecherry) are equally valuable",
+    "nestingHabitat": "Branching structure used for nesting by small birds; older trees with bark texture attract cavity nesters over time"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate susceptibility — deer will browse young trees heavily across much of the eastern and midwestern US wherever deer populations are high. Protect with wire cages or hardware cloth trunk guards during establishment (first 3-5 years); mature trees can sustain browsing pressure without significant damage. Allium rings around the guild (garlic, chives, daffodils) provide a low-maintenance aromatic deterrent. Commercial repellent sprays on new growth are effective during the establishment years if caging is not practical."
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — avoid road salt runoff areas and maritime salt spray exposure; not a good choice for coastal windward plantings or within 15-20' of heavily salted roadways"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established trees tolerate dry spells but fruit quality, size, and next-year's bud development all suffer under extended drought; consistent summer moisture is worth maintaining through mulching and supplemental irrigation during dry periods"
+    },
+    "other": "Late frost vulnerability — early spring bloom is at real risk from killing frosts in Zones 4-6; site selection on slightly elevated ground (avoiding frost pockets in low-lying areas) matters more for plum than for later-blooming apple; a south-facing slope or nearby thermal mass helps moderate frost risk. Heat tolerance is good through Zone 9 for European types, but chill hour requirements (700-1000 hours below 45°F for most European cultivars) limit performance in the deep South (Zone 9b+) and low-chill coastal California."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — annual pruning is essential; black knot monitoring and removal is an ongoing commitment in the eastern US (from New England through the mid-Atlantic and upper Midwest) that elevates the maintenance requirement above what would be typical in western or southern regions where black knot pressure is low",
+    "pruningNotes": "Annual late-winter pruning (late February-March before bud swell; adjust timing by zone — earlier in Zone 7-8, later in Zone 4-5) is critical. Goal is an open-center (vase) form — this maximizes air circulation through the canopy, which is the single most important cultural practice for managing black knot and brown rot. Remove: crossing branches, inward-growing wood, water sprouts, and any dead or diseased wood. **Black knot (Dibotryon morbosum):** This is the primary disease threat for plum throughout the eastern US, from New England to the upper Midwest. Black knot causes distinctive warty, elongated black galls on branches and twigs — they are unmistakable. The galls girdle branches and eventually kill them. The fungal spores spread from wild Prunus trees (wild black cherry, wild plum, chokecherry) which are extremely common in hedgerows and woodland edges throughout the eastern half of the continent. Western US growers generally face much less black knot pressure. Management: (1) Inspect every branch every year during dormant pruning — black knot is much easier to see without leaves; (2) Cut out infected wood at least 4 inches below the visible gall margin; (3) Disinfect pruning tools between cuts (10% bleach solution or 70% isopropyl alcohol); (4) Remove and destroy infected wood — do not compost it; bag it for trash or burn it. Choose cultivars with better black knot resistance when possible ('Valor', 'Mount Royal' over 'Stanley' if disease pressure is severe). **Brown rot (Monilinia fructicola):** Attacks ripe and near-ripe fruit in warm, humid conditions — the fruit develops rapidly spreading tan-gray mold. Most problematic in the humid East and Southeast. Prevention: good air circulation (open center pruning), prompt harvest, remove mummified fruit from the tree and ground after harvest. **Plum curculio (Conotrachelus nenuphar):** A weevil that scars developing fruit with crescent-shaped cuts and lays eggs inside; the larvae cause fruit drop. Present throughout the eastern US. Kaolin clay applications at petal fall and a few weeks after provide good organic protection; chickens in the orchard area will scratch up and consume dropped larvae-infested fruit. Thinning fruit clusters to single fruits spaced 3-4 inches apart improves air circulation, fruit size, and reduces brown rot spread.",
+    "propagationMethods": [
+      "Grafting onto rootstock (standard nursery method — rootstock controls size; purchase named cultivars from a reputable nursery); hardwood cuttings (possible for some Prunus, but grafted trees are strongly preferred for fruiting cultivars); root suckers (European plum on its own roots will sucker; suckers from grafted trees will be the rootstock, not the cultivar — remove them promptly)"
+    ]
+  },
+  "cultivarNotes": "**European plum / prune types (primary recommendation for home gardens across most of the lower 48):**\n**'Stanley'** — The benchmark blue prune plum. Large, freestone, dark blue-purple skin with golden-yellow flesh; sweet, rich flavor; excellent for fresh eating, drying, jam, and baking. Self-fertile and reliably productive. Ripens late August-early September. Somewhat susceptible to black knot — not a reason to avoid it, as it remains the most widely planted and recommended European plum in the Northeast and Midwest, but monitor carefully and prune aggressively in regions with high black knot pressure. Zones 5-9. Widely available from nurseries nationwide. This is the first plum to plant if you plant only one.\n**'Valor'** — Large, deep blue, sweet and juicy; later ripening than Stanley (September). Considered more disease-resistant than Stanley, including better black knot resistance. Excellent flavor; self-fertile. Less widely available but worth seeking out. A top alternative or companion planting to Stanley. Zones 5-8.\n**'Italian' / 'Fellenberg'** — The classic Old World prune type. Smaller, oblong, blue-purple; intensely flavored; the traditional drying plum of Italian cuisine. Self-fertile. Ripens mid-September. Good flavor but somewhat susceptible to black knot. A heritage choice. Zones 5-8.\n**'Mount Royal'** — Developed in Quebec; hardy to Zone 4; excellent flavor; medium-sized, blue-purple fruit; good disease resistance. The best choice for colder Zone 4-5 sites or gardeners wanting a hardier, more disease-resistant cultivar. Self-fertile. Zones 4-8.\n**'Castleton'** — A newer release from the Cornell/Geneva breeding program. Good black knot resistance, productive, and good flavor. Worth considering for eastern US growers dealing with heavy disease pressure. Zones 5-8.\n**Zone band guidance:**\n- **Zone 3-5 (cold climates):** Prioritize 'Mount Royal' for cold hardiness and disease resistance. 'Stanley' is reliable from Zone 5 up. Protect bloom from late frost — north slopes and frost pocket sites are risky.\n- **Zone 6-7 (temperate core range):** The sweet spot for European plums. 'Stanley', 'Valor', and 'Italian' all perform well. Black knot is the primary management concern in the eastern half of this band; western growers have fewer disease issues.\n- **Zone 8-9 (warm climates):** European plums need 700-1000 chill hours; verify your chill hour accumulation before purchasing. Low-chill areas of the Gulf Coast and southern California may not satisfy European plum requirements — Japanese types (lower chill hour needs) or low-chill European selections are better suited. 'Stanley' performs into Zone 8 with adequate chill.\n**Japanese plum types (Prunus salicina — for comparison):**\nJapanese plums are larger-fruited, earlier-ripening, and generally less cold-hardy than European types (most are Zone 5-9). Most require a cross-pollinator, which is a significant practical disadvantage for the home gardener. They are better suited to Zone 7-9 gardeners who want early-season fresh plums.\n**'Methley'** — The most practical Japanese plum for home gardens: self-fertile (unlike most Japanese types), early ripening (July), red-purple skin with red flesh, sweet and juicy. Zone 5-9. Low chill requirement (~250 hours) makes it the best Japanese plum for southern US gardens. A good choice if you want an early fresh-eating plum alongside European types. Most disease-resistant of the common Japanese cultivars.\n**'Shiro'** — Yellow-skinned, sweet, mild flavor; popular roadside-stand plum. Requires a cross-pollinator (Methley works). Ripens late July. Zone 5-8.\n**'Ozark Premier'** — Large, red, excellent flavor; Zones 5-8. Requires a cross-pollinator. Good for fresh eating and cooking.\n**'Santa Rosa'** — The classic California/western US Japanese plum. Large, red skin, yellow-red flesh, rich flavor. Self-fertile. Zones 5-9. Lower chill requirement (~300 hours). The standard Japanese plum for western and southern US gardens.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory fruit tree",
+      "home orchard",
+      "permaculture guild anchor",
+      "food-producing specimen tree"
+    ],
+    "designPlacement": "Semi-dwarf European plum planted as an understory fruit tree layer anchor or standalone guild center. Requires full sun (6-8 hours minimum) and good air circulation — do not crowd into a corner or against a fence line. Best placement is in an open area where the canopy can develop freely and airflow is unobstructed on all sides (critical for black knot and brown rot management in humid climates). Space 10-15' from other trees. In a permaculture context, surround the base with a comfrey-clover-allium-daffodil guild. Maintain an open-center pruning form. Avoid frost pockets — slightly elevated or sloped ground is ideal. A natural companion to an apple guild — plum ripens earlier, extending the fresh fruit season. Do not plant within the drip line of black walnut.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_domestica",
+    "inaturalist": "https://www.inaturalist.org/taxa/63735-Prunus-domestica",
+    "missouriBotanicalGarden": [
+      {
+        "label": "'Stanley'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261661"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list. Same as general Invasive field — no concerns.",
+      "drainage": "Red clay at the Hegins site is compacted and drainage-challenged after heavy rain. In-ground planting is workable but requires significant amendment at planting — excavate a wide hole (3x root ball width), backfill with a 50/50 mix of native clay and compost, and mound the root flare slightly above grade. Avoid low spots where water pools after storms. Tree guild placement should prioritize the best-drained areas of the property.",
+      "soil": "Hegins red clay should be amended with compost at planting — excavate wide, mix 50/50 with organic matter. The native clay pH is typically suitable (5.5-6.5 range) without correction. Ongoing surface mulching with wood chips or comfrey chop-and-drop will gradually improve clay structure over the tree's life.",
+      "cultivarNotes": "Start with 'Stanley' as the primary plum — it is the proven workhorse for the mid-Atlantic and Northeast. Add 'Valor' or 'Mount Royal' as a second tree for improved disease resistance and extended harvest. 'Methley' is viable as a third tree for early fresh eating (July harvest before European types ripen). Black knot is the dominant management challenge in eastern PA — 'Valor' and 'Mount Royal' offer measurably better resistance than 'Stanley' and should be weighted heavily if wild Prunus hedgerow trees are nearby.",
+      "designPlacement": "Fits the tree guild model alongside the apple pair. Not suited to Sections A or C (height and pruning requirements exceed the 5' limit; needs full sun that north-facing Section A cannot reliably provide). Could theoretically anchor its own guild in an open, well-drained area of the property with maximum sun exposure. Surround with comfrey-clover-allium-daffodil guild. Deer protection (wire cage) essential during establishment given the active east corridor pressure. Site on the best-drained ground available — avoid the low areas where water pools after heavy rain on the compacted clay. Amend planting hole aggressively (see Drainage/Soil notes above).",
+      "siteObservations": "Black knot pressure is a serious concern — wild Prunus (black cherry, wild plum, chokecherry) is extremely common in PA hedgerows and woodland edges surrounding the Hegins property, providing a persistent inoculum source. Annual dormant-season inspection is non-negotiable here. The red clay soil requires significant amendment at planting but is workable for plum (better clay tolerance than cherry or peach). Early April bloom in Zone 6a is vulnerable to late frost — avoid any frost-pocket low spots on the property. Deer will browse young plum trees aggressively; plan for wire cage protection during the first 3-5 years. The compacted, construction-disturbed soil near foundation beds is not suitable — place the plum guild in open ground away from the house where drainage and sun are maximized."
+    }
+  }
+}

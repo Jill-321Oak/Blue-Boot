@@ -1,0 +1,158 @@
+{
+  "id": "crocus-vernus",
+  "name": {
+    "commonName": [
+      "Dutch Crocus",
+      "Spring Crocus",
+      "Large-Flowering Crocus"
+    ],
+    "latinName": "Crocus vernus",
+    "family": "Iridaceae"
+  },
+  "range": {
+    "nativeRange": "Alps, Pyrenees, and Carpathian mountains of Europe",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native — introduced from Europe; widely naturalized in cultivation throughout North America"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state; naturalizes slowly from corm offsets but is not aggressive and does not spread by seed at a problematic rate"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "3-6\" in bloom",
+    "spread": "Naturalizes slowly by corm offsets over several years",
+    "spacing": "3-4\" apart; plant in clusters of 5-7 for best visual impact",
+    "growthRate": "Fast (blooms first spring after planting)",
+    "timeToMaturity": "Blooms first season; colonies expand over 3-5 years",
+    "lifespan": "Long-lived; naturalizing colonies persist indefinitely",
+    "deciduousEvergreen": "Fully dormant in summer — foliage appears in late winter, blooms, then disappears entirely by early summer",
+    "winterInterest": "None — fully dormant; plant location markers helpful"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than tulips — one of the more shade-tolerant spring bulbs",
+    "water": "Medium during active growth; tolerates dry summer dormancy; dislikes waterlogged soil",
+    "drainagePreference": {
+      "description": "Well-drained soil is essential — corms rot in persistently wet or poorly-drained conditions; avoid low spots, clay flats, or areas with standing water after rain",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Struggles in heavy clay without amendment; corms are prone to rot where drainage is slow; best practice in clay soils is to amend generously with compost and coarse grit, plant on a slight slope or raised mound, and avoid compacted subsoil zones"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Well-drained loam preferred; tolerates a range of textures if drainage is adequate; does not perform well in compacted or waterlogged soils",
+    "rootCharacter": "Corm (modified stem); produces daughter corms annually to expand the colony"
+  },
+  "bloom": {
+    "bloomTime": "March to April — one of the earliest spring bulbs; often blooms before the last frost",
+    "bloomDescription": "Goblet-shaped flowers 2-3\" tall in purple, violet, white, yellow, or striped combinations depending on cultivar; flowers close at night and on cloudy days (a charming characteristic)",
+    "fragrance": "Mildly honey-sweet; variable by cultivar",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Critical early-season nectar and pollen source for emerging bumblebee queens and other early pollinators; one of the most ecologically valuable early-spring plants"
+  },
+  "yield": {
+    "edibleParts": "Not typically used; note — Crocus sativus (saffron crocus) is a different species; do not confuse",
+    "harvestSeason": "N/A",
+    "medicinalUses": "None significant for this species",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Mildly toxic if eaten in large quantities; not a practical concern for normal garden exposure. IMPORTANT: Do not confuse with Colchicum autumnale (autumn crocus / meadow saffron) which is highly toxic and resembles crocus; they are unrelated plants that share a common name. Colchicum blooms in fall without leaves; Crocus vernus blooms in spring with leaves.",
+    "toxicityAnimals": "Mildly toxic to dogs and cats if corms are ingested; the autumn crocus (Colchicum) is far more dangerous — keep the two clearly labeled. Squirrels and chipmunks commonly dig and eat crocus corms across most of the US; this is a persistent management challenge in any region with rodent pressure.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere (bulb)"
+    },
+    "roles": [
+      "Beauty (early spring color)",
+      "Insect Attractor (critical early-season pollinator support)",
+      "Pest Confuser (minor — allium-adjacent scent)"
+    ],
+    "companionPlants": [
+      "Creeping thyme (thyme fills in after crocus foliage dies back)",
+      "geranium 'Rozanne' (covers dying crocus foliage)",
+      "groundcover perennials that emerge late (good crocus companions)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "N/A — allow foliage to die back naturally after bloom; do not cut or tie leaves; the foliage feeds the corm for next year's bloom"
+  },
+  "wildlife": {
+    "attracts": "Bumblebee queens (critical early nectar source as queens emerge from dormancy), honeybees, early butterflies",
+    "hostPlantFor": "Not a host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — less targeted than tulips, but deer do browse crocus flowers and corms across all regions. Crocus tommasinianus is notably more deer-resistant than C. vernus and naturalizes more vigorously — consider as a companion or primary choice where deer pressure is high."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good during summer dormancy; needs moisture during active growth"
+    },
+    "other": "Tolerates part shade; tolerates cold extremely well (Zone 3); squirrel and rodent pressure on corms is a widespread challenge across the lower 48 — wire mesh cages or hardware cloth laid over planting areas can help"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established",
+    "pruningNotes": "Do not cut back foliage after bloom — allow it to yellow and die back naturally over 4-6 weeks. This feeds the corm for next year. Deadhead spent flowers if desired. Lift and divide congested clumps every 5-7 years if flowering declines.",
+    "propagationMethods": [
+      "Corm offsets (lift in summer dormancy, separate, replant)",
+      "seed (slow — 3-5 years to bloom)"
+    ]
+  },
+  "cultivarNotes": "Crocus vernus is reliably hardy in Zones 3-8, covering the vast majority of the lower 48 US states. In Zones 9-10 (deep South, Southern California, South Florida) the required winter chill is insufficient and corms do not reliably rebloom — treat as annuals or select Crocus sieberi or Crocus chrysanthus cultivars which tolerate milder winters slightly better. In Zones 3-5, plant extra-deep (4\") for added frost protection. In Zones 6-8 (mid-Atlantic, Midwest, Pacific Northwest, mountain West) C. vernus performs ideally with minimal intervention.\nCultivar selection by color: Purple — 'Purpureus Grandiflorus' (large, rich violet-purple, reliable), 'Remembrance' (silver-violet, very early), 'Grand Maitre' (soft blue-purple); White — 'Jeanne d'Arc' (large, pure white); Yellow — 'Yellow Mammoth'; Striped — 'Pickwick' (white with purple striping). For deer-resistant naturalizing across all regions: Crocus tommasinianus 'Ruby Giant' (deep violet-purple, extremely vigorous naturalizer, more deer-resistant than C. vernus — highly recommended as a companion or substitute). Plant both species for a longer bloom season — C. tommasinianus blooms first, then C. vernus follows.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Spring bulb display",
+      "naturalizing in lawn or beds",
+      "front zone of border",
+      "under deciduous shrubs and trees; excellent for interplanting with late-emerging perennials that will conceal the dying foliage"
+    ],
+    "designPlacement": "Best placed in the front zone of a mixed border, naturalized in lawn areas, or tucked under deciduous shrubs where summer shade is not an issue. Pair with late-emerging perennials (geranium, astilbe, echinacea) — crocus blooms and dies back before neighbors fill in, providing early-season color without dead-foliage visibility problems. Equally effective in formal bulb plantings and informal naturalized drifts.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:\nEarly spring bloom makes this one of the first signs of life in Section A — high visual value for the front bed when nothing else is showing. Deer pressure from the east corridor is a real threat to flowers and corms; C. tommasinianus should be planted alongside as a more deer-resistant companion. Squirrel activity is high in this area and corm predation is likely — consider laying hardware cloth just below the soil surface over planting clusters. Clay soil at Hegins will require individual pocket amendment with compost and grit; do not plant into unimproved clay. Monitor drainage at the intended site after heavy rain before committing to a planting location."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocus_vernus",
+    "inaturalist": "https://www.inaturalist.org/taxa/55769-Crocus-vernus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281107"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Red clay and compacted construction-disturbed soil at Hegins presents a real rot risk; plant at the slightly raised front zone edge or on a slight mound; amend planting pockets with compost and horticultural grit before planting",
+      "soil": "Heavy red clay at Hegins requires significant amendment — work compost and coarse grit into individual planting pockets; do not plant in flat or low areas where water pools after rain",
+      "cultivarNotes": "Purple/yellow palette cultivars well-suited to Section A include 'Purpureus Grandiflorus', 'Remembrance', and 'Grand Maitre' for purple; 'Yellow Mammoth' for yellow; and 'Pickwick' for striped interest. Given active deer pressure in Hegins, supplement C. vernus with C. tommasinianus 'Ruby Giant' as a companion. Clay drainage at the site means careful siting and pocket amendment are essential — see Drainage Preference and Soil notes above.",
+      "designPlacement": "North-facing front bed (Section A) front and mid-zone — planted beneath and between late-emerging perennials; provides critical early-season color when the bed is otherwise bare; site on the slightly raised zone edge or a gentle mound to manage clay drainage; group in clusters of 10-15 for impact at the bed scale",
+      "siteObservations": null
+    }
+  }
+}

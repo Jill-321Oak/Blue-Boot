@@ -1,0 +1,164 @@
+{
+  "id": "rhus-typhina",
+  "name": {
+    "commonName": [
+      "Staghorn Sumac"
+    ],
+    "latinName": "Rhus typhina",
+    "family": "Anacardiaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Quebec and Ontario south through New England, the mid-Atlantic, the Appalachians, and into the upper Midwest and south to Georgia; one of the most common and visible native shrubs in its range, ubiquitous on roadsides, woodland edges, old fields, steep banks, and disturbed areas",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern United States from Maine to Georgia and west through the Great Lakes states and upper Midwest into Iowa and Missouri; native in roughly the eastern third of the lower 48; not native to the western US, Great Plains, Gulf Coast west of Mississippi, or the Southwest, though occasionally planted ornamentally in those regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — native to the eastern US and not listed on any state noxious weed lists; however, it is aggressively colonial by root suckers and can dominate disturbed sites rapidly; in garden settings it requires siting and management consideration to prevent unwanted spread (see Maintenance); its colonizing habit is an asset in restoration and erosion-control plantings but a liability in small or contained gardens"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "10-20'; occasionally taller on rich sites; typically seen at 10-15' in thicket conditions",
+    "spread": "10-20' as a single plant; colonies can spread indefinitely via root suckers over years; a mature colony may span 30-50' or more",
+    "spacing": "10-15' from other large shrubs or trees if controlling spread; no spacing constraint if establishing a colony on an open bank or edge",
+    "growthRate": "Fast — one of the faster-establishing native shrubs; can reach fruiting size in 3-4 years from a rooted sucker or nursery transplant",
+    "timeToMaturity": "Fruiting begins at 3-5 years on female plants; full productive colonies establish in 5-8 years",
+    "lifespan": "Individual stems are relatively short-lived (10-30 years), but the colony is essentially permanent — as old stems die, new suckers continuously replace them; the colony itself is long-lived and self-renewing",
+    "deciduousEvergreen": "Deciduous — large, pinnately compound leaves (18-24\" long, with 11-31 leaflets); brilliant red, orange, and crimson fall color beginning in early October; one of the most spectacular fall color plants in the eastern North American native palette",
+    "winterInterest": "Exceptionally high — the large, dark red, upright fruit clusters (bobs) persist through winter and are a defining feature of the winter landscape; the velvety, antler-like branch tips (which give the plant its common name — resembling velvet-covered antlers in late summer) are striking in silhouette against snow; a genuinely beautiful plant in all seasons"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but fruiting is reduced and the colony is less vigorous; performs best in open, sunny exposures — roadsides, field edges, south-facing slopes",
+    "water": "Low to medium; strongly drought-tolerant once established; native to dry, thin-soiled slopes and disturbed sites; does not need irrigation after establishment; poor drainage is one of the few conditions it dislikes",
+    "drainagePreference": {
+      "description": "Well-drained to dry; tolerates lean, droughty, rocky, or compacted soils; does not perform well in poorly drained or consistently wet soils — waterlogged conditions promote root rot and colony decline; this is also a key distinction from poison sumac (Toxicodendron vernix), which is a wetland plant",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — staghorn sumac tolerates heavy clay soil surprisingly well provided the clay is not waterlogged or in a low-lying area with standing water; its shallow lateral root system spreads through the upper soil horizons where even clay soils have better aeration; commonly found growing in compacted clay road cuts and construction-disturbed fill throughout the eastern US; no amendment is necessary for most clay soil plantings as long as the site has adequate slope or surface drainage; clay that pools water after rain is the one condition to avoid"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7.5,
+      "description": "4.5-7.5; broadly adaptable; thrives in acidic soils typical of eastern US roadsides and disturbed banks"
+    },
+    "texturePreference": "Adaptable to almost any well-drained texture — sand, loam, gravel, clay-loam, compacted fill; one of the most soil-tolerant native shrubs available; commonly found growing in road gravel and cut banks with virtually no topsoil",
+    "rootCharacter": "Vigorous, wide-spreading, shallow lateral root system; produces abundant root suckers, which is the primary means by which it colonizes; roots help stabilize steep slopes effectively"
+  },
+  "bloom": {
+    "bloomTime": "June-July",
+    "bloomDescription": "Dense, upright, cone-shaped terminal panicles (6-12\" long) of tiny yellowish-green flowers; individually small but collectively showy; male and female flowers on separate plants; male clusters tend to be larger and more loosely arranged; female clusters are tighter and more compact, and develop into the fruit clusters after pollination",
+    "fragrance": "Faint; not notably fragrant",
+    "flowerSex": "Dioecious — separate male and female plants; only female plants produce the fruit clusters; both sexes must be present for fruit set; when buying from a nursery, specify or confirm female plants for fruit production; planting 3-5 seedlings of unknown sex and observing which fruit after year 2-3 is a practical alternative",
+    "pollination": "Bees and other insects; wind-pollinated to a lesser extent; flowers attract numerous native bees and small pollinators in summer"
+  },
+  "yield": {
+    "edibleParts": "Fruit clusters (drupes) — the dense, dark red, finely hairy fruit clusters (commonly called \"bobs\" or \"sumac bobs\") are edible and highly useful; the hairs on the fruits are coated in malic acid and other organic acids, giving them an intense tartness; the primary use is sumac lemonade — soak 1-2 fresh or dried fruit clusters in cold water for 20-30 minutes (do not use hot water, which releases bitter tannins), strain through a cloth to remove hairs and seeds, sweeten to taste; the result is a tart, deep pink, refreshing drink with a flavor reminiscent of cranberry or lemon; this preparation has been used since pre-colonial times by Indigenous peoples throughout eastern North America; the dried fruit clusters can also be ground and used as a tart red spice in cooking — a close substitute for Middle Eastern sumac spice (which is typically Rhus coriaria, a related Mediterranean species, but R. typhina is interchangeable in most uses); fruit clusters are edible raw (very tart) or processed; harvest clusters before rain washes off the acid coating (best harvested mid-summer to early fall when deep red and before they become wet and leached)",
+    "harvestSeason": "Fruit clusters ready mid-summer (July-August) to fall; can be harvested into winter for dried spice use; the longer they persist on the plant the more their tartness diminishes from repeated wetting",
+    "medicinalUses": "Traditional astringent and antiscorbutic; the fruits are very high in vitamin C; bark and roots used in traditional Native American medicine as an astringent and for tanning; not a primary medicinal plant in modern herbalism but the nutritional value of the fruit is genuine",
+    "craftOtherYield": "Bark and roots yield tannins historically used in leather tanning; yellow dye from the leaves; the stems and roots were used in basketry; ornamental dried fruit clusters for wreaths and arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "IMPORTANT — Rhus typhina (staghorn sumac) is completely non-toxic and safe to touch and eat. It must not be confused with poison sumac (Toxicodendron vernix), which is a different genus entirely. Poison sumac is distinguished by: (1) habitat — it grows only in wetlands, bogs, and swamps; staghorn sumac grows on dry upland slopes and edges; (2) fruit color — poison sumac has white or pale yellowish berries hanging in loose clusters; staghorn sumac has dark red, upright, densely hairy fruit clusters; (3) leaf arrangement — poison sumac has smooth, untoothed leaflets; staghorn sumac leaflets are toothed. If you see a sumac-like plant in a wetland with white berries, do not touch it. If you see one on a dry roadside bank with red upright fruit clusters, it is staghorn sumac and is harmless. The confusion between these two plants is common but the identification is straightforward once the key differences are known.",
+    "toxicityAnimals": "Not documented as toxic; the fruit is consumed by a wide range of wildlife without harm",
+    "allelopathy": "Some evidence of mild allelopathic compounds in root exudates, which may inhibit germination of some competitors beneath established colonies; not well-documented but worth noting when siting beneath the colony",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub to small tree layer"
+    },
+    "roles": [
+      "Food (sumac lemonade, spice — a genuine and historically important yield)",
+      "Wildlife Support (critical winter food plant — see Wildlife)",
+      "Erosion Control (excellent on steep slopes, banks, and disturbed sites — one of the best native plants for slope stabilization)",
+      "Pioneer Species (colonizes disturbed ground rapidly, building organic matter and setting conditions for later succession)",
+      "Windbreak (dense colonies provide effective wind buffering)",
+      "Nitrogen Accumulation (minor)",
+      "Beauty (spectacular fall color, architectural winter silhouette, velvety summer texture)"
+    ],
+    "companionPlants": [
+      "Best sited in open edge and transition zones rather than integrated tightly into a guild; effective companions include native grasses and wildflowers at the colony perimeter (little bluestem, wild bergamot, black-eyed Susan)",
+      "elderberry (Sambucus canadensis) on moister adjacent ground; in food forest design",
+      "staghorn sumac works well as an outer perimeter or windbreak planting adjacent to the main guild rather than within it",
+      "due to its aggressive spread"
+    ],
+    "antagonists": [
+      "Its own root sucker spread can be antagonistic to nearby plantings if not managed; allelopathic compounds may suppress some understory plants within the colony"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Over 300 species of birds have been documented consuming staghorn sumac fruit; the fruit clusters persist through winter and are a critical late-season and winter food source when other foods are scarce; key winter users include American robin, eastern bluebird, European starling, cedar waxwing, northern mockingbird, hermit thrush, yellow-rumped warbler, ruffed grouse, ring-necked pheasant, and wild turkey; the ecological value of sumac as a winter wildlife food plant is exceptional and difficult to overstate; summer flowers attract native bees, wasps, and small pollinators; fall foliage supports late-season insects",
+    "hostPlantFor": "Staghorn sumac is a larval host plant for several butterfly and moth species, including the red-banded hairstreak (Calycopis cecrops), banded hairstreak (Satyrium calanus), and striped hairstreak (Satyrium liparops); the giant leopard moth (Hypercompe scribonia) and other moths also use Rhus species",
+    "nestingHabitat": "Dense colony structure provides nesting and roosting cover for small birds; the large, open structure of individual plants is less important for nesting than the colony as a whole, which creates layered, protected edge habitat"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse young shoots and suckers, particularly in winter; established stems are largely ignored once woody; the aggressive suckering habit means the colony generally outpaces deer pressure; not a primary browse concern for an established planting, but young transplants may need protection in the first 1-2 years in high-pressure areas"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — one of the more salt-tolerant native shrubs; its ubiquitous presence along roads and highways where road salt is applied demonstrates excellent salt tolerance; a good choice for road-adjacent plantings throughout the northern US"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant native shrubs in the eastern US; thrives on dry, thin soils where most plants struggle; established colonies require no supplemental watering; western US gardeners planting outside its native range should note it still performs well in dry conditions but may need occasional deep watering during extreme heat in arid climates"
+    },
+    "other": "Tolerates compacted and disturbed soils, poor fertility, rocky substrates, steep slopes, and urban conditions; cold-hardy to Zone 3; essentially unfussy about soil as long as drainage is adequate; does not tolerate standing water or poorly drained sites"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once sited appropriately; moderate if spread must be controlled",
+    "pruningNotes": "The primary maintenance task is managing root sucker spread. Suckers emerge from lateral roots and can appear 10-20' from the parent plant. To control the colony perimeter: mow suckers at the perimeter regularly throughout the growing season (mowing is sufficient — suckers will not root if cut before they lignify); a mowing boundary is more effective than digging. Do not expect to eliminate the colony once established — the root system is persistent. Dead stems can be cut out to improve appearance; old, declining stems may be removed at the base. If coppicing is desired for rejuvenation, cut all stems to the ground in early spring before bud break — the colony will resprout vigorously. Individual stems that become too tall can be cut back, though this stimulates lateral spread. Site selection is the most important maintenance decision: place staghorn sumac where its spread is welcome (open banks, perimeter edges, wildlife corridors) and it becomes essentially maintenance-free.",
+    "propagationMethods": [
+      "Root suckers (easiest — dig rooted suckers in early spring or fall with as much root as possible; transplant immediately; very high success rate)",
+      "hardwood cuttings (fall; moderate success)",
+      "root cuttings (late winter; viable)",
+      "seed (requires stratification — cold-moist stratification for 30-60 days followed by scarification; germinates readily but seedlings are slow in the first year; seed-grown plants will produce both sexes)"
+    ]
+  },
+  "cultivarNotes": "'Laciniata' (cutleaf staghorn sumac) — a highly ornamental cultivar with deeply dissected, fern-like leaflets; retains all the same ecological function and fall color but with an exceptionally refined, feathery texture; excellent as a specimen where ornamental quality is prioritized alongside wildlife value; somewhat less vigorous in suckering than the straight species. 'Tiger Eyes' (Rhus typhina 'Bailtiger') — a compact, golden-leafed cultivar reaching 6-8'; chartreuse-gold foliage turns orange-red in fall; significantly less aggressive in suckering than the straight species; better suited to smaller gardens and more controlled settings; performs well in Zones 4-8. The straight species is strongly preferred for wildlife and erosion-control plantings where maximum ecological function and colony vigor are the goal. For Zones 3-5, the straight species and 'Laciniata' are both fully hardy and reliable. For Zones 6-7, all forms perform well; 'Tiger Eyes' is a good option where spread control matters. For Zone 8, staghorn sumac is at the warm edge of its range — site in afternoon shade or where summers are moderated; 'Tiger Eyes' may struggle more than the straight species in heat. R. glabra (smooth sumac) is a closely related native species with smooth (non-velvety) stems, slightly smaller stature (6-15'), and nearly identical ecological function and edibility — sometimes offered as an alternative or found growing alongside R. typhina; either species is appropriate for the same uses across the eastern US.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Difficult slope and erosion control",
+      "food forest perimeter and windbreak",
+      "wildlife corridor planting",
+      "road bank naturalization",
+      "open edge and transition zone planting"
+    ],
+    "designPlacement": "Best used as a bold colony planting on open ground at property edges, slopes, and transition zones; its aggressive suckering habit makes it inappropriate for contained beds, foundation plantings, or close integration with other shrubs and perennials, but ideal for open-edge situations where spread is welcome and managed by mowing; excellent for steep or difficult ground, erosion-prone banks, and wildlife corridor plantings where winter bird food value is a priority; the ornamental fall color and architectural winter silhouette also make it a strong candidate for any highly visible bank or slope; site away from formal garden beds and give it room to colonize; pair with native grasses and wildflowers at the colony edge for a naturalistic transition",
+    "acquisitionStatus": "To source (native plant nursery; specify female plants for fruit production, or purchase 3-5 seedlings and observe; rooted suckers from established colonies are often available free from landowners willing to share)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhus_typhina",
+    "inaturalist": "https://www.inaturalist.org/taxa/167829-Rhus-typhina",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderResults.aspx?Basic=Rhus+typhina (PlantFinder search — direct plant page unavailable at time of profile creation; PlantFinder was temporarily down)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — R. typhina is native throughout Pennsylvania; nearly impossible to miss from late summer through winter along any rural road in the state; thrives in exactly the kind of disturbed, edge, and slope conditions found on most homesteads in the region",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or DCNR invasive species list; native species — no regulatory concern; the aggressive suckering habit is a management consideration, not a regulatory one",
+      "drainage": "The red clay at the Hegins site is not a concern for staghorn sumac — this species is already abundant on identical red clay soils throughout Schuylkill County roadsides and banks; no amendment or raised bed needed; site on any sloped or well-drained ground and it will establish readily; avoid planting in the lowest, wettest spots where clay drainage is poorest",
+      "soil": "No soil preparation needed at the Hegins site; the red clay is well within this species' tolerance; plant directly into existing ground on any slope or edge with reasonable drainage",
+      "cultivarNotes": "The straight species or 'Laciniata' are the best choices for the Hegins area; both are fully hardy, well-adapted to local conditions, and widely available from PA native plant nurseries; 'Tiger Eyes' is an option if a smaller, more controlled specimen is needed near garden beds.",
+      "designPlacement": "Food forest outer perimeter or slope planting; ideal for the wildlife corridor edge on the east side of the property or any steep bank where spread is welcome; avoid siting adjacent to Section A or C beds where spread cannot be contained; mowing boundary between the colony and maintained areas is the practical management approach at this site",
+      "siteObservations": "Deer pressure from the east wildlife corridor is not a significant concern for established staghorn sumac — the colony's vigorous suckering outpaces browse damage; young transplants may benefit from temporary fencing for the first 1-2 seasons until woody growth is established. The compacted red clay soil on site is well within this species' tolerance — staghorn sumac grows abundantly on identical substrates throughout the Hegins area. Salt from the road on the north border is not a concern given the planting distance and the species' demonstrated salt tolerance. The primary site-specific management decision is choosing a location where the colony's spread is an asset rather than a problem — the east property edge and any unused slopes are the best candidates."
+    }
+  }
+}

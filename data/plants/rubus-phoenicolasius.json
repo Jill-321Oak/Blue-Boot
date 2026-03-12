@@ -1,0 +1,161 @@
+{
+  "id": "rubus-phoenicolasius",
+  "name": {
+    "commonName": [
+      "Wineberry",
+      "Wine Raspberry",
+      "Japanese Wineberry"
+    ],
+    "latinName": "Rubus phoenicolasius",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern Asia — Japan, Korea, northern China; introduced to North America in the late 19th century (reportedly for use in breeding programs) and now thoroughly naturalized throughout the eastern United States",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Introduced from eastern Asia in the 1890s and now extensively naturalized across the eastern United States from New England south to Georgia and west to the Great Lakes and upper Midwest. Established populations are found in at least 30 states, with the densest naturalization in the mid-Atlantic and Appalachian regions."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "YES — Rubus phoenicolasius is listed as invasive in numerous US states and is recognized as a significant invasive species across the eastern US, particularly the mid-Atlantic, southern New England, and upper South. It appears on invasive species lists in Connecticut, Delaware, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Virginia, West Virginia, and the District of Columbia, among others. It spreads aggressively by tip-rooting (arching canes touch the ground and root at the tip), by bird-dispersed seed, and by vegetative spread from the crown. It naturalizes readily in woodland edges, hedgerows, roadsides, and disturbed ground, and can form dense monoculture thickets that displace native understory vegetation including native Rubus species. Do not plant in any state where it is listed as invasive. See Garden Use and Maintenance for guidance on managing established populations and harvesting the fruit."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8"
+    }
+  },
+  "description": {
+    "height": "4-8' (canes arch and tip-root; individual canes typically 5-7' long before arching to the ground)",
+    "spread": "Potentially unlimited without management — spreads by tip-rooting; a single planting can colonize a large area within a few years",
+    "spacing": "Not applicable — do not plant where listed as invasive",
+    "growthRate": "Fast — vigorous annual cane growth",
+    "timeToMaturity": "Fruiting begins in the second year of cane growth (first-year canes are vegetative; second-year canes flower and fruit — same biennial cane structure as raspberries and blackberries)",
+    "lifespan": "Perennial by root; individual canes are biennial; the plant is essentially permanent once established",
+    "deciduousEvergreen": "Deciduous — bare in winter",
+    "winterInterest": "Low to moderate — the dense, bristly red-hairy canes have a distinctive russet-red appearance in winter that is architecturally striking at close range"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to partial shade; fruits best in full sun but tolerates and naturalizes in partial shade — notably shade-tolerant compared to most cane fruits, which aids its spread into woodland edges",
+    "water": "Low to medium; drought tolerant once established; no supplemental irrigation needed where naturalized",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates a wide range of moisture conditions from well-drained slopes to moist woodland edges. Not reliably killed by poor drainage — this is part of what makes it so invasive. It persists in both dry, rocky disturbed ground and seasonally wet forest edges.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — wineberry colonizes heavy clay soils with no difficulty. The fibrous root system tolerates compaction and poor drainage better than most cane fruits. Clay soil is not a limiting factor and will not slow its establishment or spread. This tolerance is part of what makes it so effective as an invasive across the clay-heavy soils of the eastern US and Midwest."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; adaptable"
+    },
+    "texturePreference": "Adaptable; colonizes clay, loam, rocky disturbed ground, and forest edge soils with equal ease. No soil texture will reliably exclude this species.",
+    "rootCharacter": "Fibrous spreading root system from the crown; spreads primarily by tip-rooting (cane tips arch to the ground and form new crowns) rather than underground runners"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Small, 5-petaled pink to white flowers in terminal clusters; not ornamentally significant but attractive at close range; the glandular red-hairy calyx and stem structure is visible and distinctive even in flower",
+    "fragrance": "None notable",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; bees and other pollinators work the flowers; pollination is reliable and abundant"
+  },
+  "yield": {
+    "edibleParts": "Fruit — spectacular; arguably among the finest-flavored of all the wild Rubus species. The small, ruby-red to deep crimson berries are held inside a sticky, glandular-hairy calyx that reflexes (pulls back) when the berry is fully ripe, exposing the fruit for harvest. This is an elegant and unmistakable ripeness indicator — if the calyx does not pull back cleanly, the berry is not yet ready. The flavor is complex: sweet-tart, slightly wine-like, more refined and less seedy than blackberry, arguably superior in flavor to cultivated raspberry. The berries are fragile and do not ship well commercially, which makes foraged or locally grown wineberries especially prized. Excellent fresh, in jams and preserves, in desserts, and in wine and cordials. The flavor is distinctive enough that most people who taste wineberries for the first time remember it.",
+    "harvestSeason": "July — fills an important gap in the cane fruit calendar, ripening after domestic raspberries (June-early July) and well before blackberries (August). Peak harvest timing varies by latitude and elevation: second to third week of July in the mid-Atlantic (Zone 6-7), slightly earlier in the upper South, slightly later at higher elevations.",
+    "medicinalUses": "As with other Rubus species, the fruit is high in antioxidants (anthocyanins, ellagic acid), vitamin C, and dietary fiber; leaves have been used in traditional medicine (astringent, anti-diarrheal) similarly to other Rubus; not a primary medicinal species",
+    "craftOtherYield": "Wineberry wine and cordials (the wine-like flavor of the fresh berry carries into fermented beverages); wineberry jam and preserves; wineberry vinegar; the fresh fruit is outstanding in ice cream, pavlova, and summer desserts"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; fruit and leaves are edible and widely consumed",
+    "toxicityAnimals": "Non-toxic; fruit is consumed by a wide range of wildlife",
+    "allelopathy": "None documented; the invasive impact is physical (shading, tip-rooting colonization) rather than chemical",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Shrub (cane layer / shrub understory)"
+    },
+    "roles": [
+      "Food (primary forage yield — exceptional fruit)",
+      "Wildlife Support (outstanding)",
+      "Gap Filler (July berry window)",
+      "Soil Stabilizer (canes and roots on slopes)",
+      "Nurse Plant (cane thickets provide dense ground-level structure). NOTE: In permaculture design terms",
+      "wineberry has the functional profile of a highly productive shrub layer species — but its invasive status means it should not be intentionally introduced or allowed to spread. Where already present",
+      "harvest is the most responsible permaculture response."
+    ],
+    "companionPlants": [
+      "Not applicable for planting design; where established",
+      "wineberry grows near elderberry (Sambucus canadensis)",
+      "blackberry (Rubus allegheniensis)",
+      "spicebush (Lindera benzoin)",
+      "and multiflora rose (Rosa multiflora) in eastern US woodland edge communities"
+    ],
+    "antagonists": [
+      "Wineberry itself is an antagonist to native understory plants — it displaces native Rubus species and other shrub-layer natives by competition and tip-rooting colonization"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value despite its invasive status. The fruit is consumed by numerous bird species including American robins, gray catbirds, cedar waxwings, brown thrashers, thrushes, and many others — the same frugivore community that disperses its seeds, which is a key driver of its spread. White-tailed deer, raccoons, foxes, skunks, and small mammals consume the fruit and canes. The dense cane thickets provide important ground-level and shrub-layer cover.",
+    "hostPlantFor": "Some native Lepidoptera use Rubus species as larval hosts; wineberry likely supports some of the same species that use native raspberries and blackberries, though the native species are ecologically preferable",
+    "nestingHabitat": "Dense cane thickets provide excellent low-shrub nesting habitat; gray catbirds, common yellowthroats, and song sparrows nest in Rubus thickets; the structural value of established wineberry patches for nesting birds is real and significant even as the plant displaces native species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse the canes and consume the fruit; the glandular hairs provide modest deterrence but do not prevent browsing; established thickets are resilient to deer pressure due to rapid regrowth and dense cane structure"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not a salt-tolerant species; road salt spray can damage cane tips but is unlikely to kill established crowns"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established; commonly found on dry slopes and disturbed ground; the fibrous root system accesses moisture efficiently in a range of soil types"
+    },
+    "other": "Highly adaptable to disturbed and edge habitats; tolerates partial shade better than most cane fruits; tolerates compacted soils, poor drainage, and a wide pH range; this combination of shade tolerance, tip-rooting spread, and bird-dispersed seed is what makes it such an effective invasive across the eastern US"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low as a foraged plant (harvest and minimal management); active management to reduce spread requires consistent effort",
+    "pruningNotes": "INVASIVE MANAGEMENT PROTOCOL — Where wineberry is established, the following practices will reduce spread while allowing fruit harvest: (1) Harvest the fruit before it fully disperses — each berry consumed by the grower is one less seed available to birds; (2) Cut fruited canes to the ground after harvest in late July or August (they will not fruit again — second-year canes die after fruiting, same as raspberry); (3) Monitor arching first-year canes and cut or peg their tips before they root into the ground; tip-rooting is the primary local spread mechanism; (4) Do not compost or transport cane clippings off-site — the cut canes can still root; dispose of cuttings by burning or burying; (5) Do not expect eradication — an established wineberry colony is very difficult to eliminate entirely; the goal is containment and harvest, not eradication",
+    "propagationMethods": [
+      "Tip layering (the plant does this itself naturally and aggressively); seed. Do not propagate intentionally where the species is listed as invasive."
+    ]
+  },
+  "cultivarNotes": "No cultivars exist. Rubus phoenicolasius is grown and harvested only as the straight species across its entire naturalized range (Zones 5-8 in the US). The outstanding fruit quality is inherent to the wild type — no selection or improvement has been needed or undertaken. All fruit encountered in the wild or at farmers markets is the straight species. There is no cultivar selection to make regardless of region.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Do not plant where listed as invasive. Harvest where already established. In the eastern United States",
+      "wineberry is present on virtually every woodland edge",
+      "hedgerow",
+      "and disturbed slope — the question is never whether to find it",
+      "but whether to harvest it. In states where it is not yet established or invasive",
+      "it could theoretically be grown for fruit",
+      "but the escape risk is high and native Rubus or cultivated raspberries are preferable alternatives."
+    ],
+    "designPlacement": "NOT RECOMMENDED FOR PLANTING in any state where it is listed as invasive. This is a case where the invasive status and the food value exist in genuine tension. The fruit is spectacular — one of the finest flavors in the entire summer fruit calendar — and harvesting it from established wild populations is a genuinely valuable and ecologically responsible act. Eating the invasive is not a compromise; it is the correct response. Where wineberry is already present on a property, document the location, harvest the fruit in July, cut the fruited canes, and monitor for tip-rooted spread into adjacent native vegetation. Do not introduce new plants, do not allow established plants to spread unchecked, and do not transport plant material off-site.",
+    "acquisitionStatus": "Do not acquire — forage from wild established populations"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubus_phoenicolasius",
+    "inaturalist": "https://www.inaturalist.org/taxa/84227-Rubus-phoenicolasius",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — non-native; naturalized throughout Pennsylvania and the mid-Atlantic; extremely common in woodland edges, disturbed areas, roadsides, and hedgerows across eastern PA",
+      "paInvasiveStatus": "YES — listed on the Pennsylvania Invasive Species Council (PISC) invasive plant list. Also flagged by PA DCNR as a species of concern in natural areas. Do not plant in Pennsylvania.",
+      "drainage": "Thrives in the red clay and compacted soils at the Hegins site without any assistance. Clay is not a constraint — the plant does not need amendment, drainage improvement, or raised beds. If anything, it performs too well in local clay conditions.",
+      "soil": "Red clay at the Hegins site presents no barrier. Wineberry establishes and spreads freely in local soil conditions without amendment.",
+      "cultivarNotes": "same — harvest the wild type where established; no cultivars to source or prefer.",
+      "designPlacement": "Do not plant. Wineberry is already present throughout the local landscape — woodland edges, hedgerows, and disturbed ground in the Hegins area all support established populations. Harvest from wild or property-edge populations in July. Cut fruited canes after harvest and monitor for tip-rooting advance toward native plantings or food forest areas. Deer browse is not a concern for management here — the plant outgrows browsing pressure.",
+      "siteObservations": "Wineberry is extremely common in the woodland edges and disturbed slopes around the Hegins property. Deer browse canes and consume fruit but do not limit the plant's spread at this site. The red clay soil and partial shade conditions are fully tolerated — no microclimate or soil condition on this property would slow its establishment. The primary management concern is preventing tip-rooted advance into food forest guilds and native plantings. The glandular-hairy canes are visually distinctive and easy to identify in all seasons, making monitoring straightforward."
+    }
+  }
+}

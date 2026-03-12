@@ -1,0 +1,162 @@
+{
+  "id": "asimina-triloba",
+  "name": {
+    "commonName": [
+      "Paw Paw",
+      "American Pawpaw"
+    ],
+    "latinName": "Asimina triloba",
+    "family": "Annonaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from southern Ontario south to Florida and west to Nebraska; one of the most widespread native fruit trees in eastern North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US; naturally occurs in moist, shaded, or edge habitats across the region"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; spreads slowly by root suckers to form colonial thickets — manageable; the natural colonial habit is part of its ecology"
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8"
+    }
+  },
+  "description": {
+    "height": "15-30' at maturity; responds well to size management and training",
+    "spread": "15-20'; forms colonial clumps via root suckers over time; can be maintained as a single-trunk tree",
+    "spacing": "10-15'; plant two genetically distinct trees for cross-pollination (critical for fruiting)",
+    "growthRate": "Slow in years 1-3 while establishing deep root system; moderate to fast once established; the slow start requires patience",
+    "timeToMaturity": "First fruit years 5-8; full production years 10+; worth the wait",
+    "lifespan": "Long-lived; 50-100+ years",
+    "deciduousEvergreen": "Deciduous — large, drooping, tropical-looking leaves; spectacular golden-yellow fall color; bare in winter",
+    "winterInterest": "Low — bare; attractive arching branch structure"
+  },
+  "lightAndWater": {
+    "sun": "Shade tolerant when young (young trees naturally grow in the forest understory and require shade protection); adult trees can handle full sun once established; start in part shade and transition to more light",
+    "water": "Medium; tolerates moist conditions (native to stream-side habitats); moderate drought tolerance once established",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to bottomland and alluvial soils; tolerates clay better than most fruit trees; amendment with organic matter significantly improves establishment in heavier soils\nClay Soil Performance: Good — tolerates clay-loam better than most fruit trees; the deep taproot can penetrate compacted layers over time; performance improves markedly with organic matter incorporation at planting; standing water in winter is harmful and must be avoided",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — tolerates clay-loam better than most fruit trees; the deep taproot can penetrate compacted layers over time; performance improves markedly with organic matter incorporation at planting; standing water in winter is harmful and must be avoided"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; slightly acid preferred"
+    },
+    "texturePreference": "Moist, fertile, well-drained loam preferred; tolerates clay-loam; deep organic matter improves establishment significantly",
+    "rootCharacter": "Deep taproot that makes transplanting difficult — use young trees (1-2 year grafted) and plant without disturbing the taproot; the deep root accesses subsoil moisture"
+  },
+  "bloom": {
+    "bloomTime": "April-May; blooms before leaves emerge",
+    "bloomDescription": "Unusual, somewhat sinister-looking dark maroon-purple flowers, 1-2\" wide, with 6 petals in two whorls; not showy; the color (dark red-purple) is unusual among temperate fruits; flowers before leaves",
+    "fragrance": "Mild yeasty or fruity scent; not strongly fragrant; some find the scent slightly unpleasant",
+    "flowerSex": "Hermaphrodite; but self-incompatible — requires cross-pollination with a genetically distinct plant",
+    "pollination": "Primarily flies and beetles (the dark flower color and fermented scent attracts carrion-feeding insects); NOT bees; hand pollination is recommended for reliable fruit set — transfer pollen between flowers on two different trees with a small paintbrush; this is a routine practice for home growers"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the paw paw — largest native fruit in North America; tropical custard flavor reminiscent of banana, mango, and vanilla; yellow-green skin, custard-yellow flesh; seeds are large and numerous; eaten fresh, in smoothies, ice cream, and baked goods; must be eaten promptly when ripe as the fruit does not store well — 2-3 days at room temperature; refrigerate for up to 3 weeks or freeze pulp for longer)",
+    "harvestSeason": "September-October; fruit ripens rapidly and drops; harvest when slightly soft and fragrant",
+    "medicinalUses": "High in nutrients (riboflavin, niacin, iron, calcium); traditional Native American uses for the bark as a fiber source and seeds as a pesticidal compound; acetogenins in the seeds and bark have demonstrated anti-cancer properties in laboratory studies (not a clinical recommendation); primarily a food plant",
+    "craftOtherYield": "Paw paw pulp (frozen for future use), paw paw beer and wine, paw paw ice cream"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit is safe in normal quantities; some people (estimated 10-15%) experience nausea, headache, or GI upset when eating paw paw fruit — especially if eaten in large quantities; introduce gradually to assess personal tolerance; seeds, bark, and leaves contain acetogenins which are toxic if ingested; do not eat seeds",
+    "toxicityAnimals": "Seeds, bark, and leaves are toxic; fruit is safe for most animals but dogs may have digestive upset; not a primary toxicity concern in a garden setting",
+    "allelopathy": "Paw paw bark and leaves contain acetogenins with documented pesticidal and allelopathic properties; fallen leaves inhibit some plant germination; this is part of the natural ecology of paw paw thickets",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Canopy / Sub-canopy"
+    },
+    "roles": [
+      "Food (fruit — one of the most flavorful native fruits in North America; a high-value food forest crop)",
+      "Wildlife Support",
+      "Pest Confuser (acetogenins in the foliage deter most insects and mammals — a self-protecting tree)",
+      "Native Plant Contribution"
+    ],
+    "companionPlants": [
+      "Lindera benzoin (spicebush — the natural understory companion that shares paw paw's native habitat and both support the spicebush swallowtail butterfly)",
+      "Asarum canadense (wild ginger ground cover — native companion in the same ecological community)",
+      "Matteuccia struthiopteris (ostrich fern in moist areas)",
+      "Passiflora incarnata",
+      "Allium tricoccum (ramps)"
+    ],
+    "antagonists": [
+      "Do not plant near black walnut (Juglans nigra) — juglone toxicity affects many plants; check for walnut presence; also avoid areas with standing water in winter"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Flies and beetles (primary pollinators), birds and mammals (fruit consumed by foxes, raccoons, opossums, and some birds when ripe and fallen); the acetogenins in the foliage make the plant very resistant to deer and most insect pests",
+    "hostPlantFor": "Zebra swallowtail butterfly (Eurytides marcellus) — paw paw is the only larval host for this gorgeous butterfly in the eastern US; growing paw paw is one of the best ways to attract zebra swallowtails to the garden; this alone justifies the plant from a wildlife perspective",
+    "nestingHabitat": "Moderate; provides canopy structure for nesting birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Outstanding — the acetogenins in the foliage make paw paw essentially deer-proof; deer reliably avoid it; one of the most deer-resistant native trees available; no protective fencing required for established trees"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to salt spray and soil salt; site away from roads or areas with winter salt application"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — prefers moist conditions; established trees handle dry periods but the first 2-3 years require consistent moisture"
+    },
+    "other": "Shade tolerant when young; protect from wind in early years; cold-hardy but the flowers can be damaged by late frosts in April — site with some north or east protection to delay bloom slightly"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established",
+    "pruningNotes": "Minimal pruning needed. Remove root suckers annually if a single-trunk form is desired. Remove crossing branches and dead wood. Hand-pollinate flowers in April for reliable fruit set — transfer pollen between the two trees with a small paintbrush when the flowers are receptive (when the stigma (central, rounded female receptive surface) is sticky and shiny). The slow establishment period is the primary management challenge — patience and consistent watering in years 1-3 are the key success factors.",
+    "propagationMethods": [
+      "Seed (plant fresh seeds immediately in fall; requires cold stratification; germinates the following spring; grows slowly; not the preferred method for named cultivars)",
+      "root cuttings",
+      "division of sucker shoots",
+      "grafting (the preferred method for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are selected for larger fruit, sweeter flavor, and earlier maturity. Widely recommended across Zones 5-8: **'Shenandoah'** (very large fruit, mild sweet flavor, consistent producer, selected for ease of growing — one of the best overall); **'Susquehanna'** (large fruit, complex flavor, high rating in taste trials); **'Allegheny'** (good size and flavor; well-suited to mid-Atlantic conditions). For cross-pollination, any two genetically distinct cultivars that bloom at the same time will cross-pollinate each other. In colder zones (5), choose early-blooming cultivars to avoid late frost damage to flowers. In warmer zones (7-8), most cultivars perform reliably.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "native plant garden",
+      "woodland edge",
+      "stream-side planting"
+    ],
+    "designPlacement": "Plant as a canopy pair (minimum 2 trees, two distinct cultivars) spaced 10-15' apart; the surrounding guild includes understory shrubs, ground covers, and fungi; site with access for hand pollination in April; some initial shade or wind protection benefits young trees in years 1-3; mature trees tolerate full sun",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asimina_triloba",
+    "inaturalist": "https://www.inaturalist.org/taxa/50897-Asimina-triloba",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275970"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — A. triloba is native to Pennsylvania; naturally occurs in moist, shaded, or edge habitats throughout the state; potentially present in hedgerows or woodland edges nearby",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay is manageable with organic matter amendment at planting; site away from low spots prone to winter waterlogging; mulch heavily to moderate soil moisture and temperature",
+      "soil": "Amend planting hole generously with compost to buffer the red clay; do not create a \"bathtub\" effect — ensure the amended zone drains into surrounding soil or plant on a very slight grade; heavy mulch (6-8\") is especially beneficial in the compacted clay context at Hegins",
+      "cultivarNotes": "'Shenandoah' + 'Susquehanna' is an outstanding pairing — both are reliable producers in Zone 6a, with complementary bloom timing for cross-pollination. 'Allegheny' (named for a PA river) is a regionally appropriate third option. Plant a minimum of two genetically distinct cultivars; three trees increases cross-pollination reliability and yield.",
+      "designPlacement": "Paw Paw Guild — planned as a pair of two cultivars forming the guild canopy, surrounded by Lindera benzoin, Passiflora incarnata, Asarum canadense, Matteuccia struthiopteris, Lysimachia nummularia, Allium tricoccum, Laetiporus sulphureus, and Pleurotus ostreatus; site the guild in a location with reasonable moisture access and some wind shelter for establishment",
+      "siteObservations": "Deer pressure from the east wildlife corridor is not a concern for paw paw — the acetogenins make established trees essentially deer-proof; no fencing needed once past seedling stage. The red clay soil requires organic matter amendment at planting and careful siting to avoid winter waterlogging. The slow 1-3 year establishment phase is the primary challenge; consistent supplemental irrigation during this period is critical. Hand pollination in April is a must for reliable fruit set — plan for annual access to both trees during bloom."
+    }
+  }
+}

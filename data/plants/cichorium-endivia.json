@@ -1,0 +1,163 @@
+{
+  "id": "cichorium-endivia",
+  "name": {
+    "commonName": [
+      "Endive",
+      "Escarole",
+      "Curly Endive",
+      "Frisée",
+      "Batavian Endive"
+    ],
+    "latinName": "Cichorium endivia",
+    "family": "Asteraceae (Daisy / Composite family)"
+  },
+  "range": {
+    "nativeRange": "Widely regarded as originating in the eastern Mediterranean and Middle East — likely derived from wild ancestors in Egypt, Turkey, or the broader Levant region; exact origin uncertain due to very long cultivation history; grown and consumed since antiquity across the Mediterranean world, particularly in Greece, Rome, and Egypt; now cultivated throughout temperate regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States or North America; an introduced cultivated crop with origins in the eastern Mediterranean; not naturalized in any US state"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the United States — a cultivated annual/biennial that does not persist or spread outside the garden; may self-seed lightly in disturbed ground if plants are allowed to bolt, but poses no weed concern across the lower 48 states; not listed by any state or federal invasive species program"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "Annual or biennial; grown in zones 3-10 as a cool-season crop; treated as an annual throughout the lower 48 states in managed vegetable production; in zones 9-10, can be grown as a true winter crop (October through February); in zones 6-8, fall crop is the primary season; in zones 3-5, both a spring crop and a late-summer to fall crop are feasible, but the fall crop is still typically more successful for flavor development"
+    }
+  },
+  "description": {
+    "height": "8-18\" in the rosette phase depending on type; curly endive forms a looser, more open rosette 12-18\" across and 8-12\" tall; escarole forms a denser, more compact head 10-14\" across and 8-12\" tall; bolt stalks can reach 36-48\" when flowering in the second year or when heat-stressed, but this is rarely encountered in managed fall crops",
+    "spread": "12-18\" at maturity; escarole heads are somewhat more compact than the sprawling curly types",
+    "spacing": "12\" for both types; closer spacing (10\") is workable for escarole, which forms a more upright, compact head; wider spacing (14-16\") allows curly endive to fully develop its characteristically frilly, spreading rosette and promotes better air circulation to prevent tip-burn and rot in the heart",
+    "growthRate": "Moderate — germination in 7-14 days; transplants reach harvestable size in 85-100 days from seed; across the lower 48, fall crop timing is calibrated to the local first frost date, with transplanting typically 10-12 weeks before expected first frost to ensure full head development before cold terminates the crop",
+    "timeToMaturity": "85-100 days from seed to harvest; transplants established 10-12 weeks before first frost are reliably harvestable through the fall window and into early winter depending on zone",
+    "lifespan": "Annual or biennial — behaves as an annual in managed vegetable production across most of the lower 48; in zones 8-10, plants may overwinter and flower in the second year; in zones 3-7, plants are killed by sustained hard frost and managed as a cool-season annual from season to season",
+    "deciduousEvergreen": "Annual in cultivation — no persistent structure; the plant dies after setting seed or after sustained hard frost; in zones 9-10, may persist through a mild winter",
+    "winterInterest": "None structurally; mature heads that are left in the garden will tolerate light frosts and remain presentable through fall, but the plant is not a winter garden feature except in the warmest US climates"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun (6+ hours) produces the most vigorous, productive plants; light afternoon shade during hot-season establishment (August transplanting in zones 5-7) helps reduce transplant stress and prevents wilting; once temperatures moderate in fall, full sun is ideal; unlike lettuce, endive handles full sun reasonably well even in warm conditions without immediately bolting",
+    "water": "Consistent medium moisture; the most common quality problems in endive — tip-burn in the inner leaves, soft rot in the heart, and bitterness exceeding what is desired — are all worsened by inconsistent moisture; even watering throughout the growing period produces the most uniform, well-developed heads; the fall season's natural tendency toward more consistent rainfall across much of the lower 48 is one reason fall crops are so much more successful than spring attempts; raised beds and drier-climate gardens should be monitored and irrigated during any dry stretches during establishment and head development",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive; endive is notably more tolerant of heavier soils and moderate clay than lettuce or spinach, which is a practical advantage across the range of US garden soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Performs creditably in clay-influenced soils that would stress lettuce; does not tolerate standing water or prolonged waterlogged conditions; the critical factor is drainage, not soil texture — avoid situations where water pools at the root zone for more than a day after heavy rain; raised beds significantly reduce clay drainage problems across heavy-soil regions of the US"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; prefers a slightly acidic to neutral soil; not highly pH-sensitive in practice; performs well across the range of typical US garden soils without specialized amendment"
+    },
+    "texturePreference": "Moist, fertile, loamy soil is ideal, but endive's clay tolerance is one of its practical advantages over many other cool-season salad crops — it performs creditably in heavier soils that would stress lettuce; raised beds with good compost incorporation are excellent across all US regions; the critical factor is drainage management and consistent moisture, not soil texture perfection",
+    "rootCharacter": "Fibrous, shallow to medium-depth root system; roots extend 8-12\" deep in good conditions; this is substantially deeper than lettuce and contributes to endive's relative drought resilience and clay tolerance compared to more shallow-rooted salad greens; the root system does not penetrate compacted soil as aggressively as chicory's deep taproot, but it handles moderate compaction better than the very shallow-rooted crops"
+  },
+  "bloom": {
+    "bloomTime": "Second year (if overwintered) or when heat-stressed; in managed fall crops across the lower 48, bolting is rarely encountered — plants are established in late summer and harvested in fall before they would naturally vernalize and bolt; spring plantings in zones 5-7 are more susceptible to early bolting if temperatures rise quickly",
+    "bloomDescription": "Tall, branching stalks bearing pale lavender-blue flowers — the same characteristic chicory-blue as its relative Cichorium intybus; the flowers are striking and unmistakably in the chicory clan; each flower head is composed of ray florets in a delicate, pale blue-violet; attractive as a brief garden moment but not a reason to manage this plant as an ornamental; the flowers confirm the kinship between endive and chicory for anyone who grows both",
+    "fragrance": "None notable",
+    "flowerSex": "Hermaphrodite — each flower head contains both sexes; self-fertile",
+    "pollination": "Primarily insect-pollinated; bees are the primary visitors to the flowers; flowers are open only for a few hours in the morning (a Cichorium family trait — the same is true of dandelion and chicory); cross-pollination between endive plants and wild Cichorium intybus (chicory) is theoretically possible but is not relevant in managed annual production"
+  },
+  "yield": {
+    "edibleParts": "Leaves are the primary yield — the entire rosette from outer leaves to the blanched, pale heart is edible. The two distinct forms of Cichorium endivia represent different expressions of the same species, with meaningfully different culinary identities.\n**Curly endive / frisée** produces a deeply cut, frilly, lacy rosette with narrow, deeply lobed and ruffled leaves that are dark green on the outer edges and progressively paler — cream to pale yellow — toward the center heart. The outer leaves are assertively bitter, tough, and best avoided raw; the inner yellow-cream heart (the \"frisée\" portion, especially pronounced when blanched) is tender, mildly bitter, and nutty, with a delicate crispness that is the defining texture of classic French bistro salads. The name \"frisée\" is often used specifically for the blanched or self-blanched inner leaves of curly endive — technically the same plant, but marketed and used at a different stage; upscale grocery stores sell the pale, frilly centers as \"frisée,\" while the whole unsorted plant is sold as \"curly endive.\" In practice, the interior of a well-grown curly endive head provides frisée without any specialized sourcing. The classic bistro salad (salade lyonnaise) — frisée with lardons, a poached egg, and warm vinaigrette — is built around the specific bitterness-texture contrast of blanched curly endive and is essentially impossible to approximate with any other green.\n**Escarole / Batavian endive** produces a denser, broader head of wide, flat, wavy leaves that are less cut and more compact than curly endive. The outer leaves are dark green and moderately bitter; the inner heart leaves (naturally paler and more protected from light) are milder, more tender, and often mildly nutty without the sharp bitterness of the exterior. Escarole is significantly more versatile than curly endive: it is excellent raw in salads when inner leaves are used (especially the heart), but it is distinctly at home cooked — it wilts and collapses like spinach, becomes silky and mild in texture, and holds up better to heat and long cooking than most salad greens. Italian cuisine depends on escarole in ways that no other leafy green replicates: escarole e fagioli (escarole sautéed with white beans, garlic, and olive oil — a staple of southern Italian cooking), escarole in chicken or wedding soup (where it is the leafy green that defines the broth's character), and braised escarole with anchovies and olives are canonical preparations. When cooked, escarole's bitterness mellows considerably and its mild sweetness comes forward; it becomes a comfort vegetable rather than a challenging bitter green.\n**Naming confusion — important clarification:** In American supermarkets, the label \"endive\" is most commonly applied to Belgian endive or witloof chicory (Cichorium intybus var. foliosum) — the tight, pale, elongated torpedo-shaped vegetable grown by forcing chicory roots in darkness. Belgian endive is a completely different plant from a different (though related) species, produced by a completely different method, with a completely different form and culinary character. It shares the name \"endive\" and is in the same genus (Cichorium), but it is no more the same vegetable than a turnip is a kohlrabi. This profile covers Cichorium endivia — the leafy rosette crops called curly endive, frisée, and escarole — not the forced Belgian chicory. When purchasing seed, \"endive\" and \"escarole\" seeds will correctly bring up Cichorium endivia forms; Belgian endive seed is specifically labeled witloof chicory or Cichorium intybus.",
+    "harvestSeason": "Cool-season crop across the lower 48; timing is calibrated to local first frost date. Fall is the primary season in zones 5-8: count back 85-100 days from expected first frost for transplant date; in zone 6a (first frost ~Oct 10), this means transplanting mid-August through early September and harvesting late September through November. In zones 3-5, late July transplanting targets a September-October harvest before harder freezes arrive. In zones 8-9, fall planting in September-October produces a November-January harvest. In zones 9b-10, endive is a true winter green (October through February). Spring production is viable in zones 3-5 (narrow but workable window); in zones 6-8 the window between last frost and bolting temperatures is too short for reliable spring crops — fall is strongly preferred. Endive handles light frosts (28-32°F) well across all regions and flavor often improves with cold exposure. A light frost on a mature escarole head naturally triggers partial self-blanching and reduces bitterness.",
+    "medicinalUses": "Contains inulin (a prebiotic dietary fiber prominent throughout the Cichorium genus), sesquiterpene lactones (responsible for bitterness), vitamins A, C, and K, folate, and minerals; traditionally used as a digestive bitter in European herbal traditions — bitter greens were standard fare in spring and fall as digestive tonics; inulin is a significant prebiotic that feeds beneficial gut microbiota; not a primary medicinal plant in western practice but nutritionally substantial",
+    "craftOtherYield": "None significant; dried bolt stalks have no decorative interest"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — entirely safe at culinary quantities; the sesquiterpene lactones that create bitterness are the same class of compounds found in related chicories and in lettuce (where they are present at very low levels); they are not harmful and are in fact considered health-supportive; individuals sensitive to Asteraceae family plants (ragweed, chamomile, chrysanthemum) may occasionally experience mild reactions, but this is uncommon with edible Asteraceae crops; anyone on blood-thinning medications should note the moderate vitamin K content, consistent with other dark leafy greens",
+    "toxicityAnimals": "No significant toxicity; the bitter compounds are unappealing to most animals in quantity; not a clinical concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (low annual vegetable ground layer)"
+    },
+    "roles": [
+      "Seasonal Food Crop (primary role — a cool-season annual producing substantial edible biomass in the fall gap when most warm-season vegetables have finished; fills a distinct flavor niche — bitter greens — that few other crops in the cool-season garden can fill as well)",
+      "Cool-Season Bed Occupant (takes up bed space productively in the fall, after warm-season crops have cleared, before the ground freezes; an efficient use of the full growing season)",
+      "Digestive Bitter (traditional role in European food culture — bitter greens as a seasonal digestive food, especially in fall; the Italian tradition of cooked escarole reflects centuries of this use)",
+      "Soil Coverage (rosettes cover ground and suppress weeds in their footprint through the fall harvest window, providing late-season soil protection)"
+    ],
+    "companionPlants": [
+      "Garlic (good neighbor in the fall garden; garlic is planted in October-November as endive finishes; the timing aligns well for succession)",
+      "Radicchio and chicory relatives (natural companions from the same family; share cultural needs; a fall chicory bed with endive, radicchio, and treviso is a culinarily coherent and culturally unified planting)",
+      "Arugula (complementary bitter green in the cool-season salad bed; harvest together)",
+      "Carrots (compatible root-leaf pairing; fall carrots mature alongside fall endive in a productive rhythm)",
+      "Radishes (fast-cycling, space-efficient companions in the fall bed)",
+      "Brassica greens (kale, mizuna, bok choy — all share the cool-season window and complement endive's bitterness with sweeter flavors in a mixed harvest)"
+    ],
+    "antagonists": [
+      "No strong documented antagonists; rotate out of the same bed every year to prevent soilborne pathogen buildup",
+      "particularly tip-burn-causing pathogens and any that affect the chicory family specifically; avoid following chicory (Cichorium intybus) in the same bed"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees visit the flowers when plants are allowed to bloom; the pale blue chicory-type flowers are attractive to bumblebees and honeybees in the morning hours when they are open; this is a minor benefit since managed endive crops rarely flower; the flowers are one reason to occasionally allow a plant to complete its cycle in the garden rather than always pulling spent plants",
+    "hostPlantFor": "Aphids (particularly Uroleucon species, which prefer Asteraceae including chicory and endive) can colonize plants in warm conditions; slugs find young endive seedlings palatable; neither relationship is desirable",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate resistance — the bitter foliage of endive and escarole is meaningfully less palatable to deer than lettuce, spinach, or bok choy; the sesquiterpene lactone bitterness is a genuine deterrent to deer browsing; endive is not immune to deer pressure — very hungry deer in late fall with diminishing food sources may browse it — but it is substantially less preferred than other salad greens; a lower-priority target than lettuce or bok choy in a deer-active landscape; still worth protecting with row cover or netting during establishment when plants are small and less bitter"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low tolerance — do not site near road salt influence; raised beds well removed from roads are preferable in salt-spray zones"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — endive is more drought-tolerant than lettuce due to its deeper root system, but it is not a drought-tolerant plant; drought stress exacerbates bitterness significantly and can cause tip-burn and poor head development; consistent moisture is an important quality factor; the fall season's naturally more consistent rainfall across much of the lower 48 reduces drought risk considerably compared to spring; supplemental irrigation is important during dry fall stretches in drier regions (Great Plains, Southwest, Intermountain West)"
+    },
+    "other": "Good frost tolerance across all zones — significantly better than lettuce; endive and escarole handle light frosts (28-32°F) without damage and are improved by them (cold triggers partial self-blanching and bitterness reduction); moderate frosts (25-28°F) may damage outer leaves but the head remains harvestable; hard repeated frosts below 25°F will eventually kill the plant without protection; row cover (Agribon AG-19 or equivalent) extends the harvest by 2-4 weeks in most zones; escarole is slightly hardier than curly endive in cold tolerance"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate — endive is not a demanding plant once established; the primary management tasks are timing, blanching (optional but recommended for curly endive), and harvesting before hard frost",
+    "pruningNotes": "No pruning in the traditional sense, but two active management techniques improve yield quality significantly.\n**Blanching** is the practice of excluding light from the inner heart of the plant for 7-14 days before harvest to reduce bitterness and produce the pale, tender, nutty interior that defines high-quality curly endive (frisée) and improves escarole. The traditional method: when the plant has reached full size (a large, well-developed rosette), gather the outer leaves together over the heart and tie them loosely with garden twine or a rubber band; the inner leaves, deprived of light, will yellow and become tender and mild over the following 1-2 weeks; harvest the whole head once the center has lightened to pale yellow or cream. Blanching is most rewarding for curly endive — it converts the assertively bitter green interior into the prized frisée heart. For escarole, blanching is less essential (the outer leaves are already milder than curly endive, and cooking does the work of mellowing bitterness) but still beneficial for raw use. Important caveat: do not blanch during wet weather — light exclusion combined with trapped moisture promotes rot in the heart; blanch only during dry periods or drape loosely enough to allow some air circulation. Self-blanching varieties (certain escarole types) produce naturally pale, compact hearts without intervention and are a practical alternative.\n**Outer leaf harvest vs. whole head:** You can harvest endive in two ways. Taking individual outer leaves extends the plant's productive life but requires more frequent attention. Cutting or pulling the entire head at once (at soil level) is the more typical approach for fall crops and produces the cleanest result, especially when blanching is involved. After the head is removed, most plants do not resprout reliably — treat it as a once-and-done harvest.\nTip-burn (browning of inner leaf edges) is the most common quality issue with endive; it is caused by calcium deficiency in the developing heart, usually exacerbated by inconsistent watering, very rapid growth, or excessive nitrogen; consistent moisture and avoiding high-nitrogen fertilizers during head development are the primary preventive measures.",
+    "propagationMethods": [
+      "Start seed indoors for transplanting",
+      "targeting a transplant date 10-12 weeks before first expected frost for your zone. Germinate at 65-75°F (germination is poor above 80°F — a genuine challenge for summer indoor starting in a hot house; consider starting in a basement, garage, or other cool space; seeds germinate in 7-10 days in ideal conditions); grow transplants for 4-6 weeks before setting out; transplant to the garden once summer heat is moderating. Direct sow is also viable: sow seed ¼\" deep in prepared beds",
+      "timed to give 85-100 days before first frost; the challenge with direct sowing in summer is soil surface drying and occasional germination failures in heat; keep the seed bed consistently moist until emergence and shade briefly if needed. Endive does not set viable seed reliably in most of the lower 48 before frost terminates the plants — save seed is not a practical option in zones 6 and colder; purchase fresh seed annually. In zones 8-10",
+      "plants may bolt and set seed in the second year",
+      "making save seed viable."
+    ]
+  },
+  "cultivarNotes": "Cichorium endivia is divided into two distinct horticultural groups that are almost distinct crops in culinary use, both adaptable across zones 3-10 as cool-season crops.\n**Curly endive / frisée (var. crispum)** — deeply cut, lacy, frilly leaves; more assertively bitter outer leaves; the pale blanched center is the culinary prize. Adaptable across the lower 48 as a cool-season crop; in zones 3-5, a spring window is viable in addition to fall; in zones 6-8, fall is strongly preferred; in zones 9-10, this is a winter green planted in October for November-February harvest. Key cultivars: **'Neos'** is the benchmark modern cultivar — slow-bolting, uniform, resistant to tip-burn, and productive; widely recommended for fall production across zones 5-8. **'Rhodos'** is another dependable curly variety, slightly more compact than Neos, with good bolt resistance and fine, deeply cut frisée-type leaves. **'Bianca Riccia'** is a classic Italian selection with fine, tightly curled white-centered leaves. For frisée production specifically, look for varieties labeled \"self-blanching\" — these form naturally pale, compact hearts without tying.\n**Escarole / Batavian endive (var. latifolia)** — broad, flat, wavy leaves; denser head; milder bitterness; the versatile cooked-or-raw type. Good cold tolerance makes this adaptable across the full zone 3-10 range. Key cultivars: **'Batavian Full Heart'** is the classic standard variety — dense, upright, compact head with a well-formed pale heart; excellent for both raw use and Italian cooking; good cold tolerance across zones. **'Broad-Leaved Batavian'** is the historic open-pollinated standard, essentially the same plant under a slightly different name; widely available from seed companies; reliable and productive. **'Sinco'** is a modern improved variety with better tip-burn resistance and a tighter head.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (fall crop)",
+      "cool-season salad garden",
+      "Italian kitchen garden tradition",
+      "fall bed complement to radicchio and chicory"
+    ],
+    "designPlacement": "Endive and escarole belong in raised vegetable beds or productive kitchen garden areas as a dedicated fall cool-season crop. They are working kitchen garden vegetables, not ornamental border plants. Grow both types — curly endive and escarole — as a small fall planting of 4-6 plants per type, which is sufficient to provide a meaningful harvest without overwhelming a small garden. The fall harvest aligns naturally with the broader fall garden calendar: endive comes in as summer crops finish and before garlic goes in, filling a productive gap that would otherwise sit idle. Consider growing a row of escarole alongside radicchio for a culinarily coherent Italian bitter greens bed — the flavors are designed to work together in the kitchen and the cultural needs are closely matched. The moderate deer resistance is an advantage in deer-active landscapes across the lower 48 compared to lettuce.",
+    "acquisitionStatus": "Not yet acquired — seed widely available from Johnny's Selected Seeds, Baker Creek, High Mowing Organic Seeds, and Fedco; 'Neos' and 'Batavian Full Heart' are the target varieties; a single packet of each is sufficient for multiple seasons of production; purchase seed fresh annually as endive seed viability declines after 2-3 years\nPennsylvania — Hegins Site Observations: Endive is a practical, low-drama fall crop that fills the bitter greens niche that few other cool-season vegetables address. Its clay tolerance, deer resistance (relative to lettuce), and fall frost hardiness make it well-matched to the Hegins site. The primary timing discipline is not to start too late — transplants need to be in the ground by early September at the latest for reliable October harvest; mid-August transplanting is better. Raised beds are strongly preferred over in-ground clay planting for consistent drainage and head quality. Blanching the curly endive heads in the two weeks before harvest is well worth the small effort — the difference between unblanched and blanched frisée is substantial in flavor and texture. For the escarole, the Italian cooking applications (escarole e fagioli, wedding soup, braised escarole) make it one of the more rewarding winter kitchen plants once harvested heads are stored in the refrigerator — escarole keeps well under refrigeration for 1-2 weeks, longer than lettuce. Row cover during any hard frost events in October extends the season meaningfully. Deer protection (row cover or netting) is recommended during the seedling establishment phase in August-September, when plants are small and less bitter; established full-sized plants are a lower-priority target."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Endive",
+    "inaturalist": "https://www.inaturalist.org/taxa/160574-Cichorium-endivia",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; not naturalized or weedy",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; not present on the PA Department of Agriculture noxious weed list or any PA invasive species watch list",
+      "drainage": "The red clay at Hegins runs slightly acidic to neutral and retains moisture — endive handles it better than most salad greens; raised beds with compost incorporation are strongly preferred; in-ground beds of amended red clay are viable but require drainage monitoring after heavy rain",
+      "soil": "The red clay at Hegins, which typically runs slightly acidic to neutral, is well within the acceptable pH range without amendment beyond compost; raised beds with compost are preferred over unamended in-ground clay; the clay's moisture retention is an asset in dry fall stretches",
+      "cultivarNotes": "Grow **'Neos'** (curly endive) and **'Batavian Full Heart'** (escarole) as a complementary pair — the curly type for frisée salads and blanched fresh use, the escarole for cooked preparations and mild raw salads. Start transplants indoors in late June or July and transplant in mid-August through early September for an October-November harvest. Blanch curly endive heads 10-14 days before harvest for best quality. Fall crop is the only reliable season — do not attempt spring production.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent, productivity-focused) is the natural home for endive at this site, or in dedicated raised vegetable beds. Does not belong in Section A (ornamental, front of house) or Section C (fragrance and aesthetic beds). The clay soil at Hegins makes raised beds strongly preferred over in-ground planting; clay drainage management is critical for head quality. Deer pressure is active — row cover during August-September establishment is recommended.",
+      "siteObservations": null
+    }
+  }
+}

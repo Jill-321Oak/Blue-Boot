@@ -1,0 +1,149 @@
+{
+  "id": "rosa-climbing-yellow",
+  "name": {
+    "commonName": [
+      "Climbing Yellow Rose"
+    ],
+    "latinName": "Rosa (climbing yellow hybrid — see Cultivar Notes)",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Not applicable — cultivated hybrid of complex parentage; modern climbing roses derive from crosses involving Rosa species native to Asia (China, Japan) and Europe, with extensive breeding since the 18th century",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Several Rosa species are native to North America (R. carolina, R. blanda, R. setigera), but yellow climbing cultivars descend primarily from Asian and European lineage. Widely cultivated and naturalized in scattered locations but not invasive."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Cultivated roses rarely escape gardens — they are grafted or clonal, produce limited viable seed, and do not naturalize aggressively. Not listed on any state noxious weed list. Note: the multiflora rose (Rosa multiflora), sometimes used as rootstock, IS highly invasive across the eastern US — ensure purchased plants are not grafted onto R. multiflora rootstock, or monitor for rootstock suckers and remove immediately."
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "5b-9 (cultivar-dependent); some David Austin varieties hardy to Zone 5a with protection"
+    }
+  },
+  "description": {
+    "height": "8-15' on support (cultivar-dependent); can be maintained shorter by pruning",
+    "spread": "4-8' horizontal",
+    "spacing": "N/A — typically trained on trellis or pillar; one plant per support structure",
+    "growthRate": "Moderate to fast once established",
+    "timeToMaturity": "First significant bloom in year 2-3; some bloom possible year 1",
+    "lifespan": "Long-lived; 20-40+ years with proper care",
+    "deciduousEvergreen": "Deciduous in Zones 3-7; semi-evergreen in Zones 8-9",
+    "winterInterest": "Low — bare canes in cold zones; rose hips present on some cultivars; cane architecture can be attractive on well-trained specimens"
+  },
+  "lightAndWater": {
+    "sun": "Full sun (minimum 6 hours); morning sun with afternoon shade preferable in Zones 7+ to reduce heat stress and extend bloom life; in Zones 5-6, full all-day sun is ideal",
+    "water": "Medium; drought tolerant once established but benefits from regular watering in dry periods; consistent moisture during bloom season improves flower quality",
+    "drainagePreference": {
+      "description": "Well-drained soil is essential — roses do not tolerate waterlogged roots, which cause root rot (Phytophthora) and crown rot. Ideal is deep, fertile soil that drains freely after rain. Average garden soil is acceptable if not compacted or poorly drained. In heavy soils, plant on slight mounds or amend heavily to improve drainage.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — roses can grow in clay soil if amended, but unamended heavy clay causes waterlogging, root rot, and poor establishment. Clay does retain nutrients well, which roses appreciate, but the drainage trade-off must be managed. Amend planting holes generously with compost and coarse organic matter; consider adding gypsum to break clay structure. Mulch heavily to prevent surface crusting. In regions with wet winters (Pacific NW, upper Midwest, mid-Atlantic), clay drainage problems are most acute."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral is ideal; roses are moderately adaptable but perform best in this range"
+    },
+    "texturePreference": "Loam preferred — fertile, well-structured soil with good organic matter content. Sandy loam is acceptable with additional fertility. Clay loam works if drainage is adequate. Avoid pure sand (too droughty) or pure clay (too wet).",
+    "rootCharacter": "Deep, spreading root system; do not disturb once established"
+  },
+  "bloom": {
+    "bloomTime": "Repeat bloom — June through frost (remontant cultivars); or once in June (once-blooming types)",
+    "bloomDescription": "Large semi-double to double flowers 2-4\" wide; rich yellow, apricot-yellow, or golden tones depending on cultivar; borne on long arching canes trained on support",
+    "fragrance": "Variable — some cultivars are strongly fragrant (David Austin types), others have little to no scent; see Cultivar Notes",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; bees work the flowers actively"
+  },
+  "yield": {
+    "edibleParts": "Petals (edible as garnish; some cultivars fragrant enough for rose water or syrup); rose hips on some cultivars (high vitamin C)",
+    "harvestSeason": "Petals in summer; hips in fall",
+    "medicinalUses": "Traditional rose hip uses (vitamin C source, anti-inflammatory); petals used in culinary preparations",
+    "craftOtherYield": "Cut flowers; dried petals; rose water"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "Non-toxic; rose hips and petals safe",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub / Vine (trained climber)"
+    },
+    "roles": [
+      "Beauty (primary — spring and summer color focal point)",
+      "Insect Attractor",
+      "Food (petals and hips)"
+    ],
+    "companionPlants": [
+      "Nepeta (catmint) at base to suppress weeds and repel aphids; Allium schoenoprasum (chives) as aphid deterrent; Geranium Rozanne as ground-level companion; Ajuga reptans beneath in shaded soil"
+    ],
+    "antagonists": [
+      "Avoid planting near fennel (allelopathic to many plants). Ensure good air circulation — do not crowd against wall without airflow."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (good pollen/nectar), hummingbirds occasionally, small birds for hips",
+    "hostPlantFor": "Not a significant host plant; some Lepidoptera use Rosa species",
+    "nestingHabitat": "Thorny canes provide nesting protection for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — deer browse roses readily across the eastern US, Midwest, and anywhere deer populations are high. Thorny cultivars are slightly less browsed but not reliably deer-resistant. Young plants are especially vulnerable. Protection strategies: physical fencing or caging (most reliable), deer repellent sprays (reapply after rain), companion planting with strongly aromatic herbs (lavender, catmint, chives). Placement near buildings or high-traffic areas offers some deterrence through human activity. Established plants with thick, thorny canes are somewhat less attractive than soft new growth."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt splash and light salt spray; not suited for direct roadside or coastal front-line exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — deep root system accesses subsoil moisture; bloom quality declines in extended drought; supplemental watering during dry spells improves performance in all regions"
+    },
+    "other": "Black spot and powdery mildew are the primary disease concerns across all US regions — select disease-resistant modern cultivars to minimize spray requirements. Japanese beetles are a major pest in the eastern US (Zones 5-8); handpick or use pheromone traps. Good air circulation around canes is critical for disease prevention in humid climates (Southeast, mid-Atlantic, upper Midwest). In hot-summer regions (Zone 8+), afternoon shade extends bloom life and reduces heat stress."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — pruning, tying in, disease monitoring",
+    "pruningNotes": "Prune in early spring when forsythia blooms (timing varies by zone — late February in Zone 8, late March in Zone 6, mid-April in Zone 4-5). Remove winter-killed canes; shorten lateral shoots to 2-3 buds. Train main canes horizontally if possible — horizontal training induces more lateral flowering shoots. Remove suckers from root zone, especially rootstock suckers on grafted plants. Spray preventively for black spot if needed (organic options: copper, neem, baking soda solution).",
+    "propagationMethods": [
+      "Hardwood cuttings (late fall — possible but grafted varieties are tricky)",
+      "own-root plants are easier to propagate; most commercial roses are grafted onto Rosa canina or similar rootstock"
+    ]
+  },
+  "cultivarNotes": "Disease-resistant, reliably reblooming yellow/golden cultivars are strongly preferred over older hybrid teas in all regions. **Zones 5-6 (northern US):** Choose cultivars rated hardy to Zone 5 on own roots — winter kill of canes is the primary risk. Own-root plants regrow from the base if top-killed; grafted plants may lose the scion and send up rootstock suckers instead. David Austin English roses and Kordes shrub roses offer the best combination of hardiness, disease resistance, and repeat bloom. **Zones 6-7 (mid-Atlantic, upper South, Pacific NW):** Widest cultivar selection — nearly all yellow climbers perform well. Disease resistance is the key differentiator. **Zones 8-9 (Deep South, Southwest, coastal California):** Heat tolerance and disease resistance matter most; some David Austin varieties struggle in extreme heat. 'Westerland' and 'Golden Celebration' handle heat better than 'Graham Thomas'. Top choices across all zones: **'Graham Thomas'** (David Austin — deep golden yellow, intensely fragrant, 8-10' as climber, zones 5b-9, excellent repeat bloom, arguably the finest yellow climbing rose available); **'Teasing Georgia'** (David Austin — soft yellow, cupped form, 8-10', fragrant, zone 5b-9, very disease resistant); **'Westerland'** (Kordes — orange-apricot-yellow, climbing, zones 5b-9, very vigorous, excellent disease resistance, some fragrance, good heat tolerance); **'Golden Showers'** (classic climber — clear yellow, zones 6-9, more disease-susceptible than newer cultivars — less preferred but widely available).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Trained climber on trellis",
+      "pillar",
+      "obelisk",
+      "or wall; focal point shrub; vertical accent in mixed borders; pergola or arbor planting; cottage garden feature"
+    ],
+    "designPlacement": "Best used as a vertical color anchor — the strong yellow provides warm contrast against cool-toned companions (purple, blue, silver). Train on a pillar or obelisk for a narrow footprint, or on a wall/trellis for broader coverage. Place in full sun with good air circulation. Underplant with low, complementary ground covers or compact perennials that don't compete for airflow. Works well as a backdrop to mixed perennial beds or as a repeated accent along a fence line. Pair with purple-foliaged or purple-flowered plants for maximum color contrast.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_cultivation",
+    "inaturalist": null,
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — cultivated hybrid, not native to Pennsylvania or any US state",
+      "paInvasiveStatus": "Not regulated in PA. Rosa multiflora (sometimes used as rootstock) is listed as a noxious weed in Pennsylvania — monitor grafted plants for rootstock suckers.",
+      "drainage": "Red clay at the Hegins site requires significant amendment for in-ground planting — dig an oversized hole (2x root ball), backfill with 50/50 compost-native soil mix, and plant on a slight mound. Drainage issues after rain are a concern; monitor for standing water around the root zone. A raised bed or heavily amended foundation bed is strongly preferred over raw clay.",
+      "soil": "Hegins red clay needs amendment with generous compost to approach a workable loam texture. In-ground planting requires breaking up compacted subsoil and incorporating organic matter to at least 18\" depth. Annual topdressing with compost improves soil structure over time.",
+      "cultivarNotes": "'Graham Thomas' is the top recommendation — deep golden yellow, intensely fragrant, proven hardy in Zone 6a, excellent repeat bloom. Own-root plants preferred for winter reliability. 'Teasing Georgia' is the backup choice for softer color or if 'Graham Thomas' is unavailable.",
+      "designPlacement": "Section A — north-facing front bed, central back zone. Train against house or on a free-standing pillar/obelisk as the tall anchor of the symmetrical front bed design. The yellow rose is the color anchor for the purple/yellow design theme; underplanted with purple-foliaged Ajuga reptans 'Black Scallop' and flanked by Miss Kim lilac. HEIGHT NOTE: This plant will exceed 5' — train strictly as a pillar (not allowed to sprawl), prune to maintain 5-6' pillar form, or select a compact David Austin English shrub rose trained upward.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a concern — placement against the house in Section A offers some protection through human activity and proximity to the building. Cedar-apple rust (Gymnosporangium) may affect roses — eastern red cedars (Juniperus virginiana) are common in PA hedgerows near the site; choose rust-resistant cultivars. In Zone 6a, prune in late March when forsythia blooms. The red clay foundation beds require heavy amendment before planting — see Drainage and Soil notes above."
+    }
+  }
+}

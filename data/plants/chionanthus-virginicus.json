@@ -1,0 +1,165 @@
+{
+  "id": "chionanthus-virginicus",
+  "name": {
+    "commonName": [
+      "White Fringetree",
+      "Grancy Graybeard",
+      "Old Man's Beard"
+    ],
+    "latinName": "Chionanthus virginicus",
+    "family": "Oleaceae (Olive family)"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — New Jersey south to Florida, west to Texas and Oklahoma; native to the southern Appalachian region; extends into southern Pennsylvania; broadly naturalized and cultivated throughout the mid-Atlantic states",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern and central US — indigenous across a broad swath from New Jersey to Florida west to Texas and Oklahoma; present in at least 30 states east of the Rockies; introduced and widely cultivated throughout the mid-Atlantic, Midwest, and Upper South well beyond its core native range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state. No invasive listings documented in any state or regional invasive species database. Spreads slowly and is not a displacement concern in any planting context."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "12-20' in cultivation; can reach 25-35' in ideal wild conditions over many decades",
+    "spread": "12-20'; forms a broad, rounded to irregular crown; often as wide as it is tall at maturity",
+    "spacing": "12-15' from other large shrubs or small trees",
+    "growthRate": "Slow — one of the slower-growing native ornamentals; adds roughly 6-12\" per year when young; patience is required and rewarded",
+    "timeToMaturity": "First significant bloom typically years 4-6; full spectacular bloom production from year 7-10; female trees produce fruit from years 4-6",
+    "lifespan": "Long-lived; specimens commonly exceed 50-100 years in appropriate conditions",
+    "deciduousEvergreen": "Deciduous — large, lustrous dark-green leaves through summer; yellow-green to yellow fall color; unremarkable fall foliage compared to the spectacular bloom, but pleasant",
+    "winterInterest": "Low to moderate — smooth gray bark and upright branching structure visible in winter; attractive architectural form when bare"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms most prolifically in full sun; tolerates part shade but flower production decreases with reduced light; in a food forest context, position at the edge or in a canopy gap where it receives at least 5-6 hours of direct sun",
+    "water": "Medium; adaptable from moist to average soils; native to moist woodland edges, stream banks, and rich slopes; tolerates periodic wet conditions; established plants are reasonably drought-tolerant",
+    "drainagePreference": {
+      "description": "Moist, well-drained to average; tolerates periodic saturation; performs in heavy clay soils with adequate organic matter — notably more adaptable than many ornamental trees",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good overall clay tolerance for an ornamental tree of this size. Native to moist, heavy soils in much of its range. Tolerates periodic saturation and compaction better than most ornamentals. Organic matter amendment improves establishment significantly in dense clay. Clay sites with seasonal moisture are generally well-suited — this is not a drought-loving plant."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7.5,
+      "description": "5.0-7.5; broadly adaptable; performs in acidic to near-neutral soils"
+    },
+    "texturePreference": "Moist, well-drained loam is ideal; adapts well to clay-loam; notably tolerant of heavier soils compared to many ornamental trees",
+    "rootCharacter": "Moderately deep fibrous root system; not aggressively spreading; does not sucker; well-behaved in a mixed planting"
+  },
+  "bloom": {
+    "bloomTime": "May-June (typically peak mid-May in Zone 6a); flowers emerge just as or just after the leaves begin to unfurl",
+    "bloomDescription": "One of the most spectacular bloom events of any native tree in the eastern US. Massive drooping panicles (4-6\" long) of pure white flowers with strap-like, deeply cut petals that hang in dense, feathery clusters — the effect is of the entire tree being draped in white fringe or lace. The bloom is so dense it nearly obscures the foliage and can be visible from a considerable distance. Male trees produce larger, showier panicle clusters; female trees bloom somewhat less extravagantly but are still outstanding. The genus name Chionanthus means \"snow flower\" in Greek — an apt description. In the food forest calendar, the White Fringetree bloom in May is one of the most dramatic events of the entire growing season.",
+    "fragrance": "Yes — the flowers are lightly to moderately fragrant; a sweet, delicate scent noticeable up close and carried on the air; not as aggressively fragrant as Philadelphus but pleasant and noticeable",
+    "flowerSex": "Dioecious — separate male and female plants; male flowers are larger and showier; female trees bear fruit; both sexes are ornamentally excellent; plant at least one of each sex for fruit production",
+    "pollination": "Bees (primarily native bees and honeybees); also flies; moderately good pollinator resource in May when many other plants are in bloom; plant both sexes for cross-pollination and fruit set on female plants"
+  },
+  "yield": {
+    "edibleParts": "Fruit (dark blue-black oval drupes, 0.5-0.75\" long, resembling small olives; edible — rarely mentioned in modern sources but the fruit is technically edible; very bitter and astringent when raw; not a significant culinary yield but not toxic); the olive-family connection is real — C. virginicus is closely related to olives and ash trees",
+    "harvestSeason": "Fruit matures August-September; ripens to dark blue-black; clusters ripen over 2-3 weeks",
+    "medicinalUses": "Traditional — the bark was used by Native American peoples (particularly Cherokee) as a treatment for skin inflammations, sores, and as a general tonic; bark preparations were used externally; the plant has a long history in Appalachian folk medicine; not widely used in modern herbalism but documented historically",
+    "craftOtherYield": "Ornamental cut branches (the flowering branches are spectacular in large arrangements); not a significant wood or fiber source at landscape scale"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The fruit is edible in small quantities but very bitter and astringent; not recommended for casual eating raw; no serious toxicity documented; the bark has been used medicinally but internal use should be approached with caution",
+    "toxicityAnimals": "Not documented as significantly toxic to dogs, cats, or livestock; the fruit is consumed heavily by birds without issue; no specific toxicity concerns identified",
+    "allelopathy": "None documented\nEAB Alert: Chionanthus virginicus is in the Oleaceae (olive family) and has been documented as a secondary host for the Emerald Ash Borer (Agrilus planipennis). EAB, which has severely impacted ash trees (Fraxinus spp.) across Pennsylvania and throughout much of the eastern and central US, can successfully complete development in White Fringetree, though it is less preferred than ash. If ash trees are present on or adjacent to your property, or if ash decline is visible in the area, monitor C. virginicus closely for EAB symptoms: D-shaped exit holes in the bark, serpentine galleries under the bark, dieback starting in the crown, and unusual woodpecker activity (woodpeckers fleck the bark seeking larvae). This is a documented and real concern across the EAB-affected range (now covering most of the lower 48) — not a reason to avoid planting this outstanding native, but a reason to monitor it wherever ash decline is present.",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub layer to small tree layer (canopy edge)"
+    },
+    "roles": [
+      "Beauty and Ornamental Anchor (primary role — one of the finest native ornamental trees for the mid-Atlantic and eastern US broadly)",
+      "Wildlife Support (critical fruit and cover resource)",
+      "Pollinator Support (May bloom)",
+      "Native Plant Contribution",
+      "Food Forest Edge Specimen",
+      "Canopy Gap Filler"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — woodland edge companions)",
+      "Lindera benzoin (spicebush — same woodland edge ecology, sequential bloom from March through May)",
+      "Amelanchier spp. (serviceberry — similar early-season bloom sequence)",
+      "Viburnum spp. (native viburnums for shrub layer)",
+      "Cornus florida (dogwood — layers well in the same woodland edge community)",
+      "native ferns and woodland groundcovers beneath"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value. Birds — the dark blue drupes are consumed heavily by robins, catbirds, bluebirds, wood thrushes, cedar waxwings, and migrating thrushes in August-September; the high-lipid fruit is particularly valuable for fueling fall migration; the dense canopy provides summer nesting cover. Pollinators — bees and flies visit the May flowers for nectar and pollen.",
+    "hostPlantFor": "Some native bee species; not a significant lepidopteran host plant (unlike spicebush or native willows), but supports generalist pollinators during the May bloom period",
+    "nestingHabitat": "Dense branching structure provides good nesting habitat for small songbirds; the broad canopy provides cover and perching habitat throughout the growing season"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — not a preferred deer browse target but not strongly deer-resistant; young plants may be browsed; established plants with woody stems are less vulnerable; protect during establishment in areas with heavy deer pressure"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt spray; do not plant in locations with winter salt exposure from road runoff or spray drift"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established plants handle short dry periods; prefers consistent moisture; will struggle in very dry, exposed sites"
+    },
+    "other": "Tolerates urban conditions and pollution better than many native trees; tolerates clay soils; tolerates occasional flooding; cold-hardy to Zone 3."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; one of the most carefree native ornamental trees available",
+    "pruningNotes": "Minimal pruning needed. Allow the plant to develop its natural form — multi-stemmed and broadly spreading, or trained to a single trunk for a more tree-like appearance. Remove dead or crossing branches in late winter/early spring. Do not prune heavily in late summer or fall as this may remove developing flower buds for the following spring. The slow growth rate means corrective pruning is rarely needed. If a single-trunk tree form is desired, select and train the dominant leader early and remove competing basal stems over 2-3 years.",
+    "propagationMethods": [
+      "Seed (stratification required — 2-3 months warm followed by 3 months cold; germination is slow and irregular; seeds may take 18 months or more; not practical for home gardeners); softwood cuttings in summer (moderate success with rooting hormone and mist); layering (reliable for home propagation); purchase container-grown nursery plants is by far the most practical approach"
+    ]
+  },
+  "cultivarNotes": "The straight species is the most widely available and ecologically valuable form. A few cultivars exist but are uncommon in the trade. Purchase from a reputable native plant nursery whenever possible. If fruiting is a goal (for wildlife or interest), acquire at least one confirmed female and one confirmed male — some nurseries tag the sex, but many do not; ask specifically. If only one plant is being placed and fruit is not a priority, a male plant will provide the showiest flower display. Both sexes are outstanding ornamentals. For gardeners across Zones 3-9, the straight species performs reliably with no cultivar selection required — hardiness and adaptability are built into the species. In warmer zones (7-9), the species is equally at home and may reach the upper end of its size range more quickly. In Zone 3-4, the species is documented as cold-hardy but the bloom may be impacted in years with late frost; protected microclimates are preferred at the northern edge of the range.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden",
+      "food forest canopy edge",
+      "native plant showcase",
+      "specimen ornamental",
+      "wildlife garden",
+      "naturalistic border"
+    ],
+    "designPlacement": "Food forest canopy edge — the White Fringetree is ideally placed at the outer edge of a food forest or woodland guild, where it receives full to part sun and can be seen from the house or main garden paths. Its May bloom is one of the most spectacular events in the food forest calendar — a 12-20' tree smothered in white fringe flowers is a statement planting visible from across the property. Pair with Lindera benzoin (which blooms in March-April) and Amelanchier (April) to create a sequential native bloom sequence from early spring through early summer. The female plant's dark blue fruit in August-September provides an additional wildlife-feeding event late in the season.",
+    "acquisitionStatus": "To source (native plant nursery; request sexed plants; consider one male + one female pair)\nPennsylvania — Hegins Site Observations:\n- Zone 6a, humid continental climate — well within the species' documented hardiness range (Zones 3-9); no cold-hardiness concern\n- Red clay, compacted, construction-disturbed soil — this species handles heavy clay better than most ornamental trees; amend planting hole with compost; do not create a sump effect in a low spot\n- Active deer pressure from the east wildlife corridor — young stems are susceptible to browse; cage or tube-protect during establishment (years 1-3); once woody, deer pressure is less of a concern\n- May bloom will be a landmark event visible from the driveway; the food forest edge at the southeast corner is the ideal placement for maximum visual impact\n- EAB monitoring is warranted given ash presence in the regional landscape; check annually for D-shaped exit holes and crown dieback\n- No road salt concern at this placement distance from Route 25"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chionanthus_virginicus",
+    "inaturalist": "https://www.inaturalist.org/taxa/54654-Chionanthus-virginicus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c120"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginally native to Pennsylvania — native range includes southern PA counties (primarily the Ridge and Valley and Piedmont provinces); widely cultivated throughout the state and fully hardy in Zone 6a. Not native to the central PA ridge-and-valley in the strictest sense, but ecologically appropriate and historically present in adjacent regions.",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania. No Pennsylvania Horticultural Society (PHS) or DCNR listing.",
+      "drainage": "The red clay at Hegins is a good fit. The moisture retention of clay suits this species' preference for consistent soil moisture; ensure the planting hole is not a bathtub (no sump effect) and backfill with native soil amended with compost. Establishment may be slower than in loam but long-term performance should be strong.",
+      "soil": "Tolerates the heavy red clay common to disturbed Pennsylvania sites better than many trees; organic matter amendment recommended at planting on compacted construction-disturbed soils.",
+      "cultivarNotes": "One male and one female planted as a flowering pair at the food forest edge is ideal. Both will bloom spectacularly; the female adds August-September fruit for wildlife. Either can be grown as single specimens if fruit set is not a priority.",
+      "designPlacement": "Position at the southeast corner of the food forest or paw paw guild where it will be visible from the driveway and catch full morning sun. The Hegins red clay and retained soil moisture are a good fit. Active deer pressure during establishment requires caging or tube protection until the stems are fully woody (typically years 2-3). Avoid any placement within salt-spray range of Route 25.",
+      "siteObservations": null
+    }
+  }
+}

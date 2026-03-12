@@ -1,0 +1,162 @@
+{
+  "id": "nepeta-walkers-low",
+  "name": {
+    "commonName": [
+      "Catmint 'Walker's Low'",
+      "Walker's Low Catmint"
+    ],
+    "latinName": "Nepeta x faassenii 'Walker's Low'",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Not applicable — cultivated hybrid (Nepeta mussinii × Nepeta nepetella, both native to Europe and western Asia)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Neither parent species is native to North America. Nepeta x faassenii is widely cultivated across all regions of the lower 48 but does not naturalize due to hybrid sterility."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — sterile hybrid; produces no viable seed and does not self-seed or spread by runners. Not listed on any state noxious weed list or the federal noxious weed list. No invasive potential anywhere in the lower 48."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "18-24\" in bloom (despite the name 'Walker's Low' — it is not a low plant; the name refers to Walker's Low, a garden in England where it was selected)",
+    "spread": "24-36\"; mounding, slightly sprawling habit",
+    "spacing": "18-24\"",
+    "growthRate": "Fast; rapid establishment and spreads to full size in year 2",
+    "timeToMaturity": "Full bloom from year 1; reaches full spread in year 2",
+    "lifespan": "Long-lived perennial; 10-15+ years; essentially permanent in the garden",
+    "deciduousEvergreen": "Deciduous — dies back in winter; clean basal foliage emerges early in spring",
+    "winterInterest": "Low — dies back; some dried seedheads persist briefly"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade (4-5 hours) with slightly reduced bloom; generally performs in a range of light conditions. In Zone 8+ and the Deep South, afternoon shade improves longevity and prevents midsummer stress; in Zone 3-6, full sun is ideal.",
+    "water": "Low to medium; excellent drought tolerance once established; thrives in hot, dry conditions that stress other perennials. In the humid East, supplemental irrigation is rarely needed after the first season; in the arid West, occasional deep watering during prolonged drought keeps plants vigorous.",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average garden soil; will not tolerate waterlogged conditions. Poor drainage leads to crown rot, especially during winter dormancy when roots sit in cold, saturated soil. Better drainage = longer-lived plants. In regions with heavy winter rain (Pacific NW, Gulf Coast), raised planting or sharp drainage amendment is essential.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Catmint can succeed in clay soil if drainage is improved at planting time — work in coarse grit, perlite, or fine gravel to the planting hole and surrounding area. In unamended heavy clay, crown rot is the primary risk, particularly in winter. Slightly raised planting (crown 1-2\" above grade) helps shed water. Once established in amended clay, plants are long-lived and vigorous. Heavy clay with seasonal waterlogging is a poor match without intervention."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline conditions"
+    },
+    "texturePreference": "Lean to average; does not require fertile soil; excess fertility produces floppy growth with weak stems that splay open. Well-drained loam is ideal. Sandy and gravelly soils are excellent. Rich, heavy soils should be cut with grit or gravel to improve structure and reduce fertility.",
+    "rootCharacter": "Fibrous spreading root system; non-invasive; forms a neat clump that is easy to divide"
+  },
+  "bloom": {
+    "bloomTime": "May through September — one of the longest-blooming perennials; primary flush May-June; cut back after first flush to trigger vigorous rebloom through summer and fall",
+    "bloomDescription": "Long wands of small two-lipped lavender-blue flowers covering the entire plant; the plant is essentially a continuous cloud of blue-lavender from May to frost when managed properly; flowers are soft, diffuse, and airy rather than bold",
+    "fragrance": "Aromatic foliage with a strong minty-herbal scent (milder and more pleasant than catnip to humans); flowers lightly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding pollinator plant — bees of all species work catmint intensively; also butterflies; one of the top five plants for pollinators in the perennial border"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers (herbal tea — mild, calming, minty-herbal flavor; similar to but milder than catnip); flowers attractive as a plate garnish",
+    "harvestSeason": "Leaves and flowers throughout the growing season",
+    "medicinalUses": "Mild calming herb; traditional use for headaches, insomnia, and digestive complaints; milder than Nepeta cataria (true catnip); used externally for minor skin irritation",
+    "craftOtherYield": "Dried flowers for arrangements; cut flower (long stems of blue-lavender work well in bouquets)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal",
+    "toxicityAnimals": "Cats are attracted to the foliage (catmint effect similar to catnip); cats may roll in and crush plants — protect young plants with wire cloches until established. Non-toxic; safe for cats and dogs.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Beauty (primary — outstanding long-blooming blue color)",
+      "Insect Attractor (exceptional pollinator value)",
+      "Pest Confuser (aromatic foliage deters aphids and other pests — good rose companion)",
+      "Ground Cover & Weed Suppression",
+      "Medicinal"
+    ],
+    "companionPlants": [
+      "Roses (classic combination — catmint at the base of roses suppresses weeds, deters aphids, and provides continuous color when roses are between flushes); echinacea; salvia; lavender; Geranium 'Rozanne' (similar blue-lavender color, complementary bloom times)"
+    ],
+    "antagonists": [
+      "None documented. Note cat disturbance — cats may roll in or chew young plants. Protect during establishment."
+    ],
+    "coppiceable": "Cut back hard by two-thirds after first bloom flush (late June) — shear the entire plant to 6-8\". This removes spent flower stems and triggers a full rebloom in 4-6 weeks. Do this promptly; the second flush in late summer-fall is one of the best features of this plant."
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional — heavily visited throughout the long bloom season), butterflies (catmint is one of the top butterfly nectar plants for summer borders), beneficial insects; attracts cats (see Cautions)",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera",
+    "nestingHabitat": "Mounding habit provides minimal nesting value"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic; among the most reliably deer-deterrent perennials. Deer almost never browse catmint even under heavy pressure. Young transplants may occasionally be trampled but are not eaten. Once established, no protection is needed in most situations."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt splash and light salt spray; recovers from occasional exposure but is not suited to direct roadside planting or heavy maritime spray zones."
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; thrives in hot and dry conditions; one of the most drought-tolerant perennials for the temperate border"
+    },
+    "other": "Heat tolerant; tolerates lean soil; does not perform well in humid, wet, or densely shaded conditions. High humidity with poor air circulation can cause powdery mildew — spacing and good drainage prevent this."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "The key maintenance task is shearing after the first bloom flush in late June — cut back hard to 6-8\" to trigger vigorous rebloom. Without this cut, the plant produces inferior late-season bloom. Second and third cuts can be made later in summer if needed. In spring, remove old dead stems. Divide clumps every 3-4 years in spring to rejuvenate.",
+    "propagationMethods": [
+      "Division (easy — divide clumps in spring or fall; extremely reliable)",
+      "stem cuttings (root readily in summer)",
+      "seed (not recommended — sterile hybrid; no seed set; purchase or divide)"
+    ]
+  },
+  "cultivarNotes": "'Walker's Low' is the definitive selection in the catmint group and the most widely planted Nepeta cultivar in North America. It is a superior choice over the straight species (Nepeta x faassenii) for its more upright habit, more vigorous rebloom, and slightly larger individual flowers. Performance is outstanding across Zones 4-7 with no special accommodations. In **Zone 3-5** (Upper Midwest, northern New England, northern Plains), 'Walker's Low' is fully hardy and reliable; its long bloom season is especially valuable where the growing season is short. Mulch crowns after the first hard freeze. In **Zone 6-7** (mid-Atlantic, central Midwest, Pacific NW inland), this is the sweet spot — 'Walker's Low' performs at its peak with minimal effort. In **Zone 8+** (Deep South, Gulf Coast, low desert Southwest), catmint struggles with heat and humidity; afternoon shade and excellent drainage are essential. Gardeners in Zone 8+ should consider **'Cat's Meow'** (18-20\", compact, exceptionally vigorous rebloom, better heat tolerance) or **'Joanna Reed'** (18-24\", strong rebloomer). Other notable selections across all zones: **'Six Hills Giant'** (3-4' tall — more vigorous and larger than 'Walker's Low'; excellent for mass planting but may sprawl in rich soil); **'Junior Walker'** (12-14\", dwarf sport of 'Walker's Low' — ideal for edging and containers).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Mid-border perennial",
+      "front border edging",
+      "rose companion",
+      "path edging",
+      "pollinator garden",
+      "cottage garden",
+      "mass planting",
+      "xeriscaping"
+    ],
+    "designPlacement": "Position in the mid-to-front zone of perennial borders where its mounding 18-24\" height and 24-36\" spread create a flowing mass of blue-lavender. Excellent at the base of climbing roses, where it fills the bare-legs zone and provides continuous color between rose flushes. Plant where drainage is best — forward edge of beds, raised areas, or slopes. Avoid low spots or areas where water collects. Works beautifully as a repeating rhythm plant along the length of a border to unify the design. Space 18-24\" on center for a continuous mass within one season.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nepeta_%C3%97_faassenii",
+    "inaturalist": "https://www.inaturalist.org/taxa/410913-Nepeta-faassenii (parent species — N. x faassenii; 'Walker's Low' is a cultivar)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=t160"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania. Same as general Invasive field — sterile hybrid with no escape potential.",
+      "drainage": "Red clay at the Hegins site requires amendment at planting — incorporate 2-3\" of coarse grit and compost into the planting area. Plant at or slightly above grade. The forward edge of foundation beds where drainage is best is the ideal position. Raised beds are not required but would eliminate all clay concerns. In-ground planting with amendment is practical and proven for this genus in central PA clay.",
+      "soil": "Hegins red clay is heavier than ideal. Amend planting holes with a 50/50 mix of compost and coarse grit to improve texture and drainage. Avoid heavy compost-only amendment, which increases fertility and encourages the floppy growth catmint is prone to in rich soil.",
+      "cultivarNotes": "'Walker's Low' is the top choice — peak performance zone, no special accommodations needed. 'Cat's Meow' is an excellent companion or alternative for tighter spaces.",
+      "designPlacement": "Section A (front, north-facing) mid-zone and transition to front zone — mounding mass of blue-lavender along the front of the bed; complements the purple/yellow color theme while providing extraordinarily long bloom season (May-September). Excellent companion at the base of the climbing yellow rose. Plant at the forward edge of the bed where drainage is best. Also suitable for Section C (back porch, south-facing) front zone where the warm, dry microclimate is ideal for catmint and the fragrance from aromatic foliage is a bonus near the porch.",
+      "siteObservations": "Active deer corridor from the east is not a concern for this plant — catmint is among the most reliably deer-proof perennials and does not require protection even at this site. The north-facing aspect of Section A provides enough summer sun for strong bloom but the partial shade and cold microclimate may slightly delay the first flush compared to a south-facing site. Section C's south-facing warm microclimate would produce earlier and more vigorous bloom. Red clay drainage is the primary site challenge — amend planting holes with grit and compost, and position plants at the forward edge of beds where drainage is naturally better."
+    }
+  }
+}

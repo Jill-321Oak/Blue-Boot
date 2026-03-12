@@ -1,0 +1,162 @@
+{
+  "id": "morus-illinois-everbearing",
+  "name": {
+    "commonName": [
+      "Illinois Everbearing Mulberry"
+    ],
+    "latinName": "Morus × 'Illinois Everbearing' (believed to be a hybrid of Morus alba × Morus rubra)",
+    "family": "Moraceae"
+  },
+  "range": {
+    "nativeRange": "Not applicable — a cultivated hybrid selected in Illinois in the mid-20th century; Morus rubra (red mulberry) is native to eastern North America; Morus alba (white mulberry) is introduced from China and extensively naturalized across much of the US",
+    "usNativeStatus": {
+      "native": true,
+      "description": "The parent species M. rubra is native throughout the eastern US from Massachusetts to southern Ontario, west to Minnesota and South Dakota, south to Texas and Florida; M. alba is introduced and widely naturalized across all lower-48 states; 'Illinois Everbearing' is a cultivated hybrid with partial native ancestry — it is not a wild native but carries native M. rubra genetics"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Morus alba (white mulberry) is considered invasive in many US states — it hybridizes freely with native M. rubra and threatens the genetic integrity of wild red mulberry populations; this concern extends across the entire eastern US and into the Midwest wherever M. rubra persists; 'Illinois Everbearing' is itself a hybrid and does produce viable seed, but as a garden specimen it poses less risk than naturalized M. alba populations; gardeners near wild M. rubra stands should be aware of cross-pollination potential; M. alba appears on invasive species lists in several states including Connecticut, Massachusetts, and Wisconsin"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "20-35' at maturity; manageable to 10-15' with annual pruning; can be grown as a large multi-branched tree or shaped as a smaller specimen",
+    "spread": "20-30'; wide-spreading canopy",
+    "spacing": "15-20' from other large trees",
+    "growthRate": "Fast — one of the fastest-growing fruiting trees in the temperate zone; 3-5' per year under good conditions",
+    "timeToMaturity": "First significant fruit in years 2-4; heavy production from years 5-7; the rapid establishment is one of its most valuable traits",
+    "lifespan": "Long-lived; 50-100+ years",
+    "deciduousEvergreen": "Deciduous — large, variable-lobed leaves (the variable leaf shapes — unlobed and lobed forms on the same tree — are characteristic); broad canopy through summer; bare in winter",
+    "winterInterest": "Low — bare in winter; distinctive chunky branching structure"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade with reduced fruit production",
+    "water": "Low to medium; excellent drought tolerance once established; one of the most drought-tolerant fruit trees available",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates clay, poor, and dry soils once established; performs in a wide range of difficult drainage conditions; prefers reasonably well-drained soil for optimal growth but survives periodic waterlogging without root rot — a genuinely tough tree in poor-drainage sites",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — mulberry is one of the most clay-tolerant fruiting trees available; the wide-spreading root system handles compacted and heavy soils that would kill most fruit trees; no amendment required for establishment in clay, though loosening the planting hole improves early root spread; clay does not cause root rot in this species under normal conditions"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable"
+    },
+    "texturePreference": "Very adaptable; clay, loam, sandy soils all tolerable; does not require fertile or amended soil; one of the least soil-demanding fruit trees available",
+    "rootCharacter": "Wide-spreading surface root system; roots can spread significantly; site away from paths, patios, and foundations (fallen fruit also stains paved surfaces — this is the primary placement concern)"
+  },
+  "bloom": {
+    "bloomTime": "April-May (inconspicuous bloom)",
+    "bloomDescription": "Small catkin-like flowers; not ornamentally significant; male and female flowers often on the same tree (monoecious)",
+    "fragrance": "None",
+    "flowerSex": "Monoecious; 'Illinois Everbearing' is mostly self-fertile; cross-pollination not typically required",
+    "pollination": "Wind-pollinated; self-fertile; single tree produces fruit reliably"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the mulberry — 'Illinois Everbearing' produces an extended fruiting season over 6-8 weeks; berries are black-purple when ripe, 1-1.5\" long; sweet-tart, excellent flavor; eaten fresh, in pies, jams, and wine; one of the most productive fruit trees per unit area — a mature tree can produce hundreds of pounds of fruit)",
+    "harvestSeason": "June-August (the \"everbearing\" name refers to the extended fruiting season over multiple weeks, not true continuous production year-round); fruit falls when ripe — lay tarps under the tree for easy mass harvest",
+    "medicinalUses": "Mulberry leaves are used in Chinese medicine and have documented blood sugar management properties (1-deoxynojirimycin, a glucosidase inhibitor); mulberry fruit is high in vitamin C, iron, and resveratrol; one of the most medicinally interesting of the common fruit trees",
+    "craftOtherYield": "Mulberry wine and jam (outstanding); dried fruit; natural dye from the fruit (the purple juice is an effective natural dye — be aware it stains clothing, concrete, and anything it contacts)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Unripe (green) mulberries contain hallucinogenic compounds and can cause GI upset; only ripe fruit should be eaten; fully ripe fruit is non-toxic",
+    "toxicityAnimals": "Ripe fruit is safe for most animals and is eaten enthusiastically by birds, dogs, and farm animals; unripe green fruit should be avoided; fallen fermenting fruit may cause mild intoxication in dogs eating large amounts — a minor practical concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (fruit — extremely high yield, one of the most productive fruit trees for the home food forest)",
+      "Wildlife Support (exceptional — mulberry is one of the most important wildlife plants in eastern North America)",
+      "Nitrogen Cycle (leaf litter)",
+      "Chop-and-Drop (pruning biomass)",
+      "Pioneer (fast establishment)"
+    ],
+    "companionPlants": [
+      "Ribes nigrum (black currant — shrub layer companion)",
+      "Vitis labrusca (grape — vine layer)",
+      "Calendula officinalis (annual ground cover)",
+      "comfrey (dynamic accumulator)",
+      "yarrow (insectary)"
+    ],
+    "antagonists": [
+      "Fallen fruit is the primary management challenge — it drops and stains everything beneath the tree; site with this in mind (grass or permeable surface, not pavers or concrete). The M. alba genetics may be a concern for purists re: native plant conservation; the hybrid has limited wild invasive potential compared to pure M. alba."
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Exceptional wildlife tree — one of the most wildlife-productive trees in temperate North America; over 60 bird species consume mulberry fruit (including cedar waxwings, robins, catbirds, orioles, tanagers, thrushes, mockingbirds, and many others); mammals (foxes, raccoons, opossums, squirrels, deer) consume fallen fruit; the fruiting season creates a sustained wildlife food source over 6-8 weeks",
+    "hostPlantFor": "Numerous native Lepidoptera including the Cecropia moth (Hyalophora cecropia) and several other large silk moths; a high host plant value tree",
+    "nestingHabitat": "Large canopy provides major nesting structure; the abundant insect activity in the canopy supports insectivorous birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse the lower branches of young trees; the rapid growth rate means mature trees quickly outpace browse height; protect young trees (1-3 years) with fencing or tree tubes until the canopy is above browse line; established trees tolerate deer pressure without significant damage"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt and moderate salt spray; recovers from incidental exposure without lasting damage"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — among the most drought-tolerant of all fruiting trees"
+    },
+    "other": "Very adaptable and resilient; tolerates urban conditions, poor soil, and neglect; pollution tolerant; succeeds where many fruit trees fail"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Prune in late winter (February-March) to shape and manage size; mulberry bleeds sap when cut in late summer through fall — avoid pruning in these periods. Manage fallen fruit by harvesting frequently (the fruit is valuable — don't let it go to waste), placing tarps during peak season, or confining the tree above a permeable surface. Annual pollarding or coppicing is an option for size management.",
+    "propagationMethods": [
+      "Hardwood cuttings (dormant season — medium to good success; stick 8-12\" sections in moist soil)",
+      "softwood cuttings (summer — with rooting hormone)",
+      "grafting (for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "'Illinois Everbearing' is widely considered the best general-purpose mulberry cultivar for home gardens across Zones 5-9. Outstanding flavor, extended 6-8 week fruiting season, vigorous production, and self-fertility (no partner tree required). **Zone 5-6 (northern tier):** 'Illinois Everbearing' is the top choice — fully hardy, reliable production, and fast enough growth to establish before harsh winters; 'Gerardi Dwarf' is an alternative for limited-space gardens (compact form, Zone 5-8). **Zone 7-8 (mid-latitudes / Southeast / Pacific NW):** 'Illinois Everbearing' performs well; 'Oscar' offers larger individual fruit and may be preferred where fruit size is prioritized; in the humid Southeast, the extended fruiting season may overlap with peak heat — harvest early in the day. **Zone 9 (Gulf Coast / desert Southwest):** mulberry still performs, but heat stress can shorten the fruiting window; consider afternoon shade in the hottest climates; 'Pakistan' mulberry (M. macroura / M. nigra hybrids, Zone 7-10) offers an alternative with very large fruit but is a different species.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "wildlife garden",
+      "orchard",
+      "permaculture pioneer",
+      "guild anchor"
+    ],
+    "designPlacement": "Site mulberry where fallen fruit will not be a problem — over grass, ground cover, or mulched areas rather than patios, pavers, or walkways; the purple fruit stains any hard surface it contacts; allow 15-20' clearance from structures and paths; full sun position with southern or western exposure is ideal; the wide canopy creates substantial shade underneath, making it a natural guild anchor with shade-tolerant understory plants (currants, comfrey, ground covers); pair with nitrogen fixers and dynamic accumulators in the guild; the 6-8 week fruiting window in summer makes this one of the highest-value wildlife trees available — site where bird activity is welcome; annual pruning controls height and spread if space is limited",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Morus_alba",
+    "inaturalist": "https://www.inaturalist.org/taxa/56090-Morus-alba (parent species; 'Illinois Everbearing' is a M. alba × M. rubra hybrid)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d439 (listed as Morus alba)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Partially — the parent species M. rubra is native to Pennsylvania and occurs in woodlands and edges throughout the state; M. alba is introduced and naturalized throughout Pennsylvania; the hybrid 'Illinois Everbearing' has native ancestry but is a cultivated selection, not a wild native",
+      "paInvasiveStatus": "Morus alba is listed as an invasive plant by the Pennsylvania DCNR and is recognized as a threat to native M. rubra populations in the state; 'Illinois Everbearing' as a named hybrid cultivar is not specifically regulated, but the M. alba parentage is noted; the same cross-pollination concerns apply near any wild M. rubra stands in Pennsylvania",
+      "drainage": "The compacted red clay at the Hegins site is not a concern for this tree; 'Illinois Everbearing' will establish readily in unamended clay; the drainage issues after rain are within the range this species tolerates easily; no raised bed or special preparation needed — plant directly in ground",
+      "soil": "The Hegins red clay is well within the tolerance range; no amendment needed; the tree will perform as well in this soil as in any other texture",
+      "cultivarNotes": "'Illinois Everbearing' is the clear first choice — fully hardy, self-fertile for a single-tree planting, and the extended season from June into August aligns well with the Hegins growing season.",
+      "designPlacement": "Mulberry guild — a single 'Illinois Everbearing' as the guild canopy tree; surrounding guild plants (black currant, concord grape, calendula, comfrey, yarrow) create the shrub, vine, and ground layers; one of three tree guilds planned (apple pair, paw paw pair, mulberry); guild not yet placed on property map; will need annual pruning to maintain manageable size; site away from Section A (beauty-first, 5' height limit), Section B (will be shaded by food forest but this tree is part of creating that shade), and Section C (5' height limit, fragrance focus); the food forest area is the natural home for this guild",
+      "siteObservations": "The compacted red clay at this site is a non-issue for mulberry — this is one of the easiest fruit trees to establish in difficult soil. Active deer pressure from the east wildlife corridor means young tree protection is essential for the first 2-3 years (fencing or tree tubes); once the canopy is above browse height the rapid growth will outpace deer damage. The extraordinary wildlife value of this tree will draw significant bird activity during the June-August fruiting window — this is desirable for the food forest but worth considering re: proximity to any areas where bird mess would be unwelcome. Fallen fruit management (tarps, frequent harvest) will be the primary ongoing task. Salt tolerance is good but not relevant to guild placement — the food forest area is not near the road."
+    }
+  }
+}

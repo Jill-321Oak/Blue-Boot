@@ -1,0 +1,155 @@
+{
+  "id": "rumex-crispus",
+  "name": {
+    "commonName": [
+      "Curly Dock",
+      "Curled Dock",
+      "Yellow Dock"
+    ],
+    "latinName": "Rumex crispus",
+    "family": "Polygonaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; widely naturalized throughout North America, South America, Australia, and New Zealand as an introduced weed",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced from Europe and now naturalized in all 50 states; found in every region of the lower 48 from coast to coast; one of the most ubiquitous non-native weeds in North America, established in disturbed ground, roadsides, agricultural fields, and waste places nationwide"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Listed as a noxious weed in several US states including Arizona, Arkansas, Hawaii, Iowa, Nevada, and Ohio; not federally regulated but considered a problematic agricultural weed across the country; spreads aggressively by seed (each plant produces tens of thousands of seeds that remain viable in the soil for 20+ years); deep taproot makes established plants extremely difficult to eradicate; manage proactively if you want to contain it in any region"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "18-36\" in leaf; flower stalks reach 3-5 ft at seed set",
+    "spread": "12-24\" basal rosette; colonies can spread via seed",
+    "spacing": "N/A — wild-foraged weed; not intentionally planted; manage where it appears naturally",
+    "growthRate": "Fast — establishes readily from seed in disturbed soil; taproot makes it persistent once established",
+    "timeToMaturity": "Leaves harvestable from year 1; produces abundant seed by late spring of the first year",
+    "lifespan": "Long-lived perennial; the deep taproot ensures persistence; essentially permanent without active removal",
+    "deciduousEvergreen": "Deciduous — dies back in hard frost; basal rosette may persist into early winter in mild conditions; one of the first plants to re-emerge in late winter/early spring",
+    "winterInterest": "Dried seed stalks (rusty brown, papery) persist through winter and are ornamentally distinctive; a useful wild craft material and wildlife food source"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most vigorous in full sun; tolerates light shade but is less productive",
+    "water": "Low to medium; remarkably drought tolerant once the taproot is established; commonly found in dry roadsides and neglected fields; also tolerates periodic wet conditions and compacted soils",
+    "drainagePreference": {
+      "description": "Highly adaptable — tolerates poor drainage, compaction, and heavy clay; thrives in conditions that kill most cultivated plants; also grows in well-drained sandy or loamy soils; this extreme adaptability is part of its ecological role as a disturbed-ground pioneer",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the best-adapted plants for heavy clay soils anywhere in the US; the deep fleshy taproot is specifically evolved to penetrate compacted clay and hardpan; actually thrives in heavy clay conditions where it performs its dynamic accumulator function most effectively; requires no amendment or special preparation in clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 8,
+      "description": "4.5-8.0; extremely adaptable; often an indicator of disturbed, compacted, or degraded soil"
+    },
+    "texturePreference": "Thrives in heavy clay, compacted soils, and disturbed ground; the deep taproot is specifically adapted to penetrate hardpan and clay; performs well in poor soils where cultivated plants struggle; also grows in sandy, loamy, and gravelly soils — essentially any texture",
+    "rootCharacter": "Deep, fleshy taproot — typically 8-18\" or more; a genuine clay-buster and dynamic accumulator; mines iron, phosphorus, and other minerals from depth and deposits them in leaf litter; similar function to comfrey but deeper-reaching; roots are the medicinal part and are yellow inside (hence \"yellow dock\")"
+  },
+  "bloom": {
+    "bloomTime": "May-July",
+    "bloomDescription": "Tall erect spikes with dense whorls of small green flowers that age to rust-brown papery seed clusters; ornamentally unremarkable in flower but the mature seed stalks — which persist through winter — are distinctive and useful for dried arrangements; allow to set seed only intentionally, as each plant produces thousands of long-viable seeds",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Wind-pollinated; self-fertile; sets seed abundantly without assistance — this is what makes it persistent"
+  },
+  "yield": {
+    "edibleParts": "Young leaves (cooked) — edible as a pot herb similar to spinach or chard; best in early spring when small and tender; must be boiled in 1-2 changes of water to reduce oxalic acid and bitterness; flavor is earthy and mildly bitter, less refined and more astringent than R. acetosa — use as a cooked green, not raw in salads. Seeds — nutritious and edible; can be roasted and ground into a flour or meal and used as a grain extender; eaten raw but labor-intensive to dehull; a useful famine or forage food. Roots — not typically eaten but used medicinally (see below).",
+    "harvestSeason": "Leaves: March-May for the best spring harvest; young leaves only — once they exceed roughly 4-6\" and develop fully curled margins, they become too tough and bitter to be palatable even cooked. Seeds: July-August when seed clusters turn rust-brown and papery; strip from stalks and winnow. Roots: autumn of the second year or later, when medicinal constituents are most concentrated.",
+    "medicinalUses": "Root is the primary medicinal part — a traditional liver and digestive tonic used in Western herbalism for centuries; contains anthraquinone glycosides (including emodin) that act as a mild laxative and bile stimulant; used for sluggish digestion, chronic constipation, and as a \"blood purifier\" in folk medicine. High iron content in the root makes it a traditional remedy for anemia — often combined with yellow dock tincture in iron-deficiency protocols. Also used topically: fresh leaf juice or root decoction applied to skin irritations, stings, and rashes (the folk remedy of rubbing dock leaves on nettle stings is well-known). Caution: large doses of root preparations can cause diarrhea and cramping; avoid medicinal use of root during pregnancy; consult a qualified herbalist for therapeutic use.",
+    "craftOtherYield": "Dried seed stalks are excellent for dried flower arrangements and winter wreaths — the rust-brown papery clusters are long-lasting and distinctive. Leaves yield a yellowish-green dye. Roots yield a yellow dye."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — high oxalic acid content: leaves contain more oxalic acid than R. acetosa; always cook young leaves in at least one change of water before eating; do not consume raw in quantity. Individuals prone to calcium oxalate kidney stones, or with gout or rheumatoid arthritis, should avoid or strictly limit consumption. Root preparations in large doses can cause diarrhea, cramping, and gastrointestinal distress; not for casual self-medication. Treat as a forage food and medicinal herb that requires informed, moderate use — not a bulk dietary staple.",
+    "toxicityAnimals": "Oxalic acid toxic to dogs, cats, horses, and livestock in quantity; livestock poisoning from large consumption of dock in pastures is documented; keep grazing animals from overeating it, though most animals self-regulate. Not a concern for incidental contact or small browsing.",
+    "allelopathy": "None well-documented; it is a competitive weed primarily through vigorous growth and prolific seed production rather than chemical suppression",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer / ground layer; weed/pioneer layer"
+    },
+    "roles": [
+      "Dynamic Accumulator (deep taproot mines iron, phosphorus, calcium, and potassium from subsoil and deposits them in leaf litter — a genuine soil-building function in compacted clay)",
+      "Clay Breaker (taproot physically penetrates and loosens compacted clay and hardpan over time; useful pioneer in degraded soil)",
+      "Transitional Pioneer (colonizes and stabilizes disturbed ground; part of natural succession toward more complex plant communities)",
+      "Medicinal Herb (root is a documented medicinal plant with real therapeutic application in Western herbalism)",
+      "Edible Forage (leaves and seeds provide supplemental wild food)",
+      "Wildlife Support (abundant seeds feed birds through winter)"
+    ],
+    "companionPlants": [
+      "Comfrey (fellow dynamic accumulator guild — the two together provide deep and shallow mineral mining)",
+      "plantain (Plantago — shares the disturbed-ground niche; together they indicate compacted soil in need of improvement)",
+      "red clover (nitrogen-fixing companion in the disturbed-ground pioneer layer)",
+      "fruit tree guilds as a self-establishing understory accumulator"
+    ],
+    "antagonists": [
+      "None documented — but its aggressive seed production makes it an antagonist to cultivated beds if not managed; keep away from vegetable garden areas where it will self-seed prolifically"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Seeds are eaten by a wide range of birds — mourning doves, sparrows, finches, and juncos are frequent consumers of the persistent winter seed stalks; leaving stalks standing through winter provides a genuine food source during lean months",
+    "hostPlantFor": "Larval host for several Lepidoptera including the small copper butterfly (Lycaena phlaeas), whose caterpillars feed on Rumex species; various beetles and other insects feed on foliage",
+    "nestingHabitat": "Dense basal rosette provides low ground cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — leaves are not preferred forage; the bitter, astringent flavor and oxalic acid content make it unappealing; generally deer-resistant in practice, though very hungry deer will browse most things; a reliable low-concern plant in deer-pressured landscapes across the eastern and midwestern US"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — commonly found along roadsides where road salt is applied; better salt tolerance than most cultivated plants; recovers well from incidental salt exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — the deep taproot reaches moisture unavailable to shallow-rooted plants; one of the most drought-tolerant herbaceous plants in disturbed-ground communities across the US"
+    },
+    "other": "Excellent cold hardiness (Zone 3); thrives in clay, compaction, and disturbed soil; tolerates part shade; wind tolerant; heat tolerant through Zone 9; extremely adaptable to difficult conditions across the entire lower 48"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low as a managed weed; high if you are trying to eradicate it — the taproot makes removal laborious. The permaculture approach is to accept and harvest it strategically: cut flower stalks before seed set to prevent uncontrolled spread, harvest young leaves in spring, and allow it to perform its dynamic accumulator function in designated areas (food forest floor, orchard understory) while keeping it out of cultivated vegetable beds.",
+    "pruningNotes": "Cut flower stalks before they set seed if you want to limit spread — each plant produces thousands of viable seeds that remain viable in soil for 20+ years. If you want to allow some seed for birds, leave a few stalks but be deliberate about it. To weaken or remove a plant, cut to the ground repeatedly through the growing season to exhaust the taproot; full removal requires digging out the entire taproot (a significant task in clay soil).",
+    "propagationMethods": [
+      "Self-seeds prolifically — no assistance needed; propagation is management",
+      "not encouragement. If intentionally establishing in a new area",
+      "seed germinates readily without stratification; direct sow on disturbed soil in spring or fall."
+    ]
+  },
+  "cultivarNotes": "No named cultivars — this is a wild species managed as a forage and medicinal weed, not a garden cultivar. Its close relative R. acetosa (garden sorrel) is the cultivated culinary analogue and is strongly preferred for deliberate edible plantings across all zones. R. crispus is best treated as a wild plant to be harvested opportunistically rather than deliberately planted. No cultivar selection is necessary or available regardless of zone or region.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Managed wild forage plant; dynamic accumulator in food forest floor and orchard understory; medicinal herb harvested from wild stands; winter wildlife plant (seed stalks for birds)"
+    ],
+    "designPlacement": "Not intentionally planted in most permaculture designs but valued where it appears naturally — allow it to perform its dynamic accumulator and clay-breaking functions in food forest floors, orchard understory, and naturalized meadow areas; cut flower stalks before seed set to prevent colonization of cultivated beds and vegetable areas; harvest young spring leaves and seeds opportunistically; the deep taproot makes it a genuinely useful pioneer plant in any degraded or compacted soil",
+    "acquisitionStatus": "Wild — do not purchase; harvest from naturally occurring plants on or near the site"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rumex_crispus",
+    "inaturalist": "https://www.inaturalist.org/taxa/53197-Rumex-crispus",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from Europe; naturalized throughout Pennsylvania and extremely common statewide in disturbed ground, roadsides, agricultural fields, fence lines, and waste areas",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list; not formally regulated in PA but considered a common and persistent agricultural weed statewide; de facto invasive in practice due to aggressive seeding and difficult eradication",
+      "drainage": "Perfectly suited to Hegins red clay — the compacted, construction-disturbed conditions are exactly where R. crispus excels; no amendment needed; the taproot will penetrate the hardpan and begin loosening and mineralizing the clay over time; one of the most useful pioneer plants for this site's soil conditions",
+      "soil": "The red clay and compacted conditions at Hegins are ideal habitat for R. crispus; no soil preparation or amendment needed; if anything, the challenge is preventing it from dominating disturbed areas rather than helping it establish",
+      "cultivarNotes": "same guidance — harvest wild stands; plant R. acetosa if you want a deliberate culinary dock/sorrel.",
+      "designPlacement": "Not intentionally planted but almost certainly already present or will appear naturally — R. crispus is one of the most common weeds in Pennsylvania disturbed ground and clay soils. Allow it to work in the food forest floor and orchard understory. Keep out of Section B (kitchen herb strip) and vegetable areas where its seeding habit would be problematic. Cut flower stalks before seed set in managed areas.",
+      "siteObservations": "Likely present or will self-establish given red clay disturbed soil conditions; check roadsides, fence lines, and any previously disturbed areas on the property. One of the most drought-tolerant plants likely to appear naturally in this landscape given the site's compacted clay and construction-disturbed conditions. Deer pressure from the east corridor is not a concern — dock is reliably unpalatable."
+    }
+  }
+}

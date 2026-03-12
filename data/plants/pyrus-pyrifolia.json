@@ -1,0 +1,160 @@
+{
+  "id": "pyrus-pyrifolia",
+  "name": {
+    "commonName": [
+      "Asian Pear",
+      "Sand Pear",
+      "Apple Pear",
+      "Nashi Pear"
+    ],
+    "latinName": "Pyrus pyrifolia",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "East Asia — China, Japan, Korea; cultivated for over 3,000 years; naturalized in parts of the eastern United States in disturbed areas, old homesites, and woodland edges",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Naturalized in scattered locations across the eastern United States, particularly in the mid-Atlantic and Southeast, where old plantings have produced volunteer seedlings in disturbed ground, woodland edges, and old homesites. Not widely established as a wild population anywhere in the US."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive anywhere in the lower 48 US states. Naturalized seedlings occasionally appear near old plantings but do not spread aggressively or form dense stands. Not listed on any state noxious weed list or the federal noxious weed list. Unlike Pyrus calleryana (Callery pear), which is aggressively invasive across much of the eastern US, Pyrus pyrifolia does not produce the prolific bird-dispersed fruit that drives Callery pear invasion — do not confuse the two species."
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9; performs well across the full range with appropriate cultivar selection"
+    }
+  },
+  "description": {
+    "height": "Standard — 25-30'; semi-dwarf (recommended) — 12-15'; dwarf — 8-10'. Semi-dwarf on a size-controlling rootstock is recommended for home food forest scale.",
+    "spread": "Semi-dwarf — 12-15'",
+    "spacing": "Semi-dwarf — 12-15' apart; always plant at least two compatible cultivars (or one Asian pear + one compatible European pear) for reliable cross-pollination",
+    "growthRate": "Moderate; begins fruiting years 3-5 depending on rootstock and cultivar; generally comes into production slightly faster than European pear",
+    "timeToMaturity": "First fruit years 3-5; full production years 6-10",
+    "lifespan": "Long-lived — 50-75+ years; comparable to European pear",
+    "deciduousEvergreen": "Deciduous — spreading, somewhat rounded canopy; attractive white spring bloom; glossy green summer foliage; decent yellow to orange-red fall color; attractive winter branching structure",
+    "winterInterest": "Moderate — spreading branch structure is architecturally pleasant; less strongly upright than European pear"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6 hours, 8+ preferred; fruit quality, sugar development, and disease resistance all decline in shade",
+    "water": "Medium; consistent moisture during fruit development (July-September); established trees have moderate drought tolerance but fruit size and quality suffer in dry seasons; avoid waterlogged conditions",
+    "drainagePreference": {
+      "description": "Well-drained preferred; adapts to clay-loam better than many fruit trees; standing water is damaging; avoid low-lying frost pockets and wet areas. Trees on Pyrus betulaefolia rootstock handle heavier soils better than those on OHxF rootstocks.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate to good — adapts to clay-loam soils better than many fruit trees, particularly when grafted on Pyrus betulaefolia rootstock, which is specifically selected for heavier soil tolerance. Pure heavy clay without amendment will restrict root development and hold excess moisture, increasing risk of root rot and poor anchorage. Amend with compost at planting to break up the clay structure in the root zone. Avoid compacted clay where water pools after rain. In clay-heavy regions (eastern US, Midwest, Pacific NW), raised mounding or berming at planting improves drainage around the root crown."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Loam preferred; adapts reasonably well to clay-loam with compost amendment at planting; avoid highly compacted, waterlogged, or extremely sandy soils",
+    "rootCharacter": "Deep taproot with wide-spreading lateral roots; well-anchored on standard rootstock; semi-dwarf trees are adequately anchored in loam to clay-loam soils; roots are not considered invasive"
+  },
+  "bloom": {
+    "bloomTime": "Mid to late April in Zone 6-7; slightly later than European pear; this modest delay reduces (but does not eliminate) late frost risk compared to Pyrus communis; later than peach, similar to apple. In Zone 8-9, bloom may occur in March.",
+    "bloomDescription": "Dense corymbs of white, 5-petaled flowers, each approximately 1\" wide; bloom is profuse and showy, appearing with or just before leaf emergence; a beautiful spring-flowering tree rivaling European pear in floral display",
+    "fragrance": "Lightly fragrant; sweet and fresh; generally more subtle than apple blossom",
+    "flowerSex": "Hermaphrodite; most cultivars require a cross-pollinator for reliable fruit set",
+    "pollination": "Requires cross-pollination in most cases — plant two different Asian pear cultivars, or one Asian pear + a compatible European pear (Bartlett / Williams is a reliable cross-pollinator for most Asian pear cultivars); bees are the primary pollinators; plant within 50-100' of the partner tree for reliable fruit set"
+  },
+  "yield": {
+    "edibleParts": "Fruit — fresh eating (primary use), sliced into salads, Asian cooking, juicing, light canning; unlike European pear, Asian pear does NOT need to ripen off the tree — it is picked ripe and eaten immediately, crisp and juicy; fruit is round to apple-shaped with a firm, crunchy, refreshing texture and sweet, mild flavor; does not have the buttery-soft texture of European pear — this is a feature, not a flaw",
+    "harvestSeason": "Late July through October depending on cultivar and zone; most Zone 6-7 cultivars ripen August-September; in Zone 8-9, harvest may begin in late July",
+    "medicinalUses": "High in fiber, vitamin C, and polyphenols; pectin content supports digestive health; anti-inflammatory flavonoids; sorbitol content (as with all pears) provides mild digestive regulation",
+    "craftOtherYield": "Pear wood — dense, fine-grained, good for carving, turning, and smoking meat; prunings make excellent firewood and smoking wood; can be used for perry (pear wine/cider), though Asian pear perry is less common than European pear perry"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; seeds contain trace amygdalin (cyanogenic glycoside) as with all Rosaceae — do not eat large quantities of seeds; the fruit is entirely safe and widely consumed",
+    "toxicityAnimals": "Fruit safe for dogs and horses in moderate amounts; seeds are a concern only in very large quantities; do not allow animals to gorge on fallen fermented fruit",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy (standard); Canopy/Tall Shrub (semi-dwarf)"
+    },
+    "roles": [
+      "Food (fruit — primary canopy crop)",
+      "Wildlife Support",
+      "Habitat Structure",
+      "Aesthetic (spring bloom, attractive rounded canopy)",
+      "Timber/Wood (prunings and eventual wood)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base — most important guild companion)",
+      "chives and garlic (pest deterrent)",
+      "nasturtium (aphid diversion trap crop)",
+      "white clover (nitrogen fixer in understory)",
+      "yarrow (insectary)",
+      "daffodils and alliums (deer deterrent ring)",
+      "alpine strawberry and creeping thyme as ground covers; standard food forest guild companions apply; pairs particularly well with a European pear pollinator in a mixed-species pear guild"
+    ],
+    "antagonists": [
+      "Fire blight (Erwinia amylovora) — present but significantly less severe than in European pear for most Asian pear cultivars; cultivar selection still matters — see Cultivar Notes. Cedar-apple rust (Gymnosporangium) — Asian pear has some susceptibility; Eastern red cedars (Juniperus virginiana) are common in eastern US hedgerows; choose resistant cultivars and avoid planting near cedars where possible. Do not plant near walnut (Juglans) — juglone toxicity risk. Avoid excessive nitrogen fertilization",
+      "which promotes succulent growth susceptible to fire blight."
+    ],
+    "coppiceable": "No; trained as an open-center or modified central leader tree; responds well to formative pruning; espalier training is possible and traditional in Japan"
+  },
+  "wildlife": {
+    "attracts": "Bees (important mid-spring bloom when forage is building), birds (fruit consumed by many species; fallen fruit is eagerly taken), beneficial insects attracted to nectar",
+    "hostPlantFor": "Pyrus species host numerous native Lepidoptera including the Promethea moth (Callosamia promethea), Viceroy butterfly (Limenitis archippus), and several other moths; host plant value is moderate — comparable to European pear, less than apple",
+    "nestingHabitat": "Mature trees provide nesting and roosting structure for birds; spreading canopy used by a variety of species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate to poor — deer readily browse young Asian pear trees, especially in spring and fall; young trees must be protected with wire cages during establishment (first 3-5 years); mature trees with established bark are more resistant; plant guild deterrents (alliums, daffodils) around the drip line"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; fruit quality and size decline significantly in drought years; consistent water during fruit swell (July-August) is important for a good crop"
+    },
+    "other": "Bloom timing (slightly later than European pear) reduces but does not eliminate late frost risk; siting on slightly elevated ground or a north-facing slope can delay bloom by a few more days; avoid low-lying frost pockets; somewhat better adapted to humid conditions than European pear due to stronger disease resistance in most cultivars"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — annual pruning, fire blight monitoring (though less intensive than European pear for resistant cultivars), and harvest management; generally somewhat easier to manage than European pear in humid conditions",
+    "pruningNotes": "Annual late-winter pruning (late February-March, before bud break) is the primary maintenance task. Train to an open-center (vase) or modified central leader form — open center is preferred for airflow, which reduces fire blight and disease pressure. Remove crossing branches, watersprouts (vigorous vertical shoots from scaffold branches), and any dead or diseased wood. Thin to maintain an open canopy with good light and airflow throughout. In June, thin fruit clusters to one fruit per cluster spaced 4-6\" apart to improve fruit size and reduce biennial bearing tendency. Fire blight management: monitor for the characteristic \"shepherd's crook\" wilting of shoot tips after warm, wet spring weather; cut out infected material immediately, cutting 12-18\" below the last visibly infected tissue; sterilize pruning tools between every cut with 10% bleach or 70% alcohol solution. Do not compost fire blighted wood — bag and dispose. Unlike European pear, Asian pear fruit is ripened on the tree and does not need off-tree conditioning — harvest when the fruit reaches full color, size, and a slight give at the stem end.",
+    "propagationMethods": [
+      "Grafting onto rootstock (the standard method; rootstock determines ultimate tree size and site adaptability); budding; seeds produce variable seedlings not true to cultivar and are not used for production"
+    ]
+  },
+  "cultivarNotes": "**Fire blight resistance and flavor are the key selection criteria across the lower 48.** Most Asian pear cultivars offer meaningfully better fire blight resistance than standard European pear varieties, which is a significant advantage in humid climates. Cultivar selection still matters — some are more resistant than others. Fire blight pressure increases significantly in the humid eastern US and Gulf Coast states; gardeners in drier western climates have more flexibility in cultivar choice.\n**Zone 5-6 (northern tier, upper Midwest, northern New England, mountain West):**\n**'Hosui'** — mid-August harvest; golden-brown russet skin; rich, sweet, honeyed flavor — considered one of the best-flavored Asian pears; heavy producer; moderate fire blight resistance; widely available; Zone 5-9. A top recommendation for flavor quality in any zone.\n**'Shinseiki'** — mid-August harvest; yellow-green smooth skin; crisp, juicy, mild-sweet flavor; very good fire blight resistance — one of the more disease-resistant cultivars; reliable and heavy-bearing; widely available; Zone 5-9. Excellent choice for humid sites.\n**'Chojuro'** — late August-September harvest; medium-brown russet skin; firm, dense, nutty-butterscotch flavor — distinctive and rich; very good disease resistance overall; one of the most reliable cultivars for humid conditions; Zone 5-9. Somewhat less commonly available than Hosui or Shinseiki but worth seeking out.\n**Zone 6-7 (mid-Atlantic, central Midwest, Pacific NW):**\nAll of the above perform well. This is the sweet spot for Asian pear cultivation in the US — warm enough for reliable fruit development, cold enough for adequate chill hours. Fire blight is a real concern in humid eastern sites within this range — prioritize resistant cultivars (Shinseiki, Chojuro) as the backbone, with Hosui for flavor.\n**'20th Century' ('Nijisseiki')** — mid-August harvest; pale yellow-green, smooth-skinned; sweet, delicate, very juicy — considered the benchmark Asian pear flavor by many; moderate to poor fire blight resistance — the most susceptible of the commonly recommended cultivars. Only plant at well-drained, open, airy sites with good airflow. Best suited to drier climates (Pacific NW, mountain West) or very well-managed sites in the humid East. Not recommended as the primary cultivar on humid, sheltered, or fire-blight-prone sites.\n**Zone 8-9 (Deep South, Gulf Coast, desert Southwest, California):**\nAsian pears require 300-600 chill hours depending on cultivar — most cultivars get adequate chilling in Zone 8 but may struggle in Zone 9a-9b coastal areas with very mild winters. In the Deep South and Gulf Coast, fire blight pressure is intense — only the most resistant cultivars (Shinseiki, Chojuro) should be planted. In the arid West and California, fire blight is less of a concern and cultivar choice can prioritize flavor.\n**Pollination pairing:** Best combinations are Hosui + Shinseiki (complementary flavor profiles, both August, both widely available, good resistance pairing), or Shinseiki + Chojuro (both resistant, slightly staggered harvest). European pear 'Bartlett' (Williams) blooms at a compatible time and is an effective cross-pollinator for most Asian pear cultivars — useful if a European pear is already in the garden or guild.\n**Rootstock notes:** Asian pears are typically grafted onto Pyrus betulaefolia (birchleaf pear) rootstock, which is well-suited to heavier soils, provides good anchorage, and has solid cold hardiness to Zone 5. OHxF rootstocks (used for European pear) can also be used for Asian pear and offer fire blight resistance at the rootstock level. Ask your nursery which rootstock is being used — it matters for final tree size and soil adaptability.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "home orchard",
+      "permaculture guild anchor",
+      "edible landscape specimen (excellent spring bloom and attractive rounded form)"
+    ],
+    "designPlacement": "Plant as a canopy layer fruit tree in a food forest or home orchard, with two compatible cultivars (or one Asian pear + a compatible European pear) spaced 12-15' apart on semi-dwarf rootstock. Site in full sun with good airflow — this is the most important factor for disease management. Avoid low-lying frost pockets, poorly drained areas, and sites near Eastern red cedars (Gymnosporangium alternate host) or walnut (juglone). Build a standard food forest guild around each tree: comfrey at the base, alliums and daffodils as a deer deterrent ring, yarrow and clover in the understory, nasturtium as a trap crop. Protect young trees from deer with wire cages for the first 3-5 years. Pairs naturally with a European pear in a mixed pear guild, combining different texture and flavor profiles and extending the harvest window.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyrus_pyrifolia",
+    "inaturalist": "https://www.inaturalist.org/taxa/122783-Pyrus-pyrifolia",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — not a concern.",
+      "drainage": "The red clay at the Hegins site is workable for Asian pear if amended at planting — dig a wide hole (3x root ball width), backfill with a compost-clay mix, and mound slightly to keep the root crown above grade. Do not plant in any low spot where water pools after rain. Pyrus betulaefolia rootstock is the better choice for this soil. The food forest area should provide adequate drainage if sited on slightly elevated ground.",
+      "soil": "The Hegins red clay will need compost amendment at planting — a wide planting hole with compost-clay backfill is the standard approach. Not a raised-bed crop; this is a full-size tree that goes in the ground. Soil improvement at the planting site is sufficient.",
+      "cultivarNotes": "Hosui + Shinseiki is the recommended pairing — Shinseiki provides strong fire blight resistance as the reliable backbone, Hosui provides exceptional flavor. Both ripen mid-August, simplifying harvest timing. Chojuro is an excellent alternative or third tree if space allows, extending harvest into September. Avoid 20th Century as a primary cultivar in humid central PA conditions. Use Pyrus betulaefolia rootstock for the clay soils at this site.",
+      "designPlacement": "Food forest canopy tree — not assigned to any named bed section (Sections A/B/C have height limits or conditions unsuitable for a full tree). Plant in the food forest area with full sun exposure and good airflow. Site on slightly elevated ground to avoid the drainage issues present in low spots on this property. Pair with a European pear (Bartlett) if one is planned for the mixed pear guild. Wire cage protection is essential during establishment given the active deer corridor from the east.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is the primary establishment challenge — wire cages are non-negotiable for the first 3-5 years. The red clay soil requires amendment at planting but is workable with Pyrus betulaefolia rootstock. Avoid any low-lying area where water pools after heavy rain. Eastern red cedars (Juniperus virginiana) are common in PA hedgerows nearby — site Asian pears as far from them as practical to reduce cedar-apple rust pressure. Fire blight is a real but manageable concern in humid central PA — prioritize resistant cultivars and maintain open-center pruning for airflow."
+    }
+  }
+}

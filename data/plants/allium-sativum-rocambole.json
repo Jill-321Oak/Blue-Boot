@@ -1,0 +1,159 @@
+{
+  "id": "allium-sativum-rocambole",
+  "name": {
+    "commonName": [
+      "Garlic",
+      "Rocambole Garlic (hardneck type)"
+    ],
+    "latinName": "Allium sativum var. ophioscorodon (Ophioscorodon group — hardneck garlic; Rocambole subtype)",
+    "family": "Amaryllidaceae (formerly Alliaceae)"
+  },
+  "range": {
+    "nativeRange": "Central Asia (origin likely Kazakhstan/Kyrgyzstan region); cultivated globally for over 7,000 years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; cultivated throughout the US; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; a cultivated annual/biennial that does not establish in the wild"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 for hardneck types; Zone 3 with good mulching"
+    }
+  },
+  "description": {
+    "height": "18-30\" when scapes form; 12-18\" foliar height",
+    "spread": "6-8\" per bulb; plant in blocks",
+    "spacing": "6-8\" apart; 12\" between rows",
+    "growthRate": "Planted in fall; grows slowly through winter; rapid growth in spring; harvest July",
+    "timeToMaturity": "9 months from planting to harvest (fall planting to summer harvest); scapes harvestable in June",
+    "lifespan": "Annual crop — replant each fall; save the largest cloves for replanting to improve your local strain over time. OR Perennial - hardneck varieties: leave in the ground and a new bulb will grow from each clove.",
+    "deciduousEvergreen": "Annual — foliage dies back naturally as the bulb matures; this is the harvest signal",
+    "winterInterest": "Green shoots may emerge in mild periods; dormant in deep winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; reduces yield in shade",
+    "water": "Medium during active growth; reduce watering as harvest approaches (May onward) — wet conditions at harvest invite fungal rot; good drainage critical for bulb quality",
+    "drainagePreference": {
+      "description": "Well-drained essential — garlic bulbs rot in poorly-drained, wet soil; this is the primary challenge in clay-heavy kitchen strips; raise bed, amend with compost, or plant on a slight slope to improve drainage for garlic",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; garlic bulbs need loose, well-drained soil to develop properly; clay causes compaction around developing bulbs, waterlogging risk that promotes rot, and difficulty at harvest; raised beds are strongly recommended for heavy-soil gardeners wanting quality garlic"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Light, well-drained loam preferred; heavy clay requires amendment with compost and sharp sand; loose soil allows bulbs to expand to full size",
+    "rootCharacter": "True bulb (comprised of multiple cloves); each clove produces one plant; fibrous roots from the basal plate"
+  },
+  "bloom": {
+    "bloomTime": "June (scapes form in hardneck types); flowers would form July-August if scapes not removed",
+    "bloomDescription": "Scapes are curling green flower stalks that emerge from the center of hardneck garlic; cutting scapes diverts energy to bulb development and the scapes themselves are a culinary delicacy. If allowed to develop fully, globular flower heads produce small bulbils rather than seeds.",
+    "fragrance": "Strongly aromatic foliage and bulb — the characteristic garlic scent",
+    "flowerSex": "Hermaphrodite; mostly sterile in cultivated garlic — reproduces vegetatively",
+    "pollination": "Insect-pollinated if flowers develop; primarily vegetative reproduction"
+  },
+  "yield": {
+    "edibleParts": "Bulb (primary harvest — cloves used in cooking; raw garlic has more potent medicinal compounds than cooked); scapes (the curling stems of hardneck types — one of the garden's best early summer treats; mild garlic flavor, excellent grilled, in pesto, or sautéed); green tops (usable like chives while growing); bulbils (small cloves in the flower head — edible; can be planted)",
+    "harvestSeason": "Scapes June; bulbs July (when the bottom 3-4 leaves have yellowed); cure bulbs for 3-4 weeks in a dry, airy location before storage",
+    "medicinalUses": "One of the most extensively studied medicinal plants — allicin (released when garlic is crushed) has documented antibacterial, antifungal, antiviral, and cardiovascular benefits; lowers LDL cholesterol and blood pressure; immune-stimulating; antimicrobial for gut pathogens; arguably the most clinically supported of all herbal medicines; raw garlic (crushed and allowed to sit before consumption) retains the most active allicin",
+    "craftOtherYield": "Garlic braid (cured softneck garlic; hardneck types have stiffer stems); garlic-infused oil; fermented garlic"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic in culinary quantities; very large quantities can cause GI irritation; garlic supplements at high doses may interact with blood-thinning medications",
+    "toxicityAnimals": "TOXIC to dogs and cats — allium compounds cause hemolytic anemia; even small amounts consumed regularly cause cumulative damage; never feed garlic to dogs or cats; toxic to horses and livestock; this is a significant caution if pets access the garden",
+    "allelopathy": "Garlic root exudates suppress fungal pathogens and some soil bacteria — a positive effect as a companion plant; the pest-deterrent and disease-suppressing effects are well-documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere"
+    },
+    "roles": [
+      "Food (bulb and scapes — high-priority culinary crop)",
+      "Medicinal (one of the most important medicinal plants in the garden)",
+      "Pest Confuser (companion planting throughout the garden — root exudates deter pests and suppress pathogens)",
+      "Dynamic Accumulator (sulfur compounds)",
+      "Insect Deterrent"
+    ],
+    "companionPlants": [
+      "Roses (garlic at the base of roses is a classic permaculture companion — deters aphids and fungal disease)",
+      "fruit trees (plant in guild understory)",
+      "tomatoes",
+      "brassicas; essentially beneficial throughout the food garden"
+    ],
+    "antagonists": [
+      "Peas and beans — garlic and other alliums inhibit legume growth; do not interplant with legumes; be aware when planting near Trifolium (clover) ground cover"
+    ],
+    "coppiceable": "Harvest scapes in June (the curling green stems) — this is the \"coppice\" equivalent for garlic; removing scapes redirects energy to bulb development; it is both a harvest and a management practice"
+  },
+  "wildlife": {
+    "attracts": "Minimal direct wildlife value; the strong scent deters many animals",
+    "hostPlantFor": "Not a host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — all Allium species are strongly avoided by deer; garlic's strong scent is a highly effective deer deterrent; planting garlic around the perimeter or within other beds provides some protection to neighboring plants"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate during active growth; needs moisture when growing vigorously in spring"
+    },
+    "other": "Extremely cold hardy when properly mulched; hardneck types are well-adapted to cold winters; mulch with straw after planting in October-November to protect through winter; unmulched bulbs survive Zone 6a but mulching improves spring growth"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — primarily the planting and harvest cycle",
+    "pruningNotes": "Cut scapes in June when they form 1-2 full curls; use immediately or refrigerate for several weeks. Harvest bulbs in July when the bottom 3-4 leaves have turned yellow-brown; do not wait until all leaves die or bulb wrappers will deteriorate. Cure in a dry location with good airflow for 3-4 weeks before storage. Save the largest, best-formed bulbs for replanting to continuously improve your strain. Break up the planting area and replant each fall.",
+    "propagationMethods": [
+      "Clove planting (plant individual cloves point-up, 2-3\" deep, in fall; each clove becomes a full bulb by the following July); bulbils (small cloves from the scape head — these take 2-3 years to produce a full-sized bulb but can be used to multiply stock)"
+    ]
+  },
+  "cultivarNotes": "Hardneck vs. Softneck by Region: Hardneck garlic (including Rocambole) requires a period of cold vernalization to form proper bulbs — it is the correct choice for Zones 3-6 (cold winters). Softneck garlic (Artichoke and Silverskin types) does not require cold vernalization and is better suited to Zones 7-9 (mild winters) or climates without reliable winter cold; softneck also stores significantly longer (6-12 months vs. Rocambole's 3-6 months). Growers in Zones 5-7 can grow either; growers in Zones 3-5 should grow hardneck exclusively; growers in Zones 8-9 should grow softneck unless they can provide cold stratification.\nRocambole Type: Rocambole types have loose, tan-purple wrappers, rich complex flavor, and easy-to-peel cloves — widely considered the best-flavored garlic type. The tradeoff is shorter storage life (3-6 months) and a requirement for cold winters to bulb properly.\nRecommended Rocambole Varieties (Zones 4-7): **'Spanish Roja'** (classic Rocambole, complex flavor, Zone 4-9 — one of the most recommended for flavor); **'German Red'** (reliable, stores reasonably well for a Rocambole); **'Killarney Red'** (high-yielding, good flavor). Source from a reputable garlic supplier for planting stock — grocery store garlic is often treated to inhibit sprouting.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden",
+      "food forest understory",
+      "companion planting throughout the garden",
+      "perennial herb bed"
+    ],
+    "designPlacement": "Kitchen-adjacent herb strip — the most practical placement for regular kitchen access; plant a bed of 50-100 cloves each fall for an annual harvest that covers much of the household's garlic needs; drainage is the key challenge in clay soils — amend the garlic bed with compost and avoid low-lying areas; also include garlic cloves in fruit tree guild understories as companion plants",
+    "acquisitionStatus": "To source (order from garlic suppliers September for fall planting; do not rely on grocery store garlic)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Garlic",
+    "inaturalist": "https://www.inaturalist.org/taxa/75363-Allium-sativum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257077"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; cultivated crop",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised beds strongly recommended; in-ground planting with deep compost amendment is a fallback but raised beds produce far superior bulb quality",
+      "soil": "Raised beds preferred; in-ground with heavy compost amendment is secondary option",
+      "cultivarNotes": "Rocambole/hardneck garlic is ideal for Zone 6a — the cold winters provide the vernalization needed for proper bulbing; plant in October, harvest July. Recommended varieties for Zone 6a: 'Spanish Roja', 'German Red', 'Killarney Red', or any reputable Rocambole strain sourced from a mid-Atlantic or northeastern garlic supplier; these have been selected for performance in Zone 5-7 conditions.",
+      "designPlacement": "Raised beds in Section B kitchen garden are the preferred placement — the Hegins red clay makes in-ground garlic difficult; plant in October for Zone 6a timing; harvest July; raised beds allow the drainage and soil looseness garlic requires; Section B's kitchen-adjacent position makes it the logical garlic home",
+      "siteObservations": null
+    }
+  }
+}

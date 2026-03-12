@@ -1,0 +1,161 @@
+{
+  "id": "cydonia-oblonga",
+  "name": {
+    "commonName": [
+      "Quince",
+      "Common Quince"
+    ],
+    "latinName": "Cydonia oblonga",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Southwest Asia — Turkey, Iran, Caucasus region; one of the oldest cultivated fruit trees, grown for over 4,000 years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced and widely cultivated; naturalized in scattered locations in the Southeast and Pacific Coast but not invasive"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No documented invasive status in any US state; does not spread aggressively; not on any state noxious weed or invasive species lists"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "10-20' (standard); 6-12' (dwarf/trained); manageable to 5-6' with regular pruning as an espalier or bush form",
+    "spread": "10-15' (can be trained narrower as an espalier)",
+    "spacing": "12-15' for standard; 6-8' for trained/compact forms",
+    "growthRate": "Moderate; begins fruiting in years 3-5",
+    "timeToMaturity": "First fruit in years 3-5; full production in years 7-10",
+    "lifespan": "Very long-lived; 50-100+ years; quince trees in old farmsteads persist for generations",
+    "deciduousEvergreen": "Deciduous — attractive lobed leaves through summer; beautiful fall color (golden-yellow); bare in winter with distinctive gnarled character",
+    "winterInterest": "Moderate — gnarled branching habit is ornamentally striking in winter; can have some persistent fruit if not harvested"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred (6+ hours); tolerates part shade with reduced fruiting",
+    "water": "Medium; drought tolerant once established; tolerates wetter conditions better than most fruit trees",
+    "drainagePreference": {
+      "description": "Adaptable — notably tolerant of heavier soils and moist conditions; performs in clay-loam with adequate drainage; one of the more soil-tolerant of the common fruit trees",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — among the most clay-tolerant of fruiting trees; will perform in heavy soils that exclude apple or pear, provided drainage is not waterlogged; benefits from compost incorporation at planting in compacted clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; loam to clay-loam; amend with compost at planting",
+    "rootCharacter": "Moderately deep fibrous root system; less extensive than apple; relatively non-invasive"
+  },
+  "bloom": {
+    "bloomTime": "Late April to May (after peach and pear, before apple finishes) — blooms late enough to mostly avoid late frosts; a key advantage",
+    "bloomDescription": "Large 1.5-2\" white to pale pink single flowers; beautiful and fragrant; among the most ornamental spring-flowering fruit tree flowers",
+    "fragrance": "Flowers lightly fragrant; the fruit is intensely and distinctively aromatic — one of the most fragrant of all fruits; a ripe quince perfumes an entire room",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Mostly self-fertile; some cultivars benefit from a cross-pollinator for best yield; generally, one tree is sufficient for a home garden harvest"
+  },
+  "yield": {
+    "edibleParts": "Fruit (not eaten raw in most cases — extremely astringent and hard when raw; transforms completely when cooked — tart flavor mellows to a rich, complex, floral sweetness; excellent for quince paste/membrillo, quince jelly, quince pie, and poached quince; pairs exceptionally well with cheese, pork, and game; one of the finest and most underused culinary fruits in temperate cooking)",
+    "harvestSeason": "October-November; harvest after first frost improves flavor; fruit should be golden-yellow when ripe; store in a cool, airy space — the aroma improves in storage",
+    "medicinalUses": "Traditional digestive remedy; quince seed tea used for sore throat; high in pectin (natural gelling agent for preserves); high in vitamin C; tannins in raw fruit have astringent/anti-diarrheal properties; significant traditional use in European and Middle Eastern folk medicine",
+    "craftOtherYield": "Quince paste (membrillo) — a classic preserve used with cheese; quince jelly (extremely high pectin content makes firm jelly without added pectin); quince wine; fragrant stored fruit as a natural air freshener"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; the seeds contain trace amygdalin (a cyanogenic glycoside) in common with all Rosaceae — do not eat seeds in large quantities, but incidental consumption is not a concern",
+    "toxicityAnimals": "Generally safe; avoid feeding large quantities of seeds (amygdalin)",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy / Shrub (depending on training)"
+    },
+    "roles": [
+      "Food (fruit — specialty culinary fruit with high value and long storage)",
+      "Medicinal (minor)",
+      "Beauty (spring flowers, fall color, winter form)",
+      "Nitrogen Cycle (pruning biomass)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base)",
+      "chives and garlic (pest deterrent companions)",
+      "low ground covers (thyme, alpine strawberry); compatible with standard fruit tree guild companions"
+    ],
+    "antagonists": [
+      "Susceptible to fire blight (Erwinia amylovora) — avoid excessive nitrogen fertilization which stimulates lush",
+      "susceptible growth; prune out any fire blighted branches immediately; also susceptible to quince leaf blight (Diplocarpon mespili) and powdery mildew in humid conditions — plant with good airflow"
+    ],
+    "coppiceable": "No, but can be pruned to a manageable size; responds well to formative pruning to an open-center bush form; espalier training possible against a south-facing wall — this keeps the tree within height limits and maximizes heat for fruit ripening"
+  },
+  "wildlife": {
+    "attracts": "Bees (good spring pollinator plant — large accessible flowers); birds eat any fruit left on the tree",
+    "hostPlantFor": "Codling moth and other Rosaceae fruit pests are shared with apple — integrated pest management applies",
+    "nestingHabitat": "Mature trees provide nesting structure for birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — quince is generally less targeted than apple or pear; the dense, gnarly branching structure is not deer-friendly; not a primary browse target"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — better drought tolerance than most temperate fruit trees"
+    },
+    "other": "Tolerates heavier soils than most fruit trees; relatively disease-resistant compared to apple; late bloom avoids most late frosts across much of Zone 5-9; good choice for a fruiting tree with lower maintenance demands across the lower 48"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — less intensive than apple",
+    "pruningNotes": "Prune to an open-center vase form to maximize airflow and light penetration. Remove crossing branches and watersprouts. Annual maintenance pruning in late winter (February-March). Do not over-fertilize — excess nitrogen promotes fire blight. Train to desired form in the first 3-5 years; minimal pruning needed once the tree is established. Cut out any fire blighted branches immediately, cutting 12\" below visible infection and disinfecting tools between cuts.",
+    "propagationMethods": [
+      "Cuttings (hardwood cuttings in fall — moderate success)",
+      "grafting onto quince rootstock or other Rosaceae",
+      "seeds (viable but variable; 2-3 years to fruiting)"
+    ]
+  },
+  "cultivarNotes": "Quince is reliably cold-hardy through Zone 5 and thrives in the heat of Zone 9 in the lower 48. In the humid Southeast (Zones 7-9), fire blight pressure is higher — choose blight-resistant cultivars and prioritize airflow. In hot, dry climates (Southwest Zones 7-9), quince excels due to drought tolerance; fruiting quality is excellent with summer heat. In northern zones (5-6), late bloom (May) is a key advantage for avoiding frost damage.\nCultivar options across the lower 48:\n- **'Pineapple'** — American heirloom; pineapple-like flavor when cooked; prolific; Zone 5-9; widely available; good all-regions choice\n- **'Smyrna'** — large fruit; excellent flavor; one of the most productive for preserves; performs well Zones 6-9\n- **'Champion'** — large, mild flavor; good for preserves; highly ornamental flowers; Zone 5-9\n- **'Aromatnaya'** — Russian variety; unusually can be eaten fresh when fully ripe; yellow flesh; excellent flavor; Zone 5-8; good choice for northern zones\n- **'Orange'** — large fruit; strong flavor; widely grown; good performance in Zones 6-9\n- **'Van Deman'** — large, aromatic; good for humid-summer regions; Zone 5-9",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food garden specimen",
+      "orchard",
+      "south-facing wall espalier",
+      "cottage garden feature",
+      "edible landscape"
+    ],
+    "designPlacement": "Quince is adaptable across the lower 48 as a low-maintenance fruiting tree or large shrub. Plant in full sun with good airflow. Ideal against a south- or west-facing wall, fence, or structure where reflected heat aids ripening. Suitable for open-center bush form in beds, hedgerows, food forests (canopy/sub-canopy), or cottage-style edible landscapes. Espalier training against a wall is a classic and space-efficient treatment. Works as a specimen or anchor plant in a mixed edible border.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Quince",
+    "inaturalist": "https://www.inaturalist.org/taxa/82853-Cydonia-oblonga",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f348"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Red clay at Hegins is workable for quince; amend planting hole with compost; raised mound planting optional if drainage is poor; south-facing slope aspect will aid drainage and heat accumulation",
+      "soil": "Red clay, compacted construction-disturbed soil at Hegins — amend planting hole generously; quince handles this better than most fruit trees but will establish faster with organic matter incorporation",
+      "cultivarNotes": "'Aromatnaya' is the top pick for hardiness and its unique fresh-eating quality. 'Pineapple' is a reliable backup with strong culinary performance. Either will succeed in a south-facing warm microclimate. Fire blight is a concern in humid PA summers — maintain good airflow and avoid excess nitrogen.",
+      "designPlacement": "Section C (south-facing back porch bed) is the primary placement. The warm south-facing microclimate suits this Mediterranean-origin fruit and maximizes ripening potential in Zone 6a. Espalier training against the south wall would keep the tree within the 5' height limit while maximizing heat; alternatively, train as a multi-stem open bush at 6-8'. Deer pressure from the east corridor is lower here than in exposed front beds, and quince is not a primary deer target.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "borago-officinalis",
+  "name": {
+    "commonName": [
+      "Borage",
+      "Starflower"
+    ],
+    "latinName": "Borago officinalis",
+    "family": "Boraginaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region (southern Europe, North Africa, western Asia); widely naturalized across temperate Europe and North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Introduced and widely naturalized in disturbed areas, roadsides, and waste places across much of North America, particularly in the eastern and western states. Frequently escapes from cultivation but does not establish aggressively in natural plant communities."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive or noxious in any US state. Borage self-seeds persistently in garden settings — once introduced, volunteers appear annually without further sowing — but it does not spread aggressively into natural areas or displace native vegetation. The USDA PLANTS database lists it as introduced and naturalized but not regulated. The self-seeding habit is a garden management consideration, not an ecological threat."
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Hardy annual; grown in all zones across the lower 48 states. Performs best in cool to moderate temperatures; in Zone 8+ it tends to bolt quickly in summer heat and is better grown as a fall-through-spring annual. Self-sows reliably in Zone 5 and warmer."
+    }
+  },
+  "description": {
+    "height": "24-36\" (2-3 feet); upright and somewhat sprawling at maturity",
+    "spread": "12-24\" per plant; grows as a loose, branching mound",
+    "spacing": "12-18\"; allow generous room — plants become large and coarse by midsummer",
+    "growthRate": "Fast annual; direct sow to first bloom in approximately 50-60 days",
+    "timeToMaturity": "Blooms begin approximately 50-60 days from direct sow; flowers continuously once established",
+    "lifespan": "Hardy annual; completes its life cycle in one season, but self-seeds so aggressively that a single planting establishes what is effectively a permanent colony; expect volunteers every year thereafter without further sowing",
+    "deciduousEvergreen": "Annual — frost-killed; self-seeded volunteers emerge the following spring",
+    "winterInterest": "None; frost-killed in fall; overwintering seeds germinate in spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade but blooms most prolifically in full sun",
+    "water": "Low to medium; drought-tolerant once established; the deep taproot enables access to moisture well below the surface; does not require supplemental irrigation in normal humid-climate summers; gardeners in the arid West (Zone 7+ desert regions, high plains) should plan for regular irrigation, particularly through summer",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates a moderate range of drainage conditions better than most Mediterranean herbs. Avoid waterlogged or chronically saturated soils — the fleshy taproot is susceptible to rot in anaerobic conditions. Does not require sandy or especially fast-draining soil; average garden drainage is fully adequate.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. The deep, fleshy taproot navigates clay soils better than most Mediterranean herbs, which typically fail in heavy clay. Borage establishes successfully in unamended clay as long as drainage is not severely impaired (i.e., no standing water). In compacted clay the taproot will penetrate and gradually improve soil structure — borage is legitimately useful as a clay-busting dynamic accumulator. Waterlogged clay remains problematic. Basic amendment (compost incorporated at planting) improves establishment speed and first-year performance but is not strictly required for success."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable; average to lean soil is preferred. Excess fertility produces overly lush, floppy plants with reduced bloom density. Sandy loam to loam is ideal. Tolerates clay soils well relative to other Mediterranean herbs. Avoid waterlogged, heavy, or overly amended soils that push excessive vegetative growth.",
+    "rootCharacter": "Deep, fleshy taproot that drives directly down into the soil; acts as a dynamic accumulator, breaking up compacted layers and drawing up minerals (especially silica and potassium) from depth; does not transplant after germination — direct sow in place"
+  },
+  "bloom": {
+    "bloomTime": "Late spring through early fall; approximately June-September in Zone 6; earlier onset in warmer zones, shorter duration in hot-summer climates (Zone 8+) where heat triggers rapid senescence",
+    "bloomDescription": "Star-shaped, five-petaled flowers approximately 3/4\" across; the most characteristic and striking blue in the annual garden — a brilliant, clear, true cobalt or sky blue (rarely white); the petals reflex backward elegantly, giving each flower a distinctive star form; flowers droop slightly at first and rise to face outward as they open; clusters of buds and open flowers appear simultaneously along branching stems, creating continuous display; the contrast of the vivid blue flowers against the coarse, silver-green, bristly foliage is striking and unusual",
+    "fragrance": "Flowers very lightly fragrant; foliage nearly scentless",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile and an extraordinary pollinator attractor; the flower architecture — with anthers forming a prominent central cone — specifically favors bumblebees, which are the primary pollinators; honeybees also visit; the combination of continuous bloom and bumblebee-specific architecture makes borage uniquely valuable as a companion plant near crops requiring bumblebee pollination"
+  },
+  "yield": {
+    "edibleParts": "Flowers (fresh — used in salads, as floating garnish in drinks, or crystallized as traditional cake decorations; mild cucumber flavor; one of the most elegant edible flowers available); young leaves before bristles mature (edible raw in salads when small and still tender; mild cucumber flavor similar to the flowers; older leaves become unpleasantly bristly for raw eating but can be cooked as a potherb); the flavor in both cases is a clean, fresh cucumber note with no bitterness",
+    "harvestSeason": "Flowers throughout the bloom period; pick individual flowers as they open; pick young leaves early in the season before they develop their full coarseness",
+    "medicinalUses": "Traditionally used as an adrenal tonic and mood-supportive herb (the old saying \"borage for courage\" reflects its traditional reputation as a lift for low spirits); borage seed oil is commercially produced as a source of gamma-linolenic acid (GLA), similar to evening primrose oil, and used for skin health and inflammation; the flowers have mild anti-inflammatory properties; internally, the plant has been used as a febrifuge and mild diuretic; the flowers steeped in water produce a traditional cooling summer drink",
+    "craftOtherYield": "Crystallized flowers (traditional confectionery decoration — one of the best edible flowers for this purpose); borage-infused water and lemonade; dried flowers for crafts (color fades but form is preserved); borage added to Pimm's Cup is a traditional British summertime custom"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "The flowers are safe for culinary use and widely consumed. The leaves contain low levels of pyrrolizidine alkaloids (PAs), which in large quantities and over the long term can be hepatotoxic. This is not a concern for normal culinary use — eating the occasional young leaf in a salad or using flowers generously presents no practical risk. The caution applies to internal use of large quantities of leaf material or long-term supplementation with borage seed oil; these uses fall outside normal garden-scale food use. Consume the flowers freely; treat the leaves as an occasional herb rather than a staple green.",
+    "toxicityAnimals": "The pyrrolizidine alkaloid content warrants keeping borage leaves out of pet food or fodder; the same logic applies — occasional incidental consumption is unlikely to be a problem, but do not deliberately feed borage foliage to dogs, cats, or livestock in quantity",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (annual)"
+    },
+    "roles": [
+      "Food (flowers and young leaves — mild cucumber flavor)",
+      "Medicinal (traditional tonic; flowers as cooling herb)",
+      "Insect Attractor (outstanding — especially for bumblebees)",
+      "Dynamic Accumulator (deep taproot mines silica, potassium, and other minerals; leaves excellent for composting or use as surface mulch)",
+      "Companion Plant (one of the classic companion herbs of the traditional garden)",
+      "Beauty (one of the truest blue flowers available in the annual garden; extraordinary in bloom)"
+    ],
+    "companionPlants": [
+      "Tomatoes",
+      "squash",
+      "and cucumbers (traditional companions — the bumblebee attraction is directly beneficial for pollinating these crops); strawberries (long traditional companion pairing — borage reputedly improves strawberry vigor and flavor); runner beans and scarlet runner beans in particular (bumblebee cross-reference: Phaseolus coccineus requires bumblebee pollination for maximum fruit set — borage growing nearby as a bumblebee attractor is a directly functional combination); compatible throughout the vegetable garden; plant wherever bumblebee visitation is needed"
+    ],
+    "antagonists": [
+      "No significant documented antagonists; avoid dense shade situations"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (exceptional — the flower architecture specifically rewards bumblebees, which are the primary pollinators; borage is one of the most reliably bumblebee-worked plants in the annual garden); honeybees; butterflies; beneficial insects generally; the long bloom season makes it one of the more valuable sustained nectar sources among annual herbs",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good. The coarse, stiff bristly hairs covering the entire plant make it unpalatable to deer — one of the better deer-resistant annuals for kitchen and herb gardens. Not a primary browse target. Established plants are rarely touched even under moderate deer pressure. Young seedlings before bristles fully develop are somewhat more vulnerable; a brief period of protection (row cover or cage) when seedlings are very small can prevent early losses in high-pressure situations."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure; not a maritime or salt-spray specialist"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good. The deep taproot enables access to soil moisture well below the surface; drought-tolerant once established; performs well in lean, dry conditions. Seedlings need consistent moisture until the taproot is established (roughly the first 2-3 weeks after germination); after that, supplemental irrigation is rarely necessary in the humid eastern US."
+    },
+    "other": "Tolerates light frost — can be direct-sown several weeks before last frost in Zone 5 and warmer; seedlings withstand brief frost events without damage; cool-season tolerance is a significant advantage for early establishment. Also tolerates poor and compacted soils better than many Mediterranean herbs. Does not tolerate waterlogged conditions or prolonged root saturation."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the easiest annuals in the garden once established; requires essentially no care beyond thinning volunteers",
+    "pruningNotes": "If plants become floppy by midsummer (common in fertile soil or sheltered conditions), cut back by one-third to encourage fresh branching growth. Deadheading extends the bloom period modestly but is not required for beauty. The most important ongoing management is thinning self-seeded volunteers — in rich garden soil with good light, borage will seed prolifically and volunteers must be pulled or transplanted early while still small and taproot damage is minimal. Decide each spring where you want borage and remove unwanted seedlings young; once the taproot establishes, the plant does not move easily.",
+    "propagationMethods": [
+      "Seed — direct sow only; direct sow in place in early spring",
+      "2-4 weeks before last frost (April in Zone 6, earlier in warmer zones); germinates readily in cool soil in 7-14 days; does not transplant well after germination due to the taproot; self-sows prolifically from established plantings; once introduced",
+      "no further sowing is typically needed"
+    ]
+  },
+  "cultivarNotes": "Borage is almost exclusively grown as the straight species — named cultivars are rare and not widely available in the US. 'Alba' is a white-flowered form that occasionally appears in specialty seed catalogs; it is less visually striking than the blue form and offers less of what makes borage distinctive. For most gardeners across the lower 48 states, source the straight species for the classic vivid blue flowers. Seed is inexpensive and widely available from any general-purpose seed catalog. Gardeners in Zone 8+ may wish to source from suppliers who describe the strain as vigorous in warm conditions, though this is rarely critical — direct sow timing (fall or late winter in warm climates rather than spring) matters more than strain selection.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Vegetable garden companion",
+      "kitchen herb garden",
+      "annual pollinator planting",
+      "food forest annual layer",
+      "cut flower and edible flower garden; valuable wherever bumblebee pollination of crops is desired"
+    ],
+    "designPlacement": "Borage belongs in the productive garden rather than the ornamental border — its coarse texture and sprawling habit make it a functional rather than refined plant. Place it among tomatoes, squash, cucumbers, or beans for classic companion planting benefit. Allow 12-18\" per plant and plan for the mature spread, which is generous. Self-seeding means the initial placement decision is effectively permanent — direct sow where you want the colony and manage volunteers annually. Full sun placement maximizes bloom density and pollinator benefit. Works well at guild edges and in the annual layer of food forest systems. The vivid blue flowers are an unexpected visual asset in an otherwise utilitarian setting.",
+    "acquisitionStatus": "To source (inexpensive annual from seed; widely available)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Borage",
+    "inaturalist": "https://www.inaturalist.org/taxa/52287-Borago-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b765"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No. Not native to Pennsylvania. Occasionally naturalized in disturbed areas and along roadsides in eastern North America, including Pennsylvania, but not a component of native plant communities.",
+      "paInvasiveStatus": "Not listed on the Pennsylvania Department of Agriculture noxious weed list, not flagged by PA DCNR, and not on the Pennsylvania Invasive Species Council list. Self-seeding is a garden management matter only — not regulated.",
+      "drainage": "The red clay at Hegins is acceptable for in-ground borage without raised beds. The taproot navigates compacted clay reasonably well. If drainage after heavy rain is prolonged (water standing for more than a day), choose a slightly elevated spot or ridge the soil modestly. Compost incorporation at planting is recommended for best performance in the compacted, construction-disturbed beds. Raised vegetable beds eliminate the clay and drainage constraints entirely and will produce the most vigorous plants.",
+      "soil": "The red clay at Hegins is acceptable without amendment for basic establishment. Compost incorporated at planting (2-3\" worked in) will improve structure, drainage, and first-year establishment. Avoid high-nitrogen amendments — lean conditions favor bloom over bulk. Raised vegetable beds (where available) are the optimal placement and remove soil texture as a limiting factor.",
+      "cultivarNotes": "Source the straight species — the true blue form. Seed is available from any general catalog; no special strain is needed for Zone 6a conditions. Direct sow in early April, 2-4 weeks before last frost. Once established, the colony self-perpetuates without further sourcing.",
+      "designPlacement": "Section B (garage strip kitchen herb area) is the natural home for borage at this site — its culinary, medicinal, companion planting, and bumblebee-attracting functions align directly with Section B's kitchen herb mission. Sow near tomatoes or squash for the classic companion pairing. A few plants scattered at the edges of the apple or mulberry guild areas would contribute meaningful bumblebee-attracting function during June-September bloom. The self-seeding habit means sowing only needs to happen once — direct sow where the colony is wanted, then manage volunteers each spring.",
+      "siteObservations": "Borage's bristly texture and demonstrated deer resistance make it a practical choice for beds with the active deer pressure present at this site — mature plants are unlikely to be browsed. The clay soil tolerance removes what would otherwise be a limiting factor in the in-ground beds. The self-seeding habit is a genuine time-saver in a large kitchen garden — plant once, thin forever. Raised vegetable beds (where available) will produce the most vigorous plants and are the preferred placement if bed space allows."
+    }
+  }
+}

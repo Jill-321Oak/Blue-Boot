@@ -1,0 +1,165 @@
+{
+  "id": "petroselinum-crispum",
+  "name": {
+    "commonName": [
+      "Parsley",
+      "Curly Parsley (var. crispum)",
+      "Italian Flat-Leaf Parsley (var. neapolitanum)",
+      "Root Parsley (var. tuberosum)"
+    ],
+    "latinName": "Petroselinum crispum",
+    "family": "Apiaceae (Carrot family)"
+  },
+  "range": {
+    "nativeRange": "Central and eastern Mediterranean — native to rocky hillsides and disturbed ground from Sardinia and southern Italy through the Balkans and into Turkey; naturalized across Europe and widely cultivated globally for at least 2,000 years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced and widely cultivated throughout all 50 states as a culinary herb; occasionally naturalizes in disturbed ground, waste places, and roadsides across the eastern US and Pacific coast but does not form persistent wild populations in most areas"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not listed on any state noxious weed list or federal invasive species list; may self-sow modestly from second-year plants that are allowed to flower and set seed, but does not escape cultivation aggressively or displace native vegetation; not a weed concern anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9 as a biennial; grown as an annual in most temperate gardens; the taproot often survives Zone 5-7 winters, allowing second-year bolt, but the plant is typically treated as an annual or replaced annually for best leaf production; in Zones 8-9, fall sowing allows winter harvest through mild winters"
+    }
+  },
+  "description": {
+    "height": "8-12\" in the first-year leaf rosette; rises to 24-36\" in flower in the second year; the flowering stem is tall and branching — let it go if you want seed or to observe the flowers, but at that stage the leaves are no longer palatable",
+    "spread": "10-14\"; a well-grown first-year plant forms a full, dense rosette",
+    "spacing": "8-12\"",
+    "growthRate": "Slow to establish — germination is notoriously slow (2-4 weeks under ideal conditions, sometimes longer); growth accelerates once established and the plant becomes productive within 4-6 weeks of germination",
+    "timeToMaturity": "Begin light harvest 6-8 weeks after germination; fully productive for continuous harvest by midsummer of the first year; second-year plants bolt in spring and become less useful",
+    "lifespan": "True biennial — vegetative rosette in year 1, flowers and sets seed in year 2, then dies; in practice, treated as an annual to avoid the bolt/tough-leaf problem; successive sowings in spring and late summer can maintain a continuous supply",
+    "deciduousEvergreen": "Deciduous annual (in practice); the rosette may persist semi-evergreen through mild winters in Zones 6-7 but looks rough and bolts in early spring of year 2; in Zones 8-9 the rosette can remain productive through winter",
+    "winterInterest": "Minimal; a winter-persistent parsley rosette is visible but not ornamental; plants left in the ground through winter will bolt rapidly in spring warmth"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; one of the more shade-tolerant kitchen herbs — 4-6 hours of direct light is workable, though full sun produces more vigorous, flavorful plants; morning sun with afternoon shade is well-tolerated; in Zones 8-9, afternoon shade is beneficial and reduces bolting tendency in warm springs",
+    "water": "Moderate and consistent; parsley prefers evenly moist soil and does not like to dry out hard between waterings; wilts dramatically in drought and recovery is slow; mulch well to retain moisture; do not let the crown sit in standing water — moisture in the root zone combined with poor drainage will cause crown rot; in arid western climates, regular irrigation is essential",
+    "drainagePreference": {
+      "description": "Moderate drainage preferred; the taproot needs open, non-compacted soil to develop well; parsley tolerates heavier soils better than many Mediterranean herbs but will suffer in waterlogged conditions; standing water around the crown causes rot; raised beds or amended soil will significantly improve performance in heavy ground",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; parsley can produce adequately in clay soils if they are loosened and amended with compost before sowing — the deep taproot is the limiting factor, as it cannot penetrate hard, compacted clay and will fork or stunt; in unamended heavy clay, germination is poor and the plant stays small; incorporating 3-4\" of compost into the top 12\" of soil before sowing transforms clay from hostile to productive for parsley; clay's moisture retention is actually an advantage once drainage is adequate, as parsley prefers consistent moisture"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; performs best in slightly acidic to neutral, fertile soil with good organic matter content — quite unlike the lean-soil preference of sage, oregano, or thyme; parsley is a heavy feeder relative to other culinary herbs and rewards rich, amended soil"
+    },
+    "texturePreference": "Fertile loam or well-amended clay; unlike the Mediterranean herbs that prefer lean, gritty soil, parsley actively benefits from soil improvement — compost incorporation before sowing improves germination and growth substantially; sandy soils work if fertility and moisture are maintained, but parsley performs best in moisture-retentive, organically rich ground",
+    "rootCharacter": "Deep, fleshy taproot — the same root form as the carrot, which is closely related; the taproot can reach 12\"+ in loose soil; this is what allows parsley to overwinter in Zones 5-7 and what makes it sensitive to compaction; do not transplant if you can avoid it — disturbing the taproot causes transplant shock and setback; direct sowing is strongly preferred"
+  },
+  "bloom": {
+    "bloomTime": "Second year only — late spring through midsummer of year 2; a first-year plant in vegetative growth does not flower; second-year bolting often begins very early in spring when days lengthen, earlier in warmer zones",
+    "bloomDescription": "Compound umbels — the characteristic flat-topped flower clusters of the Apiaceae family, held on tall, branching, hollow stems; individual flowers are tiny, pale yellow-green; the overall structure is airy and lacy; attractive to beneficial insects but the plant is effectively finished as a culinary herb once it bolts; the leaves become tough, more bitter, and sparsely produced after the flowering stem emerges",
+    "fragrance": "The foliage is distinctively fresh, green, and bright — the classic clean parsley scent; flowers are faint and not ornamentally fragrant",
+    "flowerSex": "Hermaphrodite; each tiny flower is complete",
+    "pollination": "Self-fertile; the small flowers are worked by a wide range of beneficial insects including parasitic wasps, hoverflies, small native bees, and predatory insects — the open umbel structure is particularly accessible to insects that cannot work tubular flowers; allowing a few plants to flower is an excellent beneficial insect strategy"
+  },
+  "yield": {
+    "edibleParts": "Leaves primarily (both fresh and dried); stems (especially the flat-leaf type — the stems carry strong flavor and are excellent in stocks and long-cooked dishes); root (var. tuberosum, Hamburg root parsley — the fleshy taproot is eaten as a vegetable, roasted or in soups); seeds (less common but usable as a spice, somewhat caraway-like)",
+    "harvestSeason": "Leaves from 6-8 weeks after germination through the end of the vegetative phase; harvest outer leaves and stems at the base, leaving the inner crown to continue producing; the plant responds to regular harvest by pushing new growth; harvest continuously through the growing season; stop or reduce harvest in fall to allow any overwintering; once the plant bolts in spring of year 2, harvest ceases to be worthwhile — pull and replant\nParsley's culinary scope is broader than its reputation as a garnish suggests. Flat-leaf (Italian) parsley is strongly preferred for cooking — the flavor is deeper, more complex, and less grassy than curly; it holds up better to heat and releases flavor more freely when chopped. Curly parsley is traditional as a garnish and retains its decorative shape well on a plate; its milder flavor makes it pleasant raw in larger quantities. In the kitchen, parsley is essential to stocks and long-cooked sauces (the classic bouquet garni includes parsley stems); it is a primary ingredient in chimichurri, gremolata (parsley, lemon zest, garlic — the classic finish for osso buco), tabbouleh (where it is the dominant green, not just an accent), and herb butters. As a finishing herb, a handful of rough-chopped flat-leaf parsley brightens almost any savory dish — pasta, fish, roasted vegetables, soups, grain bowls. Unlike many herbs, parsley is nutritionally significant in itself: it is extraordinarily high in vitamin K, vitamin C, iron, and folate. At levels used in tabbouleh-style preparations (where it is eaten in quantity rather than as a sprinkle), parsley functions as a functional food rather than just a flavoring.",
+    "medicinalUses": "Traditionally used as a carminative (gas and bloating), mild diuretic, and digestive tonic; parsley tea was historically used to stimulate menstruation and support kidney function. The high vitamin K content is relevant for people on blood-thinning medications — consistent high-quantity parsley consumption can interact with warfarin dosing. Seeds and root have stronger medicinal action than leaves. Apiol, present in parsley seed essential oil, is a strong uterine stimulant — concentrated parsley seed oil is not safe in pregnancy; normal culinary leaf use is safe.",
+    "craftOtherYield": "None significant; spent plants can be composted freely"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe in all normal culinary quantities. Concentrated parsley seed oil or very large doses of seeds contain apiol, which is a potent uterine stimulant — avoid medicinal-strength doses during pregnancy; culinary leaf use is safe at any stage. The high vitamin K content is a clinically relevant food-drug interaction for anyone on warfarin or other anticoagulants — inform your doctor if you eat large amounts regularly. More critically: parsley belongs to the Apiaceae, a family containing some of the most toxic plants in the temperate world (poison hemlock, water hemlock, fool's parsley). Only harvest from plants you have grown yourself and positively identified — never forage parsley-looking plants from the wild or from unknown garden escapees. Fool's parsley (Aethusa cynapium) is a toxic look-alike that can appear in disturbed soil and garden beds.",
+    "toxicityAnimals": "Parsley is mildly toxic to cats and dogs in large quantities — occasional nibbling is not a significant concern, but sustained grazing can cause photosensitization (sensitivity to UV light) and GI upset; do not allow pets to eat it freely. As with all Apiaceae, the seed and root are more concentrated than the leaves.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (ground cover / rosette)"
+    },
+    "roles": [
+      "Food (premier culinary herb — primary role)",
+      "Nutritional Powerhouse (vitamins K, C, iron, folate — functional food at quantity use)",
+      "Beneficial Insect Attractor (second-year flowering plants are excellent for parasitic wasps and hoverflies — allow a few to flower)",
+      "Pollinator Support (umbel flowers support a wide range of small native bees and beneficial insects)",
+      "Companion Plant (classic companion for tomatoes, roses, and asparagus)"
+    ],
+    "companionPlants": [
+      "Tomatoes (one of the most classically cited companions; reputed to improve tomato flavor; parsley fills the understory while tomatoes climb); roses (traditional rose companion — parsley said to deter rose beetles and aphids when planted as an underplanting); asparagus (a well-known classic combination — parsley reportedly deters asparagus beetles, and the two plants are said to benefit each other mutually); carrots (same family — some companion benefit reported, though they can cross-pollinate if both are allowed to flower); chives and other alliums; most kitchen garden vegetables"
+    ],
+    "antagonists": [
+      "Lettuce (reports of mutual inhibition when in close contact); mint (vigorous spreader that will physically crowd out parsley); fennel (well-documented allelopath that inhibits many plants including parsley — keep fennel separate from the herb bed)"
+    ],
+    "coppiceable": "No; harvest outer leaves progressively; the plant is not woody and does not respond to hard cutting back the way shrubby herbs do — simply harvest the outer growth continuously and the crown produces from the center"
+  },
+  "wildlife": {
+    "attracts": "Parasitic wasps and predatory insects (second-year flowering plants in full umbel bloom are among the most effective beneficial insect attractors in the garden — the flat, open flower structure is accessible to insects that cannot work tubular flowers); hoverflies; small native bees; beneficial beetles",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) — parsley is a primary host plant for this spectacular native butterfly; the larvae are boldly striped in yellow, black, and white, and are highly distinctive; finding them on your parsley is a success, not a problem; the adult butterfly is one of the most beautiful in eastern North America. Eastern black swallowtails also use other Apiaceae including dill, fennel, and Queen Anne's lace, but parsley is one of the most reliably planted hosts; consider growing a few extra dedicated plants for the caterpillars and treating their browsing as a feature rather than a loss",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate-good",
+      "description": "Moderate to good; parsley is not a primary deer target and the aromatic foliage is generally passed over; occasional browsing may occur but parsley is not the plant deer will seek out the way they seek hostas or tulips; reasonable confidence in leaving it in the open garden without protection, though as a low-growing annual herb it is browsable opportunistically; young seedlings are more vulnerable than established rosettes"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; parsley is not salt-tolerant and should not be sited where road salt spray or salt-laden runoff reaches the soil; incidental light exposure is survivable but repeated salt contact will damage foliage and stunt the plant"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low; parsley wilts quickly in drought and does not have the drought adaptation of Mediterranean herbs; consistent soil moisture is needed for quality leaf production; mulch is important in all regions; western and southern gardeners should plan on regular irrigation"
+    },
+    "other": "Tolerates part shade better than most kitchen herbs — an important advantage for north-facing or partially shaded herb beds; sensitive to hard frost as a seedling; performs poorly in compacted soil without amendment; heat tolerance is moderate — in Zones 8-9, afternoon shade and consistent irrigation extend the productive season"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate; the slow germination and need for consistent moisture require more attention than a drought-tolerant perennial herb, but once established the plant is largely self-maintaining with regular harvest",
+    "pruningNotes": "No pruning in the traditional sense — harvest outer leaves at the stem base continuously throughout the growing season; the more you harvest, the more the plant produces from the central crown; do not cut the entire plant to the ground; remove flowering stems immediately when they appear in year 2 to extend leaf production briefly, though the plant's culinary usefulness is largely finished once bolting begins; pull and compost second-year plants promptly and sow fresh seed to maintain continuous production",
+    "propagationMethods": [
+      "Seed (the primary and essentially only method); direct sowing is strongly preferred over transplanting because the deep taproot suffers badly from transplant disturbance; sow directly in the garden 4-6 weeks before last frost or start indoors in deep cells or soil blocks that can be planted out without root disturbance; germination is the key challenge — it is notoriously slow and erratic",
+      "taking anywhere from 14 to 28+ days because the seed coat contains germination-inhibiting compounds that must wash out slowly; to speed germination significantly",
+      "soak seed in warm water for 24 hours before sowing",
+      "changing the water once; some gardeners pour boiling water over the seeded flat or garden row to further accelerate the process; sow thickly",
+      "as germination is variable; soil temperature of 50-70°F is the target range — cooler is fine for established plants but slows germination; in northern zones (3-6)",
+      "sow in early spring and again in midsummer for a fall crop; in southern zones (8-9)",
+      "fall sowing produces the best winter and spring harvest"
+    ]
+  },
+  "cultivarNotes": "Parsley exists in three primary forms, each with a distinct use profile:\n**Flat-Leaf / Italian Parsley (var. neapolitanum)** — unambiguously the superior choice for culinary use; the flavor is deeper, more complex, and more volatile than curly; it handles heat better in cooked dishes; the leaves are flat, large, and easy to chop cleanly; stems are also flavorful and useful in stocks; easier to harvest cleanly than curly; generally more vigorous and productive; this is what professional cooks and serious home cooks use. Specific selections include 'Giant of Italy' (very large leaves, vigorous, one of the most productive flat-leaf varieties — performs well across all zones), 'Italian Dark Green' (reliable, standard flat-leaf type), and 'Titan' (large leaves, high yield). Flat-leaf varieties are the first recommendation for any gardener prioritizing kitchen use regardless of region.\n**Curly Parsley (var. crispum)** — the traditional English garnish parsley; tightly ruffled, bright green leaves that hold their shape beautifully on a plate; milder flavor than flat-leaf; excellent eaten raw in larger quantities precisely because the flavor is less assertive; the ruffled texture holds dressings well in tabbouleh-style preparations; ornamentally attractive in the kitchen garden as edging; some people prefer it raw. Varieties include 'Moss Curled' and 'Forest Green' (both reliable; 'Forest Green' is one of the most widely grown curly types). Curly parsley tends to be slightly more cold-hardy than flat-leaf, making it a marginally better choice for Zone 3-5 gardeners who want to push overwintering.\n**Root Parsley / Hamburg Parsley (var. tuberosum)** — grown primarily for the large, fleshy, parsnip-like taproot rather than the leaves; popular across Eastern Europe (especially German, Polish, and Hungarian cuisines) where it is roasted, added to soups and stews, and used as a root vegetable; the leaves are edible but not the point; sow early and deeply in loose, well-amended soil; harvest root in fall after frost sweetens it; not commonly found in American seed racks — source from specialty seed suppliers (Baker Creek, Adaptive Seeds, Eastern European seed companies); a worthwhile addition if root vegetables are in the plan. Root parsley needs a long, cool growing season and performs best in Zones 4-7; southern growers (Zone 8+) may find root development disappointing in warm soils.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen herb bed",
+      "vegetable garden companion (especially with tomatoes and asparagus)",
+      "pollinator support (flowering second-year plants)",
+      "black swallowtail host plant",
+      "edging in kitchen garden beds"
+    ],
+    "designPlacement": "Place parsley where it receives at least 4-6 hours of direct light — it is one of the most shade-tolerant kitchen herbs, making it suitable for north-facing beds, partially shaded herb gardens, or the understory of taller vegetable plantings; site it near the kitchen for frequent harvest access, as parsley is a cut-and-come-again herb best used fresh and often; amend soil well before sowing since the deep taproot needs loose ground; excellent as edging along paths or bed borders where the dense rosette forms a tidy line; pair with tomatoes as an understory companion in vegetable beds; allow a few plants to bolt in year 2 in a location where the 24-36\" flowering stems won't shade shorter neighbors — the umbel flowers are superb beneficial insect attractors; keep away from fennel",
+    "acquisitionStatus": "To source (seed)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parsley",
+    "inaturalist": "https://www.inaturalist.org/taxa/78465-Petroselinum-crispum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276060"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or eastern North America",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "The red clay at Hegins is workable for parsley but requires amendment — incorporate compost deeply before sowing to give the taproot room to develop; raised beds eliminate the compaction and drainage issues entirely and are the path of least resistance; in-ground planting in Section B will need a well-loosened, compost-amended row at minimum",
+      "soil": "The clay at Hegins can work if loosened and amended with compost to at least 12\" depth before sowing; the clay's moisture retention is an asset once compaction is broken; raised beds with a loamy mix are ideal and avoid the amendment effort entirely",
+      "cultivarNotes": "Start with a good flat-leaf variety ('Giant of Italy' or 'Italian Dark Green') for kitchen use. Add curly parsley if you want an ornamental edging element or enjoy it raw. Root parsley is a longer-term curiosity to try once the beds are established — the Hegins growing season is well-suited to it.",
+      "designPlacement": "Section B is the primary placement — the kitchen-adjacent, north-facing herb strip is ideal for parsley, which tolerates part shade and benefits from kitchen proximity for frequent harvest. Plant in the front to mid-zone of Section B where the most light reaches; amend the clay bed well before sowing. Also useful in vegetable beds as a companion alongside tomatoes. For the black swallowtail benefit, consider allowing a few plants in Section B or the vegetable beds to bolt in year 2 and host caterpillars; place them where the tall flowering stems won't shade shorter plants.",
+      "siteObservations": "The red clay soil at Hegins will benefit significantly from compost amendment before sowing parsley — this is not a plant that thrives in compacted, unimproved clay. Raised beds or well-loosened, amended rows are the path to productive parsley at this site. The north-facing Section B exposure is workable given parsley's shade tolerance. Deer pressure from the east corridor is unlikely to be a major issue with parsley specifically — the aromatic foliage is generally passed over — but the bed should be managed for deer as a whole given the corridor proximity. No road salt concern in Section B given its distance from the road. Germination timing matters: sow early (late March to April) taking advantage of cool soil temperatures and natural rainfall; avoid trying to start in the heat of June-July without irrigation."
+    }
+  }
+}

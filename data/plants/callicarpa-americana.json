@@ -1,0 +1,163 @@
+{
+  "id": "callicarpa-americana",
+  "name": {
+    "commonName": [
+      "American Beautyberry"
+    ],
+    "latinName": "Callicarpa americana",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Southeastern United States — Virginia south to Florida, west to Texas and Oklahoma; also northern Mexico, Bermuda, Cuba, and the Bahamas; native to forest edges, moist slopes, woodland openings, swamp margins, and fence rows throughout the Southeast",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the southeastern US; at the northern edge of its natural range in Zone 6; not native to the Mid-Atlantic, Midwest, or Northeast, though it can be grown there with varying cold hardiness outcomes"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US states; no documented naturalization outside its native range"
+    },
+    "zone": {
+      "min": 6,
+      "max": 10,
+      "description": "6-10 (marginally hardy in Zone 6a; see Cultivar Notes for zone-band guidance)"
+    }
+  },
+  "description": {
+    "height": "3-8' in Zones 7-10 where woody framework persists; in Zone 6a where die-back is common, expect 3-5' of regrowth per season from the roots",
+    "spread": "3-6' in Zone 6a conditions; wider in the South where woody framework persists year to year",
+    "spacing": "4-6' from other shrubs",
+    "growthRate": "Fast from roots — after die-back, regrowth is vigorous and will reach full berry-bearing size within the same season; this is one of the plant's best qualities in a cold-zone garden",
+    "timeToMaturity": "Berries in the first or second year after planting; the plant's fast regrowth after die-back means berry production is not significantly delayed by cold winters",
+    "lifespan": "Long-lived from the roots; may persist in Zone 6a for many years as a root-crown plant even if the above-ground structure is lost each winter; in warmer zones, a long-lived woody shrub",
+    "deciduousEvergreen": "Deciduous — medium-green leaves through summer; fall brings the extraordinary berry display as leaves begin to drop; the berries are most visible and most dramatic after leaf drop",
+    "winterInterest": "Low once leaves and berries are gone; bare stems in winter; the berries persist into early winter and are consumed by birds"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best berry production in full sun; tolerates part shade well; in Zone 6a, full sun placement may help the plant build more energy reserves before winter",
+    "water": "Medium; prefers moist, well-drained soil; tolerates short dry periods once established; does not tolerate prolonged waterlogging",
+    "drainagePreference": {
+      "description": "Moist, well-drained to average; tolerates clay-loam if drainage is reasonable; avoid standing water",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Performs acceptably in clay-loam soils with reasonable drainage; extended waterlogging after rain is harmful; amending clay with organic matter at planting improves establishment and long-term performance"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "5.0-7.0; adaptable; tolerates slightly acidic conditions well"
+    },
+    "texturePreference": "Moist, well-drained loam to clay-loam with good organic matter content; adapts across a range of soil types common in the lower 48",
+    "rootCharacter": "Fibrous spreading root system; forms a root crown that persists through cold winters even when top growth is killed; root crown is the survival mechanism in Zone 6a and colder parts of the range"
+  },
+  "bloom": {
+    "bloomTime": "June-August — small flowers appear in clusters along the stems at leaf nodes; not showy individually but important for pollinators",
+    "bloomDescription": "Tiny tubular pink to lavender flowers, 0.2\" wide, in dense rounded clusters at each leaf axil; modest but pretty; the fruit clusters that follow at these same nodes in fall are the true spectacle",
+    "fragrance": "None notable",
+    "flowerSex": "Hermaphrodite — self-fertile; a single plant will set fruit without a partner",
+    "pollination": "Bees and small native pollinators; not a primary pollinator plant but contributes to summer insect diversity"
+  },
+  "yield": {
+    "edibleParts": "Berries — technically edible but highly astringent and unpleasant raw; not a food plant in practical terms; some traditional preparations exist (jelly with substantial added sugar to mask the astringency) but the fruit is primarily wildlife food and ornamental. Do not plant expecting a culinary yield — that is not what this plant is for.",
+    "harvestSeason": "Berries ripen September-October; peak ornamental display at leaf drop in October; berries persist into November-December as birds work through them",
+    "medicinalUses": "The leaves contain callicarpenal — a naturally occurring compound studied as an insect repellent with documented activity against mosquitoes and deer ticks comparable to DEET in some laboratory studies. Crushing fresh leaves and rubbing them on exposed skin is a traditional and well-documented folk use as a bug repellent; this is a genuine, research-backed use, not folklore. Carry a branch on hikes or crush a few leaves around a seating area. The effect is real.",
+    "craftOtherYield": "Cut stems bearing berry clusters are outstanding in floral arrangements — the violet-purple berry color is extraordinary and holds well after cutting; one of the most unusual and striking native plant stems available for autumn arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Not toxic; berries are safe but unpleasant raw due to high astringency; no documented toxicity concerns",
+    "toxicityAnimals": "Not documented as toxic to dogs, cats, or horses; birds consume the berries in quantity without harm; considered safe",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub (functions as a large herbaceous perennial in Zone 6a and the cooler edge of Zone 6 due to seasonal die-back; true shrub form in Zones 7-10)"
+    },
+    "roles": [
+      "Wildlife Support (critical fall and winter bird food)",
+      "Ornamental (the primary role — the fall berry display is exceptional)",
+      "Insect Repellent (medicinal leaf use — callicarpenal)",
+      "Native Plant Contribution",
+      "Biodiversity Support"
+    ],
+    "companionPlants": [
+      "Native asters (Symphyotrichum spp. — bloom at the same time as berry display; complement the fall palette)",
+      "goldenrods (Solidago spp. — same fall timing)",
+      "native grasses (Schizachyrium scoparium, Panicum virgatum — frame the shrub beautifully)",
+      "Ilex verticillata (winterberry holly — shares the fall berry / wildlife habitat niche; red berries contrast beautifully with the purple beautyberry)",
+      "Lindera benzoin (spicebush — similar native shrub layer role; different season interest)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Birds — the berry clusters are a critical fall and winter food source for fruit-eating birds; mockingbirds are famously fond of beautyberry and will vigorously defend a fruiting shrub; robins, catbirds, bluebirds, brown thrashers, eastern towhees, cedar waxwings, hermit thrushes, and many other species consume the berries; the berries are particularly valuable after the first frost softens and sweetens them; bees and small native pollinators visit the summer flowers",
+    "hostPlantFor": "Not a significant documented caterpillar host plant; wildlife value is primarily the fruit and cover",
+    "nestingHabitat": "Dense multi-stemmed growth provides some cover; not a primary nesting habitat shrub"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse the foliage; not their first choice but not reliably avoided; protect young plants in high-pressure deer areas; new spring regrowth after die-back is especially vulnerable"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — avoid road salt exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; prefers consistent moisture; established root crowns handle short dry spells"
+    },
+    "other": "Tolerates heat and humidity well (it is a southeastern native); cold hardiness varies by zone — the root crown is more cold-tolerant than the top growth; Zone 6a is the practical northern limit for reliable performance"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — cut back dead top growth in early spring if winter-killed; the plant handles the rest",
+    "pruningNotes": "In Zone 6a, winter die-back will often do the pruning for you — cut any dead canes to the ground in early spring (March) and let the root crown regrow. In warmer zones where the plant survives winter with woody structure intact, cut back by one-third to one-half in early spring to encourage vigorous new growth and a full berry display — berry production is best on new wood. Do not prune in fall; leave the berry clusters for birds through winter.",
+    "propagationMethods": [
+      "Softwood cuttings in early summer (easiest; moderate-to-high success rate)",
+      "hardwood cuttings in late fall",
+      "seed (requires 60-90 days cold stratification; viable but slow)",
+      "division of rooted root-crown suckers"
+    ]
+  },
+  "cultivarNotes": "The straight species (C. americana) is the most wildlife-valuable and the most ornamentally dramatic across its range — the deep iridescent violet-purple berry clusters are extraordinary and unmatched by cultivars. Two cultivar selections exist: 'Lactea' produces white berries — beautiful and unusual, a striking contrast to the purple species, and still wildlife-valuable; 'Welch's Pink' produces pink berries — softer and less visually striking than the straight species. For maximum ornamental impact and wildlife value, plant the straight species.\nZone-band guidance for the lower 48:\n- Zones 7-10 (Southeast, Gulf Coast, Pacific Coast): C. americana performs as a true woody shrub; expect 6-8'+ with persistent framework; thrives with minimal intervention; ideal climate for full expression of the plant\n- Zone 6b (mid-Atlantic, lower Midwest, transition zone): Marginally hardy; woody structure may survive mild winters but will die back in hard winters; treat as a die-back perennial in planning; root crown survives reliably\n- Zone 6a (upper mid-Atlantic, central Midwest, southern New England): At the practical northern limit; annual die-back should be expected in most winters; root crown survives; plant resprouts and produces berries within the same season; see",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native plant garden",
+      "food forest edge and sunny shrub layer",
+      "wildlife garden",
+      "rain garden periphery",
+      "ornamental fall garden; specimen plant for fall display; applicable across the lower 48 in Zones 6a-10"
+    ],
+    "designPlacement": "Best suited to a sunny to part-shade shrub layer position where the fall berry display can be seen and appreciated — the berries are the entire point, and they deserve a visible location. Accept and plan for the die-back behavior in Zones 6-6b; in warmer zones, plan for a large permanent shrub. The fall berry display — a mass of iridescent violet-purple jewels clustered at every leaf node along arching stems — is one of the most extraordinary ornamental spectacles any native plant produces; no other shrub in the lower 48 produces anything like this color or density of fruit. Plant it where you will see it in October.",
+    "acquisitionStatus": "To source (native plant nursery; straight species preferred for wildlife value and ornamental impact)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Callicarpa_americana",
+    "inaturalist": "https://www.inaturalist.org/taxa/49193-Callicarpa-americana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287477"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — C. americana is native to the southeastern US (Zone 6-10); Pennsylvania sits at the northern edge of its range. The plant is not reliably hardy as a permanent woody shrub in Zone 6a; in cold winters it will die back to the ground entirely, but the roots survive and the plant resprouts vigorously from the base each spring. This die-back behavior makes it function more like a large herbaceous perennial in Zone 6a than a true permanent shrub — it will not develop the established woody framework of a southern specimen. Gardeners who accept this limitation are rewarded with a spectacular fall display every year regardless. C. dichotoma (Japanese beautyberry, Zone 5-8) is more reliably woody in Zone 6a and may be the more practical choice for gardeners who want a permanent shrub form.",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Hegins red clay is compacted and slow-draining; drainage issues after heavy rain present a meaningful risk; amend planting area with organic matter; avoid low spots; Section C (south-facing, warm, drier) is a better drainage fit than other sections",
+      "soil": "Hegins red clay is compacted and low in organic matter; amend the planting hole and surrounding area generously; mulch heavily to retain moisture and moderate soil temperature at the root crown",
+      "cultivarNotes": "note below\n- Zones 5 and colder: C. americana is not reliably hardy; consider C. dichotoma (Zone 5-8) instead — smaller, reliable woody shrub, similar clustered berry display in lavender-purple\nZone 6a Pennsylvania: C. americana is at the edge of its hardiness here. Annual die-back to the root crown should be expected most winters. The plant will resprout vigorously and produce berries within the same growing season. Plan for a 3-5' seasonal form rather than a permanent woody shrub. A south-facing or sheltered microclimate gives the best chance of maintaining some woody structure. C. dichotoma is the more practical alternative if a reliably woody form is required.",
+      "designPlacement": "Section C (south-facing, warm microclimate, drier) is the best placement — it gives the plant its best chance of establishing some persistent woody framework and the warm exposure suits this southeastern native. Section A (north-facing, 5' height limit) is workable if the die-back behavior is accepted — the plant will rarely exceed the height limit precisely because of Zone 6a conditions — but the cold north-facing microclimate is less favorable. Deer pressure is a concern at Hegins; protect new spring regrowth. Drainage at Hegins clay sites should be addressed at planting.",
+      "siteObservations": null
+    }
+  }
+}

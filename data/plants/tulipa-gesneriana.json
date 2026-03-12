@@ -1,0 +1,154 @@
+{
+  "id": "tulipa-gesneriana",
+  "name": {
+    "commonName": [
+      "Garden Tulip",
+      "Didier's Tulip"
+    ],
+    "latinName": "Tulipa gesneriana",
+    "family": "Liliaceae"
+  },
+  "range": {
+    "nativeRange": "Central Asia (origin uncertain; long cultivated, extensively naturalized across Europe and western Asia through centuries of trade and garden cultivation)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely planted as an ornamental; occasionally persists or naturalizes in disturbed ground near former garden sites but does not spread aggressively into wild habitats."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Tulips do not self-seed meaningfully or spread vegetatively beyond their planting site. Not listed on any state noxious weed list or the USDA PLANTS invasive list."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8 (requires adequate winter chill; unreliable perennializer in Zone 8+ due to insufficient cold; best performance Zones 4-7)"
+    }
+  },
+  "description": {
+    "height": "12-24\" depending on type and cultivar",
+    "spread": "4-6\" per bulb; plant in clusters",
+    "spacing": "4-6\" apart; cluster 5-9 bulbs together for visual impact",
+    "growthRate": "Fast (blooms first spring after planting)",
+    "timeToMaturity": "Blooms first season",
+    "lifespan": "Hybrid tulips typically treated as annuals or short-lived perennials (1-3 years before replanting needed); species tulips and Darwin hybrids perennialize more reliably in Zones 4-7",
+    "deciduousEvergreen": "Fully dormant in summer",
+    "winterInterest": "None — fully dormant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; shade reduces stem strength and may cause leaning. In Zone 8+ afternoon shade helps extend bloom duration.",
+    "water": "Medium during active growth; prefers dry summer dormancy; dislikes wet feet",
+    "drainagePreference": {
+      "description": "Well-drained essential. Bulbs rot quickly in waterlogged soil — standing water for even a few days during dormancy can destroy a planting. Ideal conditions are a free-draining loam or sandy loam where water moves through the root zone within hours of rainfall. Raised beds or mounded planting improve survival in heavy or poorly drained soils.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor. Heavy clay retains moisture around bulbs during summer dormancy, promoting fungal rot (Fusarium, Botrytis tulipae) and bulb breakdown. In clay soils, amend individual planting pockets generously with coarse grit, perlite, and compost to create drainage chimneys. Planting on a 2\" bed of sharp gravel within the hole helps. Even with amendment, expect reduced perennialization compared to sandy or loamy soils. Darwin hybrids and species tulips tolerate clay somewhat better than standard hybrids."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0 (slightly acidic to neutral; tolerates mildly alkaline soils)"
+    },
+    "texturePreference": "Well-drained loam or sandy loam ideal. Tolerates sandy soil well. Performs poorly in unimproved heavy clay or silty soils that retain moisture. Amend heavy soils with coarse grit and organic matter to improve drainage and aeration around bulbs.",
+    "rootCharacter": "True bulb; produces offsets slowly; hybrid forms rarely perennialize well"
+  },
+  "bloom": {
+    "bloomTime": "April to May (varies by type — early, mid, and late season varieties available for a 6-8 week sequence)",
+    "bloomDescription": "Large, showy, cup-shaped flowers in single, double, fringed, and parrot forms; enormous range of colors and sizes depending on type",
+    "fragrance": "Variable — some cultivars (notably 'Apricot Beauty' and some species) are fragrant; most modern hybrids are not",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees and other insects; pollen accessible but not a primary pollinator plant"
+  },
+  "yield": {
+    "edibleParts": "Petals are edible (used as a garnish; mild flavor); bulbs are toxic",
+    "harvestSeason": "Petals in spring",
+    "medicinalUses": "None significant",
+    "craftOtherYield": "Cut flower (excellent — one of the primary cut flower crops globally)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Bulbs are toxic if eaten; sap and bulb handling can cause contact dermatitis (\"tulip fingers\") in sensitive individuals — wear gloves when planting",
+    "toxicityAnimals": "Bulbs are toxic to dogs and cats — causes GI upset, drooling, and lethargy; a concern if pets dig in the bed",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere (bulb)"
+    },
+    "roles": [
+      "Beauty (primary — spring color focal point)",
+      "Insect Attractor (early season)"
+    ],
+    "companionPlants": [
+      "Plant in front of late-emerging perennials (geranium, echinacea, astilbe, daylilies) that will hide the dying tulip foliage; daffodils and alliums as companions provide complementary deer resistance and extend the spring bulb season"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "N/A — allow foliage to die back naturally; do not cut or remove leaves until fully yellowed"
+  },
+  "wildlife": {
+    "attracts": "Bees (pollen source); unfortunately also attracts deer and squirrels",
+    "hostPlantFor": "Not a host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — tulips are among the most deer-palatable spring plants across the entire genus. No deer-resistant tulip varieties exist. In areas with deer pressure (common throughout the eastern US, Midwest, and increasingly the West), protect with repellent spray applied as shoots emerge and reapplied after rain, or use physical barriers (netting, cloches). Interplanting with strongly deer-resistant bulbs like daffodils and alliums can reduce browsing through scent confusion but is not reliable alone. Consider whether deer pressure at your site makes tulips a practical choice — supplementing or replacing with daffodils may be more sustainable."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure; not suitable for direct salt spray zones within 10-15 ft of heavily salted roads"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good during summer dormancy (prefers dry conditions); needs consistent moisture during active growth in spring"
+    },
+    "other": "Squirrels and chipmunks dig and eat tulip bulbs — a persistent challenge across most of the US. Plant deeper than standard recommendation (8-10\" instead of 6\") or use wire mesh (hardware cloth) cages around bulb clusters. Chicken wire laid flat over the planting area and covered with mulch also deters digging."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium (annual replanting often needed for hybrid types)",
+    "pruningNotes": "Deadhead spent flowers to redirect energy to the bulb. Allow foliage to yellow completely before removing (4-6 weeks after bloom). Lift hybrid bulbs in summer if desired to dry and store for fall replanting, or leave in ground and treat as annuals. Darwin hybrids and species tulips can be left in ground.",
+    "propagationMethods": [
+      "Bulb offsets (lift and separate in summer)",
+      "seed (very slow — 5-7 years to bloom; not practical)"
+    ]
+  },
+  "cultivarNotes": "Tulip cultivars span an enormous range of forms, colors, and bloom times. For perennialization, Darwin Hybrid types are the most reliable across Zones 4-7 — they have the vigor and cold tolerance to return for 3-5+ years in well-drained soil. Standard Triumph and Single Late types are beautiful but often decline after 1-2 years. Species tulips (T. tarda, T. batalinii, T. clusiana, T. sylvestris) are the best long-term choice for naturalizing — they are smaller but multiply readily and tolerate a wider range of soil conditions. **Zone 3-5 (cold northern):** Darwin hybrids excel here with reliable chill. Species tulips naturalize well. 'Red Emperor' and 'Golden Parade' are proven performers. **Zone 6-7 (mid-range):** Best overall tulip zone. Full range of types succeeds. Darwin hybrids perennialize well; species tulips naturalize. Choose early, mid, and late cultivars for a 6-8 week bloom sequence. **Zone 8+ (warm southern):** Pre-chill bulbs 8-12 weeks in refrigerator before planting. Treat as annuals. Single Early and Triumph types give the most reliable single-season show. Species tulips (T. clusiana especially) are the only realistic perennializers. **Purple cultivars (all zones):** 'Negrita' (deep purple, midseason, reliable perennializer), 'Queen of Night' (near-black purple, late season), 'Recreado' (deep violet). **Yellow cultivars (all zones):** 'Golden Parade' (large golden-yellow Darwin hybrid, reliable), 'Yellow Emperor' (early, vigorous), 'Yokohama' (bright yellow, early). **Bicolor bridge:** 'Prinses Irene' (orange-purple bicolor — bridges purple and yellow tones). **Naturalizing species:** T. tarda (yellow and white, 4-6\", naturalizes well, somewhat less palatable to deer than hybrids), T. batalinii 'Bright Gem' (yellow-apricot, compact).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Spring bulb display",
+      "border front and mid zone",
+      "cut flower garden",
+      "container planting"
+    ],
+    "designPlacement": "Plant in the front to mid zone of borders where spring color is needed before perennials emerge. Cluster 5-9 bulbs per group for visual mass rather than single-file rows. Place in front of late-emerging perennials whose foliage will mask the tulip's post-bloom decline. Combine early, mid, and late cultivars within a bed for an extended bloom season. In deer-heavy areas, interplant with daffodils and ornamental alliums as a layered deterrent strategy. Ensure the planting site has excellent drainage — avoid low spots, swales, or areas where water pools after rain.",
+    "acquisitionStatus": "To source (order in September for fall planting)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulipa_gesneriana",
+    "inaturalist": "https://www.inaturalist.org/taxa/129054-Tulipa-gesneriana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c252"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or any part of eastern North America",
+      "paInvasiveStatus": "Not regulated in PA. Same as general Invasive field — not on PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "At the Hegins site, the compacted red clay with poor post-rain drainage is hostile to tulip bulbs without intervention. Amend each planting pocket with grit and compost, or plant in raised beds where drainage is controlled. Expect to treat most hybrids as annuals even with amendment; Darwin hybrids and species tulips have the best odds of returning. Fall-planted bulbs should go in during October when soil is still workable.",
+      "soil": "Hegins red clay requires amendment before planting — work in coarse grit, perlite, and compost to each planting hole. Alternatively, use raised beds where the growing medium is fully controlled. In-ground planting without amendment is not recommended.",
+      "cultivarNotes": "For the Hegins site, Darwin hybrids ('Negrita', 'Golden Parade') offer the best chance of perennializing in amended clay. Species tulips (T. tarda, T. batalinii) are the lowest-maintenance option for long-term naturalizing. Order bulbs in September for October planting.",
+      "designPlacement": "Section A (north-facing front bed) — planted in the mid to front zone beneath late-emerging perennials; purple/yellow cultivar combinations deliver the color theme in April-May before the perennial layer fully emerges. Deer deterrent strategy is essential given the east corridor pressure.",
+      "siteObservations": "Active deer pressure from the east wildlife corridor makes tulips a high-risk planting at this site — have repellent spray on hand as soon as shoots emerge in spring, and reapply after every rain event. The compacted red clay in Section A is the primary horticultural challenge; amend each planting pocket or consider raised-planting pockets with imported drainage mix. Expect to treat most hybrid tulips as annuals even with soil amendment — budget for partial replanting each fall. Darwin hybrids and species tulips are the priority types for this site."
+    }
+  }
+}

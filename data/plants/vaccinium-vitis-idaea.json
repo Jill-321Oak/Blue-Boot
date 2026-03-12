@@ -1,0 +1,157 @@
+{
+  "id": "vaccinium-vitis-idaea",
+  "name": {
+    "commonName": [
+      "Lingonberry",
+      "Mountain Cranberry",
+      "Cowberry"
+    ],
+    "latinName": "Vaccinium vitis-idaea",
+    "family": "Ericaceae"
+  },
+  "range": {
+    "nativeRange": "Boreal and arctic regions of the Northern Hemisphere — circumboreal distribution spanning northern Europe (Scandinavia, Finland, Russia), northern Asia, and northern North America (Canada, Alaska, and mountainous areas of the northeastern US); naturally found in boreal pine forests, rocky barrens, bog edges, heaths, arctic tundra, and mountain slopes; a quintessential plant of the cold north",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to Alaska and portions of the northern tier — primarily boreal and sub-arctic regions of Alaska, northern New England, and the northern Great Lakes states; scattered native populations exist at high elevations in the Appalachians from New England south to New York; not native to the vast majority of the lower 48 states; does not naturalize readily outside its preferred cool, acidic, high-latitude habitats"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; lingonberry's strict cultural requirements (cool temperatures, strongly acidic soil, consistent moisture, boreal-type climate) make it an extremely unlikely escapee from cultivation; it has no history of invasive behavior in the US and does not appear on any state noxious weed list or the federal invasive species list; it is a well-behaved garden plant with slow rhizomatous spread confined to prepared beds"
+    },
+    "zone": {
+      "min": 2,
+      "max": 7,
+      "description": "2-7 (Zone 6a is at the warm edge of its reliable range; lingonberry prefers the cold summers of the boreal zone; the plant will survive Zone 6-7 winters without difficulty but may underperform in hot, humid summers without appropriate siting — afternoon shade and consistent moisture are essential at the warm end of the range)"
+    }
+  },
+  "description": {
+    "height": "6-18\" (a low, mat-forming evergreen ground cover; height varies by cultivar; most named cultivars grown for fruit production stay in the 8-15\" range)",
+    "spread": "12-24\" per plant; spreads slowly over time via underground rhizomes to form a dense mat; a colony of plants will eventually merge into a continuous ground cover",
+    "spacing": "12-18\" for ground cover effect; 18-24\" for specimens with good air circulation; closer spacing (12\") fills in faster and is appropriate for a ground cover planting beneath blueberries",
+    "growthRate": "Slow; significantly slower to establish than highbush blueberry; expect minimal spread in year one as the root system establishes; gradual spread by rhizome thereafter; patience is essential — a mature lingonberry planting takes 3-5 years to develop into a dense, productive ground cover",
+    "timeToMaturity": "First small crop possible in year 2-3; meaningful harvest by years 4-5; full productivity as a ground cover mass planting by years 5-7",
+    "lifespan": "Very long-lived; an established colony can persist indefinitely, spreading slowly by rhizome; individual plants are long-lived perennial shrubs",
+    "deciduousEvergreen": "Evergreen — this is one of lingonberry's most valuable ornamental traits; the small, thick, glossy, dark green leaves are retained year-round and provide excellent winter interest; the foliage has the clean, polished look of a refined ground cover; in cold winters the leaves may take on a bronzed or reddish tinge that is ornamentally attractive",
+    "winterInterest": "High — the evergreen foliage remains glossy and presentable through winter; the combination of dark green persistent leaves and occasional reddish winter coloring makes this one of the more attractive low ground covers in the winter garden; far superior to deciduous ground covers in a bed where year-round visual interest matters"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full sun; full sun is acceptable in cooler climates (Zone 5 and below) and with consistent moisture, but at the warm edge of its range (Zone 6-7), afternoon shade is strongly recommended to moderate summer heat stress; morning sun with afternoon shade is the ideal siting in warm-summer climates; a planting beneath the canopy of blueberries or in the dappled shade of a light canopy tree is ideal; avoid full afternoon sun in hot, south-facing locations",
+    "water": "Medium to medium-high; consistent moisture is critical — lingonberry does not tolerate drought; the shallow, fibrous root system (like all Vaccinium) dries out quickly and heat stress is compounded by moisture stress; mulch heavily and maintain consistent irrigation through dry summer periods; drip irrigation or soaker hose is ideal for a lingonberry ground cover bed; in the humid East, natural rainfall may suffice in average years but supplemental irrigation is needed during dry spells; in the arid West, consistent irrigation is non-negotiable",
+    "drainagePreference": {
+      "description": "Moist but well-drained; native to bog edges and rocky forest floors where moisture is consistent but not stagnant; does not tolerate waterlogged, anaerobic conditions; raised beds or significant soil amendment are required wherever native soil is heavy clay or poorly drained",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — lingonberry cannot tolerate heavy clay soil; the combination of poor drainage, compaction, and alkaline-trending pH typical of many clay soils is fundamentally incompatible with this plant's requirements; the fine, shallow, ericoid-mycorrhizal root system suffocates in waterlogged clay, and clay soils rarely achieve the strongly acidic pH (4.5-5.5) that lingonberry demands; in any clay-soil garden, raised beds or fully replaced soil volume (pine bark fines, acidic compost, peat moss, coarse sand or perlite) is required — amending clay in place is insufficient for this species"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 5.5,
+      "description": "4.5-5.5 — the same critical acidic requirement as highbush blueberry; lingonberry is an ericaceous plant and shares the same absolute dependence on strongly acidic soil; failure to maintain soil pH below 5.5 will result in iron chlorosis, stunted growth, poor fruiting, and decline; a raised bed filled with pine bark fines, acidic compost, and peat moss (as a pH stabilizer) is the correct approach wherever native soil pH is above 5.5; the lingonberry planting should be integrated directly into an acidic-soil zone developed for ericaceous plants — they share identical soil requirements"
+    },
+    "texturePreference": "Light, well-drained soil with high organic matter; acidic sand-loam to loamy texture; in its native habitat lingonberry grows in thin, nutrient-poor, strongly acidic soils over rocky substrates or in peaty forest duff; a raised bed of pine bark fines, acidic compost, and coarse sand or perlite is the practical solution wherever native soil is heavy or alkaline",
+    "rootCharacter": "Fine, fibrous, shallow rhizomatous root system; spreads by underground rhizome to form colonies; relies on ericoid mycorrhizal associations for nutrient uptake, as do all Vaccinium species; mulch heavily (2-3\" of pine bark or pine needles) to protect the shallow roots from heat and drying; never cultivate around established plants"
+  },
+  "bloom": {
+    "bloomTime": "May-June (first flush); a second flush of bloom may occur in late summer (July-August), resulting in the second crop of berries in October",
+    "bloomDescription": "Small, bell-shaped (urceolate), nodding flowers in terminal clusters of 2-8 blooms; white to pale pink; very similar in form to blueberry flowers but smaller and more delicate; ornamentally dainty and charming at close range; a good early-season nectar source",
+    "fragrance": "Faint, sweet; not strongly perfumed",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Self-fertile — most cultivars will set fruit without a pollination partner; cross-pollination with a second cultivar improves fruit set, yield, and berry size and is recommended; bumblebees are the primary effective pollinators, as with other Vaccinium species; honeybees and small native bees also visit"
+  },
+  "yield": {
+    "edibleParts": "Berries — small (roughly 0.25\" diameter), round, bright red when fully ripe; flavor is tart, complex, slightly bitter, and reminiscent of cranberry but somewhat milder and with its own distinct character; best cooked with sugar, which transforms the flavor and softens the tartness; classic culinary uses include lingonsylt (the traditional Scandinavian lingonberry jam — the canonical accompaniment to Swedish meatballs and countless other Scandinavian dishes), sauces for game and poultry, juices, liqueurs, shrubs, and baked goods; can be eaten raw in small quantities; the flavor is rewarding and unlike any other common garden fruit; NOTE: the berries contain high levels of benzoic acid, a natural antimicrobial preservative — fresh, unwashed lingonberries keep at room temperature for several weeks without spoiling; this natural preservative quality made lingonberry one of the most important traditional preserved foods of Scandinavia and the boreal north, often simply stirred with sugar (rårörda lingon — raw-stirred lingonberries) rather than cooked; this is a genuinely remarkable property for a garden fruit",
+    "harvestSeason": "August-September (first crop); a second smaller crop may ripen in October if the plant produced a second flush of bloom in summer; the double-cropping habit is cultivar-dependent and more reliable in some years than others; berries do not all ripen simultaneously — harvest when uniformly deep red and slightly soft; the berries hold well on the plant and do not require immediate harvest",
+    "medicinalUses": "Rich in anthocyanins, flavonoids, and organic acids; traditional Scandinavian and Russian medicinal use for urinary tract health, anti-inflammatory effects, and as a general tonic; the high benzoic acid content gives the berries natural antimicrobial properties; modern research has documented antioxidant activity, anti-inflammatory effects, and potential benefits for blood sugar regulation; eaten regularly as a food-medicine in Nordic cultures rather than as a prepared extract",
+    "craftOtherYield": "Natural dye (red-pink from berries); the evergreen foliage has value as a small-scale cut green for winter arrangements; the compact, ornamental habit gives it value as a specimen ground cover independent of its fruiting value"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and nutritious; the tartness and benzoic acid content can cause stomach upset if large quantities of raw berries are consumed; best enjoyed cooked or in small amounts raw",
+    "toxicityAnimals": "Non-toxic to dogs and most common pets; berries are consumed by wildlife without harm",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Ground cover layer (herbaceous to sub-shrub)"
+    },
+    "roles": [
+      "Food (high-value edible ground cover with a distinctive, culturally significant fruit)",
+      "Medicinal",
+      "Ground Cover (evergreen, weed-suppressing mat)",
+      "Wildlife Support",
+      "Soil Protection (shallow rhizomatous mat stabilizes and protects the acidic soil surface)",
+      "Guild Companion (natural understory partner for blueberries and other ericaceous shrubs in an acidic-soil guild)"
+    ],
+    "companionPlants": [
+      "Highbush blueberry (Vaccinium corymbosum — the single most important companion; the blueberry-lingonberry pairing is a classic edible landscape guild: the upright blueberry provides light canopy and structure while the lingonberry fills the ground layer beneath; they share identical soil requirements, making joint bed preparation efficient and logical); lowbush blueberry (Vaccinium angustifolium — fills the same ground cover role with added ecological value in regions where it is native); oak (Quercus spp. — acidic leaf mulch maintains pH and mirrors the boreal forest floor); pine (Pinus spp. — pine needle mulch is a natural pH-lowering companion mulch); sweetfern (Comptonia peregrina — native nitrogen-fixer for acidic soils); wild strawberry (Fragaria virginiana — native ground cover for the same acidic zone)"
+    ],
+    "antagonists": [
+      "Any alkaline amendment (limestone, wood ash, bone meal, hard water with high mineral content); concrete or masonry foundations that leach lime; black walnut (juglone sensitivity); deep shade (reduces fruiting significantly, though some shade is beneficial for summer heat moderation in Zone 6+)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees and native bees (primary pollinators); the small red berries are consumed by numerous bird species including American robin, hermit thrush, cedar waxwing, ruffed grouse, and various thrushes and sparrows; wildlife value is highest within the plant's native boreal range; outside its native range the berries are still consumed but the plant does not serve as a primary wildlife species the way native Vaccinium do",
+    "hostPlantFor": "Vaccinium species are among the most important Lepidoptera host genera in eastern North America; lingonberry supports many of the same moth and butterfly species as other Vaccinium, including Spring Azure (Celastrina ladon) and Brown Elfin (Callophrys augustinus); as a non-native species outside its boreal range, it does not support the full ecological network that locally native Vaccinium species do, but the genus association provides meaningful host plant value",
+    "nestingHabitat": "The low mat form does not provide significant nesting structure; value is primarily as a food source for birds and foraging habitat for ground-feeding insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate to low — lingonberry evergreen foliage may be browsed in winter when deer are foraging for persistent green material; the low, mat-forming habit makes individual plants somewhat inconspicuous, but a bed of lingonberry beneath blueberries should be included within any deer-exclusion fencing protecting the blueberry planting; protect during establishment; deer pressure is a significant concern across the eastern US wherever lingonberry is grown"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — sensitive to road salt and salt spray, as with all Ericaceae; avoid planting near salted roadways or in maritime salt-spray zones; does not recover well from salt damage"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low — not drought-tolerant; summer drought is a primary stress factor, especially at the warm edge of its range (Zone 6-7); consistent moisture is non-negotiable for good performance; mulch heavily and irrigate during dry periods"
+    },
+    "other": "Heat stress is the primary challenge at the warm edge of its range (Zone 6-7); afternoon shade and consistent moisture together mitigate this; avoid hot, south-facing, or reflected-heat locations; avoid overhead irrigation with hard well water (mineral alkalinity accumulates in soil over time and raises pH); humidity tolerance is moderate — good air circulation helps prevent foliar disease in humid-summer climates"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — once established in correctly prepared acidic soil with consistent mulching, the plants themselves require minimal intervention; the primary ongoing commitment is the same as for blueberry: pH monitoring and maintenance, acidic mulch topdressing, and consistent moisture; lingonberry is slower to establish than blueberry and requires more patience, but is not a high-intervention plant once mature",
+    "pruningNotes": "Minimal pruning required; lightly trim to shape the mat if needed or to remove dead or damaged stems in early spring; do not hard-prune; the plant spreads by rhizome and self-renews naturally; remove any dead wood after winter to keep the planting tidy",
+    "propagationMethods": [
+      "Division of established clumps or rhizome sections (most practical for home gardeners — simply dig and separate rooted rhizome sections in spring); softwood cuttings (June-July, under humidity dome — similar to blueberry but slower to root); layering (pin a stem to the ground and cover a section with acidic soil; roots develop at the buried node); seed (very slow; seedlings do not come true to cultivar; not practical for named varieties)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly preferred over unnamed seedling plants — cultivar selection significantly affects productivity, berry size, and plant habit. Lingonberry cultivars are less widely available than blueberry cultivars at mainstream nurseries; look to blueberry specialty nurseries, mail-order sources specializing in ericaceous plants, and Scandinavian-origin plant suppliers.\n**Zone 3-5 (core range):** All cultivars perform well in this zone band. 'Koralle' and 'Linnea' are especially productive where cool summers allow consistent fruiting. Double-cropping (spring and late-summer bloom flushes producing two harvests) is most reliable in this range.\n**Zone 6-7 (warm edge):** Cultivar selection becomes more important as summer heat limits performance. Choose cultivars with proven vigor and heat resilience. 'Koralle' remains the safest choice — it is the most widely trialed and broadly adapted cultivar. 'Linnea' (vigorous, heavy-fruiting) is a strong second choice for maximizing yield. 'Red Pearl' (compact, good flavor) suits gardeners wanting a neater ground cover. 'Sanna' (compact, tidy) is best for containers or very controlled plantings but may be less productive at the warm edge. Afternoon shade and consistent moisture are essential management practices in this zone band. Double-cropping is less reliable here — expect a primary August-September harvest with a smaller October crop in favorable years.\n**Zone 8+:** Not recommended; lingonberry requires winter chill and cool summers that are not available in Zone 8 and warmer. High-elevation microclimates in Zone 8a may support marginal growth but reliable fruiting is unlikely.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Evergreen edible ground cover for acidic-soil zones; understory companion beneath highbush blueberries; low ornamental ground cover for partially shaded",
+      "moist",
+      "acidic areas; a culturally and culinarily distinctive fruit for the edible landscape; container culture (in a large acidic-soil-filled container) is viable for patio or porch placement"
+    ],
+    "designPlacement": "Lingonberry belongs in an acidic-soil raised bed zone developed for ericaceous plants — it fills the ground layer beneath upright blueberries in a natural, low-maintenance guild. The blueberry-lingonberry layered planting is a classic edible landscape combination: the blueberries provide the shrub layer and partial shade (which benefits lingonberry in Zone 6+ heat), the lingonberry provides the ground cover layer and suppresses weeds, and both share identical pH and cultural requirements, making bed management simple. The evergreen foliage of the lingonberry adds winter interest to what would otherwise be a bed of bare blueberry stems. Plant lingonberry at 12-15\" spacing as a mass ground cover throughout the blueberry bed, mulched with pine bark or pine needles to 2-3\" depth. Avoid full-sun, hot exposures — site in morning sun with afternoon shade, or beneath a light deciduous canopy. In hot-summer climates (Zone 6+), careful siting for heat moderation pays significant dividends.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea",
+    "inaturalist": "https://www.inaturalist.org/taxa/56312-Vaccinium-vitis-idaea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279945"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — lingonberry is not native to Pennsylvania; some naturalized populations occur at higher elevations in the northeastern US (the Appalachians of New England and New York), but Pennsylvania is well outside the plant's primary native range; lingonberry is a non-native edible at this site, chosen for its unique cultural and culinary value and its compatibility with the acidic-soil guild",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no invasive concern",
+      "drainage": "The native red clay at the Hegins site is entirely unsuitable for lingonberry without full raised bed construction or complete soil replacement; do not attempt to amend the clay in place — build a dedicated acidic-soil raised bed with pine bark fines, acidic compost, and peat moss as a pH stabilizer; this bed should be shared with highbush blueberry, which has identical requirements",
+      "soil": "The heavy red clay at the Hegins site requires full raised bed construction with acidic growing media — pine bark fines, acidic compost, peat moss, and coarse perlite; amending the native clay in place is not viable for this species; share the raised bed with highbush blueberry for efficient bed management",
+      "cultivarNotes": "Plant 'Koralle' as the primary cultivar (3-5 plants as a ground cover mass), and add 'Linnea' or 'Red Pearl' as a second cultivar for cross-pollination and variety. Source from a reputable mail-order nursery with ericaceous plant expertise — local garden centers rarely carry lingonberry.",
+      "designPlacement": "The acidic-soil blueberry zone with morning sun and afternoon shade is the optimal placement. The north-facing aspect of Section A would be thermally appropriate (cool, shaded) but light levels may be too low for meaningful fruiting. Place in a dedicated blueberry-lingonberry raised bed positioned for morning sun and afternoon shade protection, outside the named foundation bed sections.",
+      "siteObservations": "Zone 6a is at the warm edge of lingonberry's reliable range; the plant will survive winters without difficulty but may underperform in hot, humid summers without appropriate siting. Afternoon shade and consistent moisture are the two non-negotiable management practices at this site. The native red clay is entirely unsuitable — a fully constructed acidic raised bed is required (shared with highbush blueberry). Include the lingonberry-blueberry bed within deer-exclusion fencing; the evergreen foliage will attract winter browsing from the active deer corridor to the east. Avoid overhead irrigation with hard well water — mineral alkalinity accumulates in soil and raises pH over time."
+    }
+  }
+}

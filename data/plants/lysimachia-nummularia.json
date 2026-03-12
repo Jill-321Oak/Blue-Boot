@@ -1,0 +1,163 @@
+{
+  "id": "lysimachia-nummularia",
+  "name": {
+    "commonName": [
+      "Creeping Jenny",
+      "Moneywort"
+    ],
+    "latinName": "Lysimachia nummularia",
+    "family": "Primulaceae"
+  },
+  "range": {
+    "nativeRange": "Europe; widely naturalized across North America in moist habitats — stream edges, wet meadows, floodplains, and shaded damp ground",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced and extensively naturalized throughout the eastern US from New England to the upper Midwest and south to Virginia and Missouri; less common in the western US but present in the Pacific Northwest (Oregon, Washington) and scattered locations elsewhere; naturalizes readily wherever consistent moisture is available"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Yes — listed as invasive in several US states including Connecticut, Massachusetts, Wisconsin, and Tennessee; classified as a noxious weed or plant of concern in parts of the upper Midwest and New England; spreads aggressively by vegetative stolons into natural wetlands, riparian areas, and floodplain forests, displacing native ground flora; does not spread primarily by seed but by stem fragments that root at nodes, making it particularly problematic along waterways where plant material is carried downstream; gardeners in all states should avoid planting adjacent to natural streams, ponds, wetlands, or other wild water features; check your state's noxious weed list before planting — restrictions vary significantly by state"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "1-3\" (prostrate mat)",
+    "spread": "Unlimited — spreads indefinitely by rooting creeping stems; can cover large areas given appropriate moisture",
+    "spacing": "12-18\" for initial planting; fills in to a continuous mat within 1-2 seasons",
+    "growthRate": "Fast once established; spreads aggressively in moist conditions",
+    "timeToMaturity": "Full ground cover effect in 1-2 seasons",
+    "lifespan": "Essentially permanent in suitable conditions",
+    "deciduousEvergreen": "Semi-evergreen to evergreen — foliage often persists through mild winters; in Zone 6 and warmer, the round bright green leaves form a continuous mat visible through winter; one of the few ground covers that looks presentable in late winter",
+    "winterInterest": "Good — persistent green mat through winter in Zone 6 and warmer; 'Aurea' (golden form) is particularly attractive against the gray winter landscape"
+  },
+  "lightAndWater": {
+    "sun": "Full shade to part shade; tolerates more shade than most ground covers while maintaining dense, vigorous growth; also grows in full sun if moisture is adequate; in Zone 8+ and the deep South, afternoon shade is beneficial to prevent leaf scorch",
+    "water": "Medium to high; excellent in moist conditions; performs best with consistent moisture; drought stress causes browning and retreat; in dry conditions, growth stops and the mat thins; gardeners in the arid West or in sandy-soil regions will need consistent supplemental irrigation",
+    "drainagePreference": {
+      "description": "Moist to wet; one of the few ornamental ground covers that thrives in consistently moist or wet conditions; tolerates periodic flooding; excellent for areas where drainage is poor or where water collects after rain; not suited to well-drained sandy soils without irrigation",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — heavy clay is actually an advantage for this plant because clay retains the moisture it requires; creeping Jenny performs better in unamended clay than most ground covers; the combination of clay's moisture retention and the plant's shallow rooting habit is ideal; no amendments needed for moisture reasons, though loosening the surface helps initial establishment"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; performs well in clay-loam, silt-loam, and average garden soil; actually prefers heavier soils that retain moisture over light sandy soils that drain too quickly; organic matter improves performance in any soil type by increasing moisture retention",
+    "rootCharacter": "Shallow rooting stems that root at every node; each node produces roots in contact with moist soil; rapid lateral spread by this vegetative mechanism"
+  },
+  "bloom": {
+    "bloomTime": "May-July",
+    "bloomDescription": "Small, bright yellow, 5-petaled cup-shaped flowers, 0.5-0.75\" wide, appearing singly along the stem at leaf nodes; cheerful and bright; not prolific but charming when present",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees work the flowers; modest pollinator value"
+  },
+  "yield": {
+    "edibleParts": "None typically used",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Traditional wound-healing use in European folk medicine (vulnerary); used externally for minor wounds; not significant in modern herbalism",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic",
+    "toxicityAnimals": "Generally considered safe; not a known toxin",
+    "allelopathy": "The dense mat may inhibit seed germination of competing plants — a positive weed-suppression effect in the garden context",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (primary — one of the best weed-suppressing ground covers for moist shade)",
+      "Soil Cover (prevents erosion, retains moisture)",
+      "Beauty (low-maintenance, attractive mat)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — ground cover under the canopy)",
+      "Matteuccia struthiopteris (ferns — creeping Jenny fills the spaces between the fern crowns)",
+      "Asarum canadense (wild ginger — complementary ground covers at the same level)",
+      "Lindera benzoin (understory companion)"
+    ],
+    "antagonists": [
+      "Invasive in natural wetland habitats — do not plant adjacent to natural streams",
+      "ponds",
+      "or wetlands; manage the spread at the boundary of the garden"
+    ],
+    "coppiceable": "No; mow or trim the mat edges to prevent spread beyond desired areas; the mat is maintained by its own vigorous growth"
+  },
+  "wildlife": {
+    "attracts": "Bees (modest); the moist ground cover habitat supports a diverse invertebrate community including ground beetles, slugs, and other decomposers",
+    "hostPlantFor": "Not a significant host plant for North American native Lepidoptera (European native plant)",
+    "nestingHabitat": "Dense mat provides ground-level microhabitat; moisture-loving invertebrates use the cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — low-growing and less palatable than many garden plants; deer will browse it occasionally but the rapid regrowth means browsing rarely causes permanent damage; the prostrate habit keeps it below typical browse height for whitetail deer; not a preferred food source but not reliably resistant either"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers; not suited to heavy maritime salt spray or direct salt application"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — this is the primary limitation; creeping Jenny requires consistent moisture to maintain a dense mat; drought conditions cause significant retreat and browning; supplemental irrigation is essential during dry periods in any region; gardeners in USDA Zones 7-9 and areas with hot, dry summers should plan for regular watering"
+    },
+    "other": "Tolerates flooding, wet clay, compacted soil, and heavy shade; one of the most valuable ground covers for persistently moist or poorly drained areas; heat-tolerant in shade but stressed by the combination of full sun and dry conditions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low in appropriate moisture conditions",
+    "pruningNotes": "Trim or cut back at the perimeter to prevent spread beyond intended areas; remove sections that encroach into paths, neighboring beds, or natural areas; the mat otherwise requires no maintenance",
+    "propagationMethods": [
+      "Division (trivially easy — any stem section with a node can be replanted in moist soil; roots within days)",
+      "runners (the plant propagates itself continuously)"
+    ]
+  },
+  "cultivarNotes": "**'Aurea'** (Golden Creeping Jenny) is the most widely available cultivar — bright gold-yellow foliage that provides striking color contrast in shaded areas; slightly less vigorous than the green-leaved species, which can be an advantage where aggressive spread is a concern. In **Zones 3-5** (northern US), both the species and 'Aurea' are fully hardy; 'Aurea' may brown earlier in fall in the coldest zones but returns reliably in spring. In **Zones 6-7** (mid-Atlantic, upper South, central Midwest), both forms are semi-evergreen and provide winter interest; 'Aurea' is particularly effective in this zone band where winters are cold enough to suppress competing weeds but mild enough for the mat to persist visually. In **Zones 8-9** (deep South, Gulf Coast, Pacific coast), creeping Jenny performs well with adequate moisture but may struggle in hot, dry summers; 'Aurea' can bleach in intense southern sun — plant in shade in these zones. The green species form is more heat-tolerant than 'Aurea' in the warmest zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden ground cover",
+      "moist shade garden",
+      "rain garden",
+      "stream-side planting (managed)",
+      "food forest guild ground layer",
+      "erosion control on moist slopes",
+      "container trailing plant"
+    ],
+    "designPlacement": "Best used as a ground-layer mat beneath taller plants in shade or part shade where moisture is consistent; particularly effective under deciduous trees and shrubs where it receives spring light before canopy leaf-out and steady shade through summer; plant at lower-lying areas within a garden where water naturally collects; pair with ferns, hostas, wild ginger, or other shade-tolerant perennials that grow above the mat layer; avoid planting where the mat can spread into natural waterways or wild areas — install a physical edge (path, mowing strip, or hard border) to contain spread",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lysimachia_nummularia",
+    "inaturalist": "https://www.inaturalist.org/taxa/51809-Lysimachia-nummularia",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285553"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; naturalized throughout Pennsylvania in stream edges, wet lawns, shaded ditches, and moist disturbed ground; likely present in the surrounding Hegins landscape along creeks and wet roadsides",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or DCNR invasive species list as of current records; however, it spreads aggressively in wet natural areas and should be managed carefully to prevent escape into adjacent riparian corridors; its invasive status in neighboring states (Connecticut, Massachusetts) warrants caution in PA plantings near waterways",
+      "drainage": "The compacted red clay at the Hegins site is well-suited to creeping Jenny without amendment; the naturally poor drainage that limits many plants is a benefit here; plant directly in native soil in any low-lying or moist area; no raised bed needed — in fact, raised beds would dry out too quickly for this species",
+      "soil": "Red clay at the Hegins site needs no amendment for this species — plant directly in native soil; the clay's moisture-holding properties are ideal; lightly loosen the top 2-3\" of compacted soil at planting time to help initial root contact, but no structural amendment is required",
+      "cultivarNotes": "'Aurea' is the recommended form for the paw paw guild ground layer at the Hegins site — provides visual brightness in deep shade where the green form would blend into the background; semi-evergreen through most Hegins winters.",
+      "designPlacement": "Paw paw guild ground layer — fills the lowest layer of the guild, covering bare soil between ferns, wild ginger, and ramps; use 'Aurea' for visual brightness in the deep shade of the paw paw canopy; plant at the outer edges of the guild where moisture may be slightly higher and shade slightly less dense; the red clay soil and any low spots within the guild area are ideal placement",
+      "siteObservations": "The compacted red clay and poor drainage at the Hegins site are actually advantageous for this species — one of the few plants that benefits from the site's drainage limitations. Deer pressure from the east corridor is a minor concern; the low-growing habit keeps it below primary browse height and rapid regrowth compensates for occasional grazing. Any lower-lying or slower-draining areas within the paw paw guild footprint are ideal microhabitats. The semi-evergreen mat should persist through most Zone 6a winters at this site, providing one of the few green ground covers visible in February. Monitor spread toward any nearby drainage channels or wet areas beyond the garden boundary — do not allow establishment outside managed areas."
+    }
+  }
+}

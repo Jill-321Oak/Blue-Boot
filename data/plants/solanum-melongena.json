@@ -1,0 +1,161 @@
+{
+  "id": "solanum-melongena",
+  "name": {
+    "commonName": [
+      "Eggplant",
+      "Aubergine",
+      "Brinjal"
+    ],
+    "latinName": "Solanum melongena",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "South Asia — likely originated in India or Southeast Asia; wild progenitors found across the Indian subcontinent; cultivated for at least 1,500 years and spread along trade routes through the Middle East, Mediterranean, and eventually globally",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; eggplant is an Old World tropical crop with no wild populations in North America; it does not naturalize in the US due to its frost-tender annual habit"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; eggplant is a tender annual killed by the first frost and does not self-sow or persist between seasons in any part of the lower 48; it has no invasive potential, appears on no state noxious weed lists, and poses zero ecological risk"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "Grown as an annual in Zones 3-11; perennial only in frost-free climates (Zones 10-12); in Zones 3-6 it is a demanding warm-season annual requiring careful timing and soil warming; in Zones 8+ with long hot summers it is considerably easier and more productive"
+    }
+  },
+  "description": {
+    "height": "2-4' depending on variety; standard large-fruited types (Black Beauty, Classic) tend toward 3-4'; compact Asian slender types (Ichiban, Orient Express) typically 2-3'; container varieties smaller still",
+    "spread": "1.5-3' depending on variety; plants are bushy and shrub-like in form, with a sturdy central stem and spreading side branches",
+    "spacing": "18-24\" between plants; 30-36\" between rows in ground beds; 24\" in raised beds with good fertility",
+    "growthRate": "Slow to establish, especially in cool spring soil — this is the central challenge in short-season climates; once summer heat arrives and soil warms above 65°F, growth accelerates noticeably; Asian types establish and fruit faster than large-fruited standard types",
+    "timeToMaturity": "65-80 days from transplant to harvest depending on variety; Orient Express (58 days) and Ichiban (61 days) are the fastest options and best suited to short-season zones; Black Beauty (80+ days) is slow and marginal in anything below Zone 7; start counting days only once plants are truly growing, not merely surviving",
+    "lifespan": "Tender annual — killed by the first frost; no overwintering in any zone with freezing temperatures",
+    "deciduousEvergreen": "Annual; not applicable",
+    "winterInterest": "None; plant dies at frost"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 8+ hours required; eggplant is the most heat-demanding of the common Solanums (more so than tomato or pepper) and any shading significantly slows growth, delays fruiting, and reduces yield; do not plant where afternoon shade from structures, trees, or tall crops will reach; the warmest, most sun-saturated spot available is always the right spot for eggplant",
+    "water": "Medium to medium-high; consistent moisture during establishment is critical; once fruiting begins, even moisture prevents blossom drop and bitter fruits; drip irrigation or soaker hose under mulch is ideal; avoid wetting foliage; do not allow to wilt — water stress causes bitterness and triggers premature seed development inside the fruit; in humid eastern climates natural rainfall helps but supplemental irrigation is still needed in dry spells; in arid western climates irrigation is mandatory throughout the season",
+    "drainagePreference": {
+      "description": "Well-drained is essential — eggplant will not tolerate waterlogged roots and is prone to stem rot in cold, wet soil; raised beds are strongly recommended wherever drainage is questionable; heavy soils must be amended or bypassed entirely with raised bed culture",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; heavy clay is one of the worst substrates for eggplant — it stays cold and wet in spring (exactly when eggplant needs warm, aerated soil), compacts around the shallow fibrous root system, and promotes stem and root rot in cool weather; eggplant in unamended clay typically stunts, yellows, and produces little; raised beds filled with loam-compost mix are the definitive solution on any clay site; if in-ground planting is attempted, deep incorporation of compost and coarse organic matter plus black plastic mulch to warm the surface are minimum requirements"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.8,
+      "max": 6.5,
+      "description": "5.8-6.5; slightly acidic preferred; avoid strongly alkaline soils"
+    },
+    "texturePreference": "Rich, loose, well-drained, deeply prepared soil with generous organic matter; eggplant does poorly in heavy clay or compacted ground — cold, wet, dense soils suppress root development and delay the soil warming that is critical for this heat-loving crop; sandy loam to loam amended with compost is ideal; raised beds filled with quality growing mix are the best approach wherever native soil is heavy or poorly drained",
+    "rootCharacter": "Fibrous, moderately deep root system; roots are sensitive to cold and compaction; transplanting disturbs roots easily — use peat or coir pots to minimize transplant shock, or handle rootball with care; roots will not penetrate hardpan or cold, waterlogged clay effectively"
+  },
+  "bloom": {
+    "bloomTime": "Mid-summer through early fall in most zones; in short-season climates (Zones 3-6) typically July through September; in long-season climates (Zones 8+) June through October; flowers appear continuously once the plant is established and temperatures are consistently warm",
+    "bloomDescription": "Nodding, star-shaped flowers with five recurved violet-purple petals and a prominent yellow anther cone; individually attractive in a quiet way; similar in form to other Solanums; flowers appear singly or in small clusters at branch axils; each flower either sets fruit or abscises — cold nights, drought stress, or nitrogen excess cause drop",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite; each flower contains both male and female organs; short-styled flowers (stamens longer than style) tend not to set fruit — a sign of heat or nutrition stress",
+    "pollination": "Self-fertile; bees, especially bumblebees and other large vibrating bees, improve fruit set through buzz pollination (sonication) which dislodges pollen from the anther cone; do not use row cover during flowering as it excludes pollinators; remove cover when flowers appear"
+  },
+  "yield": {
+    "edibleParts": "Fruit (botanically a berry); the entire flesh is edible when cooked; skin is edible and nutritious though sometimes peeled for texture; seeds inside mature fruits are edible but bitter — harvest before seeds mature; the calyx is inedible; leaves and stems are toxic (see Cautions). Eggplant MUST be cooked — raw eggplant contains solanine and chaconine alkaloids that cause gastric distress; cooking neutralizes these compounds. Excellent grilled over high heat until charred and silky, roasted whole for baba ghanoush, layered in ratatouille and moussaka, in South Asian curries (baingan bharta, dal bhat), braised, stuffed, or fried. Asian slender types are firmer, less bitter, need no salting, and are prized for stir-fries and quick-cooking preparations.",
+    "harvestSeason": "Peak production typically occurs during the hottest months — August-September in Zones 5-6, July-September in Zones 7-8, June-October in Zones 9+; harvest fruits when they are fully sized for the variety, skin is deeply glossy, and the flesh springs back when pressed with a thumb — if the indent remains, the fruit is overripe and seeds will be bitter and tough; check plants every 2-3 days at peak season; frequent harvest stimulates continued fruiting; do not leave overripe fruits on the plant as this suppresses new fruit set",
+    "medicinalUses": "Traditional uses in Ayurvedic and South Asian medicine for managing blood sugar and cholesterol; modern research has some interest in the anthocyanins in purple skin (nasunin) as antioxidants; not a primary medicinal plant for Western herbalism",
+    "craftOtherYield": "Ornamental value — the purple-black glossy fruits, violet flowers, and sometimes spiny calyxes are genuinely decorative; compact or small-fruited varieties are grown as ornamentals; the striking color of Black Opal or Patio Baby is purely decorative in a container or border"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "The leaves, stems, and unripe fruit contain solanine and other Solanaceae alkaloids — the same family of compounds found in tomato leaves and potato greens; DO NOT eat the leaves or stems under any circumstances; raw fruit in large quantities may cause gastric upset; cooking the fruit fully eliminates concern for the flesh; the ripe, cooked fruit is completely safe and is a global staple food",
+    "toxicityAnimals": "Leaves and stems are toxic to dogs, cats, horses, and other animals via solanine; do not allow animals to browse the plants; composting spent plants away from animal access areas is advisable; ripe cooked fruit flesh is generally considered safe for dogs in small amounts but is not recommended; fruit is toxic to cats",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous annual layer (warm-season annual vegetable)"
+    },
+    "roles": [
+      "Annual Food Crop (primary)",
+      "Flea Beetle Trap Crop Companion (when grown with basil and amaranth)",
+      "Soil Warming Beneficiary (black plastic mulch system)",
+      "Rotation Crop (Solanaceae family in 3-4 year rotation)"
+    ],
+    "companionPlants": [
+      "Basil (strongly recommended — repels aphids and spider mites, may improve fruit flavor, easy co-planting; interplant at bed edges or between eggplants); Marigold (Tagetes patula — French marigold especially; nematode suppression and possible flea beetle deterrence; plant around bed perimeter); Amaranth (tall ornamental or grain amaranth grown at bed edges as a trap crop — flea beetles prefer amaranth over eggplant and can be managed there, drawing pressure away from the crop); Peppers (share heat requirements and can be interplanted if space allows, but ensure neither shades the other); Thyme and oregano as low ground cover around bed edges"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare — allelopathic to most vegetables; keep away); other Solanaceae (tomato, potato, pepper — do not plant eggplant in beds that grew any of these in the previous 1-3 years; they share diseases including verticillium wilt, fusarium, and pest populations including Colorado potato beetle and hornworm); brassicas nearby may attract flea beetles that then migrate to eggplant"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees and large native bees for buzz pollination — valuable when in flower; honeybees visit but are less effective; flowers attract some beneficial predatory wasps",
+    "hostPlantFor": "Colorado potato beetle (Leptinotarsa decemlineata) — eggplant is a preferred host, even more so than potato or tomato; this is the single most serious insect pest across the eastern US; flea beetles (Epitrix cucumeris and related species) are primary pests of seedlings and young transplants; tomato hornworm (Manduca quinquemaculata) will use eggplant; spider mites in hot dry conditions",
+    "nestingHabitat": "None significant; annual cleared each fall"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — eggplant foliage and fruits are palatable to deer, and the plants are low to the ground and vulnerable; in areas with active deer pressure, physical exclusion (fencing, cages, or enclosed raised beds) is required for reliable production; row cover used for frost and flea beetle protection in early season incidentally provides some deer deterrence, but is not sufficient once plants are large and cover is removed for flowering; deer resistance does not improve with age or size"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not tolerant of salt spray or saline soils"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor to low; eggplant requires consistent moisture and wilts quickly under water stress; water stress causes blossom drop, bitter fruits, and premature seed development; mulch and consistent irrigation are essential regardless of climate zone; this is not a drought-tolerant plant"
+    },
+    "other": "Cold sensitivity is the defining limitation in short-season zones — eggplant is damaged by soil temperatures below 55°F and air temperatures below 50°F; cold stress causes purple discoloration of leaves, stunting, and failure to set fruit; plants exposed to temperatures below 45°F early in the season may never fully recover their growth momentum even when weather warms; in Zones 7+ this is rarely an issue after normal transplanting dates; in Zones 3-6 it is the primary management challenge and requires season extension tools (black plastic mulch, row cover, careful transplant timing); heat tolerance is excellent — eggplant thrives in high heat and performs best with sustained temperatures above 80°F"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — more demanding than tomatoes or peppers in short-season climates; requires careful timing, soil warming preparation, pest monitoring, and consistent water; in long-season warm climates (Zones 8+) it is considerably easier; the reward is proportional to the attention given",
+    "pruningNotes": "Pinch out the growing tip when plants are 12\" tall to encourage branching and more fruiting sites — this is optional but improves compact branching in large-fruited types. Remove any fruit that has become overripe (dull skin, brown-seeded interior) immediately — it suppresses further fruiting. Stake larger-fruited varieties (Black Beauty, Classic) once fruits develop, as heavy fruits on wet soil can topple plants or break branches; a simple stake or tomato cage works. At end of season, remove all plant debris completely — do not compost in place; eggplant debris harbors Colorado potato beetle eggs and verticillium spores; bag and dispose or hot-compost; do not leave in the bed over winter.",
+    "propagationMethods": [
+      "Seed started indoors is required in Zones 3-7 — direct sowing outdoors is not viable where the frost-free season is under 150 days. Start 8-10 weeks before last frost date. Seeds require soil temperatures of 80-90°F for reliable germination — use a heat mat; germination at lower temperatures is slow and erratic. Sow 2-3 seeds per cell at 1/4\" depth; thin to one seedling per cell once true leaves appear. Grow under strong light (LED grow light 14-16 hours/day) — leggy",
+      "weak seedlings at transplant time never recover their momentum in the season. Harden off for 10-14 days before transplanting. Transplant to the garden only when: (1) all frost danger is past",
+      "(2) nighttime air temperatures are consistently above 55°F",
+      "AND (3) soil temperature is at or above 60°F ideally 65°F — use a soil thermometer. Black plastic mulch laid 1-2 weeks before transplanting pre-warms the soil significantly. Use row cover over transplants for the first 2-4 weeks to retain heat",
+      "protect from flea beetles",
+      "and shelter from cold nights — remove when plants begin to flower. In Zones 8+ with long warm seasons",
+      "direct sowing is possible and transplanting timing is far less critical."
+    ]
+  },
+  "cultivarNotes": "Variety selection is one of the most important decisions for eggplant success, especially in short-season climates. Performance varies significantly by zone band.\n**Zones 3-5 (short season, limited heat):** Fast-maturing varieties are essential. Fairy Tale (50 days), Hansel and Gretel (55 days), and Orient Express (58 days) are the safest choices. Large-fruited types like Black Beauty are marginal to unreliable. Black plastic mulch, row cover, and wall-of-water or similar season extenders may be needed. Asian slender types generally outperform standard globe types.\n**Zones 6-7 (moderate season, adequate heat most years):** The sweet spot for variety diversity. Asian slender types (Ichiban at 61 days, Orient Express at 58 days, Ping Tung Long at 65-70 days) are the most reliable backbone. Large-fruited types (Black Beauty at 74-80 days, Rosa Bianca at 75 days) are achievable with black plastic mulch and warm site selection but carry some risk in cool summers. Casper (70 days, white-skinned, mild and sweet) is a reliable mid-season producer. Fairy Tale and Hansel/Gretel provide insurance with their fast maturity and cool-tolerance.\n**Zones 8+ (long season, abundant heat):** All varieties perform well. Large-fruited Italian and American globe types (Black Beauty, Rosa Bianca, Violetta di Firenze) reach their full potential. Long-season specialty types and multiple successions are feasible. Asian slender types are still excellent for quick production and stir-fry quality.\n**Key cultivars across all zones:**\n**'Ichiban'** — The benchmark Asian slender eggplant for American home gardens; glossy deep purple, 10-12\" long, slim; 61 days from transplant; prolific and dependable; widely available as seed and starts.\n**'Orient Express'** — Even earlier than Ichiban at around 58 days; very productive; slightly thicker than Ichiban; good disease tolerance; well-suited to short-season climates; strong choice alongside or instead of Ichiban.\n**'Ping Tung Long'** — Taiwanese heirloom; lavender to deep purple slender fruits to 18\"; 65-70 days; beautiful and productive; outstanding flavor; needs a bit more heat than Orient Express.\n**'Black Beauty'** — The classic large American eggplant; glossy, deep purple-black, globular fruits; 74-80 days; requires the warmest possible site and black plastic mulch in Zones 6 and below; the standard for traditional preparations.\n**'Casper'** — White-skinned eggplant; creamy white skin and flesh; mild, sweet flavor with no bitterness; 70 days; a reliable producer and excellent culinary variety.\n**'Rosa Bianca'** — Italian heirloom; round, lavender-streaked white fruits; stunning appearance; mild and creamy flesh; 75 days; beautiful in the garden and on the plate; needs a warm site in Zones 6-7.\n**'Fairy Tale'** — Small, striped lavender-and-white fruits; 50 days; remarkably fast and very productive; tolerates cooler conditions better than standard types; excellent for short or cool seasons; good in containers; no bitterness, no need to peel.\n**'Hansel' and 'Gretel'** (AAS winners) — Prolific small-fruited types (deep purple and white respectively); 55 days; container-friendly; produce abundantly and early; good disease resistance. Excellent insurance varieties in any zone.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable bed (strongly preferred); dedicated annual vegetable bed with full-season heat; kitchen garden in warmest available microclimate; not suitable for borders",
+      "food forest floor",
+      "or any partially shaded position"
+    ],
+    "designPlacement": "Place eggplant in the warmest, most sun-saturated bed available — a south-facing or southwest-facing raised bed with no shade from structures, trees, or tall crops during the growing season. In short-season climates, a raised bed against a south-facing wall or building provides radiant heat that significantly improves performance. Do not place in food forest understory, partially shaded borders, or north-facing beds. Rotate out of any bed that grew tomatoes, potatoes, or peppers in the prior three seasons. Pair the eggplant bed with basil and marigolds at the borders as both pest management and a productive, beautiful kitchen garden combination.",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eggplant",
+    "inaturalist": "https://www.inaturalist.org/taxa/63190-Solanum-melongena",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287158"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of North America; a cultivated warm-season vegetable only",
+      "paInvasiveStatus": "Same as general Invasive field — not regulated in Pennsylvania; no invasive potential whatsoever",
+      "drainage": "The red clay at the Hegins site is compacted and poorly drained — the worst possible substrate for eggplant in-ground; raised beds are required, not optional; a loam-compost raised bed with black plastic mulch solves both the drainage and cold-soil problems simultaneously; do not attempt eggplant in unprepared clay at this property",
+      "soil": "At the Hegins site, raised beds filled with loam-compost mix are the practical solution; the native red clay is unsuitable for eggplant without total replacement or deep amendment; black plastic mulch over the raised bed surface further accelerates warming and moisture retention in the critical early-season window",
+      "cultivarNotes": "Start with Orient Express and Ichiban as the backbone, add Fairy Tale or Hansel for insurance early production, and try one Black Beauty or Rosa Bianca if you want the traditional types. Grow all with black plastic mulch. At Hegins, the May 1 last frost date means transplanting in late May once soil is genuinely warm.",
+      "designPlacement": "Section C (south-facing back porch strip) is the best microclimate on the property for eggplant — warm, protected, full southern exposure. A dedicated 4'x8' or 4'x12' raised bed in Section C, pre-warmed with black plastic mulch, with deer exclusion (the porch proximity helps here), is the target setup. Eggplant should NOT be placed in Section A (north-facing, partially shaded — completely wrong microclimate) or Section B (north-facing, will be increasingly shaded). Do not place eggplant in the food forest guilds.",
+      "siteObservations": "Zone 6a Hegins is at the cooler margin of reliable eggplant production, but success is entirely achievable with the right tools. The three non-negotiable elements at this site are: (1) the right varieties — Asian slender types (Ichiban, Orient Express, Fairy Tale) that mature in 55-65 days rather than 80; (2) black plastic mulch — laid 1-2 weeks before transplanting to pre-warm the soil to 65°F; this is the single biggest yield intervention available and costs almost nothing; and (3) timing — do not transplant before late May when soil is genuinely warm, even though the last frost is May 1; cold soil in early May stunts plants for the entire season. Row cover used for the first 3-4 weeks after transplanting provides meaningful heat retention and flea beetle protection simultaneously. The site's deer pressure from the east corridor makes fencing or physical exclusion essential; the south-facing porch location of Section C offers some natural deterrence, but relying on it is not sufficient. The clay soil is resolved entirely by the raised bed approach — eggplant in amended loam-compost raised bed will perform well; eggplant in unprepared clay will struggle. Start seeds indoors under grow lights by mid-March at the latest."
+    }
+  }
+}

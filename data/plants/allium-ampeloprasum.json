@@ -1,0 +1,158 @@
+{
+  "id": "allium-ampeloprasum",
+  "name": {
+    "commonName": [
+      "Elephant Garlic (also: Great-headed Garlic",
+      "Wild Leek)"
+    ],
+    "latinName": "Allium ampeloprasum (Ampeloprasum Group)",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Southern Europe, northern Africa, and western Asia; widely naturalized in temperate regions worldwide; the cultivated Ampeloprasum Group (elephant garlic) is a selected form of the wild leek species",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from the Mediterranean region; the wild form and elephant garlic (a cultivar) are grown throughout the US; not significantly naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; cultivated plant that does not establish aggressively in natural areas"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9 (hardneck garlic hardiness; some sources cite Zone 4 with good mulching)"
+    }
+  },
+  "description": {
+    "height": "24-36\" in active foliar growth; scape can reach 36-48\" when allowed to develop; taller than standard hardneck garlic",
+    "spread": "8-12\" per bulb at maturity — significantly wider than true garlic cloves due to the large bulb size",
+    "spacing": "8-10\" apart within rows; 12-18\" between rows; individual cloves are large and need room to produce full-sized bulbs; rounds (first-year plants from bulbils) can be spaced at 4-6\"",
+    "growthRate": "Similar to hardneck garlic — planted in fall, slow winter growth, rapid spring flush, harvest July; the growth arc is nearly identical to Allium sativum rocambole (see that profile for comparison)",
+    "timeToMaturity": "9 months from fall planting to July harvest; scapes harvestable in late May to June; bulbils planted in fall take 2 years to produce full-sized bulbs (year 1 produces an unbulbed \"round,\" year 2 produces a split bulb)",
+    "lifespan": "Grown as an annual crop — plant in fall, harvest in summer; can be left as a perennial (each clove will regrow), but bulb quality declines without annual replanting and harvest",
+    "deciduousEvergreen": "Annual/perennial bulb — foliage dies back completely as bulbs mature; the yellowing of the lower leaves is the harvest signal, identical to hardneck garlic",
+    "winterInterest": "Green shoots may emerge in mild spells; mostly dormant through hard winter; the robust foliage emerges earlier and more vigorously than standard garlic in spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required — minimum 6-8 hours of direct sun for good bulb development; reduced yield in partial shade",
+    "water": "Medium during active spring growth; reduce watering significantly as harvest approaches (May onward); wet soil as bulbs mature invites fungal rot and poor curing; drainage is more critical than irrigation once bulbs are sizing up",
+    "drainagePreference": {
+      "description": "Well-drained soil essential — elephant garlic bulbs are large and susceptible to rot in waterlogged conditions, just as true hardneck garlic is; however, elephant garlic is more forgiving of moderately heavy clay than small-bulb garlic types, as the bulb sits somewhat higher in the soil profile; in the Hegins clay beds, raised beds remain strongly preferred, but in-ground planting on a slight slope or in a naturally drained area is more viable here than with true garlic",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate; bulb development requires loose, well-drained soil; clay compacts around developing bulbs causing misshapen small bulbs and rot risk; raised beds are strongly recommended for heavy-soil gardeners wanting good bulb size"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; neutral to slightly acidic preferred"
+    },
+    "texturePreference": "Loose, well-drained loam preferred; deep, organically rich, sandy loam is ideal (per Missouri Botanical Garden); heavy clay restricts bulb expansion and increases rot risk; amend clay beds with compost before planting; elephant garlic is more clay-tolerant than standard garlic due to its larger, more robust root system, but still benefits significantly from amended soil",
+    "rootCharacter": "True bulb comprising 4-6 large cloves (versus 8-12 smaller cloves in hardneck garlic); cloves arise from a central basal plate with fibrous roots; bulbils (tiny corms) form around the outside of the basal plate and fall away at harvest — these are a key propagation mechanism"
+  },
+  "bloom": {
+    "bloomTime": "May-June (scape emergence); flowers would appear July-August if scape not removed; flowers only in the second year of biennial growth, or when a plant is left to mature fully",
+    "bloomDescription": "Elephant garlic sends up a prominent flower scape in late spring, identical in habit to hardneck garlic scapes but larger and more robust. The scape curls in a loop before straightening; it should be cut when it has formed 1-2 complete curls, exactly as with hardneck garlic, to redirect energy into bulb development. If allowed to develop, the scape produces a large, spherical flower head (spathe) that can reach baseball size — ornamentally impressive. The scapes are edible and are milder and slightly sweeter than true garlic scapes; excellent raw in salads, briefly sautéed, or in pesto. The flower head, if allowed to develop, produces sterile flowers and small bulbils rather than viable seed.",
+    "fragrance": "Mildly to moderately aromatic — distinctly in the allium family but noticeably less pungent than true garlic; more reminiscent of leek than garlic; cut foliage releases a mild garlic-leek scent",
+    "flowerSex": "Hermaphrodite; mostly sterile in cultivated forms — does not produce viable seed; reproduces vegetatively through cloves and bulbils",
+    "pollination": "Insect-pollinated if flowers develop; primarily vegetative reproduction under cultivation"
+  },
+  "yield": {
+    "edibleParts": "Bulb (the primary harvest — 4-6 very large cloves per bulb; individual cloves can be the size of a whole head of true garlic; flavor is mild, garlic-like but distinctly sweeter and less pungent than true garlic; some find the flavor disappointingly mild for raw use, but the flavor concentrates beautifully when roasted; excellent roasted whole in foil or split and drizzled with olive oil; also usable anywhere garlic is called for by those who prefer a gentler, more approachable flavor); scapes (cut in May-June when forming curls — milder than garlic scapes, excellent raw or lightly cooked; treat as a seasonal delicacy as with Allium sativum rocambole); bulbils (the small corms around the bulb base — plant these to generate new stock; edible if small quantities harvested, but best saved for propagation); green shoots (usable like chives or green garlic early in the season)",
+    "harvestSeason": "Scapes in late May to June (when 1-2 curls have formed); bulbs in July, when the bottom 3-4 leaves have yellowed — this is the same harvest timing cue as hardneck garlic (see Allium sativum rocambole profile); do not wait for all leaves to yellow or the bulb wrappers will deteriorate; dig carefully to preserve bulbils around the base; cure for 3-4 weeks in a dry, airy, shaded location before storage",
+    "medicinalUses": "Far less medicinally potent than true garlic — elephant garlic contains allicin-related compounds at significantly lower concentrations than Allium sativum; it is primarily a culinary plant with incidental allium health properties (mild antimicrobial, cardiovascular benefit); those seeking garlic's documented medicinal benefits (see Allium sativum rocambole profile) should use true garlic rather than elephant garlic",
+    "craftOtherYield": "The large cured bulbs make attractive kitchen displays; bulbils collected at harvest can be shared, traded, or planted to expand stock; the large flower heads, if allowed to develop, are ornamentally striking"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic in culinary quantities; very mild allium — even those sensitive to strong garlic can often tolerate elephant garlic; not for feeding in large quantities to pets (see below)",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia in dogs and cats; elephant garlic contains lower allicin concentrations than true garlic but is still a member of the allium family and should be treated as toxic to pets; never feed bulbs, scapes, or foliage to dogs, cats, or horses",
+    "allelopathy": "Mild — allium root exudates suppress some fungal pathogens and deter certain soil pests; companion planting benefits are present but less potent than true garlic; the same antagonism toward legumes (beans, peas, clover) applies here — do not interplant with nitrogen-fixing legumes",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere (annual/perennial bulb)"
+    },
+    "roles": [
+      "Food (primary — high-value culinary bulb and scape harvest)",
+      "Pest Confuser (allium scent deters deer, aphids, and some soil pests — a useful companion even at reduced potency versus true garlic)",
+      "Dynamic Accumulator (sulfur compounds)",
+      "Deer Barrier (excellent — among the most reliable deer deterrents in the allium family)"
+    ],
+    "companionPlants": [
+      "Roses",
+      "brassicas",
+      "tomatoes",
+      "fruit trees (guild understory); similar companion value to hardneck garlic — see Allium sativum rocambole profile for full companion list"
+    ],
+    "antagonists": [
+      "Beans and peas — allium root exudates inhibit legume nitrogen-fixing bacteria; do not plant near legumes or in beds recently occupied by legumes; avoid interplanting near established red clover ground cover"
+    ],
+    "coppiceable": "Scapes are the \"coppice\" equivalent — harvesting scapes when they form curls is both a management practice and a valued yield, identical in approach to hardneck garlic"
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when allowed to flower; otherwise minimal direct wildlife value — the allium scent actively deters most herbivores",
+    "hostPlantFor": "Not a significant host plant; no notable Lepidoptera associations",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — elephant garlic shares the outstanding deer resistance of all alliums; the mild garlic-leek scent is highly effective at deterring deer browsing; rarely if ever browsed even under significant deer pressure; an excellent candidate for in-ground production outside the deer fence in any sunny, reasonably drained bed where deer pressure would make softer crops impossible to grow; the large, impressive flower scapes are also ignored by deer"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — not particularly salt-sensitive under typical garden conditions"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — needs consistent moisture during active spring growth; more drought-tolerant than shallow-rooted crops once established; reduce water as harvest approaches"
+    },
+    "other": "Cold hardy to Zone 5 without mulching; Zone 4 with good straw mulch; at Zone 6a, overwintering is straightforward with 3-4\" of straw mulch applied after planting; the large cloves are robust and survive Zone 6a winters reliably; mulch in October-November after planting, remove or allow to decompose in early spring"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the planting and harvest cycle is the primary work; nearly identical to hardneck garlic in labor requirements; scape removal in May-June adds one additional pass through the bed",
+    "pruningNotes": "Remove scapes when they form 1-2 full curls (late May to June in Zone 6a) — this is the single most important mid-season task; leaving scapes on reduces bulb size by 20-30%; use scapes immediately (they are at their best fresh) or refrigerate for up to 2 weeks. Harvest bulbs in July when the bottom 3-4 leaves have yellowed. Dig with a fork to avoid cutting into the large bulbs; take care not to knock the bulbils off the basal plate — collect these separately and save them for replanting. Cure bulbs for 3-4 weeks in a dry, well-ventilated, shaded space; do not leave in the field after tops die or bulb wrappers deteriorate rapidly. Storage life is 4-6 months for well-cured bulbs — shorter than softneck garlic (6-12 months) and roughly comparable to hardneck rocambole garlic (3-6 months); see Allium sativum rocambole profile for comparison. Store in a cool, dry location in mesh bags or hung; do not refrigerate.",
+    "propagationMethods": [
+      "Clove planting (separate individual cloves from the cured bulb; plant point-up, 3-4\" deep, 8-10\" apart in October in Zone 6a; each clove produces one full bulb by the following July); bulbils (the small corms around the base of the bulb — these are planted in fall like cloves but produce only a single, unbulbed \"round\" in year 1; in year 2, the round splits into a full multi-clove bulb; bulbil propagation is slower but useful for multiplying stock from a single bulb and is the typical way elephant garlic self-perpetuates if left in the ground)"
+    ]
+  },
+  "cultivarNotes": "Elephant garlic has very limited named variety selection compared to true garlic — unlike the rich diversity of hardneck rocambole types (see Allium sativum rocambole profile for named rocambole cultivars), elephant garlic is generally sold under common descriptive names rather than rigorously differentiated cultivar names. The commercial trade is dominated by a handful of selections:\n'Giant' (or simply 'Elephant Garlic') — the most commonly sold form in the US; large, pale-wrapped bulbs with 4-6 cloves; the baseline commercial type; flavor mild and sweet; widely available from garlic suppliers and sometimes at farm stands; reliable for Zone 6a\n'Polish' — a selection noted for somewhat fuller flavor than standard commercial types; firm, well-wrapped bulbs; a good option if a slightly more pronounced garlic flavor is desired\n'Australian Purple' — a named type with distinctive purple-tinged outer wrappers; similar flavor profile to the standard form; grown in Australia and increasingly available from US garlic specialty suppliers; worth trying as an alternative to the standard commercial type for those who want to evaluate flavor differences\nIn practice, the differences between named elephant garlic types are subtle — far less pronounced than the flavor and texture differences between rocambole types such as 'Spanish Roja' vs. 'German Red'. For Zone 6a, any named type from a reputable garlic supplier (Keene Organics, Southern Exposure Seed Exchange, Filaree Garlic Farm) will perform well. The most important sourcing consideration is to buy from a supplier who has grown their stock in a cold-winter climate; elephant garlic adapted to northern growing conditions overwinters more reliably than stock grown in mild-winter regions. Order in September for October planting.\nImportant taxonomic note: Elephant garlic is NOT true garlic. It is a member of the species Allium ampeloprasum — the same species as leek and Levant garlic — and is more closely related to leeks than to true garlic (Allium sativum). This distinction matters in the kitchen: elephant garlic lacks many of the complex sulfur compounds that give true garlic its characteristic pungency and much of its medicinal potency. Those who want maximum flavor or medicinal value should grow true hardneck garlic (see Allium sativum rocambole profile) alongside or instead of elephant garlic; the two crops are grown on an identical fall-to-July cycle and can occupy adjacent beds.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden (mild garlic substitute, roasting bulbs, scape harvest)",
+      "in-ground vegetable rows outside deer fence",
+      "companion planting",
+      "ornamental interest (large flower heads if scapes left to develop)"
+    ],
+    "designPlacement": "Kitchen garden, vegetable rows, or food forest understory in full sun; an excellent candidate for in-ground production outside a deer fence anywhere in the lower 48 where full sun and reasonable drainage can be achieved; deer resistance and relative clay tolerance make it adaptable to sites that would challenge softer crops; the large flower heads provide ornamental interest if scapes are left to develop; plant in fall alongside true hardneck garlic on the same October–July cycle for a side-by-side flavor comparison and maximum scape harvest in June",
+    "acquisitionStatus": "To source — order bulbs from a reputable garlic supplier (Keene Organics, Southern Exposure Seed Exchange, or Filaree Garlic Farm) in September for October planting; do not buy from grocery stores (treated to inhibit sprouting); farm stand or garlic festival sources are also reliable if provenance is known"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_ampeloprasum",
+    "inaturalist": "https://www.inaturalist.org/taxa/122912-Allium-ampeloprasum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281717"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised beds recommended for best production; in-ground possible with deep amendment (compost + grit)",
+      "soil": "Raised beds preferred",
+      "cultivarNotes": "Any of the standard commercial types perform well; prioritize sourcing from cold-climate-adapted stock (Keene Organics or Filaree Garlic Farm are reliable); 'Giant' is the easiest starting point; order in September for October planting",
+      "designPlacement": "Raised bed or in-ground row in a sunny, reasonably drained area outside the main deer fence; not suited to Section A (north-facing, insufficient sun); Section C could accommodate a small planting; the most practical placement is a dedicated in-ground row where deer resistance is the primary asset; plant alongside Allium sativum rocambole in October using the same bed preparation and harvest on the same July timeline",
+      "siteObservations": "Bulbils collected at first harvest should be replanted immediately to begin building a self-sustaining stock. After 2-3 seasons, the planting will be nearly self-sufficient from saved cloves and bulbils. Note that elephant garlic cloves are very large — a single bulb typically yields 4-6 plantable cloves (vs. 8-12 in hardneck garlic), so a larger number of seed bulbs must be sourced to plant an equivalent row length; factor this into the initial order. At 8-10\" spacing, a 20-foot row requires approximately 28-30 cloves — roughly 5-7 seed bulbs."
+    }
+  }
+}

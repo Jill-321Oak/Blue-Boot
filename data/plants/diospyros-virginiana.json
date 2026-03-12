@@ -1,0 +1,169 @@
+{
+  "id": "diospyros-virginiana",
+  "name": {
+    "commonName": [
+      "American Persimmon",
+      "Common Persimmon",
+      "Eastern Persimmon"
+    ],
+    "latinName": "Diospyros virginiana",
+    "family": "Ebenaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — from southern Connecticut and Long Island south to Florida and west to Texas, Oklahoma, Kansas, and Iowa; occurs in woodland edges, old fields, fencerows, roadsides, and bottomlands; a characteristic tree of disturbed and transitional habitats across the eastern US",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern and central US; present as a native species in roughly 30 states across the Southeast, Mid-Atlantic, Midwest, and lower New England; one of the most widely distributed native fruit trees in North America; not native to the West, Great Plains, or northern tier states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not considered invasive in any US state; no documented invasive behavior; the tree spreads slowly from root sprouts and is valued as a native plant across its range; no restrictions in any lower 48 state"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "30-60' in the wild; typically 20-30' in cultivation and garden settings; size is manageable with siting and light pruning",
+    "spread": "15-25'; upright-oval to irregular crown; open branching habit",
+    "spacing": "20-30' between trees; plant male and female trees within 50' of each other for reliable pollination; for a named self-fertile cultivar such as 'Meader', a single tree will fruit",
+    "growthRate": "Slow to moderate; faster once the taproot is established; patience is required in years 1-3",
+    "timeToMaturity": "First fruit in years 3-6 for grafted named cultivars; seedling trees may take longer; full production by years 8-10",
+    "lifespan": "Long-lived; 75-150+ years; develops into a striking landscape tree with age",
+    "deciduousEvergreen": "Deciduous — glossy dark green leaves in summer; yellow to reddish-purple fall color; bare in winter",
+    "winterInterest": "High — the distinctive bark (thick, deeply furrowed, broken into small square or rectangular blocks, dark gray to nearly black) is one of the most distinctive winter features of any eastern tree; persistent orange to reddish-purple fruit on bare branches into December and January provides striking winter color and critical wildlife food"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred for best fruit production; tolerates part shade but fruiting decreases; site in the sunniest available location",
+    "water": "Low to moderate once established; excellent drought tolerance; native to dry upland sites as well as bottomlands; one of the most drought-tolerant native fruit trees in the eastern US",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates both well-drained upland soils and heavier clay; native to a wide range of soil types across its range; avoid prolonged standing water; performs well in most drainage regimes except seasonally flooded sites",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — tolerates heavy clay soils with only minor performance reduction; the deep taproot penetrates compacted clay and improves drainage over time; clay is not a limitation for this species"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; tolerates a moderate range on either side"
+    },
+    "texturePreference": "Adaptable to most soil types across the lower 48 — sandy loam, loam, clay loam, and heavy clay; not demanding; the wide ecological range of this tree in the wild reflects its broad soil tolerance; performs across the diverse soil conditions found from the Southeast through the Mid-Atlantic and Midwest",
+    "rootCharacter": "Develops a very deep, stout taproot — this is the most important cultural fact about American persimmon; the taproot makes established trees extremely drought-tolerant and long-lived, but it makes transplanting of large specimens very difficult or impossible; always plant as a small bare-root or container tree (1-2 year); never attempt to move or disturb an established tree; once planted in the right spot, leave it there"
+  },
+  "bloom": {
+    "bloomTime": "May-June; later than most fruit trees; typically after the danger of late frost has passed — a meaningful advantage across most of Zones 5-7",
+    "bloomDescription": "Small, urn-shaped, creamy-white to pale yellow flowers; female flowers are solitary, male flowers in small clusters of 2-3; individually inconspicuous but produced in quantity; late bloom avoids spring frost damage that affects peaches, apricots, and cherries across much of the lower 48",
+    "fragrance": "Mild, sweetly fragrant; not strongly scented but pleasant up close",
+    "flowerSex": "Dioecious — separate male and female trees; a male tree and a female tree are both required for fruit production in standard seedling-grown plants; some named cultivars are parthenocarpic (produce seedless fruit without pollination from a male)",
+    "pollination": "Wind and insects (bees and other native pollinators visit the flowers); plant at least one male tree within range of female trees for reliable fruit set; or select a parthenocarpic cultivar such as 'Meader' — critically important for small gardens where planting two trees is a constraint; parthenocarpic cultivars produce seedless fruit without a pollinator; fruit quality is not reduced"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small, 1-1.5\" diameter, orange to reddish-purple when fully ripe; round, plum-like; the skin is thin and edible; flesh is sweet, rich, dense, and complex when fully ripe — flavors of brown sugar, dates, vanilla, cinnamon, and apricot; one of the finest-tasting native fruits in North America; truly outstanding eating when fully ripe and soft; the fruit is astringent and intensely mouth-puckering when unripe (due to soluble tannins) — this is the most important fact to communicate to anyone new to American persimmon; ripe fruit softens completely (like very soft jelly), often after the first hard frost, and the astringency vanishes entirely; do not harvest or eat until fully soft; used fresh, in puddings (traditional persimmon pudding is a regional classic across the South and Appalachia), cookies, breads, smoothies, and wines; freezes well as pulp",
+    "harvestSeason": "October-November and into December; timing varies by cultivar, latitude, and season; fruit is ripe when completely soft to the touch and separates easily from the calyx; a killing frost accelerates the breakdown of tannins and triggers softening, though fully mature fruit will ripen without frost; do not rush the harvest — patience is essential",
+    "medicinalUses": "Fruit is nutrient-dense; bark has astringent properties and was used medicinally by Native American peoples for sore throats, fever, and as an anti-diarrheal; primarily a food plant in modern use",
+    "craftOtherYield": "Persimmon wood (ebony family — extremely hard, dense, and fine-grained; used for golf club heads, textile shuttles, and woodworking tools historically); persimmon beer, wine, and brandy; dried persimmons; persimmon pudding (a traditional Appalachian and southern US dessert)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None from ripe fruit; unripe fruit causes intense, unpleasant astringency (mouth-puckering, dry, coating sensation) due to soluble tannins — harmless but extremely unpleasant; eating unripe fruit in large quantities on an empty stomach can cause bezoar formation (rare); fully ripe fruit is completely safe and delicious",
+    "toxicityAnimals": "Fruit is non-toxic to dogs, cats, and livestock; the seeds can cause intestinal obstruction in dogs if consumed in quantity — a minor concern; deer, raccoons, and opossums consume the fruit freely",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Canopy / Overstory; can function as sub-canopy in a larger food forest"
+    },
+    "roles": [
+      "Food (high-value native fruit — exceptional eating quality when ripe)",
+      "Wildlife Support (one of the most important late-season native fruit trees for wildlife)",
+      "Nitrogen Accumulator (moderate)",
+      "Windbreak component",
+      "Native Plant Contribution",
+      "Extended-Season Food Source (fruit persists into winter)",
+      "Soil Builder (deep taproot mines subsoil minerals; leaf litter is nutrient-rich)"
+    ],
+    "companionPlants": [
+      "Diospyros virginiana is not demanding in terms of companions; pairs naturally with other native woodland-edge species — Sambucus canadensis (elderberry) for sequential fruiting (elderberry finishes as persimmon begins)",
+      "Rhus typhina (staghorn sumac) for wildlife and native plant community context",
+      "Juniperus virginiana (eastern red cedar) for windbreak function",
+      "native warm-season grasses as ground layer",
+      "Solidago spp. (goldenrod) and Symphyotrichum spp. (native asters) for pollinator support during bloom; comfrey as a guild ground layer accumulator works well beneath the canopy"
+    ],
+    "antagonists": [
+      "No significant antagonists documented; highly adaptable; does not produce allelopathic compounds"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Exceptional wildlife value — one of the most important native fruit trees for late-season and winter wildlife; fruit is consumed by white-tailed deer, Virginia opossum, raccoon, red fox, gray fox, black bear, wild turkey, and numerous songbirds; opossums and raccoons are the primary mammalian consumers and are closely associated with this tree ecologically; birds include cedar waxwings, American robins, northern mockingbirds, eastern bluebirds, yellow-rumped warblers, and woodpeckers; the late-season and persistent fruit is critically important — most other native fruits are gone by November; pollinators visit the flowers in May-June",
+    "hostPlantFor": "Larval host for luna moth (Actias luna) — one of North America's most spectacular native moths; also hosts several other Lepidoptera species; the ebony family is not as extensively documented for host plant relationships as Prunus or Quercus, but the native wildlife value is outstanding",
+    "nestingHabitat": "Moderate; provides canopy structure for cavity-nesting birds as the tree matures; old trees develop cavities; the persistent fruit attracts foraging flocks of waxwings and thrushes in late fall"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — mature trees are largely deer-resistant; the bark is not preferred browse; young trees (first 1-3 years) should be protected with tree tubes or wire caging, as deer will browse the young foliage and rub antlers on small-diameter stems; once the trunk reaches 2-3\" caliper, deer pressure is minimal"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; better than most fruit trees; tolerates roadside conditions reasonably well"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — one of the most drought-tolerant native fruit trees in the eastern US; the deep taproot accesses soil moisture unavailable to shallow-rooted plants; once established (2-3 years), requires no supplemental irrigation in a normal year across most of its range; suited to dry, exposed sites where other fruit trees would struggle"
+    },
+    "other": "Extremely winter-hardy — rated Zone 4; no risk of cold injury anywhere in Zones 4-9; late bloom time (May-June) avoids late frost damage across most of the lower 48; highly adaptable to urban and disturbed soil conditions; one of the most stress-tolerant native fruit trees available"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — one of the most carefree native fruit trees; no spray program required; no significant disease or pest problems; no annual maintenance beyond harvest",
+    "pruningNotes": "Minimal pruning required. Train to a central leader in the first few years by removing competing leaders. Remove crossing, dead, or damaged branches. Light shaping to maintain access for harvest. American persimmon has no significant fungal diseases and no need for the annual spray programs required by apples, peaches, or pears — this is one of its great practical virtues. Do not move or disturb the tree once established.",
+    "propagationMethods": [
+      "Seed (plant fresh seeds in fall; requires 60-90 days cold stratification; germinates in spring; seedling trees are often dioecious unknowns — sex not determined until flowering; not the preferred method unless raising rootstock)",
+      "root cuttings",
+      "grafting (preferred for named cultivars — ensures known sex, known fruiting characteristics, and earlier productivity)",
+      "budding"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly recommended for home plantings across Zones 5-8 in the lower 48 — seedling-grown trees are of unknown sex (requiring a male and a female) and unknown fruit quality. For a small garden anywhere in the range, a self-fertile parthenocarpic cultivar eliminates the need for a second tree. All cultivars listed below are selections of D. virginiana (American persimmon) and are reliably hardy through Zone 4-5; none are D. kaki (Japanese/Asian persimmon), which is suitable only for Zones 7-9. Key selections applicable across the lower 48:\n'Meader' — The most widely recommended self-fertile cultivar; parthenocarpic (produces seedless fruit without a male pollinator); rated Zone 4; medium-sized fruit with good flavor; extremely reliable across a wide range of climates from Zone 4 through Zone 8; the default choice for any gardener who can plant only one tree. Named for Elwyn Meader of the University of New Hampshire.\n'Early Golden' — Selected for earlier ripening (September-October); useful for gardeners in shorter-season climates (Zones 5-6) where late-ripening cultivars may not fully soften before hard freeze; medium fruit; consistent flavor; benefits from a pollinator but will produce parthenocarpic fruit in some conditions.\n'Prok' — Large fruit; one of the largest-fruited named American persimmon selections; good flavor; requires a male pollinator for reliable fruit set; well-suited to warmer zones (6-8) where full season length is available; excellent for wildlife plantings where fruit quantity is the goal.\n'Morris Burton' — Late-ripening (November); excellent flavor complexity; fruit persists on the tree into winter; outstanding for late-season wildlife value in Zones 6-8 where the full ripening season is reliably available; needs a pollinator.\nNote: Do not confuse D. virginiana with Diospyros kaki (Japanese/Asian persimmon — 'Fuyu', 'Hachiya', etc.), which is rated Zone 7-9 and is not reliably hardy in Zones 5-6. The non-astringent Asian types sold in grocery stores are D. kaki — a different species entirely. American persimmon (D. virginiana) is the cold-hardy, native species suitable for the full Zone 4-9 range.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "native plant garden",
+      "wildlife garden",
+      "woodland edge planting",
+      "dry or challenging sites where other fruit trees fail",
+      "old field restoration",
+      "hedgerow; suitable for any garden across the eastern and central lower 48 within Zones 4-9"
+    ],
+    "designPlacement": "American persimmon is best placed as a canopy anchor in the food forest or along the property edge where it can mature into its full form and provide maximum wildlife benefit. Its modest water requirements and excellent drought tolerance make it well-suited to sites where irrigation is limited or unavailable. The late-season fruit, extending into December, fills a critical gap in the wildlife food calendar after all other fruits are gone. Plant 'Meader' (self-fertile) as the primary fruiting tree; add 'Prok' or a seedling male nearby to improve yield and provide fruit of varying ripening times. Young trees need deer protection (tree tube or wire cage) for the first 2-3 years in any area with active deer pressure.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Diospyros_virginiana",
+    "inaturalist": "https://www.inaturalist.org/taxa/83435-Diospyros-virginiana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h740"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — D. virginiana is native to Pennsylvania; one of the finest native fruit trees in the state; occurs naturally in hedgerows, forest edges, and old fields throughout the region; this is not an exotic crop — it belongs here",
+      "paInvasiveStatus": "Not listed — D. virginiana is not on the Pennsylvania Invasive Species list; it is a native species in the state",
+      "drainage": "Well-suited to the red clay, compacted soils typical of disturbed sites and construction-affected ground throughout the state; one of the best native canopy trees for difficult clay situations",
+      "soil": "Well-adapted to the red clay, shale-derived, and construction-disturbed soils common across central and eastern Pennsylvania; no soil amendment required for establishment",
+      "cultivarNotes": "All four cultivars above are appropriate for Zone 6a; 'Meader' is the top recommendation for Hegins-area plantings given its self-fertility and proven performance at this latitude; 'Prok' adds yield and wildlife value as a second tree; 'Early Golden' provides harvest season extension earlier in fall.",
+      "designPlacement": "Do not site in Sections A or C (height limit incompatible with mature size). Ideal for the back property zone or along the east hedgerow corridor. Active deer pressure from the east wildlife corridor makes tree tube protection essential in years 1-3. Red clay and compacted soil present no barrier to establishment.",
+      "siteObservations": null
+    }
+  }
+}

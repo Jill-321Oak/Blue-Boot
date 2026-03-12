@@ -1,0 +1,164 @@
+{
+  "id": "xanthoceras-sorbifolium",
+  "name": {
+    "commonName": [
+      "Yellowhorn",
+      "Chinese Flowering Chestnut"
+    ],
+    "latinName": "Xanthoceras sorbifolium",
+    "family": "Sapindaceae"
+  },
+  "range": {
+    "nativeRange": "Northern China — native to the dry steppes and rocky hillsides of Inner Mongolia, Hebei, Shanxi, and neighboring provinces; adapted to harsh continental conditions with cold winters, hot summers, and low, unreliable rainfall",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced ornamental and edible from northern China; not naturalized in any US region; rarely encountered outside intentional plantings"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; does not naturalize or spread from cultivation; no listings on any state noxious weed list or the federal noxious weed list; no documented escape or volunteer establishment in North American plantings"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8 (some sources cite Zone 5-8; reliable across Zone 6a; heat tolerance is good but performance may decline in the deep South where winters are too mild to satisfy chilling requirements)"
+    }
+  },
+  "description": {
+    "height": "8-15'; typically grown as a large multi-stemmed shrub; can be trained to a single-trunk small tree form reaching the higher end of that range; MBG notes a tree form to 20-25' but the shrub form (8-10') is most common in cultivation",
+    "spread": "6-12'; upright to broadly rounded habit; relatively tidy for a large shrub",
+    "spacing": "8-10' from other large shrubs or small trees",
+    "growthRate": "Moderate; establishes relatively quickly once roots are settled; more vigorous once past its first season",
+    "timeToMaturity": "First flowering typically years 3-5 from a young nursery plant; seed production follows. Productivity increases as the plant matures.",
+    "lifespan": "Long-lived shrub/small tree; expected to be a permanent fixture in the landscape",
+    "deciduousEvergreen": "Deciduous — lustrous, pinnately compound leaves (9-17 leaflets per leaf); leaves persist late into fall; decent yellow-orange fall color, not spectacular but attractive; foliage is bold and handsome throughout the growing season",
+    "winterInterest": "Low — bare stems in winter; no significant bark or structure interest"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but blooms and seeds most heavily in full sun",
+    "water": "Low to moderate once established; adapted to dry continental conditions; drought-tolerant after the first season or two; in the humid eastern US, supplemental irrigation is rarely needed once established; in the arid West, occasional deep watering during prolonged dry spells will maintain vigor",
+    "drainagePreference": {
+      "description": "Well-drained to dry; cannot tolerate prolonged wet or waterlogged conditions; performs best on sites with sharp drainage; tolerates lean, rocky, or sandy soils — this is a plant from dry steppe country and appreciates free-draining ground; wet feet are the primary killer in cultivation",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — heavy clay with poor drainage is the worst-case soil scenario for this species; root rot and decline are likely in waterlogged clay; if planting in clay-heavy ground, aggressive drainage improvement is mandatory (raised mound, gravel drainage layer beneath the root zone, heavy organic amendment to break up clay structure); in moderately well-drained clay loam the plant can perform adequately, but dense, compacted clay without amendment is a death sentence"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates mildly alkaline soils; broadly adaptable"
+    },
+    "texturePreference": "Well-drained loam, sandy loam, or rocky/gravelly soil; performs in lean, poor soil; does not require rich, amended soil and may actually grow better in average-to-lean conditions; heavy clay and waterlogged organic soils are the main textures to avoid",
+    "rootCharacter": "Tap-rooted with a spreading lateral root system; deep-rooted once established, which contributes to drought tolerance; does not sucker aggressively"
+  },
+  "bloom": {
+    "bloomTime": "May — blooms as leaves are emerging or shortly after; one of the most dramatic spring-flowering shrubs available to Zone 4-8 gardeners",
+    "bloomDescription": "Large, upright terminal racemes of five-petaled, 1\" wide, star-shaped white flowers; flowers are held in clusters above the emerging foliage, creating a spectacular visual display — the plant is covered in bloom in a good year. Each flower has a distinctive yellow marking at the center that turns red as the flower ages, giving mixed yellow-and-red centers across the bloom cluster simultaneously; the color shift is an insect guide, directing pollinators toward newly-opened, pollen-rich flowers. The overall effect — white flowers, bold compound foliage, yellow-to-red centers — is genuinely striking and unlike nearly anything else in the shrub palette for this zone. An outstanding ornamental event.",
+    "fragrance": "Mild; not strongly fragrant but pleasant up close",
+    "flowerSex": "Monoecious — perfect (hermaphrodite) flowers; a single plant can set seed",
+    "pollination": "Self-fertile — does not require a pollination partner; bees are the primary pollinators; the yellow-to-red color-change nectar guides are specifically adapted to bee visitation"
+  },
+  "yield": {
+    "edibleParts": "Seeds — the large, round seeds (0.5-0.75\" diameter) are the primary edible yield. Roasted, they have a rich, mild, nutty flavor frequently compared to macadamia nuts. The seeds are nutritious — high in protein, fat, and carbohydrates. They are eaten roasted or can be pressed for edible oil. The oil is exceptionally high in unsaturated fatty acids and notably contains nervonic acid (a long-chain monounsaturated fatty acid rare in plant-derived oils and of significant interest for nutrition and medical research). The fruit capsule itself resembles a buckeye or small horse chestnut; it splits to reveal 6-12 seeds. This is a genuinely productive edible nut tree in a shrub-scale footprint — an unusual combination.",
+    "harvestSeason": "Late summer to early fall (August-September) — the fruit capsules split and release the seeds; harvest when capsules begin to crack open",
+    "medicinalUses": "Not a primary medicinal plant in Western herbalism; the seed oil (nervonic acid content) is under investigation in nutritional and neurological research but no established medicinal use for home growers",
+    "craftOtherYield": "Seed oil — cold-pressed from seeds; an artisan-scale oil crop for adventurous growers; the oil is edible and has been used in China as a cooking and lamp oil; potential biodiesel feedstock (has been studied in China for this purpose)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Seeds are edible when roasted; raw seed consumption in large quantity is not recommended (as with many raw legume-adjacent seeds); normal culinary use is safe",
+    "toxicityAnimals": "Not a documented toxin concern; the plant is in the Sapindaceae (soapberry family), which includes lychee and horse chestnut — exercise normal caution, but no specific toxicity to dogs, cats, or horses is documented for this species",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub layer to small tree layer — depending on training, occupies the upper shrub or lower canopy layer; at 8-15', it sits between a fruiting shrub and a small tree in the food forest stack"
+    },
+    "roles": [
+      "Food (edible seeds/nuts — genuine yield; seed oil)",
+      "Ornamental (exceptional spring bloom — one of the highest ornamental-value plants in this profile collection for a non-native edible)",
+      "Pollinator Support (excellent bee forage in May)",
+      "Conversation Piece (rare in cultivation; draws attention and questions from visitors)",
+      "Drought-Tolerant Edible (fills the niche of productive food plant on dry, lean sites where most fruiting plants struggle)"
+    ],
+    "companionPlants": [
+      "Drought-tolerant companions suit this plant — Artemisia species",
+      "Allium (perennial onions and garlic)",
+      "Salvia",
+      "native prairie species; in a food forest context",
+      "it pairs well with other dry-tolerant shrubs; comfrey as a chop-and-drop mulch plant beneath it would support establishment"
+    ],
+    "antagonists": [
+      "Avoid planting in wet",
+      "poorly-drained sites; avoid pairing with moisture-demanding plants (e.g., elderberry, Lindera benzoin) unless the site has been carefully graded; the soil moisture requirements diverge significantly"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (flowers are excellent bee forage in May — a valuable contribution at a time of high nectar demand); some butterfly visitation recorded",
+    "hostPlantFor": "No documented specialist insect relationships in North America; it is a non-native species and has not accumulated native insect associations",
+    "nestingHabitat": "The multi-stemmed shrub structure provides some cover; not a primary nesting habitat plant; modest contribution at best"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "unknown",
+      "description": "Unknown / likely moderate — not widely documented in North American cultivation; the plant is uncommon enough that reliable deer resistance data is limited; anecdotally, deer browse appears light, possibly due to the plant's rarity rather than true unpalatability; treat as potentially browsable and protect young plants with fencing or caging until well established; no chemical deterrent (aromatic foliage, toxins) is present to confer strong resistance"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — not tolerant of road salt spray or saline soil; foliage and root damage likely with repeated salt exposure; not suitable for roadside plantings or maritime-exposed sites"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — this is one of the plant's defining characteristics; native to the dry loess steppes of northern China; significantly more drought-tolerant than most fruiting shrubs; ideal for dry, south-facing slopes or lean, well-drained spots that defeat other edibles"
+    },
+    "other": "Cold-hardy to Zone 4; tolerates poor, lean, rocky soil; tolerates heat and full sun exposure; does not tolerate wet feet or prolonged waterlogging; very low disease and pest pressure in North American cultivation — essentially no serious problems documented; tolerates wind exposure consistent with its steppe origins"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; one of the lower-maintenance edible-productive shrubs available for this zone",
+    "pruningNotes": "Minimal pruning required. Remove dead or damaged wood in early spring. If training to a single trunk, remove basal shoots as they emerge. If growing as a multi-stemmed shrub, allow natural form to develop. The plant blooms on previous year's wood — avoid heavy late-summer or fall pruning, which would reduce next year's flowering. Occasional thinning of oldest stems will maintain vigor.",
+    "propagationMethods": [
+      "Seed (easiest and most common — seeds have a hard coat; scarification or soaking in warm water for 24 hours speeds germination; cold stratification for 30-60 days improves germination rates; sow in spring; germinates readily compared to many woody plants)",
+      "root cuttings (reported to work; less commonly practiced)",
+      "grafting (practiced in China for cultivar propagation; uncommon in North American horticulture)"
+    ]
+  },
+  "cultivarNotes": "Effectively none in commerce in North America. The straight species is grown entirely from seed, and seed-grown plants show some variability in seed size, seed quantity per fruit, and exact bloom timing. No named cultivars with documented improved edible or ornamental performance are available through North American nurseries as of this writing. In China, where Xanthoceras sorbifolium is cultivated commercially for oil production, selections have been made for high oil yield, but these are not accessible to North American growers. Performance is consistent across Zones 4-7; in Zone 8+, ensure adequate winter chill — the plant requires a cold dormancy period and may underperform in mild-winter climates (Gulf Coast, low desert Southwest). When purchasing, seek plants from reputable specialty nurseries that grow their own stock from known seed sources — seed quality and germination vigor vary.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub/small tree layer",
+      "dry garden",
+      "ornamental edible specimen",
+      "south-facing or west-facing dry slope",
+      "xeriscape edible garden"
+    ],
+    "designPlacement": "A candidate for a dry, sunny spot in any food forest or garden where a specimen-scale edible ornamental is wanted without the large canopy footprint of walnut, chestnut, or full-sized tree nuts. At 8-15', it occupies the upper shrub or lower canopy slot and produces genuine edible seed yield — a rare combination at this scale. The May bloom is spectacular enough to justify planting on ornamental grounds alone; the edible seeds are a significant bonus. Requires well-drained soil; not suited to low-lying wet areas or heavy unamended clay. Best placed on a drier, sunnier area — a south-facing slope, a raised or bermed area, or any spot where drainage is reliable and full sun is available. A genuine conversation piece: visitors will not recognize it, and the combination of the extraordinary spring bloom and the edible macadamia-like seeds makes it one of the most interesting plants in any temperate food garden.",
+    "acquisitionStatus": "To source — specialty nurseries only; not available at mainstream garden centers; check Raintree Nursery, One Green World, Forest Farm, or regional specialty and permaculture nurseries; seeds are sometimes available through seed exchanges (OASIS, NAFEX members) and are easier to find than nursery plants"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xanthoceras_sorbifolium",
+    "inaturalist": "https://www.inaturalist.org/taxa/559435-Xanthoceras-sorbifolium",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=r900"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or any part of eastern North America; strictly an introduced cultivated plant",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concern",
+      "drainage": "The red clay at the Hegins site is a poor match for yellowhorn without significant intervention; do not plant in unamended foundation bed clay; a raised mound or bermed planting area with incorporated gravel and compost would be the minimum viable approach; alternatively, site on a naturally drier, better-drained area of the property (south-facing slope, gravelly patch) where clay drainage is less of a constraint",
+      "soil": "The Hegins red clay requires amendment before planting yellowhorn in-ground — incorporate coarse sand, gravel, and compost to improve drainage and break up compaction; alternatively, identify a naturally drier, better-drained microsite on the property where the clay layer is thinner or drainage is adequate without heavy amendment",
+      "cultivarNotes": "the straight species performs reliably; no cultivar selection is needed or available; source from northern-grown nursery stock for best cold-hardiness match.",
+      "designPlacement": "Not suited to the wet red clay of the foundation beds without significant amendment and drainage improvement. Best placed on a drier, sunnier area of the property — a south-facing slope, a raised or bermed area, or any spot where drainage is reliable. Does not fit the Section A/B/C beds (wrong soil conditions and, for A and B, wrong aspect). A food forest edge or standalone specimen on well-drained ground is the best placement at this site.",
+      "siteObservations": "The primary challenge at this site is soil drainage — the red clay is a poor match and will require either aggressive amendment or careful site selection to avoid wet-feet death. Deer pressure is a secondary concern; young plants should be caged until established, but the plant's rarity means local deer may not recognize it as browse. No specimens currently on-site; this remains a sourcing target. The south-facing back area of the property or any naturally drier, better-drained microsite would be the most promising location."
+    }
+  }
+}

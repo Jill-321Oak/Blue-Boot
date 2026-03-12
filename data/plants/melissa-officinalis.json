@@ -1,0 +1,164 @@
+{
+  "id": "melissa-officinalis",
+  "name": {
+    "commonName": [
+      "Lemon Balm",
+      "Melissa",
+      "Bee Balm (not to be confused with Monarda",
+      "which shares the common name Bee Balm)"
+    ],
+    "latinName": "Melissa officinalis",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region (southern Europe to western Asia); widely naturalized throughout the temperate world including most of North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Naturalized across much of the eastern and central United States, from New England through the mid-Atlantic, Southeast, and into the Midwest. Also naturalized in parts of the Pacific Northwest. Escaped from cultivation and established in disturbed ground, roadsides, and woodland edges in many states."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as a noxious weed at the federal level or on most state invasive species lists. However, lemon balm is a prolific self-seeder that can escape cultivation and establish in disturbed areas, woodland edges, and waste ground. Gardeners in the humid East and Pacific Northwest should be most vigilant — warm, moist conditions accelerate self-seeding. In drier western and southwestern states, escape potential is lower. Management in the garden (cutting before seed set) is the primary control. Not typically regulated, but treated as a vigorous garden escapee rather than an ecological threat."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "18-30\" in bloom",
+    "spread": "18-24\"; spreads by prolific self-seeding if allowed to set seed",
+    "spacing": "18-24\"",
+    "growthRate": "Fast — vigorous establisher",
+    "timeToMaturity": "Productive from first year",
+    "lifespan": "Short-lived perennial (3-5 years); maintained by self-seeding; treated as a self-renewing colony",
+    "deciduousEvergreen": "Deciduous — dies back in frost; regrows vigorously in spring",
+    "winterInterest": "None"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; one of the more shade-tolerant herbs. In Zone 8+ and the Deep South, afternoon shade improves summer performance and reduces wilting. In Zones 4-7, full sun to light shade produces the best growth and aromatic intensity. A genuine advantage for north-facing or partially shaded positions where many herbs struggle.",
+    "water": "Medium; fairly drought tolerant once established. In the humid East and Midwest, supplemental watering is rarely needed except during extended dry spells. In arid western and southwestern climates, regular irrigation is necessary — lemon balm is not a xeriscape plant. Performs well in average garden conditions across most of the lower 48.",
+    "drainagePreference": {
+      "description": "Average to well-drained; adaptable to a wider range of drainage conditions than most Mediterranean herbs. Tolerates periodic moisture better than lavender, rosemary, or thyme. Sustained waterlogging will cause root rot, but brief wet periods after rain are not a problem. Raised beds or amended soil recommended only where drainage is chronically poor.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. One of the more clay-tolerant Mediterranean herbs. Fibrous roots handle moderate compaction better than taprooted herbs. In heavy unamended clay, growth may be slower and plants slightly smaller, but survival is not at risk. Incorporating compost or coarse organic matter into the planting hole improves establishment. Clay gardeners across the eastern US, Midwest, and Pacific Northwest can grow lemon balm in-ground with basic amendment."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; average to moderately fertile soil is ideal. Performs in sandy, loamy, and clay-based soils. Overly rich soil produces excess foliage with reduced aromatic intensity — a common issue in heavily amended beds. Lean to average fertility produces the most flavorful leaves.",
+    "rootCharacter": "Fibrous shallow to medium root system; spreads by seed rather than runners"
+  },
+  "bloom": {
+    "bloomTime": "July-August",
+    "bloomDescription": "Tiny white to pale yellow tubular flowers in axillary clusters along the stems; individually small and not showy, but attractive to bees; flowers continuously if not deadheaded",
+    "fragrance": "Intensely lemon-scented foliage — one of the most recognizable herb fragrances; leaves release the fragrance when bruised; flowers also lemon-scented but milder than the foliage",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Exceptional bee plant — the genus name Melissa means \"bee\" in Greek; honey bees work lemon balm intensively; one of the plants historically used to attract swarms and introduce bees to new hives; bumblebees and other native bees also visit"
+  },
+  "yield": {
+    "edibleParts": "Leaves (fresh or dried — herbal tea; lemon flavoring in cooking; add to salads, fruit dishes, sauces; one of the most commonly used herbal teas)",
+    "harvestSeason": "Leaves spring through fall; harvest before flowering for best flavor; cut back frequently to encourage fresh growth",
+    "medicinalUses": "Calming and anxiolytic herb — one of the best-documented botanical medicines for mild anxiety, stress, and insomnia; active compounds (rosmarinic acid, flavonoids) have demonstrated calming effects; also used for digestive complaints and headaches; antiviral properties (topically used for cold sores — Melissa cream is a documented topical treatment for herpes simplex); one of the most useful medicinal herbs in the garden",
+    "craftOtherYield": "Aromatic dried herb; essential oil; infused honey"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe and widely used; very large doses may have thyroid-suppressing effects in individuals with hypothyroidism — a caution for regular medicinal use in that population",
+    "toxicityAnimals": "Generally safe; may have mild calming effects on cats and dogs",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Food (culinary and tea herb)",
+      "Medicinal (anxiety, insomnia, antiviral — one of the priority medicinal herbs for a home pharmacy)",
+      "Insect Attractor (exceptional — one of the best bee plants per square foot in the herb garden)",
+      "Pest Confuser (lemon scent deters some pests)"
+    ],
+    "companionPlants": [
+      "Excellent companion throughout herb gardens",
+      "kitchen gardens",
+      "and guild understories; the insectary value benefits all neighboring plants; pairs well with other bee-forage herbs (thyme, lavender, borage, hyssop); useful understory in fruit tree guilds where its bee attraction supports pollination"
+    ],
+    "antagonists": [
+      "None documented. The primary management challenge is self-seeding — place away from areas where seedlings would be problematic; or simply remove unwanted seedlings annually."
+    ],
+    "coppiceable": "Cut back by half 2-3 times per season to encourage fresh leaf growth and prevent flowering/seeding; regrows vigorously. Cut to the ground in fall."
+  },
+  "wildlife": {
+    "attracts": "Honey bees and bumblebees (exceptional), native bees, butterflies; historically one of the most important apiary herbs",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strong lemon scent generally deters deer browsing; not a primary target. Young transplants may be sampled opportunistically in spring when other forage is scarce, but established plants are reliably avoided. No physical protection needed for established clumps in most situations; lightweight row cover or temporary fencing may help new transplants in high-pressure areas until aromatic foliage is well developed."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and light salt spray; not suitable for direct roadside planting or coastal front-line exposure, but recovers from occasional winter salt splash"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — survives dry spells in the humid East and Midwest without irrigation; wilts visibly but recovers with rain. In arid western climates, regular irrigation is required."
+    },
+    "other": "Tolerates part shade better than most herbs; tolerates humidity well (unlike many Mediterranean herbs that suffer fungal issues in humid climates); cold hardy to Zone 4 with reliable dieback and regrowth; generally low-maintenance once the self-seeding tendency is managed"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — except for managing self-seeding",
+    "pruningNotes": "KEY TASK: Cut back hard before seed set (before flowers fully mature) to prevent the plant from self-seeding throughout the garden; lemon balm can become weedy if allowed to seed freely. Shear to 6-8\" in June before flowers set seed; the plant regrows fresh and aromatic. Second cut possible in August. Cut to the ground in late fall. Alternatively, allow controlled seeding in areas where self-replacement is desired, but deadhead in formal beds.",
+    "propagationMethods": [
+      "Seed (easy — direct sow in spring; warm stratification not needed; germinates freely)",
+      "division (easy in spring or fall)",
+      "stem cuttings (root readily in moist medium)"
+    ]
+  },
+  "cultivarNotes": "The straight species is the standard and most productive form for culinary, medicinal, and insectary use across all zones. **'Aurea'** (golden lemon balm) is a golden-leaved ornamental form with the same properties; slightly less vigorous, better suited to partial shade where it keeps its color — a good choice for Zones 5-8 gardeners who want ornamental interest in a shaded herb bed. **'Quedlinburger Niederliegende'** is a commercial cultivar bred for high essential oil content — useful for Zones 4-7 gardeners prioritizing medicinal use or essential oil production. **'All Gold'** is another golden-leaved form, more compact, good for containers and small-space herb gardens in any zone. In warm-climate zones (8-9), the straight species performs well but benefits from afternoon shade; no special cultivar selection needed. In cold zones (3-5), the straight species is fully hardy and the best choice for reliability.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "apothecary garden",
+      "tea garden",
+      "insectary planting",
+      "food forest understory",
+      "kitchen garden",
+      "pollinator border"
+    ],
+    "designPlacement": "Place in an accessible, frequently visited location — lemon balm is a daily-harvest herb best sited within arm's reach of a kitchen path or doorway. Tolerates north-facing and east-facing positions better than most herbs, making it valuable for shaded herb beds where rosemary and lavender would fail. Plant toward the front or edge of beds for easy cutting access. Excellent understory herb in fruit tree guilds, where its bee attraction directly supports pollination. Space 18-24\" apart; allow room for the clump to fill in but manage self-seeding into adjacent plantings by cutting before seed set. Pairs well with taller herbs and shrubs behind it. Avoid placing where unwanted seedlings would be difficult to manage (gravel paths, rock gardens, wildflower meadows with native species).",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Melissa_officinalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/59901-Melissa-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c857"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania. Widely naturalized across the state in disturbed ground, roadsides, and old homestead sites.",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Same as general status — a vigorous self-seeder that requires garden management but is not regulated.",
+      "drainage": "Performs well in Hegins red clay with minimal amendment. A 50/50 compost-to-clay backfill at planting is sufficient for in-ground beds. Does not require raised beds — one of the easier herbs to establish directly in the foundation bed clay. Drainage issues after heavy rain are tolerated better than most herbs in Section B.",
+      "soil": "Hegins red clay is within acceptable range without major amendment. The naturally moderate fertility of the clay is actually an advantage — no need to enrich. A single compost incorporation at planting is sufficient. No ongoing soil amendment required.",
+      "cultivarNotes": "The straight species is the first choice for its combination of medicinal value, bee-forage, and proven clay tolerance. 'Aurea' is a viable alternative for the partially shaded Section B strip if ornamental interest is desired alongside productivity.",
+      "designPlacement": "Section B — the kitchen-adjacent, north-facing garage strip. Shade tolerance suits the north exposure and increasing food forest shade. Productivity focus aligns with Section B's purpose. Plant toward the front of the bed for easy daily harvest access. Manage self-seeding actively to prevent spread into adjacent Section A ornamental beds.",
+      "siteObservations": "The north-facing Section B exposure is an advantage for lemon balm — keeps foliage lush longer into summer without the stress that full south exposure causes for leafy herbs. Deer pressure from the east corridor is not a significant concern — lemon balm's strong aromatic foliage is reliably deer-resistant at this site. Red clay compaction in Section B is within lemon balm's tolerance; basic compost amendment at planting is sufficient. Self-seeding management is the primary ongoing task — cut before seed set to prevent volunteers from appearing in the Section A ornamental beds or creeping into foundation plantings."
+    }
+  }
+}

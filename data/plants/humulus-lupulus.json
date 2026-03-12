@@ -1,0 +1,161 @@
+{
+  "id": "humulus-lupulus",
+  "name": {
+    "commonName": [
+      "Hops",
+      "Common Hops",
+      "Hop Plant"
+    ],
+    "latinName": "Humulus lupulus",
+    "family": "Cannabaceae"
+  },
+  "range": {
+    "nativeRange": "Europe, western Asia, and North America; the species complex includes several varieties native to different continents; widely naturalized and cultivated globally for brewing and ornamental use",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to eastern North America as Humulus lupulus var. lupuloides (American hops) — found in moist woodland edges, streambanks, and fence rows from New England through the Midwest and south to the mid-Atlantic. H. lupulus var. neomexicanus is native to the western US (Rocky Mountain region). The European type species (var. lupulus) is widely naturalized across the US where it has escaped cultivation. Overall, some variety of H. lupulus is native or naturalized in most of the lower 48 states."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "H. lupulus itself is not listed as invasive in any US state; it can spread aggressively via rhizomes in garden settings and naturalize along fence rows and streambanks, but it does not displace native plant communities at an ecological scale. Important distinction: Humulus japonicus (Japanese hops) IS invasive in much of the eastern US — listed as a noxious weed or invasive plant in Connecticut, Massachusetts, and several other states, and documented as problematic from the mid-Atlantic through the Midwest. H. japonicus is an annual that spreads by prolific seed production, unlike the perennial rhizome spread of H. lupulus. Gardeners should ensure they are sourcing H. lupulus, not H. japonicus."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "15-25' annually (dies back to the ground each winter and regrows from the crown; this is not a permanent vine — it's a herbaceous perennial that sends up new bines every spring)",
+    "spread": "4-6' horizontally; creeping underground rhizomes can spread the crown 1-2' per year",
+    "spacing": "3-5'; plants can share support structures",
+    "growthRate": "Extremely fast in-season — one of the fastest-growing plants in the temperate world; can grow 12-18\" per week in peak growing season",
+    "timeToMaturity": "First significant cone harvest in years 2-3; some cones possible year 1; heavy production from year 3-4",
+    "lifespan": "Long-lived perennial crown; produces indefinitely; individual bines die back each fall",
+    "deciduousEvergreen": "Herbaceous perennial — dies completely to the ground each fall; emerges from the ground in late spring and grows explosively through summer",
+    "winterInterest": "None — dies back completely; crown dormant; provide a marker"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade with reduced cone production. In Zone 8+ or hot southern climates, afternoon shade can reduce heat stress during peak summer.",
+    "water": "Medium; vigorous growth requires adequate moisture; drought stress reduces cone yield. In the humid East, established plants are largely self-sufficient on rainfall except during prolonged dry spells. In arid western climates, regular irrigation is essential throughout the growing season.",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates a range of conditions but avoids waterlogged or saturated soil, especially during winter dormancy when a wet crown can rot. Good drainage around the crown is more important than drainage at the root tips, since the rhizomes spread laterally through the top 6-12\" of soil.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — hops tolerate heavy clay better than many perennials because the vigorous rhizome system can push through moderately compacted soil. Clay's moisture retention is actually beneficial during summer growth, provided winter drainage is adequate. In heavy, poorly-drained clay, plant the crown on a slight mound or raised ridge (6-8\") to prevent winter crown rot. Amend the planting hole with compost to improve initial root establishment. Once established, the spreading rhizomes will condition the surrounding clay over time."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; broad adaptability across most US soil types"
+    },
+    "texturePreference": "Adaptable; loam to clay-loam is ideal; deep soil allows the crown to develop fully. Sandy soils are acceptable but require more frequent watering. Heavy clay is tolerable with drainage management (see Clay Soil Performance above).",
+    "rootCharacter": "Perennial crown with deep, spreading rhizomes; the crown grows larger each year; bines (twining stems) emerge each spring from the crown and grow clockwise"
+  },
+  "bloom": {
+    "bloomTime": "August-September (for female plants, cone production)",
+    "bloomDescription": "Plants are dioecious — male plants produce small panicles of flowers (yellow-green); female plants produce the hop cones (strobiles) — papery, light green cone-like structures 1-2\" long with the characteristic hop aroma; cones are the primary yield",
+    "fragrance": "Strongly aromatic — the hop aroma is distinctive; floral, earthy, resinous, and slightly bitter; cone lupulin glands contain the alpha and beta acids responsible for this",
+    "flowerSex": "Dioecious — male and female plants are separate; only female plants produce cones; male plants should be removed from hop yards (commercial practice) to prevent cone fertilization; however, for home gardens, male plants may be grown as ornamentals or left in place as pollinators",
+    "pollination": "Wind-pollinated; male plants are not needed for female plants to produce unfertilized cones (seedless hops, which are preferred for brewing); in a home garden context, having a male plant is fine"
+  },
+  "yield": {
+    "edibleParts": "Hop cones (used in brewing beer — provide bitterness, flavor, and aroma; alpha acids are the primary bittering compound); young spring shoots (edible — very early spring when shoots first emerge from the crown; taste similar to asparagus; a traditional wild food in Europe; harvest when 2-4\" tall); the shoots are actually one of the most prized wild spring vegetables",
+    "harvestSeason": "Spring shoots March-April (very brief window); cones August-September when papery and aromatic",
+    "medicinalUses": "Sedative and calming — hop cones are a documented mild sedative; used for insomnia, anxiety, and restlessness; the same lupulin that provides brewing bitterness has documented sedative effects; combined with valerian in many European sleep remedies; hop pillows are a traditional insomnia treatment; also mild antimicrobial and estrogenic activity",
+    "craftOtherYield": "Beer brewing (the primary commercial use — hops define modern beer); natural dye (hop bines yield a yellow dye); hop vine wreaths and decorations (dried bines are attractive); hop twine fibers (historically used for rope)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic in culinary and brewing use; high doses of hop extract have sedative effects; not a safety concern in normal use",
+    "toxicityAnimals": "TOXIC to dogs — hop cones and spent brewing hops (hops after brewing use) can cause malignant hyperthermia in dogs, which can be fatal; this is a significant and underrecognized hazard; keep dogs away from hop cones (fresh and spent); cats appear less affected but avoidance is prudent",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "vine",
+      "description": "Vine"
+    },
+    "roles": [
+      "Food (shoots in spring — a prized seasonal harvest; cones for brewing)",
+      "Medicinal (calming/sleep herb)",
+      "Nitrogen Cycle (massive annual coppice biomass from dying bines — excellent compost material)",
+      "Vertical Canopy",
+      "Pest Confuser (aromatic compounds in the foliage)"
+    ],
+    "companionPlants": [
+      "Apple trees (classic guild vine; grows vertically in the apple guild trellis space)",
+      "Caragana (complementary guild roles — nitrogen fixer + vine)",
+      "comfrey (biomass companion)"
+    ],
+    "antagonists": [
+      "Powdery mildew (Podosphaera macularis) and downy mildew (Pseudoperonospora humuli) are common hop diseases; good air circulation and resistant cultivars help manage these. Dogs (serious toxicity risk — see Cautions)."
+    ],
+    "coppiceable": "Naturally coppices each fall — cut bines to the ground after frost (or let them die back naturally); the root crown overwinters and sends up new bines each spring; the dried bines are excellent compost material (high carbon, aromatic)"
+  },
+  "wildlife": {
+    "attracts": "Some insects work the flowers; the dense vine growth provides excellent bird nesting structure in summer; catbirds, yellow warblers, and other birds nest in hop vines",
+    "hostPlantFor": "Native Lepidoptera in the Cannabaceae family: hop merchant (Polygonia comma) and eastern comma butterfly both use hops as a larval host — an excellent habitat contribution",
+    "nestingHabitat": "Dense summer vine provides good nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the aromatic foliage and hooked bine surface discourage deer browsing; not a primary target. Young spring shoots emerging from the crown may be browsed opportunistically in high-pressure areas; a simple cage or wire cloche over the crown from March through May protects new growth until bines are tall enough to be out of reach. Established bines above 3-4' are rarely bothered."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure; not suited for direct salt spray zones or heavily salted roadside planting"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — vigorous enough to handle some drought but cone production suffers; deep mulch over the crown helps retain soil moisture during summer"
+    },
+    "other": "Fast-growing enough to outpace most problems; the perennial crown is extremely resilient. Tolerates wind well once bines are secured to a trellis. Handles humidity but needs air circulation around foliage to prevent mildew in the humid East and Gulf states."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — training in season is the primary task",
+    "pruningNotes": "In spring, when bines reach 2-3', remove all but 3-5 of the strongest bines per crown; this focuses energy into fewer, more productive bines. Train bines clockwise up the support string or trellis while they're young and supple. Cut back to within 3' of the ground in mid-summer (July) to stimulate new lateral growth and improve cone production. Cut all bines to the ground after frost; compost or use as mulch. Install the trellis string or wire in late spring before the bines emerge — they grow faster than you'll expect.",
+    "propagationMethods": [
+      "Rhizome division (spring — divide the crown and replant sections of the creeping rhizome; the standard propagation method)",
+      "cuttings from bine tips (summer)"
+    ]
+  },
+  "cultivarNotes": "Many named brewing cultivars exist, each with different alpha acid (bitterness) and aromatic profiles. Cultivar selection should consider both intended use (bittering vs. aroma vs. dual-purpose) and regional disease pressure.\nZone 3-5 (Northern US / Upper Midwest / Mountain West): Choose cold-hardy, early-maturing cultivars. **'Centennial'** (high alpha, citrus aroma — Zone 4-8, vigorous and productive) and **'Nugget'** (very high alpha, clean bittering — extremely cold-hardy and disease-resistant) perform reliably. **'Cascade'** is borderline in Zone 3 but strong from Zone 4 up.\nZone 6-7 (Mid-Atlantic / Central US / Pacific NW): The sweet spot for hop production — most cultivars perform well. **'Cascade'** (floral/citrus, moderate alpha — the most popular American craft beer hop; widely available and highly adaptable) is a top choice. **'Centennial'** and **'Nugget'** also excel. **'Hallertau'** (German noble hop, mild noble aroma — classic lager hop) does well in this range but is more susceptible to downy mildew; choose disease-resistant strains. For ornamental value combined with brewing, **Humulus lupulus 'Aureus'** (golden-leaved hops) produces bright gold-yellow foliage through the season with the same properties as the species.\nZone 8+ (Deep South / Gulf Coast / Desert Southwest): Heat and humidity are the limiting factors. Choose mildew-resistant cultivars — **'Cascade'** and **'Centennial'** handle heat better than European noble types. In the Desert Southwest, irrigation is critical but the dry air reduces mildew pressure. In the humid Southeast, downy mildew is the primary challenge; good air circulation, drip irrigation (avoid overhead watering), and resistant cultivars are essential. Hop production in Zone 9+ is marginal due to insufficient winter chill for proper dormancy.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "arbor/trellis feature",
+      "annual screen",
+      "home brewery garden",
+      "ornamental vine"
+    ],
+    "designPlacement": "Train on a dedicated trellis, arbor, or support structure with at least 10-15' of vertical run for best cone production; shorter trellises (6-8') work but reduce yield. Ideal as a vine-layer companion in fruit tree guilds — the bines grow vertically and don't compete for the same canopy space as the tree. Site with full sun exposure and good air circulation to minimize mildew. Keep the crown accessible for spring shoot harvest and annual bine removal. The perennial crown establishes in year 1-2 and produces an impressive annual vine from late spring to frost; the dried bines provide substantial compost biomass each fall. Plan for rhizome containment if planting near paths, foundations, or neighboring beds — a buried root barrier (12\" deep) or regular rhizome pruning keeps the crown in bounds.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Humulus_lupulus",
+    "inaturalist": "https://www.inaturalist.org/taxa/53779-Humulus-lupulus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f191"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginal — H. lupulus var. lupuloides is native to eastern North America including the Appalachian region and is potentially present in Pennsylvania woodland edges and streambanks; the European cultivated form is also widely naturalized in the state",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or DCNR invasive species list. H. japonicus (Japanese hops) IS documented as invasive in Pennsylvania and surrounding mid-Atlantic states — do not confuse the two species.",
+      "drainage": "Hegins red clay is workable for hops with mounding. Plant the crown on an 8-10\" raised mound of compost-amended soil to ensure winter drainage around the crown. The clay's moisture-holding capacity will actually support the heavy summer water demand. No raised bed required — in-ground planting with mounding is sufficient and preferred, since the rhizome spread is part of the plant's vigor.",
+      "soil": "Hegins red clay is acceptable without major amendment beyond the planting mound. Work compost into the top 12\" at planting time. The clay will hold moisture well through summer; focus drainage management on the crown area only.",
+      "cultivarNotes": "All major American cultivars perform reliably. 'Cascade' or 'Centennial' are the best all-around choices for a home garden — productive, disease-tolerant, and versatile for brewing. 'Aureus' is the pick if ornamental foliage is the priority.",
+      "designPlacement": "Apple guild vine layer — train on a dedicated trellis or arbor structure within the apple guild. The south-facing exposure of the food forest area provides ideal sun. Avoid Section A (5' height limit, north-facing — too short and too shaded for productive hops), Section B (will be increasingly shaded by food forest canopy), and Section C (5' height limit). Plant the crown on a mounded ridge in the guild area where the full 15-25' vertical growth can be accommodated. The spring shoot harvest extends the guild harvest calendar into March-April.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is unlikely to be a significant problem — hops' aromatic foliage and hooked bines provide good natural deterrence. Protect the emerging crown with a wire cloche in early spring (March-May) as a precaution during the vulnerable shoot stage. The compacted red clay at the Hegins site will benefit from crown mounding (8-10\" raised mound of compost-amended soil) to ensure winter drainage, but in-ground planting is fully viable — no raised bed needed. Summer moisture retention in the clay is actually advantageous for this water-hungry plant."
+    }
+  }
+}

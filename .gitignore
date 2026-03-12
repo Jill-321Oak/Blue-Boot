@@ -1,0 +1,20 @@
+# Working files (not for the public repo)
+Plant Profiles/
+Plants/
+scripts/
+*.md
+
+# Dependencies
+site/node_modules/
+
+# Build output
+site/dist/
+site/.astro/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

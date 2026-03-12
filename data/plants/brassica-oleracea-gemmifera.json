@@ -1,0 +1,158 @@
+{
+  "id": "brassica-oleracea-gemmifera",
+  "name": {
+    "commonName": [
+      "Brussels Sprouts"
+    ],
+    "latinName": "Brassica oleracea var. gemmifera",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Not a wild species — a cultivated variety of Brassica oleracea (wild cabbage), which is native to coastal western Europe (Atlantic coast of Britain, France, and the Mediterranean). Brussels sprouts as a distinct vegetable crop were developed in Belgium, likely around the 13th century, and became widely grown throughout northern Europe by the 18th century.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; a fully cultivated crop plant with no wild population in the US"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No. Brussels sprouts are a long-season annual crop that does not naturalize, self-sow aggressively, or establish outside cultivation anywhere in the lower 48 states. No invasive status in any US jurisdiction."
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "Cool-season annual; grown in Zones 2–11 as a seasonal crop; performs best in regions with long, cool falls — cooler zones (5–7) along the northern tier and higher elevations offer the ideal fall conditions that develop the best flavor; warmer zones (8–9) can grow Brussels sprouts as a winter crop with careful timing; Zones 10–11 face serious heat-season limitations"
+    }
+  },
+  "description": {
+    "height": "2–3' tall; plants grow as a single upright stalk studded with sprouts and topped with a loose rosette of leaves; can reach 3–4' in long-season plantings before topping",
+    "spread": "18–24\"",
+    "spacing": "18–24\" between plants; rows 2.5–3' apart; closer spacing reduces airflow and increases disease pressure",
+    "growthRate": "Slow to moderate — Brussels sprouts are the slowest-maturing of all common brassicas; the long growing season is not a flaw but a characteristic of how the crop builds flavor and structure; expect 80–110 days from transplant to first harvest",
+    "timeToMaturity": "80–110 days from transplant depending on variety; this is the longest-season brassica in the common vegetable garden; timing the transplant date backward from the first expected hard frost in your zone is the essential planning step — plants need 80–110 days of growing time ahead of that date; in Zone 6a, this means transplanting in early to mid-June and starting indoors in late February to mid-March; in Zone 5 and colder, start even earlier; in Zones 8–9, a late-summer or fall transplant for a winter/early spring harvest is the appropriate strategy; do not underestimate the timeline — the most common failure with Brussels sprouts is starting or transplanting too late",
+    "lifespan": "Annual (treated as such across the lower 48); the plant is technically a biennial but is grown as a long-season annual harvested before or during winter",
+    "deciduousEvergreen": "N/A — annual vegetable",
+    "winterInterest": "None standard; in mild-winter areas (Zones 8–9), plants may persist and continue producing into winter; in Zones 5–7, sprouts left on the stalk in the field can often survive light frosts, extending the harvest season into November–December"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6–8 hours minimum; adequate sunlight drives stem development and sprout formation; reduced light results in loose, poorly formed sprouts",
+    "water": "Medium to medium-high; consistent moisture throughout the long growing season is important; sprouts developing in dry conditions tend to be small, loose, and bitter even after frost; maintain evenly moist (not waterlogged) soil throughout the growing season; drip irrigation or consistent hand-watering in raised beds is ideal; mid-summer heat and dryness are the primary moisture stress period in most northern-tier gardens",
+    "drainagePreference": {
+      "description": "Well-drained; Brussels sprouts do not tolerate standing water or saturated roots; overly sandy or droughty soil is equally problematic — the goal is consistent moisture retention with free drainage",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Brussels sprouts are notably tolerant of heavier clay soils — firm soil actually aids anchorage for the tall, top-heavy plants and is one of the few cases where clay is an advantage rather than a liability; amend heavy clay with compost to improve drainage and fertility without fully losing structure; raised beds are strongly preferred on clay sites for drainage control and fertility management"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 7,
+      "description": "6.5–7.0; firm, fertile, well-buffered soil is preferred; slightly alkaline pH also helps suppress clubroot (Plasmodiophora brassicae), a soil-borne disease of the brassica family"
+    },
+    "texturePreference": "Organically rich, fertile, consistently moist, well-composted loam is ideal; raised beds with quality amended soil are the preferred format across most regions for drainage control and fertility management; the key is consistent moisture retention with good drainage — neither waterlogged clay nor droughty sand serves this crop well",
+    "rootCharacter": "Shallow, fibrous root system; plants rely on firm soil contact around the root zone and at the base of the stem for physical support; mounding soil around the stem base in late summer improves anchorage"
+  },
+  "bloom": {
+    "bloomTime": "Second year if overwintered (biennial); in most growing regions, the plant is harvested as an annual and does not bloom in the growing season",
+    "bloomDescription": "Yellow cruciform flowers typical of the Brassicaceae family; produced in spring of the second year if the plant survives winter; not relevant to vegetable production",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated (primarily bees); not relevant for vegetable production; the edible crop is the axillary buds (sprouts), not the fruit"
+  },
+  "yield": {
+    "edibleParts": "The sprouts — small, compact, cabbage-like axillary buds (1–2\" diameter at harvest) that develop along the stalk from bottom to top; the terminal rosette of leaves at the top of the plant is also edible and is harvested when the plant is topped; the leaves themselves are edible as a cooked green, similar to kale",
+    "harvestSeason": "Varies by zone and planting strategy. In Zones 5–7 (northern tier), harvest runs October through December — this is the defining characteristic of Brussels sprouts as a garden crop in these climates; sprouts harvested before frost are often bitter, dense, and sulfurous; sprouts harvested after the first hard frost are sweet, nutty, and dramatically improved in flavor; the cool fall days and frosty nights of the northern tier are ideal conditions. In Zones 8–9, a winter harvest (December through February) is the norm for fall-transplanted crops. Harvest from the bottom of the stalk upward — lower sprouts mature first; snap or cut individual sprouts when they are firm, tightly closed, and approximately 1\" in diameter; do not harvest loose or puffed sprouts. Harvest can continue through November and into December in Zones 5–7 as long as plants are standing; light snow does not end the harvest.",
+    "medicinalUses": "None significant; Brussels sprouts, like all brassicas, contain glucosinolates and are associated with cancer-preventive properties in nutritional research, but are not a primary medicinal plant",
+    "craftOtherYield": "The tall stalks are dramatic garden structures; dried stalks with sprout nodes remaining are occasionally used decoratively; the large lower leaves can be used as a cooked green or removed progressively through the season to concentrate plant energy on sprout development"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; a widely consumed food crop with an excellent safety record; raw sprouts may cause gas and digestive discomfort in some individuals due to sulfur compounds and fiber content, which diminishes significantly with cooking",
+    "toxicityAnimals": "Non-toxic; brassicas are occasionally fed to chickens and livestock in small quantities; not recommended as a primary feed, but incidental contact is not a concern",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous annual layer"
+    },
+    "roles": [
+      "Annual Vegetable (primary)",
+      "Brassica Family Rotation Crop",
+      "Late-Season Food Source (extends the vegetable harvest into November–December in cool-zone gardens when most other crops have finished)",
+      "Cool-Season Bed Filler (occupies bed space from spring/early-summer transplant through fall or winter, fitting neatly after spring crops such as peas, spinach, or lettuce finish)"
+    ],
+    "companionPlants": [
+      "Dill and chamomile (attract beneficial insects that prey on cabbage worms and aphids)",
+      "nasturtiums (trap crop for aphids — draw aphid pressure away from the sprouts)",
+      "thyme and sage (strong-scented herbs may deter cabbage moths from laying eggs)",
+      "onions and garlic (anecdotally repel cabbage pests; commonly interplanted with brassicas)",
+      "celery (traditional brassica companion)"
+    ],
+    "antagonists": [
+      "Other brassicas in close proximity increase shared pest pressure (cabbage worm, aphids, clubroot); do not follow brassicas with brassicas in the same bed — rotate a minimum of 3 years between brassica crops in any given bed; strawberries and pole beans are sometimes cited as inhibitory"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Beneficial insects when in flower (second year only; not relevant for annual production); the large leaves and dense plant structure provide incidental cover for ground beetles",
+    "hostPlantFor": "Pieris rapae (imported cabbageworm / cabbage white butterfly) — the primary lepidopteran pest of all brassicas; adults lay eggs on leaf undersides, larvae feed destructively on foliage and bore into sprouts; inspect weekly and treat with Bacillus thuringiensis (Bt) at the first sign of larvae or egg masses. Also hosts Brevicoryne brassicae (cabbage aphid) — aphids are particularly problematic in Brussels sprouts because they colonize densely in the crown of the plant and between the tightly packed developing sprouts, making them difficult to dislodge; early intervention is critical",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — Brussels sprouts are heavily and enthusiastically browsed by deer across all regions; the large, nutrient-dense leaves and developing sprouts are highly palatable; deer will consume plants down to the stalk; where deer pressure is present, a physical barrier (deer fence, wire cage, or hardware cloth enclosure) around the bed is essential from transplant through harvest; do not rely on repellent sprays alone for a crop of this browse-value"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low salt tolerance; avoid siting in locations with road salt drift or coastal salt exposure; not a significant concern for most inland gardens"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — Brussels sprouts require consistent moisture throughout the growing season; the long timeline from transplant to harvest means the plants must cope with mid-summer heat and dryness across most of the lower 48; mulching the bed heavily (3–4\" of straw or wood chip mulch) is strongly recommended to retain soil moisture during the hottest months; inconsistent watering during this period is a primary cause of poor sprout development"
+    },
+    "other": "Frost-tolerant and frost-improved — the plants handle temperatures into the mid-20s°F without damage and flavor improves materially after repeated frost events; this cold tolerance is the basis of the November–December harvest window in Zones 5–7; plants can be harvested through light snowfall"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — Brussels sprouts are the most demanding of the common brassicas in terms of timeline management, pest monitoring, physical support, and technique; the reward is a unique late-season harvest that no other vegetable provides; success requires attention to scheduling above all else",
+    "pruningNotes": "Three essential techniques distinguish successful Brussels sprouts from failed crops:\n1. TOPPING: When plants have reached their full height (3–4') and sprouts are visible and developing along the stalk — typically September in Zone 6a, timed accordingly in other zones — pinch or cut out the growing tip at the very top of the plant. This redirects the plant's energy from upward growth into filling and maturing the existing sprouts; it is estimated to advance harvest by 2–3 weeks, which is significant in cool-zone gardens where the window closes with hard freezes. Do not top too early (before sprouts are visible along the stalk) or the plant will attempt to generate new side growth rather than filling sprouts.\n2. LEAF REMOVAL: As the season progresses, progressively remove the lower yellowing leaves from the stalk. This improves airflow, reduces aphid habitat, and exposes the lower sprouts for easier harvesting. Remove only leaves that have yellowed or are in obvious decline — do not strip green leaves aggressively, as the plant needs them for photosynthesis. The large lower leaves can be cooked and eaten.\n3. STAKING AND SUPPORT: Brussels sprouts plants are tall, top-heavy, and vulnerable to wind-throw (lodging), particularly after topping when the root zone may have been loosened by summer growth. Stake each plant individually with a sturdy bamboo stake or garden stake, tying loosely at 1–2 points; alternatively, mound additional soil or compost around the base of each plant in late summer to increase root anchorage. Lodged plants can be staked upright and usually recover, but prevention is far easier than correction.",
+    "propagationMethods": [
+      "Seed started indoors is required across most of the lower 48 for fall production — direct seeding rarely provides adequate time before winter in Zones 5–7; in Zones 8–9",
+      "direct seeding in late summer for a winter crop is feasible. Count backward from your expected first hard frost date: allow 80–110 days for the variety you have chosen",
+      "then add 4–6 weeks for indoor seed start time",
+      "and that is your indoor sow date. Seeds germinate readily at 65–75°F in 5–10 days; grow on under bright light; harden off transplants for 7–10 days before setting out. Transplants are occasionally available at garden centers in late spring–early summer; purchasing transplants is a valid shortcut if starting from seed has been missed."
+    ]
+  },
+  "cultivarNotes": "Variety selection significantly affects reliability, timing, and flavor. Performance across the lower 48 varies by zone — shorter-season varieties are critical in zones where fall arrives early (Zone 5 and colder), while longer-season varieties can be pushed in zones with a more extended mild fall (Zones 7–8).\n**'Long Island Improved'** — The classic heirloom standard; open-pollinated and seed-saveable; 90–100 days; compact plants (18–24\" tall) relative to modern hybrids; reliable, widely grown for generations; excellent flavor after frost; the right choice for anyone wanting an open-pollinated variety or wishing to save seed; widely available from seed catalogs. Performs well across Zones 3–8 with appropriate timing.\n**'Jade Cross'** (F1 hybrid) — An older hybrid standard; 80–90 days; uniform sprout development, earlier than Long Island Improved; compact plants; widely available; a good choice if an earlier harvest date is important or if the season is getting a late start; particularly suited to Zone 5 and colder where fall arrives quickly.\n**'Franklin'** (F1 hybrid) — Excellent flavor reputation, productive, reliable; good cold tolerance; among the best hybrids for flavor combined with reliability; 85–90 days; performs well across Zones 4–7.\n**'Diablo'** (F1 hybrid) — Cold-hardy and a reliable producer in challenging conditions; 110 days; particularly suited to late-season extended harvest; produces well into November and December; the right choice for maximizing the late-season harvest window or where hard early freezes are a concern; best in Zones 5–7 where a long, cool fall is reliable.\n**'Rubine'** — A distinctive red/purple Brussels sprouts; open-pollinated; slower to mature than green varieties (100–110+ days); lower yield; flavor is good but the primary appeal is ornamental — striking red sprouts and purple-tinged foliage; a worthwhile addition to a mixed planting for visual interest, but not a primary production variety; requires the longest possible growing season and must be started especially early indoors.\nZone-band summary: Zones 3–5 should prioritize shorter-season varieties ('Jade Cross', 'Franklin') and start seeds as early as possible indoors; Zones 6–7 have the widest variety options and the most favorable fall window for frost-sweetened sprouts; Zone 8 gardeners should use fall-transplant timing (late summer start) targeting a winter harvest and favor heat-tolerant varieties where available; Zones 9–11 face the greatest challenge with this crop and should consult regional extension guidance for cultivar and timing specifics.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated raised vegetable bed; late-season brassica rotation crop; succession planting after spring crops (peas, spinach, early lettuce) that finish by late May or early June; the only common vegetable harvested primarily in November in the cool-zone garden"
+    ],
+    "designPlacement": "Brussels sprouts belong in the raised vegetable beds — they are not a food forest plant, not an ornamental, and not suited to mixed perennial borders or foundation beds. The key siting requirements are: full sun (6–8 hours minimum); reliable moisture (drip or consistent hand-watering); firm, composted soil in a raised bed on clay sites; and physical deer protection wherever deer pressure is present. Plants will occupy a bed from transplant through fall or early winter, so plan succession accordingly. The tall plants (3–4') will shade neighboring low crops to the north of the row — orient rows so tall plants are on the north side of the bed.",
+    "acquisitionStatus": "Not yet acquired — seeds or transplants needed\nPennsylvania — Hegins Site Observations: Zone 6a Hegins is well-suited to Brussels sprouts — the October–November frost pattern is nearly ideal for producing the frost-sweetened sprouts that make this vegetable worth growing. The primary site-specific risks are: (1) starting too late — this is the single most common failure and must be guarded against by beginning seeds indoors by late February to early March; (2) deer — the raised beds must be fenced against the active east corridor pressure; (3) mid-summer aphid pressure — plan to inspect the plant crowns weekly from July onward and treat immediately with insecticidal soap or water blast; (4) lodging — stake plants in late summer before fall wind events. The clay soil in the raised beds, once amended with compost, is actually well-suited to Brussels sprouts — firm, moisture-retentive soil aids anchorage and supports consistent development. Heavy mulching of the bed surface in July–August is strongly recommended to carry the plants through the hottest part of the season with adequate moisture."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brussels_sprout",
+    "inaturalist": "https://www.inaturalist.org/taxa/371829-Brassica-oleracea-gemmifera",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f657"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Red clay at Hegins is compacted and drainage-limited; raised beds are essential; once amended with compost, clay-based raised bed soil is actually well-suited to Brussels sprouts — firm, moisture-retentive, and supportive of anchorage",
+      "soil": "Red clay at Hegins, once composted and raised in beds, provides firm, moisture-retentive soil that suits Brussels sprouts well; heavy mulching (3–4\" straw or wood chip) in July–August is strongly recommended to carry the bed through mid-summer heat",
+      "cultivarNotes": "'Franklin' is the top hybrid recommendation for flavor-focused production; 'Diablo' for maximum cold hardiness and extended late harvest; plant both to spread the harvest window. Include 'Long Island Improved' if open-pollinated varieties are a priority. Start seeds indoors by late February to mid-March; transplant in early to mid-June.",
+      "designPlacement": "Brussels sprouts belong in the raised vegetable beds only — not in Sections A, B, or C. Beds must be deer-fenced (east corridor pressure makes this non-negotiable). Plan for June transplant following spring crops; the bed will be occupied through November–December. Plant tall rows on the north side of the bed to avoid shading other crops.",
+      "siteObservations": null
+    }
+  }
+}

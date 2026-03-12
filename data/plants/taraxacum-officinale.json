@@ -1,0 +1,150 @@
+{
+  "id": "taraxacum-officinale",
+  "name": {
+    "commonName": [
+      "Dandelion",
+      "Common Dandelion"
+    ],
+    "latinName": "Taraxacum officinale",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; now naturalized worldwide in temperate regions — one of the most cosmopolitan flowering plants on earth",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe and naturalized throughout all 50 states and every US territory — present in every county-level flora survey in the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not classified as invasive in any US state — naturalized and abundant, but ecologically benign; a functional component of disturbed landscapes, roadsides, and lawns; readily managed by harvest; not listed on any state noxious weed list or the federal noxious weed list"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "4-12\" in leaf rosette; flower stalks 6-18\"",
+    "spread": "6-12\" per rosette; spreads indefinitely by wind-dispersed seed",
+    "spacing": "N/A — self-sows freely; manage density by harvesting before seed set rather than planting to spacing",
+    "growthRate": "Fast; establishes from seed in one season; a mature taproot is fully productive by year 2",
+    "timeToMaturity": "Leaves harvestable from first year; taproots worth harvesting after year 1-2",
+    "lifespan": "Perennial; individual plants are long-lived via the persistent taproot; populations self-perpetuate indefinitely by seed",
+    "deciduousEvergreen": "Deciduous — dies back to the ground in hard frost; among the earliest plants to emerge in late winter/early spring",
+    "winterInterest": "None — disappears completely in hard frost; the flat rosette may persist in mild stretches"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most vigorous in full sun but tolerates significant shade; commonly found under tree canopies and in woodland edges",
+    "water": "Low to medium; exceptional drought tolerance once the taproot is established; adapts to a wide range of moisture conditions",
+    "drainagePreference": {
+      "description": "Highly adaptable — thrives in well-drained, poorly drained, and seasonally waterlogged soils alike; no drainage condition eliminates it; one of the few plants that performs equally well in compacted and loose ground",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the strongest clay-soil performers of any common plant; the deep taproot physically penetrates and fractures compacted clay, creating channels for water infiltration and future root growth; thrives in heavy, waterlogged clay that defeats most cultivated species; no amendment needed"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 8,
+      "description": "5.0-8.0; extraordinarily adaptable across a wide pH range"
+    },
+    "texturePreference": "Tolerates any texture from pure sand to heavy clay; the deep taproot actively penetrates compacted soils, creating channels for water infiltration and future root growth; performs best in loam but shows no meaningful decline in any texture class",
+    "rootCharacter": "Deep, stout taproot — typically 6-18\" in established plants, occasionally deeper in loose soil; the taproot is a primary edible yield, a dynamic accumulator of calcium, potassium, and iron, and a living tillage tool in compacted clay soils; breaks off at the crown if not dug carefully, regenerating readily from any remaining fragment"
+  },
+  "bloom": {
+    "bloomTime": "March-May (primary flush); sporadic rebloom through October — one of the longest effective bloom seasons of any common plant",
+    "bloomDescription": "Solitary yellow composite flower heads 1-2\" wide on hollow, latex-filled scapes; each \"flower\" is a composite of 150-200+ individual ray florets; closes at night and in rain; the bright yellow is visible from a distance and among the earliest yellow flowers in the spring landscape",
+    "fragrance": "Faint, sweet honey-like fragrance on warm days; not strongly scented",
+    "flowerSex": "Hermaphrodite; apomictic (reproduces without fertilization) — seed is set without pollination, though insects visit freely",
+    "pollination": "Apomictic — does not require pollination to set viable seed; nonetheless, provides abundant nectar and pollen to early-season insects before most other flowers are available; one of the most ecologically critical early spring pollinator plants across the temperate US"
+  },
+  "yield": {
+    "edibleParts": "All parts are edible. Leaves are best harvested young in early spring before flowering, when they are less bitter — use raw in salads, cooked as potherb (braised with garlic and olive oil in Italian tradition), or blanched to reduce bitterness; leaves become progressively more bitter after flowering but remain edible and nutritious. Blanching (covering the growing rosette with a pot or board for 1-2 weeks to exclude light) produces pale, significantly more tender and mild leaves for salads. Flowers are edible raw as petals in salads, as whole heads dipped in batter and fried (dandelion fritters), or fermented into dandelion wine. Roots are edible roasted and ground as a caffeine-free coffee substitute with a rich, slightly bitter, chicory-like flavor, or cooked as a vegetable (boil and dress with butter and vinegar).",
+    "harvestSeason": "Leaves — earliest spring (March-April) for best quality; roots — fall through early spring when inulin and stored energy are highest; flowers — peak bloom (April-May)",
+    "medicinalUses": "Leaves are among the most nutrient-dense wild greens available — exceptionally rich in vitamins A, C, and K, as well as calcium, iron, and potassium; roots contain inulin, a prebiotic fiber that supports gut microbiome health; traditionally used as a liver tonic, mild diuretic (the French name pissenlit reflects this), and digestive bitter; the milky latex has been used topically for warts",
+    "craftOtherYield": "Flowers yield a yellow dye; roots produce a light tan dye; dandelion wine is a genuine country wine tradition in the UK and Appalachian US; dried roasted root as a coffee substitute"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "No meaningful toxicity — one of the safest wild edibles. The white latex sap in the hollow flower scape can cause contact dermatitis in individuals with very sensitive skin or latex sensitivity; wash hands if irritation occurs. Those with ragweed allergies (Asteraceae family) may experience mild cross-reactivity. Safe for children in culinary quantities.",
+    "toxicityAnimals": "Non-toxic to dogs, cats, and livestock; frequently consumed by rabbits, chickens, and other domestic animals without harm",
+    "allelopathy": "None documented; dandelion root exudates are described in permaculture literature as beneficial to neighboring plants via mineral cycling",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer / Ground cover (self-managing)"
+    },
+    "roles": [
+      "Dynamic Accumulator (primary — the deep taproot mines calcium, potassium, and iron from subsoil layers and deposits them in leaves; leaf litter and decomposing roots cycle these minerals into the surface layer for neighboring plants)",
+      "Living Tillage (the taproot physically fractures compacted clay, improving drainage and aeration over time)",
+      "Early Pollinator Support (critical — one of the very first nectar and pollen sources of the season, bridging the gap between late winter and the main spring bloom flush)",
+      "Food (all parts — significant edible yield)",
+      "Ground Cover (the flat rosette suppresses weeds in its footprint and remains green through mild winters)"
+    ],
+    "companionPlants": [
+      "Fruit trees (guilds — dandelion is a traditional companion in orchard understories; dynamic accumulator function benefits shallow-rooted trees); comfrey (fellow dynamic accumulator — together they build soil fertility rapidly); any tap-rooted companions benefit from the channels dandelion creates in clay"
+    ],
+    "antagonists": [
+      "None documented in the edible/permaculture literature"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Exceptional early spring value for bees (honeybees, bumblebees, and many native bee species depend on dandelion as a primary early nectar and pollen source), butterflies, and hoverflies. American goldfinches actively seek and eat the mature seed heads — a late-summer and fall wildlife benefit. Rabbits, deer, and groundhogs browse the leaves, though deer pressure is secondary; dandelion is not preferred browse and recovers rapidly from grazing.",
+    "hostPlantFor": "Several Lepidoptera species; the flowers support a wide range of generalist pollinators and beneficial insects",
+    "nestingHabitat": "The flat rosette provides low ground cover and microhabitat; hollow flower stalks of limited use; primarily valued for food rather than nesting"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — not preferred browse; deer will occasionally graze leaves but the deep taproot means plants recover quickly and fully from grazing; not a meaningful deer problem in any region"
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — a common roadside plant throughout the US; highly tolerant of road salt runoff and spray; recovers from incidental exposure without damage"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — the deep taproot accesses subsoil moisture; established plants survive extended drought without irrigation across all climate zones within its range"
+    },
+    "other": "Exceptional tolerance for compacted soil, mowing, foot traffic, and general disturbance; tolerates the full range of winter conditions across Zones 3-9 with no protection needed; thrives in disturbed areas, construction sites, and compacted clay — conditions that defeat most cultivated plants; heat-tolerant through Zone 9 but may go semi-dormant in extreme summer heat in the Deep South"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially zero — dandelion requires no care, irrigation, fertilization, or attention; it manages itself entirely",
+    "pruningNotes": "No pruning needed. To limit population spread, harvest flowers before they complete seed set (the window between open flower and mature seed head is about 10-14 days). In areas where you want dense stands (orchards, dynamic accumulator patches), allow seed to disperse freely. In lawn or formal areas, remove seed heads before they open or use a taproot weeder to eliminate individuals — note that any taproot fragment left in the ground will regenerate.",
+    "propagationMethods": [
+      "Self-sows prolifically by wind-dispersed achenes (each plant can produce 150-200+ seeds); transplant young seedlings or crowns in early spring; root division from established taproots; seed germinates without stratification at soil temperatures above 50°F"
+    ]
+  },
+  "cultivarNotes": "No cultivars are in common use for the edible/permaculture context. In France and Italy, selected strains with broader, more tender leaves have been developed for market cultivation — 'Ameliore' (French broad-leaf), 'Pissenlit Coeur Plein' (thick-hearted), and 'Italian Dandelion' (actually Cichorium intybus, not a true dandelion — marketed under the name but a different species) are sometimes sold by specialty seed companies. These culinary selections perform across Zones 4-8 without significant regional variation. For most gardeners in Zones 3-9, wild-type plants naturalized on site are fully productive and require no purchase or sourcing.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Allow to naturalize throughout the food forest",
+      "orchard guilds",
+      "and disturbed areas; manage by harvest rather than elimination; cultivate in a dedicated patch for blanched leaf production if desired"
+    ],
+    "designPlacement": "Dandelion functions as a permanent resident of any food forest or permaculture system rather than a plant to site intentionally. It will establish itself in orchard guilds, woodland edges, and throughout disturbed ground without effort. The permaculture strategy is to harvest it actively (leaves, flowers, roots) rather than battle it, and to manage population density by harvesting flowers before seed set in high-visibility areas. In orchard understory and less visible areas, allow it to self-sow and cycle minerals freely. A dedicated blanching patch near the kitchen — covering a cluster of rosettes with a terracotta pot or board in early spring — produces pale, mild leaves 10-14 days later.",
+    "acquisitionStatus": "Present on site (naturalized) — no sourcing required"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Taraxacum_officinale",
+    "inaturalist": "https://www.inaturalist.org/taxa/47602-Taraxacum-officinale",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced from Europe and naturalized throughout the state in every county; ubiquitous in lawns, roadsides, meadows, and disturbed ground",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; same as general Invasive field",
+      "drainage": "The compacted red clay at Hegins is an ideal environment for dandelion — no amendment, raised beds, or site preparation required; the taproot actively improves the clay over time, functioning as a free living tillage tool in the construction-disturbed foundation soils",
+      "soil": "No amendment or preparation needed in the Hegins red clay — dandelion thrives in compacted clay without intervention and actively improves soil structure over time via taproot penetration and mineral cycling",
+      "cultivarNotes": "Wild-type dandelion naturalized at the Hegins property is the best option — no cultivar purchase needed; the resident population is fully adapted to local conditions and already productive.",
+      "designPlacement": "Allow to naturalize throughout the apple guild, paw paw guild, mulberry guild, and the disturbed clay beds. Consider dedicating a corner of Section B (kitchen herb strip) to a managed blanching patch for culinary harvest. In Section A and other high-visibility areas, manage seed heads before dispersal to maintain a tidy appearance.",
+      "siteObservations": "Likely already present in lawn, disturbed areas, and driveway margins at the Hegins property. The compacted red clay at the site is an ideal environment for dandelion's taproot tillage function — consider this a free soil amendment tool working continuously beneath the surface. Deer pressure from the east wildlife corridor is not a concern for this plant; dandelion is not preferred browse and recovers instantly from any grazing."
+    }
+  }
+}

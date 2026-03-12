@@ -1,0 +1,166 @@
+{
+  "id": "sambucus-canadensis",
+  "name": {
+    "commonName": [
+      "American Elderberry",
+      "Common Elderberry"
+    ],
+    "latinName": "Sambucus canadensis (syn. Sambucus nigra subsp. canadensis)",
+    "family": "Adoxaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Nova Scotia to Florida, west to Manitoba and Texas; one of the most widely distributed native shrubs in eastern North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from Maine to Florida and west to the Great Plains (Manitoba to Texas); found in every state east of the Rockies. Not native to the Pacific Northwest, Southwest, or intermountain West, though occasionally naturalized in disturbed moist sites in those regions."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Sambucus canadensis is a well-behaved native that spreads by root suckers but does not escape cultivation or displace native vegetation. Not listed on any state noxious weed list. The suckering habit is easily managed by mowing or removing suckers at the colony edge."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "8-12'; fast-growing to full height in 2-3 years",
+    "spread": "8-10'; spreads by suckers to form colonies over time",
+    "spacing": "6-10'; allow adequate space for spread",
+    "growthRate": "Very fast — one of the fastest-growing native shrubs; establishes and begins producing within 2 years",
+    "timeToMaturity": "First significant fruiting in years 2-3; some flower/fruit in year 2",
+    "lifespan": "Long-lived; spreads vegetatively to maintain colony indefinitely",
+    "deciduousEvergreen": "Deciduous — compound pinnate leaves emerge late spring; bold tropical-looking foliage through summer",
+    "winterInterest": "Low — bare architectural stems; some dried fruit clusters may persist briefly"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; fruiting best in full sun; tolerates shade better than most fruiting shrubs",
+    "water": "Medium to high; one of the more moisture-tolerant shrubs; native to stream edges and moist woodland margins; tolerates occasional flooding. In the arid West or hot southern zones, consistent irrigation is essential; in the humid East and Midwest, natural rainfall is often sufficient except during drought.",
+    "drainagePreference": {
+      "description": "Highly adaptable — thrives in moist, periodically wet conditions as well as average well-drained garden soil. Tolerates seasonal flooding and poor drainage better than almost any other fruiting shrub. Performs poorly only in chronically waterlogged anaerobic soils. Among the best choices for wet or poorly drained sites.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent. Elderberry is one of the most clay-tolerant fruiting shrubs available. Heavy clay, even poorly drained clay, is well within its natural range of habitats. No amendments required for establishment in clay; the fibrous root system handles compacted soils well. Waterlogging from clay is tolerated as long as it is seasonal rather than permanent."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; adaptable"
+    },
+    "texturePreference": "Highly adaptable; performs well in clay, loam, sandy loam, and moist organic soils. Prefers moisture-retentive ground but tolerates a wide range. One of the most forgiving fruiting shrubs for difficult soil textures.",
+    "rootCharacter": "Spreading fibrous root system with strong suckering habit; forms a suckering colony over time; suckers are easily removed if spread needs containment"
+  },
+  "bloom": {
+    "bloomTime": "June-July",
+    "bloomDescription": "Large flat-topped flower clusters (cymes) to 10\" wide; individual florets are tiny, creamy white, and extremely fragrant; clusters appear at the tips of all current-year shoots",
+    "fragrance": "Strongly fragrant flowers — sweet, musky-floral; fills the surrounding area during bloom; one of the most fragrant native shrubs",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile but cross-pollination with another plant significantly improves fruit set and berry size; plant two plants for best yield"
+  },
+  "yield": {
+    "edibleParts": "Berries (cooked only — the raw berries contain sambunigrin, a cyanogenic glycoside that causes nausea; cooking destroys it); flowers (edible raw — elderflower cordial, fritters, wine, tea); roots, bark, and raw berries are toxic",
+    "harvestSeason": "Flowers June-July; berries August-September",
+    "medicinalUses": "Exceptional — elderberry is one of the most clinically-supported herbal medicines; elderberry syrup (from cooked berries) is well-documented for reducing duration and severity of influenza and other viral infections; flowers used for fever reduction, immune support, and respiratory conditions; one of the primary medicinal plants for a home pharmacy",
+    "craftOtherYield": "Elderflower cordial, wine, and champagne; elderberry wine, syrup, jam, and pie; natural dye from berries (deep purple)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Raw berries, leaves, bark, and roots contain cyanogenic glycosides (sambunigrin) and are toxic; cooking berries fully destroys the toxins and makes them safe; flowers are safe raw. This is a well-known and manageable distinction — cook berries, don't eat other parts.",
+    "toxicityAnimals": "TOXIC to dogs, cats, and horses — leaves, bark, roots, and raw berries can cause serious illness; cooked berries are not typically fed to pets. Keep pets away from fallen berries and foliage. This is a significant caution if pets access planting areas.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (berries and flowers — primary yield plant)",
+      "Medicinal (high priority — elderberry is one of the most useful medicinal plants for a home pharmacy)",
+      "Insect Attractor (excellent)",
+      "Wildlife Support (primary wildlife food plant)",
+      "Nitrogen Cycle (coppice biomass)",
+      "Chop-and-Drop mulch source",
+      "Nurse Plant"
+    ],
+    "companionPlants": [
+      "Comfrey (excellent dynamic accumulator companion)",
+      "Symphytum as understory",
+      "Monarda at base",
+      "yarrow in the guild understory; most herbs and perennials are compatible"
+    ],
+    "antagonists": [
+      "None documented for garden companions"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Exceptional wildlife plant — berries consumed by over 50 species of birds including catbirds, robins, thrushes, cedar waxwings, tanagers; attracts small mammals; flowers attract native bees, hoverflies, and beneficial insects in large numbers; one of the highest-value wildlife plants for eastern North America",
+    "hostPlantFor": "Larvae of several moth species use Sambucus including the Cecropia moth (Hyalophora cecropia)",
+    "nestingHabitat": "Dense shrub provides nesting structure for small birds; catbirds and robins commonly nest in elderberry"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate resistance. Deer do browse elderberry, especially new growth in spring. Young plants should be protected with fencing or cages for the first 1-2 years. Established mature plants typically have enough mass and regrowth vigor that browsing is not fatal — lost shoots are quickly replaced. The pithy, aromatic stems may deter casual browsing but are not a reliable deterrent under heavy pressure."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers; not suited for direct salt spray or heavily salted roadside berms"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; best with consistent moisture; tolerates short dry periods once established but prefers moist conditions. In hot southern zones or arid climates, supplemental irrigation is essential."
+    },
+    "other": "Tolerates wet conditions, periodic flooding, and heavy clay — one of its primary advantages for difficult sites. Good wind tolerance once established. Tolerates urban pollution and disturbed soils."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "Prune in early spring before leaf-out. For fruiting: keep a mix of 1, 2, and 3-year-old canes; remove canes older than 3 years at the base. Elderberry fruits on current-year growth from established woody canes — do not cut all canes to the ground (you'll lose one year's fruit). Alternatively, coppice one-third of canes per year on a rotating basis. Remove suckers from the edge of the clump to control spread. Flower clusters appear at stem tips — avoid cutting stem tips in fall or winter pruning.",
+    "propagationMethods": [
+      "Hardwood cuttings (dormant season — very easy; cut 8-10\" sections, stick in moist soil; excellent strike rate)",
+      "suckers (dig and replant)",
+      "softwood cuttings (early summer)",
+      "seed (cold stratification required; slower)"
+    ]
+  },
+  "cultivarNotes": "The straight species (S. canadensis) is excellent for wildlife and medicinal use and performs well across Zones 3-9. For improved fruit production and named disease resistance, cultivar selection by zone band: **Zone 3-5 (northern tier):** 'Adams No. 1' and 'Adams No. 2' are proven classics with reliable cold hardiness; 'Nova' and 'York' are a recommended cross-pollination pair bred for northern conditions and high yield. **Zone 5-7 (mid-latitudes):** 'Bob Gordon' (very large berry clusters, high anthocyanin content — ideal for medicinal use); 'Wyldewood' (large clusters, better drought tolerance than most); 'Adams No. 2' + 'Bob Gordon' is an excellent cross-pollination pair combining classic reliability with modern anthocyanin levels. **Zone 7-9 (southern tier):** 'Wyldewood' handles heat and drought better than others; 'Bob Gordon' also performs well in the upper South. In all zones, planting two different named cultivars ensures cross-pollination for maximum berry yield while also providing the wildlife and medicinal benefits of the species. Avoid ornamental black-foliaged cultivars (like 'Black Beauty' / S. nigra 'Gerda') for food production — they are primarily ornamental and berry production is secondary.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "medicinal herb garden",
+      "wildlife garden",
+      "screen/hedge",
+      "rain garden",
+      "wet-tolerant hedge"
+    ],
+    "designPlacement": "Use as a large structural shrub in the food forest shrub layer, hedgerow, or rain garden. Plant in full sun for maximum fruit production; tolerates part shade where needed. Pair two cultivars within 60' for cross-pollination. The suckering habit means it will colonize its area over time — allow 8-10' and manage edges. Coppiceable nature allows height management in constrained spaces. Excellent companion to comfrey, nitrogen fixers, and understory herbs. Site in moist or low-lying areas where other fruiting shrubs struggle.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sambucus_canadensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/84300-Sambucus-canadensis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f470"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — native to Pennsylvania; common in hedgerows, woodland edges, stream banks, and roadsides throughout the state; likely present in the Hegins area naturally",
+      "paInvasiveStatus": "Not invasive in Pennsylvania. Not listed by PA Dept. of Agriculture or DCNR.",
+      "drainage": "Ideal for the Hegins red clay — one of the few fruiting shrubs that will thrive in compacted, poorly drained clay without amendment or raised beds. In-ground planting is fully appropriate; adding compost at planting improves establishment speed but is not required.",
+      "soil": "The Hegins red clay is well suited — no texture amendment needed for elderberry. The moisture-retentive nature of clay is actually an advantage for this species.",
+      "cultivarNotes": "'Bob Gordon' + 'Adams No. 2' is the ideal pair — proven performers in the mid-Atlantic with excellent medicinal-grade anthocyanin content and reliable cross-pollination.",
+      "designPlacement": "Primary large shrub for the Section B kitchen/herb strip (north-facing, no height limit) — establishes quickly, produces berries and flowers for medicine and food, provides exceptional wildlife value, and tolerates the north-facing aspect and wetter clay conditions. Plant two cultivars for cross-pollination. Coppice management keeps the shrub productive and sized appropriately as the food forest canopy develops overhead.",
+      "siteObservations": "Elderberry is one of the best-suited plants for the Hegins site conditions — clay soil, potential drainage issues, and deer pressure are all within its tolerance range. Deer will browse young plants; protect with temporary fencing for the first two seasons until canes are robust. The moist clay conditions that challenge many plants are actually favorable for elderberry. Comfrey (already on site) is an ideal companion. Once established, the colony will be self-sustaining with minimal intervention beyond annual cane thinning."
+    }
+  }
+}

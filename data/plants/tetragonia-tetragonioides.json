@@ -1,0 +1,169 @@
+{
+  "id": "tetragonia-tetragonioides",
+  "name": {
+    "commonName": [
+      "New Zealand Spinach",
+      "Warrigal Greens",
+      "Botany Bay Greens"
+    ],
+    "latinName": "Tetragonia tetragonioides (syn. Tetragonia expansa)",
+    "family": "Aizoaceae (Ice Plant family — not related to true spinach)"
+  },
+  "range": {
+    "nativeRange": "Coastal and disturbed habitats in New Zealand, Australia, Japan, and coastal South America; a remarkably wide native range around the Pacific and Southern Ocean rim; likely spread in antiquity by coastal and maritime pathways before European contact; first collected for western science by Joseph Banks during Captain Cook's first voyage (1769) at Botany Bay, Australia — hence the common name \"Botany Bay Greens\"",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced as a vegetable crop and occasionally naturalized in warm coastal areas, particularly in California and the Gulf Coast; not part of the indigenous flora in any US state; where it persists it is limited to mild maritime or subtropical climates and does not naturalize in areas with hard winters"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not classified as invasive in any US state; in zones where hard frost occurs (roughly zones 7 and colder) the plant is killed outright by fall frost and cannot overwinter or spread; in mild-winter coastal areas (parts of California, southern coastal states) it may self-seed and persist but is not listed on any state noxious weed list or USDA invasive species list; globally, it is classified as invasive in some mild maritime climates (parts of the Mediterranean, Azores, Canary Islands) where the absence of hard frost allows year-round persistence and spread, but US continental climates generally prevent this"
+    },
+    "zone": {
+      "min": 8,
+      "max": 11,
+      "description": "Not hardy — tender annual; killed by any frost; treated as a frost-tender summer annual in all zones that experience freezing temperatures; rated for in-ground perennial use in Zones 8–11 where winters are mild enough for it to persist as a self-seeding or short-lived perennial; in zones 3–7, managed as a single-season annual planted after last frost and grown until fall frost terminates it; the frost-free window determines productive season length — zones 3–5 have a tighter window requiring earlier indoor starts, while zones 6–7 offer a comfortable 140–170 day season, and zones 8+ may see year-round production"
+    }
+  },
+  "description": {
+    "height": "8-18\" tall; the plant is sprawling and low-growing rather than upright; main stems grow outward and branch repeatedly, with leaf-bearing shoots arching outward and mounding gently; it does not form a compact upright head like true spinach",
+    "spread": "3-4 feet across per plant at full maturity; a single plant is substantially wider than it is tall; in a raised bed, one plant can colonize a 3-4 square foot area over a summer season; plan accordingly and give it room",
+    "spacing": "18-24\" apart; the plant needs space to sprawl and branch freely; closer spacing limits yield and air circulation; in a raised bed, 2-3 plants per 4x8 bed is appropriate, positioned so stems can sprawl without crowding adjacent taller crops",
+    "growthRate": "Slow to establish, then vigorous; germination is slow and erratic (10-21+ days even with seed treatment); the seedling phase is unhurried compared to true spinach; once the plant reaches 6-8\" with several branches, growth accelerates noticeably and branching becomes continuous through the warm season",
+    "timeToMaturity": "Approximately 55-70 days from transplant to first harvest-ready shoot tips; from direct sow, 70-85 days; patience during establishment pays off in continuous production through the hottest months of the growing season — the crop that other greens cannot cover",
+    "lifespan": "Annual in zones 7 and colder — a single frost-free growing season; in its native range and in mild-winter climates (zones 8-11) it can persist as a short-lived perennial or self-seeding biennial; in any zone with hard frost it lives from transplant time until the first killing frost",
+    "deciduousEvergreen": "Annual — not applicable; the plant is entirely killed by frost; no overwintering structure",
+    "winterInterest": "None; the plant collapses at first frost; no persistent seed heads or ornamental winter structure"
+  },
+  "lightAndWater": {
+    "sun": "Full sun; 6-8+ hours of direct sun is optimal; this is a plant of open, sun-baked coastal habitats in its native range and performs best in maximum light; partial shade is tolerable and modestly productive but full sun drives the vigor and continuous branching that make it valuable as a summer green; in zones 8+ where summer heat is more intense, light afternoon shade may improve leaf quality and reduce water stress",
+    "water": "Low to moderate; one of the most drought-tolerant leafy vegetables available; the succulent, slightly fleshy character of the leaves reflects genuine water-storage tissue — the plant has physiological mechanisms for tolerating dry periods that true spinach entirely lacks; consistent moisture produces better leaf yield and quality, but the plant will survive and remain productive through dry spells that would stress or kill lettuce, spinach, and most other greens; in humid climates across the eastern US, regular summer rain generally provides adequate moisture, but in the arid West supplemental irrigation improves yield significantly",
+    "drainagePreference": {
+      "description": "Average to well-drained; the plant does not tolerate standing water or consistently waterlogged soil; native coastal habitats are typically sandy or rocky with rapid drainage; however, the plant handles moderate moisture retention better than many drought-adapted species — it is not as sensitive to heavy soil as might be expected from its succulent character",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — the plant tolerates moderately heavy clay soils better than many annual vegetables, particularly when the clay is amended with organic matter or the planting site has adequate surface drainage; it does not suffer from clay per se but from the waterlogging that poorly drained clay can produce; in amended clay with reasonable drainage, growth is satisfactory; in unamended, compacted clay that pools water after rain, root health declines; raised beds or mounded planting rows eliminate the concern entirely"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; adaptable across a broad pH range; not pH-sensitive in practice; standard vegetable garden pH (6.5 neutral) is ideal"
+    },
+    "texturePreference": "Tolerates a wide range including moderately heavy clay soils; not as clay-sensitive as many annual vegetables; the plant's native coastal habitats include sandy, rocky, and disturbed soils — it is not bred for perfect loam the way many vegetable crops are; loose, well-amended soil produces the most vigorous growth and easiest harvesting; sandy or loamy soils with good drainage are ideal but not required",
+    "rootCharacter": "Fibrous root system, moderately deep for an annual vegetable; not as taproot-dependent as arugula; transplants reasonably well when root disturbance is minimized; roots penetrate through compacted layers better than shallow-rooted crops like bok choy but do not require deep cultivation; raised beds are appropriate but not strictly required"
+  },
+  "bloom": {
+    "bloomTime": "Mid to late summer (July-September in zones 6-7; earlier in zones 8+; later in zones 3-5 where the season starts later); flowers are produced continuously once the plant reaches maturity but are small, inconspicuous, and not the primary reason to grow this plant; flowers are self-fertile and are pollinated by insects",
+    "bloomDescription": "Flowers are tiny (under ¼\"), yellow-green, axillary (tucked at leaf nodes along the stems), and lack showy petals; they are essentially invisible among the dense foliage unless you look closely; the plant is not grown for ornamental bloom interest; after pollination, the flowers produce small, hard, angular fruits (technically the dispersal units — they are not true berries) that contain seeds; these fruits are what enable self-seeding if they ripen before frost",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts; self-fertile",
+    "pollination": "Self-fertile; small insects visit the flowers and aid in pollination; no special pollinator requirements; this is not an insectary plant of significance — the flowers are too small and inconspicuous to serve as a meaningful pollinator resource"
+  },
+  "yield": {
+    "edibleParts": "Growing shoot tips (primary harvest — the top 3-4 inches of each branch, consisting of the tender young stem and the 2-4 smallest emerging leaves at the tip); mature leaves (secondary — edible when cooked but less tender than the shoot tips); seeds (historically consumed by Indigenous Australians but not a practical yield in zones where the season is too short for reliable seed maturation before frost). The shoot tips are the whole game here: they are tender, mild, and spinach-like in both flavor and texture when cooked, with none of the bitterness that characterizes bolted or overgrown true spinach. Raw, the leaves are slightly succulent and mildly mucilaginous — an unusual texture that some find appealing and others off-putting, but which disappears almost entirely with even brief cooking. Flavor when cooked is genuinely mild and pleasant — lighter and less assertive than true spinach, slightly neutral in the way that water spinach (Ipomoea aquatica) is neutral. It wilts dramatically when cooked, as spinach does — a large colander of raw tips reduces to a small quantity when briefly sautéed or steamed; plan for this and harvest generously. Use exactly as you would spinach: sautéed with garlic and olive oil, added to scrambled eggs, stirred into pasta, incorporated into soups, or briefly blanched and dressed simply.",
+    "harvestSeason": "Active harvest runs through the full summer season in zones where this plant is grown as an annual — typically June through early October in zones 6-7, with a longer window in zones 8+ where frost arrives later or not at all. First harvest is possible approximately 8-10 weeks after transplanting, once the plant has established and produced multiple branching shoots. The harvest method itself drives yield: pinch or snip the top 3-4 inches of each growing shoot tip; this immediately stimulates the cut stem to branch into two new shoots, each of which will be harvestable in another 1-2 weeks. Frequent harvesting is not just acceptable but actively recommended — it is the management technique that keeps the plant dense, productive, and low-growing. A plant left unharvested becomes leggy and sparse; a plant harvested weekly becomes densely branched and extraordinarily productive. In a warm summer, a mature plant can yield a significant harvest every 7-10 days — a production window that precisely fills the gap when true spinach has bolted and before fall greens are ready.",
+    "medicinalUses": "None significant in western herbalism; leaves contain oxalic acid (as does true spinach, sorrel, and rhubarb) — blanching or cooking reduces oxalate content; not a medicinal plant in any traditional western or eastern system; the Australian Indigenous use was primarily culinary",
+    "craftOtherYield": "None"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Oxalic acid present in the leaves — the same compound found in true spinach, Swiss chard, beet greens, and sorrel; at normal culinary consumption levels this is not a health concern for most people; individuals with a history of kidney stones (particularly calcium oxalate stones) or those on low-oxalate diets for medical reasons should be aware; blanching briefly in boiling water (30-60 seconds) and discarding the blanching water significantly reduces oxalate content; cooking in general reduces oxalate bioavailability compared to raw consumption; not a meaningful caution for healthy adults eating it as part of a varied diet",
+    "toxicityAnimals": "The oxalic acid present is a potential concern for pets fed large quantities of raw leaves; not an acute toxicity risk at incidental exposure; pets grazing on raw leaves in quantity could potentially accumulate oxalate; this is a minor concern in practice since few animals seek out this plant (see Deer notes below); not a plant to specifically exclude from a pet-accessible garden, but not one to feed intentionally in large amounts to pets",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / ground layer — a sprawling, low-mounding summer annual that functions simultaneously as a productive food plant and a seasonal ground cover"
+    },
+    "roles": [
+      "Food (primary — the defining yield is the continuous summer spinach substitute; no other commonly grown annual fills this exact niche during the hottest months)",
+      "Summer Ground Cover (the sprawling habit and dense leaf canopy suppress weeds effectively in the spaces it colonizes; can be used intentionally to fill the ground between larger plants in a summer bed while contributing harvest)",
+      "Gap Filler (fills the specific temporal and thermal niche that true spinach cannot occupy — the hot summer months from June through September; this is its unique and irreplaceable contribution to a diverse kitchen garden)",
+      "Seasonal Mulch Layer (as the plant grows and sprawls, the dense coverage reduces soil moisture loss and moderates soil temperature — a secondary functional benefit)",
+      "Light Nitrogen Accumulator (leaf litter and spent plant material at season end contributes organic matter to the bed when composted or chopped and dropped)"
+    ],
+    "companionPlants": [
+      "Tomatoes (excellent spatial companions — NZ spinach sprawls at the base of tomato plants, covering bare soil and suppressing weeds in the tomato bed during summer; both share a preference for warm weather and full sun; harvest shoot tips from between the tomato plants)",
+      "Peppers and eggplant (similar logic — warm-season companions in the same bed structure; NZ spinach fills the ground layer without competing significantly for vertical light)",
+      "Basil (compatible warm-season companion; shared sun and heat requirements)",
+      "Climbing beans on a trellis (NZ spinach as a low ground cover at the feet of trellised beans; the beans fix nitrogen while NZ spinach covers the soil)",
+      "Summer squash (can sprawl into the same bed zone; both are heat-tolerant and large-scale summer plants, though squash may eventually outcompete if not managed)"
+    ],
+    "antagonists": [
+      "Cool-season crops — NZ spinach cannot be planted alongside spring greens because it does not go into the ground until after last frost",
+      "by which point cool-season crops are finishing; they occupy different temporal niches entirely",
+      "not spatial ones; no documented allelopathic antagonists"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Minimal wildlife attraction; small beneficial insects may visit the inconspicuous flowers; not a significant insectary plant; the plant's unusual texture and mild flavor make it unattractive to most wildlife",
+    "hostPlantFor": "No significant insect host relationships documented; the Aizoaceae family has very few specialist insect interactions in North America; this is a plant with essentially no major pest insects in a garden context — one of its most practical advantages",
+    "nestingHabitat": "None significant — an annual without persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good-excellent",
+      "description": "Good to excellent — one of the more deer-resistant leafy vegetables available; deer appear to find the unusual succulent texture unappealing; the slightly crystalline or waxy surface of the leaves (a family characteristic of Aizoaceae) may contribute to this avoidance; multiple sources report that deer largely ignore NZ spinach even when other garden vegetables are actively browsed; results cannot be guaranteed (a hungry deer will eat anything), but this crop is substantially lower-risk than lettuce, bok choy, arugula, or true spinach in a deer-active landscape; young transplants are most vulnerable — consider temporary protection until plants are established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate tolerance expected given its coastal native habitat where salt spray exposure occurs naturally; the succulent leaf physiology that characterizes the Aizoaceae family generally confers some salt tolerance; not tested rigorously across cultivated settings but likely more tolerant than most annual vegetables; avoid direct road salt runoff but incidental salt exposure should not be a concern"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — one of the best drought-tolerant leafy greens available; the succulent leaf character reflects genuine xerophytic adaptation; the plant will tolerate dry periods that cause wilting and stress in true spinach and lettuces; consistent moisture still produces better yield, but the safety margin in a dry spell is much wider than for conventional summer greens; in arid western climates supplemental irrigation is more important than in the naturally humid East"
+    },
+    "other": "Heat tolerance is exceptional — this is the plant's defining agronomic strength; it thrives through summer temperatures in the 80s and 90s°F across the lower 48; heat that causes true spinach to bolt in days is normal operating conditions for NZ spinach; it does not bolt in response to heat or long days the way cool-season brassicas and spinach do; the continuous production through summer heat is not incidental but is the primary design reason to grow this plant; humidity tolerance is also good — the humid continental climate of the eastern US and the humid subtropical climate of the Southeast are not problems; wind tolerance is moderate — the low, sprawling habit provides inherent wind resistance"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the primary ongoing task is harvesting, which is also the management technique; the main labor investment is in seed preparation and getting the plant established from seed or transplant, after which it largely takes care of itself through the season",
+    "pruningNotes": "Harvest is management. Pinch or snip the top 3-4 inches of every growing shoot tip as they reach harvestable size. This is the single most important cultural technique: every cut stimulates two new shoots at the nodes below the cut; frequent harvesting keeps the plant bushy, low, and continuously productive rather than leggy and sparse. A plant harvested weekly from midsummer through early fall will be far more productive in total yield than one harvested only occasionally. At the end of the season, once the plant has been killed by frost, remove the spent plant material from the bed; the mature stems are somewhat fibrous and coarser than the soft shoot tips — compost the whole plant. If seeds appear to have ripened on the plant before frost (the angular hard fruits turn from green to tan-brown), collect them for next year's sowing or allow them to fall in the bed for potential volunteer seedlings.",
+    "propagationMethods": [
+      "Seed — the primary method; this species requires specific seed preparation for reliable germination. The seeds have a hard seed coat and germinate slowly and erratically without treatment. Soak seeds in warm water for 24 hours before sowing — this softens the seed coat and significantly improves germination rate and speed; discard any seeds floating after soaking (they are likely non-viable). After soaking",
+      "sow immediately. Germination still takes 10-21 days even with soaking — patience is essential; do not assume failure and resow prematurely. Germination temperature: 65-75°F optimal; below 60°F germination is very slow. Two approaches for frost-zone gardeners: (1) Direct sow after last frost — sow ½\" deep",
+      "2 seeds per station",
+      "thin to the stronger seedling; (2) Start indoors 3-4 weeks before last frost — use 3-4\" pots rather than small cells (the seedlings develop faster with more root space); transplant after last frost when nighttime temperatures are reliably above 45°F; transplanting 3-4 week starts gives approximately 2-3 additional weeks of production. Handle transplants gently to minimize root disturbance. In zones 8-11 where frost is rare or absent",
+      "direct sowing in spring is straightforward and the plant may self-seed for subsequent seasons. Self-seeding: may occur in zones 7 and colder if the season is long enough for seeds to fully mature before first frost; do not count on it as a reliable propagation method in cold zones",
+      "but allow any volunteer seedlings that appear to establish — they are a bonus",
+      "not a dependable annual supply."
+    ]
+  },
+  "cultivarNotes": "Tetragonia tetragonioides is almost exclusively sold as the straight species — named cultivars are essentially nonexistent in the US seed market. The plant has not been subject to the intensive breeding programs that have produced dozens of lettuce or tomato cultivars; it is grown and sold as the straight species worldwide. The practical implication: any seed packet labeled \"New Zealand Spinach\" or \"Warrigal Greens\" is the same plant; there is no cultivar selection to navigate. This holds true across all zone bands — whether you are gardening in zones 3-5 (short-season annual), zones 6-7 (comfortable full-season annual), or zones 8-11 (potential perennial or self-seeding annual), the same species is what you will find. Purchase from any reputable vegetable seed supplier — Johnny's Selected Seeds, Baker Creek Heirloom Seeds, High Mowing Organic Seeds, Territorial Seed Company, or Burpee all carry it reliably. Seed is modestly priced. One packet is typically sufficient to establish several plants, which is all a household needs given each plant's multi-foot spread and continuous productivity.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary)",
+      "summer ground cover between larger plants",
+      "gap filler for the hot-summer leafy green niche",
+      "companion ground layer plant in warm-season beds with tomatoes or peppers"
+    ],
+    "designPlacement": "New Zealand spinach fills a specific and irreplaceable gap in the kitchen garden calendar across the lower 48. True spinach, arugula, bok choy, and lettuce — the leafy greens that produce most of the spring and fall green harvest — are all cool-season crops that bolt or decline in summer heat. From roughly late June through mid-September in zones 5-7 (and an even wider window in zones 3-4), there is simply no comparable leafy green producing from the beds unless NZ spinach is deliberately planted. This is its singular contribution: it produces spinach-like leaves through the full heat of summer without bolting, without bitterness, and without the heat sensitivity that defeats every other common green. Plant 2-3 specimens per bed, positioned with enough space to sprawl (18-24\" apart). They share bed space effectively with tomatoes, peppers, or trellised beans — the low, sprawling habit complements upright warm-season crops rather than competing with them, and it suppresses weeds in the bare soil at the feet of taller plants. In zones 8-11 where it may persist as a perennial, give it a permanent position or manage it as a self-seeding annual in a dedicated bed area. Its notable deer resistance across the eastern US and Midwest makes it a meaningfully safer choice than other summer greens in landscapes with active deer browse.",
+    "acquisitionStatus": "Not yet acquired — seed widely available; purchase from Johnny's Selected Seeds, Baker Creek, High Mowing, or Territorial Seed Company; seed packets are modestly priced ($3-5); one packet is sufficient to trial several plants\nPennsylvania — Hegins Site Observations: The critical timing consideration at Hegins is seed starting. Seeds need soaking 24 hours before sowing, and germination is inherently slow (10-21 days). Starting indoors in early to mid-April — 3-4 weeks before the May 1 last frost — gives the plants a head start that translates to earlier summer production. Direct sow after May 1 is simpler but delays first harvest into mid-to-late July. For a first-year trial, start 4-6 seeds indoors in mid-April (soak 24 hours first), transplant 3-4 survivors after May 1, and plan to begin harvesting shoot tips in early to mid-July. Space them in the sunniest, roomiest part of the raised vegetable beds. Allow each plant a 3-foot radius of space to sprawl. Harvest the top 3-4 inches of shoot tips weekly once production begins — the more frequently you harvest, the more the plant branches and the better the total yield. The deer resistance reported for this species is a significant asset given the documented east corridor pressure at this site; it makes NZ spinach one of the safer choices for an unprotected or lightly protected raised bed. The roughly 160-day frost-free window (May 1 to October 10) is sufficient for a full productive season of approximately 135-140 days from transplant. As the season ends in October, let any brown, angular seed fruits that form on the plant fall into the bed — in a warm fall they may produce volunteer seedlings the following spring, though do not depend on this in Zone 6a."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Zealand_spinach",
+    "inaturalist": "https://www.inaturalist.org/taxa/418653-Tetragonia-tetragonoides",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/plantfinderdetails.aspx?taxonid=275442"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or North America; introduced as a vegetable crop; does not naturalize in Zone 6a because hard frost eliminates it annually",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; not on the PA Department of Agriculture noxious weed list or DCNR watch list; Zone 6a winters eliminate any possibility of escape or naturalization — the plant is killed hard by fall frost every year",
+      "drainage": "The red clay at Hegins is manageable for this plant given the raised vegetable beds available on site; raised beds remove the clay drainage concern entirely and provide the well-drained conditions NZ spinach prefers; in-ground planting in the native red clay would require amendment with compost and possibly mounding to ensure adequate drainage during wet periods",
+      "soil": "The Hegins raised beds with amended soil are well-suited; in-ground planting in the native red clay would benefit from generous compost incorporation to improve texture and drainage; the raised beds are the practical choice for this crop",
+      "cultivarNotes": "The straight species is the only option and performs well through the full frost-free season at Hegins (approximately May 1 to October 10); no cultivar selection is needed; source from any of the suppliers listed above.",
+      "designPlacement": "The raised vegetable beds are the right home at this site — full sun, good drainage, and adequate space for the plant's sprawling habit. It does not belong in Section A (ornamental front beds), Section B (kitchen herb strip — too large and sprawling for the densely planted herb strip, and not well-suited to the increasingly shaded conditions there), or Section C (back porch strip — possible in the warmest zone but the raised vegetable beds are the more practical location). Given the deer-active landscape at Hegins, NZ spinach's deer resistance is a meaningful practical advantage over other summer greens that would require physical protection to survive in the east-corridor deer zone.",
+      "siteObservations": null
+    }
+  }
+}

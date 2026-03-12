@@ -1,0 +1,153 @@
+{
+  "id": "lentinula-edodes",
+  "name": {
+    "commonName": [
+      "Shiitake Mushroom",
+      "Shiitake"
+    ],
+    "latinName": "Lentinula edodes",
+    "family": "Marasmiaceae"
+  },
+  "range": {
+    "nativeRange": "East Asia — primarily China, Japan, and Korea; native to temperate and subtropical forests on dead and dying hardwood trees; widely cultivated globally and naturalized across temperate zones",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; does not naturalize in the wild in North America; must be intentionally cultivated on prepared substrates; no feral populations are established in US forests"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; does not establish feral populations or spread beyond cultivated substrates; not listed on any state noxious weed list or the federal USDA PLANTS invasive database"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "Not applicable — occurs across a wide climate range; outdoor log cultivation is productive in Zones 4-9; fruiting temperature range (40-80°F) aligns with spring and fall seasons across most of the lower 48; summer heat limits production in Zones 8+ and deep winter cold halts production in Zones 3-5"
+    }
+  },
+  "description": {
+    "height": "Individual caps 2-8\" wide; low-profile umbrella-shaped fruiting body on a short central stem; clusters may form but more typically individual fruitings",
+    "spread": "Individual fruiting bodies; mycelium colonizes the full length and depth of the host log substrate",
+    "spacing": "Inoculate logs with spawn; no plant spacing applies; logs can be stacked or stood vertically in a shaded, moist location",
+    "growthRate": "Slower colonizer than oyster mushrooms; mycelium colonizes logs in 6-18 months before first fruiting; once established, fruits reliably for 3-7 years",
+    "timeToMaturity": "First fruiting 6-18 months after log inoculation; peak productivity begins in year 2; logs continue fruiting for 3-7 years depending on log size and conditions",
+    "lifespan": "Individual fruiting bodies are ephemeral (3-7 days from pin to harvest); mycelium persists in the log for years; a standard 4\" x 40\" log fruits for 3-7 years before the wood is consumed",
+    "deciduousEvergreen": "Not applicable; fruiting is seasonal with peaks in spring and fall",
+    "winterInterest": "None — dormant in deep winter; fruiting ceases below approximately 40°F"
+  },
+  "lightAndWater": {
+    "sun": "Shade required; direct sun desiccates fruiting bodies and dries the log; natural habitat is deep forest shade; a north-facing wall, under dense tree canopy, or in the understory of a mature food forest guild are all ideal placements; in hot-summer climates (Zone 8+), deeper shade and additional humidity become even more critical",
+    "water": "Consistent moisture is critical; the log must not dry out during colonization or fruiting; soak logs for 12-24 hours in cold water to force-fruit (the \"cold shock\" method); during dry periods, supplement with irrigation or misting; high ambient humidity during fruiting extends the harvest window; gardeners in arid western climates will need to irrigate and mist more frequently than those in the humid East",
+    "drainagePreference": {
+      "description": "Not applicable to the substrate in the traditional sense — shiitake grows in wood, not soil; avoid standing water around logs (promotes bacterial contamination and mold); elevated or angled log placement in a humid, shaded area is ideal; ensure air circulation around log stacks to prevent stagnant moisture buildup",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not directly applicable — shiitake grows on logs, not in soil; however, logs placed directly on heavy clay may sit in pooled water after rain, increasing bacterial contamination risk; in clay-soil gardens, elevate logs on pallets, cinder blocks, or gravel pads to ensure drainage beneath the stack and prevent the bottom logs from wicking up standing water"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood, not soil; the substrate is the hardwood log"
+    },
+    "texturePreference": "Grows exclusively on hardwood logs; oak is the preferred substrate (white oak and red oak are both excellent); other suitable hosts include maple, beech, hornbeam, ironwood, sweetgum, and alder; does NOT grow on softwoods (pine, spruce, cedar) or on black walnut (antifungal compounds inhibit mycelium); log diameter 4-8\" and length 3-4' are the standard cultivation dimensions; bark should be intact — it serves as a moisture barrier and protective layer for the developing mycelium",
+    "rootCharacter": "White to cream-colored mycelium colonizes the sapwood and heartwood of the log; white mycelial threads visible on log ends and under bark when colonization is complete; the log becomes progressively lighter as the wood is consumed"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting is seasonal; spring and fall are peak seasons across most of the lower 48; exact timing varies by zone (earlier spring and later fall in warmer zones; compressed season in colder zones); summer fruiting is suppressed by heat in most regions; deep winter fruiting is suppressed by cold",
+    "bloomDescription": "Classic umbrella-shaped mushroom; cap tan to dark brown with a slightly cracked or fibrous surface texture; gills white to cream, close; stem short, off-center to central, firm and slightly tough; veil remnants may leave a slight ring or fibrous zone on the stem; the entire fruiting body is deeply savory-scented; one of the most immediately recognizable cultivated mushrooms",
+    "fragrance": "Distinctly savory, earthy, deeply umami mushroom scent; one of the most richly aromatic cultivated mushrooms; aroma intensifies dramatically when dried or cooked",
+    "flowerSex": "Not applicable; spore-dispersing organism",
+    "pollination": "Not applicable; brown spore print released from gill surfaces"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (caps and stems) — one of the most prized edible mushrooms in the world; flavor is intensely savory, deeply umami, rich and complex; far more intensely flavored than oyster mushrooms or button mushrooms; excellent fresh (sauteed, grilled, added to soups, ramen, stir-fries) or dried (drying concentrates flavor dramatically; rehydrate in warm water and use the soaking liquid as a superb broth); the dried shiitake and its soaking liquid are foundational ingredients in Japanese and Chinese cuisines; stems are tougher and often reserved for stock; nutritional profile is excellent (protein, B vitamins, vitamin D when sun-dried, minerals, dietary fiber, beta-glucans)",
+    "harvestSeason": "Any time fruiting bodies appear; harvest when the cap is fully expanded but the veil is still slightly intact — before the cap fully flattens and the edges begin to curl upward; 3-5 day window per flush; a standard 4\" x 40\" log yields 1-2 lbs per flush; 2-4 flushes per year per log",
+    "medicinalUses": "Among the most clinically studied medicinal mushrooms in the world. Primary compound: **lentinan** — a beta-glucan polysaccharide that is the most well-documented medicinal constituent. Lentinan is used as an injectable chemotherapy adjunct in Japan (formally approved). Documented benefits include: immune modulation (lentinan stimulates macrophage and NK cell activity), anti-tumor activity (adjunct cancer therapy — not a standalone treatment), antiviral properties, cardiovascular support (eritadenine lowers cholesterol; regular shiitake consumption associated with reduced LDL), and anti-inflammatory effects. The medicinal profile of shiitake is among the strongest of any cultivated edible mushroom. Regular dietary consumption (not just supplementation) provides meaningful immune and cardiovascular benefit.",
+    "craftOtherYield": "Dried shiitake (long shelf life; flavor intensifies; store in airtight container); shiitake powder (potent flavor and medicinal additive); shiitake broth / dashi (the soaking liquid from dried shiitake is a culinary staple); spent logs (after the log is exhausted, the partially decomposed wood returns to the soil as high-quality humus)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered very safe; cultivated shiitake is one of the most consumed mushrooms in the world with an excellent safety record; a small number of people experience \"shiitake dermatitis\" (flagellate erythema — a distinctive whip-mark rash) from consuming raw or undercooked shiitake; this is caused by lentinan and is fully prevented by thorough cooking; always cook shiitake before eating",
+    "toxicityAnimals": "Cooked shiitake is generally considered safe for dogs in small amounts; raw shiitake can cause gastrointestinal upset in some animals; exercise appropriate caution",
+    "allelopathy": "The mycelium decomposes the host log's lignocellulosic material; will compete with other fungi for the same substrate; no broader allelopathic effects in the garden",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (premier gourmet edible — one of the highest-value cultivated mushrooms by flavor, nutrition, and market price)",
+      "Medicine (significant medicinal mushroom — lentinan is clinically documented; regular dietary consumption supports immune and cardiovascular health)",
+      "Soil Builder (decomposition of spent logs returns high-quality humus to the system)",
+      "Nutrient Cycling (converts locked lignin and cellulose to plant-available nutrients and humus)"
+    ],
+    "companionPlants": [
+      "Stropharia rugosoannulata (wine cap) — the ground-level fungal complement; wine cap works the wood chip layer while shiitake works the logs above; together they create a comprehensive fungal decomposition layer across multiple substrate niches in the same guild; Pleurotus ostreatus (oyster mushroom) — compatible companion on logs; can be co-inoculated on the same site (use separate logs for each species for reliable fruiting); together",
+      "shiitake and oyster mushrooms provide complementary fruiting seasons and flavor profiles"
+    ],
+    "antagonists": [
+      "Contamination (bacterial blotch and mold contamination during colonization — use fresh-cut logs within 2 weeks of cutting, seal inoculation holes thoroughly with cheese wax, and store logs in clean shade); Trichoderma (green mold — the primary competitor; healthy colonization outcompetes it but contaminated or old logs are vulnerable); black walnut (Juglans nigra) — do not use as substrate; juglone and antifungal compounds inhibit shiitake mycelium"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles, flies, and other invertebrates are attracted to fruiting bodies and spent logs); birds (woodpeckers and other insectivores investigate inoculated logs for associated insect activity); small mammals may occasionally consume fruiting bodies",
+    "hostPlantFor": "Various invertebrates colonize spent and partially colonized logs",
+    "nestingHabitat": "Exhausted and partially decomposed logs provide habitat for ground-dwelling invertebrates, salamanders, and other small animals"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not a significant concern for shiitake cultivation; deer may nibble fruiting bodies if encountered but do not seek them out; logs stored in any enclosed, covered, or semi-enclosed area (under a shed overhang, lean-to, covered porch, dense canopy) are effectively inaccessible; no fencing or deer deterrent is typically needed for log-culture mushrooms"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable — log-culture crop with no exposure pathway to road salt or salt spray"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting completely suppressed by drought and low humidity; the mycelium persists in the log but will not fruit without adequate moisture; supplement with cold-water soaking to force fruiting during dry periods; logs kept in consistently moist shade require less intervention; gardeners in arid western climates should plan for regular soaking schedules"
+    },
+    "other": "Heat-sensitive — fruiting is strongly suppressed above 80°F; in Zones 8+, summer is a long non-productive period and logs should be sited in the deepest shade available with supplemental misting; cold-weather strains can fruit down to approximately 40°F, extending the season in northern zones; in Zones 4-5, the productive window may be compressed to late spring and early fall only"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate during establishment (log preparation and inoculation require initial effort); very low ongoing maintenance once colonized",
+    "pruningNotes": "Harvest mushrooms promptly when caps are expanded but before edges begin to curl and flatten fully — a 3-5 day harvest window per flush. Twist and pull cleanly at the base to avoid tearing. For force-fruiting: submerge logs in cold water for 12-24 hours (a tub, stock tank, or natural water source), then move to a cool, shaded, humid location; expect pins to emerge within 5-10 days. Repeat force-fruiting no more than once per month to avoid exhausting the mycelium. Allow logs to rest 4-6 weeks between forced flushes. Replace logs when they become very light (wood is largely consumed) and fruiting frequency drops sharply.",
+    "propagationMethods": [
+      "**Plug spawn** (the standard outdoor log inoculation method — drill 5/16\" holes in a diamond pattern along fresh-cut hardwood logs, hammer in inoculated wooden plugs, seal each hole with cheese wax; use logs cut within 2 weeks, with bark intact, 4-8\" diameter, 3-4' length); **sawdust spawn** (faster colonization rate than plug spawn — pack into drilled holes; seal with wax; colonizes more quickly but slightly more prone to contamination if not handled carefully); purchase spawn from reputable suppliers: **North Spore**",
+      "**Field & Forest Products**",
+      "and **Fungi Perfecti** are the primary reputable US suppliers; specify strain type (warm-weather vs. cold-weather) when ordering"
+    ]
+  },
+  "cultivarNotes": "Strain selection is important for reliable outdoor log cultivation. Shiitake strains are broadly categorized by fruiting temperature range, and matching strain to climate is the single most important cultivar decision:\n**Warm-Weather (WW) strains** — fruit at 60-80°F; best for late spring through early fall production. In Zones 8-9 (Gulf Coast, Deep South, low-elevation Southwest), WW strains are the primary producers during the long warm season. In Zones 6-7 (mid-Atlantic, upper South, Pacific NW interior), WW strains extend the productive season into warmer months when cold-weather strains shut down. In Zones 4-5 (upper Midwest, northern New England, high mountain), the WW window is shorter but still valuable for June-September production.\n**Cold-Weather (CW) strains** — fruit at 40-60°F; best for early spring and mid-to-late fall. These are essential in all zones to capture the cool shoulders of the season. In Zones 8-9, CW strains produce during the mild winters when WW strains are dormant. In Zones 4-5, CW strains extend the season into cooler months that would otherwise be unproductive.\n**Wide-Range (WR) strains** — fruit across a broader temperature window (45-75°F); a good choice for gardeners who want a single strain with reasonable production across the full season; slightly less productive at temperature extremes than specialized WW or CW strains but more forgiving.\nFor maximum season length in any zone, inoculate logs with both a WW strain and a CW strain on separate logs. The two strains together cover the full cool-season window in most climates.\nNamed cultivar examples: **WR-46** (cold-weather), **West Wind** (warm-weather), **Bellwether** (wide-range) — names vary by supplier; always specify temperature range rather than relying on trade names alone. Field & Forest Products designates temperature ranges clearly; North Spore offers similar specifications.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest fungal layer",
+      "log culture",
+      "shaded garden cultivation",
+      "medicinal mushroom production"
+    ],
+    "designPlacement": "Place inoculated logs in any consistently shaded, humid location with good air circulation — north-facing walls, under dense canopy, in a shed overhang, or in the understory of a food forest. Oak logs are the preferred substrate (source from local tree work, arborists, or coppice management). Shiitake logs pair naturally with oyster mushroom logs on the same site and with Stropharia rugosoannulata (wine cap) in the wood chip ground layer below. The combined fungal guild — shiitake on logs, oyster on logs, wine cap in chips — creates a highly productive, layered decomposition system that also continuously builds soil. Given the medicinally significant lentinan content, shiitake should be prioritized as a home cultivation crop alongside oyster mushrooms. Elevate logs off bare ground on pallets, cinder blocks, or gravel to prevent bacterial contamination from pooled water.",
+    "acquisitionStatus": "To source (spawn available from North Spore, Field & Forest Products, Fungi Perfecti)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shiitake",
+    "inaturalist": "https://www.inaturalist.org/taxa/123351-Lentinula-edodes",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or any part of North America; does not naturalize in local woodlands; must be intentionally cultivated",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "At the Hegins site, the compacted red clay drains slowly after heavy rain; log stacks placed directly on grade risk sitting in pooled water during spring thaws and summer storms; elevate logs on cinder blocks or a gravel pad; the north-facing garage strip (Section B) has adequate shade but monitor drainage during wet periods; no raised bed needed — this is a log-culture crop, not a soil-planted one",
+      "soil": "No soil preparation needed — this is a log-culture crop; source oak or maple logs from local tree work; Hegins-area woodlands are dominated by red oak, white oak, and sugar maple, all of which are excellent shiitake substrates; avoid any black walnut wood from the property or neighbors",
+      "cultivarNotes": "For Hegins, inoculate with both a WW and CW strain. The two together cover roughly April through June and September through November — the full productive window. July-August will be a low-production rest period regardless of strain. CW strains are particularly valuable here for capturing the long, cool PA fall.",
+      "designPlacement": "Ideal placement is the north-facing shade of the garage strip (Section B), under the paw paw canopy, or against a north-facing shed wall. Inoculate oak logs sourced from drop wood and branch wood from routine tree work on the property or from a local arborist. Pair with the existing wine cap (Stropharia) wood chip layer in the same zone. Elevate logs on cinder blocks or a gravel pad to keep them above the poorly draining red clay surface. The Section B location provides kitchen-adjacent access for quick harvest during flushes.",
+      "siteObservations": "Identify any white oak, red oak, maple, or beech on or adjacent to the property; drop wood and branch wood from routine tree work is ideal inoculation material. Cut logs in late winter or early spring (February-March) before bud break for optimal sugar content; inoculate within 1-2 weeks of cutting. The north-facing garage strip (Section B) and the paw paw guild understory are the natural placements for log stacks. Deer pressure from the east wildlife corridor is not a meaningful concern for log-culture mushrooms — logs stored under the garage overhang or in any semi-enclosed area are inaccessible. Monitor drainage around log stacks during spring thaw and heavy summer rain — the compacted red clay at this site can pool water that promotes bacterial contamination on bottom logs."
+    }
+  }
+}

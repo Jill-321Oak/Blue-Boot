@@ -1,0 +1,160 @@
+{
+  "id": "ribes-uva-crispa",
+  "name": {
+    "commonName": [
+      "Gooseberry",
+      "European Gooseberry"
+    ],
+    "latinName": "Ribes uva-crispa (syn. Ribes grossularia)",
+    "family": "Grossulariaceae"
+  },
+  "range": {
+    "nativeRange": "Europe, North Africa, and western Asia; widely cultivated and naturalized in North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Naturalized in scattered locations across the northern US and southern Canada, particularly in the Northeast and upper Midwest, but not considered established in most areas. Several native Ribes species occur throughout the US (e.g., R. hirtellum, R. missouriense), but R. uva-crispa is strictly a European introduction."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the lower 48. Does not naturalize aggressively or form monocultures. Note: Ribes species (all of them, native and introduced) were historically banned in many US states due to their role as alternate hosts for white pine blister rust (Cronartium ribicola). Most state-level bans have been lifted or relaxed, but some local restrictions may persist — check your state's current Ribes regulations before planting, especially in areas with significant white pine (Pinus strobus) stands."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "3-5'",
+    "spread": "3-5'",
+    "spacing": "4-5' from other plants",
+    "growthRate": "Moderate; reaches productive size in year 3-4",
+    "timeToMaturity": "First light crop years 2-3; full production years 4-5",
+    "lifespan": "Long-lived; 15-20+ years with proper management; productive essentially indefinitely with annual renewal pruning",
+    "deciduousEvergreen": "Deciduous — early spring leaf-out; often one of the first shrubs leafing out in March",
+    "winterInterest": "Low — attractive thorny winter structure; no significant ornament"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than most fruit shrubs — a genuine advantage in north-facing conditions; fruit quality and quantity better in more light",
+    "water": "Medium; consistent moisture during fruit development important; moderately drought tolerant once established",
+    "drainagePreference": {
+      "description": "Average to well-drained; adaptable to a range of soil moisture conditions. Poor drainage and persistent waterlogging will cause root rot, especially in winter. Performs better than many fruit plants in heavier soils as long as standing water does not persist.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. More tolerant of clay soils than most Ribes and most fruit shrubs generally. The fibrous, shallow root system handles moderately heavy clay-loam without serious issues. In dense, poorly drained clay, amend with compost and ensure the planting area is slightly mounded or raised to prevent winter waterlogging. Mulching heavily helps maintain the consistent moisture gooseberries prefer while preventing surface crusting."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable; performs best in average to well-drained loam but tolerates clay-loam better than most Ribes. Sandy soils require more consistent irrigation. Organic-rich soil with good moisture retention is ideal.",
+    "rootCharacter": "Fibrous spreading root system; relatively shallow; spreads slowly by layering"
+  },
+  "bloom": {
+    "bloomTime": "April (early — one of the first fruiting shrubs to flower)",
+    "bloomDescription": "Small, inconspicuous greenish-yellow flowers in clusters; not ornamentally significant; important as early-season bee forage",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite; self-fertile",
+    "pollination": "Self-fertile; bees work the flowers; cross-pollination improves fruit set and berry size"
+  },
+  "yield": {
+    "edibleParts": "Berries (harvest green for cooking — excellent for tart pies, jams, fool; harvest ripe for fresh eating — sweet-tart, excellent flavor; the ripe berry is one of the finest fresh fruits of early summer)",
+    "harvestSeason": "June-July depending on cultivar; harvest over several weeks as berries ripen progressively",
+    "medicinalUses": "High in vitamin C and antioxidants; traditional use as a digestive tonic; leaves have some mild medicinal use",
+    "craftOtherYield": "Jam, jelly, wine, crumbles, gooseberry fool (classic British dessert)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "Non-toxic; safe",
+    "allelopathy": "None documented; note the Ribes/white pine blister rust connection (see Antagonists)",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (fruit — primary)",
+      "Wildlife Support (berries eaten by birds)",
+      "Insect Attractor (early spring bloom)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator companion)",
+      "garlic (pest deterrent)",
+      "nasturtium (aphid deterrent)",
+      "gooseberries work well in apple guild understory; the thorns deter some pests and larger animals from the understory"
+    ],
+    "antagonists": [
+      "WHITE PINE BLISTER RUST (Cronartium ribicola): All Ribes species are alternate hosts for this fungal disease; the primary host is white pine (Pinus strobus); if white pines are present on or adjacent to the property",
+      "there is a significant risk of inoculation; the fungal pathogen cycles between white pine and Ribes; some states restrict Ribes planting within certain distances of white pine stands. Check for white pine presence near the intended planting site. Modern blister-rust-resistant cultivars significantly reduce (but may not eliminate) this risk. Do not plant adjacent to white pines."
+    ],
+    "coppiceable": "Managed by selective cane renewal (remove oldest canes), not true coppicing"
+  },
+  "wildlife": {
+    "attracts": "Bees (early spring flowers), birds (berries consumed by catbirds, robins, waxwings, and others), some small mammals",
+    "hostPlantFor": "Several Lepidoptera species use Ribes including the Currant Clearwing moth — manageable garden pest; not a major concern",
+    "nestingHabitat": "Dense thorny shrub provides protective nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — thorns provide meaningful protection on thorny cultivars; deer do browse Ribes foliage and will strip young plants if unprotected. Young plants should be caged or fenced for the first 2-3 years regardless of location. Established thorny cultivars are less vulnerable but not immune. In areas with heavy deer pressure, persistent fencing or netting during the growing season improves both plant survival and fruit retention. Thornless or reduced-thorn cultivars (e.g., 'Pixwell') are more vulnerable and may need permanent protection in high-pressure areas."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure but not persistent salt spray or heavily salted runoff"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; prefers consistent moisture especially during fruit development; established plants survive dry spells but fruit quality and yield decline without adequate water"
+    },
+    "other": "Cold hardy to Zone 3; tolerates significant shade for a fruiting shrub; generally adaptable across a wide climate range; heat tolerance diminishes above Zone 8 — afternoon shade recommended in the Deep South"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "The key to gooseberry productivity is maintaining a renewal pruning schedule: keep 1-year-old canes (light green), 2-year-old canes (brownish), and 3-year-old canes (grey); remove all canes older than 3 years at the base; aim for an open bowl structure with 8-10 canes total; good airflow reduces powdery mildew. Prune in late winter (February). Harvest in June by running a gloved hand along the branch — berries strip off easily. Tip-prune lateral shoots in summer to 5 leaves to improve fruit set next year.",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter — extremely easy; 8-10\" sections root reliably)",
+      "layering",
+      "division"
+    ]
+  },
+  "cultivarNotes": "Disease resistance (especially powdery mildew and blister rust) is the primary cultivar selection criterion across all zones. **Zone 3-5 (northern US):** 'Hinnonmäki Red' (Finnish variety, outstanding cold hardiness, excellent flavor, good mildew resistance — one of the best for fresh eating); 'Pixwell' (American variety, nearly thornless, pink fruit, extremely cold hardy — excellent for harvest ease in cold climates); 'Poorman' (red fruit, good flavor, hardy). **Zone 6-7 (mid-Atlantic, Midwest, Pacific NW):** 'Invicta' (white-green fruit, high yield, some mildew resistance, thorny — the most widely recommended commercial variety); 'Hinnonmäki Red' (performs well here too); 'Black Velvet' (dark fruit, good flavor, some disease resistance); 'Captivator' (nearly thornless, red fruit, mildew resistant). **Zone 8+ (southern US):** Gooseberries are marginal in the Deep South — select mildew-resistant cultivars and provide afternoon shade; 'Invicta' and 'Captivator' are the best options where summer heat is a concern.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "kitchen garden",
+      "apple guild understory",
+      "fruit hedge"
+    ],
+    "designPlacement": "Plant in the shrub layer of fruit tree guilds, at or just inside the canopy drip line where partial shade is tolerable. Gooseberry's shade tolerance makes it one of the best fruiting shrubs for understory positions. Space 4-5' from companions. The thorny structure provides a protective barrier in guild design — useful as a deterrent ring around young trees. Also works as a standalone fruit hedge or kitchen garden specimen. Avoid planting near white pines.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gooseberry",
+    "inaturalist": "https://www.inaturalist.org/taxa/54429-Ribes-uva-crispa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=255192"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — European introduction; not native to Pennsylvania",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Historic Ribes planting restrictions related to white pine blister rust have been largely relaxed in PA, but awareness of nearby white pine stands remains prudent.",
+      "drainage": "The red clay at Hegins is workable for gooseberry with amendment — incorporate generous compost into the planting hole and top-dress with deep wood chip mulch. A slight mound or raised planting helps shed excess water in the compacted clay. In-ground planting is feasible; raised beds are not required but would simplify drainage management.",
+      "soil": "Hegins red clay should be amended with compost before planting. The native clay-loam texture is within gooseberry's acceptable range once drainage is improved by mounding and organic amendment. No special soil replacement needed.",
+      "cultivarNotes": "'Invicta' or 'Hinnonmäki Red' are the first recommendations — both offer reliable performance and strong disease resistance in Zone 6a humid continental conditions. 'Pixwell' is an excellent alternative if thornless harvest is a priority.",
+      "designPlacement": "Apple guild understory — planted in the understory ring of the apple guild at the drip line; the partial shade from the mature apple canopy is tolerable for gooseberry; contributes early fruit harvest (June) before apples ripen in fall; the thorny structure provides some guild protection. Also appropriate for the kitchen garden strip (Section B).",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a concern for young plants — cage new gooseberries for the first 2-3 seasons. Thorny cultivars ('Invicta', 'Hinnonmäki Red') are preferred over thornless types given the deer activity. Check for white pine presence on adjacent properties before finalizing placement. The compacted red clay at this site will benefit from generous compost amendment and deep mulching at planting time."
+    }
+  }
+}

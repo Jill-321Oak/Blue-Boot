@@ -1,0 +1,157 @@
+{
+  "id": "claytonia-perfoliata",
+  "name": {
+    "commonName": [
+      "Miner's Lettuce",
+      "Winter Purslane",
+      "Indian Lettuce",
+      "Spring Beauty"
+    ],
+    "latinName": "Claytonia perfoliata",
+    "family": "Montiaceae (Montia family)"
+  },
+  "range": {
+    "nativeRange": "Western North America — native from British Columbia south through the western United States into Baja California and Mexico; most abundant in California, Oregon, and Washington; grows in moist, shaded, disturbed, and coastal habitats; widely naturalized across Europe, the British Isles, Australia, and New Zealand, where it has naturalized in similar cool, moist conditions",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to western states (CA, OR, WA, ID, NV, AZ, and adjacent regions); not native to the eastern or midwestern United States; naturalized or cultivated but not part of the indigenous flora east of the Rocky Mountains; considered a non-native in most of the lower 48 outside its western range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive in any US state; self-seeds prolifically in favorable cool, moist conditions but is a mild-mannered annual that does not outcompete established perennial or woody plantings; populations are easily controlled by removing unwanted plants before they set seed; its self-seeding tendency is its primary value in the kitchen garden rather than a management problem; gardeners in the Pacific Northwest and California (where conditions most closely match its native habitat) may see the most vigorous volunteer populations but even there it remains easy to manage"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "Annual; zones 3-10; grown as a cool-season annual throughout the lower 48; in cold climates (zones 3-5) it is primarily a spring annual sown in earliest spring; in zones 6-7 it is most productive as a fall-sown overwintering annual with harvest extending from late winter through mid-spring; in warm-winter climates (zones 8-10) it functions as a true winter annual, sown in fall and harvested through winter and into early spring before heat ends its season; the plant completes its life cycle and disappears entirely as temperatures warm past its threshold"
+    }
+  },
+  "description": {
+    "height": "2-6\" in the rosette stage; bolt stalks reach 8-12\" when flowering and setting seed",
+    "spread": "4-8\" per plant at full rosette size",
+    "spacing": "4-6\" for intentional plantings; in practice most gardeners broadcast-sow and thin lightly, or simply allow self-seeded populations to establish naturally at whatever density the seed bank produces",
+    "growthRate": "Moderate to fast in cool conditions — germinates in 7-14 days in cool soil; rosettes develop over several weeks before the plant produces its distinctive perfoliate flowering leaf and bolts",
+    "timeToMaturity": "Leaves are harvestable from the seedling stage onward; the rosette of spatulate young leaves is the primary harvest; the distinctive round perfoliate (stem-encircling) leaf that develops as the plant matures is fully edible and visually striking; the plant bolts and completes its life cycle within a single cool season",
+    "lifespan": "Annual — completes its life cycle in one cool season; however, once established in a suitable location it self-seeds so reliably that it functions as a self-sustaining cool-season ground cover year after year; after the first sowing, the gardener may never need to sow again",
+    "deciduousEvergreen": "Annual — no persistent structure; the plant germinates, grows, flowers, sets seed, and dies all within the cool portion of the year; fall-sown seedlings can overwinter as small rosettes in zones 5-7 and resume vigorous growth in earliest spring, often providing the first edible green of the season before the last frost date",
+    "winterInterest": "In zones 6-7, fall-sown seedlings may persist as small green rosettes through mild stretches of winter; under light mulch or row cover, seedlings remain alive and provide a low-level visual of green in the bed; in zones 8-10, active growth and harvest continues through winter; not ornamentally significant but functionally noteworthy as a living presence in winter beds"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full shade; this is one of the most shade-tolerant cool-season edibles available — it thrives in conditions where most salad greens fail; full sun is tolerated only in the coolest part of the season; as temperatures rise and days lengthen, shade actively extends the productive window by slowing bolting; placement under deciduous fruit trees, shrubs, or in north-facing beds is ideal; this shade preference makes Claytonia particularly well-suited to understory positions that other food plants cannot fill in early spring; in warmer climates (zones 8-10) shade is nearly mandatory during the winter-harvest season to prevent premature bolting",
+    "water": "Medium to high; thrives in consistently moist conditions; native habitats are often seasonally wet or moist-shaded; clay soils that retain moisture well are a good match; drought stress is poorly tolerated and accelerates bolting rapidly; the cool, moist conditions of a temperate spring are close to ideal, but Claytonia's window is so short that it is harvested and gone before dry summer stress arrives\nDrainage Preference: Moist to average; performs best in consistently moist, well-drained to moderately retentive soils; standing water is not desirable but periodic wetness is tolerated; this is one of the few salad greens that is better suited to heavier, moisture-retentive soils than to fast-draining sandy ones; the primary drainage concern is avoiding waterlogged conditions that promote damping-off in seedlings\nClay Soil Performance: Tolerates clay well across the lower 48; moisture-retentive clay suits Claytonia's preference for consistently damp soil better than fast-draining sandy soils; the shallow root system does not need to penetrate deeply, so even moderately compacted clay surface layers are adequate for germination and establishment; some incorporation of organic matter into the top few inches improves germination success and early seedling vigor but is not strictly required; clay is genuinely a better match for this plant than light soils\nPennsylvania: Red clay at Hegins is a favorable condition rather than a limitation; the moisture-retention of the site's native clay suits Claytonia's requirements well; raised beds with amended soil also work excellently; the compacted clay is the one area for improvement — light surface preparation (scratching in compost or aged leaf mulch) before broadcast sowing will improve germination contact",
+    "drainagePreference": {
+      "description": null,
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Tolerates clay well across the lower 48; moisture-retentive clay suits Claytonia's preference for consistently damp soil better than fast-draining sandy soils; the shallow root system does not need to penetrate deeply, so even moderately compacted clay surface layers are adequate for germination and establishment"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; not particularly pH-sensitive; tolerates a wide range of soil conditions across its native and cultivated range"
+    },
+    "texturePreference": "Moist, cool soil of any texture; clay is tolerated and in many ways preferable to fast-draining soils for this moisture-loving plant; the shallow root system does not need to penetrate deeply, so even compacted clay surface layers are sufficient; some incorporation of organic matter improves germination and early establishment but is not strictly required; sandy soils require more consistent irrigation to maintain the moisture levels this plant prefers",
+    "rootCharacter": "Shallow taproot — the root system is minimal and does not penetrate deeply; this limits clay-busting utility but also means the plant can establish in poorly prepared ground; the shallow root and small footprint allow Claytonia to grow in the gaps and edges of other plantings without competing significantly with deeper-rooted companions"
+  },
+  "bloom": {
+    "bloomTime": "Late winter through spring, depending on zone and sowing date; in zones 8-10, bloom may occur as early as February; in zones 6-7 (including PA), late March through May; in zones 3-5, May through June; warmer temperatures accelerate the progression from rosette to bolt to bloom; cooler conditions extend the harvest window",
+    "bloomDescription": "Tiny white to pale pink flowers, 5-petaled, emerging from the center of the plant's most distinctive feature — the perfoliate leaf, a nearly circular disc of fused bracts through which the stem passes, creating the appearance of the stem growing through the center of a round leaf; the flower stalk rises from this disc with clusters of small, delicate blooms; the overall effect is charming and botanical in character; the flowers are fully edible and mild in flavor, suitable for salad garnish",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Self-fertile; also visited by small native bees and flies; cross-pollination occurs readily; plants allowed to complete their life cycle contribute reliably to the seed bank for the following season"
+  },
+  "yield": {
+    "edibleParts": "Whole plant — leaves, stems, flowers, and even roots are edible, though the leaves and stems are the primary yield; the flavor is mild, succulent, and slightly sweet, with a texture resembling purslane or watercress in its succulence; there is none of the bitterness or heat found in other cool-season greens such as arugula or mustard — Claytonia is one of the most palatable and approachable raw greens available, with a flavor that appeals to those who find other salad greens too assertive. Young plants produce spatulate (spoon-shaped) leaves in a rosette — these are the primary harvest, tender and flavorful, excellent raw in salads, used as a lettuce substitute, or added to mixed green bowls. As the plant matures it produces the perfoliate leaf: a distinctive round, disc-like structure through which the stem grows — this leaf is equally edible and striking as a salad ingredient or garnish. Flowers scattered over salads are edible and visually appealing. The stems are succulent and mild, worth including in harvest rather than discarding. The plant can also be lightly cooked as a potherb — wilted briefly in butter or olive oil it softens to a mild spinach-like texture, though its primary value is as a raw green. Historically, the plant was consumed by California gold rush miners to prevent scurvy during the winter and spring months when other vegetables were unavailable — its common name \"Miner's Lettuce\" directly commemorates this use; it is a meaningful source of Vitamin C, Vitamin A, and iron.",
+    "harvestSeason": "The harvest window is short and cool-season specific, with timing varying significantly by zone. In zones 3-5: spring direct sowing in late March to April; harvest from late April through June. In zones 6-7: fall-sown plants (September-October) overwinter as small seedlings and resume growth in earliest spring, providing harvestable leaves from late February or early March onward — often the first fresh garden green of the season, available weeks before the last frost date; harvest runs through mid-April; spring direct sowing (late February to March) is also possible but produces a shorter window. In zones 8-10: sow in October-November; harvest actively through winter (December-March); season ends as spring heat builds. In all zones, expect roughly 4-8 weeks of productive harvest per season depending on weather. The perfoliate leaf stage is the peak visual and culinary moment — harvest generously at this point. Once the plant bolts fully and flowers prolifically, leaf quality declines though flowers remain edible. The entire productive season is compressed into the cool shoulder — this brevity is the plant's one significant limitation as a kitchen garden crop.",
+    "medicinalUses": "Historically valued as an antiscorbutic (Vitamin C source) — the gold rush context makes this concrete; miners in California consumed it through winter and spring to prevent scurvy when no other fresh vegetables were available; contains meaningful Vitamin C, Vitamin A, and iron for a wild or garden green; not a significant plant in western clinical herbalism beyond its nutritional value",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — one of the safest and most benign edible plants available; safe for all ages; the entire plant is edible at all stages; no known toxic compounds",
+    "toxicityAnimals": "None documented; safe for livestock and pets; historically consumed by both humans and animals in its native range",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground layer / herb layer — a low, ephemeral cool-season annual that occupies the ground layer in the shoulder seasons when taller plantings are dormant or bare"
+    },
+    "roles": [
+      "Food (mild, nutritious cool-season salad green — historically significant as an antiscorbutic)",
+      "Self-Seeding Annual (after first establishment, Claytonia reseeds itself reliably from its abundant seed production — the garden may never need to be resown after the initial planting; it functions as a self-renewing cool-season ground cover with no ongoing input required)",
+      "Understory Ground Cover (one of the few food plants that genuinely thrives in shade under deciduous trees and shrubs — it fills the ground layer in early spring while the canopy above is still bare, capturing light and producing food before the trees leaf out; it completes its life cycle and disappears before the canopy closes and shade becomes limiting)",
+      "Cool-Season Gap Filler (produces during the earliest shoulder season when almost nothing else is growing; Claytonia fills the gap reliably)",
+      "Minor Nutrient Accumulator (shallow roots and succulent leaves return organic matter to the soil surface as the plant decomposes after its season; not a deep nutrient miner, but a consistent small contribution)"
+    ],
+    "companionPlants": [
+      "Fruit trees (apple, paw paw, mulberry — Claytonia is ideally suited as a spring understory ground cover in tree guilds; it grows in the open ground layer before trees leaf out and disappears before summer shade becomes heavy)",
+      "Garlic and Egyptian walking onions (Claytonia occupies the soil surface between allium stems in early spring without competing with the deeper bulbs; the two can share space productively)",
+      "Comfrey (Claytonia can grow in the gaps around comfrey crowns in early spring before comfrey emerges vigorously; the two occupy different seasons)",
+      "Arugula (companion cool-season salad green; they share the same growing window and can be harvested together; flavors complement each other well — mild Claytonia balances sharp arugula)",
+      "Lettuce (similar cool-season companion)"
+    ],
+    "antagonists": [
+      "Heat and long days — the plant's primary enemies are warming temperatures and lengthening spring days",
+      "both of which are environmental rather than companion-planting antagonists; no documented plant antagonists"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Small native bees and flies visit the flowers; bloom timing in spring coincides with emerging early-season pollinators; minor insectary value in the cool shoulder season",
+    "hostPlantFor": "No significant pest host relationships documented; Claytonia is notably pest-free compared to most edible annuals — flea beetles and aphids that target brassicas and other salad greens do not significantly affect it",
+    "nestingHabitat": "None — a small annual without persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate-good",
+      "description": "Moderate to good across the lower 48 — deer tend to pass over Claytonia in favor of more palatable or strongly scented plants; its mild flavor and low profile mean it is not a primary browse target; anecdotal reports from gardeners suggest it is largely left alone compared to lettuce and arugula; however, young seedlings in early spring or fall may be sampled when deer pressure is high and other forage is scarce; the self-seeding habit provides resilience — even if some plants are browsed, the seed bank ensures recovery; overall deer resistance is meaningfully better than most cool-season greens regardless of region"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low tolerance to road salt spray; not a concern for beds sited away from heavily salted roads; avoid placement in areas with direct salt runoff or spray exposure"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low — Claytonia is not drought-tolerant; its native habitats are moist and shaded; drought stress accelerates bolting rapidly; however, its short seasonal window means drought is rarely a problem in temperate spring conditions, which are naturally cool and moist; fall sowings similarly benefit from naturally wetter autumn conditions across most of the lower 48"
+    },
+    "other": "Frost-tolerant — seedlings and rosettes tolerate light frosts reliably; in zones 6-7, fall-sown seedlings can survive winter under light mulch or straw and resume growth in late winter; established rosettes survive temperatures into the low 20s°F with minimal protection; in zones 3-5 this cold hardiness underpins a spring-sowing strategy rather than an overwintering one; in zones 8-10 frost tolerance allows productive winter growth"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — among the easiest food plants to grow; once self-seeding is established the maintenance requirement approaches zero; no fertilization, irrigation (in normal cool-season conditions), or pest management required; the primary task is harvesting and periodically thinning dense volunteer populations",
+    "pruningNotes": "No pruning in the conventional sense; harvest outer leaves and whole rosettes freely throughout the productive season; the plant does not benefit from cutting back in the way that arugula does — it is not a vigorous cut-and-come-again producer; instead, harvest individual plants at varying stages and allow others to complete their life cycle and set seed for the following year; to manage self-seeding intensity, pull plants before they fully set seed in years when the population is becoming too dense; a light hand is all that is needed — Claytonia's volunteer populations are easily thinned when small",
+    "propagationMethods": [
+      "Direct sow — broadcast seed shallowly (surface sow or press lightly into moist soil; do not bury deeper than 1/4\"); no cold stratification required; germination is often described as erratic — some seeds germinate promptly while others persist in the seed bank for seasons; this staggered germination is ecologically useful as it creates a long-running volunteer population from a single sowing. Rake in after broadcast sowing for best contact. Germination occurs in cool soil (40-60°F) — do not wait for soil to warm; the cooler the conditions",
+      "the more at-home the plant is. After the first year",
+      "self-seeding is the primary propagation mechanism — allow a portion of each season's plants to complete their life cycle and scatter seed; in the right location this creates a self-sustaining population that requires no further sowing. Seeds are small and lightweight; they scatter a moderate distance from the parent plant and will colonize nearby disturbed ground naturally."
+    ]
+  },
+  "cultivarNotes": "Claytonia perfoliata is almost always grown as the straight species without named cultivars — seed is sold simply as \"Miner's Lettuce\" or \"Winter Purslane\" by specialty vegetable and wild plant seed suppliers. There is essentially no commercial cultivar development for this plant, as it has never been a mainstream vegetable crop; it is grown primarily by kitchen gardeners, foragers, and permaculture practitioners who seek it out specifically. The straight species is excellent and consistent — there is no reason to seek a cultivar. Across the lower 48, the primary sowing strategy varies by zone: in zones 3-5 sow in earliest spring as soil becomes workable; in zones 6-7 fall sowing (September-October) for overwintering seedlings is strongly preferred, producing the earliest possible spring harvest; in zones 8-10 fall sowing (October-November) establishes a true winter annual that harvests through the cool season. Source seed from suppliers who offer it as an edible annual rather than as an ornamental; Baker Creek Heirloom Seeds, Strictly Medicinal Seeds, Fedco Seeds, and Territorial Seed Company are reliable domestic sources. The related Claytonia sibirica (Siberian miner's lettuce / pink purslane) is occasionally available and has similar uses with pink flowers; it is worth growing as a companion but is a distinct species.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Understory ground cover in tree guilds during the spring shoulder season; cool-season salad green in raised beds and in-ground beds; self-seeding annual gap filler between permanent plantings; early spring or winter fresh green when the garden is otherwise bare; particularly valuable in the Pacific Northwest and mid-Atlantic in its overwintering form"
+    ],
+    "designPlacement": "Claytonia perfoliata is best placed in positions that combine three conditions: consistent moisture, partial to full shade (at least during the warmest part of its season), and undisturbed ground where self-seeding can persist year over year. Tree guild understories are the ideal placement across all climate zones where deciduous canopy is present — the plant occupies the open ground layer before trees leaf out and disappears before summer shade eliminates it. North-facing beds, shaded kitchen garden borders, and areas under large shrubs are productive placements. In raised beds, moisture management is more important — raised beds dry faster and may require supplemental watering to sustain Claytonia's cool-season productivity. Avoid warm, dry, south-facing exposures; avoid full sun positions in zones 6 and warmer. In the Pacific Northwest (zones 7b-9) where the climate most closely matches Claytonia's native range, it will naturalize readily in any cool, moist, partially shaded position and may need only light management rather than deliberate sowing.",
+    "acquisitionStatus": "To source — seed not widely available in standard garden centers; order from specialty edible plant or heirloom seed suppliers; Baker Creek, Strictly Medicinal, Fedco, or Territorial Seed Company are reliable sources; a single packet is sufficient to establish a self-seeding population\nPennsylvania — Hegins Site Observations: Fall sowing (September-October) is strongly preferred over spring sowing in Zone 6a — fall-sown seedlings overwinter and provide the earliest possible spring harvest, often weeks before the last frost date, which is a significant advantage; spring direct-sowing in late February to March is possible but produces a shorter productive window as the season warms quickly. The self-seeding habit means first-year investment in establishment pays dividends indefinitely — plant once, harvest for years. The shade tolerance is a genuine asset at this site given the increasing canopy cover of the developing food forest; Claytonia will thrive in conditions that would eliminate other salad greens. Deer pressure should be monitored at the seedling stage in fall and early spring when alternative forage is limited, but overall deer resistance is better than most salad greens grown at this site. The red clay soil is a functional match for this plant's moisture preferences; raised beds with amended soil are also excellent options and likely to produce the most vigorous early stands."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Claytonia_perfoliata",
+    "inaturalist": "https://www.inaturalist.org/taxa/52994-Claytonia-perfoliata",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or the eastern United States; its natural range is primarily western North America, though it has been cultivated and occasionally naturalized in eastern gardens; it is fully winter-hardy and well-adapted to Zone 6a conditions despite its western origins",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; not on the PA Department of Agriculture noxious weed list; self-seeding is manageable and not considered a problem in the eastern garden context",
+      "drainage": null,
+      "soil": "The near-neutral to slightly acidic red clay at Hegins is adequate without amendment; pH is within range; the primary improvement is surface-level organic matter incorporation to aid germination in the compacted upper layer; raised beds with mixed compost-clay are an excellent option and likely to produce the most vigorous stands",
+      "cultivarNotes": "Fall sowing (September-October) is the preferred strategy at Hegins; fall-sown seedlings overwinter and provide the earliest possible spring harvest, often weeks before the last frost date; spring direct sowing in late February to March is possible but produces a shorter productive window as the season warms quickly; a single fall sowing should establish the self-seeding population that sustains itself indefinitely.",
+      "designPlacement": "The apple guild and paw paw guild understories are the ideal placements at this site — the open ground layer in March-April is bare or occupied only by early bulbs; Claytonia fills that gap with edible, low-maintenance coverage that improves guild ground layer diversity. It produces food during a window when the trees themselves offer nothing, then disappears before summer shade eliminates it. Section B (kitchen herb strip) is also suitable — the increasingly shaded character of that bed as the food forest matures is a positive condition for Claytonia; it can colonize the shadier sections of Section B where other herbs struggle. Do not place in Section A (ornamental, formal) or Section C (warm, dry, south-facing) — Section C's warm dry microclimate is the opposite of Claytonia's preferences.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "cucurbita-maxima",
+  "name": {
+    "commonName": [
+      "Winter Squash",
+      "Giant Pumpkin",
+      "Hubbard Squash",
+      "Kabocha",
+      "Red Kuri",
+      "Buttercup",
+      "Jarrahdale",
+      "Candy Roaster",
+      "Atlantic Giant"
+    ],
+    "latinName": "Cucurbita maxima",
+    "family": "Cucurbitaceae"
+  },
+  "range": {
+    "nativeRange": "Subtropical South America — primarily Argentina, Bolivia, and Uruguay; domesticated by Indigenous peoples of the Andean foothills and adjacent lowlands thousands of years ago; subsequently spread through the Americas in pre-Columbian times",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced cultivated species; no wild native populations in the lower 48 states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — produces abundant seed but does not self-establish as a weed in any US region; volunteer seedlings from compost or old fruits are easily managed and pose no ecological concern; not listed as invasive in any state"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "3-11 as an annual; grown in all zones with a sufficient frost-free season; requires 85-110 frost-free days to reach harvest; at the upper edge of viability in very short-season climates"
+    }
+  },
+  "description": {
+    "height": "1-2' sprawling ground cover; the vine itself lies low but individual fruits of some varieties reach 12-24\" tall",
+    "spread": "8-15' of vine run from a single plant; some vigorous varieties (Atlantic Giant, Hubbard) send vines 15-20' in ideal conditions; bush cultivars (rare in the maxima group) are substantially more compact but are the exception rather than the rule; plan for significant lateral ground coverage",
+    "spacing": "4-6' between plants in a row; rows 8-12' apart to allow vine room; in a raised bed, one plant per 4'x8' bed with vines trained to sprawl out over the edge; in the ground or a large production garden, give each plant a minimum 8'x8' footprint",
+    "growthRate": "Fast once established and warm; slow to germinate and establish in cool conditions; vines accelerate rapidly in summer heat and reach full extension by midsummer; fruit sizing occurs in a concentrated window in late summer",
+    "timeToMaturity": "85-110 days from transplant (or direct sow) to mature fruit, depending on variety — Kabocha and Buttercup types at the 85-95 day end; Hubbard, Red Kuri, and Candy Roaster at 95-110 days; Atlantic Giant pumpkins require 110-130 days and push short-season climates to the limit; adequate frost-free season length is the primary site-selection factor across the lower 48",
+    "lifespan": "Annual — one season only; does not overwinter; however, mature cured fruits of the best storage varieties (Hubbard, Red Kuri, Jarrahdale) maintain excellent quality for 4-6 months in proper storage, making winter squash effectively a year-round food source from a single summer's harvest",
+    "deciduousEvergreen": "Annual — the entire plant dies at first frost; the signal to harvest is when the vine itself begins to die back and the rind hardens; do not wait for full plant death to harvest, especially on Kabocha types that can soften if left too long",
+    "winterInterest": "None — plant is dead after first frost; the interest is in the stored harvest, which carries through until late winter or early spring; dried ornamental gourds (related species) have decorative use but that is a different plant group"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 8+ hours of direct sun per day; squash in partial shade produces weak vines, poor fruit set, and increased susceptibility to powdery mildew; do not compromise on sun for this crop",
+    "water": "Medium to medium-high; consistent soil moisture is critical during vine establishment and especially during fruit sizing (late July through August in most of the lower 48); inconsistent watering during fruit development causes blossom end issues and cracking; reduce watering significantly in the final 2-3 weeks before expected harvest to encourage rind hardening; drip irrigation at the root zone is ideal — wet foliage promotes powdery mildew",
+    "drainagePreference": {
+      "description": "Well-drained to average; does not tolerate standing water or saturated conditions; raised beds are ideal, providing excellent drainage, warmer soil temperatures (critical for germination and early growth), and easier pest monitoring; in-ground growing is fully viable in loam or amended clay but avoid low spots where water pools after heavy rain",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay with soil amendment; incorporate 4-6\" of compost into the planting hole and surrounding 3' radius before planting; mulch heavily (4-6\" straw or wood chips) to regulate moisture and prevent surface crusting; adventitious roots forming at vine nodes along hairy stems extend the plant's effective moisture-gathering footprint into amended or native clay as vines sprawl outward"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8; slightly acid to near-neutral; will tolerate to 7.0 without significant decline; avoid acidic soils below 5.8 which limit nutrient uptake"
+    },
+    "texturePreference": "Fertile, organically rich, loose, well-drained loam is ideal; Cucurbita maxima is a heavy feeder and heavy drinker — it rewards rich soil with dramatically larger fruits and more vigorous vines; clay soils benefit from significant compost amendment at the planting zone; once established, the vines are moderately tolerant of poorer ground as they sprawl outward — they do not need rich soil under the entire vine run, only at the root zone",
+    "rootCharacter": "Shallow, spreading fibrous root system that fans out 2-4' in all directions from the crown; primary moisture and nutrient uptake is from the top 12-18\" of soil; secondary adventitious roots form at vine nodes where the stem contacts moist soil — this is a useful feature that allows established vines to draw moisture from a larger footprint; do not cultivate near the vines as root damage disrupts fruit development"
+  },
+  "bloom": {
+    "bloomTime": "June-August; flowering begins approximately 50-60 days after germination and continues until frost; female flowers appear a week or two after the first male flowers in most varieties",
+    "bloomDescription": "Large, showy, bright yellow-orange trumpet-shaped flowers 3-4\" across; among the most ornamentally striking vegetable flowers; flowers are open for only one day (morning blooming, closing by midday); male flowers appear first on long slender stems; female flowers follow, distinguished by the small, immature fruit (ovary) visible at the base of the flower behind the petals; the distinction between male and female flowers is easy to learn and critical for hand-pollination",
+    "fragrance": "Mild, pleasantly sweet and slightly musky; not strong",
+    "flowerSex": "Monoecious — separate male and female flowers on the same plant; this is the standard Cucurbit arrangement; both flower types must be present for fruit set; young plants with only male flowers are normal and not a concern",
+    "pollination": "Requires cross-transfer of pollen from male to female flowers; primary pollinators are bumblebees and large native bees, which are well-suited to the large flower opening; honey bees also pollinate effectively; if bee populations are low in early season or in a sheltered garden with limited pollinator access, hand pollination is simple, reliable, and highly satisfying — pick a freshly opened male flower, peel back or remove the petals to expose the pollen-covered anther, and dab it gently onto the central stigma of a newly opened female flower; do this in the morning when flowers are freshly open; a single good hand-pollination per female flower is sufficient; if the fruit behind the female flower begins to swell and grow over the next few days, pollination succeeded; if it yellows and drops, it was not fertilized; cool, wet, or overcast weather reduces bee activity and makes hand pollination especially worthwhile"
+  },
+  "yield": {
+    "edibleParts": "The mature fruit (squash) is the primary yield — the dense, sweet, starchy flesh is the caloric heart of the winter squash harvest; the flesh of C. maxima varieties is typically deep orange to golden-yellow, rich in beta-carotene, and exceptionally sweet compared to C. pepo types; culinary preparation includes roasting, steaming, pureeing for soups, baking into pies and breads, and stuffing whole small fruits (Kabocha, Delicata-types); the skin of Kabocha is edible when cooked. Seeds are fully edible and nutritious — high in protein, zinc, magnesium, and healthy fats; roasted seeds are a classic use; for seed-forward eating, the hull-less Styrian (Cucurbita pepo var. styriaca) is the specialty variety, though this is technically C. pepo rather than C. maxima. Young tender leaves, growing tips, and tendrils are edible and can be stir-fried or added to soups in the style of many Asian cuisines. Male flowers are edible raw or stuffed and fried — harvesting a portion of the early surplus of male flowers does not affect fruit set and is a worthwhile bonus harvest.",
+    "harvestSeason": "Late August through mid-October across most of the lower 48 temperate zones; timing varies by zone — Zone 5 growers should aim for September harvest; Zone 7-8 growers have more cushion into October; harvest timing is determined by rind hardness (the rind should resist puncture by a fingernail), corking of the stem (the stem should be hard, dry, and partially brown), and the skin color shift specific to each variety (Hubbard turns gray-blue; Red Kuri turns orange-red; Kabocha develops a dusty grey-green or orange blush; Jarrahdale turns slate-grey); always leave 2-3\" of stem attached to the fruit — stemless squash rot far more quickly; harvest before hard frost, as freezing damages the rind and collapses storage life; if frost threatens before the fruit is fully mature, harvest and cure anyway — the fruit will continue to mature somewhat during curing. CURING IS ESSENTIAL: freshly harvested squash must be cured before storage; cure at 80-85°F for 10-14 days in a warm, well-ventilated space (a greenhouse, south-facing covered porch, or warm mudroom); curing hardens the rind, heals cuts and abrasions in the skin, and converts starches to sugars — it is the step that transforms a raw vegetable into a months-long storage staple; do not skip this; after curing, store at 50-55°F in a dry, dark, ventilated space; a cool basement or unheated room is ideal; do not store in a refrigerator (too cold and too humid); properly cured C. maxima types store 4-6 months; whole uncured fruit stored at room temperature will decline in 4-8 weeks.",
+    "medicinalUses": "Not a primary medicinal plant, but the nutritional profile is exceptional: deep orange flesh indicates very high beta-carotene (provitamin A), with some studies ranking Hubbard-type squash among the highest beta-carotene vegetables; also significant for vitamin C, potassium, B vitamins, and dietary fiber; the seeds contain cucurbitin, a compound traditionally used as an anthelmintic (expels intestinal parasites) and studied for prostate health; pumpkin seed oil is a recognized functional food with anti-inflammatory properties; overall, C. maxima is a serious caloric staple with meaningful nutritional density — not a supplement but a whole food.",
+    "craftOtherYield": "Large, ornamental fruits of Jarrahdale, Hubbard, and Atlantic Giant are striking decorative objects; Atlantic Giant and similar competition pumpkins can weigh hundreds of pounds and are a competitive growing hobby in themselves; dried gourds from related Cucurbita species are used as vessels, instruments, and tools, though this applies more directly to Lagenaria than Cucurbita; the vines and extensive leaf mass make significant composting material at season end; shells of large hard-rind squash have historically been used as bowls and ladles"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None; all parts — fruit, seeds, flowers, leaves, tendrils — are edible; however, rare bitter mutations (cucurbitacin accumulation) have been documented in some cucurbit plants, especially those grown near ornamental gourds or cross-pollinated with wild relatives; extremely bitter squash should not be eaten as cucurbitacins in high concentration can cause severe gastrointestinal distress; taste a small piece of raw flesh before eating large quantities of any unusually bitter fruit; this is an uncommon occurrence with commercial varieties but worth knowing",
+    "toxicityAnimals": "Fruit and seeds are generally safe for dogs and other livestock in moderation; pumpkin/squash puree is in fact commonly recommended by veterinarians as a digestive aid for dogs; do not allow animals to eat large quantities of raw seeds, which contain cucurbitacin in small amounts; the coarse hairy vines are unpalatable to most grazing animals",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground cover / herbaceous layer — the sprawling vines form a dense, light-excluding ground cover that can suppress weeds across a significant area; in the Three Sisters guild, squash occupies the ground layer beneath corn and beans"
+    },
+    "roles": [
+      "Annual Vegetable (primary — one of the most calorie-dense and storable annual crops in the temperate food garden)",
+      "Ground Cover (seasonal — dense vine canopy suppresses weeds and retains soil moisture under established plantings)",
+      "Caloric Staple Crop (rivaling potato, sweet potato, and grain in calories per square foot among annual crops)",
+      "Pollinator Support (large showy flowers are actively worked by bumblebees and native bees through summer)",
+      "Food Forest Ground Layer (can be grown as a seasonal ground cover under young fruiting trees during guild establishment — fills space, suppresses weeds, and provides harvest without competing significantly with the tree's canopy)",
+      "Soil Mulch (the leaf canopy shades and cools soil)",
+      "Seed Saving Crop (excellent for building seed sovereignty — open-pollinated varieties produce true from seed and store for 5-6 years)"
+    ],
+    "companionPlants": [
+      "Corn (traditional Three Sisters partner — the tall corn provides a physical wind buffer and the squash shades the soil at corn's base, conserving moisture)",
+      "Beans (nitrogen-fixing third Sister — pole beans climb the corn while squash covers the ground; the classic guild is deeply validated over thousands of years of indigenous cultivation)",
+      "Nasturtium (Tropaeolum majus — excellent companion; repels aphids and squash bugs; flowers are edible and the sprawling habit complements the squash without competing; plant at the edge of the squash patch where it will weave into the vines)",
+      "Marigolds (Tagetes — planted around the perimeter; strong-scented foliage reportedly deters cucumber beetles and other cucurbit pests)",
+      "Borage (traditionally paired with squash and cucumber — said to deter tomato hornworm and repel other pests; the flowers attract pollinators at critical fruit-set timing)",
+      "Radishes (planted as sacrificial trap crop for cucumber beetles; beetles congregate on radish rather than squash)"
+    ],
+    "antagonists": [
+      "Potatoes (direct competition for space and reported negative allelopathic interaction in traditional companion planting literature; do not interplant); Fennel (Foeniculum vulgare — broadly inhibitory to most vegetables and should be kept isolated from the vegetable garden); do not plant squash under mature tree canopy that will shade the vine — squash requires full sun throughout the season and will produce little or nothing in shade"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees and large native bees (primary pollinators — the large flowers are actively worked from opening to midday closure; the squash patch in full flower in July is a genuine pollinator hub), Honey bees, Beneficial wasps (attracted to nearby flowering companions like nasturtium and borage), Songbirds (will investigate split or discarded fruits for seeds in fall)",
+    "hostPlantFor": "Cucumber beetles (Acalymma vittatum — striped; Diabrotica undecimpunctata — spotted) use all Cucurbit species as a larval host; adult beetles feed on flowers and foliage and transmit bacterial wilt; squash vine borer (Melittia cucurbitae) prefers C. pepo strongly; C. maxima and C. moschata have significantly greater natural resistance due to their coarser, hairier stems which physically deter egg-laying; squash bugs (Anasa tristis) are generalist Cucurbit pests that can affect all species; monitoring is more important than host selection for squash bugs",
+    "nestingHabitat": "Not significant; however, the large leaf canopy provides shelter for ground beetles and other beneficial predatory insects that control soil-level pests"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — young seedlings and tender growing tips are very palatable to deer; young transplants are highly vulnerable and must be protected until established (simple wire cloches or temporary fencing around the planting site is sufficient; once vines begin to sprawl and the stems become rough and hairy, deer interest drops considerably, as they prefer tender foliage); mature vines in peak summer are coarse and less palatable than young growth; the fruits themselves can be browsed if deer are bold and hungry in fall — harvest before deer pressure intensifies in October; protect transplants for the first 3-4 weeks minimum in any high-pressure deer zone"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — avoid road salt exposure; not a concern for garden beds set well back from salted roads"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established vines with deep mulch and a good initial root system can withstand a dry week without significant fruit damage; prolonged drought (2+ weeks without rain or irrigation during July-August fruit sizing) causes significant fruit stress, blossom drop, and poor yield; this crop benefits meaningfully from consistent water management; clay subsoils hold moisture better than sandy soils once the vine root system is established, which can be an advantage in drought years"
+    },
+    "other": "Cold-sensitive — any frost damages or kills foliage and will abort developing fruits; even a light frost (28-32°F) damages immature squash irreparably; monitor forecasts closely in September-October and be prepared to harvest if a frost is predicted; heat-tolerant and performs well across the warm summers of the lower 48; humidity tolerant but requires good air circulation to limit powdery mildew; the hairy stems of C. maxima provide meaningful but not absolute resistance to squash vine borer (Melittia cucurbitae) — C. maxima and C. moschata are the two most resistant species in the genus; C. pepo (acorn, delicata, spaghetti, most pumpkins) is far more vulnerable; this resistance is a meaningful reason to favor maxima and moschata types in regions with heavy vine borer pressure (primarily east of the Rockies)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — significant soil preparation before planting, attentive watering during fruit development, pest monitoring through the season, hand-pollination when needed, and the crucial post-harvest curing step; the in-season work is rewarding and the fruits are dramatic; not a low-effort crop, but the caloric and storage payoff is exceptional",
+    "pruningNotes": "In most kitchen garden situations, pruning is optional — allow the vines to sprawl naturally and they will set fruit without intervention. To limit vine extension (e.g., to keep plants within a raised bed footprint), pinch the growing tip of the main vine after 2-3 fruits have set — this redirects energy to sizing the existing fruit rather than extending the vine; any subsequent fruit that sets after pinching should be removed if the plant is already carrying 3+ fruits, to allow remaining fruits to reach full size. Remove any male flowers that open before female flowers appear (usually the first 7-10 days of flowering) — this has no effect on fruit set and the flowers are a nice edible bonus. Powdery mildew inevitably appears on the lower leaves in August in humid climates — remove severely affected leaves to improve air circulation but do not strip the vine; the plant needs its leaf canopy to continue sizing fruit. After frost kills the foliage, remove all vine debris promptly — it hosts overwintering cucumber beetle eggs and squash bug egg masses; compost or dispose of debris rather than leaving it in the garden.",
+    "propagationMethods": [
+      "Direct sow outdoors (preferred for ease) — sow seeds 1\" deep",
+      "2-3 seeds per hole",
+      "after last frost when soil is reliably warm (60°F+); thin to the strongest plant after germination; direct-sown plants avoid transplant shock and catch up quickly to transplants in warm soil. Indoor transplant start (preferred for maximum season length in Zones 3-6) — start seeds indoors 3-4 weeks before last frost; use 3-4\" pots; do NOT start more than 4 weeks early — squash grows fast and root-bound transplants suffer setback; transplant carefully",
+      "disturbing roots as little as possible (use biodegradable pots or toilet-paper tubes to minimize root disturbance); harden off over 5-7 days before setting out; transplant outdoors after the last frost date for your zone. Seed saving: extraordinarily rewarding with open-pollinated varieties; save from the most vigorous plant with the best fruit; allow fruit to remain on the vine until fully mature (even past normal eating stage — seeds are most viable from fruits left an extra 2-4 weeks beyond eating ripeness); scoop seeds",
+      "wash off the pulp",
+      "and dry on a screen for 1-2 weeks; store in a cool",
+      "dry place; viability is excellent for 5-6 years; to maintain varietal purity",
+      "isolate from other Cucurbita maxima varieties by at least 500 feet",
+      "or hand-pollinate and cover the female flower with a bag or tape it shut before and after pollination; isolation from C. pepo and C. moschata is not necessary as they do not cross-pollinate with C. maxima (each species is its own crossing group)"
+    ]
+  },
+  "cultivarNotes": "Cucurbita maxima encompasses an enormous range of fruit types — from the thimble-sized pattypan relatives to the 1,000+ pound Atlantic Giant. Understanding the species distinctions within the squash tribe is useful for both garden planning and seed saving:\n**C. maxima** (this profile's focus) — identifiable by round or corky stems, deeply rounded leaves, and soft, moist flesh in most varieties; includes Hubbard, Kabocha, Buttercup, Red Kuri, Jarrahdale, Candy Roaster, and Atlantic Giant. The maxima group produces the longest-storing, most nutritionally dense squash.\n**C. moschata** — tan or buff skin, tan-corky stems, often elongated fruits; includes Butternut (the most widely grown winter squash in American home gardens), Long Island Cheese Pumpkin, and Seminole; important distinction — **Butternut is C. moschata, not C. maxima**; highly recommended across most of the lower 48 for its resistance to squash vine borer and its superb flavor, but it is a separate species; note this when seed saving (moschata will not cross with maxima).\n**C. pepo** — the widest and most diverse species; includes Acorn, Delicata, Spaghetti, most decorative gourds, most jack-o'-lantern pumpkins, and summer squash (zucchini); most susceptible to squash vine borer; shortest storage life of the three main species.\nRecommended C. maxima varieties by zone across the lower 48:\n**Zones 3-4 (very short season — fewer than 100 frost-free days in many locations):** Prioritize the earliest-maturing maxima varieties. **'Red Kuri'** (80-85 days) is the top choice and one of the few maxima types reliably finishing in cold climates; **'Kabocha'** (85-95 days) can be done with indoor starts and careful timing; **'Buttercup'** (80-85 days) is another viable early option. Start all seeds indoors 4 weeks before last frost. Atlantic Giant and Hubbard are marginal to not viable in Zone 3 without extreme season extension measures.\n**Zones 5-6 (100-150 frost-free days — the core temperate growing belt):** Full range of practical maxima varieties is accessible. **'Red Kuri'** (80-85 days), **'Kabocha'** (85-95 days), **'Jarrahdale'** (95-100 days), and **'Hubbard'** (90-100 days) are all achievable with indoor starts in April. **'Candy Roaster'** (80-100 days) is a strong regional choice, especially in the Mid-Atlantic and Appalachian corridor. Start seeds indoors 3-4 weeks before last frost; transplant after last frost date.\n**Zones 7-8 (150-200 frost-free days — the Mid-South, mid-Atlantic coastal plain, Pacific Northwest lowlands):** Most maxima varieties finish comfortably. Direct sowing outdoors becomes fully practical. **'Jarrahdale'**, **'Hubbard'** types, and **'Candy Roaster'** all have full season to develop. Zone 7 gardeners can also push into longer-season novelty types. Powdery mildew pressure intensifies in the humid Southeast — choose varieties with some mildew tolerance and allow maximum vine spacing.\n**Zones 9-11 (very long or mild growing season — Deep South, Southwest desert, Southern California, Florida):** C. maxima is grown as a fall and winter crop, not a summer crop, in the hottest zones; extreme summer heat above 95°F reduces fruit set and stresses vines; plant in late summer (August-September) for fall harvest in Zones 9-10; in Zone 10-11 (South Florida, deep desert Southwest), C. moschata Seminole and tropical pumpkin types often outperform C. maxima; if growing maxima, select earlier-maturing types and time planting to avoid peak summer heat.\n**Zone 6a — Pennsylvania:**\nRed Kuri is the priority first planting — best balance of season length, manageable size, exceptional flavor, and reliable storage. Add Jarrahdale for visual diversity and longer storage if space permits. Consider Butternut (C. moschata) as a companion species for vine borer resistance; it is not maxima but complements the maxima planting well. In Hegins with a last frost of approximately May 1 and first fall frost of approximately October 10, the frost-free window is approximately 162 days — sufficient for all maxima types but requiring timely transplanting for the longest-season varieties (Hubbard, Atlantic Giant).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Main vegetable garden (raised beds or in-ground rows)",
+      "food forest ground layer (during tree establishment years)",
+      "Three Sisters guild",
+      "production garden for storable winter food"
+    ],
+    "designPlacement": "C. maxima is a sprawling annual vegetable, not a landscape plant — the vine's 10-15' run and need for full sun and maximum space places it outside managed perennial beds, foundation strips, or ornamental sections in most garden plans. The correct placement is the main vegetable garden or a dedicated production area. In-ground growing in a prepared, open, sunny row is the most efficient production format. Raised beds are highly effective — plant one or two hills per 4'x8' bed with vines trained to spill over the edge into adjacent pathways. Food forest integration is possible during the establishment phase of young tree guilds — squash planted in the ground cover zone of a newly planted tree suppresses weeds and provides harvest from space that would otherwise go unused; this works for the first 2-3 years before tree canopy begins to close. Deer protection around young transplants is required in high-pressure deer zones during the first 3-4 weeks; a simple wire cage around each planting hill is sufficient until the vines harden and sprawl outward, at which point deer pressure on the foliage decreases significantly.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations:\nThe raised vegetable beds are the priority location. Prepare the planting hole well: dig a 12-18\" deep hole, mix in a generous quantity of compost (half the volume), refill, and mound slightly to promote drainage. The heavy clay subsoil at Hegins is tolerable for squash if the top 12-18\" is well-amended — the vines will sprawl into less-amended soil as they extend, and they manage this adequately once established. The deer pressure from the east corridor is the primary biological risk to young transplants; a few weeks of wire protection at planting resolves this. Powdery mildew is essentially inevitable in Pennsylvania's humid August conditions — it is cosmetic at that point in the season and does not prevent fruit maturity; plan around it rather than against it. Curing space is a practical consideration to plan for before harvest: a warm (80-85°F), dry, ventilated indoor space for 10-14 days post-harvest is non-negotiable for storage quality; a sunlit mudroom, greenhouse, or enclosed porch in late September typically satisfies this requirement."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cucurbita_maxima",
+    "inaturalist": "https://www.inaturalist.org/taxa/122866-Cucurbita-maxima",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e453"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; not naturalized or invasive",
+      "paInvasiveStatus": "Not listed — no Pennsylvania invasive species concern",
+      "drainage": "The red clay at Hegins requires amendment before planting; the heavy clay subsoil is tolerable once the top 12-18\" is well-amended; once established, vines sprawl into less-amended soil adequately; raised beds with compost-enriched fill are the highest-confidence approach at this site",
+      "soil": "The red clay at Hegins requires amendment before planting — incorporate 4-6\" of compost into the planting hole and surrounding 3' radius; mulch the entire vine zone with 4-6\" of straw or wood chips to regulate moisture and prevent surface crusting; raised beds filled with amended growing media are the highest-confidence planting format at this site",
+      "cultivarNotes": null,
+      "designPlacement": "C. maxima is not suited to Sections A, B, or C as currently configured — the vine's 10-15' spread is incompatible with the managed scale of those foundation strips. The primary site is the raised vegetable beds — plant one or two hills per 4'x8' bed with vines trained to spill over the bed edge into the adjacent pathway or grass. Food forest integration under the apple or paw paw guilds during establishment years is also viable, suppressing weeds and providing harvest from unused ground space for the first 2-3 years. Deer protection around young transplants is required for the first 3-4 weeks given the active east corridor pressure.",
+      "siteObservations": null
+    }
+  }
+}

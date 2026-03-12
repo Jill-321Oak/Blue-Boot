@@ -1,0 +1,161 @@
+{
+  "id": "matricaria-chamomilla",
+  "name": {
+    "commonName": [
+      "Chamomile (German chamomile: Matricaria chamomilla; Roman chamomile: Chamaemelum nobile)"
+    ],
+    "latinName": "Matricaria chamomilla (German chamomile — annual, most common for medicinal use); Chamaemelum nobile (Roman chamomile — perennial, lower-growing)",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia (both species); widely naturalized across North America as escaped cultivation",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Both species are introduced and naturalized, particularly in disturbed ground, roadsides, and field edges throughout much of the eastern US, Midwest, and Pacific states. Matricaria chamomilla is more widely naturalized than Chamaemelum nobile."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any lower-48 state. Neither species appears on federal or state noxious weed lists. Matricaria chamomilla self-seeds freely and can colonize disturbed ground, but it is easily managed by pulling or mowing and does not displace native plant communities. Not listed in the USDA PLANTS database as a noxious weed."
+    },
+    "zone": {
+      "min": 2,
+      "max": 9,
+      "description": "Matricaria chamomilla — annual (Zone 2-9 as annual); Chamaemelum nobile — perennial Zone 4-9"
+    }
+  },
+  "description": {
+    "height": "Matricaria — 18-24\" in bloom; Chamaemelum — 3-6\" creeping (non-flowering 'Treneague'); 6-12\" when flowering",
+    "spread": "Matricaria — 6-12\" per plant; self-seeds to colonize; Chamaemelum — 12-24\" spreading mat over time",
+    "spacing": "Matricaria — 6-9\"; Chamaemelum — 12-18\" (allow to spread)",
+    "growthRate": "Matricaria — fast annual; Chamaemelum — moderate perennial",
+    "timeToMaturity": "Matricaria — blooms in 60-90 days from seed; Chamaemelum — blooms second year; 'Treneague' (non-flowering) is productive as a ground cover from year 1",
+    "lifespan": "Matricaria — annual, self-seeds to create persistent colony; Chamaemelum — long-lived perennial",
+    "deciduousEvergreen": "Matricaria — annual, no winter presence; Chamaemelum — semi-evergreen mat persists through mild winters (Zone 6 and warmer); may thin in harsh Zone 4-5 winters",
+    "winterInterest": "Chamaemelum — low but the mat is present where semi-evergreen; Matricaria — none (dies with frost)"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; both tolerate light shade. Full sun produces the most aromatic plants. In Zone 8+ and the deep South, afternoon shade prevents heat stress and extends the bloom season.",
+    "water": "Low to medium; drought tolerant once established. Matricaria self-sows even in dry conditions. In arid western climates, supplemental irrigation is needed for establishment; in the humid East and Midwest, rainfall is generally sufficient once plants are established.",
+    "drainagePreference": {
+      "description": "Well-drained preferred. Chamaemelum especially requires well-drained soil and is prone to crown rot in waterlogged conditions — sandy or gravelly soil is ideal. Matricaria is more adaptable and tolerates heavier soils provided they do not stay saturated. Poor drainage leads to root rot in Chamaemelum and fungal issues in Matricaria during cool, wet weather.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate (Matricaria) / Poor (Chamaemelum). Matricaria chamomilla tolerates clay reasonably well as an annual — its shallow fibrous roots manage in heavy soil for one season, and it self-seeds readily even in clay. Chamaemelum nobile struggles in unamended heavy clay: the mat-forming roots need air space and consistent drainage that clay does not provide, leading to crown rot and winter dieback. For clay soil gardeners: amend planting areas with coarse sand and compost to improve drainage, or grow Chamaemelum in raised beds or containers. Matricaria can often succeed in clay without amendment if the site is not waterlogged."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; adaptable"
+    },
+    "texturePreference": "Lean to average; lean soils actually produce more fragrant plants with higher essential oil concentrations. Does not need fertile soil — over-fertilization produces rank growth with poor flavor and fragrance. Sandy loam is ideal. Heavy clay is acceptable for Matricaria but poor for Chamaemelum without amendment.",
+    "rootCharacter": "Matricaria — fibrous annual taproot; Chamaemelum — spreading fibrous perennial roots; mat-forming"
+  },
+  "bloom": {
+    "bloomTime": "Matricaria — May-September (sowing succession) or June-August from a single spring sowing; Chamaemelum — June-August",
+    "bloomDescription": "Classic daisy flowers — white ray petals surrounding a raised yellow disc center; the raised dome of the disc is distinctive for chamomile (vs. other daisies); 1-1.5\" wide; produced prolifically; flowers close on cloudy days and at night",
+    "fragrance": "Intensely apple-scented flowers and foliage — one of the most recognizable herb fragrances; the common name may derive from Greek kamai (ground) + melon (apple); both species fragrant but Chamaemelum (Roman chamomile) is somewhat more intensely aromatic than Matricaria; crushing the foliage releases the apple-chamomile scent immediately",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant — accessible open disc flowers; bees, hoverflies, and beneficial wasps work chamomile intensively; one of the classic insectary plants"
+  },
+  "yield": {
+    "edibleParts": "Flowers (the primary harvest — both species used identically for tea and culinary purposes); Matricaria flowers are slightly more bitter and more medicinally potent; Chamaemelum flowers are slightly sweeter and better for culinary use",
+    "harvestSeason": "Harvest flowers when the white petals are fully open and horizontal (not drooping yet) — this is peak essential oil content; dry immediately in a single layer at low temperature",
+    "medicinalUses": "One of the most widely-used medicinal herbs worldwide — documented properties include: calming and anxiolytic (excellent before sleep), anti-inflammatory (apigenin compounds), anti-spasmodic (digestive cramps, IBS), wound healing (topical), and anti-nausea; chamomile tea is one of the safest and most effective herbal preparations; used for teething, infant colic, and sleep in children (long traditional use with good safety record); topical chamomile used for eczema and skin irritation",
+    "craftOtherYield": "Dried flowers for sachets; chamomile hair rinse (brings out golden highlights in light hair); dried flower essential oil"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; widely consumed; CAUTION: individuals with ragweed allergy may have cross-reactivity to chamomile (both are Asteraceae); introduce cautiously if ragweed-allergic",
+    "toxicityAnimals": "Generally considered safe in small amounts; may cause GI upset in large quantities in dogs; not a primary toxicity concern",
+    "allelopathy": "Some allelopathic effect on certain plants — avoid planting directly adjacent to brassicas (possible growth inhibition)",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover (Chamaemelum); Herb (Matricaria)"
+    },
+    "roles": [
+      "Food (tea herb — one of the primary medicinal tea plants)",
+      "Medicinal (one of the most useful medicinal herbs for a home pharmacy)",
+      "Insectary Plant (excellent)",
+      "Pest Confuser (aromatic foliage)",
+      "Ground Cover (Chamaemelum)"
+    ],
+    "companionPlants": [
+      "Brassicas (except directly adjacent)",
+      "onions",
+      "most vegetables; classic \"physician of the garden\" — traditional companion planting credits chamomile with improving the health of neighboring plants; not strongly evidence-based but also not harmful"
+    ],
+    "antagonists": [
+      "None significant; see Brassicae note above"
+    ],
+    "coppiceable": "Cut Chamaemelum back in early fall or spring to encourage fresh dense growth; Matricaria simply self-seeds and replaces itself"
+  },
+  "wildlife": {
+    "attracts": "Bees, hoverflies, beneficial wasps, small butterflies — excellent insectary plant",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Chamaemelum mat provides some ground cover for invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic foliage is not a browse target. Deer consistently avoid both species. Young transplants may occasionally be trampled but are rarely eaten. No fencing or deterrents typically needed even in high-pressure areas across the eastern US and Midwest."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and light salt spray; not suited for direct salt-laden runoff zones or coastal front-line planting"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good (especially Matricaria, which grows as a weed in dry disturbed areas across a wide range of climates). Chamaemelum is somewhat less drought-tolerant but handles dry spells once the mat is established."
+    },
+    "other": "Chamaemelum 'Treneague' (the non-flowering, prostrate Roman chamomile) tolerates light foot traffic and is used as a lawn substitute in temperate climates; it will not stand heavy foot traffic. Both species handle heat and humidity reasonably well through Zone 8, though Chamaemelum may thin in hot, humid summers in the deep South (Zone 9+)."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Matricaria — allow to self-seed; deadhead selectively to prevent overwhelming self-seeding in formal beds; direct the colony by removing plants where not wanted. Chamaemelum — shear back after flowering to maintain compact mat; divide every 3-4 years to rejuvenate; remove dead center sections. Both — harvest flowers regularly to stimulate more blooming.",
+    "propagationMethods": [
+      "Matricaria — seed (direct sow spring or fall; self-sows readily); Chamaemelum — division (easy)",
+      "cuttings (summer)",
+      "seed (takes longer to bloom)"
+    ]
+  },
+  "cultivarNotes": "**Matricaria chamomilla** (German chamomile) is the standard medicinal chamomile — highest azulene content, most widely used medicinally; grow as a self-seeding annual colony. Performs well across all lower-48 zones (2-9) as an annual. **Chamaemelum nobile** (Roman chamomile) is the perennial choice for permanent ground cover or lawn substitute; slightly more ornamental; hardy in Zones 4-9. In Zones 4-5, the perennial mat may thin over harsh winters and benefit from a light mulch; in Zones 6-7, it overwinters reliably with semi-evergreen foliage; in Zones 8-9, it may struggle with summer heat and humidity — afternoon shade and excellent drainage are critical. **Chamaemelum nobile 'Treneague'** (non-flowering Roman chamomile) — the famous chamomile lawn variety; creates a fragrant, low mat 2-3\" tall; light foot traffic releases the apple scent; no flowers but dense aromatic foliage year-round; best in Zones 5-8 where summers are not excessively hot and humid. Growing both species provides extended coverage: Chamaemelum nobile as permanent perennial ground cover; Matricaria as a self-seeding medicinal annual.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "chamomile lawn (Chamaemelum 'Treneague')",
+      "path edging",
+      "tea garden",
+      "medicinal herb garden",
+      "insectary planting"
+    ],
+    "designPlacement": "Place in full-sun to part-shade positions with well-drained soil. German chamomile works as a self-seeding annual colony in herb gardens, vegetable garden borders, or meadow-style plantings — it fills gaps naturally and provides season-long pollinator support. Roman chamomile excels as a low perennial border, path edging, or lawn substitute where fragrance from foot contact is a design goal. Both suit warm, well-drained, sunny microclimates. Pair with other low-water, aromatic herbs (lavender, thyme, oregano) in Mediterranean-style herb beds. Avoid placing Chamaemelum in low-lying, poorly drained areas.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chamaemelum_nobile",
+    "inaturalist": "https://www.inaturalist.org/taxa/77965-Matricaria-chamomilla",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Roman chamomile",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b144"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No. Neither species is native to Pennsylvania. Both are naturalized from European cultivation and may be found in disturbed areas, roadsides, and old farmsteads throughout the state.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Neither species appears on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list. Same as the general Invasive field — not a concern.",
+      "drainage": "The compacted red clay at the Hegins site is challenging for Chamaemelum nobile — raised beds or heavily amended ground with added coarse sand and organic matter are strongly recommended. Matricaria chamomilla can be direct-seeded into amended clay beds and will self-sow successfully. For Section C (south-facing, warm, dry microclimate), the naturally drier conditions offset some clay drainage concerns for Matricaria.",
+      "soil": "The red clay at Hegins should be amended with coarse sand, fine gravel, and compost before planting Chamaemelum nobile in-ground. Matricaria chamomilla can be direct-sown into lightly amended clay. Raised beds remove the clay constraint entirely for either species.",
+      "cultivarNotes": "Both species perform well. Chamaemelum nobile overwinters reliably in Hegins with semi-evergreen foliage; no special winter protection needed. Matricaria chamomilla self-sows dependably and returns annually without intervention.",
+      "designPlacement": "Section C (south-facing, warm, dry) is the primary placement — German chamomile as a self-seeding annual colony in the herb/fragrance area; Roman chamomile as low perennial path edging where foot contact releases fragrance for visitors approaching from the SE driveway. Section B (kitchen-adjacent herb strip) is also appropriate for German chamomile for medicinal harvest proximity. Avoid Section A (north-facing, cold microclimate, partial shade) — not ideal for either species.",
+      "siteObservations": "Deer pressure from the east corridor is not a concern — chamomile's strong aromatic oils make it consistently deer-resistant. The red clay and compaction at this site are the main challenges: Chamaemelum nobile should be planted in amended soil or raised beds to ensure the drainage it requires; Matricaria chamomilla is more forgiving in clay. The south-facing Section C microclimate provides the warm, dry conditions both species prefer and offsets some of the clay drainage issues through faster soil drying."
+    }
+  }
+}

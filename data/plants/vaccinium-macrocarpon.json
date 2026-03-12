@@ -1,0 +1,158 @@
+{
+  "id": "vaccinium-macrocarpon",
+  "name": {
+    "commonName": [
+      "American Cranberry",
+      "Large Cranberry"
+    ],
+    "latinName": "Vaccinium macrocarpon",
+    "family": "Ericaceae"
+  },
+  "range": {
+    "nativeRange": "Northeastern and north-central North America — from Newfoundland south to North Carolina in the mountains, west to Minnesota and Illinois; naturally found in sphagnum bogs, acidic wet meadows, peaty lakeshores, and moist, nutrient-poor, highly acidic soils throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern United States and upper Midwest — distributed from Maine south through the Appalachians to North Carolina and west through the Great Lakes region to Minnesota and Illinois; native populations are concentrated in acidic bog and wetland habitats; not native to the western US, Gulf Coast, or Great Plains; widely cultivated commercially in Wisconsin, Massachusetts, New Jersey, Oregon, and Washington, but only genuinely native in the eastern and north-central states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — Vaccinium macrocarpon is not invasive anywhere in the lower 48 US states; it does not escape cultivation or naturalize outside its native bog habitat; the plant's extreme soil pH requirements (4.0-5.0) and dependence on saturated, nutrient-poor, acidic conditions prevent it from establishing in typical soils; not listed on any state noxious weed list or USDA invasive species database"
+    },
+    "zone": {
+      "min": 2,
+      "max": 7,
+      "description": "2-7 (extremely cold-hardy; one of the hardiest fruiting plants in eastern North America; no heat zone concerns within its range, though it performs best where summers are not excessively hot and dry)"
+    }
+  },
+  "description": {
+    "height": "6-12\" (a low, trailing, mat-forming evergreen ground cover; stems creep along the soil surface rather than mounding upward)",
+    "spread": "2-6' over time as runners spread and root; can be contained by the boundaries of a raised bog bed",
+    "spacing": "18-24\" for establishment; plants will fill in over 3-5 years as runners spread and root",
+    "growthRate": "Slow to moderate; establishes slowly in the first 1-2 years, then spreads steadily via trailing runners that root at nodes; not a quick-fill ground cover — patience is required",
+    "timeToMaturity": "First fruit possible in years 2-3; a meaningful harvest develops by years 4-6 as the mat fills in; older, well-established cranberry bogs produce the heaviest yields",
+    "lifespan": "Very long-lived; cranberry bogs in commercial cultivation are productive for decades; a properly prepared bog garden planting is effectively permanent",
+    "deciduousEvergreen": "Evergreen — the small, glossy, deep green leaves persist through winter, turning attractive shades of bronze-red to burgundy with cold; one of the few fruiting evergreen ground covers reliably hardy across its zone range",
+    "winterInterest": "Good — the evergreen mat takes on warm red and bronze tones in cold weather; provides ground-level green structure through the dormant season when most plants have disappeared"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required; 6+ hours of direct sun is the productive minimum; cranberry does not perform well in shade; the trailing growth habit and fruit set both depend on full sun exposure",
+    "water": "High — consistently moist to wet conditions are essential; this is not a drought-tolerant plant under any circumstances; in its native habitat it grows in permanently saturated or near-saturated peaty soils; in cultivation it requires either a wet site, drip irrigation kept consistently active, or a bog garden construction that holds moisture; allowing the root zone to dry out significantly will stress or kill the plant",
+    "drainagePreference": {
+      "description": "Moist to wet; tolerates and prefers near-saturated peaty conditions; does not tolerate dry, fast-draining soil; this is the inverse of most garden plants — the goal is to keep the root zone consistently damp, not to ensure drainage away from the roots; a bog garden liner that holds water is appropriate; in areas with heavy soil, the concern is not waterlogging (cranberry tolerates it) but rather soil chemistry — cranberry must have acidic, low-fertility conditions regardless of drainage class",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "None — cranberry cannot grow in clay soil of any type, regardless of amendments or drainage modification; the issue is not just drainage but the fundamental soil chemistry and structure; clay soils are typically near-neutral to slightly acidic (pH 5.5-7.0), far too alkaline for cranberry's requirement of pH 4.0-5.0; clay's high nutrient-holding capacity and mineral content are the opposite of the nutrient-poor, peaty, highly acidic conditions this plant requires; no amount of sulfur, peat, or organic matter amendment to an in-ground clay planting will sustainably achieve the conditions cranberry needs; the only viable approach in clay-soil regions is a fully isolated container or lined raised bed filled entirely with imported acidic growing medium (sphagnum peat / coarse sand mix) that has zero contact with the native clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4,
+      "max": 5,
+      "description": "4.0-5.0 — THIS IS THE MOST CRITICAL CULTURAL REQUIREMENT, and it is even more extreme than highbush blueberry. Cranberry is adapted to some of the most acidic soils in North America — sphagnum bogs where pH can drop below 4.0. At neutral soil pH (6.5-7.0), cranberry will fail entirely and quickly. The practical solution for any gardener not already on acidic bog soil is to build a dedicated raised bog bed filled entirely with an imported acidic growing medium — a mix of sphagnum peat moss, coarse sand, and acidic compost — and to never allow alkaline water, lime, wood ash, or bone meal anywhere near the bed. Test pH annually."
+    },
+    "texturePreference": "Light, open, peaty, and very low in fertility; cranberry is adapted to nutrient-poor conditions — do not over-fertilize; rich garden soil or heavily amended compost beds may actually be too fertile; the ideal medium is a peat-sand mix (roughly 60-70% sphagnum peat, 30-40% coarse horticultural sand) that holds moisture while remaining aerobic at the root zone",
+    "rootCharacter": "Fine, fibrous, shallow roots; relies on ericoid mycorrhizal associations (the same specialized fungal partnership as blueberry and other Ericaceae); the mycorrhizal relationship breaks down in non-acidic conditions, which is why pH management is inseparable from the plant's ability to function at all; never cultivate around established plants; maintain the peat surface undisturbed"
+  },
+  "bloom": {
+    "bloomTime": "June-July (later than highbush blueberry; one of the later-blooming Vaccinium species)",
+    "bloomDescription": "Small, nodding, pale pink to white flowers with strongly reflexed (swept-back) petals that expose the stamens prominently — the flower shape is distinctive and somewhat resembles a shooting star or small cyclamen in miniature; borne on slender upright shoots (uprights) that rise from the trailing stems; ornamentally delicate and charming up close",
+    "fragrance": "Faint, delicate; not strongly perfumed",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Self-fertile; cross-pollination with another cultivar improves fruit size and yield, though a single plant will set fruit; bumblebees are the primary native pollinators and are particularly effective — the reflexed petal structure is adapted to buzz pollination (sonication) by bumblebees; honeybees also visit"
+  },
+  "yield": {
+    "edibleParts": "Berries — the classic large, tart, bright red cranberry; intensely sour and astringent when eaten raw (not palatable to most people as a fresh fruit, unlike blueberry); the fruit is meant to be cooked or processed; used in cranberry sauce, juices and juice cocktails, jams and jellies, baked goods (muffins, breads, tarts), dried cranberries (sweetened), chutneys, and fermented beverages; the flavor is assertive enough to balance sugar and pair with savory foods (classic Thanksgiving sauce pairing is not accidental)",
+    "harvestSeason": "October-November; one of the latest-ripening fruits in the temperate garden; fruits turn from white to deep red as they ripen; ripe berries float (the interior has air pockets — this is why commercial cranberry bogs are flooded at harvest, allowing the berries to be corralled and harvested from the water's surface); a simple float test in a bucket of water is a useful ripeness and quality check at home",
+    "medicinalUses": "Cranberry is one of the most clinically documented medicinal foods available to the home gardener, specifically for urinary tract health. The active compounds are A-type proanthocyanidins (PACs) — a class of polyphenol found in particularly high concentration in cranberry and distinct from the B-type proanthocyanidins in most other fruits. The mechanism of action is well-established: PACs prevent uropathogenic bacteria (primarily E. coli) from adhering to the epithelial walls of the urinary tract, making infection less likely to establish. This is not a treatment for active UTI — it is a prevention strategy. The clinical evidence for UTI prevention in recurrent-infection patients is among the strongest in botanical medicine. Commercial cranberry supplements are standardized to PAC content; eating the fruit or drinking unsweetened juice provides equivalent benefit. Additional research supports antioxidant, cardiovascular, and anti-inflammatory properties from the anthocyanin and flavonoid content. This is a medicinal plant of genuine, evidence-based value grown right in the garden.",
+    "craftOtherYield": "Natural dye (red-pink from berries); the evergreen mat is attractive as a year-round ground cover independent of fruit value; traditional use in holiday wreaths and decorations (the bright red berries are culturally iconic)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and nutritious; the tartness makes raw consumption unpleasant but not harmful",
+    "toxicityAnimals": "Non-toxic; birds consume the fruit readily; safe for dogs in moderate amounts",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground cover layer (herb layer / living mulch zone)"
+    },
+    "roles": [
+      "Food (specialty high-value fruit with exceptional medicinal application)",
+      "Medicinal (one of the most evidence-based botanical remedies available)",
+      "Ground Cover (evergreen mat suppresses weeds within the bog bed)",
+      "Native Plant (authentic eastern US native with full ecological value within its habitat type)",
+      "Wildlife Support (fruit for birds; flowers for native bees)"
+    ],
+    "companionPlants": [
+      "Within a bog garden context: sphagnum moss (Sphagnum spp. — the ideal living mulch for a cranberry bed; actively acidifies the growing medium and retains moisture; if it establishes it is a permanent asset)",
+      "pitcher plant (Sarracenia purpurea — native eastern US bog plant; purely ornamental companion; same pH and moisture requirements)",
+      "bog rosemary (Andromeda polifolia — native Ericaceae; same soil requirements)",
+      "leatherleaf (Chamaedaphne calyculata — native bog shrub; same habitat); outside the bog bed context",
+      "cranberry does not integrate well into standard garden guilds — it is an isolate that requires its own dedicated conditions"
+    ],
+    "antagonists": [
+      "Any alkaline amendment whatsoever (limestone, wood ash, bone meal, dolomite, concrete leachate, hard water with high mineral content); standard garden soil at any normal pH; proximity to foundations or concrete walks; fertilizers formulated for general garden use (most contain calcium or other alkalizing elements); overhead irrigation from a well with high calcium or magnesium content"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Significant wildlife value within its ecological context; numerous bird species consume the fruit in fall and winter, including American robin, cedar waxwing, hermit thrush, and various sparrows and thrushes; native bumblebees are important pollinators; the fruit's persistence through fall provides late-season food for migrating and overwintering birds",
+    "hostPlantFor": "Bog Copper butterfly (Lycaena epixanthe) — this specialist butterfly is nearly obligately associated with Vaccinium macrocarpon as its larval host plant; the bog copper is a rare and declining species associated specifically with cranberry bog habitats; growing V. macrocarpon provides potential habitat support for this species; also used by various native moth species in the genus Vaccinium",
+    "nestingHabitat": "The low mat does not provide meaningful nesting structure, but the associated bog garden can support habitat for ground-nesting insects and amphibians"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — deer will browse cranberry foliage; the low ground-hugging habit makes it less of a target than upright shrubs, but in a raised bed situation the foliage is fully accessible; wire mesh or netting over the bed during establishment is advisable in areas with significant deer pressure; established mats are less vulnerable than newly planted stock"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — sensitive to salt as with all Ericaceae; avoid road salt exposure or salt spray from winter road maintenance; does not recover well from salt damage"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Very low — cranberry has essentially no drought tolerance; consistent moisture is a non-negotiable requirement, not a preference; if the bog bed dries out during summer heat, the plants will decline rapidly; in arid or semi-arid climates, sustained irrigation infrastructure is mandatory"
+    },
+    "other": "Intolerant of high fertility (do not over-fertilize); intolerant of alkaline irrigation water; intolerant of soil compaction; the bog bed growing medium should be maintained undisturbed for the life of the planting"
+  },
+  "maintenance": {
+    "maintenanceLevel": "High for initial setup; low-moderate once established. The significant investment is the construction of the bog bed or contained growing environment — this is a one-time project that determines whether the planting succeeds at all. Once the bed is built and planted, ongoing maintenance is modest: keep it moist, mulch with peat or sphagnum, test pH annually, and trim runners at the edges of the bed as needed. The plants themselves are not fussy once correctly sited.",
+    "pruningNotes": "Minimal pruning needed; cranberry produces fruit on short upright shoots (called uprights) that arise from the trailing horizontal runners; do not remove the trailing runners — they are the framework of the plant; light thinning of congested uprights after several years can improve air circulation and fruit size; if the bed becomes very densely matted after many years, light raking or vertical mowing (as used commercially) can renovate the planting, but this is not needed for many years in a home garden",
+    "propagationMethods": [
+      "Stem cuttings (the most practical method — take 4-6\" tip cuttings from trailing stems in late spring or early summer; root in moist peat-sand mix under humidity; relatively easy); layering (trailing stems naturally layer where they contact moist soil — pin a stem section to the peat surface and it will root at the node; pot up once rooted); division of established mats; seed (viable but slow; seedlings do not come true to cultivar)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly recommended over straight species for reliable home fruit production — cultivars have been selected for larger berry size, higher yield, and in some cases improved disease resistance. Cultivar performance is broadly consistent across the species' hardiness range (Zones 2-7), with minor regional preferences noted below.\n**Zone 3-5 (northern tier / upper Midwest / New England):**\nAll major cultivars perform well in this core range. 'Stevens' and 'Ben Lear' are the commercial workhorses of Wisconsin and Massachusetts cranberry production. 'Early Black' is particularly useful where the growing season is short — its early ripening ensures harvest before hard frost.\n**Zone 6-7 (mid-Atlantic / upper South / Pacific Northwest):**\nAll cultivars remain productive. 'Howes' has a slight edge in the warmer end of this range (Zone 7) due to marginally better heat tolerance and its excellent fruit-keeping quality. 'Stevens' remains the all-around best choice. Summer irrigation becomes increasingly critical in Zone 7, particularly in areas without reliable summer rainfall.\n**'Stevens'** — the single most widely grown commercial cranberry cultivar in North America; large berry; reliable and productive; excellent for home production; Zone 3-6; the anchor cultivar for any cranberry planting; widely available from specialty nurseries; the benchmark against which other cultivars are measured.\n**'Ben Lear'** — early-ripening; very high yield; large berry; Zone 3-6; one of the best choices for home production where maximizing fruit is the priority; ripens earlier than 'Stevens', extending the harvest window if both are planted.\n**'Howes'** — heirloom cultivar; long-keeping fruit — the berries store well both on the vine and post-harvest; Zone 3-7; upper limit of Zone 7 makes it slightly more heat-tolerant than some; a traditional New England commercial cultivar with good flavor; excellent keeper for sauce and preserving.\n**'Early Black'** — the earliest-ripening major cultivar; dark red to nearly black skin at full ripeness; somewhat smaller berry than 'Stevens' but very early; useful for extending the season earlier; Zone 3-6.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated bog garden or contained acidic peat bed; wet",
+      "acidic areas of the landscape; specialty production planting for the committed gardener; do not attempt to integrate into a standard mixed border or food forest guild without purpose-built soil conditions — this plant will fail in ordinary garden soil regardless of other care"
+    ],
+    "designPlacement": "Cranberry is a specialty item that requires a dedicated growing environment — it cannot be dropped into an existing bed or standard garden guild. Success requires building a contained bog garden: a liner-lined raised bed approximately 12-18\" deep, filled with a sphagnum peat / coarse sand mix (60/40), kept consistently moist via drip irrigation or hand-watering, sited in full sun. The bog bed can be aesthetically designed — a timber-framed raised bed with a liner, filled with peat, planted with cranberry and companion bog plants (pitcher plant, sphagnum moss), is a distinctive and conversation-worthy garden feature as well as a productive one. Site the bed away from foundations, concrete, or any source of alkaline runoff. Avoid areas where hard water irrigation is the only option. The native status, medicinal value (UTI prevention via A-type PACs), evergreen ground cover interest, and ecological support for the rare Bog Copper butterfly all justify the effort for a gardener committed to this plant. This is not a beginner plant — it rewards preparation.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaccinium_macrocarpon",
+    "inaturalist": "https://www.inaturalist.org/taxa/63749-Vaccinium-macrocarpon",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279943"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — V. macrocarpon is native to Pennsylvania; wild populations occur in the northern and eastern counties of the state in acidic bogs, sphagnum wetlands, and wet peaty soils; the species is not typically found in interior central PA at the elevation and soil type of the Hegins site, but it is a genuine Pennsylvania native plant; growing it at this site is a cultivation project in a purpose-built bog bed, not a naturalization",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed on the PA Department of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — no regulatory concern",
+      "drainage": "The red clay at the Hegins site is completely unsuitable for cranberry in-ground — pH is likely 5.5-6.5, far too high, and the heavy mineral clay cannot be amended to the required pH 4.0-5.0 range in any sustainable way; the only viable option is a dedicated bog bed: a pond-liner-lined raised bed filled with imported sphagnum peat / coarse sand mix (60/40), physically isolated from the native soil; this is a one-time construction project, not an amendment strategy",
+      "soil": "The native red clay at the Hegins site is entirely wrong for cranberry in texture, fertility, and pH; do not attempt any in-ground amendment approach; use a fully lined, isolated raised bog bed filled with imported peat-sand mix as described above; the bed must have no drainage connection to the native clay beneath",
+      "cultivarNotes": "Plant 'Stevens' as the primary cultivar (large berry, reliable, widely available) alongside 'Ben Lear' (early ripening) or 'Howes' (heirloom, excellent keeper) for cross-pollination and a modest harvest window extension. Two to four plants in a dedicated bog bed will produce a meaningful quantity of fruit within 4-6 years.",
+      "designPlacement": "The two practical options at this site are: (1) a contained bog garden — a pond-liner-lined raised bed in full sun, filled with imported peat-sand mix, physically isolated from the native red clay; or (2) a naturally wet, low-lying area of the property (if one exists) that can be amended with acidic organic matter to bring pH into range. Option 1 is more controllable and is the recommended approach. This plant does not belong in any of the named bed sections (A/B/C) — it is a standalone specialty feature sited wherever full sun and irrigation access are available.",
+      "siteObservations": "The active deer pressure from the eastern wildlife corridor means the bog bed should have wire mesh or netting during the establishment phase — the low, ground-hugging foliage in a raised bed is fully accessible to deer browse. The site's red clay soil (likely pH 5.5-6.5) is completely unsuitable without full isolation via a lined bed. Well water should be tested for pH, calcium, and magnesium content before use for irrigation — hard water will gradually raise the pH of the peat medium and undermine the planting. The bog bed is a one-time construction investment; once built and planted correctly, ongoing maintenance at this site is modest."
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ocimum-basilicum",
+  "name": {
+    "commonName": [
+      "Basil",
+      "Sweet Basil",
+      "Common Basil"
+    ],
+    "latinName": "Ocimum basilicum",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Tropical Asia — likely originating in India and Southeast Asia; cultivated throughout the tropics and warm temperate world for more than 5,000 years; one of the most widely grown culinary herbs globally",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from the Old World tropics; widely cultivated as an annual herb across all regions of the lower 48 but does not naturalize or persist outside cultivation anywhere in temperate North America due to frost sensitivity"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; an annual that sets seed but does not naturalize in the United States; cold winters prevent persistence in northern and central states, and even in frost-free southern zones it does not escape cultivation or form invasive populations; not listed on any state noxious weed list or the federal noxious weed list"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Grown as an annual in all USDA zones; a true tropical plant that requires warm temperatures throughout its entire life cycle; there is no zone in which it is perennial in temperate North America; heat is not a limiting factor — basil thrives in the hottest summers across the lower 48"
+    }
+  },
+  "description": {
+    "height": "12-24\" (highly variable by cultivar — compact globe types stay 6-10\"; large Genovese types reach 18-24\"; Thai types 18-24\" and more upright)",
+    "spread": "12-18\"; bushy and branching when properly pinched; a neglected plant that has bolted becomes open and lanky",
+    "spacing": "12-18\"; give adequate air circulation to reduce downy mildew risk; crowding in humid summer conditions is a setup for disease",
+    "growthRate": "Fast once warm conditions are established; slow and sulky when temperatures are marginal; in hot summer weather growth accelerates noticeably; gardeners in Zones 8-10 see rapid growth earlier in the season, while Zone 3-5 growers have a compressed but intense growth window",
+    "timeToMaturity": "First light harvest possible 3-4 weeks after transplanting; full productive size by 6-8 weeks after transplanting; season length depends entirely on local frost dates — from as little as 3 months in the shortest-season northern zones to 6+ months in frost-free southern regions",
+    "lifespan": "Annual; completes its entire life cycle in a single growing season; frost kills it immediately and abruptly; there is no overwintering it outdoors anywhere that experiences frost",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None; the plant is dead by first frost"
+  },
+  "lightAndWater": {
+    "sun": "Full sun; 6-8+ hours of direct sun for maximum flavor, growth rate, and essential oil production; in hot-summer regions (Zone 8+ and the Deep South), a small amount of afternoon shade can reduce heat stress, but full sun is strongly preferred overall; do not grow basil in partial shade — the result is leggy, pale, and flavorless compared to a full-sun plant",
+    "water": "Consistent moisture; basil is not drought tolerant — it wilts quickly and stressed plants bolt to flower faster; water regularly and do not allow the soil to dry out completely; at the same time, avoid waterlogged conditions and always ensure adequate drainage; morning watering is preferred to allow foliage to dry before evening, reducing disease pressure; irrigation needs increase substantially in the arid West and Southwest compared to the naturally humid East",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive; raised beds or in-ground beds with good organic matter are ideal; heavy wet clay without amendment is poor — basil sits in wet soil and roots suffer; the goal is consistent moisture without waterlogging; basil will not tolerate standing water even briefly",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; basil's shallow fibrous root system is vulnerable to waterlogging and root rot in heavy clay, especially during periods of summer rain; clay soils that stay cold in spring also delay the warm soil temperatures basil requires; amendment with compost and organic matter to improve drainage and tilth is essential for in-ground clay planting; raised beds filled with quality mix bypass the clay problem entirely and are the most reliable approach for heavy-clay gardens across the eastern US, Midwest, and Pacific Northwest"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral; responsive to fertile, organically rich soil in a way that Mediterranean herbs (sage, oregano) are not — basil is a tropical annual that rewards good soil"
+    },
+    "texturePreference": "Rich, well-amended loam; a well-composted raised bed or garden soil with generous organic matter is close to ideal; basil benefits from higher fertility than most perennial herbs; leaf production is the goal, and good organic matter supports it; sandy soils work if fertility and moisture are maintained; heavy unamended clay is the worst match",
+    "rootCharacter": "Shallow, fibrous root system; does not form deep taproots; the roots are sensitive to cold soil temperatures — cold soil below about 50°F causes visible stress even if air temperatures are acceptable"
+  },
+  "bloom": {
+    "bloomTime": "Begins 6-8 weeks after transplanting if not pinched; timing depends on planting date and local climate — earlier in warm southern zones, later in short-season northern zones; under heavy pinching management, flowering can be delayed significantly",
+    "bloomDescription": "Upright terminal spikes (racemes) carrying whorls of small two-lipped flowers, typically white or pale pink-lavender; individually delicate; the spike itself is elongated with small bracts; the moment flower spikes appear is the critical management decision point — pinch now or lose harvest quality rapidly",
+    "fragrance": "The essential aromatic of summer kitchens — warm, sweet, clove-like, green, complex; the fragrance comes from a volatile oil profile dominated by linalool and eugenol in sweet/Genovese types, with anise and estragole notes in Thai types; heat concentrates the oils and intensifies flavor; the bruised leaf is an immediate, unmistakable sensory experience",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; flowers are pollinated by bees; pollination leads to seed set, which triggers the plant's rapid decline in leaf quality and flavor — this is exactly what pinching management prevents"
+  },
+  "yield": {
+    "edibleParts": "Leaves (primary use — fresh, as paste, as pesto, in cooked dishes added at the last moment); flowers (edible, milder flavor, good as garnish and in salads); seeds (dried basil seeds swell in water and are used in some Asian beverages — notably as a topping in drinks similar to chia seeds)",
+    "harvestSeason": "From transplanting through first fall frost; peak productivity during the hottest months of summer; harvest by pinching stem tips regularly — each pinch prompts two new branches and doubles the harvest points; never strip a plant bare; take the top one-third to encourage branching; bulk harvest for pesto or preservation is best done before bolt pressure peaks in late summer",
+    "medicinalUses": "Traditional Ayurvedic and folk medicinal herb across its native range; essential oils (linalool, eugenol) have documented antimicrobial and anti-inflammatory properties in laboratory studies; traditionally used for digestive complaints, headache, and stress; Holy Basil / Tulsi (Ocimum tenuiflorum, a separate species) is the primary medicinal basil in Ayurvedic tradition and should not be confused with culinary sweet basil; sweet basil's medicinal use is secondary to its culinary importance",
+    "craftOtherYield": "Essential oil (commercially extracted); dried herb (flavor degrades significantly on drying compared to fresh — refrigerator-dried or freeze-dried retains more color and flavor than air-drying; still useful); frozen pesto (the best preservation method for flavor)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe for all culinary use; the herb is consumed in very large quantities (pesto, fresh salads) without concern; concentrated essential oil should not be consumed internally in quantity; estragole, a component of some basil types, is under research scrutiny at extremely high doses, but this is not a concern for culinary use",
+    "toxicityAnimals": "Generally considered safe; not a significant toxicity concern for dogs or cats in culinary quantities; essential oil should not be used on or near pets",
+    "allelopathy": "Not significantly allelopathic; plays well with companion plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Annual Vegetable"
+    },
+    "roles": [
+      "Food (primary culinary herb — irreplaceable in Mediterranean and Southeast Asian cooking)",
+      "Medicinal (minor, traditional)",
+      "Pest Confuser (strongly aromatic foliage deters some pest insects; companion to tomatoes and peppers)",
+      "Insect Attractor (flowers draw bees and beneficial insects if allowed to bloom)",
+      "Nitrogen Scavenger (dense fibrous roots take up nitrogen actively)"
+    ],
+    "companionPlants": [
+      "Tomatoes (the classic and most celebrated combination — basil and tomatoes are traditionally planted together throughout Italian and Mediterranean kitchen gardens; kitchen proximity for harvest is the practical reason; there is traditional belief that basil improves tomato flavor, though scientific evidence is limited; the pairing is practically useful regardless)",
+      "peppers",
+      "eggplant; compatible with most vegetable garden plants; the aromatic foliage is said to deter aphids and thrips near neighbors"
+    ],
+    "antagonists": [
+      "Fennel (broad antagonist to most herbs and vegetables; keep basil away from fennel as with most garden plants); sage (differing moisture needs — basil wants consistent moisture while sage prefers dry; poor companions in the same bed)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when in flower; if flower spikes are allowed to mature, they are worked by bumblebees, honeybees, and small native bees; hoverflies and beneficial wasps visit the flowers; allowing a plant or two to flower at season's end is a useful late-season forage contribution",
+    "hostPlantFor": "Not a known host for North American Lepidoptera",
+    "nestingHabitat": "None; annual with no persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strongly aromatic foliage is generally avoided by deer; not completely immune but among the lower-risk herbs; the intense scent and essential oil content deter casual browsing; deer rarely target basil when other forage is available; young transplants are more vulnerable than established aromatic plants; in areas with heavy deer pressure, temporary row cover or fencing at transplant time provides insurance until plants are established and producing volatile oils at full strength"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low tolerance; basil is a tender annual with soft foliage that is not adapted to saline conditions; road salt splash or maritime salt spray will damage leaves; not a candidate for coastal or roadside planting without protection"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor; basil wilts quickly under water stress and stress-triggered bolting is immediate; consistent moisture is essential throughout the season"
+    },
+    "other": "Extremely cold-sensitive — this is the defining characteristic that shapes all basil management across the country. Temperatures below 50°F cause chilling injury, which manifests as blackening of leaves and stems; this can happen even without frost. Soil temperature below 50°F causes root stress and stunted growth even when air temperatures appear acceptable. A light frost kills the plant outright and instantly — there is no recovering from a frost event. Do not transplant until night temperatures are consistently above 55°F; this timing varies widely by zone (as early as March in Zone 9-10, as late as early June in Zone 3-4). Downy mildew (Peronospora belbahrii) is a significant and increasing disease threat across the humid eastern US — select resistant varieties where available."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Moderate; low labor per task but the task of pinching must be done consistently and on schedule throughout the season — neglect leads to rapid quality decline as the plant bolts",
+    "pruningNotes": "Pinching is the single most important management technique for basil and it cannot be treated as optional. As soon as flower buds appear, pinch them out immediately. Do not wait to see if they develop; by the time the flower spike is clearly visible, the plant is already beginning its decline. Pinch the entire flowering stem tip back to a set of healthy leaves just below the bud; this prompts two new side shoots from the leaf axils below the cut, effectively doubling the branching and harvest points. A plant that has been pinched consistently all season becomes a large, dense, productive bush; a plant that has been allowed to flower becomes a sparse, small-leaved, bitter shadow of what it was. During the hottest months, increase monitoring frequency to weekly — warm weather accelerates bolt tendency. At season's end (when first frost is imminent), strip the plant completely for one final bulk harvest before cold kills it.",
+    "propagationMethods": [
+      "Seed (primary method — direct sow after all frost risk has passed and soil is warm, or start indoors 4-6 weeks before last frost); germination is rapid at warm temperatures (70-85°F) — typically 5-10 days; do not start too early indoors as basil grown under insufficient light quickly becomes leggy and weak; cuttings root readily in water (place 4\" stem tip cutting in a glass of water on a warm windowsill, roots form in 1-2 weeks; useful for extending the season by rooting cuttings in late summer for indoor growing)"
+    ]
+  },
+  "cultivarNotes": "The basil family spans enormous variation in flavor, leaf size, and plant habit. Selecting the right type for your use matters more with basil than with almost any other herb.\n**Genovese** (e.g., 'Genovese', 'Nufar', 'Eleonora') — the classic Italian large-leaf sweet basil; large, cupped, intensely aromatic leaves; the standard for pesto; what most Americans picture when they think of basil; very productive when pinched; slightly susceptible to downy mildew — seek out newer resistant varieties, especially in the humid East and Southeast where disease pressure is highest\n**'Prospera'** — a Genovese-type bred for downy mildew resistance (Peronospora belbahrii); highly recommended across the humid eastern US (Zone 5-8) where summer humidity and warm nights favor this disease; similar flavor and appearance to classic Genovese; the safest choice for production reliability wherever downy mildew is a concern; less critical in the arid West where disease pressure is lower\n**Thai Basil / 'Siam Queen'** — narrow, slightly serrated leaves; distinct licorice-anise-spice flavor profile; holds up better to heat in cooking than sweet basil (the eugenol-dominant oil is more heat-stable); essential for Thai and Vietnamese cuisine; purple stems and flower bracts are ornamental; tends to be more bolt-resistant than Genovese types; performs well across all zones and handles heat particularly well in the South and Southwest\n**Purple / 'Red Rubin'** — purple-black foliage; striking ornamental presence; milder, somewhat sweet-spicy flavor; ornamental in the garden and beautiful in salads; makes a striking purple basil vinegar; somewhat less aromatic than green Genovese; performs equally well across all zones\n**Lemon Basil** (O. × citriodorum) — light lemony citrus notes from a distinct oil profile; beautiful in fruit salads, fish dishes, and herbal teas; more delicate plant; smaller leaves; slightly less heat-tolerant than sweet basil — may appreciate afternoon shade in Zone 8+\n**Globe / 'Spicy Globe'** — compact domed mound 6-10\"; small leaves; self-branching with less pinching required; good for container growing and border edging; the tight habit limits production volume but reduces management effort; moderate spicy-clove flavor; an excellent choice for short-season northern gardens (Zone 3-5) where the compact habit means faster visual impact in a shorter season\n**Tulsi / Holy Basil** (Ocimum tenuiflorum) — a separate species; the primary medicinal basil of Ayurvedic tradition; adaptogenic herb used for stress, immunity, and respiratory health; different flavor (clove-pepper-anise, more medicinal than culinary); worth growing separately if medicinal use is a goal; listed here for clarity because it is often sold alongside culinary basil; slightly more cold-sensitive than sweet basil — best results in Zone 6+",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds",
+      "kitchen garden",
+      "container growing",
+      "companion planting with tomatoes and peppers",
+      "annual herb border"
+    ],
+    "designPlacement": "Place basil in the warmest, sunniest position available — full sun with at least 6 hours of direct light is non-negotiable for quality production. Interplant with tomatoes wherever tomatoes are grown; the kitchen proximity argument is exactly as strong as the traditional companion planting lore. Raised beds or well-amended in-ground beds with good drainage are ideal; avoid low spots where cold air pools, as basil will be the first casualty of a late spring cold snap or early fall frost. In container gardens, a 12\"+ pot in a south- or west-facing position works well. Keep basil away from fennel and separate from sage (which prefers drier conditions). In ornamental plantings, purple and globe cultivars provide color and texture contrast in annual borders and kitchen garden edges.",
+    "acquisitionStatus": "To source (seed — start mid-March indoors for late May transplant)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil",
+    "inaturalist": "https://www.inaturalist.org/taxa/61398-Ocimum-basilicum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a689"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or North America; a tender tropical annual that cannot persist outside cultivation in Zone 6a",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list",
+      "drainage": "The compacted red clay at the Hegins site is a poor match for in-ground basil; raised vegetable beds are strongly recommended and effectively required — they provide the warm, well-drained, fertile soil basil needs while completely bypassing the clay drainage problem; if in-ground planting is attempted, heavy compost amendment and mounding are minimum requirements",
+      "soil": "At Hegins, the native red clay soil requires either raised beds (preferred) or heavy amendment with compost to create acceptable texture; raised vegetable beds with quality growing mix are the practical approach and eliminate soil texture as a concern",
+      "cultivarNotes": "Start with 'Prospera' for reliability against downy mildew in humid Hegins summers, a Thai type for culinary range, and 'Red Rubin' or a globe type for ornamental interest. Growing 2-3 types side by side is easy and dramatically expands what the kitchen can do with fresh basil.",
+      "designPlacement": "Raised vegetable beds are the right home for basil at this site — the warm, well-amended soil of a raised bed addresses basil's core needs (warmth, drainage, fertility, consistent moisture) in a way that the cold, clay-heavy ground cannot. Section B (kitchen-adjacent herb strip) is the most practical location for kitchen access, though basil will need the most sun-exposed position within that north-facing strip; if Section B gets less than 6 hours of sun, a sunnier vegetable bed elsewhere on the property will outperform it. Interplant with tomatoes wherever tomatoes are grown on the property.",
+      "siteObservations": "Zone 6a timing is tight but productive. Start seeds indoors around March 15 (4-6 weeks before May 1 last frost). Do not transplant until late May when night temperatures are reliably above 55°F — this often means waiting until Memorial Day weekend or even early June in a cool spring. The season runs roughly June through October 10; expect 4+ months of productive harvest with consistent pinching. Begin pinching management immediately as the first flower buds appear in mid-July. Plan a bulk harvest for late August before bolt pressure peaks and end-of-season cold arrives. Deer pressure from the east wildlife corridor is low risk for basil — the aromatic foliage is generally avoided — but raised beds add a small additional physical deterrent for young transplants. Road salt is not a concern for the raised vegetable beds at this site (~50 ft+ from road and not in the splash zone). Do not expose basil to any location where cold air pools on the property; basil will be among the very first things to suffer in a late spring cold snap or early fall frost."
+    }
+  }
+}

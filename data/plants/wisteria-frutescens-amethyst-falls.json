@@ -1,0 +1,156 @@
+{
+  "id": "wisteria-frutescens-amethyst-falls",
+  "name": {
+    "commonName": [
+      "American Wisteria 'Amethyst Falls'",
+      "Amethyst Falls Wisteria"
+    ],
+    "latinName": "Wisteria frutescens 'Amethyst Falls'",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Southeastern United States — Virginia to Florida, west to Texas (parent species); among the few wisterias native to North America; naturally occurs in floodplain forests, stream margins, and moist woodland edges",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the southeastern and south-central US — from Virginia south to Florida and west to Texas, extending into parts of the lower Midwest (Kentucky, southern Illinois, Missouri). Not native to the Northeast, northern Midwest, or western states. One of only two Wisteria species native to North America (the other being W. macrostachya)."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — Wisteria frutescens is not invasive anywhere in the lower 48. A critical distinction from the two Asian species commonly sold as \"wisteria\": W. sinensis (Chinese wisteria) and W. floribunda (Japanese wisteria), both of which are aggressively invasive throughout the eastern US, listed on multiple state noxious weed lists, and documented by the USDA as displacing native vegetation. W. frutescens lacks the vigorous root-suckering, prolific seed set, and rapid growth that make the Asian species problematic. When purchasing, verify the species — mislabeled Asian wisteria sold as \"American wisteria\" is a known nursery problem."
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "15-30' on support (controllable through pruning); 'Amethyst Falls' is smaller and more restrained than the species",
+    "spread": "4-10' lateral; twining vine; covers what it is given support on",
+    "spacing": "One plant per support structure",
+    "growthRate": "Moderate (much slower than Asian wisterias — this is actually a virtue)",
+    "timeToMaturity": "First significant bloom in years 2-3; some bloom possible year 1",
+    "lifespan": "Very long-lived; decades to centuries with structural support",
+    "deciduousEvergreen": "Deciduous — light green pinnate compound leaves emerge late spring; attractive foliage through summer",
+    "winterInterest": "Low — attractive twisted vine structure visible on support; no fruit ornament"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms best in full sun; tolerates part shade with some reduction in bloom density",
+    "water": "Medium; tolerates some drought once established; also tolerates occasional flooding (consistent with its native riparian habitat). In arid western climates, regular supplemental irrigation is needed.",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates wet conditions better than most ornamental vines; also handles well-drained sites. The native range includes riparian floodplains, indicating good tolerance for periodic waterlogging. Avoid chronically saturated soil with no drainage at all, but this vine is far more forgiving of wet feet than most woody plants.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates heavy clay soils well, consistent with its native habitat in southeastern floodplain soils which are often clay-rich. The nitrogen-fixing root nodules function in clay without issue. Clay's moisture retention actually suits this species' preference for consistent moisture. In very heavy, compacted clay, loosen the planting hole and backfill with some organic matter to help initial root establishment, but ongoing amendment is not required."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; performs well in a range of soil textures from sandy loam to clay. Does not require rich soil; excess nitrogen actually suppresses bloom and produces lush foliage instead — avoid high-nitrogen fertilizers or heavily amended soils near this plant.",
+    "rootCharacter": "Deep, spreading root system; twining stems grip support structures; nitrogen-fixing root nodules (Fabaceae family — fixes atmospheric nitrogen)"
+  },
+  "bloom": {
+    "bloomTime": "May-June (primary flush); reblooms intermittently through summer — a key advantage over Asian wisterias which typically bloom once",
+    "bloomDescription": "Pendant racemes 4-6\" long of fragrant violet-purple flowers; racemes are shorter than Asian wisteria (which can reach 18-24\") but are produced more freely and on new wood, enabling rebloom; color is a rich amethyst-violet",
+    "fragrance": "Moderately fragrant; sweet, slightly musky; not as intensely fragrant as W. sinensis but pleasant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bumblebees are the primary pollinators (the tubular flowers are well-suited to large bees); also attracts hummingbirds"
+  },
+  "yield": {
+    "edibleParts": "Flowers reportedly edible in small quantities in some cultures; NOT recommended — all other parts are toxic and there is insufficient evidence to recommend flower consumption; best treated as non-edible",
+    "harvestSeason": "N/A",
+    "medicinalUses": "None — AVOID; toxic plant",
+    "craftOtherYield": "Dried seed pods (ornamental)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "TOXIC — all parts, especially seeds and seed pods, contain wisterin (a glycoside) and lectin; ingestion causes nausea, vomiting, abdominal pain, and can be serious in children; the attractive seed pods are a risk for small children. Consider placement carefully relative to child access.",
+    "toxicityAnimals": "TOXIC to dogs and cats — seed pods and seeds cause vomiting, diarrhea, and potentially more serious effects; horses may be affected similarly. Place with awareness of pet access.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "vine",
+      "description": "Vine"
+    },
+    "roles": [
+      "Beauty (primary — spectacular flowering vine)",
+      "Nitrogen Fixer (Fabaceae; root nodules fix atmospheric nitrogen — an important guild function)",
+      "Insect Attractor (bumblebees, hummingbirds)",
+      "Structure / Screening"
+    ],
+    "companionPlants": [
+      "Compatible with most garden plants as it occupies vertical space rather than competing for ground space; plant nitrogen-hungry companions nearby to benefit from the nitrogen-fixing function"
+    ],
+    "antagonists": [
+      "Avoid planting near small or young trees where the vine could smother branches. Ensure structural support is very strong — mature wisteria vines are powerful and heavy. Do not underestimate the long-term weight and strength."
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (primary — the tubular flowers are sized for large bees), hummingbirds, butterflies; seed pods eaten by some birds and small mammals",
+    "hostPlantFor": "Wild indigo duskywing (Erynnis baptisiae) and other skippers are reported to use Wisteria species; not a primary host plant but some native Lepidoptera will use it",
+    "nestingHabitat": "Dense vine growth on support provides excellent nesting sites for birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — wisteria is generally avoided by deer due to toxicity (wisterin glycoside); not a primary browse target. Young plants may still be damaged by deer rubbing or incidental browsing — protect with fencing or caging for the first 1-2 years until the woody stems are established. Once the vine is growing on its support structure above browse height, deer are not a concern."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light spray; not suited for direct roadside planting or heavy maritime salt exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — the deep root system provides some resilience, but this species naturally occurs in moist habitats and performs best with consistent moisture; supplemental water during extended dry spells improves bloom quality"
+    },
+    "other": "Cold hardiness is reliable to Zone 5. Tolerates humidity well (native to the humid Southeast). Wind tolerance is moderate — the vine itself is flexible, but the support structure must be engineered for local wind loads. Much more manageable than Asian wisteria — does not root-sucker invasively or cause structural damage as readily."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — twice-annual pruning is key to bloom performance",
+    "pruningNotes": "THE most important maintenance task is the two-cut pruning system: Cut 1 — immediately after spring bloom (June), shorten all lateral growths to 5-6 leaves from the main stem. Cut 2 — late winter (February), cut the same laterals back further to 2-3 buds. This stimulates the development of flowering spurs on the laterals and is what produces reliable annual bloom. Without regular pruning, the vine blooms irregularly and becomes unruly. Train the main framework carefully in early years; tie in new shoots as they extend. Provide very strong structural support — a mature wisteria can weigh hundreds of pounds.",
+    "propagationMethods": [
+      "Layering (most reliable — peg a low stem to the ground until rooted)",
+      "stem cuttings (semi-hardwood in summer)",
+      "seed (slow — may not bloom true to parent; not recommended for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "'Amethyst Falls' is the primary named selection of W. frutescens and widely considered the best cultivar for garden use across the entire hardiness range (Zones 5-9). It was selected for reliable early bloom (earlier than the species), vigorous rebloom on new wood, and slightly more compact habit. Other selections: 'Nivea' is a white-flowered form; 'Longwood Purple' offers longer racemes. For southern gardeners (Zones 8-9), the closely related W. macrostachya 'Blue Moon' is sometimes preferred for its even longer racemes and extreme cold hardiness, though it performs equally well in northern zones. In Zones 3-5, 'Blue Moon' (W. macrostachya) may be the safer choice as it is rated to Zone 3, while 'Amethyst Falls' is rated to Zone 5. In Zones 6-7, either cultivar is excellent; 'Amethyst Falls' tends to have a more compact growth habit.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Climbing vine on sturdy support structure (pergola, arbor, trellis against wall, obelisk)",
+      "focal point feature",
+      "privacy screen"
+    ],
+    "designPlacement": "Train on a robust, permanent support structure — metal trellis, timber arbor, or engineered pergola. Place where the pendant flower racemes can hang freely and be viewed at or above eye level for maximum impact. Full sun exposure on the support face yields the best bloom. Keep away from gutters, shutters, and surfaces where the twining stems could cause damage. Allow adequate clearance from neighboring shrubs — wisteria will smother adjacent plants if not pruned. The violet-purple flowers pair well with yellow, gold, and chartreuse companion plantings. STRUCTURAL NOTE: the support structure is a permanent installation — a mature wisteria can weigh hundreds of pounds and exert significant twisting force; design accordingly.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wisteria_frutescens",
+    "inaturalist": "https://www.inaturalist.org/taxa/51266-Wisteria-frutescens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=370856"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to Pennsylvania. The species' native range extends north to Virginia and does not include PA, though it approaches the PA border and is fully hardy well into Zone 5. Widely cultivated in PA without any naturalization concerns.",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania. Not on the PA noxious weed list or DCNR invasive species list. Note: the Asian species W. sinensis and W. floribunda ARE listed as invasive in PA — ensure correct species identification when sourcing.",
+      "drainage": "Hegins red clay is a good match for this vine — the moisture-retentive clay suits its riparian origins. No raised bed needed. At planting, break up the compacted clay in a generous planting hole and amend with compost to help initial root establishment. Once established, the deep root system handles the native clay without difficulty.",
+      "soil": "Hegins clay soil is acceptable without major amendment. The slightly acidic pH typical of central PA red clay falls within the preferred range. Do not over-amend with compost or manure — the nitrogen-fixing capability means this vine produces its own nitrogen, and excess soil nitrogen suppresses flowering.",
+      "cultivarNotes": "'Amethyst Falls' is the correct choice — fully hardy, non-invasive native parentage, reliable rebloom, and the violet-purple color fits a purple/yellow color scheme.",
+      "designPlacement": "Section A — north-facing front bed stairway zone. Train on a sturdy support structure flanking the stairway or on the house wall itself (ensure siding is protected with a stand-off trellis). Provides the vertical element and spectacular spring bloom that marks the entry. The violet-purple flowers work in the purple/yellow color theme. HEIGHT NOTE: Can easily exceed 5' — the vertical structure above the stairway is the exception to the general 5' height limit; train strictly to the support structure and prune rigorously to prevent spreading into neighboring shrubs.",
+      "siteObservations": "Protect the root zone with mulch during the first winter to help establishment in Zone 6a; established plants are reliably cold hardy here. The north-facing aspect of Section A means reduced winter sun but adequate summer light for bloom. Deer are not expected to be a problem given the toxicity, but cage the young vine for the first season as a precaution against physical damage from deer activity near the stairway. Ensure whatever support structure is installed can handle decades of increasing vine weight — plan for a permanent installation from the start."
+    }
+  }
+}

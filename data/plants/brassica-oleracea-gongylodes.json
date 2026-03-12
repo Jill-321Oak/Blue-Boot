@@ -1,0 +1,153 @@
+{
+  "id": "brassica-oleracea-gongylodes",
+  "name": {
+    "commonName": [
+      "Kohlrabi"
+    ],
+    "latinName": "Brassica oleracea var. gongylodes",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Not found in the wild; a cultivated form of Brassica oleracea developed from wild cabbage native to coastal Western Europe; cultivated in Europe since at least the 16th century",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; a domesticated annual crop with no native presence anywhere in North America"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state; a domesticated annual that does not self-seed aggressively and poses no escape or spread risk; no invasive listing in any state"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2–11 as a cool-season annual; grown in spring and fall in all temperate climates; heat, not cold, is the limiting factor"
+    }
+  },
+  "description": {
+    "height": "0.75–1 foot for the leafy crown; the swollen stem sits just above soil level and typically reaches 2–5 inches in diameter at harvest (up to 8–10 inches for giant varieties)",
+    "spread": "0.75–1 foot per plant; compact footprint makes it efficient in raised beds",
+    "spacing": "4–6 inches apart in rows 18 inches apart; tighter spacing (4\") produces slightly smaller bulbs, which is fine for the kitchen; the compact habit means kohlrabi is one of the highest-yield-per-square-foot brassicas",
+    "growthRate": "Very fast — among the quickest cool-season vegetables; 45–60 days from transplant to harvest; this speed is one of kohlrabi's defining practical advantages and what makes two full crops per season genuinely easy to achieve",
+    "timeToMaturity": "45–60 days from transplant (35–45 days for some early varieties); faster than cabbage, broccoli, or Brussels sprouts by a wide margin; a true quick-turnaround crop",
+    "lifespan": "Annual; completes its life cycle in one season; flowers and sets seed if left past harvest, at which point the swollen stem becomes woody and inedible",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None; not applicable for an annual vegetable"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — minimum 6 hours; 8 hours ideal for fastest growth and best bulb development; tolerates very light partial shade but growth slows noticeably; do not plant in a location with significant summer shade",
+    "water": "Medium; consistent, even moisture produces the best quality bulbs; irregular watering (wet-dry cycles) can cause cracking of the swollen stem and toughening of the flesh; aim for evenly moist soil throughout the growing window; mulch helps moderate moisture and soil temperature",
+    "drainagePreference": {
+      "description": "Well-drained preferred; not as drainage-sensitive as root vegetables since the edible part develops above ground; tolerates average clay soil better than most brassicas for this reason; still benefits from raised beds in heavy clay for improved moisture management",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Better than most brassicas — the edible swollen stem develops above the soil surface and is not constrained by compacted or waterlogged subsoil the way a carrot or parsnip would be; in native clay, raised beds with amended topsoil remain preferable for moisture management, but kohlrabi will produce acceptably in reasonably amended in-ground clay beds"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0; slightly acidic to neutral; important note — Brassica family plants prefer pH at or near neutral; soil below 6.0 increases clubroot risk; lime heavy clay soils if needed"
+    },
+    "texturePreference": "Organically rich, consistently moist, well-drained loam is ideal; kohlrabi's clay tolerance is notably better than most brassicas because the edible swollen stem develops above the soil surface — it is not constrained by compacted subsoil the way a carrot or beet would be; raised beds with amended topsoil are still preferable for even moisture, but kohlrabi will grow in reasonably amended clay and produce well",
+    "rootCharacter": "Shallow, fine root system; not a deep feeder; roots spread near the soil surface beneath the above-ground swollen stem; this shallow root character means kohlrabi is sensitive to soil crust and competition — keep mulched and weed-free"
+  },
+  "bloom": {
+    "bloomTime": "Late spring to summer if bolting occurs (plant sets flower stalk when stressed by heat or left past harvest maturity)",
+    "bloomDescription": "Small yellow four-petaled flowers typical of the mustard family (Brassicaceae); produced on tall branching stalks; not ornamentally significant; a bolted kohlrabi is past eating and should be pulled",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated; cross-pollinates freely with other Brassica oleracea varieties (cabbage, broccoli, kale, etc.); relevant only if saving seed; for edible production, prevent bolting rather than manage it"
+  },
+  "yield": {
+    "edibleParts": "The swollen stem (commonly but incorrectly called a \"bulb\" — it is technically an enlargement of the stem above the soil line, not a root or true bulb) is the primary edible part; dense, crunchy, and juicy with a mild, slightly sweet flavor — often described as the best parts of a broccoli stem, but more refined and less fibrous; excellent raw (peeled and sliced, in slaws, crudités, or snacking) or cooked (roasted, stir-fried, soup, gratin); the leaves are also fully edible and nutritious, similar to kale or collard greens, and should not be wasted. The entire plant is useful from root to leaf tip — an unusually high-utility vegetable.",
+    "harvestSeason": "Spring crop: transplant 4–6 weeks before last frost, harvest 45–60 days later before summer heat arrives; fall crop: transplant 10–12 weeks before first fall frost, harvest as temperatures cool in autumn. Two complete crops per season are achievable across most of the lower 48 in Zones 4–9. Harvest at 2–3 inches in diameter for best texture and flavor — this is the sweet spot where the flesh is crisp, juicy, and sweet with no hint of woodiness. Bulbs of 4–5 inches are still acceptable, especially in standard varieties. Beyond 5 inches, most standard varieties become fibrous, pithy, and woody at the core — flavor declines sharply and the texture becomes unpleasant. Exception: giant varieties (Kossak, Superschmelz) are bred specifically to remain tender at 6–10 inches diameter; these are entirely different in this regard and can be left much longer. Pick on the young side when in doubt — kohlrabi rewards attentiveness.",
+    "medicinalUses": "High in vitamin C, potassium, and glucosinolates (the sulfur compounds characteristic of brassicas, associated with cancer-preventive properties in nutritional research); good dietary fiber; not used medicinally in a traditional herbalism sense, but nutritionally dense",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; fully edible throughout; no toxic compounds of concern",
+    "toxicityAnimals": "Low concern; brassicas in large quantities can cause digestive upset in dogs and flatulence in any animal; not a meaningful hazard; do not feed large quantities to pets but incidental contact is harmless",
+    "allelopathy": "None known; grows well with most vegetables in a diverse raised bed system",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual vegetable layer)"
+    },
+    "roles": [
+      "Annual Food Crop (primary — fast, productive, two crops per season)",
+      "Succession Planting Crop (ideal for filling gaps between other plantings; its speed makes it perfect for interstitial planting windows)",
+      "Nitrogen Consumer (moderate feeder; benefits from compost-amended beds)",
+      "Beginner Brassica (lowest-barrier entry point into the brassica family; establishes a foundation for growing more demanding crops like cabbage or Brussels sprouts)"
+    ],
+    "companionPlants": [
+      "Beets",
+      "onions",
+      "and aromatic herbs (dill, chamomile, sage) are traditional brassica companions; bush beans are generally compatible; marigolds (Tagetes) for nematode suppression and flea beetle deterrence; nasturtiums as a trap crop for aphids; celery traditionally considered beneficial near brassicas"
+    ],
+    "antagonists": [
+      "Tomatoes and strawberries — traditionally considered inhibitory to brassicas; avoid planting pole beans in the same bed (said to inhibit brassica growth); fennel is broadly allelopathic to most vegetables and should be kept away from all brassicas; do not follow brassicas with brassicas — rotate to a different plant family each season to break pest and disease cycles (clubroot in particular builds up in soil over time)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators if allowed to flower (four-petaled yellow Brassicaceae blooms attract small bees and beneficial insects); not a significant wildlife plant; the edible window comes before bloom",
+    "hostPlantFor": "Imported cabbageworm (Pieris rapae, the white cabbage butterfly), cabbage looper (Trichoplusia ni), and diamondback moth (Plutella xylostella) — the standard brassica Lepidoptera pest complex; kohlrabi is somewhat less attractive to these than heading cabbage or broccoli but is not immune; Bt (Bacillus thuringiensis) is effective and appropriate when larvae are observed; harlequin bug and flea beetle are also potential pests",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — kohlrabi is a brassica and deer will browse it, but it is not a primary high-preference target the way lettuce or beans are; the compact low habit and relatively short growing season reduce exposure time; the same basic precautions that apply to other brassicas apply here (row cover, fencing, or growing under a tunnel); for a short spring or fall crop in a managed raised bed, browsing risk is real but manageable; do not leave maturing plants unprotected overnight in high-deer-pressure areas"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not suited to roadside or salt-spray environments; avoid planting within direct salt drift distance of heavily treated winter roads"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; kohlrabi is a cool-season crop and is not asked to perform during hot dry weather; within its season it prefers consistent moisture; water stress during bulb development leads to cracking and toughening of the flesh; mulch is the best mitigation"
+    },
+    "other": "Heat is the primary limiting factor — plants perform poorly and bolt (go to seed) when daytime temperatures consistently exceed 75–80°F; this is why spring and fall timing is so important; spring crops should be timed to mature before summer heat arrives; fall crops gain quality as temperatures drop; light frost does not harm kohlrabi and can actually improve sweetness (similar to kale)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the least demanding vegetables in the cool-season garden; set and forget for 6–8 weeks; minimal pest pressure relative to other brassicas; forgiving of minor neglect; rarely fails; a reliably successful crop for beginners and experienced gardeners alike",
+    "pruningNotes": "No pruning required. Remove lower yellowing leaves as needed to improve air circulation. Monitor for cabbage worms and apply Bt (Bacillus thuringiensis var. kurstaki) if caterpillars are observed — this is effective, organic, and does not harm beneficial insects; it only requires direct contact with the pest. Flea beetle pressure can be heavy in early spring; row cover at transplant time is the most effective prevention. Pull plants immediately once bulbs exceed ideal harvest size or after a heat event causes bolting — overgrown or bolted kohlrabi does not improve and takes up space needed for succession plantings. Succession plant every 3 weeks through spring and again through late summer for continuous harvest.",
+    "propagationMethods": [
+      "Transplants (preferred — start seeds indoors 4–6 weeks before target planting date; transplant at 3–4 weeks old; starting indoors allows timing control and earlier establishment); Direct sow (viable — sow 2–4 weeks before last frost in spring, or 8–10 weeks before first fall frost; direct-sown plants need slightly longer to mature); Container seed starting is easy and low-effort — kohlrabi germinates quickly (5–7 days at 60–70°F) and requires no special treatment"
+    ]
+  },
+  "cultivarNotes": "Kohlrabi divides broadly into standard-size varieties (harvest at 2–3 inches) and giant varieties (bred to remain tender at 6–10 inches). Both have a place in the garden. Standard varieties suit short windows and succession planting across all zones; giant varieties are best for fall storage crops in Zones 4–7 where a long cool autumn allows the extra maturation time. In warm-winter zones (8–11), fall planting extends into winter and giant varieties may not have sufficient cool time to reach full size — standard types are safer. In very short-season zones (3–4), prioritize the fastest standard varieties (35–45 days) and skip giants unless the fall window is reliably long. Across Zones 5–7, where most US kohlrabi is grown, both standard and giant varieties perform without compromise.\n**Standard Green:**\n**'White Vienna'** — The classic heirloom; light green skin, white flesh; mild, sweet flavor; widely available; reliable and fast; an excellent default for spring and fall planting across all zones. **'Quickstar'** — A high-performance modern hybrid; very uniform, slightly earlier than White Vienna; good disease resistance; recommended for succession planting where consistency matters.\n**Standard Purple:**\n**'Purple Vienna'** — The purple-skinned counterpart to White Vienna; same white flesh and flavor; skin color does not affect taste; ornamentally interesting in the garden; good for visual variety. **'Kolibri'** — Modern purple hybrid; more uniform and slightly earlier than Purple Vienna; excellent quality; one of the best all-around standard purple varieties for home gardens; highly recommended across all zones.\n**Giant Varieties (for large bulbs and root cellar storage):**\n**'Kossak'** — The benchmark giant kohlrabi; green skin; reaches 8–10 inches in diameter and remains tender and sweet without woodiness; bred for large-scale production but equally excellent in the home garden; the primary recommendation for anyone wanting to grow kohlrabi for winter storage; harvest in fall and store in a root cellar or cool garage for 2–3 months. **'Superschmelz'** — Another giant variety similar to Kossak; pale green; very large, very tender; excellent for fresh use and storage alike. Giant varieties take 5–10 days longer than standard types — plan fall timing accordingly for your specific zone's first frost date.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary use); succession planting between other crops; spring and fall cool-season bed anchor; excellent beginner vegetable; storage crop for root cellar or refrigerator when giant varieties are grown"
+    ],
+    "designPlacement": "Kohlrabi's compact size (under 12 inches tall and wide) makes it extremely flexible in the raised bed layout. It suits any full-sun raised bed system across the lower 48. Because its swollen stem develops above ground, it is not constrained by clay subsoil — it performs in raised beds with good amended topsoil regardless of what lies beneath. Succession plant every 3 weeks from 4–6 weeks before last frost through mid-spring, and again from 10–12 weeks before first fall frost through late summer. At 4–6 inches spacing, a single 4x8 raised bed can support 20–30 plants per planting and produce a continuous harvest. Consider devoting half a raised bed to a succession-planted kohlrabi-and-arugula fast-crop combination, rotating through the cool months. Plant a dedicated fall batch of Kossak for storage. In higher-deer-pressure situations, row cover or a simple wire cage frame over the bed provides practical protection while also extending the shoulder-season growing window with additional warmth.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations: Kohlrabi is one of the most underrated, most beginner-friendly, and most reliably successful vegetables for a Zone 6a kitchen garden. It grows faster than almost any other brassica, tolerates heavier soil than root vegetables, produces two full crops per season without strain, and almost never fails. The flavor — crisp, mild, faintly sweet, somewhere between broccoli stem and turnip but better than either — rewards fresh eating right from the garden. The main siting considerations at Hegins are timing (beat the summer heat in spring; start fall transplants by early August) and deer protection (row cover is the simplest solution and doubles as a season extender). No other brassica is as forgiving of conditions or as quick to reward a new grower. This should be one of the first vegetables planted in the Hegins raised beds."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kohlrabi",
+    "inaturalist": "https://www.inaturalist.org/taxa/371828-Brassica-oleracea-gongylodes",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257407&isprofile=0&chr=19"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; a cool-season annual vegetable crop with no naturalized presence",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Hegins clay is red, compacted, and poorly drained after rain; raised beds with amended topsoil are strongly preferred; kohlrabi's above-ground development makes it more forgiving than root crops in this soil type, but direct in-ground planting in unamended clay is not recommended",
+      "soil": "Hegins soil is red clay, compacted, and construction-disturbed; raised beds with amended topsoil are the correct growing environment for kohlrabi at this site; do not attempt in-ground planting in unamended native soil; with raised beds, kohlrabi performs reliably and the clay subsoil is irrelevant to crop performance",
+      "cultivarNotes": "'Kolibri' (purple, standard) for spring and summer fresh eating; 'White Vienna' or 'Quickstar' for the bulk of the spring and fall succession crop; 'Kossak' for a fall planting dedicated to root cellar storage. Growing all three categories gives the widest range of harvest windows, visual interest, and storage capacity.",
+      "designPlacement": "Plant in any full-sun raised bed; both spring and fall crops are reliably achievable in Zone 6a. Spring: transplant early April, harvest late May through June before summer heat. Fall: transplant late July through early August, harvest September through October. Row cover or wire cage frames recommended given active deer pressure from the east wildlife corridor; row cover also extends the growing window in both directions. Plant Kossak in a dedicated fall bed for root cellar storage. The clay subsoil is irrelevant to performance — raised beds with amended topsoil are the correct growing environment and eliminate all drainage and compaction concerns.",
+      "siteObservations": null
+    }
+  }
+}

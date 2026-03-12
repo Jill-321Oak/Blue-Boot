@@ -1,0 +1,151 @@
+{
+  "id": "grifola-frondosa",
+  "name": {
+    "commonName": [
+      "Hen of the Woods",
+      "Maitake",
+      "Sheep's Head",
+      "Dancing Mushroom"
+    ],
+    "latinName": "Grifola frondosa",
+    "family": "Meripilaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread across eastern North America, Europe, and Asia; native to the temperate hardwood forests of the eastern United States and Canada, extending from Maine through the Great Lakes and south through the Appalachian region into the Carolinas and beyond wherever mature oaks are present; also native to temperate Europe and eastern Asia (Japan, China, Korea), where it has a long cultural history as a culinary and medicinal mushroom",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern United States from the Great Lakes to the Gulf Coast and from the Atlantic seaboard west to the eastern Great Plains; most abundant in the Appalachian region, the Ohio River valley, and the mid-Atlantic and northeastern states; occurs wherever mature oaks (especially white oak and red oak) are present; not native to the western US, Pacific Northwest, or Southwest, though isolated occurrences on transplanted oaks are occasionally reported"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — G. frondosa is a native fungal species in the eastern US and poses no invasive risk anywhere in the lower 48; it is an obligate associate of hardwood root systems (primarily oaks) and cannot spread independently of its host trees; not listed on any state noxious species list or USDA invasive database"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "Not applicable — a fungal species that occurs across a wide climate range (roughly Zones 4-8) wherever host oaks are present; fruiting is driven by autumn cooling and moisture rather than by hardiness zone per se"
+    }
+  },
+  "description": {
+    "height": "Individual fan-shaped caps 1-4\" wide; the full rosette cluster 8-24\" tall; a mature specimen is a dramatic mounded mass of overlapping fronds at the tree base",
+    "spread": "Large rosette clusters 12-36\" across; exceptional specimens can spread 3 feet or more; mycelium extends throughout the root system and lower wood of the host tree",
+    "spacing": "Not cultivated in the traditional sense; for chip bed cultivation, prepare a bed 3-4 feet in diameter adjacent to a living or cut oak stump",
+    "growthRate": "Fruiting bodies emerge rapidly in cool, moist fall conditions; a full-sized hen of the woods can develop from first emergence to harvest-ready size in 5-10 days; growth is fastest in the 55-65°F range",
+    "timeToMaturity": "In the wild, fruiting occurs annually from established mycelium; the same tree or stump will fruit every year once colonized — the mycelium forms a long-lived perennial structure; inoculated wood chip beds may begin producing in 1-3 years",
+    "lifespan": "The mycelium persists in the root system and lower wood for many years, potentially decades; individual fruiting bodies are ephemeral (7-14 days from emergence to decline); wild harvest locations are essentially permanent once established — mark them and return each fall",
+    "deciduousEvergreen": "Not applicable; mushroom organism; fruiting coincides with oak leaf senescence in autumn",
+    "winterInterest": "None — fruiting is strictly a fall phenomenon; mycelium overwinters in the host wood and roots"
+  },
+  "lightAndWater": {
+    "sun": "Not applicable; the fruiting bodies emerge in any light condition present at the base of oaks; partial to full shade in mature forest understory is the natural habitat",
+    "water": "Fruiting is triggered by the combination of cooling temperatures and late-summer/fall rainfall; a dry September can suppress or delay fruiting regardless of region; the mushroom draws primarily on moisture reserves in the wood and root system; supplemental moisture to inoculated chip beds supports establishment",
+    "drainagePreference": {
+      "description": "Not applicable in the traditional soil-drainage sense — the fungus is rooted in the wood and roots of its host, not in soil; for chip bed cultivation, avoid waterlogged beds which encourage bacterial contamination; chip beds should be placed on ground that does not pond after rain",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not directly relevant — G. frondosa grows in wood and root tissue, not in soil; however, chip beds established over heavy clay soils should be raised or mounded slightly to prevent water pooling at the base of the chip layer, since clay impedes drainage beneath the bed and can create anaerobic conditions that favor bacterial contamination over fungal colonization; gardeners on clay soils should ensure the chip bed is at or above grade, not in a depression"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood and root tissue, not soil; the pH of the surrounding soil does not affect G. frondosa colonization or fruiting"
+    },
+    "texturePreference": "Not applicable to soil texture; strongly associated with oak root systems and lower trunk wood; also grows from buried oak root fragments extending well away from the visible tree base; chip beds using hardwood chips (primarily oak) provide the best artificial substrate; the substrate itself — not the soil beneath — is what matters for this organism",
+    "rootCharacter": "Mycelium (white to cream fungal threads) pervades the root system and lower heartwood of the host tree; G. frondosa causes a white rot of the wood; the mycelial structure at the tree base forms a dense, long-lived mass from which fruiting bodies emerge each year; not a true parasite — it primarily colonizes stressed, dying, or dead root wood and does not kill healthy trees"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: September-October is peak across most of the eastern US; occasionally August in cool years or November in warm years; fruiting is tightly correlated with the onset of autumn cooling and senescence of oak leaves; timing shifts earlier at higher latitudes (late August in northern Minnesota) and later in the South (November in the Carolinas)",
+    "bloomDescription": "Fruiting bodies are large, dramatic rosette clusters of overlapping fan-shaped caps radiating from a central base; individual caps are gray to gray-brown on top, white to cream on the underside (pore surface); caps have a wavy, irregular edge; the entire cluster has a layered, feathered appearance — the \"hen of the woods\" resemblance is to the ruffled feathers of a sitting hen; mature specimens are among the largest fruiting bodies of any temperate edible mushroom, weighing 5-50 lbs",
+    "fragrance": "Distinctive earthy, woodsy, complex mushroom scent; stronger and richer than oyster or chicken of the woods; the aroma intensifies dramatically when the mushroom is cooked; dried maitake powder has an intense, savory, almost truffle-like depth",
+    "flowerSex": "Not applicable — sporing organism; white spores released from the pore surface on the underside of caps",
+    "pollination": "Not applicable; spore dispersal by wind"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (entire rosette — caps and most of the stem base) — one of the finest and most prized edible wild mushrooms in North America and Japan; the flavor is rich, earthy, and complex with a slightly peppery finish; the texture is firm and meaty, holding up well to high-heat cooking unlike more delicate fungi; excellent sautéed in butter, added to soups and broths, used in risotto, stir-fried, or roasted; the intense flavor means a small amount goes far; nutritionally excellent — high in protein, B vitamins, vitamin D, potassium, and beta-glucans",
+    "harvestSeason": "September-October across most of the eastern US; harvest when the individual caps are firm, the flesh is white and clean, and the pore surface underneath is white and tight; the tips of the caps should not yet be turning tan or brown, which signals aging; use a knife to cut the cluster cleanly at its base; brush off debris; a single large specimen can weigh 10-30 lbs and provide a week of mushroom meals for a family; store refrigerated for up to 1 week fresh, or dry immediately for long-term storage",
+    "medicinalUses": "One of the most extensively studied medicinal mushrooms in the world; the D-fraction — a standardized beta-glucan extract from G. frondosa — has been studied in multiple clinical trials as an immune modulator and cancer adjunct therapy, particularly in combination with conventional treatments; documented ability to regulate blood glucose levels, making it of significant interest for type 2 diabetes management; anti-hypertensive compounds present; broadly anti-inflammatory; adaptogenic properties; among the strongest medicinal profiles of any wild or cultivated edible mushroom; regular dietary use of maitake (fresh, dried, or as powder) is a meaningful health practice, not merely supplemental; maitake powder blended into soups, broths, or coffee is a practical daily-use format",
+    "craftOtherYield": "Dried maitake (slice thin and dry at low heat; stores for 1-2 years; flavor concentrates dramatically); maitake powder (grind dried slices; use as a soup base, seasoning, or tea; medicinally potent format); the dried and powdered form is one of the highest-value products a property can produce from a single large annual wild harvest"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered very safe and well-tolerated; G. frondosa is a widely eaten mushroom with a long history of safe consumption in both North America and Japan; as with all wild mushrooms, thorough cooking is recommended; a very small number of individuals may experience mild GI sensitivity; positive identification is required before eating — though G. frondosa has no dangerous lookalikes in eastern North America (see Cultivar Notes for the one minor lookalike to be aware of)",
+    "toxicityAnimals": "Generally considered safe; the same identification precaution applies; cooked maitake is fine for dogs in moderate quantities",
+    "allelopathy": "The white rot caused by G. frondosa decomposes the lignin and cellulose of the host root wood; this is a natural process contributing to humus formation; it does not kill healthy trees but colonizes stressed, aging, or dead roots; not allelopathic in the soil sense; the mycelium does not significantly compete with garden plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (premium gourmet edible — exceptional productivity from a single annual harvest)",
+      "Medicinal (one of the strongest medicinal mushroom profiles available from a wild-harvested or cultivated species)",
+      "Soil Builder (white rot decomposition converts locked lignin to bioavailable nutrients and humus)",
+      "Nutrient Cycling (accelerates breakdown of root wood and chips, feeding adjacent plants)",
+      "Indicator Species (presence of G. frondosa at an oak's base indicates a mature or aging tree and a well-established fungal community in the soil — a sign of ecological health in a food forest)"
+    ],
+    "companionPlants": [
+      "Quercus species (white oak, red oak, chestnut oak — the primary host and companion; mature oaks are required habitat; the relationship is the keystone of this species' production system); Stropharia rugosoannulata (wine cap mushroom — complementary ground-layer fungus in the same fungal guild; wine cap colonizes wood chips while maitake colonizes root systems; together they occupy distinct substrate niches in the same guild); Pleurotus ostreatus (oyster mushroom — log culture companion in the broader food forest fungal layer)"
+    ],
+    "antagonists": [
+      "Competing mold contamination in artificial chip beds; bacterial wet rot in waterlogged beds; the main wild production antagonist is a dry September-October which suppresses fruiting — nothing to be done about this"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (numerous beetles, flies, and other invertebrates are associated with large bracket fungal fruiting bodies and the decaying root wood they inhabit); squirrels and other small mammals readily eat maitake fruiting bodies — in a good hen of the woods year, wildlife competition for the harvest is real and early monitoring of known sites is advisable; deer will occasionally browse large fruiting bodies",
+    "hostPlantFor": "Many invertebrates breed in the root wood substrate and in the fruiting bodies themselves; the decaying wood community within the root system supports a complex invertebrate food web",
+    "nestingHabitat": "The decaying root wood and lower trunk wood hosting the mycelium provide extensive habitat for wood-boring beetles and other invertebrates; indirectly supports woodpecker and nuthatch foraging activity"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable in the traditional sense; deer will occasionally eat maitake fruiting bodies; at large specimen size this is minor browsing; at smaller specimens it can mean losing the entire harvest; in areas with heavy deer pressure, early and frequent monitoring of known fruiting sites during September-October is the best strategy — harvest promptly when specimens reach usable size rather than waiting for maximum growth"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting significantly suppressed by drought; a dry August and September can prevent fruiting entirely in a given year regardless of region; the mycelium persists and will resume fruiting in subsequent years with adequate moisture; known locations should be checked every year regardless — weather patterns vary"
+    },
+    "other": "G. frondosa is one of the most rewarding wild edibles across the eastern US precisely because of its predictability — the same locations fruit every year with minimal variation; once a productive tree or stump is located, it is a reliable annual harvest point for decades"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially none for wild harvest; low for maintained chip beds",
+    "pruningNotes": "Harvest the entire rosette cleanly at its base when caps are at peak; leave a small portion of the very base (the dense white stem base) intact to allow the mycelium to continue fruiting in future years — do not dig up or disturb the root zone; mark every productive wild location with a discreet physical marker and a note on a map; return annually in late September; check chip beds for mycelial colonization (white threads visible in chips) before fruiting season as confirmation the bed is active",
+    "propagationMethods": [
+      "Wild harvest requires only location scouting — survey mature oaks on and adjacent to the property beginning in late September; look at the base of the trunk at ground level",
+      "and also check several feet away from the trunk along surface roots; fruiting bodies may be partially hidden under leaf litter. Artificial cultivation using hardwood chip beds: prepare a bed 3-4 feet in diameter adjacent to a living or recently cut oak stump; layer hardwood chips (preferably oak) 4-8\" deep; inoculate with sawdust or chip spawn from a reputable supplier; water in well; the bed will slowly colonize over 1-2 years and may begin fruiting in year 2 or 3; less reliable than log culture for oyster mushrooms but functional when established adjacent to an existing oak root system. Inoculated oak log sections buried partially in soil near living oaks is an alternative approach; the buried wood provides a substrate bridge between the introduced mycelium and the oak root system. Purchase spawn from reputable suppliers (North Spore, Field & Forest, Fungi Perfecti)."
+    ]
+  },
+  "cultivarNotes": "No named cultivars. G. frondosa is the single edible species in the genus for eastern North America. The only potential confusion species is Meripilus sumstinei (black-staining polypore), which grows in similar locations at oak bases, produces large rosette clusters, but stains black when cut or bruised — it is considered edible by some and inedible by others but is not dangerous; the black-staining reaction makes it easy to distinguish from G. frondosa, which does not stain. No truly dangerous lookalikes exist for maitake in eastern North America — this is one of the safest large wild mushrooms for beginner identification. Spawn strains from cultivation suppliers are typically selected for vigor and fruiting reliability rather than for climate-specific performance; any commercially available maitake spawn will perform across Zones 4-8 as long as a suitable oak host or oak chip substrate is present.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wild harvest from existing oaks on or adjacent to the property; fungal layer in oak tree guilds; inoculated chip bed adjacent to oak stumps; annual wild harvest monitoring program"
+    ],
+    "designPlacement": "Fungal layer associated with mature oaks — survey all oaks of mature size (12\"+ trunk diameter) on the site and along adjacent woodland edges each fall; establish a monitoring map marking each oak surveyed and whether maitake was found; once a producing tree or stump is identified, that location becomes a permanent annual harvest point. For active cultivation: establish a hardwood chip bed adjacent to any oak stump using maitake sawdust or chip spawn; the chip bed integrates naturally into a food forest floor layer alongside Stropharia rugosoannulata (wine cap) beds. The combination of wild harvest monitoring and one or two managed chip beds creates the most productive approach — prioritize finding wild locations first, as they are by far the more productive source.",
+    "acquisitionStatus": "Wild harvest — scout existing oaks (no acquisition needed); spawn available from mushroom cultivation suppliers for chip bed inoculation"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grifola_frondosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/53714-Grifola-frondosa",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — G. frondosa is native to Pennsylvania and common throughout the state; found reliably at the base of mature and aging oaks, especially white oak and red oak; it is one of the most frequently encountered large edible fungi in the Pennsylvania landscape and may already be present on or adjacent to the Hegins property on any mature oaks",
+      "paInvasiveStatus": "Not invasive — native species; not regulated in Pennsylvania",
+      "drainage": "At the Hegins site, the compacted red clay means chip beds should be built up above grade rather than excavated into the clay; a 4-8\" mound of hardwood chips on top of the existing grade adjacent to an oak stump will drain adequately without needing to address the clay layer beneath; wild harvest from existing oaks is unaffected by the clay soil since the fungus lives in the tree's root wood, not in the surrounding soil",
+      "soil": "No soil preparation needed at the Hegins site for wild harvest; for chip bed cultivation, simply mound hardwood chips (preferably oak) on top of the existing grade adjacent to oak stumps; the red clay beneath the chip bed is irrelevant to the fungus as long as the bed is not sitting in pooled water",
+      "cultivarNotes": "standard commercial spawn from any major supplier (North Spore, Field & Forest, Fungi Perfecti) is appropriate; no climate-specific strain selection is needed for the Hegins site.",
+      "designPlacement": "Survey all mature oaks on and immediately adjacent to the Hegins property beginning in late September each year; the east woodland corridor is a prime scouting zone given its mature tree cover; any oak stump on the property is a candidate for chip bed inoculation; chip beds should be mounded above grade to avoid pooling on the red clay; this species does not belong in any named bed section (A/B/C) — it is a food forest and woodland-edge organism tied to oak locations wherever they occur on or near the property.",
+      "siteObservations": "Survey all mature oaks on and immediately adjacent to the property for current presence; check at the base of the trunk and along visible surface roots; the first find in a given location is the most important event — once found, that site will produce for years. Active deer pressure from the east wildlife corridor may mean occasional browsing of fruiting bodies — monitor known sites frequently during peak September-October fruiting and harvest promptly at usable size rather than waiting for maximum specimen weight. The predictability of G. frondosa makes it one of the most rewarding wild edibles for this specific Zone 6a site — the same oaks will fruit every year with minimal variation."
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "aronia-arbutifolia-brilliantissima",
+  "name": {
+    "commonName": [
+      "Red Chokeberry (Brilliantissima)"
+    ],
+    "latinName": "Aronia arbutifolia 'Brilliantissima'",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — from Maine south to Florida and west to Ohio and Missouri; naturally occurs in moist woodland edges, bogs, swamp margins, and wet thickets throughout the coastal plain and piedmont of the eastern US; a true eastern native shrub"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "6-8 ft unmanaged; requires annual pruning to stay within a 5' limit",
+    "spread": "3-5 ft",
+    "spacing": "4-5 ft",
+    "growthRate": "Moderate",
+    "timeToMaturity": "3-4 years to full ornamental display",
+    "lifespan": "Long-lived; 25+ years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "High — persistent glossy red berries remain on the plant well into winter, providing both ornamental interest and critical wildlife food when little else is available"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best fall color and berry production in full sun",
+    "water": "Medium to moist; excellent tolerance of wet and poorly drained conditions",
+    "drainagePreference": {
+      "description": "Very adaptable — one of the few ornamental shrubs that performs well in both wet and dry conditions",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent; native to moist, heavy bottomland and wetland-edge soils; one of the most clay-tolerant fruiting shrubs available; the fibrous, spreading root system handles clay conditions and periodic moisture better than most shrubs; clay soil is actually well-matched to this plant's native habitat"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 6.5,
+      "description": "5.0-6.5 (prefers slightly acidic)"
+    },
+    "texturePreference": "Highly adaptable — tolerates clay, sandy, and wet soils; one of the most soil-tolerant shrubs available",
+    "rootCharacter": "Fibrous, spreading by suckers to form colonies; requires active sucker management in formal border beds"
+  },
+  "bloom": {
+    "bloomTime": "April to May",
+    "bloomDescription": "Clusters of small white flowers with pink anthers; attractive in close view but not the spectacular show of serviceberry or viburnum",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; bees are primary pollinators"
+  },
+  "yield": {
+    "edibleParts": "Berries — edible but highly astringent fresh; best cooked or processed; excellent for jam, jelly, juice, wine, syrup, and dried fruit",
+    "harvestSeason": "September through winter (persistent on plant)",
+    "medicinalUses": "Among the highest antioxidant content of any commonly available fruit; studied for cardiovascular benefits, anti-inflammatory properties, and blood sugar regulation; increasingly recognized as a superfood crop",
+    "craftOtherYield": "Natural dye from berries (deep purple); wine and juice"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Not toxic; berries are edible though unpleasant raw due to extreme astringency — children may spit them out but are not at risk",
+    "toxicityAnimals": "Generally considered safe",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (medicinal berries)",
+      "Beauty (outstanding fall and winter display)",
+      "Wildlife Food (critical winter food source)",
+      "Insect Attractor (spring bloom)",
+      "Water Management (tolerates and helps stabilize wet areas)",
+      "Native Plant / Ecosystem Support"
+    ],
+    "companionPlants": [
+      "Winterberry holly (wet conditions companion)",
+      "comfrey",
+      "native ferns",
+      "wild ginger"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Native bees (spring bloom), cedar waxwings, robins, mockingbirds, and bluebirds (berries persist into winter providing food when few other sources remain — high ecological value)",
+    "hostPlantFor": "Several specialist native insects; native species with strong ecological relationships in eastern US plant communities",
+    "nestingHabitat": "Dense suckering multi-stem form provides good low cover and nesting sites"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally avoided by deer; one of the better deer-resistant native shrubs"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — surprisingly drought tolerant for a plant that also handles wet conditions"
+    },
+    "other": "Tolerates urban conditions, air pollution, clay soil, wet soils — exceptionally adaptable"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — suckering requires management in formal border settings",
+    "pruningNotes": "'Brilliantissima' will exceed the 5' height limit without pruning — plan for annual maintenance. Remove oldest canes to ground each late winter. Remove suckers regularly to prevent colony spread in the border bed. To maintain ornamental vase form, thin rather than shear — selective cane removal preserves the natural character better than hedge trimming.",
+    "propagationMethods": [
+      "Division of suckers (very easy — abundant supply)",
+      "softwood cuttings (early summer — reliable)",
+      "seed (cold stratification required — slow)"
+    ]
+  },
+  "cultivarNotes": "'Brilliantissima' is selected specifically for the most intense berry color and fall foliage red of any aronia selection — worth specifying by cultivar name rather than buying straight species. Important alternative: Aronia melanocarpa (black chokeberry) is naturally smaller at 3-5 ft (no height-limit pruning required), equally medicinal with black berries, and also native to PA — may be a better fit for constrained spaces with less maintenance commitment. 'Viking' is the standard named cultivar of A. melanocarpa with reliable production and compact habit.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Border specimen",
+      "native plant garden",
+      "food forest shrub layer",
+      "wet area planting",
+      "wildlife garden"
+    ],
+    "designPlacement": "Native shrub border, moist area planting, food forest shrub layer, ornamental specimen for fall color, wildlife garden",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aronia_arbutifolia",
+    "inaturalist": "https://www.inaturalist.org/taxa/151797-Aronia-arbutifolia",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Brilliantissima cultivar",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b420"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Aronia arbutifolia is native to Pennsylvania; occurs naturally in moist woodland edges and wetland margins throughout the state",
+      "paInvasiveStatus": "Not invasive in PA; a native shrub",
+      "drainage": "Hegins red clay: excellent candidate for in-ground planting; no raised bed required; clay moisture retention suits this native shrub; thrives in heavier soils",
+      "soil": "Hegins red clay is compatible; in-ground planting recommended; no amendment required beyond mulching",
+      "cultivarNotes": "'Brilliantissima' is fully hardy in Zone 6a; native to PA; excellent choice for moist areas, Section A front beds (within 5' limit with pruning), or food forest edges; outstanding fall color performance in PA's cool autumns",
+      "designPlacement": "Section A candidate within 5' height limit; or food forest edge; native plant contribution; moist clay areas ideal",
+      "siteObservations": null
+    }
+  }
+}

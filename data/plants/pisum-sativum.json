@@ -1,0 +1,172 @@
+{
+  "id": "pisum-sativum",
+  "name": {
+    "commonName": [
+      "Garden Pea",
+      "Common Pea",
+      "English Pea",
+      "Shelling Pea",
+      "Snap Pea",
+      "Snow Pea"
+    ],
+    "latinName": "Pisum sativum",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Southwestern Asia and the eastern Mediterranean — likely first domesticated in the Near East (Turkey, Syria, Jordan) from wild progenitors in the Fertile Crescent; cultivated since at least 7,000 B.C. and now grown throughout the temperate world; one of the oldest crop plants in human history",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Eurasia and widely cultivated as a food crop across all regions of the lower 48; does not naturalize or persist outside cultivation — peas are cool-season annuals that complete their life cycle and die without establishing wild populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — peas are cool-season annuals that complete their life cycle and die; no naturalization concern anywhere in the lower 48; not listed on any state noxious weed list or the federal noxious weed list; no invasive look-alikes within Pisum"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "Annual grown in zones 2-11; cool-season — spring and fall crop only; plants do not tolerate summer heat regardless of zone"
+    }
+  },
+  "description": {
+    "height": "Bush types 18-30\"; vining/climbing types 4-6'; tendrils allow vining types to self-attach to supports and reach considerable height in cool, favorable conditions",
+    "spread": "6-12\" per plant; relatively upright and compact in habit; interplant at close spacing for efficient bed use",
+    "spacing": "2-3\" between seeds in rows; 18-24\" between rows (or 4-6\" in block plantings in raised beds); close spacing is fine — peas benefit from leaning on one another for support and the dense canopy helps suppress weeds",
+    "growthRate": "Fast once germinating — peas germinate in cold soil (as low as 40°F, optimally 55-65°F) and grow rapidly in cool spring conditions; from sow to first harvest is typically 55-80 days depending on variety",
+    "timeToMaturity": "55-80 days from direct sow to first harvest; shelling peas on the longer end (60-80 days), snap peas in the middle (60-70 days), snow peas often quicker (55-65 days). The critical issue in any zone is matching maturity time to the available cool window — count backward from the date sustained heat typically arrives, and forward from when soil is workable. The productive window narrows as you move south and widens as you move north, but is finite everywhere.",
+    "lifespan": "Annual — plant germinates, produces, and dies within a single growing season; the vines decline rapidly once heat arrives; plants are pulled and composted at end of season; no overwintering",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None; plants are finished once summer heat sets in"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to light shade; 6+ hours preferred for best yield; in warmer zones (7b+), light afternoon shade can extend the productive window by reducing heat stress during the final weeks of the crop; in cooler zones (5 and below), full sun is preferred for fastest development",
+    "water": "Medium; consistent, even moisture is important from germination through pod fill; drought stress during flowering causes blossom drop and reduced yield; waterlogging during the cool early-spring planting window is the greater risk in heavy soils — poor drainage causes seed rot and impairs root function; keep soil evenly moist but never saturated",
+    "drainagePreference": {
+      "description": "Well-drained to moderately well-drained — excellent drainage is especially critical for early spring planting when soils are cold and wet; waterlogged soil at 45°F is a recipe for seed rot and failed germination; raised beds solve this definitively in any region with heavy soil; in-ground beds in clay or compacted soil should be amended to improve drainage before early sowing",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate — heavy clay holds too much moisture in the cold, wet conditions typical of early spring sowing, leading to seed rot, damping off, and poor root development; peas can succeed in amended clay if organic matter (compost, leaf mold) is worked into the top 8-12\" to improve structure and drainage; raised beds filled with well-draining mix bypass the problem entirely and are strongly preferred for clay-soil gardens; once established, pea roots are shallow enough that deep clay layers are less of a concern than the surface conditions at germination"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; slightly acidic to neutral; peas are adaptable but prefer near-neutral pH; very acidic soils suppress rhizobial nitrogen fixation"
+    },
+    "texturePreference": "Loose, well-drained, moderately fertile loam; peas do not need or want high-nitrogen soil (they fix their own); rich amended beds are fine but avoid high-nitrogen fertilizers which push leafy growth at the expense of pods; heavy clay is workable with amendment but problematic in cold wet springs for direct sowing",
+    "rootCharacter": "Shallow, fibrous root system; nitrogen-fixing nodules form on roots within a few weeks of germination (provided correct Rhizobium bacteria are present in the soil or inoculant is used); roots are relatively delicate — peas do not transplant well and should always be direct-sown; the root system is not aggressive and does not persist after the plant dies"
+  },
+  "bloom": {
+    "bloomTime": "Roughly 6-8 weeks after sowing; flowers appear progressively up the stem; harvest follows bloom by 1-3 weeks depending on type; timing varies by zone — as early as March in Zone 8-9, May-June in Zone 5-6, midsummer in Zone 3-4",
+    "bloomDescription": "Small, butterfly-shaped (papilionaceous) flowers typical of the Fabaceae family; white in most garden pea and snap pea varieties; purple-pink in some ornamental and heritage types; flowers are borne singly or in pairs at each node; the entire climbing vine in full bloom is genuinely beautiful — an underappreciated ornamental quality",
+    "fragrance": "Mild, sweet, distinctly pea-like — subtle but pleasant up close; not a fragrance plant but not unpleasant",
+    "flowerSex": "Hermaphrodite — each flower contains both stamens and pistil; flowers are self-fertile before they open (cleistogamous pollination occurs inside the closed bud)",
+    "pollination": "Primarily self-pollinating — pollination is largely complete before the flower opens, which means peas reliably set pods without pollinators; bees and other insects visit the flowers but are not required for fruit set; this makes peas extremely reliable pod producers even in poor pollinator conditions"
+  },
+  "yield": {
+    "edibleParts": "Peas come in three distinct types with fundamentally different harvest methods and uses — choosing the right type is as important as any other cultivation decision.\n**Shelling/Garden Peas** (Pisum sativum var. sativum): The classic pea. Harvest when pods are swollen and round, seeds fully developed but still bright green and sweet — before they begin to turn starchy. The pod itself is fibrous and inedible (or unpleasant); it is shelled and discarded. Fresh shelled peas are sweet, tender, and among the finest vegetables from the garden — the flavor gap between garden-fresh and store-bought or frozen is enormous. Shelling peas freeze exceptionally well — process immediately after harvest for best quality.\n**Snap Peas** (Pisum sativum var. macrocarpon, edible-podded): Harvest when pods are fully rounded and plump, seeds inside well developed — the entire pod, seeds and all, is eaten. Sweet, crisp, and satisfying as a raw snack or lightly cooked. Snap peas are the easiest type for children and casual gardeners — no shelling required, eat straight off the vine.\n**Snow Peas** (Pisum sativum var. macrocarpon, flat-podded): Harvest young, when pods are flat and seeds are barely visible bumps inside — the pod is the primary product, seeds still very small. Tender, slightly sweet, crisp. Essential in Asian cuisine — stir-fries, lo mein, pad thai, spring rolls. Snow peas produce most prolifically when harvested constantly — pick every 2-3 days to keep pods from maturing past the flat stage.\n**Pea Shoots and Tendrils**: An often-overlooked harvest from all three types. The growing tips — including the top 2-4 inches of stem, young leaves, tendrils, and any emerging flowers — are fully edible raw or lightly cooked. Flavor is intensely pea-like, delicate, and sweet; texture is tender and slightly crunchy from the tendrils. High-end restaurant ingredient. Harvest from the tips of established plants (promotes bushiness) or harvest aggressively from seedlings thinned from overcrowded plantings. Stir-fried quickly in garlic butter or added raw to salads. Harvest pea shoots throughout the season — this is a dual-purpose crop available weeks before the main pod harvest.",
+    "harvestSeason": "Spring crop is the primary harvest in most zones; timing varies by region — as early as March-April in Zone 8-9, May-June in Zone 5-7, June-July in Zone 3-4. Harvest pods daily or every other day during peak production — peas produce in a concentrated flush and holding pods on the vine too long causes them to turn starchy rapidly; peak season lasts 2-4 weeks. Fall crops are possible in many zones by sowing 8-10 weeks before the first expected frost; fall crops are less reliable than spring crops due to unpredictable frost timing and lingering summer heat at sowing time. Shelling peas must be processed promptly — refrigerate immediately and use or freeze within 1-2 days of harvest; flavor degrades quickly as sugars convert to starch.",
+    "medicinalUses": "Peas are nutritious rather than medicinal in any significant sense; good source of plant protein, dietary fiber, vitamins C and K, folate, and manganese; the plant's nitrogen-fixing root system enriches the soil — an indirect but real garden benefit; no notable medicinal use in western or folk herbalism",
+    "craftOtherYield": "Dried mature seeds (field peas) can be stored and used in soups and stews; the dried vines compost readily and their nitrogen-rich root nodules add fertility when turned in; vine structure is not significant for craft use"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — garden peas (Pisum sativum) are entirely safe for human consumption; NOTE: do not confuse with sweet pea (Lathyrus odoratus), an ornamental plant in the same family whose seeds are toxic and must not be eaten; keep garden peas and sweet peas clearly labeled",
+    "toxicityAnimals": "Garden peas are generally safe for dogs and cats in small quantities; not a toxicity concern; note that sweet pea (Lathyrus) is toxic to animals — again, important to keep species clearly distinguished",
+    "allelopathy": "None significant; peas are good companion plants rather than antagonists",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herbaceous layer — climbing varieties reach into the low herbaceous-to-shrub transition; vines are temporary seasonal structures"
+    },
+    "roles": [
+      "Annual Vegetable (primary)",
+      "Nitrogen Fixer (short-season but real contribution to soil fertility via Rhizobium nodules)",
+      "Trellis Plant (the climbing habit makes peas useful for covering vertical supports early in the season before summer crops take over)",
+      "Biodiversity Support",
+      "Soil Builder (roots left in ground after harvest continue to release fixed nitrogen as they decompose)"
+    ],
+    "companionPlants": [
+      "Carrots (classic and well-documented — peas and carrots grow well together, do not compete significantly, and benefit from the fixed nitrogen legacy; interplant for efficient bed use)",
+      "Radishes (quick-maturing radishes can be interplanted between pea rows and harvested before peas need full space)",
+      "Lettuce and Spinach (cool-season companions that benefit from the partial shade pea vines cast as they climb; underplant peas with lettuce for a layered cool-season bed)",
+      "Mint (repels aphids — plant nearby, not within the bed)",
+      "Turnips",
+      "Parsley; peas work well as a spring precursor crop before summer crops in the same bed — plant tomatoes or squash transplants into the bed as peas finish",
+      "taking advantage of the nitrogen legacy"
+    ],
+    "antagonists": [
+      "Onions and garlic (Allium family — traditionally considered inhibitory to peas and beans; avoid interplanting)",
+      "Fennel (broadly antagonistic to most vegetables)",
+      "do not follow peas with beans in the same season (both fix nitrogen heavily; rotate to a nitrogen-hungry crop like corn, brassicas, or squash after legumes)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees visit the flowers despite self-pollination; the dense vine structure provides some insect habitat; pea aphids (Acyrthosiphon pisum) are a common pest and in turn attract aphid predators — ladybugs, lacewings, parasitic wasps; the pest-predator dynamic gives the pea bed some wildlife interest",
+    "hostPlantFor": "Pea aphid (Acyrthosiphon pisum) — a specialist aphid that colonizes peas and beans; populations can be heavy in mild springs; monitor from emergence; aphid pressure typically drops when temperatures rise (the same heat that ends the pea season also crashes aphid populations); beneficial insect populations respond and help regulate; intervention is rarely necessary for a functional garden",
+    "nestingHabitat": "Minimal — the vine structure is too temporary and delicate for significant nesting use"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very Poor — peas are among deer's favorite spring crops and will be browsed to the ground without protection; deer are attracted to the tender young shoots from first emergence; fencing or physical exclusion is essential wherever deer pressure exists; a simple wire fence, floating row cover, or temporary cage around the bed during the growing season is the standard approach; do not plant peas in deer-active areas without a deer exclusion plan in place before seeds go in the ground"
+    },
+    "salt": {
+      "rating": null,
+      "description": "No significant salt tolerance; not a salt-tolerant crop; avoid planting near heavily salted roadways or in coastal salt-spray zones without a windbreak"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — peas need consistent moisture and will stall, drop blossoms, and abort pods under drought stress; in the humid East, the cool spring season typically provides adequate moisture; in arid western states, irrigation is essential from germination through pod fill; supplemental watering may be needed anywhere during dry spells at flowering time"
+    },
+    "other": "Cold tolerance is a significant positive — peas germinate in soil as cold as 40°F and seedlings survive frosts down to about 28°F; this allows planting 4-6 weeks before last frost well ahead of warm-season crops; conversely, peas collapse rapidly when daytime temperatures consistently exceed 80-85°F; heat is the primary limitation, not cold; in southern zones (8+), peas are best grown as a late-fall-through-early-spring crop rather than a traditional spring crop"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — easy to grow if timing is right; the primary failure modes are wrong timing (too late in spring or too early in fall), poor drainage (wet heavy soil at sowing), deer browsing (unprotected planting), and failure to harvest regularly (starchy pods)",
+    "pruningNotes": "Minimal pruning needed; pinching the growing tip of vining varieties encourages branching and slightly more pod production but is not necessary; remove yellowing lower leaves for air circulation as the season progresses; pull entire vines at end of season — compost the top growth and leave roots in the ground to decompose and release nitrogen. Do not remove roots — the nitrogen-fixing nodules on the roots are a valuable soil fertility contribution; let them break down in place. Trellising is a maintenance task rather than pruning: install supports before or at planting time — peas find their supports quickly and the tendrils are delicate and easily damaged if the plant has to be redirected after it has attached. For vining varieties, a 5-6' trellis of wire mesh, netting, or brush (pea brush — twiggy branches pushed into the soil — is the traditional method and works excellently) should be ready before seeds emerge. Even bush varieties benefit from a short trellis (18-24\" of brush or mesh) to keep vines off the ground, improve air circulation, and reduce powdery mildew pressure.",
+    "propagationMethods": [
+      "Direct sow only — peas do not tolerate transplanting; the taproots are sensitive and transplant shock is severe; sow seeds 1-2\" deep",
+      "2-3\" apart",
+      "directly where they are to grow; inoculate seeds with Rhizobium leguminosarum (pea-specific inoculant — the same strain works for peas and beans) if the bed has not grown peas or beans recently; inoculant is inexpensive",
+      "widely available",
+      "and is the single best insurance against poor nitrogen fixation in a new bed; on established beds with a history of legumes",
+      "inoculant is optional but harmless; pre-soaking seeds for 8-12 hours before sowing speeds germination in cold soils"
+    ]
+  },
+  "cultivarNotes": "The three pea types (shelling, snap, snow) are distinct cultivation choices — decide which type to grow based on intended use before selecting a variety.\n**Shelling/Garden Peas:** **'Alaska'** (55 days) is the fastest shelling pea and the best choice for the earliest spring planting and for fall crops where the window is short; reliable in all zones. **'Lincoln'** (67 days) is the classic home garden shelling pea — excellent flavor, prolific production, long-standing reputation; the benchmark variety across the eastern and midwestern US. **'Wando'** (68 days) is specifically bred for heat tolerance and is the most important variety for any gardener whose spring heats up quickly; it extends the harvest window noticeably when warm weather arrives early. **'Green Arrow'** (68 days) is a strong alternative to Lincoln with high yields and good disease resistance; performs well in the Pacific Northwest and other maritime climates. **'Little Marvel'** (63 days) is compact and early, good for containers and small-space gardens in any zone.\n**Snap Peas:** **'Sugar Snap'** (70 days) is the breakthrough variety from 1979 that defined the category — still among the best snap peas grown; tall (5-6'), needs a substantial trellis, rich sweet flavor; excellent in all zones. **'Sugar Ann'** (52 days) is the compact bush version — 18-24\" tall, earlier, good for small spaces or later plantings; ideal for raised bed production and for southern gardeners who need the fastest possible variety. **'Super Sugar Snap'** (64 days) adds powdery mildew resistance to the original Sugar Snap's qualities — the best choice if mildew has been a recurring problem; especially valuable in humid climates (Southeast, mid-Atlantic, Gulf Coast). **'Cascadia'** (60 days) is a semi-dwarf snap pea with excellent disease resistance; developed in the Pacific Northwest and well-suited to maritime and cool-summer climates.\n**Snow Peas:** **'Mammoth Melting Sugar'** (70 days) is the standard tall snow pea — excellent pod quality, good yield, somewhat heat tolerant for a snow pea; needs a 4-5' trellis; reliable nationwide. **'Oregon Sugar Pod II'** (68 days) is slightly more compact and disease-resistant; widely available and reliable; a good default choice for any region. **'Oregon Giant'** (70 days) produces larger pods and has good powdery mildew resistance; a strong choice for humid climates.\n**Regional guidance:** In **Zone 3-5** (northern tier), the long cool spring is an advantage — gardeners have the widest productive window and can grow longer-season varieties like Sugar Snap and Lincoln without heat stress cutting the season short; sow as soon as soil is workable, typically April-May. In **Zone 6-7** (mid-latitudes), the window is moderate; plant fast varieties alongside standard ones to hedge against variable spring weather; Wando is especially valuable as insurance against early heat. In **Zone 8-9** (southern tier and Pacific coast), peas are best grown as a fall-winter-spring crop — sow in October-November for January-March harvest in mild-winter areas; spring sowing must be very early (January-February) to beat the heat; Sugar Ann and Alaska are critical for their speed. In **Zone 10-11** (Deep South, desert Southwest), peas are strictly a cool-season winter crop — sow November-December, harvest February-March; choose the fastest varieties and accept that the window is narrow.\n**Powdery mildew** is nearly universal late in the pea season — as temperatures warm and the plant declines, mildew spreads rapidly over the foliage. This is not a crisis: by the time mildew appears, the plant is usually at or past peak production and is declining anyway. Mildew-resistant varieties (Super Sugar Snap, Oregon Sugar Pod II, Cascadia) delay the problem but don't eliminate it. Good air circulation from proper trellis use and spacing management helps. Do not spray fungicide — the plant is reaching end of life; pull it and replant the bed with summer crops.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary — excellent drainage, deer fencing feasible, soil amendment easy)",
+      "in-ground vegetable beds (viable with amendments and deer protection)",
+      "temporary trellis planting in any sunny bed as a spring precursor crop before summer annuals take over"
+    ],
+    "designPlacement": "Peas are among the first spring crops in the vegetable garden and define the beginning of the productive season. Key siting considerations: (1) Orient rows or beds north-south if possible so climbing vines don't shade neighboring crops; or use the pea trellis intentionally to provide light afternoon shade for lettuce or spinach planted on its east or west side; (2) Plant where you intend to follow with a summer crop — the nitrogen-fixing root legacy benefits tomatoes, squash, cucumbers, or corn planted into the same bed after peas are pulled; (3) In areas with deer pressure, the bed must be enclosed by fencing before seeds go in — a permanent fence around the raised bed perimeter is ideal; temporary row cover works for small plantings but deer learn quickly; (4) Trellising for vining types is a structural consideration — plan trellis placement so it does not shade adjacent beds or interfere with summer crop succession. The spring planting window is the defining cultivation challenge: soil workable, seeds in the ground immediately, harvesting before sustained heat arrives. Every week of delay in spring planting is a week of productive season sacrificed.",
+    "acquisitionStatus": "Not yet acquired — seeds only; widely available from any seed company"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pea",
+    "inaturalist": "https://www.inaturalist.org/taxa/54522-Pisum-sativum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280471&isprofile=1&basic=Pisum+sativum"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concern",
+      "drainage": "The red clay at Hegins is cold and saturated in March-April, which is precisely when pea seeds need to go in the ground; raised beds with amended soil are strongly preferred for early spring sowing; in-ground planting is possible but risky — wait until the top 3-4 inches have dried enough that soil does not compact when squeezed, even if this means a week's delay; amend with compost to at least 8\" depth before sowing",
+      "soil": "The Hegins red clay requires amendment (compost, leaf mold) worked into the top 8-12\" for in-ground pea sowing; raised beds with well-draining mix are the simpler and more reliable option at this site; the construction-disturbed soil near foundation beds is especially compacted and should be avoided for peas",
+      "cultivarNotes": "The recommended starting set is **'Lincoln'** + **'Wando'** for shelling peas, and **'Sugar Snap'** or **'Sugar Ann'** for snaps. Plant Lincoln and Wando together — Lincoln produces first and Wando keeps going as heat builds. Grow at least one shelling and one snap variety for maximum versatility. For a fall attempt, use Alaska or Sugar Ann (fastest maturity) sown late July to early August.",
+      "designPlacement": "Peas belong in the raised vegetable beds where drainage and deer exclusion can be managed. Not suited for Sections A, B, or C (ornamental/herb beds). The raised beds allow early sowing into well-draining amended soil while the native red clay is still cold and saturated. Deer fencing around the raised bed perimeter must be in place before seeds go in. Target sowing: March 20-April 5 — as soon as the raised bed soil can be worked and is not frozen solid. Follow peas with tomatoes, squash, or cucumbers to take advantage of nitrogen legacy.",
+      "siteObservations": "The Zone 6a spring timing challenge at Hegins is the central cultivation fact for peas. The window between \"soil workable\" and \"too hot for peas\" is roughly 10-12 weeks — but peas need 55-80 of those days to produce. This means every planting must go in as early as possible in spring, and variety selection should weight faster-maturing types (Alaska, Sugar Ann) alongside standard types (Lincoln, Sugar Snap) for maximum hedge. The red clay subsoil is a real concern: cold, wet clay in March-April is a difficult environment for germinating peas; raised beds with well-draining amended soil are strongly preferred for early spring sowing. If sowing in-ground beds, wait until the top 3-4 inches have dried out enough that the soil doesn't compact when squeezed — better to delay a week than to sow into saturated clay. Inoculate every new planting — the Hegins beds have limited legume history and inoculant ensures the nitrogen-fixing relationship establishes correctly. **Deer pressure is the single greatest crop-loss risk for peas at this site** — the east corridor deer are active and will find the bed within days of emergence; fencing or row cover must be installed before the first seedling appears above ground. Fall crops are theoretically possible — sow Alaska or Sugar Ann in late July to early August for October harvest — but the timing is very tight given the approximately October 10 first frost date; the fall crop is a bonus worth attempting but should not be relied upon; the spring crop is the primary pea harvest."
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "amelanchier-alnifolia-regent",
+  "name": {
+    "commonName": [
+      "Regent Serviceberry",
+      "Saskatoon Serviceberry",
+      "Juneberry"
+    ],
+    "latinName": "Amelanchier alnifolia 'Regent'",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Central and western North America; A. alnifolia is more central/western, but the Amelanchier genus has many species native to eastern North America and PA specifically",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to western North America — from Alaska south through the Rocky Mountains to New Mexico, and east across the northern Great Plains; the native range is primarily western US (Montana, Idaho, Wyoming, Colorado, the Dakotas, Minnesota); not native to the eastern US including Pennsylvania; eastern US gardeners growing A. alnifolia are cultivating a western native; the closely related A. canadensis, A. laevis, and A. arborea are the native serviceberry species for eastern US gardeners"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 2,
+      "max": 7,
+      "description": "2-7"
+    }
+  },
+  "description": {
+    "height": "4-6 ft",
+    "spread": "4-6 ft",
+    "spacing": "4-5 ft",
+    "growthRate": "Moderate",
+    "timeToMaturity": "3-4 years to reliable fruit production",
+    "lifespan": "Long-lived; 20-30+ years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "Moderate — smooth gray bark and clean branch structure are attractive in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; fruits best in full sun",
+    "water": "Medium; moderate drought tolerance once established",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates brief wet periods",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; serviceberries are adaptable but prefer well-drained soils; clay that drains adequately is tolerable; persistently wet clay causes root rot; amend with compost; plant on a slight grade or mound in heavy clay gardens"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable; tolerates clay",
+    "rootCharacter": "Fibrous; spreads slowly by suckers over time — remove to contain in formal beds"
+  },
+  "bloom": {
+    "bloomTime": "April — one of the earliest blooming shrubs, often before leaves fully emerge",
+    "bloomDescription": "Masses of white 5-petaled flowers covering the entire plant — one of the most spectacular spring bloom displays of any hardy shrub",
+    "fragrance": "Mildly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; cross-pollination improves yield; native bees are primary pollinators and are drawn in significant numbers"
+  },
+  "yield": {
+    "edibleParts": "Berries — excellent fresh or cooked; sweet with a mild almond note from the seeds; used in pies, jam, syrup, wine",
+    "harvestSeason": "June (the \"Juneberry\" name is literal) — among the earliest fruiting shrubs, before most other fruits are available",
+    "medicinalUses": "Berries are high in antioxidants, iron, and manganese; used extensively by Indigenous peoples as a food staple (pemmican) and for general nutrition",
+    "craftOtherYield": "Wood is exceptionally hard — historically used for tool handles, arrows, and walking sticks"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Seeds contain trace cyanogenic glycosides (common across Rosaceae family); not a practical concern at normal consumption quantities",
+    "toxicityAnimals": "Generally considered safe; the seed concern is theoretical at normal intake",
+    "allelopathy": "None documented",
+    "notes": "Susceptible to cedar-apple rust (Gymnosporangium juniperi-virginianae) if eastern red cedars (Juniperus virginiana) are present on or near the property. Cedar-apple rust requires both hosts to complete its lifecycle — if red cedars are nearby, this is worth monitoring."
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub to small tree"
+    },
+    "roles": [
+      "Food (berries)",
+      "Beauty",
+      "Wildlife Food (extremely high value — one of the best native wildlife plants available)",
+      "Insect Attractor (critical early spring pollen and nectar)",
+      "Nurse Plant"
+    ],
+    "companionPlants": [
+      "Comfrey",
+      "wild ginger",
+      "spring bulbs",
+      "native asters",
+      "white clover beneath"
+    ],
+    "antagonists": [
+      "Eastern red cedar (cedar-apple rust host — see Note above)"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Native bees (critical early-season pollen/nectar when little else is available), butterflies, over 35 bird species eat the berries — cedar waxwings, catbirds, robins, orioles. Note: birds find the berries irresistible and may strip the plant before harvest; netting is commonly used if fruit yield is a priority.",
+    "hostPlantFor": "Host for several native moth species; Rosaceae family broadly supports many specialist native insects",
+    "nestingHabitat": "Dense multi-stem form provides excellent nesting cover and shelter for small songbirds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — browsed but not heavily targeted; established shrubs recover well from light browse"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established"
+    },
+    "other": "Tolerates clay, part shade, and cold extremes very well (Zone 2 rating)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Minimal intervention needed. Remove oldest canes at ground level every few years to maintain vigor and open form. Can be lightly shaped after fruiting. Remove suckers to contain spread. Does not require the annual hard pruning that elderberry does.",
+    "propagationMethods": [
+      "Division of suckers (easiest and most reliable)",
+      "softwood cuttings (early summer — moderately easy)",
+      "seed (requires cold stratification)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "'Regent' is the most compact named selection of A. alnifolia, staying reliably at 4-6 ft — the correct choice for a height-constrained bed. Performs well in Zones 2-7; fully hardy through Zone 6 and a safe choice for Zone 7 margins. Alternative compact cultivars include 'Martin' (similar size, good fruit) and 'Smoky' (slightly larger, heavier fruiter). Native eastern US alternative: A. canadensis (shadbush) is native to the eastern US and PA, very similar use and appearance, but typically reaches 6-15 ft as a multi-stem large shrub or small tree — beautiful but requires more space or more active management. A. stolonifera (running serviceberry) is another eastern native at 3-5 ft that spreads by runners — better suited to naturalized settings than formal beds.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Specimen",
+      "border focal point",
+      "food forest shrub layer",
+      "native wildlife garden"
+    ],
+    "designPlacement": "Fruiting shrub, food forest shrub layer, ornamental border, native plant garden (for western US gardeners)",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+    "inaturalist": "https://www.inaturalist.org/taxa/75415-Amelanchier-alnifolia",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Regent cultivar",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242786"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA — A. alnifolia is a western US native; the native serviceberries for PA are A. canadensis (shadbush) and A. laevis; 'Regent' is a cultivated form of the western species grown as an improved fruiting selection",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: in-ground planting generally feasible with compost amendment; avoid low-lying areas; a slight raised mound or grade helps with drainage",
+      "soil": "Hegins red clay with compost amendment is acceptable; in-ground planting works",
+      "cultivarNotes": "'Regent' is fully hardy in Zone 6a; excellent compact fruiting shrub for Section A or food forest edges within the 5' height limit",
+      "designPlacement": "Section A candidate within 5' height limit; or food forest edge; note that native PA serviceberry species (A. canadensis) would be ecologically preferable but 'Regent' offers superior fruit production",
+      "siteObservations": null
+    }
+  }
+}

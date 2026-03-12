@@ -1,0 +1,166 @@
+{
+  "id": "prunus-persica",
+  "name": {
+    "commonName": [
+      "Peach"
+    ],
+    "latinName": "Prunus persica",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Northwest China — between the Tarim Basin and the north slopes of the Kunlun Shan mountains; first domesticated in China; widely cultivated throughout temperate regions for millennia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced and widely cultivated across the eastern, southern, and western states; naturalized in some southeastern and mid-Atlantic areas where escaped orchard trees establish along roadsides and woodland edges"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in any US state; naturalized populations are sparse, short-lived, and do not displace native vegetation; not listed on any state noxious weed list or the federal noxious weed list; no regulatory concern anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "Zone 5-8; cold-hardy cultivars ('Reliance', 'Contender') extend to Zone 4 with protected siting; marginal in Zone 4 without frost pocket avoidance; heat zone upper limit is approximately Zone 9 — extreme summer heat combined with insufficient winter chill hours causes poor fruit set in the Deep South and desert Southwest"
+    }
+  },
+  "description": {
+    "height": "Standard — 15-20'; semi-dwarf — 8-12'; most home orchards use semi-dwarf for easier management and harvest",
+    "spread": "12-18' depending on rootstock and training",
+    "spacing": "12-15' for semi-dwarf; 18-20' for standard; peach is self-fertile so a single tree is productive, though two trees extend the harvest season",
+    "growthRate": "Fast; begins fruiting in year 2-3, which is earlier than apple or pear",
+    "timeToMaturity": "First meaningful crop years 2-3; full production by years 4-5",
+    "lifespan": "Short-lived compared to apple and pear — 15-20 years under good management; replanting is a routine part of peach growing",
+    "deciduousEvergreen": "Deciduous — showy pink blossoms in early spring (before leaf-out); large, attractive foliage through summer",
+    "winterInterest": "Low — clean winter structure; minimal ornamental value without leaves or fruit"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours; fruit quality and disease resistance both depend on maximum sun exposure; do not site in partial shade",
+    "water": "Medium; consistent moisture during fruit development (June-August) is important for fruit size and quality; avoid drought stress in the first 2-3 establishment years; in arid western climates, regular irrigation throughout the growing season is necessary — in the humid East, supplemental watering during dry spells is usually sufficient",
+    "drainagePreference": {
+      "description": "Well-drained essential; peach is more sensitive to wet feet than apple or pear; standing water causes root rot and rapid decline; raised planting or bermed sites are advisable wherever drainage is marginal; avoid siting in low-lying areas that collect runoff",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; peach roots are highly susceptible to waterlogging and Phytophthora root rot in heavy clay; clay soils compact around the root zone and restrict oxygen exchange, which peach tolerates less than most other stone fruits; success in clay requires aggressive amendment at planting — excavate a wide hole (3-4x root ball width), backfill with a 50/50 mix of native soil and coarse compost, and mound the planting 4-6\" above grade to shed water; even with amendment, clay-sited peaches tend toward shorter productive lifespans than those in loam or sandy loam"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.5,
+      "description": "6.0-6.5"
+    },
+    "texturePreference": "Well-drained sandy loam to loam preferred; tolerates lighter clay loam if drainage is adequate; avoid heavy, unmodified clay and poorly drained silts; peach is less tolerant of heavy soil than apple or pear",
+    "rootCharacter": "Moderately deep, spreading root system; not as deep as apple; semi-dwarf rootstocks (Lovell, Halford, Citation) limit size; roots are sensitive to poor drainage; Citation rootstock is specifically bred for heavier soils and may be the best rootstock choice for clay-prone sites"
+  },
+  "bloom": {
+    "bloomTime": "Early spring — among the earliest blooming fruit trees in any given zone; typically mid-March to mid-April in Zone 6, later in Zone 5 and earlier in Zone 7-8; this early bloom is both the beauty and the primary liability (late frost risk)",
+    "bloomDescription": "Profuse, showy pink to deep rose five-petaled flowers, 1-1.5\" wide, appearing before the leaves; one of the most ornamental of all fruit trees in bloom; a mature peach in full flower is a striking sight",
+    "fragrance": "Flowers mildly fragrant; ripe fruit intensely fragrant — the signature stone fruit scent",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile — a single tree will set a full crop without a pollinator partner; this is a significant practical advantage over apple or pear; bees and other early pollinators assist, though wind pollination also occurs"
+  },
+  "yield": {
+    "edibleParts": "Fruit (fresh eating, pies, cobblers, jams, preserves, canning, freezing, drying); peach skin is edible though some prefer to peel; kernel of the pit contains amygdalin and is not eaten",
+    "harvestSeason": "Varies by cultivar and zone — early-season cultivars ripen in late June (Zone 8) to mid-July (Zone 6); mid-season cultivars ripen July to early August; late-season cultivars ripen mid-August to September; harvest window for a given cultivar is short (7-14 days) — be ready",
+    "medicinalUses": "Rich in vitamins A and C, potassium, and antioxidants; traditional use in Chinese medicine for digestive health; peach leaf tea has mild sedative and diuretic properties in folk herbalism",
+    "craftOtherYield": "Peach wood — fragrant; excellent for smoking meat (mild, sweet smoke); prunings useful for small crafts; peach leaf was historically used as a natural dye (yellow-green)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Leaves, bark, and pit kernel contain amygdalin (cyanogenic glycoside) — do not consume in quantity; incidental contact with leaves is not a concern; the fruit flesh is entirely non-toxic",
+    "toxicityAnimals": "Peach leaves, stems, and pits are toxic to dogs, cats, and horses — amygdalin releases hydrogen cyanide when metabolized; keep fallen fruit cleaned up; do not allow animals access to prunings or pits",
+    "allelopathy": "None documented; some reports of mild allelopathic effect from decomposing leaves but not considered significant in practice",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Understory fruit tree layer (canopy in a small guild; mid-layer in a larger food forest context)"
+    },
+    "roles": [
+      "Food (primary yield — one of the most productive and rewarding home orchard fruits)",
+      "Insectary (early bloom provides important early-season pollen and nectar for pollinators before most other trees flower)",
+      "Wildlife Support",
+      "Nitrogen cycling (heavy feeder — benefits from nitrogen-fixing companions)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator; chop-and-drop mulch; planted at drip line)",
+      "garlic and chives (pest deterrent; planted in a ring around the base)",
+      "white clover (nitrogen fixer in the understory)",
+      "nasturtium (pest trap and ground cover)",
+      "daffodil bulbs (deer deterrent ring; do not compete with tree roots significantly)",
+      "yarrow and fennel (insectary; attract beneficial wasps that prey on pests)",
+      "tansy (repels aphids and borers)"
+    ],
+    "antagonists": [
+      "Eastern red cedar (Juniperus virginiana) — while peach does not suffer from cedar-apple rust as apple does",
+      "avoid dense hedgerows of eastern red cedar nearby as they impede airflow and harbor other disease inoculum. Walnut (Juglans) — juglone toxicity; do not plant peach within the drip line of black walnut. Grass growing directly at the base competes heavily and can harbor voles — keep a mulched circle of at least 3' radius clear of grass"
+    ],
+    "coppiceable": "No; managed as an open-center tree with annual pruning; not coppiced"
+  },
+  "wildlife": {
+    "attracts": "Bees and early pollinators (peach is one of the most important early-season nectar sources — blooms before most other fruit trees); birds (fruit consumed by many species; fallen fruit especially important); beneficial insects throughout the season",
+    "hostPlantFor": "Various Lepidoptera use Prunus species; peach specifically hosts the Peach Tree Borer moth (Synanthedon exitiosa) — a significant pest, not a desired host relationship; several native moths and butterflies use Prunus species generally",
+    "nestingHabitat": "Moderate — provides some nesting and roosting for birds in dense canopy; not as structurally complex as long-lived trees"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse young peach trees and will eat fallen fruit; protect young trees with wire cages or fencing during establishment (first 3 years); mature trees can tolerate browsing better but bark stripping by deer in winter can be fatal to young specimens; in high-pressure areas, permanent trunk guards are advisable through the life of the tree"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — tolerates incidental road salt drift but not direct spray or heavily salted soil; site away from salted road edges"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; drought stress in the fruiting season causes significant fruit drop and small, poor-quality fruit; consistent moisture is important during fruit sizing (June-August in most zones); western and southern growers should plan for regular irrigation"
+    },
+    "other": "Late frost is the dominant environmental threat across the entire peach-growing range — peach blooms earlier than any other common fruit tree and a single frost event at bloom time can eliminate the entire crop for the year; siting for frost avoidance (elevated ground, avoiding frost pockets, good air drainage) is the single most important design decision for peach in any zone; peach leaf curl (Taphrina deformans) is a significant fungal disease across all humid climates — a single dormant copper spray in late winter before bud swell is the standard preventive"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium-high — higher than apple or pear due to annual pruning requirements, thinning, disease management, and the short productive lifespan that eventually requires replanting",
+    "pruningNotes": "Annual pruning is essential and must be more aggressive than for apple. Use an open-center (vase) form — three to five main scaffold branches radiating outward from a low trunk (18-24\" height), no central leader. Prune in late winter/early spring just as buds begin to swell — timing varies by zone (late January in Zone 8, late February to mid-March in Zone 6, late March in Zone 5). Do not prune in late fall or early winter as wounds are susceptible to disease in cold, wet conditions. Peach bears fruit on one-year-old wood — the goal is to always have a supply of young, vigorous shoots. Remove crossing branches, downward-growing wood, and any wood older than 3-4 years from the fruiting zone. Head back long shoots by one-third to stimulate lateral branching. A well-pruned peach tree should look almost aggressively cut back compared to an apple tree. Fruit thinning is equally critical: when fruitlets reach marble size (approximately 3-4 weeks after petal fall), thin to one fruit every 6-8\"; without thinning, the tree bears small fruit, exhausts itself, and often skips or reduces production the following year. This is non-negotiable for quality production.",
+    "propagationMethods": [
+      "Budding or grafting onto peach rootstocks (Lovell, Halford are standard; Citation for wetter or heavier soils); purchase grafted nursery stock; peaches can be grown from seed (peach pit)",
+      "though seedlings will not come true to cultivar and are rarely done intentionally for named varieties"
+    ]
+  },
+  "cultivarNotes": "**Cold-zone growers (Zone 4-5):** **'Reliance'** (Zone 4-8) is the benchmark cold-hardy peach — freestone, yellow flesh, good flavor, reliable where late frost and harsh winters are the primary concern; **'Contender'** (Zone 4-8) is a strong alternative — freestone, slightly later bloom than Reliance, which can dodge late frost in marginal zones; both are widely available from mail-order nurseries. **Mid-zone growers (Zone 6-7):** The widest cultivar selection is available here. **'Redhaven'** (Zone 5-8) is the classic benchmark peach for eastern North America — semi-clingstone, firm yellow flesh, excellent flavor, mid-season; widely grown commercially and by home orchardists. **'Elberta'** (Zone 5-9) is the classic large freestone — late season, excellent for canning and preserving, large handsome fruit. Both Reliance and Contender also perform well in this zone band. **Warm-zone growers (Zone 8-9):** Select low-chill cultivars — standard cultivars like Reliance and Contender require 800-1000 chill hours and will not set fruit reliably in mild-winter climates. **'Florida King'**, **'Tropic Beauty'**, and **'Desert Gold'** (200-450 chill hours) are bred for southern and Gulf Coast conditions. Check local extension service chill-hour data before selecting. **Nectarines** — smooth-skinned peach sports (same species, different mutation); grown identically to peach; slightly more susceptible to brown rot in humid climates. **'Harko'** (Zone 5-8; freestone; cold-hardy) and **'Fantasia'** (Zone 6-9; large, high-quality fruit; less cold-hardy) are widely recommended. All cultivars listed are self-fertile.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Home orchard",
+      "food forest understory fruit layer",
+      "permaculture guild anchor",
+      "espalier against a south-facing wall (extends season and provides some frost protection)"
+    ],
+    "designPlacement": "Site in full sun with maximum air circulation — peach requires more sun and better airflow than most fruit trees. Frost pocket avoidance is the single most critical siting factor: choose elevated ground or gentle slopes where cold air drains away on still, clear spring nights; avoid low-lying areas, valley floors, and enclosed courtyards. A gentle north-facing slope can actually benefit peach by delaying bloom slightly, reducing frost loss — counterintuitive but well-documented. Keep away from black walnut (juglone toxicity) and dense cedar hedgerows (impeded airflow). In the food forest, peach functions as a short-lived understory producer — plan for replanting every 15-20 years. Espalier against a south or southwest wall is an excellent strategy for extending the season and providing radiant frost protection in colder zones. Allow 12-15' between semi-dwarf trees for adequate light and air.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Peach",
+    "inaturalist": "https://www.inaturalist.org/taxa/78755-Prunus-persica",
+    "missouriBotanicalGarden": [
+      {
+        "label": "'Reliance'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261706&isprofile=0&pt=7"
+      },
+      {
+        "label": "'Redhaven'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261162&isprofile=0&pt=7"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR; same as general Invasive field — no regulatory concern",
+      "drainage": "The red clay at the Hegins site is a significant challenge for peach; in-ground planting will require full amendment protocol — wide excavation, compost backfill, and mounded planting above grade; monitor drainage after heavy rain events in the first year; if water pools within 24 hours of rain at the intended site, consider a different location or a substantially raised bed; the compacted, construction-disturbed soil near the house foundation beds is unsuitable without major remediation",
+      "soil": "The Hegins red clay will need amendment at planting — compost and coarse material worked into a wide planting hole; do not plant directly into unamended clay; a 4-6\" raised mound above existing grade is recommended to improve root zone drainage",
+      "cultivarNotes": "'Contender' is the top recommendation — cold-hardy, freestone, slightly later bloom that helps dodge late frost in the Appalachian ridge-and-valley region; 'Reliance' is the backup choice if maximum cold hardiness is the priority; 'Redhaven' is excellent if frost risk at the specific site is manageable.",
+      "designPlacement": "Not assigned to a specific bed section — Section A (north-facing, partial shade) and Section C (5' height limit) are both unsuitable. Placement will be determined when the property orchard/food forest map is developed. Siting priorities for this property: full sun in an open area, elevated slightly above surrounding terrain to avoid frost pooling, and away from the east wildlife corridor where deer pressure is heaviest. Given the active deer pressure, establish with a wire cage for the first 3 years and consider permanent trunk guards. The clay soil at this site means full amendment protocol at planting — see Drainage and Soil sections above.",
+      "siteObservations": "The red clay and compacted soil at this site are the primary challenge for peach — more so than for apple or pear, which tolerate heavier soils better. Late frost risk is significant in the Hegins valley setting; siting on any available higher ground on the property will meaningfully reduce frost loss years. Active deer pressure from the east wildlife corridor means wire caging is mandatory during establishment and trunk guards should remain permanently. Pruning timing at this site: late February to mid-March, just as buds begin to swell. Bloom at this site typically mid-March to mid-April — watch weather forecasts closely during this window for frost warnings."
+    }
+  }
+}

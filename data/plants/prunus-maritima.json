@@ -1,0 +1,160 @@
+{
+  "id": "prunus-maritima",
+  "name": {
+    "commonName": [
+      "Beach Plum"
+    ],
+    "latinName": "Prunus maritima",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Atlantic coastal plain of northeastern North America — from Maine south to Virginia (and occasionally Maryland's eastern shore); closely associated with coastal dunes, sandy bluffs, and maritime shrublands; distribution is tightly linked to the Atlantic seaboard's sandy, well-drained coastal soils",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the northeastern US Atlantic coast — principally the coastal counties from Maine through Virginia; most abundant on Cape Cod, the islands (Martha's Vineyard, Nantucket), Long Island, the New Jersey Pine Barrens coast, and the Delmarva Peninsula; not native to the interior US, the Midwest, the South, or the western states; occasionally found slightly inland along sandy river terraces but fundamentally a coastal species"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; not listed on any state noxious weed list or USDA invasive species database; the plant does sucker modestly but does not escape cultivation or naturalize aggressively outside its native coastal range"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7; exceptional cold hardiness for a fruiting shrub; performs well across a wide range of northern and mid-latitude climates; heat tolerance is moderate — in Zone 8+ the plant may struggle with high summer heat and humidity, particularly in the Deep South"
+    }
+  },
+  "description": {
+    "height": "3-6'; occasionally to 8' in vigorous growth or favorable conditions; rarely approaches tree form; typically grows as a dense, multi-stemmed rounded shrub",
+    "spread": "4-8'; individual plants spread to form dense colonies via basal branching and occasional suckering; less aggressively thicket-forming than P. americana but still a spreading, mounding habit",
+    "spacing": "5-8' apart for a continuous hedgerow; 8-10' apart for individual shrubs with defined spacing; always plant two individuals (or two seedling groups of different genetic origin) within 50' for reliable cross-pollination",
+    "growthRate": "Moderate; steady once established; slower to establish than P. americana but ultimately tough and persistent in difficult sites",
+    "timeToMaturity": "First fruit typically years 3-5 from a young plant; full production from year 5-7; named cultivars may fruit slightly earlier than seedling-grown plants",
+    "lifespan": "Long-lived shrub; individual stems persist for many years; the plant self-renews over time from basal branching; essentially permanent once established in a suitable site",
+    "deciduousEvergreen": "Deciduous — showy white flowers before leaf-out in early spring; medium green summer foliage; modest yellow to red-orange fall color; twiggy, interlocking branch structure visible in winter",
+    "winterInterest": "Moderate — the dense, twiggy branching has structural presence in winter; some persistent dried fruit if not consumed by wildlife"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required for best fruit production; tolerates part shade but flowering and fruiting diminish noticeably; site in the sunniest available position for a productive planting",
+    "water": "Low to medium; excellent drought tolerance once established; native to sandy coastal soils with low water-holding capacity — this is one of the defining tolerances of the species; not suited to consistently wet or waterlogged sites; in the humid eastern US, supplemental irrigation is rarely needed after the first year; in arid western climates, occasional deep watering during extended dry spells may be necessary",
+    "drainagePreference": {
+      "description": "Well-drained to dry; prefers sandy or gravelly, fast-draining soils; performs in lean, nutrient-poor conditions; avoid heavy clay or poor drainage — root rot and crown rot risk increases sharply in waterlogged soils; if drainage is marginal, plant on a raised mound or berm",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — beach plum is native to sandy coastal soils and is poorly adapted to heavy clay; in dense clay, waterlogging promotes root rot and the compacted structure limits root expansion; the plant can survive in clay if drainage is corrected (raised mound, coarse grit amendment, or a deep gravel layer beneath the root zone), but it will never thrive the way it does in sandy or loamy ground; gardeners with heavy clay should consider a 12-18\" raised mound of sandy loam blended with coarse grit as the planting medium"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; prefers slightly acidic to near-neutral conditions; tolerates a fairly wide range; in highly alkaline soils (pH 7.5+), iron chlorosis may appear — amend with sulfur or acidic organic matter if needed"
+    },
+    "texturePreference": "Sandy, gravelly, or loamy; native to coastal dunes and sandy bluffs — among the most sand-tolerant native fruiting shrubs; will grow in lean, disturbed, or rocky soils; not well-suited to dense, compacted clay without significant site preparation; the ideal substrate is a well-drained sandy loam or gravelly loam",
+    "rootCharacter": "Moderately wide-spreading lateral root system; less aggressively suckering than P. americana; still produces some basal shoots and can slowly spread; not considered a problematic thicket-former at garden scale"
+  },
+  "bloom": {
+    "bloomTime": "April-May, just before or as leaves emerge — one of the earlier native shrubs to flower; bloom timing is similar to P. americana and often coincides with early bee emergence; in southern portions of its range (Zone 7), bloom may begin in late March",
+    "bloomDescription": "Clusters of 5-petaled white flowers, approximately 0.5\" wide, densely covering the branches before full leaf-out; the floral display is profuse and showy — a well-established beach plum in full bloom is a cloud of white against the spring landscape; fragrant",
+    "fragrance": "Pleasantly fragrant — sweet, light, classic Prunus blossom scent",
+    "flowerSex": "Hermaphrodite (perfect flowers — both male and female parts present)",
+    "pollination": "Requires cross-pollination from another Prunus maritima of different genetic origin within pollinating distance; self-fertile fruit set is poor to none; bees are the primary pollinators; the early bloom is an important early-season pollen and nectar resource; plant at least two seedlings from different sources, or two named cultivars, within 50' — this is a non-negotiable requirement for reliable fruiting"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small round to oval drupes, 0.5-0.75\" diameter (up to 1\" on named cultivars); skin color ranges from blue-purple to deep red at full ripeness; flesh is yellow-green, juicy, and notably tart to astringent when eaten raw; not well-suited to fresh eating due to the tartness and thin flesh-to-pit ratio; exceptional for jams, jellies, preserves, fruit leather, wine, and cooked preparations; beach plum jam and jelly are classic New England specialties with a devoted following; the flavor is rich, complex, and distinctly \"beach plum\" — tart, fruity, and excellent when processed",
+    "harvestSeason": "August-September; fruit ripens quickly and drops fast when fully ripe — harvest as soon as the fruit softens, colors fully, and begins to detach easily from the stem; spread a tarp under the plant to catch fallen fruit",
+    "medicinalUses": "Limited documented medicinal use for this specific species; bark of native Prunus species broadly has traditional use as an astringent; not a primary medicinal plant",
+    "craftOtherYield": "Beach plum jam and jelly (the primary cultural yield of this plant — a traditional cottage industry along the New England coast); fruit wine; wood is hard and fine-grained but the shrubby habit makes timber use impractical; thorny stems are useful as a barrier element in hedgerow plantings"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Fruit flesh is non-toxic and edible; seeds (pits) contain amygdalin (cyanogenic glycoside) as with all Prunus species — do not crush and consume pits in quantity; incidental contact is not a concern; leaves and bark contain similar compounds in small amounts",
+    "toxicityAnimals": "Fruit flesh is safe for birds and wildlife; pits and wilted leaves are toxic to livestock (horses, cattle, sheep) due to cyanogenic glycosides — relevant if livestock are present; in a managed garden setting this is low risk",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer; dense, mounding habit; functions as a mid-height shrub in food forest edge plantings, wildlife hedgerows, and difficult-site groundcover at scale"
+    },
+    "roles": [
+      "Food (fruit — excellent processed yield; beach plum jam is a proven cultural product)",
+      "Wildlife Support (high value for birds and pollinators)",
+      "Windbreak / Hedgerow Structure",
+      "Slope Stabilization (root system binds sandy or loose soils effectively)",
+      "Native Plant Contribution (coastal native with strong ecological relevance)",
+      "Early Pollinator Support",
+      "Nesting Habitat"
+    ],
+    "companionPlants": [
+      "Prunus americana (American plum — compatible cross-pollinator if needed; similar hedgerow ecology)",
+      "Amelanchier canadensis (serviceberry — similar bloom time and wildlife value; excellent hedgerow companion)",
+      "Sambucus canadensis (elderberry — shrub layer companion in the same hedgerow ecology)",
+      "Rosa carolina or R. palustris (native roses — thorny hedgerow layer)",
+      "Rhus copallinum (winged sumac — dry-site companion; thicket-forming at the same scale)",
+      "Vaccinium corymbosum (highbush blueberry — similar pH preferences; pairs well for edge plantings)",
+      "Myrica pennsylvanica (northern bayberry — outstanding coastal companion; nitrogen-fixer; tolerates the same lean, sandy, exposed conditions)"
+    ],
+    "antagonists": [
+      "Do not plant near Juglans species (black walnut) — juglone toxicity affects Prunus. Monitor for black knot fungus (Dibotryon morbosum / Apiosporina morbosa) — the primary disease threat to beach plum; prune out infected galls promptly. Monitor for cedar-apple rust (Gymnosporangium) — eastern red cedars (Juniperus virginiana) serve as the alternate host; beach plum is in the Rosaceae and susceptible; inspect leaves and fruit in late spring and early summer."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds — fruit is consumed by many bird species including American robin, gray catbird, cedar waxwing, northern mockingbird, eastern bluebird, brown thrasher, and others; the dense, thorny shrub structure also provides essential cover and foraging habitat throughout the season; bees (early spring flowers — important early pollen and nectar source); butterflies and beneficial insects throughout the season; small mammals (raccoon, fox, opossum, white-tailed deer) consume fallen fruit",
+    "hostPlantFor": "Native Prunus species broadly support a large number of native Lepidoptera; beach plum hosts the Coral Hairstreak (Satyrium titus), which uses native plums specifically as a larval host; Eastern Tiger Swallowtail (Papilio glaucus), Viceroy (Limenitis archippus), and many moth species use Prunus as larval host; Prunus genus host plant richness is among the highest of any native genus in eastern North America",
+    "nestingHabitat": "Excellent — the dense, twiggy, thorny structure of established beach plum thickets is prime nesting habitat for shrubland birds; gray catbird, brown thrasher, yellow warbler, and song sparrow commonly nest in dense thorny shrubs of this type; the thicket provides predator protection that few other shrubs match at this scale"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate-good",
+      "description": "Moderate to good — the twiggy, spine-tipped branches deter deer browsing on established plants; young plants without significant branch development may be browsed; protect new plantings for the first 1-2 seasons with fencing or wire caging until the branch structure densifies; once established, the dense multi-stemmed form is reasonably resistant; in areas with very heavy deer pressure, permanent fencing may be needed until the plant reaches 3-4' and develops its characteristic thorny density"
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — salt spray tolerance is one of the defining ecological characteristics of beach plum; native to exposed Atlantic coastal dunes and sea bluffs; among the most salt-tolerant native fruiting shrubs in eastern North America; performs well in roadside salt exposure and maritime conditions; recovers quickly from incidental salt contact"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant native fruiting shrubs; native to sandy coastal soils with minimal water retention; once established, requires no supplemental irrigation in normal years across the humid eastern US; in arid western climates, occasional deep watering during prolonged dry spells supports better fruit set; well-suited to lean, dry, or difficult sites"
+    },
+    "other": "Highly tolerant of poor, sandy, and nutrient-lean soils; wind tolerant (coastal habit); tolerates exposed, windswept positions; less tolerant of heavy, wet, or compacted clay than it is of dry or sandy conditions; black knot disease (Dibotryon morbosum) is the primary disease concern — monitor annually and prune out infected material promptly; moderate heat tolerance but may underperform in the Deep South (Zone 8b+) where summer heat and humidity are sustained"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the plant is genuinely tough and requires little once established; disease monitoring is the primary ongoing task",
+    "pruningNotes": "The primary annual maintenance is disease monitoring: inspect for black knot galls (swollen, elongated, rough black growths on stems) each late winter or early spring before leaf-out, when galls are easiest to spot. Prune out any infected material immediately upon discovery; cut 4-6\" below the visible gall into clean, healthy wood; disinfect pruning tools between cuts with a 10% bleach solution or isopropyl alcohol; destroy infected material — do not compost. Annual late-winter pruning (February-March) to remove dead wood, crossing branches, and to thin the interior improves airflow and reduces disease pressure. Remove the oldest, most crowded stems at the base every 4-5 years to maintain vigor and fruit production on younger wood. For a more contained, garden-scale shrub, remove basal shoots as they appear — the plant will remain a defined clump rather than expanding into a loose colony. Fruit production is best on 2-4 year old wood.",
+    "propagationMethods": [
+      "Seed (cold stratification required — 90-120 days at 34-40°F; direct sow outdoors in fall for natural cold stratification; germination the following spring; fruit quality from seed is highly variable — use named cultivars for consistent production); hardwood cuttings (taken in late winter; moderate to good success; the standard method for propagating named cultivars); softwood cuttings (taken in early summer with mist; good success); bare-root plants from native plant nurseries or specialty fruit nurseries; named cultivars from specialty nurseries are the best source for a productive planting"
+    ]
+  },
+  "cultivarNotes": "Most beach plums sold in the trade are seedling-grown — fruit quality, size, and productivity vary considerably among seedlings. For a planting where jam and jelly production is a goal, named cultivars offer meaningfully better fruit size and reliability. Selected cultivars include 'Eastham' (the most widely available named cultivar; reliable producer; good fruit size; selected from wild Cape Cod populations), 'Genius' (large fruit; productive; selected for processed-fruit quality), and 'Premier' (large fruit; reliable; commonly available through specialty fruit nurseries). For wildlife hedgerow purposes where fruit quality is secondary, high-quality seedlings from a reputable native plant nursery are fully appropriate. Always plant at least two plants of different genetic origin — two named cultivars, or two seedling groups from different source populations — to ensure cross-pollination and reliable fruiting. Prunus americana is not a reliable cross-pollinator for P. maritima (different species); use two P. maritima plants or two beach plum cultivars. Zone 3-5 gardeners: beach plum is exceptionally cold-hardy and thrives in northern climates with sandy or well-drained soils; 'Eastham' is widely tested in New England and a strong first choice. Zone 6-7 gardeners: all named cultivars perform well in this range; choose based on fruit size preference and local nursery availability. Zone 8+ gardeners: beach plum may underperform in sustained summer heat — trial with afternoon shade protection and ensure excellent drainage; cultivar selection matters less than site selection in warm climates.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest perimeter",
+      "wildlife hedgerow",
+      "difficult and dry site planting",
+      "slope stabilization",
+      "exposed or windswept positions",
+      "salt-exposed roadside or edge plantings"
+    ],
+    "designPlacement": "Best suited to the outer boundary or perimeter of a food forest, food hedge, or wildlife corridor where thicket formation and moderate spreading are welcome; the shrubby, dense, thorny habit makes it an excellent living fence or buffer — pair with elderberry, serviceberry, native roses, and bayberry for a multi-species hedgerow of outstanding wildlife and food value; site in full sun with well-drained soil; avoid placing in confined beds, narrow borders, or areas with heavy clay and poor drainage unless the site is amended with raised mounds; the thorny structure provides a natural deer buffer on garden perimeters; give each plant 5-8' of linear hedgerow space or 8-10' as a standalone specimen; the 3-6' mature height fits well under canopy trees without competing for light",
+    "acquisitionStatus": "To source (specialty fruit nursery or native plant nursery; source two plants — either two named cultivars or two seedlings of different genetic origin for cross-pollination; 'Eastham' is the most widely available named cultivar and a reasonable first choice)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_maritima",
+    "inaturalist": "https://www.inaturalist.org/taxa/64543-Prunus-maritima",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Native to Pennsylvania only in the far southeastern corner — the Delaware Bay shore and tidal lowlands of Delaware and Philadelphia counties; not native to central or inland PA; beach plum would not occur naturally in the Hegins Valley (interior Ridge and Valley province); it is technically a PA native but absent from the local flora",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR as invasive or noxious",
+      "drainage": "The Hegins red clay is a significant limiting factor for beach plum; in-ground planting without amendment is not recommended; build a raised mound or berm of sandy loam mixed with coarse grit (at least 12-18\" above grade) to provide the fast drainage this species requires; avoid low spots where water pools after rain; the compacted, construction-disturbed clay near the foundation beds is especially unsuitable — site beach plum in open ground where a mound can shed water freely",
+      "soil": "The Hegins site's red clay requires amendment before planting beach plum; incorporate coarse grit (pea gravel or decomposed granite) and compost into the planting area, or build a raised mound of sandy loam; do not plant directly into unamended clay — the combination of poor drainage and compaction will stress the plant severely",
+      "cultivarNotes": "'Eastham' is the most practical choice — widely available from specialty fruit nurseries, proven in the mid-Atlantic climate, and reliably productive; pair with a second cultivar ('Premier' or 'Genius') or a seedling of different genetic origin for cross-pollination.",
+      "designPlacement": "Beach plum makes most sense as an outer perimeter or hedgerow element — pairing well with elderberry, serviceberry, and native roses in a food-and-wildlife hedgerow. The dense, thorny habit serves as a deer buffer on the east perimeter where wildlife pressure is highest. Given the site's clay soil and inland location, site preparation is critical — plant on a raised mound of sandy loam with coarse grit, not in unamended clay. Not recommended for Sections A, B, or C (confined beds with height limits or poor drainage); this plant needs open ground, full sun, and room to spread. The salt and drought tolerance make it a candidate for the driest, sunniest, most difficult position on the property — a spot that would stress less-adapted shrubs.",
+      "siteObservations": "The Hegins site is well outside beach plum's native coastal range — this is an inland Ridge and Valley location with heavy red clay, not the sandy coastal plain the species evolved in. The primary site challenge is drainage: clay soil must be corrected with raised mounds or berms before planting. Deer pressure from the east wildlife corridor is a concern for young plants — cage or fence new plantings for 1-2 seasons until the thorny branch structure develops. Black knot disease should be monitored annually; Juniperus virginiana (eastern red cedar) is common in PA hedgerows and serves as an alternate host for cedar-apple rust, so inspect Rosaceae plantings in proximity. Despite being out of its native range, beach plum is hardy to Zone 3 and should have no cold-hardiness issues at this site. The species is well-suited to a perimeter hedgerow role where its spreading, thorny habit is an asset rather than a limitation."
+    }
+  }
+}

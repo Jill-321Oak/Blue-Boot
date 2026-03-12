@@ -1,0 +1,166 @@
+{
+  "id": "brassica-rapa-chinensis",
+  "name": {
+    "commonName": [
+      "Bok Choy",
+      "Pak Choi",
+      "Chinese White Cabbage",
+      "Chinese Mustard Cabbage"
+    ],
+    "latinName": "Brassica rapa subsp. chinensis (syn. Brassica chinensis; treated by MBG and many horticultural sources as Brassica rapa Chinensis Group)",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Southern China and Southeast Asia; cultivated in China for over 1,500 years; widely grown throughout temperate and subtropical regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; not naturalized or invasive in the United States; a cultivated annual with no wild populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 states; bolted plants may self-seed lightly in the garden but the seedlings are edible and the plant poses no weed or ecological concern; not listed on any US state invasive species list"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 as a seasonal annual; performs best as a cool-season crop; hardy and vigorous across all US climate zones when grown in the appropriate seasonal window (spring and fall); does not tolerate summer heat in any zone"
+    }
+  },
+  "description": {
+    "height": "Highly variable by type: standard bok choy 12-18\"; Shanghai/baby bok choy 6-8\"; tatsoi low rosette 4-6\". Plants bolt to 24-36\" flower stalks in heat — bolt stalks are also edible and worth harvesting rather than discarding.",
+    "spread": "6-18\" depending on type and maturity",
+    "spacing": "6-8\" for baby types and full harvest; 10-12\" for standard bok choy at full head size; can be grown closer (4\") and thinned with the thinnings eaten as microgreens",
+    "growthRate": "Fast — one of the quickest-maturing vegetables in the garden; standard types mature in 45-60 days from transplant; baby bok choy 30-40 days; this speed is an asset in both the narrow spring window and the fall planting schedule",
+    "timeToMaturity": "30-60 days from transplant depending on type; baby bok choy is productive exceptionally quickly; the crop is harvestable at any stage — seedlings, baby heads, full mature heads, and even flower shoots after bolting",
+    "lifespan": "Annual; completes its life cycle (germinate, grow, bolt, flower, seed) in a single season; killed by hard frost, though it tolerates light frosts well across all zones",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None; the plant does not overwinter in any lower 48 state except as a frost-protected crop in the mildest coastal climates (Zones 9-11)"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun (6+ hours) is ideal for vigorous growth; in spring, a slightly shaded spot can delay bolting slightly by moderating soil temperature; in fall, full sun is fine as days are shortening",
+    "water": "Consistent medium moisture; even moisture produces the best quality — crisp, thick, juicy stalks; inconsistent watering causes stress that can trigger premature bolting; drip irrigation or consistent hand watering is ideal; do not allow soil to dry out during the main growth phase",
+    "drainagePreference": {
+      "description": "Prefers well-drained but moisture-retentive soil; does not tolerate standing water or soggy conditions; raised beds are broadly recommended — they warm faster in spring and drain better than native ground",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates moderate clay when drainage is managed; the shallow root system (top 6-8\") means clay subsoil is less of a concern than clay surface compaction; raised beds or heavily amended in-ground beds are preferred over unamended clay; soil must not remain waterlogged after rain"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; prefers slightly acidic to neutral; tolerates a wider range than many brassicas"
+    },
+    "texturePreference": "Loose, fertile, well-amended soil with good moisture retention; compost-enriched loam is ideal; tolerates moderate clay when drainage is managed; the root system is shallow and fibrous, benefiting from rich surface soil more than deep structure",
+    "rootCharacter": "Shallow, fibrous root system; the plant is entirely dependent on the top 6-8\" of soil; this makes it highly responsive to soil fertility and surface moisture; it also means it establishes quickly from transplant and responds immediately to feeding"
+  },
+  "bloom": {
+    "bloomTime": "Spring or early summer (when stressed by heat or long days); plants bolt in the spring window regardless of zone — the cool-to-warm temperature transition triggers it; fall crops may begin to bolt if daytime temperatures rebound unexpectedly",
+    "bloomDescription": "Bolt stalks are upright, branching, and topped with clusters of bright yellow four-petaled flowers — the characteristic crucifer bloom; quite cheerful and worth tolerating briefly; flower shoots (the young shoot just before petals open) are among the most delicious parts of the plant — sweeter and more tender than the leaves, excellent stir-fried or steamed; harvesting flower shoots aggressively once a plant starts to bolt extends the edible season meaningfully",
+    "fragrance": "Mild, slightly mustard-y when the flowers are rubbed; not decorative fragrance",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Insect-pollinated (bees primarily); cross-pollination with other Brassica rapa subspecies (napa cabbage, turnip, rapini) is possible when plants are left to flower simultaneously — not a concern for edible harvest but relevant if saving seed"
+  },
+  "yield": {
+    "edibleParts": "Entire plant is edible at every stage — seedling thinnings (eat raw or add to salads), baby heads (whole), mature heads (stalks and leaves separately or together), and bolt shoots/flower clusters (among the best-tasting parts of the plant; harvest when buds are still closed and bright green; taste similar to broccoli rabe but milder). The thick white or jade-green stalks are the primary textural element — crisp, juicy, and mild. The dark green leaves are slightly mustardy, more assertive than the stalks. Both are delicious raw in salads when young and tender; excellent stir-fried (high heat, short time), braised, added to soups and noodle dishes, or steamed. Bok choy wilts quickly and is best eaten within a few days of harvest.",
+    "harvestSeason": "Spring and fall — the specific timing varies by zone. In Zones 5-7 (mid-Atlantic, Midwest, Pacific Northwest), the fall crop (planted mid-August through early September, harvested October) is the primary season and the most reliable. Spring crops are shorter, riskier, and more dependent on bolt-resistant varieties and row cover. In Zones 8-10 (South, Southwest), fall through winter is the primary growing season; spring crops are rarely viable due to early heat. In Zones 3-4 (northern tier), spring and early fall crops are viable with appropriate timing; fall crops are compressed by early frost. Fall-harvested crops benefit from light frost, which improves leaf sweetness.",
+    "medicinalUses": "Rich in vitamins C and K, calcium, folate, and antioxidants; a nutritionally dense leafy green; no formal medicinal uses, but consistently cited as among the most nutritious brassicas",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — entirely edible, all parts",
+    "toxicityAnimals": "Like all brassicas, can cause gas and digestive upset in dogs and cats if fed in large quantities; not toxic in the clinical sense; incidental nibbling is not a concern",
+    "allelopathy": "None known",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (low annual vegetable)"
+    },
+    "roles": [
+      "Seasonal Food Crop (primary — fast-producing leafy vegetable for spring and fall harvest windows)",
+      "Intercrop / Gap Filler (matures quickly enough to fill bed space between slower-growing plants; plant between rows of slower brassicas, at the feet of trellised tomatoes, or in gaps in the fall garden)",
+      "Nitrogen-Responsive Crop (responds well to fertility; good use of compost-rich beds)",
+      "Quick Cover (dense leaf canopy suppresses weeds while in growth)"
+    ],
+    "companionPlants": [
+      "Celery (said to deter white cabbage moths)",
+      "garlic and alliums (pest deterrence)",
+      "onions",
+      "nasturtiums (trap crop for aphids)",
+      "dill and chamomile (attract beneficial predatory insects)",
+      "carrots (compatible root-leaf pairing in raised beds). In a fall garden context",
+      "bok choy pairs well with spinach",
+      "arugula",
+      "radishes",
+      "and Asian greens for a coordinated cool-season harvest."
+    ],
+    "antagonists": [
+      "Avoid planting near other Brassica rapa if seed-saving (cross-pollination risk); avoid planting in ground that has hosted brassicas in the last 2-3 years to reduce clubroot and soilborne disease pressure; strawberries are sometimes cited as poorly compatible companions"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators (bees, small butterflies) visit the yellow flowers when bolted plants are allowed to flower; beneficial insects are attracted to flowering brassicas; consider leaving one or two plants to bolt in the fall garden specifically for this",
+    "hostPlantFor": "Cabbage white butterfly (Pieris rapae) — this is the most significant insect relationship across the lower 48; larvae (imported cabbageworms) feed on brassica leaves and can be destructive; hand-pick caterpillars or use Bt (Bacillus thuringiensis); row cover provides complete prevention. Also hosts cabbage loopers and cutworms.",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — bok choy is highly palatable to deer throughout the lower 48; the soft, leafy, low growth is exactly what deer browse preferentially; protection is strongly recommended anywhere deer pressure exists; row cover serves double duty as both pest exclusion and modest deer deterrent for low beds, but a proper physical barrier (hoops and netting, or a wire cage) is more reliable"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside salt spray; not a concern for raised beds set back from roads"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — a shallow-rooted, high-water-demand crop; drought stress triggers bolting and produces tough, bitter plants; consistent moisture is essential for quality regardless of region"
+    },
+    "other": "Frost tolerance is moderate — tolerates light frosts (28-32°F) well, which actually sweetens the leaves; harder frosts (below 25°F) damage or kill the plant; in northern zones (5-7) this means fall crops can often be harvested into mid-October or later under row cover; spring crops across all zones are at risk from unexpected late frosts; plants generally recover from brief cold snaps better than they tolerate heat"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the plant itself is undemanding; the primary management challenge is timing and pest exclusion, not cultural care",
+    "pruningNotes": "No pruning in the traditional sense. The key management decisions are: (1) BOLTING — the central challenge of spring growing in any zone; monitor daily in warm weather; when the center begins to elongate and shoot upward, the plant is bolting; immediately harvest the entire head and/or the bolt shoot; do not wait; bolted leaves become bitter quickly. Even a fully bolted plant is still edible — the flower shoots are genuinely delicious and should not be wasted. For spring crops, choose bolt-resistant varieties explicitly, use transplants rather than direct sow (fewer days in the ground), and accept that spring crops are inherently riskier and shorter than fall crops. (2) PEST MANAGEMENT — flea beetles are the most common pest on all Brassica rapa across the lower 48; they create distinctive small round holes in leaves, particularly when plants are young; row cover installed at planting time (before beetles find the plants) is the single most effective prevention; older, established plants tolerate flea beetle damage much better than seedlings; remove row cover once plants are 4+ weeks old if needed for pollination of flowering plants. Slugs can be devastating in cool, wet spring conditions in raised beds — iron phosphate bait (Sluggo) is safe and effective; diatomaceous earth around the base of plants helps in dry weather. Cabbage loopers and imported cabbageworms are secondary pests; hand-pick or apply Bt as needed. (3) FALL CROP — fall crops are significantly less prone to bolting, largely free of the extreme flea beetle pressure of spring, and produce the best-quality leaves; the fall crop is the recommended primary season across Zones 5-7.",
+    "propagationMethods": [
+      "Direct sow (preferred for fall crops — sow seeds ¼\" deep, thin to final spacing; germination is rapid at 65-80°F); Transplant (strongly preferred for spring crops — start indoors 4-6 weeks before last frost, harden off carefully, transplant early; transplanting rather than direct sowing reduces days in the ground and shortens the bolting risk window; use cell trays, not deep pots — bok choy does not like root disturbance); Succession sowing (sow every 2-3 weeks during fall planting window for continuous harvest rather than a single glut)"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection should address two priorities: bolt resistance (for spring) and overall quality (for fall). The right varieties vary by zone — spring plantings in Zones 3-5 have more time before heat arrives; Zones 7-9 must prioritize extreme bolt resistance or skip spring entirely. The bok choy category includes three distinct types that are almost distinct vegetables:\n**Standard Bok Choy (white-stalked, 12-18\")** — The classic type with broad white celery-like stalks and large dark green leaves. Most grocery store bok choy falls here. Best for braising, soups, and stir-fries where the thick stalk is the star. Key cultivar: **'Joi Choi'** (widely available, bolt-resistant, strong disease resistance, consistent across Zones 5-8, the benchmark variety for home gardens); **'Lei Choi'** (similar to Joi Choi, very bolt-resistant, excellent for spring in cooler zones); **'Prize Choi'** (vigorous and productive for fall).\n**Shanghai / Baby Bok Choy (jade-green stalked, 6-8\")** — The spoon-shaped type with smooth jade-green stalks throughout (no white); the archetypal restaurant bok choy; more heat tolerant than standard types and often considered to have superior flavor — sweeter, more tender; harvested young at 6-8\". Key cultivar: **'Shanghai Green'** (the standard green-stalked baby type; widely available; excellent for fall and for succession planting across all zones); **'Toy Choi'** (very compact, 4-6\", extremely fast, ideal for intensive raised bed succession planting); **'Green Fortune'** (bolt-resistant, strong performer in spring and fall across Zones 5-9).\n**Tatsoi** (flat rosette, very cold-hardy, almost a separate vegetable) — Tatsoi (Brassica rapa subsp. narinosa) is sometimes grouped with bok choy but is sufficiently distinct to treat separately; it forms a flat ground-hugging rosette of dark spoon-shaped leaves; extremely cold-hardy (survives hard frost); superb fall and overwintering green in mild climates; milder and nuttier than standard bok choy. **'Tatsoi'** or **'Rosette Bok Choy'** is the standard; no cultivar differentiation needed for home production. Highly recommended as a companion planting to standard bok choy for fall production in any zone.\n**Zone-band guidance:** Zones 3-4: focus on fast-maturing baby types (Toy Choi, Shanghai Green) to fit within the compressed frost-free window; fall crops are short but high-quality. Zones 5-7: the most favorable range for bok choy production; both spring and fall crops are viable; fall is primary; Joi Choi and Shanghai Green are core varieties. Zones 8-9: skip spring; plant fall crops September through October for winter harvest; bolt resistance is non-negotiable for any spring attempt; tatsoi performs well as a winter green. Zones 10-11: grow through winter only; summer growing is not viable.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated cool-season vegetable bed",
+      "intensive raised bed succession planting",
+      "fall garden staple",
+      "spring shoulder-season crop (with realistic expectations around bolting)"
+    ],
+    "designPlacement": "Bok choy belongs in the raised vegetable beds, not in ornamental or mixed beds — it is a fast-moving, pest-susceptible annual that benefits from dedicated management. The fall crop is the primary planting and should be a reliable annual fixture wherever cool-season production is a garden goal. Kitchen proximity is ideal for a cut-and-come-again vegetable that benefits from frequent harvesting. Do not place in beds managed for aesthetics or perennial structure. Spring crops can occupy any sunny raised bed space but should be planned with bolt-resistance varieties, row cover, and a clear harvest window appropriate to local last-frost dates.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations:\nZone 6a Hegins offers a reliable fall bok choy season that should be a regular part of the garden calendar. The spring window is real but narrow and requires the right varieties, timing, and row cover to succeed consistently. The red clay raised beds — once properly amended with compost for moisture retention and drainage — are well-suited to bok choy's needs. Key site-specific considerations: (1) Flea beetles — universally severe on all Brassica rapa in Pennsylvania; row cover from day one is not optional for seedlings, it is standard practice; (2) Slugs — the cool, moist spring conditions in raised beds are prime slug habitat; iron phosphate bait as a preventive measure in the spring garden; (3) Deer — the raised bed location and any existing fencing around the vegetable area will help; bok choy is highly palatable and will be targeted if accessible; row cover provides some deterrence but a proper enclosure is more reliable for this site; (4) Clubroot — if this soilborne disease becomes established (common in PA brassica beds after several years), it will affect all Brassica rapa crops; rotate brassicas on a minimum 3-year cycle to reduce pressure; raised beds with fresh compost help; (5) Fall timing — planting too late (after mid-September) risks the plants not maturing before hard frost; aim for transplants in the ground by September 1 for reliable October harvest."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bok_choy",
+    "inaturalist": "https://www.inaturalist.org/taxa/414239-Brassica-rapa-chinensis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261920&isprofile=0&chr=19"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; not naturalized or invasive",
+      "paInvasiveStatus": "Not listed; not a concern",
+      "drainage": "Hegins red clay is compacted and slow-draining after rain; raised beds with compost amendment are strongly preferred over direct in-ground planting; raised beds solve both drainage and soil fertility requirements simultaneously",
+      "soil": "Hegins red clay requires raised bed or heavy compost amendment for reliable performance; unamended native clay will produce stunted, stress-prone plants; raised beds filled with compost-enriched loam are the recommended growing medium at this site",
+      "cultivarNotes": "Grow **'Joi Choi'** (standard) and **'Shanghai Green'** (baby) as the core fall crop planted in mid-August through early September. For spring, attempt **'Toy Choi'** or **'Lei Choi'** under row cover with realistic expectations. Add a patch of tatsoi to the fall bed for late-season and frost-tolerant harvest extending into November.\n**Family context:** Brassica rapa is an extraordinarily diverse species containing numerous cultivated subspecies: subsp. pekinensis (napa cabbage / Chinese cabbage), subsp. rapa (turnip), subsp. ruvo (rapini / broccoli rabe), subsp. narinosa (tatsoi), subsp. nipposinica (mizuna), and subsp. chinensis (bok choy). All are cross-compatible and share the flea beetle and clubroot vulnerabilities common to the species. The diversity of the species is worth appreciating as a gardener — the turnip in the fall bed and the bok choy in the spring bed are the same species, separated only by the part selected and bred for.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is well-suited — kitchen proximity is ideal, and the north-facing aspect with increasing shade from the food forest moderates summer heat slightly, which is useful for delaying bolting in late summer plantings. A row or two of bok choy, tatsoi, and Asian greens in Section B as a coordinated fall brassica block makes excellent sense. Do not place in Section A (ornamental; not appropriate for annual vegetable management).",
+      "siteObservations": null
+    }
+  }
+}

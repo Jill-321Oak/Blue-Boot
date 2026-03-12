@@ -1,0 +1,171 @@
+{
+  "id": "galium-odoratum",
+  "name": {
+    "commonName": [
+      "Sweet Woodruff"
+    ],
+    "latinName": "Galium odoratum",
+    "family": "Rubiaceae"
+  },
+  "range": {
+    "nativeRange": "Europe (widespread — from Britain and Scandinavia south to the Mediterranean, east through Russia and into Siberia and western Asia); also naturalized in scattered locations across temperate North America in moist, shaded habitats",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; European introduction naturalized in scattered locations across the eastern US, particularly in the mid-Atlantic, New England, and upper Midwest; typically found in moist, shaded woodland settings, streamside corridors, and old estate gardens where it has escaped cultivation; not widespread enough to be ecologically significant as a naturalized species in most regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive or noxious in any US state; not on the USDA PLANTS noxious weed list or any state invasive species registry; can spread aggressively by rhizome in ideal woodland conditions (deep shade, consistent moisture, mildly acid humus-rich soil) and should be monitored at garden margins to prevent spread into adjacent natural woodland; well-behaved in average garden settings but persistent and determined in perfect conditions; the rhizome spread is manageable with annual edging and is not comparable to truly invasive ground covers"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "6-12\"",
+    "spread": "Unlimited — spreads indefinitely by creeping underground rhizomes; a single plant can colonize several square feet within a few seasons in ideal conditions; a desirable quality when used as a ground cover, requiring management at the perimeter",
+    "spacing": "12-18\" for initial planting; fills in to a continuous mat within 2-3 seasons",
+    "growthRate": "Moderate; slow to establish in the first season, then accelerates; once the rhizome network develops the plant spreads with real determination",
+    "timeToMaturity": "Ground cover effect in 2-3 seasons; permanent colony thereafter",
+    "lifespan": "Essentially permanent in suitable conditions; once established in appropriate shade and moisture, the colony is self-sustaining and long-lived",
+    "deciduousEvergreen": "Semi-evergreen to deciduous — in Zone 6-7, the whorled foliage often persists into early winter before browning; in Zone 8 or mild winters it may remain partially green through winter; in Zone 4-5 expect full dormancy; new growth emerges in early spring; not a significant winter presence in most zones",
+    "winterInterest": "Low — the dried stems and whorled leaves persist briefly but the plant is not ornamentally significant in winter; the main season is spring through fall"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to deep shade; this is the defining characteristic of sweet woodruff — it is one of the few ornamental ground covers that genuinely thrives in deep shade, including the dense canopy shade beneath established pawpaw, beech, or oak where most plants thin out and fail; performs best with no direct sun or only brief morning sun; will scorch badly in afternoon sun or unprotected full-sun exposure; the deeper the shade, the more this plant has a competitive advantage over alternatives; in Zone 8+ and the Deep South, even morning sun can cause stress — deep shade is mandatory in warm climates",
+    "water": "Medium; prefers consistent moisture; performs best in the evenly moist conditions typical of a healthy woodland floor; tolerates the natural seasonal drying of the upper soil in summer if the root zone remains somewhat cool and shaded; do not let it dry out completely in establishment; once the rhizome mat is dense it is more resilient; in the arid West and Southwest this plant requires regular irrigation and is practical only in irrigated shade gardens",
+    "drainagePreference": {
+      "description": "Moist, well-drained; not a wet-soil plant — it dislikes standing water and waterlogged conditions; prefers the well-structured, moisture-retentive but freely draining soil that results from a good organic matter layer; improve planting areas with 3-4\" of composted leaf litter before planting; in soils with poor drainage, crown rot and rhizome decline are the primary risks",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — sweet woodruff can grow in clay soil if it is amended with generous organic matter, but unamended heavy clay with poor drainage will cause rhizome rot and colony failure; the shallow rhizome network sits in the top few inches of soil, so the critical intervention is building a humus-rich surface layer rather than deeply breaking the clay; a 3-4\" layer of composted leaves or fine bark worked into the top 4-6\" of clay, topped with ongoing leaf litter mulch, creates the woodland floor character this plant needs; clay gardens across the eastern US, Midwest, and Pacific NW can grow sweet woodruff successfully with this preparation"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; performs best in mildly acid to neutral conditions; the woodland floor humus typical of established shade gardens is ideal"
+    },
+    "texturePreference": "Humus-rich, moisture-retentive loam; amendments with composted leaves or fine bark mulch improve heavy or compacted soils and create the woodland floor character this plant prefers; a 2-3\" leaf litter mulch layer maintained annually is the single best management practice for long-term success",
+    "rootCharacter": "Shallow, spreading rhizomes just beneath the soil surface; fine, fibrous roots; the rhizome network knits the soil surface together to form a stable, erosion-resistant mat; easy to divide or remove by hand"
+  },
+  "bloom": {
+    "bloomTime": "April-May",
+    "bloomDescription": "Small, bright white, star-shaped flowers with four petals in clusters above the foliage; individually tiny (3-5mm) but produced in such generous quantity that the plant presents as a frothy white haze above the whorled green leaves for 3-4 weeks in mid-spring; one of the most charming spring effects in the shade garden; the combination of the whorled leaf arrangement and the white flower clusters is distinctive and highly ornamental; a visual highlight of the spring shade garden season",
+    "fragrance": "The fresh plant has a faint, pleasant, slightly grassy scent. The dried plant is intensely and distinctively fragrant — a sweet, warm, hay-like coumarin fragrance, the same aromatic compound responsible for the scent of tonka beans, new-mown hay, and freshly cured tobacco; the fragrance develops fully only upon drying or wilting and intensifies over time; the dried plant is beautifully aromatic and has been used for centuries as a strewing herb, linen sachet, and moth repellent; one of the most characterful dried-herb fragrances in the garden",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Small bees, hoverflies, and other early-season insects; the spring bloom coincides with the emergence of early pollinators from overwintering sites, providing a timely nectar source; self-fertile"
+  },
+  "yield": {
+    "edibleParts": "Leaves and stems — used as a flavoring agent, not eaten directly in quantity; the classic use is Maiwein (May Wine), the traditional German spring punch made by steeping fresh sweet woodruff in Riesling wine for 20-30 minutes; the coumarin imparts a distinctive sweet, vanilla-hay flavor; a small bunch of fresh sprigs is the traditional quantity; drunk in moderate amounts as a seasonal celebration; also used historically to flavor beers, fruit cups, and spring cordials",
+    "harvestSeason": "Spring — harvest fresh sprigs just before or at first bloom for Maiwein use; the coumarin content and fragrance are highest at this stage; dry bunches cut in spring for sachet and craft use",
+    "medicinalUses": "Traditional European use as a mild sedative, antispasmodic, and lymphatic tonic; used in folk medicine for digestive complaints and as a general spring tonic; the coumarin content is the pharmacologically active constituent; NOT recommended for regular medicinal use or in concentrated extracts — see Cautions",
+    "craftOtherYield": "Dried bunches for sachets, drawer liners, linen fresheners, and moth repellent; the fragrance is genuinely effective and long-lasting in dried form; an excellent dried herb for aromatic craft use; the traditional European use of sweet woodruff as a strewing herb and linen scenter is still practical today"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — sweet woodruff contains coumarin, a naturally occurring compound that in large doses is a documented hepatotoxin (liver toxin) and has significant blood-thinning (anticoagulant) effects; the traditional Maiwein use — a small quantity of fresh herb steeped briefly in wine and consumed occasionally — is generally considered safe and is culturally well-established; the risk lies in concentrated extracts, large doses, or frequent regular internal use; individuals on anticoagulant medications (e.g., warfarin) should avoid internal use entirely; do not use medicinally in sustained or high doses; the dried herb used as a sachet or aromatic is safe with no internal consumption",
+    "toxicityAnimals": "The coumarin content presents the same anticoagulant risk to animals in quantity; keep pets from consuming significant quantities; not a primary concern in a garden setting where the plant is used as a ground cover, but worth noting",
+    "allelopathy": "None well-documented; the dense mat suppresses weeds through shading and physical competition rather than chemical allelopathy",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (primary — one of the very best deep-shade ground covers for weed suppression; the dense rhizome mat and leaf canopy excludes most weeds in established plantings)",
+      "Deep Shade Specialist (fills the most difficult ecological niche in the food forest — the zone of dense, year-round canopy shade where most ground covers fail)",
+      "Aromatic / Craft Yield (dried herb, sachets, moth repellent)",
+      "Culinary Flavoring (Maiwein, traditional European flavoring)",
+      "Deer Resistance (coumarin fragrance deters browsing)",
+      "Early Pollinator Support (spring bloom provides nectar at a critical time)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (pawpaw — sweet woodruff is ideally suited to the deep shade beneath pawpaw canopy)",
+      "Matteuccia struthiopteris (ostrich fern — the fern crowns rise above the woodruff mat; complementary height niches in the same shade zone)",
+      "Asarum canadense (wild ginger — similar shade and moisture requirements; the two can be interplanted in the same ground layer)",
+      "Hosta spp. (the classic companion in woodland garden design; sweet woodruff fills between hosta crowns)",
+      "Lysimachia nummularia (creeping Jenny — complementary ground cover for moister sections)",
+      "Lindera benzoin (spicebush — same ecological community and shade preference)",
+      "Allium tricoccum (ramps — a compatible seasonal companion; ramps emerge and die back before the woodruff peak season)"
+    ],
+    "antagonists": [
+      "Sun exposure — do not place in open",
+      "south-facing",
+      "or unshaded positions; strictly a shade plant; direct sun causes browning",
+      "scorching",
+      "and colony retreat; also intolerant of dry",
+      "compacted soil without organic matter amendment"
+    ],
+    "coppiceable": "No; the ground cover mat is self-maintaining; shear or mow sections that spread beyond the intended area; trim mat edges with a spade annually to control perimeter spread"
+  },
+  "wildlife": {
+    "attracts": "Early-season bees (small native bees, bumblebee queens), hoverflies, and other early spring pollinators emerging from overwintering sites; the April-May bloom window is ecologically important as a nectar source when forage is limited; the dense leaf mat provides year-round ground-level microhabitat for beetles, spiders, and invertebrates; ground beetles and other predatory insects use the mat as hunting and sheltering habitat",
+    "hostPlantFor": "Not a significant larval host for North American native Lepidoptera; a European native plant without deep North American ecological relationships; the pollinator value is primarily through nectar",
+    "nestingHabitat": "Dense, permanent ground mat provides year-round cover and microhabitat for ground-dwelling invertebrates; leaf litter maintained beneath the mat supports a diverse decomposer community"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the coumarin fragrance actively deters deer browsing; sweet woodruff is one of the better deer-resistant ground covers for shaded settings; deer will generally avoid it in favor of more palatable plants nearby; young transplants may be trampled or sampled before the colony establishes a strong aromatic presence, so light protection (temporary netting or caging) during the first season is worthwhile in areas with heavy deer pressure"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt and salt spray; avoid proximity to salted roads, driveways, or coastal exposure; not a concern for interior garden or food forest placements"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — requires consistent moisture to maintain the dense mat; established colonies tolerate brief dry periods better than newly planted sections; deep shade and organic mulch layer help retain soil moisture and moderate temperature; supplemental watering during dry periods in the first 2 seasons is important for establishment"
+    },
+    "other": "Cold-hardy to Zone 4; heat tolerance limited — struggles above Zone 8 and in the Deep South without deep shade and consistent moisture; intolerant of compacted, airless soil without organic matter amendment; tolerates light foot traffic once established but is not a walkable surface"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low in appropriate shade and moisture conditions; the main task is managing perimeter spread",
+    "pruningNotes": "Trim or cut back at bed edges annually with a sharp spade to prevent spread into paths, lawn, or adjacent plantings; remove any sections that enter unwanted areas; in the interior of a guild planting, no maintenance is needed — the mat is self-managing; an annual top-dressing of composted leaves in fall mimics the natural woodland floor and sustains long-term vigor",
+    "propagationMethods": [
+      "Division (easiest method — dig sections of the rhizome mat in spring or fall; replant in prepared shade soil kept moist; establishes quickly)",
+      "stem cuttings (semi-ripe in summer; root in moist shade)",
+      "seed (sow fresh seed in fall; requires cold stratification; germination is slow and inconsistent; division is far more reliable for garden propagation)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars in common use; the straight species is the standard for ground cover planting. The species is botanically stable and the wild-type form is appropriate for all garden applications across Zones 4-8. Occasionally sold under the older synonym Asperula odorata — the same plant under a former name, not a different selection. Because there is only one form in cultivation, cultivar selection does not vary by zone band — gardeners in Zone 4-5 (upper Midwest, northern New England), Zone 6-7 (mid-Atlantic, Pacific NW, central Midwest), and Zone 8 (Southeast, coastal Pacific NW) are all working with the same plant. The key variable is not cultivar but site: shade depth, soil moisture, and organic matter determine success regardless of zone.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden ground cover",
+      "food forest understory",
+      "deep shade garden",
+      "shaded path edging",
+      "fragrant herb garden (for drying)",
+      "Maiwein herb garden"
+    ],
+    "designPlacement": "Deep shade ground cover beneath canopy trees and large shrubs — sweet woodruff fills the role of dense, weed-suppressing ground layer in the most heavily shaded areas of a garden or food forest where few other ornamental ground covers succeed; plant beneath pawpaw, oak, beech, or any dense canopy where light levels are too low for grass or most perennials; combine with ostrich ferns for height variation and wild ginger for native plant contribution; the two ground covers can be interplanted to create a mixed matrix covering the entire floor; do not place in full sun, open exposures, or south-facing positions — the plant will scorch and retreat; best in north-facing, east-facing, or canopy-shaded positions with consistent moisture",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Galium_odoratum",
+    "inaturalist": "https://www.inaturalist.org/taxa/56065-Galium-odoratum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c820"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; introduced from Europe; naturalized in portions of eastern Pennsylvania in shaded streamside and woodland settings; not native to the Hegins area",
+      "paInvasiveStatus": "Not listed on the Pennsylvania DCNR invasive species list, the PA Dept. of Agriculture noxious weed list, or the PISC (Pennsylvania Invasive Species Council) watch list; same as general Invasive field — not regulated in PA",
+      "drainage": "The Hegins red clay is workable for sweet woodruff with amendment — incorporate 3-4\" of composted leaf litter into the top 4-6\" of clay at planting and maintain an annual leaf mulch top-dressing; the compacted, construction-disturbed clay at this site will not support sweet woodruff without this preparation; once the organic layer builds over 2-3 seasons the plant becomes self-sustaining; raised beds are not required if the amendment is done well, but avoid any low spots where water pools after heavy rain",
+      "soil": "The Hegins red clay requires amendment before planting — work in 3-4\" of composted leaves or aged bark mulch to build a humus layer in the top 4-6\"; the clay beneath provides adequate moisture retention once the surface is improved; annual leaf litter top-dressing mimics the natural woodland floor and sustains the colony long-term",
+      "cultivarNotes": "the straight species is the only form available and is well-suited to Zone 6a conditions; no cultivar decision is needed.",
+      "designPlacement": "Pawpaw guild ground layer — sweet woodruff is the primary deep shade ground cover beneath the pawpaw canopy at this site; plant in combination with ostrich ferns and wild ginger to create a layered guild floor; also a candidate for any deep shade produced by large shrubs in Section B as that area becomes increasingly shaded by the developing food forest; do not place in Section A (too much sun exposure, even on the north face) or Section C (south-facing, warm and dry — entirely unsuitable)",
+      "siteObservations": "The active deer pressure from the east corridor is not a significant concern for this plant — coumarin fragrance provides good deterrence, and the ground-level habit makes it less of a target than taller perennials; the compacted red clay at this site requires amendment with composted leaf litter before planting (see Drainage and Soil sections above); once the organic layer builds over 2-3 seasons the colony should be self-sustaining; Zone 6a winters are well within tolerance; monitor spread at guild margins to prevent colonization of adjacent beds or paths"
+    }
+  }
+}

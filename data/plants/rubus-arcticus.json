@@ -1,0 +1,159 @@
+{
+  "id": "rubus-arcticus",
+  "name": {
+    "commonName": [
+      "Arctic Raspberry",
+      "Arctic Bramble",
+      "Emerald Carpet Raspberry"
+    ],
+    "latinName": "Rubus arcticus",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Boreal and subarctic regions of North America (Alaska, northern Canada), Scandinavia, northern Russia, and northern Asia; a circumboreal species of cool, moist forest margins, open bogs, and alpine meadows; present across a wide northern arc from Scandinavia to Siberia to the Pacific Northwest edge of North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to Alaska; not native to the contiguous United States; the species' natural range in North America is restricted to Alaska and northern Canada; it does not occur natively in any lower-48 state; all lower-48 plantings are introductions from boreal stock or Finnish cultivar programs"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; spreads slowly by underground stolons and forms a low spreading mat over time but is well-behaved and not aggressive; in warmer zones it is unlikely to spread vigorously even under ideal conditions; not listed on any state noxious weed list or the USDA invasive species database; the plant's demanding cultural requirements (cool temperatures, consistent moisture, acidic soil) make uncontrolled spread essentially impossible in most of the contiguous US"
+    },
+    "zone": {
+      "min": 2,
+      "max": 6,
+      "description": "2-6 (Zone 6 is the warm edge of reliable performance; survival is possible with correct siting but summer heat stress is a genuine and recurring challenge in Zones 5b-6; see Tolerances and Garden Use)"
+    }
+  },
+  "description": {
+    "height": "4-8\"; a true ground cover — one of the smallest Rubus species in cultivation; the foliage hugs the ground and the short flower and fruit stems rise only slightly above the leaf canopy",
+    "spread": "Spreads by underground stolons to form a low, dense, weed-suppressing mat; spread is slow to moderate; over several seasons a single planting can cover a square yard or more; in cool, moist conditions spread is more vigorous",
+    "spacing": "12-18\" apart; closer spacing (12\") is recommended in warmer zones (5b-6) to establish coverage quickly while the plants are young and most vulnerable; a pair of compatible cultivars (e.g., 'Beata' and 'Aura') must be interplanted — do not plant a single cultivar alone if fruit is the goal",
+    "growthRate": "Slow to moderate — Arctic raspberry establishes slowly and is not a fast colonizer; patience is required, particularly in the first season; do not expect significant spread or fruiting until year 2-3",
+    "timeToMaturity": "First meaningful fruit in year 2-3; full ground cover establishment in year 3-5 under good conditions; the plant rewards patience and correct siting with an extraordinary harvest of small but intensely flavored berries",
+    "lifespan": "Perennial — the stolon and crown system is long-lived; individual stems are short-lived but the clonal mat renews itself continuously; a well-sited planting can persist and expand indefinitely",
+    "deciduousEvergreen": "Deciduous — the foliage dies back in autumn; the low carpet of three-lobed leaves is attractive through the growing season, turning reddish in fall before dying back; no significant winter structure",
+    "winterInterest": "Low — no meaningful winter presence; the dormant mat is invisible under snow or mulch; this is a growing-season plant"
+  },
+  "lightAndWater": {
+    "sun": "Partial shade to full shade preferred in warmer zones (5b-6); in its native range and in Zones 2-4, Arctic raspberry grows in cool, dappled light on forest margins and open boreal woodland and can tolerate more sun; in Zones 5b-6, afternoon shade is essential to prevent summer heat stress; a north-facing slope or the shaded north side of a building, wall, or tree canopy is the correct placement; morning sun with afternoon shade is acceptable; avoid any site with hot afternoon sun exposure in zones warmer than 4",
+    "water": "Medium to high — Arctic raspberry requires consistent moisture and does not tolerate drought; moist, cool soil should be the design goal; mulch heavily to conserve soil moisture and moderate soil temperature; drip irrigation or proximity to a downspout catchment area is an advantage; the combination of heat and drought is the primary cause of failure in warmer zones",
+    "drainagePreference": {
+      "description": "Moist but not waterlogged; tolerates consistently moist soils better than most Rubus species; standing water is not acceptable but the plant performs well in reliably moist conditions that would stress a conventional raspberry; a slight slope that keeps water moving through the root zone without pooling is ideal",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — Arctic raspberry is adapted to loose, high-organic, acidic boreal soils and performs badly in heavy clay; compacted clay causes waterlogging in winter and overheating in summer, both of which are damaging; the shallow stolon system cannot penetrate dense clay and spread is severely restricted; heavy clay must be thoroughly amended with acidic organic matter (pine bark fines, leaf mold, peat moss) to a depth of at least 8-10\" before planting; in unimproved heavy clay, failure is likely"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6,
+      "description": "4.5-6.0; distinctly acidic preferred; this is a boreal species adapted to peat-influenced, acidic organic soils; amend with acidic compost, pine bark fines, or leaf mold from oak or beech; avoid lime-amended or high-pH soils; most eastern US clay soils trend neutral to slightly acidic and will benefit from acidifying amendment before planting"
+    },
+    "texturePreference": "Loose, high-organic, moisture-retentive; a mix of compost, leaf mold, and peat moss incorporated into the planting hole closely mimics the boreal forest floor conditions the plant evolved in; good moisture retention is more important than drainage here, which is the opposite of most Rosaceae; do not plant in compacted clay without thorough amendment",
+    "rootCharacter": "Shallow spreading stolons and a fibrous root system; roots are close to the soil surface and extremely sensitive to soil temperature; a deep (4-6\") layer of organic mulch (shredded leaves, pine bark, wood chips) is critical — it moderates summer soil temperatures, conserves moisture, and suppresses competing weeds; the mulch layer is arguably the single most important site preparation element in warmer zones"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Small, five-petaled flowers, typically bright pink to rose-pink — more colorful and ornamentally appealing than most Rubus; individually charming and delicate above the low foliage carpet; the pink flowers combined with the dense green mat make this a genuinely attractive ground cover in bloom",
+    "fragrance": "Slight, pleasant",
+    "flowerSex": "Hermaphrodite — flowers contain both male and female parts",
+    "pollination": "Requires cross-pollination — this is a critical cultural note; a single plant of any one cultivar will produce little to no fruit; two compatible cultivars must be planted together; the Finnish cultivar pairs ('Beata' + 'Aura') are specifically bred and selected for cross-compatibility; bees and other small pollinators effect pollination; good pollinator habitat nearby improves fruit set"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small (approximately 0.5\" diameter), red, aggregate drupelets in the familiar raspberry form; the berries are produced on short upright stems that rise just above the foliage canopy in July-August; despite their small size, the flavor is genuinely exceptional — widely considered among the finest of all Rubus fruits, with a sweet, intensely aromatic, complex character combining floral notes, classic raspberry fragrance, and a depth of flavor that surpasses most cultivated red raspberries; in Scandinavia, Arctic raspberry jam (known in Swedish as \"Åkerbärssylt\") is a premium artisan product commanding prices many times that of ordinary raspberry jam; the flavor alone makes this plant worth attempting despite the cultural challenges in warmer zones",
+    "harvestSeason": "July-August; the harvest window is relatively brief; the small berry crop should be harvested promptly as the fruit is soft and perishable; the yield per plant is modest compared to conventional raspberry — the value is entirely in the flavor, not the volume",
+    "medicinalUses": "Traditional use in Scandinavian and Russian folk medicine; leaves used similarly to Rubus idaeus (raspberry leaf tea) — as a mild astringent, digestive aid, and general tonic; the fruit is high in vitamin C, anthocyanins, and ellagitannins consistent with other Rubus species; not a primary medicinal plant in Western herbalism but the traditional uses are well-documented in Nordic ethnobotany",
+    "craftOtherYield": "Premium jam and preserves (the primary traditional use — Åkerbärssylt is the celebrated Scandinavian preparation; even a small harvest produces intensely flavored jam that rewards the effort far beyond what the berry volume would suggest); cordials and liqueurs (Arctic raspberry liqueur is a traditional Scandinavian product)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — fruit and leaves are widely consumed; no known hazards",
+    "toxicityAnimals": "Not toxic to dogs, cats, or horses; the fruit is safe and palatable to most animals",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground cover layer; the lowest functional layer of the food forest or shade garden — sits below the herb layer"
+    },
+    "roles": [
+      "Food (specialty yield — exceptional flavor, modest volume; a luxury fruit crop rather than a bulk producer)",
+      "Ground Cover (where it thrives, forms a dense low mat that suppresses weeds and protects soil moisture — a functional living mulch)",
+      "Shade Garden Productivity (one of the very few fruiting ground covers tolerant of significant shade — fills a functional role in cool, shaded microclimates that few edible plants can occupy)",
+      "Wildlife Support (see Wildlife)",
+      "Soil Cover (protects bare soil in cool, moist, shaded areas where other ground covers fail to perform)"
+    ],
+    "companionPlants": [
+      "Linnaea borealis (twinflower — a natural boreal companion and fellow ground cover)",
+      "bunchberry (Cornus canadensis — another low ground cover for cool acidic soils; the two work well together in a shaded bed)",
+      "wild ginger (Asarum canadense — shade-tolerant native ground cover for cool, moist soils)",
+      "wood sorrel (Oxalis)",
+      "ferns (particularly sensitive fern or ostrich fern in moist spots)",
+      "comfrey planted at the bed margin (for leaf mulch and dynamic accumulation — keep at the edge, not interplanted, as comfrey will overwhelm Arctic raspberry)",
+      "native violets (Viola spp.)"
+    ],
+    "antagonists": [
+      "Full sun and heat are the primary enemies in warmer zones — any site exposure that raises soil temperature or desiccates the root zone will cause decline; competing aggressive ground covers (creeping Jenny, ajuga, pachysandra) can smother the low carpet; keep the planting area clear of competitive neighbors in the establishment phase; conventional raspberry planting conditions (full sun, well-drained soil) are essentially wrong for this species — do not treat it like R. idaeus"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "The fruit is eaten by ground-feeding birds including thrushes, robins, and warblers; small mammals (chipmunks, voles, mice) will consume the berries; the low, dense ground cover mat provides shelter and foraging habitat for ground-dwelling insects and small animals; in its native range, Arctic raspberry is an important food source for ptarmigan, grouse, and various boreal mammals including bears and foxes",
+    "hostPlantFor": "Likely hosts some native Rubus-associated Lepidoptera, consistent with other Rubus species; specific host plant documentation for R. arcticus in the eastern US context is limited; the general Rubus larval host value applies",
+    "nestingHabitat": "Low — the 4-8\" plant height does not provide shrub-layer nesting structure; the value is as ground-level cover and forage, not nesting habitat"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "unknown",
+      "description": "Unknown/Low — the low, thornless carpet close to the ground is potentially attractive to deer browsing; the plant has minimal physical defenses; in high-pressure deer situations, protection during establishment is prudent; the plant's preference for north-facing, partially shaded locations may incidentally reduce deer pressure compared to open garden beds"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — avoid road salt exposure; consistent with other Rubus species and with the plant's preference for undisturbed, sheltered sites"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Very low — drought tolerance is essentially zero for this species; consistent soil moisture is a non-negotiable requirement; any period of summer drought will cause leaf scorch, dieback, and potentially plant loss; mulch and irrigation planning are not optional"
+    },
+    "other": "Summer heat stress is the dominant management challenge in Zones 5b-6 — the plant is genuinely adapted to cool summers and may struggle through July and August even in a correctly sited location; yellowing, wilting, or leaf scorch during hot spells is expected and does not necessarily indicate permanent damage; the plant often recovers in cooler fall weather; repeated severe heat stress over multiple seasons is the more serious concern"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the plant itself requires minimal pruning or structural management; the primary maintenance tasks are moisture management, mulch renewal, and vigilance against summer heat stress; establishment-phase care (consistent watering, mulch maintenance) is the most demanding period",
+    "pruningNotes": "No formal pruning cycle is needed — Arctic raspberry does not produce the biennial floricane/primocane structure of conventional raspberry; the low spreading mat renews itself by stolon growth; any dead or damaged stems can be removed in early spring; in warmer zones, lightly cut back any heat-scorched foliage in late summer to encourage fresh growth in the cooler fall period; do not cut back hard in autumn — allow the plant to harden off naturally before winter",
+    "propagationMethods": [
+      "Division (the most straightforward method — dig rooted stolon sections in early spring and transplant; established mats divide easily)",
+      "stolon layering (peg stolon tips to moist soil; they root readily and can be severed once rooted)",
+      "seed (seed propagation is possible but slow and not recommended for named cultivars, which will not come true from seed; seed requires cold stratification consistent with the species' boreal origin)"
+    ]
+  },
+  "cultivarNotes": "Named cultivar selection is essential for success in Zones 5-6, where heat tolerance and cross-pollination compatibility are critical. Wild-type Rubus arcticus from seed is poorly adapted to warmer conditions and cross-pollination requirements make single-plant establishment unproductive. The Finnish cultivar program at the University of Helsinki produced the most widely available and best-adapted selections:\n- **'Beata'** — Finnish selection; the primary female-compatible cultivar in the standard planting pair; bred for improved vigor and slightly greater heat tolerance than wild type; the benchmark Arctic raspberry cultivar for temperate-zone trials; must be planted with 'Aura' for fruit set; widely available from specialty nurseries in the US and Canada\n- **'Aura'** — Finnish selection; the cross-pollination partner for 'Beata'; the two must be planted together — plant at least one of each, interplanted within 3-5' of each other; 'Beata' and 'Aura' together constitute the standard recommended planting pair for any temperate-zone trial\n- **'Anna'** — Another Finnish selection; occasionally available from specialty sources; can be used as part of a multi-variety planting to improve cross-pollination and extend the harvest window slightly\n**Zone 3-5:** All three Finnish cultivars perform well; heat stress is minimal and the primary concern is ensuring cross-pollination partners are present; gardeners in these zones have the widest latitude for siting and can tolerate more sun exposure than warmer zones.\n**Zone 5b-6:** The warm edge of reliable performance; 'Beata' + 'Aura' is the standard pair and the only combination with documented success in these zones; site selection becomes critical — afternoon shade, cool soil, and consistent moisture are non-negotiable; source from a specialty nursery that confirms zone viability.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Specialty trial ground cover for cool",
+      "shaded",
+      "moist microclimates; shade garden accent and low edible ground cover; north-facing bed planting; food forest floor layer in the deepest shade zones; luxury fruit planting for the adventurous grower"
+    ],
+    "designPlacement": "Place in the coolest, most shaded microclimate available — north-facing aspect is ideal; the shaded north side of a building, wall, or mature tree canopy provides the temperature moderation this boreal species requires; morning sun with afternoon shade is acceptable; avoid any site with hot afternoon sun; plant in a dedicated pocket amended with acidic organic matter (pine bark, leaf mold, peat moss) to simulate boreal forest floor conditions; mulch heavily (4-6\" organic mulch); pair two compatible cultivars within 3-5' for cross-pollination; this is a specialty/trial planting in any zone warmer than 4, not a reliable production plant; manage expectations accordingly",
+    "acquisitionStatus": "To source — specialty nursery required; not available at mainstream retail; search specialty perennial and edible landscape nurseries in the upper Midwest or Pacific Northwest"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubus_arcticus",
+    "inaturalist": "https://www.inaturalist.org/taxa/121363-Rubus-arcticus",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — Rubus arcticus is not native to Pennsylvania or the eastern United States; its native range is boreal and subarctic; Zone 6a is at the warm southern limit of its reliable cultivation range and should be treated as a specialty trial planting requiring careful siting",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — the plant poses zero invasive risk in PA conditions",
+      "drainage": "The red clay at the Hegins site is essentially the worst native soil type for this species; in-ground planting requires a fully amended pocket — excavate a 2-3 sq ft area to 10-12\" depth and replace with a mix of acidic compost, pine bark fines, and leaf mold to simulate boreal forest floor conditions; raised beds or containers are a viable alternative that bypasses the clay problem entirely; do not attempt to plant directly into unamended red clay",
+      "soil": "The red clay soils at the Hegins site require significant organic matter amendment before planting; excavate and replace with an acidic organic mix as described in Drainage Preference — Pennsylvania; the native clay pH may be acceptable but structure and texture are wholly unsuitable without amendment",
+      "cultivarNotes": "The cultivar pair 'Beata' + 'Aura' is the correct starting point for any Hegins trial. Source from a specialty nursery that confirms Zone 6a viability — do not purchase generic unlabeled Arctic raspberry stock. Some specialty perennial nurseries in the upper Midwest and Pacific Northwest carry these cultivars; they are not available at mainstream retail garden centers.",
+      "designPlacement": "Section A — the north-facing front bed is the only area with the cool, shaded microclimate that this plant needs: north-facing aspect, partial shade, cooler soil temperatures than the rest of the property. This is a trial/specialty planting, not a reliable production plant at Zone 6a. Plant along the shadiest, most sheltered portion of Section A — ideally near the foundation where the building shadow moderates afternoon temperatures. Prepare a dedicated 2-3 sq ft pocket amended with acidic compost and pine bark to simulate boreal soil conditions; mulch heavily with shredded oak leaves or pine bark. Plant one 'Beata' and one 'Aura' together in the amended pocket. Manage expectations: treat this as a prestige trial rather than a primary food crop. If it thrives, the reward is access to one of the finest berry flavors in the plant world; if it struggles through summer heat, it provides an instructive data point about the limits of Zone 6a boreal introductions.",
+      "siteObservations": "Cedar-apple rust (Gymnosporangium) is a potential concern for Rosaceae at this site given the prevalence of Eastern red cedar (Juniperus virginiana) in local hedgerows — monitor foliage, though this is not a primary documented threat for Rubus arcticus. The east wildlife corridor deer pressure is a secondary concern; the low, thornless carpet is potentially browsable, but the north-facing Section A siting may incidentally reduce exposure compared to open beds. Treat this as a specialty trial plant and plan the site with maximum care."
+    }
+  }
+}

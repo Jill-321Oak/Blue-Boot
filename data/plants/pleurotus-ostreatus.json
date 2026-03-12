@@ -1,0 +1,152 @@
+{
+  "id": "pleurotus-ostreatus",
+  "name": {
+    "commonName": [
+      "Oyster Mushroom",
+      "Pearl Oyster Mushroom"
+    ],
+    "latinName": "Pleurotus ostreatus",
+    "family": "Pleurotaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread globally across temperate and subtropical zones; native to North America, Europe, and Asia; one of the most cosmopolitan fungal species",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout much of the contiguous US wherever hardwood forests occur; found wild in the eastern US, Midwest, Pacific Northwest, and southern states; one of the most commonly encountered wild edible mushrooms in North American forests"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not considered invasive anywhere in the lower 48; as a native saprotrophic fungus, it fills a natural ecological role in hardwood decomposition; no state noxious weed or invasive species lists include it"
+    },
+    "zone": {
+      "min": 45,
+      "max": 75,
+      "description": "Not applicable — occurs across a very wide climate range; fruits outdoors wherever temperatures fall between 45-75°F with adequate moisture"
+    }
+  },
+  "description": {
+    "height": "Individual caps 2-10\" wide; clusters of multiple overlapping caps; low-profile shelf fungus",
+    "spread": "Fruiting clusters can span 8-24\"; mycelium pervades the substrate (logs, straw, or wood chips)",
+    "spacing": "Inoculate logs or straw substrate; no specific spacing for individual \"plants\"",
+    "growthRate": "Oyster mushrooms are among the fastest-fruiting cultivated mushrooms; mycelium colonizes substrate in 2-4 weeks; first fruiting 2-6 months after inoculation",
+    "timeToMaturity": "First fruiting 2-6 months after inoculation; logs fruit for 2-5 years; straw fruited in weeks",
+    "lifespan": "Individual fruiting bodies are ephemeral (3-7 days before quality declines); mycelium persists in the substrate and continues fruiting for years; inoculated logs fruit for 3-7 years depending on log size and conditions",
+    "deciduousEvergreen": "Not applicable; fruiting is seasonal with peaks in spring and fall",
+    "winterInterest": "None — fruiting occurs in cool weather; dormant in deep winter"
+  },
+  "lightAndWater": {
+    "sun": "Shade preferred; direct sun dries out fruiting bodies; natural habitat is in shaded forest; place inoculated logs under tree canopy or on the north side of structures",
+    "water": "Consistent moisture is critical; fruiting is triggered by moisture (high humidity or rainfall) combined with a temperature drop; watering logs or straw during dry weather maintains production",
+    "drainagePreference": {
+      "description": "Not applicable to the substrate in the conventional sense; the fruiting bodies need high humidity; waterlogged conditions can cause bacterial contamination of the substrate; logs should be placed on the ground or propped slightly but not submerged",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not applicable — oyster mushrooms grow on wood or straw substrates, not in soil; however, logs placed on heavy clay ground benefit from the moisture retention clay provides, which helps maintain substrate humidity; clay sites are actually favorable for log culture placement"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood and straw, not soil"
+    },
+    "texturePreference": "Grows on hardwood logs (oak, maple, beech, elm are excellent; avoid cedar and black walnut), straw, and supplemented sawdust; hardwood logs are the longest-lasting substrate for outdoor cultivation",
+    "rootCharacter": "White to cream mycelium pervades the substrate material; typically denser white mycelial mat visible on log ends or when substrate is split"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: spring (March-May) and fall (September-November) are peak across most of the US; oyster mushrooms can fruit at any time the temperature is 45-75°F with adequate moisture",
+    "bloomDescription": "Fan-shaped to oyster-shaped caps (the \"oyster\" reference) in clusters; caps are pearl-grey to creamy white (P. ostreatus — the standard form) or yellow (P. citrinopileatus), pink (P. djamor), or brown (P. pulmonarius); gills are white, running down a short or absent stem; the entire cluster emerges from the log like a bouquet",
+    "fragrance": "Fresh, pleasant, anise-like mushroom scent; excellent aroma when cooking",
+    "flowerSex": "Not applicable; spore-dispersing organism",
+    "pollination": "Not applicable; white spore print released from gill surfaces"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (caps and stems) — one of the finest and most widely cultivated edible mushrooms in the world; flavor is delicate, savory, and slightly sweet with an anise note; texture is tender but substantial; excellent sauteed, grilled, added to soups and stir-fries; nutritional profile is excellent (high protein, low fat, B vitamins, beta-glucans)",
+    "harvestSeason": "Any time fruiting bodies appear; harvest when caps are fully expanded but before edges turn wavy and frilly (slightly older stage but still good to eat); before the cap's edge starts to curl upward; 3-5 day window per flush",
+    "medicinalUses": "Well-documented health benefits of regular mushroom consumption: beta-glucans (immune-modulating), lovastatin (cholesterol-lowering compound present in small amounts), antioxidants; traditionally used in Chinese medicine for immune and circulatory support; one of the most nutritionally and medicinally valuable edible mushrooms for regular dietary inclusion",
+    "craftOtherYield": "Dried oyster mushrooms (dry well; store for months; concentrate flavor); oyster mushroom powder (flavor additive); mycelium-based products (mycelium can be used in bioremediation applications)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic and safe; the same precaution as all wild/cultivated mushrooms: positive identification is required; P. ostreatus is distinctive and widely recognized; a small number of people may have sensitivities; cook thoroughly for best safety and digestibility",
+    "toxicityAnimals": "Generally considered safe; same precaution — confirm identification; cooked oyster mushrooms are fine for dogs in small quantities",
+    "allelopathy": "The mycelium actively decomposes lignocellulosic material; Pleurotus species are used in bioremediation (breaking down petroleum hydrocarbons and other contaminants in soil); the mycelium can compete with and displace other fungi in its substrate",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (gourmet edible — high productivity and fast fruiting)",
+      "Soil Builder (decomposition of woody material contributes to humus formation)",
+      "Nutrient Cycling (converts locked lignin to available nutrients)",
+      "Bioremediation (can be used to inoculate contaminated areas — effective at breaking down many organic contaminants)"
+    ],
+    "companionPlants": [
+      "Stropharia rugosoannulata (wine cap) — complementary cultivated mushrooms in the food forest; wine cap grows in wood chips on the ground; oyster mushrooms on logs above; together they occupy different substrate niches in the same guild; combined with chicken of the woods",
+      "the three mushroom species provide a diverse and productive fungal layer"
+    ],
+    "antagonists": [
+      "Contamination (bacterial and mold contamination is the primary cultivation challenge); competing mold (green mold / Trichoderma species is the main competitor in cultivation); use fresh",
+      "clean substrate and maintain appropriate moisture for clean mycelium development"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles and flies are attracted to and breed in oyster mushroom fruiting bodies and spent logs); birds (woodpeckers and nuthatches investigate inoculated logs for insect activity); small mammals",
+    "hostPlantFor": "Various invertebrates breed in the substrate and fruiting bodies",
+    "nestingHabitat": "Decaying inoculated logs provide habitat for numerous invertebrates and small animals"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not a significant concern; deer may occasionally nibble fruiting bodies but oyster mushrooms are not a preferred food source; log-mounted fruiting bodies are generally ignored; no protection measures needed in most situations"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable — substrate-based organism not affected by soil salinity or road salt spray"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting suppressed by drought; the mycelium persists but does not fruit; supplement with irrigation during dry periods for production maintenance; in arid western climates, consistent watering of logs is essential"
+    },
+    "other": "One of the most productive and reliable cultivated mushrooms for outdoor log culture across the lower 48; straightforward to cultivate; tolerates a wide range of humidity and temperature conditions as long as fruiting triggers (moisture + cool temperatures) are met"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once logs are inoculated",
+    "pruningNotes": "Harvest mushrooms promptly when they appear — within 3-5 days of emergence; do not allow caps to over-mature and drop spores inside the house. Soak logs in water for 12-24 hours during dry periods to trigger fruiting (a standard cultivation technique — \"force fruiting\"). Replace logs when they become very light (most wood is consumed) and fruiting frequency declines significantly.",
+    "propagationMethods": [
+      "Plug spawn (drill holes in fresh logs, hammer in inoculated plugs, seal with wax — standard log inoculation method; use fresh-cut hardwood logs 4-8\" diameter, up to 40\" long); sawdust spawn (faster-colonizing for smaller sections); straw cultivation (fastest method — inoculate pasteurized straw; fruits in 2-4 weeks but substrate exhausts faster than logs); purchase spawn from reputable suppliers (North Spore, Field & Forest, Fungi Perfecti, others)"
+    ]
+  },
+  "cultivarNotes": "P. ostreatus (grey/pearl oyster) is the standard species for outdoor log culture across the US. Related species and strains, organized by climate suitability: **Zones 3-5 (cold climates):** P. ostreatus is the best choice; its cold tolerance is excellent and it fruits reliably in cool weather; P. pulmonarius can extend the summer fruiting window. **Zones 6-7 (temperate):** Both P. ostreatus and P. pulmonarius perform well; use P. ostreatus for spring/fall flushes and P. pulmonarius (fruits at slightly higher temperatures) for summer production; this combination maximizes the harvest season. **Zones 8+ (warm climates):** P. pulmonarius is preferred as the primary outdoor species; P. citrinopileatus (golden oyster) fruits well in warm weather and adds visual interest; P. djamor (pink oyster) can be grown outdoors in frost-free areas or used for indoor cultivation in cooler zones. **P. citrinopileatus** (golden oyster) — beautiful yellow clusters; less cold-hardy than P. ostreatus; best for indoor cultivation or summer outdoor use in Zones 6+. **P. djamor** (pink oyster) — tropical origin; not cold-hardy; outdoor use limited to Zone 9+ or warm-season indoor cultivation. Purchase from a supplier offering climate-appropriate strains when possible.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest fungal layer",
+      "log culture",
+      "straw bed cultivation",
+      "shade garden"
+    ],
+    "designPlacement": "Place inoculated logs in shaded, moist locations — under tree canopy, on the north side of buildings, or in food forest understory; ideal companions are other cultivated fungi on complementary substrates (wine cap on wood chips on the ground, oyster mushrooms on elevated logs); avoid exposed, sunny, or windy locations that dry out fruiting bodies; logs can be stacked in a \"log cabin\" arrangement or leaned against trees",
+    "acquisitionStatus": "To source (spawn available from mushroom cultivation suppliers)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pleurotus_ostreatus",
+    "inaturalist": "https://www.inaturalist.org/taxa/48494-Pleurotus-ostreatus",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — P. ostreatus occurs naturally throughout Pennsylvania on hardwood logs and stumps; likely present on or near the Hegins site on any dead hardwood",
+      "paInvasiveStatus": "Not regulated in PA; native species",
+      "drainage": "The Hegins red clay is an advantage for log culture — the moisture-retentive ground keeps inoculated logs from drying out; no amendments or raised beds needed; simply place logs on the ground in a shaded area",
+      "soil": "Hardwood is abundant in the Hegins area; oak and maple logs from local tree work or storm damage are ideal; any hardwood clearing on the property can supply inoculation stock",
+      "cultivarNotes": "P. ostreatus and P. pulmonarius are the correct choices for outdoor log cultivation; golden and pink oysters are indoor-only projects in this climate.",
+      "designPlacement": "Paw paw guild fungal layer — inoculate hardwood logs (oak, maple, beech) with oyster spawn and place in the shaded, moist understory of the paw paw guild; the guild's deep shade is ideal for oyster mushroom fruiting body development; the complementary role alongside Stropharia rugosoannulata (wood chips) and potentially Laetiporus sulphureus (logs + standing trees) creates a diverse fungal community in the guild; apple and mulberry guilds also offer suitable shaded positions for additional log placements",
+      "siteObservations": "Survey existing dead hardwood stumps and logs on the property for naturalized oyster mushrooms — they may already be present. Deer pressure from the east wildlife corridor is not a concern for this species; fruiting bodies on logs are not a target. The moist, shaded conditions under the planned paw paw guild are ideal for consistent fruiting without supplemental watering in most years."
+    }
+  }
+}

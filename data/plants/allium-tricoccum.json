@@ -1,0 +1,155 @@
+{
+  "id": "allium-tricoccum",
+  "name": {
+    "commonName": [
+      "Wild Ramps",
+      "Ramps",
+      "Wild Leek",
+      "Wood Leek"
+    ],
+    "latinName": "Allium tricoccum",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Nova Scotia to Minnesota south to Georgia; native throughout Pennsylvania; commonly found in rich, moist, deciduous woodland floors",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — from the Appalachian Mountains north to the Great Lakes region and New England; range extends from Georgia north to Quebec and west to Iowa and Minnesota; a woodland plant of rich, moist, deciduous forest; not native to the western US"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; a native woodland ephemeral; spreads very slowly by seed and division; overharvesting in the wild is the documented concern, not invasiveness"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7"
+    }
+  },
+  "description": {
+    "height": "Leaves 6-9\" (spring ephemeral foliage); flowers 8-12\" (appear after leaves die back)",
+    "spread": "Very slow spread by bulb offset; a well-established colony takes decades to form; this is a long-term planting that builds character and value over time",
+    "spacing": "4-6\" apart; plant in large groups for harvest potential",
+    "growthRate": "Slow — very slow; ramps require patience; colonies are measured in decades, not years",
+    "timeToMaturity": "Leaves harvestable from year 1-2 (lightly); harvestable bulbs take 5-7 years; never overharvest — a colony's recovery is slow",
+    "lifespan": "Long-lived perennial bulb; essentially permanent in suitable habitat",
+    "deciduousEvergreen": "Spring ephemeral — one of the most early-emerging plants in the spring garden; leaves appear in March-April before the forest canopy leafs out; leaves die back by June; flowers appear on bare stems in June-July; completely dormant by July",
+    "winterInterest": "None — dormant from July to March"
+  },
+  "lightAndWater": {
+    "sun": "Deep shade; requires the shade of a deciduous canopy; does NOT tolerate full sun (the leaves will sunburn and fail); the timing of ramps is specifically adapted to the brief window before the forest canopy leafs out; in the paw paw guild, the shading is ideal",
+    "water": "Medium; consistent moisture during the spring active season is essential; tolerates drier conditions during summer dormancy (which is convenient — it goes dormant just as summer dryness begins)",
+    "drainagePreference": {
+      "description": "Moist, well-drained; native to rich, moist, forest floors; tolerates clay-loam with good organic matter; does not tolerate waterlogged conditions",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; ramps require rich, moist, well-structured woodland soil with high organic matter; heavy clay lacks the loose, humus-rich texture of their native forest floor habitat; clay inhibits the bulb development and drainage needed; deep compost amendment or woodland bed creation is required; not a clay-tolerant plant"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7,
+      "description": "4.5-7.0; prefers slightly acid forest soil"
+    },
+    "texturePreference": "Rich, moist, humus-rich soil; leaf-litter-amended clay-loam is appropriate; the key factor is high organic matter content — replicate the woodland floor",
+    "rootCharacter": "True bulb with narrow leaves; small offsets form adjacent to the parent bulb to slowly expand the colony; bulbs are elongated and narrow (not round like garlic)"
+  },
+  "bloom": {
+    "bloomTime": "June-July (after leaves die back); the flowers appear on bare stems after the foliage has completely disappeared — a confusing and interesting trait",
+    "bloomDescription": "Small, rounded clusters of tiny white flowers on bare 8-12\" stems; individually modest but attractive",
+    "fragrance": "Strongly garlicky-onion fragrance from leaves and bulbs; one of the most pungent members of the Allium family",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees; the flowers are pollinated by insects seeking late-June/July pollen; modest ecological contribution during bloom"
+  },
+  "yield": {
+    "edibleParts": "Leaves (the primary spring harvest — harvest just 1-2 leaves per plant; the bright green, intensely flavored leaves are one of the most prized wild foods of the eastern US; use raw in salads, wilted as greens, in soups, pickled, or mixed into butter; the flavor is intensely garlicky-leek, complex, and unique; the spring ramp season is a cultural event in Appalachian communities); bulbs (can be harvested but this kills the plant — only harvest bulbs from the edge of a well-established, large colony, and never more than 10%; the bulbs are intensely flavored and excellent pickled or used as garlic/shallot substitute)",
+    "harvestSeason": "Leaves March-May (the brief spring window before die-back); bulbs May (when digging is possible but should be done sparingly)",
+    "medicinalUses": "Traditional Cherokee, Ojibwe, and Iroquois medicinal use — antiseptic, circulatory support, digestive, cold and fever treatment; the same allicin compounds as garlic with potentially more complex aromatics; considered a spring tonic in Appalachian tradition; one of the most important native medicinal food plants",
+    "craftOtherYield": "Pickled ramp bulbs (a spring specialty and excellent preserve); ramp salt; ramp butter; fermented ramps"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible; widely and enthusiastically eaten",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia; the same caution applies here; never feed ramps to dogs, cats, or horses; this is the standard Allium caution",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere"
+    },
+    "roles": [
+      "Food (highly prized wild edible — one of the most culturally and culinarily valued native plants of the eastern US)",
+      "Medicinal (traditional native medicine)",
+      "Native Plant Contribution",
+      "Spring Ephemeral (provides spring ground cover before the canopy leafs out, then dies back to allow summer light to other plants)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — the natural woodland canopy companion)",
+      "Asarum canadense (wild ginger — same woodland floor community; ramps emerge early and die back; wild ginger fills the space in summer)",
+      "Matteuccia struthiopteris (ostrich fern — the ferns emerge as the ramps die back; a natural succession)"
+    ],
+    "antagonists": [
+      "Sun and drought — the two conditions that will kill ramps; these are not garden companions but site condition requirements"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (modest June bloom); the early spring emergence provides a food source for early emerging insects before many other plants are active",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "The underground bulbs provide some food storage for small mammals; not a primary nesting habitat"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — wild ramps are avoided by deer; the pungent garlic scent deters browsing; one of the few woodland plants that deer typically leave alone"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to salt; natural woodland habitat"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor during spring growing season; fine during summer dormancy"
+    },
+    "other": "Requires deep shade; slow growth is the primary limitation for garden use; sustainable harvest practices are essential — ramp populations in the wild have been overharvested in many areas; grow your own and harvest conservatively"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low (with appropriate siting)",
+    "pruningNotes": "No pruning needed. Harvest leaves gently — take one leaf per plant, cut rather than pull, and never take more than 20% of the colony's foliage. Allow the colony to grow undisturbed for the first 3-5 years before any significant harvest. Mark the location clearly — the plants disappear by July and it is easy to inadvertently dig the bulbs when working in the area.",
+    "propagationMethods": [
+      "Seed (requires double dormancy stratification — warm + cold + warm; germinates in the second spring after sowing; very slow; viable but requires 2-3 years before any harvest)",
+      "bulb offsets (carefully separate offset bulbs from established plants in fall; replant immediately; this is the preferred propagation method)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars; the straight species is always grown. Two botanical varieties are recognized: A. tricoccum var. tricoccum (the common form, broader leaves) and A. tricoccum var. burdickii (syn. A. burdickii, narrower leaves, slightly different flavor) — both forms are desirable. Plant whichever is available from a reputable native plant source.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden",
+      "food forest understory",
+      "native plant garden",
+      "spring ephemeral collection"
+    ],
+    "designPlacement": "Woodland garden, shaded food forest floor, native plant understory",
+    "acquisitionStatus": "To source (native plant nursery; ensure sustainably propagated stock — wild-dug ramps are an ecological concern)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_tricoccum",
+    "inaturalist": "https://www.inaturalist.org/taxa/1457593-Allium-tricoccum",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Allium tricoccum is native to Pennsylvania; naturally occurs in moist, rich woodland throughout the state; potentially present in nearby woodland",
+      "paInvasiveStatus": "Not invasive in PA; actually of conservation concern in some areas due to overharvesting",
+      "drainage": "Hegins red clay: significant amendment required — deep incorporation of leaf mold, compost, and woody material to create a woodland floor texture; or site in existing naturally shaded, humus-rich areas if any are present on the property",
+      "soil": "Hegins: deep woodland compost amendment essential; clay soil is not naturally compatible with ramps",
+      "cultivarNotes": "Allium tricoccum var. tricoccum is native to Zone 6a Pennsylvania; fully cold-hardy; the challenge is habitat creation, not cold hardiness",
+      "designPlacement": "Paw paw guild understory — listed as a companion plant in the paw paw guild design; shaded, moist area with woodland soil amendment; planted in drifts beneath the paw paw trees and spicebush; the spring ephemeral timing of ramps (leaves in March-May, dormant in summer) is perfectly complementary to the paw paw guild's ecology; the ramps provide early spring harvest before the paw paw canopy leafs out, then retire underground as the summer canopy takes over; combined with wild ginger and ostrich fern, the colony creates a layered, self-managing ground ecology; start with a significant initial planting (50+ bulbs if possible) to have a harvest-ready colony within 5-7 years",
+      "siteObservations": null
+    }
+  }
+}

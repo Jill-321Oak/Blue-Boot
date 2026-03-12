@@ -1,0 +1,159 @@
+{
+  "id": "allium-hollandicum-purple-sensation",
+  "name": {
+    "commonName": [
+      "Persian Onion",
+      "Ornamental Allium",
+      "'Purple Sensation'"
+    ],
+    "latinName": "Allium hollandicum 'Purple Sensation'",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Species native to Iran and Central Asia; 'Purple Sensation' is a Dutch-bred cultivar",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; ornamental cultivar introduced from Europe/Central Asia; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; ornamental allium does not escape cultivation aggressively; note that some Allium species do naturalize but A. hollandicum is not a documented problem"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "24-30\" flower stems; foliage lower",
+    "spread": "6-8\" per bulb; slowly expands by offset",
+    "spacing": "6-8\" apart; effective in groups of 5-9",
+    "growthRate": "Fast (blooms first spring after planting)",
+    "timeToMaturity": "Blooms first season",
+    "lifespan": "Long-lived and reliably perennial; naturalizes over time by bulb offsets",
+    "deciduousEvergreen": "Dormant in summer; foliage appears in early spring and begins to yellow and die back while the plant is in bloom — a notable aesthetic consideration (see Pruning Notes)",
+    "winterInterest": "None — fully dormant; dried seedheads can be ornamental if left standing"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates partial shade well",
+    "water": "Low to medium; drought tolerant once established",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average; dislikes prolonged wet feet but more forgiving than tulips in clay",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; bulbs can rot in waterlogged clay; well-drained soil is important; raised beds or mounded planting help; clay with good surface drainage is often acceptable"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; tolerates clay better than most ornamental bulbs",
+    "rootCharacter": "True bulb; produces offsets that slowly expand the planting; self-seeds modestly"
+  },
+  "bloom": {
+    "bloomTime": "May to June — bridges the gap between spring crocus/tulip season and summer perennial bloom",
+    "bloomDescription": "Dense spherical umbels 4-5\" in diameter of vivid violet-purple individual florets on tall, stiff, leafless stems; dramatic, architectural presence above the perennial layer",
+    "fragrance": "Flowers mildly onion-scented; foliage strongly onion-scented when bruised",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant — bees, butterflies, and beneficial insects work the flowers heavily"
+  },
+  "yield": {
+    "edibleParts": "Technically edible (onion family); flowers used as garnish; not typically grown for food harvest",
+    "harvestSeason": "Flowers May-June",
+    "medicinalUses": "Allium family broadly has cardiovascular and antimicrobial benefits; not typically used medicinally in this form",
+    "craftOtherYield": "Dried seedheads for arrangements; excellent dried ornamental"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic to people at normal exposure; edible",
+    "toxicityAnimals": "Toxic to dogs and cats — allium family causes hemolytic anemia in dogs and cats if ingested in significant quantity; cats are more sensitive than dogs; bulbs are most concentrated. Not a front-line concern with outdoor planting but worth noting if pets dig in beds.",
+    "allelopathy": "The strongly aromatic foliage suppresses some pests but no documented allelopathy to neighboring plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "root",
+      "description": "Root / Rhizosphere (bulb)"
+    },
+    "roles": [
+      "Pest Confuser (strongly aromatic foliage masks chemical signals that attract pest insects — one of the most effective role-players in this category)",
+      "Insect Attractor (excellent pollinator plant)",
+      "Beauty",
+      "Bio-accumulator (minor)"
+    ],
+    "companionPlants": [
+      "Plant geranium 'Rozanne'",
+      "astilbe",
+      "or echinacea directly in front — their foliage emerges as allium leaves yellow",
+      "masking the die-back. Excellent companion to roses (pest confuser effect benefits nearby plants)."
+    ],
+    "antagonists": [
+      "None documented for garden companions; keep away from beans and peas (alliums may inhibit legume nitrogen fixation)"
+    ],
+    "coppiceable": "N/A — allow foliage to die back naturally; do not remove until fully brown"
+  },
+  "wildlife": {
+    "attracts": "Bees (heavily worked), butterflies, hoverflies; dried seedheads eaten by some small birds",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most reliably deer-resistant bulbs available; the onion scent deters deer strongly"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established"
+    },
+    "other": "Squirrels and rodents generally avoid allium bulbs (unlike tulips and crocus)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "The foliage begins yellowing and dying back while the plant is still in bloom — this is normal and unavoidable. Plant neighboring perennials (geranium 'Rozanne' is ideal) directly in front of allium groupings to mask this. Leave dried seedheads through summer into fall — they are ornamental and provide seeds for birds. Cut back dead foliage in mid-summer once fully brown.",
+    "propagationMethods": [
+      "Bulb offsets (lift in summer, separate, replant)",
+      "seed (self-sows lightly; seedlings bloom in 2-3 years)"
+    ]
+  },
+  "cultivarNotes": "'Purple Sensation' is the standard selection for deep violet-purple — reliable, vigorous, and widely available. Performs well across Zones 4-9. 'Gladiator' (pale lavender-purple, slightly larger heads, 24-30\") and 'Globemaster' (huge 8-10\" heads, longer lasting, 24-36\" — spectacular but larger) are alternatives. For smaller scale: Allium moly 'Jeannine' (bright yellow, 10-12\" — deer resistant, excellent contrast with purple selections). Allium christophii (stars-of-Persia) produces enormous 8-10\" silvery-purple globes on 18\" stems and dries beautifully in place.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Border mid to back zone",
+      "interplanted with late-emerging perennials",
+      "naturalizing bulb"
+    ],
+    "designPlacement": "Ornamental border use, naturalistic planting, spring bulb companion; plant in clusters behind and between late-emerging perennials to mask yellowing foliage; the architectural purple globes extend color through the gap between tulip and summer perennial season; also appropriate in herb layers as a pest confuser",
+    "acquisitionStatus": "To source (order in September for fall planting)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_hollandicum",
+    "inaturalist": "https://www.inaturalist.org/taxa/732899-Allium-hollandicum",
+    "missouriBotanicalGarden": [
+      {
+        "label": "'Purple Sensation' cultivar",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=243555"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; ornamental introduction",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: plant on a raised mound or in amended soil; avoid low spots; Section A north-facing beds may need grit amendment for reliable drainage",
+      "soil": "Hegins: grit amendment helpful in clay; Section A beds benefit from compost + grit mix",
+      "cultivarNotes": "'Purple Sensation' is fully hardy in Zone 6a; reliable performer for Section A ornamental beds",
+      "designPlacement": "Section A primary placement; palette match with purple/pink theme; companion with tulips and other spring bulbs; plant mid-zone behind geranium 'Rozanne' groups",
+      "siteObservations": null
+    }
+  }
+}

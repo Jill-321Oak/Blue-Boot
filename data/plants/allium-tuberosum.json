@@ -1,0 +1,161 @@
+{
+  "id": "allium-tuberosum",
+  "name": {
+    "commonName": [
+      "Garlic Chives",
+      "Chinese Chives",
+      "Oriental Garlic",
+      "Nira"
+    ],
+    "latinName": "Allium tuberosum",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Southeast Asia (southern China, India, the Himalayas); widely cultivated throughout Asia and naturalized in parts of North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Asia; naturalized in scattered locations across the eastern and central US; can escape gardens and establish in disturbed areas and roadsides"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive in the US but has naturalized in some areas; self-seeds prolifically and can spread beyond the garden; deadhead before seed set to prevent unwanted spread; not a regulated species but worth managing; gardeners in warmer zones (7-10) should be aware of its self-seeding tendency"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "12-18\" (foliage); 18-24\" when in flower",
+    "spread": "8-12\" per clump; expands gradually by division",
+    "spacing": "8-12\"",
+    "growthRate": "Moderate; productive from first year",
+    "timeToMaturity": "Leaves harvestable from year 1; heavy bloom and production from year 2",
+    "lifespan": "Long-lived perennial; essentially permanent once established",
+    "deciduousEvergreen": "Semi-evergreen — flat strap-like leaves often persist into early winter in Zone 6a; dies back in hard winter; among the last herbs green in the garden",
+    "winterInterest": "Low — may have green foliage well into December in Zone 6a; modest but appreciated late-season interest"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; adaptable to a range of light conditions",
+    "water": "Low to medium; drought tolerant once established; more robust than chives in dry conditions",
+    "drainagePreference": {
+      "description": "Average to well-drained; adaptable",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good; notably tolerant of clay conditions; the fibrous clump root system adapts to a range of soil textures; clay with surface drainage is generally acceptable; one of the more clay-tolerant Allium herbs available"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; average to moderately fertile garden soil",
+    "rootCharacter": "Rhizomatous clump with small, flat, strap-like leaves; divides steadily to form expanding clumps; unlike chives (hollow round leaves), garlic chives have flat, solid leaves"
+  },
+  "bloom": {
+    "bloomTime": "August-September — late summer bloom; one of the later-blooming alliums; provides color and pollinator value when many other plants are finishing",
+    "bloomDescription": "Spherical clusters of small, star-shaped white flowers on upright stems 18-24\"; individually beautiful and collectively quite showy; the white flower balls cover the plant in late summer and are among the best late-season pollinator plants in the garden",
+    "fragrance": "Mild garlic scent from foliage; flowers are lightly fragrant — a pleasing faint garlic-floral scent",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding late-season pollinator plant — bees (all species), butterflies, and beneficial insects work the open white star flowers heavily in August-September when other sources are declining"
+  },
+  "yield": {
+    "edibleParts": "Leaves (flat, solid, mild garlic flavor — excellent in stir-fries, dumplings, egg dishes, soups; a staple in Asian cuisine; milder than garlic, more complex than chives); flowers and buds (edible — beautiful in salads; garlic flavor without the pungency); underground rhizomes (edible but rarely harvested)",
+    "harvestSeason": "Leaves year-round in mild weather; harvest as needed, cutting from the outside; flowers August-September",
+    "medicinalUses": "Similar properties to other Allium species — mild antimicrobial, digestive support, cardiovascular properties; used in traditional Chinese medicine for kidney and digestive support",
+    "craftOtherYield": "Dried flower heads for arrangements (white spherical clusters dry beautifully and hold their shape and color)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe culinary herb; widely consumed in Asian cuisines",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia; never feed to dogs, cats, or horses; this is the standard Allium caution that applies equally here",
+    "allelopathy": "Mild pest-deterrent root exudates, same as other alliums — a positive companion planting effect",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Food (culinary herb — all parts edible; a different but complementary flavor profile to chives and garlic)",
+      "Insect Attractor (outstanding late-season pollinator value — fills the late summer gap)",
+      "Pest Confuser (allium exudates deter pests)",
+      "Dynamic Accumulator (sulfur compounds)"
+    ],
+    "companionPlants": [
+      "Roses (companion for pest deterrence as with chives)",
+      "apple guild understory",
+      "most vegetables; pairs with chives for a complementary allium duo with different flavor profiles and bloom times (chives bloom in May, garlic chives in August — together they provide allium insectary value across the whole season)"
+    ],
+    "antagonists": [
+      "Peas and beans — avoid direct adjacency; same allium caution as with chives"
+    ],
+    "coppiceable": "Cut back to 2-3\" above ground as needed; regrows vigorously; cut back hard after flowering if self-seeding is a concern"
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects (excellent late-season source — fills the August-September gap in the insectary calendar), butterflies (monarchs, swallowtails particularly active in late summer)",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — all Allium species are strongly avoided by deer; among the most reliable deer deterrents; very useful as a border plant or interplanted with more vulnerable species"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established"
+    },
+    "other": "Slightly more drought and heat tolerant than common chives; more cold-tolerant foliage persistence in fall; one of the most versatile and low-maintenance herbs in the food garden"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "IMPORTANT: deadhead spent flower heads promptly after bloom to prevent self-seeding; garlic chives self-seed aggressively and can become weedy in a formal garden bed if allowed to seed. Cut flower stems to the base as soon as they finish bloom. Alternatively, allow self-seeding in informal areas where a naturalized colony is acceptable. Divide clumps every 3-4 years in spring when they become crowded.",
+    "propagationMethods": [
+      "Division (easy — standard method for maintaining healthy productive clumps)",
+      "seed (easy but self-seeding can be excessive — control)"
+    ]
+  },
+  "cultivarNotes": "The straight species is standard; no widely available improved named cultivars for culinary use. 'Album' is the white-flowered species form (the typical). Some selections for foliage quality exist in Asian seed markets but are not typically differentiated in Western nurseries.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "Asian culinary garden",
+      "apple guild understory",
+      "companion planting",
+      "late-season pollinator border"
+    ],
+    "designPlacement": "Herb garden, companion planting in fruit tree guilds, ornamental edging (white flowers)",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_tuberosum",
+    "inaturalist": "https://www.inaturalist.org/taxa/122343-Allium-tuberosum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281738"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; Asian introduction",
+      "paInvasiveStatus": "Not listed as invasive in PA; self-seeds but manageable",
+      "drainage": "Hegins red clay: in-ground planting works well; no raised bed required; amend with compost at planting for best establishment but not critical",
+      "soil": "Hegins clay is acceptable; in-ground planting with compost amendment is sufficient",
+      "cultivarNotes": "Standard garlic chives are fully hardy in Zone 6a; excellent perennial herb for Hegins; apple guild companion role confirmed",
+      "designPlacement": "Apple guild companion — listed in the apple guild design; Section B herb strip also appropriate",
+      "siteObservations": null
+    }
+  }
+}

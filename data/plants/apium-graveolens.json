@@ -1,0 +1,152 @@
+{
+  "id": "apium-graveolens",
+  "name": {
+    "commonName": [
+      "Celery"
+    ],
+    "latinName": "Apium graveolens var. dulce",
+    "family": "Apiaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region and Middle East; naturalized widely in temperate regions",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; cultivated throughout the US; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive"
+    },
+    "zone": {
+      "min": 2,
+      "max": 10,
+      "description": "2–10 (grown as annual in Zone 6a); cool-season crop"
+    }
+  },
+  "description": {
+    "height": "18–24 in in first year (vegetative); up to 3–4 ft when bolting in second year",
+    "spread": "12–18 in",
+    "spacing": "10–12 in apart, in rows 18–24 in apart",
+    "growthRate": "Slow to moderate; slow to establish from seed",
+    "timeToMaturity": "100–130 days from transplant to harvest; one of the longest-season vegetables",
+    "lifespan": "Biennial grown as annual; bolts and flowers in year two",
+    "deciduousEvergreen": "Annual in cultivation (harvested before flowering)",
+    "winterInterest": "None; not frost-hardy once established"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light afternoon shade, which can help in hot summers",
+    "water": "Very high — consistently moist soil required throughout the season; does not tolerate drying out; drought causes stringy, bitter stalks",
+    "drainagePreference": {
+      "description": "Moisture-retentive but not waterlogged; consistent moisture is more important than drainage here",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; celery needs consistent moisture which clay provides, but clay compaction inhibits the oxygen exchange celery roots need; well-amended clay with compost is workable; raised beds with moisture-retentive but well-structured mix are superior for celery production in heavy-soil gardens"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0; slightly acidic to neutral preferred"
+    },
+    "texturePreference": "Rich, loamy, well-amended soil with high organic matter; heavy clay must be amended heavily with compost; poor soil produces poor stalks",
+    "rootCharacter": "Shallow fibrous roots; does not compete well — needs loose, uncompacted soil"
+  },
+  "bloom": {
+    "bloomTime": "Year two (June–August) if allowed to overwinter; as annual, bolts in midsummer heat",
+    "bloomDescription": "Tiny white flowers in compound umbels (flat-topped clusters); classic Apiaceae form",
+    "fragrance": "Mild, celery-scented",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated (bees and other small pollinators); highly attractive to beneficial insects when in flower"
+  },
+  "yield": {
+    "edibleParts": "Stalks (petioles), leaves, seeds; all parts edible — leaves used as herb/seasoning; stalks eaten fresh or cooked; seeds used as spice",
+    "harvestSeason": "Late summer to fall (August–October in Zone 6a); harvest outer stalks progressively or cut whole plant at base",
+    "medicinalUses": "Traditional use as diuretic and digestive aid; seeds used in herbal medicine; anti-inflammatory properties documented; not a primary medicinal crop",
+    "craftOtherYield": "Seeds harvested for spice or next-year seed saving (allow one plant to bolt)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Furanocoumarins in leaves and stems can cause phototoxic skin reactions (photodermatitis) when handling plant in sunlight — wear gloves if processing large quantities; generally safe to eat",
+    "toxicityAnimals": "Generally non-toxic to dogs and cats in normal food quantities; large amounts may cause digestive upset; seeds not recommended for pets",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer"
+    },
+    "roles": [
+      "Food crop (stalks, leaves, seeds); insectary plant when flowering (umbels attract parasitic wasps and beneficial flies); short-term ground cover in vegetable beds"
+    ],
+    "companionPlants": [
+      "Tomatoes (mutual benefit reported)",
+      "leeks",
+      "bush beans",
+      "spinach",
+      "nasturtium; cabbage family plants benefit from proximity"
+    ],
+    "antagonists": [
+      "Parsnip and carrots (same Apiaceae family — can share aphid and carrot fly pest pressure; avoid planting in rotation after other Apiaceae); chard may inhibit germination"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Parasitic wasps, hoverflies, small bees, and other beneficial insects when in flower — excellent insectary value; flowers in year two only",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) larval host — one of the primary hosts along with dill, parsley, and parsnip",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Low resistance — deer will browse celery readily"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — sensitive to road salt and saline soils"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Very low — one of the least drought-tolerant vegetables; wilts quickly and produces poor-quality stalks under any water stress"
+    },
+    "other": "Poor heat tolerance — bolts when temperatures consistently exceed 80°F; best harvested before midsummer heat peaks or grown as a fall crop"
+  },
+  "maintenance": {
+    "maintenanceLevel": "High — one of the most demanding vegetables to grow; requires consistent moisture, long indoor seed start, careful transplanting, and often blanching",
+    "pruningNotes": "Blanching: mound soil around stalks, wrap with cardboard or pipe/tube, or exclude light for 2–3 weeks before harvest to produce pale, mild-flavored stalks; self-blanching cultivars reduce this labor. Remove any bolting flower stalks if trying to extend harvest",
+    "propagationMethods": [
+      "Seed — surface sow or barely cover (light aids germination); start indoors 10–12 weeks before last frost (early February for Zone 6a); seeds are tiny and slow to germinate (14–21 days); transplant after last frost when nights stay above 50°F; direct sowing not practical for long-season types"
+    ]
+  },
+  "cultivarNotes": "Stalk celery (var. dulce) cultivar types vary by climate region. In cooler zones (Zone 5–6), early-maturing and self-blanching types are preferred due to the shorter growing window. In warmer zones (Zone 7–9), longer-season types can be used for fall crops. Self-blanching types reduce labor across all climates.\n- Tango: Compact, self-blanching, reliable for shorter seasons; good flavor without blanching effort; well-suited to Zone 5–7\n- Conquistador: Early maturing (~80 days), performs well in variable conditions; good choice where season is marginal; reliable across Zone 5–7\n- Utah 52-70 Improved: Classic heirloom; good flavor; does benefit from blanching for mildness; well-adapted to eastern US; performs best Zone 6–8\n- Tall Utah: Traditional standard for stalk celery; reliable but requires longer season and blanching attention; better suited Zone 7–9 or long-season Zone 6 with fall timing\nCutting/leaf celery (var. secalinum) — strongly recommended as a low-maintenance alternative for most US home gardeners:\n- Par-Cel (or \"Soup Celery\"): Leaf/cutting celery type; far more heat-tolerant, drought-tolerant, and forgiving than stalk types; grown for leaves and stems used as an herb; no blanching required; much easier to grow across a wide range of US climates; recommended for most home gardeners\nNote: Celeriac (var. rapaceum — see separate profile Apium graveolens rapaceum.md) is generally a more practical root crop alternative for permaculture settings; less water-demanding per unit of yield.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual vegetable in raised bed or kitchen garden; leaf/cutting celery types work in herb strip plantings; stalk types require dedicated bed space with reliable irrigation"
+    ],
+    "designPlacement": "Vegetable garden, raised bed, cool-season crop requiring consistent moisture",
+    "acquisitionStatus": "Not yet acquired; seed widely available from mainstream and heirloom seed suppliers (Johnny's Selected Seeds, Fedco, Baker Creek)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Celery",
+    "inaturalist": "https://www.inaturalist.org/taxa/58788-Apium-graveolens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275981"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins: raised beds recommended; consistent moisture retention is the key need; compost-rich raised bed mix suits celery well",
+      "soil": "Raised beds with compost-rich mix; consistent moisture is the key cultural requirement",
+      "cultivarNotes": "'Tango', 'Conquistador', or 'Utah 52-70R' are reliable for Zone 6a; start indoors 10–12 weeks before last frost; transplant after last frost; harvest before hard freeze; the short growing window at Zone 6a makes early-maturing types preferable",
+      "designPlacement": "Raised beds; start indoors in February; Zone 6a timing requires early-maturing cultivars; needs consistent irrigation through summer; celeriac may be a more practical alternative for most growers at this site",
+      "siteObservations": "The red clay soil at Hegins is a significant challenge — would need heavy compost amendment and reliable irrigation. Leaf/cutting celery (Par-Cel type) is the more realistic choice for this site. Full stalk celery would require raised bed with irrigation access."
+    }
+  }
+}

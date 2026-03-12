@@ -1,0 +1,162 @@
+{
+  "id": "fragaria-vesca",
+  "name": {
+    "commonName": [
+      "Alpine Strawberry",
+      "Woodland Strawberry",
+      "Wild Strawberry"
+    ],
+    "latinName": "Fragaria vesca",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Europe, Asia, and North America; native across much of the temperate Northern Hemisphere; one of the most widely distributed plants in the world",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across much of the US — found wild throughout the eastern US, Great Lakes region, northern Great Plains, Rocky Mountain states, and Pacific Northwest. Absent or uncommon in the deep South (Gulf Coast, southern Great Plains) and desert Southwest. Extensively naturalized in areas where it is not strictly native."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed as invasive in any US state. Spreads by runners and self-sowing but is easily controlled and rarely displaces native vegetation. Not on any state noxious weed list or the federal noxious weed list."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "6-9\" (foliage); flower and fruit stems to 6-8\"",
+    "spread": "Depends on cultivar — everbearing varieties typically produce few or no runners and form clumps; some varieties spread by runners like conventional strawberries",
+    "spacing": "8-12\" for ground cover; 12\" for individual plants",
+    "growthRate": "Fast; establishes and fruits in first year",
+    "timeToMaturity": "Fruits in first year; heaviest production from year 2",
+    "lifespan": "3-5 years individual plant; renews by seed or runners; essentially permanent as a ground cover colony",
+    "deciduousEvergreen": "Semi-evergreen — foliage persists through mild winters; dies back in hard winters but returns vigorously in spring; often among the first plants active in early spring. In Zone 7+ foliage typically persists all winter; in Zone 5 and colder expect full dieback.",
+    "winterInterest": "Low to moderate — semi-evergreen rosettes visible through winter where foliage persists; not ornamentally significant"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full sun; notably more shade-tolerant than conventional garden strawberries (F. × ananassa); grows well in 3-4 hours of direct sun. In Zone 8+ regions, afternoon shade improves performance and prevents summer dormancy. In northern zones (3-5), full sun is preferred for maximum fruit production.",
+    "water": "Medium; consistent moisture improves fruit production; tolerates some drought but berry size and quantity decrease. In the humid East, natural rainfall is often sufficient outside of drought periods. In the arid West and Southwest, regular irrigation is essential.",
+    "drainagePreference": {
+      "description": "Average to well-drained; more adaptable to clay and average garden soils than conventional strawberries; avoids waterlogged conditions. Crown rot is the primary risk in poorly drained soils — the crown must not sit in standing water, especially during winter dormancy.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — significantly more clay-tolerant than hybrid garden strawberries (F. × ananassa). Thrives in amended clay-loam soils across the eastern US, Midwest, and Pacific Northwest where heavy clay is common. The shallow fibrous root system adapts well to clay as long as the surface drains. Amend with compost to improve tilth in the top 6\". In very heavy, poorly drained clay, raised planting (even 3-4\" mounding) prevents crown rot. Avoid planting in low spots where water pools."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5; slightly acid preferred. Most eastern US soils fall naturally in this range. In alkaline western soils (pH 7+), amend with sulfur or acidic compost to bring pH down, or grow in containers with appropriate potting mix."
+    },
+    "texturePreference": "Average to moderately rich loam; performs in clay-loam with adequate organic matter. Ideal is a humus-rich woodland soil — mimics the forest-edge habitat where this species grows wild. Sandy soils work but require more frequent watering and feeding. Heavy unamended clay is tolerable but not ideal.",
+    "rootCharacter": "Fibrous shallow root system; spreads by runners (stolons) when the variety produces them; clump-forming in non-running types"
+  },
+  "bloom": {
+    "bloomTime": "May through September — essentially continuous flowering and fruiting throughout the growing season; distinct from conventional strawberries which fruit in a single flush. In Zone 8-9, bloom may begin in April and extend into October.",
+    "bloomDescription": "Small white 5-petaled flowers 0.5-0.75\" wide; typical Rosaceae structure; modest individually but produced continuously; the continuous bloom is important for pollinators",
+    "fragrance": "Flowers unscented; fruit intensely fragrant — one of the most aromatic of all strawberries; the small size concentrates flavor and fragrance dramatically",
+    "flowerSex": "Hermaphrodite (most cultivars); self-fertile",
+    "pollination": "Self-fertile; bees work the flowers continuously; the long bloom season provides extended pollinator value"
+  },
+  "yield": {
+    "edibleParts": "Fruit (small, intensely flavored berries — the flavor is extraordinary, far superior to conventional strawberries on a per-berry basis; often described as \"real strawberry flavor\" vs. commercial varieties); leaves (dried — mild herbal tea; high in vitamin C and tannins); roots (traditional medicinal use)",
+    "harvestSeason": "May through first frost — the most extended harvest season of any common strawberry",
+    "medicinalUses": "Leaves and roots — traditional astringent, anti-inflammatory, and diuretic; leaf tea used for digestive complaints and as a liver tonic; high in ellagic acid (antioxidant); not as intensively medicinal as some herbs but a useful addition to the home apothecary",
+    "craftOtherYield": "Jam, wine (the flavor concentrates beautifully), fruit leather; leaves in cosmetic preparations (astringent toner)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; widely eaten; some individuals have strawberry allergy (relatively common)",
+    "toxicityAnimals": "Generally safe; small amounts are fine for dogs; large quantities of any Fragaria may cause mild GI upset",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover / Root (fruit)"
+    },
+    "roles": [
+      "Food (edible fruit — primary)",
+      "Ground Cover & Weed Suppression",
+      "Insect Attractor (continuous bloom throughout season)",
+      "Medicinal (minor)"
+    ],
+    "companionPlants": [
+      "Borage (traditional strawberry companion — reportedly improves flavor and deters pests)",
+      "thyme",
+      "chives; excellent as understory ground cover beneath taller herbs and shrubs; pairs well with other ground covers in dappled shade"
+    ],
+    "antagonists": [
+      "Brassicas and fennel (some evidence of mutual inhibition); avoid planting directly adjacent to these"
+    ],
+    "coppiceable": "No, but can remove runners as needed to contain spread; cut back old foliage in fall"
+  },
+  "wildlife": {
+    "attracts": "Birds (fruit consumed by many birds — robins, thrushes, catbirds, and others; if bird predation is a concern, harvest frequently rather than netting), bees and beneficial insects (continuous bloom), small mammals (berries eaten by mice, chipmunks, foxes)",
+    "hostPlantFor": "Several moth and butterfly species use Fragaria as a host plant; a contribution to the lepidopteran community",
+    "nestingHabitat": "Low mat provides ground cover for beetles and other beneficial invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — deer browse strawberry foliage and may eat fruit. Not a reliable deterrent plant. Young transplants are especially vulnerable. Deer-resistant companion plantings (alliums, artemisia, strong aromatics) nearby help reduce browsing. In areas with heavy deer pressure, physical exclusion (low fencing, cloches) may be needed during establishment. Once a colony is well established, deer damage is usually survivable even if annoying."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and light salt spray; not suitable for direct roadside or coastal front-line planting"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates dry periods but production declines significantly; consistent moisture maintains yield. Mulch heavily in drought-prone regions."
+    },
+    "other": "Shade tolerant (a key advantage over conventional strawberries); cold hardy to Zone 3; generally disease resistant compared to hybrid garden strawberries; resistant to many soil diseases that affect F. × ananassa; tolerates light foot traffic"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Thin runner plants as needed to prevent overcrowding (or allow to colonize — it makes an attractive and productive ground cover). Rejuvenate beds every 3-4 years by dividing and replanting rooted runners. Remove old foliage in early spring before new growth emerges. Remove diseased leaves as they appear.",
+    "propagationMethods": [
+      "Runners (easiest — peg runners to soil, allow to root, then sever from parent; transplant in fall or spring)",
+      "seed (easy but flowers are small and take time; seed is available; germinates freely)",
+      "division"
+    ]
+  },
+  "cultivarNotes": "Alpine strawberry cultivars divide into running and non-running types. Non-running (clump-forming) varieties are preferred for orderly garden beds, edging, and herb gardens. Running varieties are better for ground cover applications, food forest understory, and naturalized areas.\n**Zone 3-5 (northern US):** 'Alexandria' (reliable, large red fruit for an alpine, excellent cold hardiness); 'Ruegen' (vigorous runner, very fragrant, good ground cover in cold climates); 'Mignonette' (older French variety, dependable). Cold-hardy selections perform well with snow cover or mulch protection.\n**Zone 6-7 (mid-Atlantic, upper South, Midwest, Pacific NW):** All major cultivars perform well in this band. 'Alexandria' and 'Yellow Wonder' are the most versatile. 'Yellow Wonder' (white/yellow fruit — unusual, ornamental, and less attractive to birds — a practical advantage). Running types like 'Ruegen' are excellent for ground cover in tree guild understory.\n**Zone 8-9 (deep South, Gulf Coast, Southwest, coastal California):** Choose heat-tolerant selections; provide afternoon shade. 'Alexandria' still performs but may go semi-dormant in peak summer heat. 'White Soul' (white-fruited, reportedly good heat tolerance). In the hottest areas, treat as a cool-season producer (spring and fall crops with summer rest).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden (edging/ground cover)",
+      "woodland garden",
+      "food forest understory",
+      "path edging",
+      "container",
+      "edible landscaping border"
+    ],
+    "designPlacement": "Ideal for part-shade positions where conventional strawberries fail — north-facing beds, beneath deciduous canopy, east-facing morning-sun sites. Plant as edging along paths or beds where the continuous fruit can be grazed in passing. Excellent understory ground cover in tree guilds and food forests (shade-tolerant, low-growing, does not compete aggressively with tree roots). In full-sun positions, pair with taller companions that provide light afternoon shade in hot climates. Kitchen proximity maximizes the value of the continuous small harvest.",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fragaria_vesca",
+    "inaturalist": "https://www.inaturalist.org/taxa/50298-Fragaria-vesca",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b346"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — F. vesca is native to Pennsylvania and common throughout the state in woodland edges, disturbed areas, open forests, and roadsides",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR",
+      "drainage": "Hegins red clay requires topdressing with 2-3\" of compost worked into the top layer before planting. The compacted clay drains poorly after rain — mound planting or a shallow raised row (4-6\") is recommended to keep crowns above standing water. Once established with organic matter amendment, alpine strawberries perform well in this soil; they are among the more forgiving fruiting plants for these conditions.",
+      "soil": "Hegins red clay benefits from annual compost topdressing to build organic matter over time. The native soil pH is likely already in the acceptable range for this species. No raised bed required if the planting site is amended and slightly mounded.",
+      "cultivarNotes": "'Alexandria' (non-running) is the top recommendation for structured herb beds; 'Yellow Wonder' for ornamental interest and reduced bird predation. 'Ruegen' (running) for ground cover applications in tree guilds.",
+      "designPlacement": "Section B (kitchen garden strip) — ideal placement; tolerates the north-facing partial shade, kitchen-adjacent for continuous grazing harvest, fits the productivity-over-beauty approach. Also excellent as ground cover in the paw paw guild understory (shade-tolerant, small enough to weave between other ground covers). Could edge Section A beds but deer pressure from the east corridor makes this a less reliable choice for the front of house.",
+      "siteObservations": "The north-facing exposure of Section B is well suited to this shade-tolerant species — it will fruit in 3-4 hours of direct sun where conventional strawberries would fail. Deer pressure from the east wildlife corridor is a concern; alpine strawberries are browsed by deer and fruit will be taken. In Section B, proximity to the house and kitchen traffic provides some deterrence. Companion planting with chives and other alliums already planned for Section B will help. The Hegins red clay requires amendment (compost topdressing, slight mounding) but is manageable for this species — it is more clay-tolerant than most fruiting plants. As the food forest matures and increasingly shades Section B, alpine strawberry will remain productive longer than most edibles due to its shade tolerance."
+    }
+  }
+}

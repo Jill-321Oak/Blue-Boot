@@ -1,0 +1,173 @@
+{
+  "id": "cornus-sericea",
+  "name": {
+    "commonName": [
+      "Red Osier Dogwood",
+      "Redtwig Dogwood"
+    ],
+    "latinName": "Cornus sericea",
+    "family": "Cornaceae"
+  },
+  "range": {
+    "nativeRange": "Northern and western North America — widespread from Alaska and Canada south through the northern and eastern US; native across a broad swath of the lower 48, from the Pacific Northwest east through the Great Lakes and Northeast, and south through the Appalachians; one of the most common native shrubs of riparian corridors, wetland margins, and moist woodland edges throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across the northern and western US; present and native in most northern-tier and Pacific Coast states; range extends into the upper South along mountain corridors; not native to most of the Deep South or arid Southwest — check your state's native plant resources to confirm local native status"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; no state-level invasive listings documented across the lower 48; suckering colonial habit should be considered in small or managed beds, but it is not ecologically invasive"
+    },
+    "zone": {
+      "min": 2,
+      "max": 8,
+      "description": "2-8"
+    }
+  },
+  "description": {
+    "height": "6-10'",
+    "spread": "6-10' or more; spreads by stolons and root suckers to form a dense, expanding colony over time; width is effectively unlimited in open conditions where spread is unrestricted",
+    "spacing": "5-8' for individual specimens; 3-4' for a mass planting or coppice hedge where colony spread is the goal",
+    "growthRate": "Fast — one of the more vigorous native shrubs; establishes quickly and spreads readily",
+    "timeToMaturity": "Flowers and fruits within 2-3 years of establishment; full colony development depends on space and management",
+    "lifespan": "Long-lived colony; individual stems are relatively short-lived (5-10 years), but the plant renews itself continuously through new sucker growth; the colony as a whole is essentially permanent in its preferred habitat",
+    "deciduousEvergreen": "Deciduous — medium to dark green leaves through the growing season; red to orange-purple fall color; bare in winter, which is precisely when the plant is most ornamentally spectacular",
+    "winterInterest": "Outstanding — the primary ornamental feature of this plant is the brilliant red bark of young stems in winter; when the leaves fall, the stems glow red-orange to deep crimson against snow or winter sky; one of the finest native plants for winter landscape color; the younger the stem, the more vivid the color — annual or biennial coppicing maximizes the display"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best stem color in full sun; tolerates significant shade but stem color is less vivid; most effective as a winter-interest plant when sited in open or at least moderately sunny conditions",
+    "water": "Medium to high; native to moist to wet conditions; highly tolerant of standing water, flooding, and waterlogged soils; one of the most flood-tolerant native shrubs available; performs poorly in sustained drought",
+    "drainagePreference": {
+      "description": "Moist to wet; tolerates periodic or prolonged saturation; thrives in conditions that would kill most shrubs; an ideal choice for problem wet areas, rain gardens, and stream edges",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent in clay — heavy clay soils are not a limiting factor provided moisture is adequate; the plant's affinity for riparian and wetland conditions means it handles poorly drained, compact clay far better than most shrubs; avoid dry or droughty clay conditions"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7.5,
+      "description": "5.0-7.5; broadly adaptable"
+    },
+    "texturePreference": "Tolerates a wide range — clay, loam, sandy loam; moisture retention matters more than texture; performs well in heavy clay provided adequate moisture is present",
+    "rootCharacter": "Dense fibrous root system with stoloniferous spread; the spreading roots make it outstanding for bank stabilization and erosion control; roots knit into stream banks and slope faces effectively"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Flat-topped clusters (cymes, 1.5-2.5\" wide) of tiny white flowers; individually small but collectively showy when the shrub is in full bloom; carried at branch tips; flowers are fragrant",
+    "fragrance": "Lightly fragrant — pleasant but not strongly scented",
+    "flowerSex": "Hermaphrodite (perfect flowers — each flower contains both male and female parts)",
+    "pollination": "Self-fertile; pollinated by a wide range of bees, flies, and small insects; a good pollinator support plant in late spring"
+  },
+  "yield": {
+    "edibleParts": "None suitable for human consumption — the white to blue-white fruit clusters are consumed extensively by birds but are not palatable or safe for people; do not eat the berries",
+    "harvestSeason": "Fruit ripens August-September; consumed rapidly by birds",
+    "medicinalUses": "Traditional use by multiple Native American peoples — inner bark and stems used in various preparations for fever, pain, and as a general tonic; not a primary medicinal plant in contemporary practice",
+    "craftOtherYield": "Stems used for basket weaving (the flexible young stems are a traditional basket-making material); stems are notably used by beavers for dam construction — an unusual and ecologically significant wildlife interaction; cut stems from coppicing can be bundled and used in garden art, wreaths, or as natural supports"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The white to blue-white berries are not edible and should not be consumed; not suitable for wildcrafting as a food plant",
+    "toxicityAnimals": "Generally considered non-toxic to domestic animals; the berries are consumed freely by wildlife without documented harm to dogs or cats, though consumption of large quantities is not recommended",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Erosion Control (outstanding — one of the best native shrubs for stream bank and slope stabilization)",
+      "Windbreak / Hedge (dense suckering thicket)",
+      "Wildlife Support (critical — see Wildlife section)",
+      "Water Management (rain garden, wet depression, bioswale planting)",
+      "Coppice Plant (vigorous regrowth; annual coppicing is the primary management practice for winter color)",
+      "Beauty (brilliant winter stem color — primary design role)",
+      "Native Plant Contribution",
+      "Pioneer / Colonizer (fast-establishing in disturbed moist areas)"
+    ],
+    "companionPlants": [
+      "Alnus incana (speckled alder — same wet-edge habitat)",
+      "Salix spp. (willows — complementary coppice plants for moist areas)",
+      "Sambucus canadensis (elderberry — similar moist-edge habitat)",
+      "Matteuccia struthiopteris (ostrich fern — excellent ground layer companion in wet areas)",
+      "Carex spp. (sedges — native ground layer in riparian zones)",
+      "Cephalanthus occidentalis (buttonbush — shares wet habitat)",
+      "Cornus sericea 'Flaviramea' (yellow-stemmed cultivar — outstanding pairing with the red form for winter contrast)"
+    ],
+    "antagonists": [
+      "None documented; avoid planting in dry or well-drained sites — the plant will survive but performance and vigor will suffer"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Bees, flies, and small insects (flowers May-June); very wide range of bird species (fruit August-September) — the white berries are consumed by over 40 species of birds including robins, cedar waxwings, bluebirds, woodpeckers, grouse, pheasant, and numerous migrants; the dense thicket provides exceptional cover and foraging habitat year-round; beavers actively harvest stems for dam and lodge construction — a notable ecological interaction and evidence of the plant's deep integration into northeastern riparian ecosystems",
+    "hostPlantFor": "Various native moth and butterfly caterpillars; Spring Azure butterfly (Celastrina ladon) uses Cornus species as a larval host; supports a range of native specialist insects tied to the Cornaceae family",
+    "nestingHabitat": "Outstanding — the dense, multi-stemmed thicket of a mature colony is among the best shrub nesting habitat available in a native landscape; Song sparrows, yellow warblers, common yellowthroats, catbirds, and other shrubland and edge birds nest readily in established thickets; the suckering colonial habit means the thicket interior is protected and structurally complex"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse C. sericea, particularly young growth; however, the plant's vigorous suckering habit means browsing pressure is generally tolerated without lasting damage; new stems emerge quickly to replace browsed growth; a dense, established colony is effectively self-repairing under typical deer pressure; not a deer-proof plant, but more resilient to deer than most shrubs"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates some salt exposure; better than many native shrubs but not a primary choice for road salt zones"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — established plants handle short dry spells but are not drought-adapted; this plant belongs in moist conditions; do not use as a substitute for a drought-tolerant shrub"
+    },
+    "other": "Exceptional flood and waterlogging tolerance — one of the most water-tolerant native shrubs; thrives in conditions that would kill most other woody plants; tolerates cold to Zone 2; adaptable to disturbed soils and slopes when moisture is adequate"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate — the plant itself requires little care; maintenance is primarily driven by the coppicing practice for maximum ornamental value and by managing the spread of the suckering colony",
+    "pruningNotes": "The single most impactful maintenance task is coppicing — cutting all stems to within 3-6\" of the ground in late winter (February-March) every 1-3 years. This produces the most vivid red stem color on the resulting new growth. Without coppicing, older stems gradually lose their red color and become dull; the plant remains healthy but the primary ornamental feature diminishes. For a less intensive approach, selectively remove the oldest one-third of stems each year in late winter (renewal pruning), maintaining a mix of young vivid stems and some older structure. Colony spread can be managed by cutting back sucker growth at the perimeter with a spade or pruning saw in spring; remove sucker stems to below grade to discourage re-sprouting from that point.",
+    "propagationMethods": [
+      "Division of rooted suckers (easiest — dig and transplant in early spring or fall)",
+      "hardwood cuttings (late fall to winter — very good success rate; this plant roots readily)",
+      "softwood cuttings (early summer — also successful)",
+      "layering (peg a low stem to the ground; it will root readily in moist soil)",
+      "seed (requires cold stratification; slower; division and cuttings are far more practical)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are widely available across the lower 48 and worth seeking out over unselected seedlings — primarily for more compact habits or more intense stem color. Hardiness across the zone 2-8 range means cultivar selection is rarely about cold hardiness; the more important variables are mature size, stem color intensity, and regional availability. In the warmest part of the range (Zones 7-8), look for locally sourced stock for best performance. In the coldest zones (2-4), all named cultivars listed here are reliably hardy. In Zones 5-7, the full cultivar palette is available and performs well.\n'Cardinal' — the benchmark red-stemmed cultivar; outstanding, intensely red winter stems; rapid growing; 6-9' tall without coppicing, smaller with regular management; widely available nationwide; the first choice for maximum winter color impact\n'Isanti' — compact selection, 4-5' tall; excellent red stem color; better suited to smaller spaces or tighter plantings where the full-size species would overwhelm; a good choice where a more contained colony is wanted\n'Flaviramea' — the classic yellow-stemmed form; bright, chartreuse to yellow winter stems; not red but an outstanding companion to red-stemmed forms; plant both together for a striking two-tone winter display; same cultural requirements; 5-6' tall\n'Baileyi' — upright habit; good red winter stem color; slightly more restrained spread than the species; a solid general-purpose selection\nArctic Fire ('Farrow') — newer compact selection, 3-4' tall; good red stem color; among the most compact options; useful for rain gardens and smaller spaces; widely available in the trade",
+  "gardenUse": {
+    "suggestedUse": [
+      "Rain garden",
+      "stream bank stabilization",
+      "wet depression planting",
+      "food forest moist edge",
+      "coppice hedge",
+      "wildlife thicket",
+      "erosion control on moist slopes",
+      "mass planting for winter color"
+    ],
+    "designPlacement": "Best suited to the moist edges and low areas of a property — any wet depression, bioswale, or stream-adjacent area is an ideal placement. The winter stem color is the dominant design asset and is most impactful in mass — a single plant is pleasant; a coppiced colony of 5-10 stems or more is genuinely spectacular in winter light. Plant where the red stems will be visible from a primary viewpoint (window, path, or driveway approach) in winter. Too large and suckering for managed perennial or kitchen garden beds. Best placed in open areas where colony spread is welcome and where winter color creates landscape interest during the bleakest months. Pair with 'Flaviramea' for a red-and-yellow two-tone winter display. Excellent anchor for a rain garden or bioswale planting combined with native sedges and ostrich ferns.",
+    "acquisitionStatus": "To source (native plant nursery or garden center; named cultivars widely available; specify 'Cardinal' or 'Isanti' for best results)\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cornus_sericea",
+    "inaturalist": "https://www.inaturalist.org/taxa/53387-Cornus-sericea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=279363"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. sericea is native to Pennsylvania; very common in moist to wet habitats statewide, including stream banks, floodplain edges, and wet meadow margins",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Outstanding performer in Pennsylvania's heavy red clay; the compacted, poorly drained clay soils common to central PA sites are a natural fit for this species; drainage issues that limit other shrubs are an advantage here",
+      "soil": "Performs reliably in the red clay, compacted soils typical of central Pennsylvania sites; moisture retention in clay benefits this species",
+      "cultivarNotes": "All cultivars above are fully hardy in Zone 6a; 'Cardinal' is the primary recommendation for maximum winter color impact; 'Isanti' or Arctic Fire for space-constrained placements; 'Flaviramea' as a two-tone pairing with any red-stemmed form",
+      "designPlacement": "Place in any wet depression, low-lying area, or drainage swale on the property — the heavy clay and drainage issues that are a challenge for most plants are ideal conditions for this species. Outstanding for the food forest moist edge or any area where standing water is a problem. Not suited to Sections A, B, or C (too large and suckering for managed beds). Sited with active deer pressure in mind: the vigorous suckering habit means browsing is tolerated; a coppiced colony will recover quickly from deer damage. Pair with Sambucus canadensis, Matteuccia struthiopteris, and native sedges in wet areas.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "allium-cepa-aggregatum",
+  "name": {
+    "commonName": [
+      "Shallot (also: Multiplier Onion",
+      "Eschalot; French Grey Shallot may be A. oschaninii — see Cultivar Notes)"
+    ],
+    "latinName": "Allium cepa var. aggregatum G.Don",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Unknown in the wild — shallots share the murky origin of all Allium cepa cultivars; believed to have been developed in Central Asia and the Middle East; the name \"shallot\" derives from Ashkelon (ancient Canaanite city), suggesting long cultivation in the Levant; among the oldest cultivated alliums in Western cooking; not found in the wild in any meaningful sense",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; cultivated globally as a food crop; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive — does not naturalize; requires active cultivation; spent bulbs left in the ground will re-sprout but do not spread aggressively"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 as a crop; grown as a cool-season bulbing crop with two planting windows (fall or early spring); fall planting is strongly preferred and produces superior results"
+    }
+  },
+  "description": {
+    "height": "12-18\" in active leaf growth; hollow, strap-like foliage similar to onion but finer in texture; scapes (if allowed to develop) reach 18-24\"",
+    "spread": "8-12\" per cluster at maturity — each planted bulb divides into a cluster of 4-12 daughter bulbs by harvest; plan spacing accordingly",
+    "spacing": "6 inches apart, in rows 8-10\" apart; or in a raised bed grid at 6\" spacing; wider spacing (8\") produces larger individual bulbs within each cluster; do not crowd — adequate airflow reduces disease pressure",
+    "growthRate": "Fall-planted bulbs establish roots before winter, produce modest top growth in mild periods, resume vigorous growth in early spring, and are ready to harvest by late June to mid-July; spring-planted bulbs follow a compressed schedule and harvest in August; fall planting gives a significantly longer growing season and larger bulbs",
+    "timeToMaturity": "Fall-planted: approximately 9 months from planting (September/October) to harvest (late June/July); spring-planted: 90-110 days from planting (March/April) to harvest (July/August); both windows produce a full multiplied cluster from a single planted bulb",
+    "lifespan": "Annual crop, but self-sustaining once established — save a portion of each harvest for replanting each fall; a single initial purchase of seed stock can sustain a shallot-growing operation indefinitely if you select and save your best bulbs each year",
+    "deciduousEvergreen": "Annual — foliage dies back completely when bulbs mature and are ready to harvest; yellowing and falling tops are the primary harvest signal, identical to onions",
+    "winterInterest": "Fall-planted shallots produce low green foliage through mild fall and winter periods; in Zone 6a this foliage is present but low and largely dormant during the coldest months; mulching with straw protects both the foliage and bulbs through hard freezes"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — shallots require at least 6-8 hours of direct sun for good bulb development; part shade significantly reduces yield and bulb size; situate in the sunniest available raised bed position",
+    "water": "Medium — consistent moisture is important during active leaf growth in spring; reduce watering as foliage begins to yellow and fall (the bulb maturation phase); overhead watering promotes fungal disease (downy mildew, botrytis neck rot); drip irrigation or soaker hose at the base is preferable; avoid waterlogging at any stage, which invites bulb rot",
+    "drainagePreference": {
+      "description": "Well-drained — shallots are as drainage-sensitive as onions; standing water causes basal rot and dramatically reduces storage quality; raised beds are the ideal growing environment for shallots, directly addressing clay drainage challenges",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — bulb crops require loose, well-drained soil; clay causes waterlogging that rots bulbs and prevents full cluster development; raised beds are strongly recommended in any clay-heavy setting"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral preferred; amend with lime if soil pH is below 6.0, which reduces nutrient availability and can promote fungal disease in stored bulbs"
+    },
+    "texturePreference": "Loose, well-cultivated, friable soil — shallot clusters expand laterally as daughter bulbs form; compacted or heavy clay restricts cluster expansion and produces small, misshapen bulbs; raised beds with compost-amended soil are ideal; in-ground planting can work if the bed is thoroughly amended with 4-6 inches of compost worked in before planting",
+    "rootCharacter": "Shallow, fibrous root system arising from the basal plate of each bulb; not a deep feeder; relies heavily on surface soil nutrients and consistent moisture; this shallow rooting makes raised beds particularly suitable and means shallots compete poorly with weeds — keep beds clean"
+  },
+  "bloom": {
+    "bloomTime": "If allowed to bolt — scapes emerge in late spring of the first year if plants experience stress (extreme cold, drought, or root disturbance); in well-managed plantings, most shallots will not bolt in year 1 and should be harvested before flowering",
+    "bloomDescription": "If bolting occurs: a slender hollow scape rises from the center of the cluster, topped with a dense spherical umbel of white to pale pink florets; ornamentally identical in form to onion; a bolted plant will still produce small bulbs in the cluster but they will be of reduced quality and will store poorly — harvest and use bolted plants immediately rather than curing for storage",
+    "fragrance": "Mild onion-garlic scent from foliage and bulbs; finer and less aggressive than common onion; the characteristic shallot aroma is what distinguishes it in French cooking",
+    "flowerSex": "Hermaphrodite — each floret contains both male and female parts",
+    "pollination": "Insect-pollinated; shallots can cross-pollinate with other Allium cepa cultivars (onions, potato onions) if allowed to flower; for culinary and storage purposes this is irrelevant, as shallots are propagated vegetatively from saved bulbs rather than seed"
+  },
+  "yield": {
+    "edibleParts": "Bulbs (the primary yield — each planted bulb produces a tight cluster of 4-12 daughter bulbs by harvest; bulbs are used raw, sautéed, caramelized, pickled, roasted, and dried; their flavor is finer, milder, and more complex than common onion — less sharp raw, with a gentle garlicky background note that makes them the preferred allium in classical French cuisine, vinaigrettes, pan sauces, and compound butters); green tops (the hollow green leaves are usable as scallions at any point during the growing season — snip outer leaves from the cluster for fresh use; mild shallot flavor); flowers (edible if blooming occurs; mild flavor, attractive as a garnish)",
+    "harvestSeason": "Fall-planted shallots are ready in late June to mid-July when the tops have yellowed and approximately 50% have fallen over naturally; spring-planted shallots are ready in August by the same signal; do not wait until all tops have collapsed — harvest promptly to avoid weather damage to the paper wrappers; lift clusters carefully with a fork, keeping the cluster intact; allow to dry briefly in the field (1-2 hours) before moving to the curing area; cure for 2-4 weeks in a dry, well-ventilated space out of direct sun before storing; properly cured shallots store 6-8 months — one of the longest-storing alliums and an outstanding homestead storage crop",
+    "medicinalUses": "Shares the medicinal chemistry of Allium cepa — allicin precursors, quercetin, and sulfur compounds with documented antimicrobial, anti-inflammatory, and cardiovascular benefits; the higher concentration of organosulfur compounds relative to common onion may confer greater antioxidant activity per gram; primarily a culinary crop with incidental medicinal value; long history in traditional European and Asian medicine",
+    "craftOtherYield": "Shallot skins (copper-brown to rose-red) yield warm amber-gold natural dyes similar to onion skin dye; braided clusters of cured shallots are both functionally elegant storage and a classic kitchen decoration; the long storage life makes shallots an excellent barter and homestead economy crop"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic in culinary quantities; raw shallots can cause digestive discomfort in individuals sensitive to fructans (FODMAP); shallots are generally milder and less irritating than common onion; safe for all ages in food quantities",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia (destruction of red blood cells) in dogs and cats; shallots are particularly concentrated in the organosulfur compounds responsible for this toxicity and may be more dangerous per gram than common onion; never allow pets to access shallot bulbs, trimmings, or cooked dishes containing shallots; also toxic to horses and other livestock; this is a serious caution if pets have access to the garden or kitchen scraps",
+    "allelopathy": "Mild — root exudates contain sulfur compounds with some suppressive effect on certain soil pathogens and root pests; the same compounds inhibit legume growth (beans, peas) — do not plant adjacent to those crops; this mild allelopathy is beneficial in companion planting contexts with most other vegetables",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Root / Rhizosphere (annual vegetable)"
+    },
+    "roles": [
+      "Food (primary role — a high-value, long-storing culinary crop that multiplies vegetatively from a single investment in seed stock)",
+      "Pest Confuser (allium scent and root exudates deter aphids, onion fly, carrot fly, and other pests)",
+      "Self-Sustaining System (save a portion of each harvest for replanting — the shallot patch becomes self-funding and self-seeding within one season, making it an excellent permaculture annual crop)",
+      "Dynamic Accumulator (sulfur compounds in foliage and bulb)"
+    ],
+    "companionPlants": [
+      "Carrots (the classic allium-carrot pairing — onion scent deters carrot fly; carrot scent deters onion fly; one of the best-documented beneficial companion relationships in the vegetable garden)",
+      "beets",
+      "lettuce",
+      "chamomile",
+      "summer savory",
+      "tomatoes",
+      "brassicas (cabbage moth deterrence)",
+      "strawberries",
+      "roses (aphid deterrence)"
+    ],
+    "antagonists": [
+      "Beans and peas — allium root exudates inhibit legume growth; do not plant shallots adjacent to or in rotation immediately before a legume bed; also traditionally antagonistic to asparagus; avoid planting near clover ground cover if allium exudate inhibition is a concern"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when in flower (if bolting occurs); otherwise minimal wildlife value; the pungent allium scent actively deters most mammals and many insects from approaching the planting",
+    "hostPlantFor": "Not a significant host plant; no notable Lepidoptera associations",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — shallots share the outstanding deer resistance of all allium species; the concentrated allium chemistry in foliage and bulbs is a highly effective deer deterrent; deer essentially never browse shallot tops; makes shallots an excellent candidate for in-ground planting in deer-pressure areas and for interplanting throughout any vegetable rows where more palatable crops are at risk"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates average garden soil salinity; not particularly salt-sensitive under normal conditions"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — shallow roots make shallots drought-sensitive, particularly during spring bulbing; consistent moisture produces larger, better-formed clusters; mulching with straw after fall planting conserves moisture through winter and spring"
+    },
+    "other": "Cold tolerance is excellent when properly established — fall-planted shallots overwinter reliably in Zone 6a with a light straw mulch (2-3\") applied after the ground begins to cool in October; bulbs are hardy to Zone 4-5 without protection; in Zone 6a they can be left lightly mulched or even unmulched in most winters, though mulching improves spring vigor and insulates against hard freeze/thaw cycles that can heave newly planted bulbs"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the planting and harvest cycle is straightforward; the primary maintenance tasks are weed management (shallots compete poorly with weeds due to shallow roots), proper mulching at planting, and timely harvest and curing; once you have your own saved stock, annual cost is essentially zero",
+    "pruningNotes": "Do not trim foliage at planting (unlike onion transplants, shallot sets are planted whole and untrimmed). Cut back any flower scapes immediately if they appear — bolting diverts energy from the developing bulb cluster; bolted plants should be harvested promptly rather than held for storage. Weed diligently from planting through mid-spring before the canopy fills in — weeds in the first 6-8 weeks after spring green-up significantly reduce yield. Apply straw mulch at fall planting (1-2\" over the planted area) to suppress weeds and retain moisture through winter. Remove or pull back mulch in late March as growth resumes to allow soil to warm.",
+    "propagationMethods": [
+      "Bulb sets (the standard method — plant individual bulbs, pointed end up, 1 inch deep, 6 inches apart; press the soil firmly around each bulb so the tip is just at or barely below the soil surface; do not bury deeply; fall planting in Zone 6a: September to mid-October, before the ground freezes; spring planting: late March to early April, as soon as the soil can be worked; each planted bulb produces a cluster of 4-12 daughter bulbs by harvest time)\nSaved stock (select and save the largest, best-formed bulbs from each harvest for replanting; do not save undersized or malformed bulbs; store saved stock in a cool, dry, well-ventilated location, separate from kitchen stock, until planting time; bulbs held too warm will desiccate or sprout prematurely; properly stored saved bulbs remain viable for 4-6 months without significant quality loss)\nSeed (less common; used for \"true shallot\" varieties like Dutch Red and Prisma; produces some variability but allows access to disease-free certified seed stock; start seed indoors 10-12 weeks before transplanting date; treat like onion seedlings — strong light essential; transplant in early April)"
+    ]
+  },
+  "cultivarNotes": "PLANTING TYPES — TWO WINDOWS, ONE STRONGLY PREFERRED:\nFall planting (September-October) is the strongly recommended approach in Zone 6a and similar climates. Planted like garlic — the bulbs establish roots before the ground freezes, overwinter dormant under mulch, resume growth vigorously in early spring, and produce a full harvest in late June to mid-July. Fall planting results in larger bulbs, more daughter bulbs per cluster, and a more reliable yield compared to spring planting. The extended growing season (9 months vs. 3 months for spring planting) allows the plant to build significantly more leaf mass before bulbing, which directly translates to bulb size. This is the traditional European method and produces results comparable to garlic in its quality advantage over spring-planted stock.\nSpring planting (March-April) is viable but produces smaller bulbs and is more susceptible to heat stress as the season shortens the bulbing window. Spring planting is a useful fallback if fall planting stock is not available, or for a second succession planting to extend the harvest season into August.\nVARIETY SELECTION — TWO MAIN TYPES:\nSets (vegetatively propagated, true-to-type) — the most commonly grown and most reliable method:\n'Ambition' F1 — the most widely recommended shallot for home gardens and market growing; large, uniform, copper-skinned bulbs; excellent disease resistance; high yield; stores very well; widely available from Johnny's Selected Seeds and other major suppliers\n'Ed's Red' — red-skinned heirloom variety; beautiful deep rose-red skin with white flesh tinged pink; excellent flavor; good keeper; a favorite among flavor-focused growers; available from specialty seed suppliers\n'Matador' F1 — high-yielding, uniform, excellent storage; copper-brown skin; reliable and consistent; a good workhorse variety; MBG PlantFinder lists this variety under Allium cepa\n'Zebrune' (Banana Shallot) — elongated, torpedo-shaped; mild and sweet; popular in French cooking; excellent flavor; somewhat shorter storage than round types\nSeed-grown (some variation, but disease-free certified stock):\n'Prisma' — popular seed-grown shallot; uniform, reliable; copper-skinned; available from Johnny's and Fedco; MBG PlantFinder lists this variety\n'Dutch Red' (also 'Dutch Yellow') — traditional seed-grown types; widely available; more variation than F1 sets but still very good results; MBG PlantFinder lists Dutch Red Shallot under Allium cepa\nFRENCH GREY SHALLOT — A SPECIAL NOTE:\nThe classic eschalote grise of French haute cuisine — the shallot prized in Béarnaise sauce, classic vinaigrette, and restaurant kitchens — is sometimes classified as Allium oschaninii (a distinct species) and sometimes as a form of Allium cepa. It has grey-brown skin, a more elongated form, and is considered to have the finest, most complex flavor of any shallot. It is significantly harder to find as planting stock (Territorial Seed, Keene Organics, and some specialty French seed suppliers carry it), more temperamental in growth, and lower-yielding than the common types above. It is well worth growing a small trial bed if stock can be sourced — the flavor difference is genuine and significant. Grow identically to standard shallots: fall planting preferred, same spacing and depth, same curing protocol.\nSELF-SUSTAINING HOMESTEAD CROP:\nUnlike common onions — which must be purchased as seed or sets each year — shallots reward a one-time investment in quality seed stock with perpetual productivity. Plant, harvest, save a portion, replant. A bed of 20-30 bulbs planted in fall will yield 100-300 daughter bulbs for harvest, enough to supply the kitchen for a year, replant next fall's bed with room to spare, and have surplus for gifting or trading. This self-sustaining cycle, combined with excellent storage (6-8 months properly cured) and exceptional deer resistance, makes shallots one of the highest-value alliums for the kitchen garden.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden (primary high-value allium crop)",
+      "raised vegetable beds",
+      "in-ground vegetable rows where deer pressure makes more palatable crops difficult",
+      "companion planting throughout the vegetable garden"
+    ],
+    "designPlacement": "Raised beds are the ideal primary location for shallot production — the loose, well-drained growing medium directly addresses shallots' sensitivity to compacted clay, provides optimal bulbing conditions, and allows precise weed management. Dedicate a raised bed section to a fall-planted shallot block of 20-40 bulbs, planted alongside the garlic bed; the two crops share timing, planting method, and harvest season. For in-ground production in lower-pressure settings, shallots are excellent candidates: their deer resistance is exceptional, their low profile (12-18\") creates no shade competition issues, and their allium chemistry benefits neighboring vegetables. The classic pairing of shallots with carrots in alternating rows is especially productive; both crops benefit.",
+    "acquisitionStatus": "To source — order fall planting stock (Ambition, Ed's Red, or Matador sets) from Johnny's Selected Seeds or Fedco Seeds in August for September planting; seed-grown types (Prisma, Dutch Red) also available from those suppliers; French Grey shallot (A. oschaninii type) from Territorial Seed or Keene Organics if available"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shallot",
+    "inaturalist": "https://www.inaturalist.org/taxa/484762-Allium-cepa-aggregatum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282056 (Allium cepa species page — no separate variety page exists; shallot cultivars Ambition, Matador, Prisma, and Dutch Red Shallot are listed here under the species)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised beds required for reliable shallot production",
+      "soil": "Raised beds strongly recommended due to red clay subsoil; in-ground planting requires heavy amendment with compost",
+      "cultivarNotes": "Fall planting (September to mid-October) is strongly preferred and produces the best results — bulbs establish roots before freeze, overwinter under light straw mulch, and yield a full harvest by late June/July. 'Ambition' F1 and 'Ed's Red' sets are the most reliable varieties for Zone 6a; both overwinter well and produce large clusters. 'Matador' F1 is also well-suited. Spring planting (late March to early April) is viable as a secondary window. French Grey shallot (A. oschaninii type) overwinters reliably in Zone 6a with mulch and is worth a trial bed once standard production is established.",
+      "designPlacement": "Plant in raised beds to address the red clay subsoil; in-ground trial planting is possible in the east-side deer-pressure corridor but raised beds are strongly preferred for reliable bulb development. Fall planting window: first two weeks of October in Zone 6a — after summer heat breaks but well before the ground freezes (typically late November/December). Order fall planting stock (Ambition, Ed's Red, or Matador sets) from Johnny's Selected Seeds or Fedco in August for September/October planting.",
+      "siteObservations": "Curing is as critical as growing — shallots harvested promptly when tops fall and cured properly (2-4 weeks on screens or hanging in mesh bags in a dry, shaded, well-ventilated space at 75-85°F and low humidity) will store 6-8 months. This storage window makes shallots an exceptional homestead crop: a single July harvest sustains the kitchen through the following spring. After curing, store in mesh bags or open crates in a cool, dry cellar or garage (50-60°F ideal). Do not store in sealed containers or the refrigerator during the curing phase. Inspect stored bulbs monthly and remove any that show softness or mold before they spread to neighboring bulbs."
+    }
+  }
+}

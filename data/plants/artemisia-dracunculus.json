@@ -1,0 +1,161 @@
+{
+  "id": "artemisia-dracunculus",
+  "name": {
+    "commonName": [
+      "French Tarragon",
+      "Tarragon"
+    ],
+    "latinName": "Artemisia dracunculus 'Sativa'",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Central Asia and southern Russia; widely cultivated throughout temperate Europe and North America; French tarragon (var. sativa) is a sterile cultivar of this species",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Asia/Europe; not naturalized aggressively; Russian tarragon (the seed-grown form) occasionally naturalizes in disturbed areas in the western US but is not a problem species"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; French tarragon is sterile and cannot set seed; Russian tarragon self-seeds but is not a regulated species"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "18-24\"",
+    "spread": "12-18\"; spreads slowly by creeping rhizomes; forms a clump that enlarges gradually over years",
+    "spacing": "18\"",
+    "growthRate": "Moderate; establishes in year 1, reaches full productive size by year 2",
+    "timeToMaturity": "Harvest lightly in year 1; fully productive from year 2 onward",
+    "lifespan": "Long-lived perennial; individual clumps persist for many years but should be divided every 2-3 years to maintain vigor",
+    "deciduousEvergreen": "Deciduous — dies back completely to the ground in winter and re-emerges from the crown in spring; no above-ground presence in winter",
+    "winterInterest": "None; completely dormant; the crown overwinters underground"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but flavor intensity decreases noticeably in lower light; in Zone 6a, a warm, sunny position maximizes the essential oil content that gives tarragon its distinctive character",
+    "water": "Low to medium; drought tolerant once established; consistent moisture during establishment; reduce watering in late summer and fall to harden the crown before winter",
+    "drainagePreference": {
+      "description": "Well-drained soil is critical — this is the single most important cultural requirement; French tarragon crowns rot readily in wet or waterlogged conditions, especially over winter; raised beds, amended heavy clay, or the front edge of a well-drained bed are strongly preferred over low-lying or clay-heavy positions",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; tarragon requires excellent drainage and lean soil; heavy clay holds moisture that causes crown and root rot, especially in winter when plants are dormant; this is the primary failure point for tarragon in eastern US gardens; raised beds, well-drained amended mounds, or gritty soil are essential in heavy-soil climates"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; neutral to slightly acidic preferred"
+    },
+    "texturePreference": "Light, well-drained, lean to average; excess fertility produces lush foliage with diluted flavor; performs well in amended sandy loam; in Zone 6a red clay, significant amendment (coarse grit, compost, raised planting) is needed for long-term survival",
+    "rootCharacter": "Shallow creeping rhizomes; fibrous; not deep-rooted; the crown is the vulnerable point — it must stay well-drained through winter"
+  },
+  "bloom": {
+    "bloomTime": "July-August (rarely blooms significantly in cultivation; flowers are inconspicuous and sterile)",
+    "bloomDescription": "Tiny, greenish-yellow to whitish florets in small, nodding clusters along the upper stems; individually inconspicuous; not ornamentally significant; because French tarragon is a sterile triploid, it rarely produces flowers and essentially never sets viable seed — this is both its defining limitation (no seed propagation) and its advantage (all energy goes to leaf production rather than reproduction)",
+    "fragrance": "Powerfully aromatic — the characteristic anise-licorice scent with sweet, complex herbaceous undertones; the aroma of true French tarragon is immediately apparent and intense; it is one of the most distinctively scented culinary herbs; if a plant labeled \"tarragon\" has little or no scent when a leaf is bruised, it is Russian tarragon and should be avoided",
+    "flowerSex": "Hermaphrodite (functionally sterile)",
+    "pollination": "Sterile; sets no viable seed; propagation is entirely vegetative"
+  },
+  "yield": {
+    "edibleParts": "Fresh or dried leaves; the flavor is at its peak just before flowering; leaves can be harvested throughout the growing season; harvest by cutting stems back by one-third, which encourages fresh growth",
+    "harvestSeason": "Late spring through fall; best flavor in late spring and early summer before heat peaks; a second flush of aromatic growth often follows a mid-summer cutback",
+    "medicinalUses": "Traditional digestive herb; mild carminative; historically used to stimulate appetite and ease indigestion; mild antimicrobial properties from volatile oils; not a primary medicinal species — culinary use is overwhelmingly the reason to grow it",
+    "craftOtherYield": "Tarragon vinegar (a classic French preparation — pack fresh stems into white wine vinegar); tarragon-infused oil; dried herb for culinary storage"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe culinary herb at normal consumption levels; contains estragole (a naturally occurring compound also found in basil and anise) — no concern at culinary quantities",
+    "toxicityAnimals": "Generally safe in small quantities; large amounts may cause mild GI upset in dogs and cats; not a significant hazard",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer"
+    },
+    "roles": [
+      "Food (primary culinary herb — one of the classic fines herbes of French cuisine)",
+      "Medicinal (digestive, appetite stimulant)",
+      "Pest Confuser (strongly aromatic foliage may deter some pest insects)",
+      "Deer Deterrent (powerfully aromatic foliage is strongly avoided by deer)"
+    ],
+    "companionPlants": [
+      "Compatible with most kitchen garden plants; traditionally grown alongside chervil",
+      "chives",
+      "and parsley (the other three fines herbes); pairs well with thyme",
+      "sage",
+      "and other well-drained Mediterranean herbs; good at the front edge of a raised herb bed; can be planted near brassicas or nightshades as an aromatic deterrent"
+    ],
+    "antagonists": [
+      "Avoid planting in wet or poorly-drained positions regardless of neighbors; avoid rich",
+      "heavily fertilized soil — high fertility dilutes essential oil production and flavor"
+    ],
+    "coppiceable": "Cut back by one-third to one-half after the first flush of growth in late spring to encourage fresh, aromatic regrowth; cut back again after any flowering; cut to the ground in early spring before emergence to remove old woody stems"
+  },
+  "wildlife": {
+    "attracts": "Limited; flowers are inconspicuous and rarely produced; some beneficial insects may visit when in flower; the aromatic foliage is more notable for what it repels than what it attracts",
+    "hostPlantFor": "No significant host plant value",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the intensely aromatic foliage is strongly avoided by deer; among the most reliable deer-deterrent herbs; a useful front-row plant in any deer-pressured garden"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established; prefers to dry out between waterings; excess moisture is more harmful than drought"
+    },
+    "other": "Tolerates lean, infertile soil well; this is a feature, not a limitation — lean conditions concentrate aromatic oils and improve culinary quality; does not thrive in heavy clay without amendment; fully cold-hardy to Zone 4 when drainage is adequate — poor drainage in winter is a greater threat than cold"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate; the primary demands are ensuring adequate drainage (a one-time siting decision) and dividing the clump every 2-3 years",
+    "pruningNotes": "Cut stems back by one-third in late spring to encourage bushy, compact growth and fresh aromatic leaves. Cut back after any flowering. Remove dead top growth in early spring before new shoots emerge. Older clumps become woody and less productive — divide in spring every 2-3 years, discarding the woody center and replanting the vigorous outer divisions.",
+    "propagationMethods": [
+      "Division (the standard method — divide in early spring when new growth just begins; the easiest and most reliable approach); stem cuttings (take 3-4\" softwood cuttings in late spring or early summer; root in moist medium; high success rate); root cuttings (less common but viable); seed propagation is NOT possible for French tarragon — it is sterile and produces no viable seed; any \"tarragon\" grown from seed is Russian tarragon (A. dracunculus from the wild type)",
+      "which has essentially no culinary flavor and should not be purchased or grown as a culinary herb"
+    ]
+  },
+  "cultivarNotes": "The French vs. Russian tarragon distinction is one of the most practically important in the culinary herb garden and a perennial source of disappointment for new growers.\n**French tarragon** (Artemisia dracunculus 'Sativa') is the only tarragon worth growing for cooking. It has an intense, complex anise-licorice flavor with sweet herbaceous undertones — one of the most distinctive and irreplaceable flavors in French cuisine. It cannot be grown from seed (it is a sterile triploid) and must be purchased as a divisions or rooted cutting from a reputable herb nursery. It is the correct plant.\n**Russian tarragon** (Artemisia dracunculus grown from wild-type seed) is what is sold in seed packets labeled \"tarragon.\" It grows easily from seed, looks similar, and produces a large plant — but has almost no flavor or aroma. It is essentially useless for cooking. It is unfortunately common in garden centers and seed catalogs.\n**The rule:** If it was sold as a seed packet, it is Russian tarragon. If it was sold as a division or rooted cutting — especially from a specialty herb nursery — it is likely French. Always taste or smell a leaf before purchasing: true French tarragon is powerfully and immediately aromatic when you bruise a leaf. If you smell nothing, walk away.\nNo other cultivar distinctions are meaningful — 'Sativa' is the French type, and there is only one French type worth growing.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen herb garden",
+      "raised herb bed",
+      "container",
+      "front edge of a well-drained bed; essential to any serious culinary herb planting; pairs naturally with the other fines herbes (chervil, chives, parsley)"
+    ],
+    "designPlacement": "Herb garden, Mediterranean-style raised bed, kitchen garden in full sun with excellent drainage",
+    "acquisitionStatus": "To source — must be purchased as a division or rooted cutting; do not purchase seed-grown plants; source from a reputable herb nursery (Richters Herbs, Companion Plants, or a local specialty nursery that sells named divisions)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Artemisia_dracunculus",
+    "inaturalist": "https://www.inaturalist.org/taxa/57912-Artemisia-dracunculus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=256946"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; cultivated herb, not native to Pennsylvania or eastern North America",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised bed or well-amended raised mound strongly recommended; winter drainage is the critical factor; in-ground clay planting typically results in crown rot over 1-3 winters",
+      "soil": "Raised bed with gritty, lean mix required for reliable tarragon at Hegins; native clay causes winter crown rot",
+      "cultivarNotes": "French tarragon is marginally hardy in Zone 6a with good drainage; excellent drainage is the key survival factor; plant in raised bed or gritty mound; 'Sativa' (true French tarragon) only — avoid Russian tarragon seed strains",
+      "designPlacement": "Section C south-facing warm-dry microclimate is ideal; raised bed required; Section B is possible with drainage amendment",
+      "siteObservations": null
+    }
+  }
+}

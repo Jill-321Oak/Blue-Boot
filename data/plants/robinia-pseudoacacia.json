@@ -1,0 +1,165 @@
+{
+  "id": "robinia-pseudoacacia",
+  "name": {
+    "commonName": [
+      "Black Locust"
+    ],
+    "latinName": "Robinia pseudoacacia",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Central Appalachian Mountains — native range centered on the Allegheny and Blue Ridge Mountains, from Pennsylvania south through Virginia, West Virginia, Tennessee, North Carolina, and into Georgia; broadly naturalized across the entire eastern United States, much of Europe, and parts of Asia and South America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the central Appalachian region of the eastern US — specifically the mountains of Pennsylvania, Virginia, West Virginia, Kentucky, Tennessee, North Carolina, and northern Georgia/Alabama; now thoroughly naturalized across all 48 contiguous states and southern Canada; in the western US, naturalized populations are established from the Pacific Northwest through California, the Rockies, and the Great Plains; so extensively planted and escaped that it is functionally present in every US region"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Considered invasive in multiple US regions — listed as invasive or noxious in several western states and parts of the Midwest where it colonizes native grasslands and prairie remnants; in the eastern US, it is native to the Appalachian core but aggressively colonizes disturbed ground, roadsides, old fields, and forest edges far beyond its original range; spreads by prolific root suckering and abundant seed; forms dense monoculture thickets that shade out native vegetation; some states (e.g., Connecticut, Massachusetts, Wisconsin) formally list it as invasive; the USDA PLANTS database flags it as a weed in multiple states; in its native Appalachian range it is not regulated, but even there, it behaves as an aggressive pioneer that requires active management in any garden context"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "30-50' at maturity; frequently taller in ideal conditions (documented to 80'); fast growth means this height is reached quickly — expect 20-30' within 5-7 years from a young tree",
+    "spread": "20-35'; suckering root system means the effective spread of a colony is much wider than any single trunk",
+    "spacing": "20-30' for single specimens; as a coppice stool, plant 10-15' apart; site deliberately away from structures, foundations, and areas where root sucker spread cannot be managed",
+    "growthRate": "Very fast — among the fastest-growing native trees in the eastern US; 3-5' per year when young and vigorous; one of the quickest paths from planting to harvestable poles and posts",
+    "timeToMaturity": "Flowers in year 3-5 from seed; usable coppice poles in 5-7 years; nitrogen fixation begins immediately from year 1",
+    "lifespan": "Relatively short-lived for a hardwood — 30-50 years for any individual trunk; as a coppice stool, the root system is effectively indefinite; mature trees are prone to brittleness and storm damage",
+    "deciduousEvergreen": "Deciduous — pinnate compound leaves with 7-19 rounded leaflets; bright green in spring; the leaves emerge late in spring (a useful trait — the late leaf-out extends light availability to understory plants in May); fall color is pale yellow, undistinguished",
+    "winterInterest": "Low — bare in winter; the furrowed, deeply ridged bark is structurally interesting on mature trunks; paired thorns on younger stems are visible; not an ornamental winter subject"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; tolerates partial shade but growth rate and nitrogen fixation are reduced in shade; a pioneer species by nature — it thrives in open, disturbed, high-light conditions",
+    "water": "Low to moderate — good drought tolerance once established; tolerates periodic drought without significant stress; will grow faster with consistent moisture but does not require it; avoid waterlogged conditions",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates poor and rocky soils with good drainage; does not perform well in persistently wet or waterlogged sites; the combination of full sun and good drainage is the baseline for vigorous growth",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — black locust is unusually tolerant of heavy clay soils compared to most trees, provided the clay does not remain waterlogged; the aggressive root system physically breaks up compacted clay over time, and the nitrogen-fixing nodules improve soil biology in the root zone; in clay with seasonal drainage issues, performance is acceptable if the site is not in a low spot that pools water; amendment is rarely necessary for black locust — this is a tree that improves its own soil conditions rather than requiring them to be improved first"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.6,
+      "max": 8,
+      "description": "4.6-8.0 — extremely adaptable; fixes nitrogen effectively across a wide pH range; will grow in soils too acidic or too alkaline for most trees"
+    },
+    "texturePreference": "Highly adaptable — performs on sandy loam, rocky hillsides, gravel, clay (with adequate drainage), and severely disturbed or compacted soils; the root system tolerates compaction that would defeat most trees; this is precisely the kind of site where black locust excels as a pioneer",
+    "rootCharacter": "Aggressive and spreading — deep taproot plus wide-ranging lateral roots that produce root suckers prolifically; the root suckers are the primary mechanism of spread and the primary management challenge; nitrogen-fixing nodules (Bradyrhizobium bacteria) are present on the roots; do not plant near foundations, underground utilities, or formal garden beds without physical root barriers"
+  },
+  "bloom": {
+    "bloomTime": "May to June — typically 1-2 weeks of bloom; timing varies by latitude and zone (late April in Zone 7-8, late May to early June in Zone 4-5)",
+    "bloomDescription": "Pendant racemes of white, pea-like flowers, 4-8\" long, hanging in clusters from the branches; flowers are borne in great profusion when the tree is in full bloom; the effect is spectacular — a large tree in flower is one of the more striking native bloom events in the eastern deciduous forest; flowers are edible and have a sweet, honey-like flavor; used in fritters, salads, and syrups",
+    "fragrance": "Outstanding — among the most intensely fragrant flowers of any native tree; the scent is sweet, heavy, and vanilla-like; carries considerable distance; a tree in full bloom perfumes the surrounding area",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees (primary pollinator — black locust is one of the premier bee forage trees in the eastern US; black locust honey is a prized monofloral honey, pale in color, mild in flavor, and unusually slow to crystallize); also visited by bumblebees and other native pollinators"
+  },
+  "yield": {
+    "edibleParts": "Flowers only — the flowers are the sole edible part of the plant; all other parts (bark, leaves, seeds, pods, roots) are toxic; flowers can be eaten fresh, battered and fried as fritters, added to salads, or steeped to make a fragrant floral syrup or infused honey; the flavor is sweet and delicate; harvest when fully open and before they begin to brown",
+    "harvestSeason": "Flowers in May-June (1-2 week window — harvest promptly as the flowers drop quickly once fully open)",
+    "medicinalUses": "Historically used in folk medicine; flower water used as a mild antispasmodic; not a primary medicinal plant; the toxicity of non-flower parts is a limiting factor",
+    "craftOtherYield": "Timber — black locust wood is one of the most rot-resistant hardwoods in North America, comparable to white oak; specific gravity is high; excellent for fence posts (documented to last 30+ years in ground contact without treatment), tool handles, outdoor furniture, deck lumber, and beekeeping equipment; coppice poles used as bean poles, mushroom logs (Shiitake and Oyster mushrooms fruit well on black locust logs), small structural timbers, and firewood (very high BTU value — one of the best native fuelwoods); nitrogen-rich coppice biomass excellent for chop-and-drop mulching"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "SIGNIFICANT — all parts of the plant except the flowers are toxic; bark, leaves, seeds, and seed pods contain robin (a toxic lectin/phytotoxin) and robitin (a glycoside); ingestion of bark or seeds has caused serious poisoning in children and adults; symptoms include nausea, vomiting, weakness, and depression of the central nervous system; keep children away from bark, seeds, and seed pods; do not confuse seed pods with edible legumes; the flowers are safe — this distinction must be clearly understood before harvesting",
+    "toxicityAnimals": "Toxic to horses, cattle, and other livestock — bark ingestion by horses has caused deaths; horses are particularly susceptible; do not plant where horses have access to young trees or bark; cattle and goats may also be affected; generally not a concern for dogs and cats unless large quantities are ingested; remove seed pods from areas accessible to livestock",
+    "allelopathy": "Some evidence of allelopathic compounds in leaf litter and bark; not as well-documented as black walnut but worth noting in dense plantings; monitor understory plants beneath an established canopy",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary role — one of the most productive nitrogen-fixing trees in the eastern US; fixes an estimated 25-50 lbs of nitrogen per acre per year; in a food forest canopy, a black locust component significantly elevates the nitrogen budget of the entire system)",
+      "Pioneer Species (reclaims disturbed ground rapidly; improves soil structure and fertility for succession species)",
+      "Coppice Biomass (fast-regrowth poles for mushroom logs, bean poles, and structural use; chop-and-drop nitrogen mulch)",
+      "Timber (rot-resistant wood for posts and outdoor structures)",
+      "Bee Forage (outstanding nectar and pollen source — one of the most important honey trees in the eastern US)",
+      "Edible Flower",
+      "Wildlife Habitat"
+    ],
+    "companionPlants": [
+      "Comfrey (mineral accumulator complement — plant beneath coppiced stools)",
+      "fruit trees generally (black locust as a canopy nitrogen fixer in a food forest guild benefits all nearby fruiting species)",
+      "Siberian pea shrub (Caragana arborescens) as a lower-layer nitrogen fixer",
+      "wine cap mushrooms (Stropharia rugosoannulata) in the understory",
+      "wild strawberry as ground cover"
+    ],
+    "antagonists": [
+      "Keep away from formal beds and foundations; the aggressive suckering root system is incompatible with perennial beds where root barrier management is not feasible; do not interplant directly with plants sensitive to allelopathy without monitoring"
+    ],
+    "coppiceable": "Outstanding coppice response — one of the most vigorous coppice trees in the temperate world; when cut to the ground, produces multiple vigorous shoots from the root crown; shoots grow 6-10' in the first season; standard coppice rotation is 5-7 years for maximum biomass production; annual coppicing of individual stools is also possible for bean poles and mushroom logs; coppicing is the primary management strategy for black locust in a permaculture context — it redirects the energy of the aggressive root system into controlled, productive above-ground growth while suppressing seed production and reducing spread"
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional — one of the most important nectar sources for honeybees in the eastern US; also strongly attractive to native bees and bumblebees during the brief bloom period), hummingbirds (visit the flowers), songbirds (seeds eaten by some species; nesting habitat in the canopy), small mammals",
+    "hostPlantFor": "Silver-spotted skipper (Epargyreus clarus — one of the most common and widespread native skippers; black locust is a primary larval host); various other native Lepidoptera in the Fabaceae-feeding guild",
+    "nestingHabitat": "Mature trees provide cavities and canopy nesting structure for cavity-nesting birds; the dense crown supports platform nesters"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — young regrowth and coppice shoots are browsed; the thorns on new growth offer some deterrence but do not reliably exclude deer; young trees need protection until established and thorny; mature trees are generally not significantly damaged by deer"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates roadside conditions and incidental road salt exposure; not among the most salt-tolerant species but manages typical winter salt spray in roadside plantings; recovers from moderate exposure"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — well-established trees handle extended drought without significant stress; the pioneer ecology means it is adapted to harsh, dry, disturbed sites; among the more drought-tolerant native hardwoods"
+    },
+    "other": "Wind-resistant when young and flexible but brittle with age; mature trees are prone to branch failure in storms — a significant consideration when siting near structures or high-traffic areas; compaction-tolerant; extremely adaptable to poor, disturbed, and abused soils; this adaptability is its core pioneer value"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — the productivity and nitrogen-fixing value are exceptional but the plant requires active, ongoing management to prevent it from escaping its intended role; containment of root suckers is the primary maintenance task",
+    "pruningNotes": "The management strategy must be decided at planting and maintained consistently. (1) Coppice rotation — cut all stems to 6-12\" above ground on a 5-7 year rotation in early spring before leaf-out; this is the preferred permaculture approach; vigorous multi-stem regrowth provides maximum biomass, eliminates seed production during the rotation, and keeps the plant contained to its stool; remove root suckers beyond the intended footprint at least twice per year (spring and midsummer) by cutting flush with the soil — do not pull, as disturbance stimulates more suckering. (2) Standard tree form — allow to grow as a single-trunk tree; manage root suckers aggressively; this approach is appropriate where the timber and bee forage roles take priority over biomass production; expect eventual storm damage on mature trees. (3) Regardless of approach, never allow seed pods to ripen and disperse in areas where naturalization is not desired — black locust produces prodigious quantities of viable seed.",
+    "propagationMethods": [
+      "Root suckers (the easiest and most reliable method — dig and sever sucker shoots with attached roots in early spring or fall)",
+      "seed (scarify by soaking in hot water for 24 hours or mechanically scarify; direct sow in spring after last frost; germinates readily; grows quickly)",
+      "hardwood cuttings (possible but root suckers are easier and faster)"
+    ]
+  },
+  "cultivarNotes": "The straight species is the correct choice for all permaculture and food forest applications across the entire hardiness range (Zones 3-8) — maximum growth rate, nitrogen fixation, bee forage, and coppice response. Several ornamental cultivars exist but are less relevant to productive guild design. **'Frisia'** is a popular golden-leaved form; highly ornamental with bright yellow foliage through the season; same nitrogen-fixing and coppice properties as the species but growth is somewhat slower; performs best in Zones 4-7; in Zone 8+ the foliage may scorch in intense summer heat; if an ornamental canopy tree is desired with nitrogen-fixing properties, 'Frisia' is a valid choice, though the species is more vigorous. **'Umbraculifera'** is a compact, globe-headed form that rarely flowers — unsuitable for bee forage, coppice, or timber production; purely ornamental; Zones 4-8. **'Twisty Baby' (Lace Lady)** is a contorted dwarf form; ornamental only; Zones 4-8. For southern US growers (Zone 7-8), the straight species may grow even faster than in the north but brittleness and storm damage increase — coppice management is especially important. For northern growers (Zone 3-5), the species is fully hardy and reliable; growth rate is somewhat slower than in Zone 6-7 but still fast by any standard.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy nitrogen fixer",
+      "coppice biomass source",
+      "bee forage tree",
+      "timber/post production",
+      "pioneer species for soil reclamation",
+      "edible flower"
+    ],
+    "designPlacement": "Best sited at the edge or back of a food forest where the aggressive root system can be managed and where coppiced poles can be harvested without disrupting core guild plantings; a position on the north or northwest edge of the food forest maximizes sun penetration to the orchard while the tree acts as a windbreak and nitrogen source; keep a minimum of 20-30' from house foundations, septic systems, and underground utilities; not appropriate for small ornamental beds, formal borders, or areas where root sucker management is impractical; ideal as an anchor of a working food forest edge — plant 2-3 stools on a coppice rotation to supply mushroom logs, bean poles, and chop-and-drop nitrogen mulch on a continuous basis",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia",
+    "inaturalist": "https://www.inaturalist.org/taxa/56088-Robinia-pseudoacacia",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c143"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginally native — the southern Appalachian border of Pennsylvania falls within the documented native range of R. pseudoacacia; however, the tree is so thoroughly naturalized throughout the state that the distinction between native and naturalized populations is often impossible to make in practice; treat as a native that behaves like an aggressive pioneer in disturbed habitats",
+      "paInvasiveStatus": "Not formally listed as invasive or noxious in Pennsylvania; the species is native to the southern border of the state and broadly naturalized elsewhere in PA; not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; however, it spreads aggressively by root suckers and seed in disturbed ground, roadsides, and forest edges — active management is required in any garden context regardless of its legal status",
+      "drainage": "At the Hegins site, the compacted red clay is not a significant obstacle for black locust — this is exactly the kind of disturbed, compacted, poor-drainage soil that the species is adapted to colonize; no amendment or raised bed needed; plant directly into existing ground in a food forest or edge position; the tree will improve the surrounding soil over time through nitrogen fixation and root action",
+      "soil": "The red clay at Hegins is well within this species' tolerance range; no soil preparation or amendment is required for in-ground planting; the compacted, construction-disturbed soil is the kind of habitat R. pseudoacacia naturally colonizes; expect the tree to actively improve soil structure and fertility in its root zone over the first several years",
+      "cultivarNotes": "Grow the straight species from locally sourced seed or root suckers when possible to preserve regional Appalachian genetic stock; this is the heart of the species' native range and local genotypes are well-adapted.",
+      "designPlacement": "Not appropriate for Sections A, B, or C (too large, too aggressive, and the toxicity requires careful siting away from casual contact zones); site at the food forest edge, ideally on the north or northwest margin of the property where it can serve as windbreak and nitrogen source without shading the core orchard guilds; the compacted red clay soil is no obstacle for this species",
+      "siteObservations": "Young trees and coppice regrowth will need deer protection until established and thorny — the east wildlife corridor means active browsing pressure on any new planting; the thorns on mature growth offer some deterrence but are not reliable against persistent deer; plan for fencing or caging in the first 2-3 years; the site's compacted, construction-disturbed soil is ideal pioneer habitat for this species"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "thalictrum-aquilegiifolium",
+  "name": {
+    "commonName": [
+      "Columbine Meadow Rue",
+      "French Meadow Rue"
+    ],
+    "latinName": "Thalictrum aquilegiifolium",
+    "family": "Ranunculaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia — from France and Spain east through central Europe, the Balkans, Turkey, the Caucasus, and into western Siberia and central Asia; typically found in moist mountain meadows and open woodlands at moderate elevations",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; occasionally naturalized in scattered locations in the northeastern states from garden escapes, but not widespread outside cultivation"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed on any US state noxious weed list or federal invasive species database; self-seeds lightly in favorable conditions but does not spread aggressively or displace native vegetation; seedlings are easily removed"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "24-36\"; flower stems rise above the foliage",
+    "spread": "18-24\"",
+    "spacing": "18-24\"",
+    "growthRate": "Moderate",
+    "timeToMaturity": "Full display from year 2",
+    "lifespan": "Long-lived; 10-20+ years",
+    "deciduousEvergreen": "Herbaceous — dies back completely in winter",
+    "winterInterest": "Low — dies back cleanly to ground"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full shade; one of the better tall flowering perennials for shade conditions; in Zone 8+ or hot-summer climates, full shade or consistent afternoon shade is important to prevent scorching; in Zone 5-6, can tolerate morning sun with afternoon shade",
+    "water": "Medium; prefers consistent moisture; in humid eastern climates, natural rainfall is often sufficient once established; in drier western or Great Plains regions, supplemental irrigation during summer is essential",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates heavier soils if not waterlogged; dislikes prolonged standing water around the crown, which can cause root rot; adequate organic matter improves drainage in marginal soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay soil reasonably well provided drainage is adequate; heavy, waterlogged clay will cause crown rot over winter; in amended clay with added compost and organic matter, performs well; raised planting (slightly mounding the crown above grade) helps in heavy clay sites"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Prefers rich, moist, well-drained loam with good organic matter content; tolerates clay if amended and not waterlogged; also performs well in sandy loam if moisture is consistent",
+    "rootCharacter": "Fibrous clump; spreads slowly by self-seeding; does not run or sucker"
+  },
+  "bloom": {
+    "bloomTime": "May to June",
+    "bloomDescription": "Dense, fluffy powder-puff clusters of lavender-purple stamens; the petals are insignificant — the show is entirely from the showy purple stamens, creating a distinctive airy, cloud-like effect unlike any other common perennial",
+    "fragrance": "None",
+    "flowerSex": "Dioecious — male and female flowers on separate plants; male plants (showier purple stamens) and female plants both present in most commercial stock",
+    "pollination": "Wind and insect pollinated"
+  },
+  "yield": {
+    "edibleParts": "None typically used",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Traditional uses in Asian and European herbal medicine (root as analgesic, antimicrobial); contains berberine; not commonly used in modern Western practice; use with caution",
+    "craftOtherYield": "Cut flowers — the fluffy purple plumes are excellent in fresh arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Potentially irritating; contains alkaloids; not considered safe to ingest; avoid medicinal self-use without professional guidance",
+    "toxicityAnimals": "May be mildly toxic to livestock in large quantities; low practical risk for dogs and cats",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (tall mid to back of mid-zone)"
+    },
+    "roles": [
+      "Beauty",
+      "Insect Attractor",
+      "textural contrast plant"
+    ],
+    "companionPlants": [
+      "Astilbe (complementary texture — feathery plumes vs. fluffy cloud flowers)",
+      "hellebore",
+      "geranium 'Rozanne'",
+      "ferns"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Cut to ground in fall; will self-seed lightly if seedheads are left"
+  },
+  "wildlife": {
+    "attracts": "Bees and other pollinators; the open structure of the flowers is accessible to a wide range of insects",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Minimal"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — alkaloid content makes it unpalatable; generally strongly avoided by deer across all regions; young transplants may still be sampled and benefit from temporary fencing or repellent spray until established"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suitable for roadside or coastal plantings with direct salt exposure; may tolerate light incidental splash if set back from salt sources"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — requires consistent moisture; will wilt and decline in dry spells; mulching helps retain soil moisture in all climates"
+    },
+    "other": "Tolerates part to full shade; tolerates humidity well; stems are wiry and may need staking in windy or exposed sites; no significant heat tolerance issues within its zone range"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Cut to ground in late fall or early spring. Stake taller plants if wind is an issue — the stems are wiry but can be blown over in exposed positions. Deadhead if self-seeding is not wanted; otherwise leave seedheads for light natural spread.",
+    "propagationMethods": [
+      "Seed (self-sows lightly; fresh seed germinates readily; cold stratification improves spring-sown seed)",
+      "division (spring — possible but plant resents disturbance; division is slow to re-establish)"
+    ]
+  },
+  "cultivarNotes": "The straight species in lavender-purple is the most widely available and most ornamental form. Named cultivars include 'Thundercloud' (deeper purple, more compact at 18-24\" — good where height must be controlled), 'Album' (white — elegant but does not fit purple/pink palettes), and 'Roseum' (lilac-pink, softer color). All cultivars share the same zone range (5-9) and cultural requirements. For Zone 3-5 gardens, ensure reliable snow cover or mulch to protect crowns; 'Thundercloud' is a good choice for its compact, sturdy habit. For Zone 6-7, all cultivars perform well; the straight species and 'Thundercloud' are both excellent. For Zone 8-9, provide consistent shade and moisture — heat and drought stress are the main risks. Note: the related species Thalictrum delavayi and T. rochebrunianum are taller (4-6 ft) and better suited to backgrounds or areas without height limits.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Shade border mid to back zone",
+      "woodland garden",
+      "cottage garden"
+    ],
+    "designPlacement": "Best placed in mid to back positions of a shade or part-shade border, where its 24-36\" height provides vertical interest behind lower groundcovers and front-of-border perennials; the fluffy cloud-like flowers create unique textural contrast against broad-leaved or fine-textured companions like astilbe, hostas, ferns, and geraniums; space in groups of 3-5 for the best visual effect; avoid isolated single specimens, which look sparse",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thalictrum_aquilegiifolium",
+    "inaturalist": "https://www.inaturalist.org/taxa/406483-Thalictrum-aquilegiifolium",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286093"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania; European introduction grown strictly as an ornamental",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field",
+      "drainage": "Hegins red clay is workable for this plant with amendment — incorporate 3-4\" of compost into the planting area to improve drainage and tilth; mound the crown slightly above grade to prevent winter waterlogging; in-ground planting in Section A is viable without raised beds if the clay is amended at planting time",
+      "soil": "Hegins red clay should be amended with compost before planting; the naturally slightly acidic pH of the site (typical for central PA red clay) is within this plant's preferred range; no pH adjustment needed",
+      "cultivarNotes": "The straight species or 'Thundercloud' are both strong choices; 'Thundercloud' is preferred where the 5' height limit applies, as its compact habit keeps it well within bounds.",
+      "designPlacement": "Section A, north-facing front bed mid-zone toward the back — tall enough to provide vertical interest behind geranium and astilbe, but refined enough not to overwhelm; the purple flowers complement the bed's purple/pink/yellow palette; 'Thundercloud' preferred here for compact habit under the 5' height limit",
+      "siteObservations": "North-facing aspect of Section A provides the part-shade conditions this plant prefers; deer pressure from the east corridor is minimal concern given the plant's strong deer resistance (alkaloid content); clay soil in foundation beds will need compost amendment at planting but does not require raised beds; the ~50 ft distance from the road means salt exposure is not a practical concern for this salt-sensitive species"
+    }
+  }
+}

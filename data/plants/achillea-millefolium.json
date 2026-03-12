@@ -1,0 +1,165 @@
+{
+  "id": "achillea-millefolium",
+  "name": {
+    "commonName": [
+      "Yarrow",
+      "Common Yarrow",
+      "Milfoil"
+    ],
+    "latinName": "Achillea millefolium",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Europe, Asia, and North America — native across much of the Northern Hemisphere; native throughout eastern North America and Pennsylvania",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across most of the lower 48 states, though the picture is complex — populations in western North America (California, Pacific Northwest, Rocky Mountains) are generally considered native; eastern US populations are a mix of native and Eurasian-naturalized strains that have introgressed over centuries; genetically difficult to distinguish in the wild; treated as native throughout the US for most conservation and garden purposes"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US — yarrow is broadly native or naturalized throughout North America; it spreads by rhizomes and self-seeds but is not considered invasive; its spread is manageable and ecologically appropriate in most settings"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "18-30\" in bloom; foliage 6-12\"",
+    "spread": "18-24\"; spreads by rhizomes to form colonies over time",
+    "spacing": "18-24\"",
+    "growthRate": "Fast; establishes readily; spreads moderately by rhizome",
+    "timeToMaturity": "Full bloom from first year; spreads to full colony size in years 2-3",
+    "lifespan": "Long-lived; essentially permanent as a colony",
+    "deciduousEvergreen": "Semi-evergreen — ferny foliage often persists through mild winters; one of the early emergers in spring",
+    "winterInterest": "Low to moderate — dried flat-topped seedheads persist through winter; the feathery foliage sometimes visible; modest winter interest"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade with reduced bloom; full sun produces the most fragrant and medicinal plants",
+    "water": "Low; excellent drought tolerance — one of the most drought-tolerant perennials available; thrives in hot, dry conditions",
+    "drainagePreference": {
+      "description": "Well-drained to dry; performs in lean, dry soils; does not tolerate waterlogged conditions; excessive moisture promotes floppy growth and root rot",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerant but clay creates risk — heavy clay that retains moisture through wet periods can cause root rot and stem flop; yarrow performs better in clay that has been amended with coarse grit, gravel, or compost to open drainage; raised planting positions (berms, mounds, raised beds) help significantly; on-grade clay planting works if the surface drains within 24-48 hours of rain; do not mulch heavily around the crown"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0; broadly adaptable including alkaline conditions"
+    },
+    "texturePreference": "Lean to average; does not require fertile soil; thrives in poor conditions; excess fertility produces floppy growth",
+    "rootCharacter": "Creeping rhizomatous root system; spreads steadily; also a dynamic mineral accumulator via deep fibrous roots that mine trace minerals"
+  },
+  "bloom": {
+    "bloomTime": "June through September — one of the longer-blooming perennials; often reblooms if deadheaded",
+    "bloomDescription": "Flat-topped flower clusters (corymbs) 3-5\" wide; tiny individual flowers (white in species, also pink, red, yellow in cultivars); the flat top is highly accessible to beneficial insects; at peak bloom the plant is covered in white flower platforms",
+    "fragrance": "Strongly aromatic foliage — sharp, medicinal, camphor-like; distinctive; the aroma is stronger from the foliage than the flowers",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "One of the most ecologically important insectary plants — the accessible flat flower structure is usable by the widest possible range of insects; parasitic wasps (Braconid, Ichneumonid, Chalcid), hoverflies, soldier beetles, ground beetles, lacewings, native bees, honeybees, butterflies, and many other beneficial and neutral insects all use yarrow intensively; arguably the single most important insectary plant for a temperate food garden"
+  },
+  "yield": {
+    "edibleParts": "Leaves (mildly bitter herb; used in herbal teas; young leaves in salads — use sparingly due to bitterness); flowers (mild; used as garnish)",
+    "harvestSeason": "Leaves spring through summer; flowers at peak bloom; dry immediately after harvesting",
+    "medicinalUses": "Outstanding traditional wound-healing herb — the genus name references the mythological hero Achilles who used it to staunch wounds; documented as an anti-inflammatory, styptic (stops bleeding), mild antiseptic, and antimicrobial; the plant contains salicylates, tannins, alkaloids, and essential oils; used for: wound healing (poultice), fever reduction (diaphoretic — promotes sweating), menstrual regulation, digestive support; one of the most widely used medicinal plants in European and North American traditional medicine; one of the priority plants for a home medicinal herb collection",
+    "craftOtherYield": "Dried flowers for arrangements (flat heads dry beautifully); yellow and gold dye from flowers; aromatic dried herb"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally non-toxic at culinary and medicinal doses; CAUTION: individuals allergic to ragweed (Asteraceae family) may have cross-reactivity; yarrow contains thujone — large quantities should be avoided during pregnancy (traditional emmenagogue); skin contact with the sap can cause photosensitivity (phototoxic reaction in sensitive individuals) — wash hands after handling",
+    "toxicityAnimals": "Mildly toxic to dogs and cats — can cause GI upset, drooling, and skin irritation; toxic to horses if consumed in large quantities (not a realistic concern in normal garden settings)",
+    "allelopathy": "The aromatic compounds have mild allelopathic effects on some neighboring plants; yarrow also produces root exudates that stimulate the growth of neighboring plants — traditionally described as a \"soil activator\" that improves the health of nearby plants (the permaculture concept of dynamic accumulator)",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Dynamic Mineral Accumulator (one of the best — accumulates potassium, calcium, silica, magnesium, and copper from deep in the soil; leaves returned to the soil cycle these minerals for neighboring plants)",
+      "Insectary Plant (primary — one of the most important beneficial insect plants in the garden; increases natural pest control throughout the food garden)",
+      "Medicinal (one of the priority medicinal herbs)",
+      "Food (minor — tea herb)",
+      "Pest Confuser (aromatic foliage)",
+      "Drought-Tolerant Ground Cover"
+    ],
+    "companionPlants": [
+      "All fruit trees (guilds)",
+      "most vegetables and herbs; the insectary value makes yarrow beneficial to every plant in the garden; a single plant near a vegetable bed increases beneficial insect populations for the whole area; pairs well with echinacea",
+      "lavender",
+      "Russian sage",
+      "and other prairie-garden plants"
+    ],
+    "antagonists": [
+      "None documented; yarrow is generally beneficial to neighboring plants"
+    ],
+    "coppiceable": "Cut back after the first flush of bloom (July) to encourage a second flush; cut to the ground in late fall; divide spreading colonies every 3-4 years to keep productive"
+  },
+  "wildlife": {
+    "attracts": "Extraordinary range of beneficial insects — see Pollination notes; the single most insect-visited perennial in many garden surveys; essential infrastructure plant for natural pest management",
+    "hostPlantFor": "Painted lady butterfly (Vanessa cardui), American lady (V. virginiensis), and many other Lepidoptera use Achillea species as larval hosts",
+    "nestingHabitat": "Hollow dried stems provide overwintering habitat for small solitary bees; the leaf litter provides cover for ground beetles"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — aromatic foliage strongly deters deer; rarely browsed; one of the most reliable deer-deterrent plants for the garden"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt spray; one of the plants that naturalizes along roadsides where salt spray is present"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — among the most drought-tolerant perennials available; native to dry meadows and disturbed areas; thrives in conditions that stress most other plants"
+    },
+    "other": "Tolerates lean soil, neglect, and difficult growing conditions; essentially an indestructible garden plant when sited correctly"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Deadhead spent flower clusters to promote rebloom. Cut back hard after the main summer bloom. Cut to the ground in fall or early spring. Divide spreading clumps every 3-4 years when the center becomes sparse. Manage rhizome spread by pulling unwanted runners.",
+    "propagationMethods": [
+      "Division (easy — divide in spring or fall; the most reliable method)",
+      "seed (easy; direct sow in spring or fall; self-sows moderately)",
+      "stem cuttings (summer)"
+    ]
+  },
+  "cultivarNotes": "The straight white-flowered species is the most important medicinal and insectary form; named cultivars trade some of these properties for color variation. **'Moonshine'** (A. 'Moonshine' — light yellow, compact 18\", excellent insectary value, zones 3-8); **'Coronation Gold'** (A. filipendulina — taller golden yellow, striking in arrangements, zones 3-9); **'Paprika'** (red-orange, fades to pink, zones 3-9); **'Cerise Queen'** (cherry red, zones 3-9). For permaculture use, the straight species or 'Moonshine' are the first choices; colored cultivars are fine in ornamental borders but the species retains the highest medicinal and insectary value.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory",
+      "perennial border (front to mid)",
+      "meadow garden",
+      "companion planting throughout",
+      "medicinal herb garden"
+    ],
+    "designPlacement": "Universal insectary anchor — yarrow is a primary constituent of every fruit tree guild and food forest understory; plant throughout the drip line of fruit and nut trees to draw parasitic wasps, hoverflies, and beneficial beetles that control pest populations across the entire garden; effective as a front-to-mid border plant in perennial beds; integrates into meadow plantings, herb gardens, and companion planting schemes; the flat flower structure serves the widest possible range of beneficial insects, making it valuable anywhere in the garden regardless of design style",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Achillea_millefolium",
+    "inaturalist": "https://www.inaturalist.org/taxa/52821-Achillea-millefolium",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b282"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Achillea millefolium is native to Pennsylvania and the broader Appalachian region; commonly found in meadows, roadsides, and disturbed areas",
+      "paInvasiveStatus": "Not invasive in Pennsylvania — PA DCNR does not list Achillea millefolium as invasive; it is a native wildflower throughout the state",
+      "drainage": "Hegins red clay is workable for yarrow provided surface drainage is adequate — the sloping or graded portions of the site drain reasonably well; in-ground planting is generally fine; avoid low spots or areas where water pools after rain; no amendment strictly required but a handful of coarse grit worked in at planting improves establishment",
+      "soil": "Hegins lean red clay is actually well-suited to yarrow — the low fertility of construction-disturbed clay soil suits a plant that performs best in impoverished conditions; do not fertilize; the native soil is fine as planted",
+      "cultivarNotes": "The straight species or 'Moonshine' are the best choices for Hegins — both are fully hardy, proven in Zone 6a, and offer the highest insectary and medicinal value; 'Moonshine' adds soft yellow color if desired for ornamental borders; the species is the default for guild plantings",
+      "designPlacement": "Apple guild — plant throughout the drip line of both apple trees as a primary insectary understory; Mulberry guild — include under the Illinois Everbearing mulberry for the same insectary function; Paw Paw guild — include at the edges of the paw paw pair where light permits (paw paw canopy is dense; site yarrow at the drip line margin); South-facing beds (Section C) — suitable as a drought-tolerant front-border perennial given the warm, dry microclimate; the species' native status makes it an appropriate choice for any location on the site",
+      "siteObservations": null
+    }
+  }
+}

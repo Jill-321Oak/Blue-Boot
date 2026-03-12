@@ -1,0 +1,159 @@
+{
+  "id": "viburnum-carlesii",
+  "name": {
+    "commonName": [
+      "Korean Spice Viburnum"
+    ],
+    "latinName": "Viburnum carlesii",
+    "family": "Adoxaceae"
+  },
+  "range": {
+    "nativeRange": "Korea, Japan",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Introduced as an ornamental; does not naturalize aggressively but is occasionally found persisting near old plantings in the eastern US."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US states. Not listed on USDA PLANTS as noxious or invasive. Does not spread by seed or suckering in a way that threatens native plant communities."
+    },
+    "zone": {
+      "min": 4,
+      "max": 7,
+      "description": "4-7"
+    }
+  },
+  "description": {
+    "height": "4-5 ft (compact cultivars 3-4 ft)",
+    "spread": "4-5 ft",
+    "spacing": "4-5 ft",
+    "growthRate": "Slow to moderate",
+    "timeToMaturity": "3-5 years to full bloom display",
+    "lifespan": "Long-lived; 25+ years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "Moderate — attractive branching structure; occasional burgundy-red fall foliage before drop"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms most heavily in full sun, but tolerates part shade well",
+    "water": "Medium; moderate drought tolerance once established",
+    "drainagePreference": {
+      "description": "Well-drained preferred; does not tolerate wet feet. Prolonged waterlogging causes root rot and branch dieback. Tolerates brief periods of excess moisture but sustained soggy conditions are fatal. Raised planting or sloped sites help in heavy soils.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Can succeed in clay soils if drainage is adequate — the key risk is winter waterlogging rather than the clay texture itself. In heavy clay, amend the planting hole generously with compost and coarse organic matter to improve drainage in the root zone. Avoid planting in low spots where water pools. Mulch to prevent surface crusting but keep mulch away from the crown."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Prefers rich, well-drained loam; adaptable to a range of soil textures including clay and sandy loam if drainage is adequate. Organic matter amendment improves performance in any heavy or compacted soil.",
+    "rootCharacter": "Fibrous, non-invasive; well-behaved in formal beds"
+  },
+  "bloom": {
+    "bloomTime": "April to May — among the earliest viburnums to bloom",
+    "bloomDescription": "Dense rounded clusters (cymes) of pink buds opening to white flowers; covers the plant completely at peak bloom",
+    "fragrance": "Extremely fragrant — spicy-sweet, carries strongly on the air. Arguably the most fragrant hardy deciduous shrub available in Zones 5-7. The fragrance at an entry or seating area is a genuine sensory experience.",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; a companion viburnum improves berry set but is not required for flowering"
+  },
+  "yield": {
+    "edibleParts": "None",
+    "harvestSeason": "N/A",
+    "medicinalUses": "None significant",
+    "craftOtherYield": "Excellent cut flower — fragrance outstanding in arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Blue-black fall berries may cause mild stomach upset if ingested in quantity; generally considered low toxicity",
+    "toxicityAnimals": "Mildly toxic to dogs and cats if berries ingested in quantity — not a high-risk plant but worth noting",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Beauty",
+      "Insect Attractor (valuable early spring nectar source)",
+      "Wildlife Food (berries)",
+      "Shelter"
+    ],
+    "companionPlants": [
+      "Spring bulbs beneath (tulips, alliums)",
+      "catmint",
+      "echinacea",
+      "climbing roses"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and butterflies (early spring nectar), robins and cedar waxwings (blue-black fall berries)",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Dense rounded form provides good low nesting cover for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — less targeted than roses or hostas but not immune. The leathery leaves and woody stems provide some deterrence, but hungry deer will browse new growth. Young plants benefit from temporary fencing or repellent spray until established; mature plants recover well from occasional browse across the eastern US where deer pressure is common."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — sensitive to road salt spray and saline soils. Not suitable for planting directly adjacent to heavily salted roads or coastal frontage. Recovers poorly from repeated salt exposure."
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; the fibrous root system maintains function during short dry spells but extended drought causes leaf scorch and reduced flowering the following year. Mulch heavily to conserve moisture."
+    },
+    "other": "Somewhat sensitive to urban air pollution and heavily compacted soils. Prefers reasonably good soil conditions with adequate air circulation. Good wind tolerance once established; not prone to breakage."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the lowest-maintenance shrubs for ornamental applications",
+    "pruningNotes": "Minimal pruning needed and generally undesirable. Remove deadwood and crossing branches in late spring immediately after flowering. Do not prune in fall or winter — blooms on old wood, and fall/winter pruning removes next year's flower buds. Light shaping only.",
+    "propagationMethods": [
+      "Softwood cuttings (early summer — moderately easy)",
+      "layering (reliable and simple)",
+      "seed (slow — requires double cold stratification over two winters)"
+    ]
+  },
+  "cultivarNotes": "'Compactum' stays reliably at 3-4 ft and is the best choice where a height limit applies — widely available and performs well across Zones 5-7. 'Aurora' has deeper pink buds and is considered by many to have the strongest fragrance of any selection; performs well in Zones 5-7 but may struggle at the cold end of Zone 4. 'Cayuga' is a hybrid (V. carlesii × V. carlcephalum) with larger flower heads and good disease resistance — slightly less fragrant but more vigorous, and a strong performer in Zones 5-8 where extra heat tolerance is useful. Southern growers (Zone 7-8) should note that all V. carlesii selections need adequate winter chill and may bloom poorly where winters are mild; 'Cayuga' is the most adaptable in warmer zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Specimen",
+      "border focal point",
+      "foundation planting",
+      "fragrance garden"
+    ],
+    "designPlacement": "Best sited where foot traffic passes close enough to catch the fragrance — entries, paths, seating areas, or beneath frequently opened windows. Plant in a sheltered position with good air drainage to protect early blooms from late frost. In mixed borders, place at the front or mid-border where the compact form and spring bloom are not hidden. Pairs well with a succession of fragrant shrubs (lilac, mock orange, roses) to extend the scent season from spring through summer.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Viburnum_carlesii",
+    "inaturalist": "https://www.inaturalist.org/taxa/126708-Viburnum-carlesii",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=279002"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced Asian species, not native to Pennsylvania",
+      "paInvasiveStatus": "Not regulated in PA. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "The compacted red clay at Hegins requires amendment before planting. Dig an oversized hole (2-3x root ball width), backfill with a mix of native soil and compost, and mound slightly to ensure the crown sits above grade. In-ground planting is feasible with this preparation; raised beds are not required but would eliminate drainage concerns entirely.",
+      "soil": "The red clay at Hegins is within the acceptable pH range but needs structural amendment — generous compost incorporation at planting time and ongoing organic mulch to build tilth over seasons. Standard foundation bed preparation for this site is sufficient.",
+      "cultivarNotes": "'Compactum' is the top pick for height-limited beds; 'Aurora' is equally reliable here and worth choosing if maximum fragrance is the priority.",
+      "designPlacement": "North-facing front bed (Section A), flanking the central stairway — primary recommendation for fragrance at the front entry. The April-May bloom sequence (viburnum then lilac then rose) creates layered scent from first warm days through summer.",
+      "siteObservations": "The north-facing exposure in Section A is acceptable — V. carlesii tolerates part shade and the summer sun reach is sufficient for good bloom. Deer pressure from the east corridor is a moderate concern for young plants; plan for temporary protection (repellent spray or small cage) for the first two seasons until established. The compacted red clay in the foundation beds will need amendment at planting as described above. The 5' height limit in Section A is easily met with the 'Compactum' selection."
+    }
+  }
+}

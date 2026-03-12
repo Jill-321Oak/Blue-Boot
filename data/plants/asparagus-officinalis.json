@@ -1,0 +1,161 @@
+{
+  "id": "asparagus-officinalis",
+  "name": {
+    "commonName": [
+      "Asparagus",
+      "Garden Asparagus",
+      "Sparrowgrass"
+    ],
+    "latinName": "Asparagus officinalis",
+    "family": "Asparagaceae"
+  },
+  "range": {
+    "nativeRange": "Coastal Europe (Atlantic coast from Ireland to Portugal), western Asia, and North Africa; widely cultivated for millennia throughout the temperate world",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe; naturalized in disturbed areas, roadsides, and field edges across much of the US; commonly found escaped from old garden plantings throughout the eastern US and Midwest"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; naturalized but not aggressive; not a regulated species anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "4-6' tall ferny fronds in summer; spears emerge 6-10\" before harvest; mature fern canopy is airy and fine-textured",
+    "spread": "18-24\" per crown at maturity; clump spreads slowly outward over years",
+    "spacing": "18\" between crowns; rows 4' apart",
+    "growthRate": "Slow to establish — crowns spend the first two years building the root system before producing harvestable spears; full production from year 4-5; deeply patient investment",
+    "timeToMaturity": "YEAR 3 — first light harvest (2-week window only); YEAR 4-5 — full production begins; do NOT harvest in years 1 or 2 under any circumstances; this patience rule is the single most critical cultivation fact and the most commonly violated one",
+    "lifespan": "15-25+ years; often outlives the gardener who planted it; asparagus is the longest-lived of all commonly grown vegetables; a correctly established bed is functionally permanent",
+    "deciduousEvergreen": "Deciduous — spears emerge in early spring; fronds grow through summer; foliage turns golden-yellow in fall; cut to the ground after frost",
+    "winterInterest": "Skeletal golden fronds persist into fall; cut back in late fall or early winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 6-8 hours minimum for maximum production; reduced light noticeably reduces yield; do not plant where summer shade from trees or structures will encroach as the bed matures",
+    "water": "Medium; consistent moisture during establishment is important; once deep-rooted, moderately drought tolerant; keep bed evenly moist (not wet) during the harvest window in spring",
+    "drainagePreference": {
+      "description": "WELL-DRAINED — this is non-negotiable; standing water causes crown rot, which is the primary failure mode; crowns planted in waterlogged soil will die; raised beds are strongly recommended on clay sites",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate; asparagus crowns need excellent drainage — waterlogged crown conditions cause Fusarium crown rot, the most common asparagus failure in heavy-soil gardens; asparagus tolerates moderately heavy soil if drainage is adequate, but persistently wet clay is fatal; raised beds (8-12\" minimum) are the most reliable solution for heavy-clay gardeners; alternatively, plant on a raised ridge or mound above the surrounding grade"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 7.5,
+      "description": "6.5-7.5; slightly alkaline preferred; asparagus is one of the few vegetables that tolerates and even benefits from a slightly alkaline pH"
+    },
+    "texturePreference": "Deeply prepared, loose, well-amended, free-draining soil; asparagus does not thrive in compacted or heavy clay soils; bed preparation is a one-time, permanent investment — get it right before planting",
+    "rootCharacter": "Deep, fleshy storage roots (the \"crown\") that expand each year; roots can penetrate 3-6' deep in loose soil; the crown is the engine of long-term productivity and must not be disturbed after planting; deep loose soil directly translates to long-term yield"
+  },
+  "bloom": {
+    "bloomTime": "June-July (fronds bloom after the harvest window closes)",
+    "bloomDescription": "Tiny, inconspicuous yellow-green bell-shaped flowers on male plants; female plants produce small red berries in late summer — attractive but divert energy from spear production",
+    "fragrance": "Negligible",
+    "flowerSex": "Dioecious — plants are either male or female; all-male hybrid varieties (Jersey series) are far more productive than traditional mixed populations",
+    "pollination": "Wind and insects; pollination is irrelevant to the edible harvest (spears emerge before flowering); female plant berry production causes some self-seeding but is not a significant weed concern"
+  },
+  "yield": {
+    "edibleParts": "Young spears — harvested in spring before the tips open into fronds; the primary and only edible part; white asparagus is the same plant grown under mounded soil to exclude light",
+    "harvestSeason": "April-May in Zone 6a; the harvest window is 6-8 weeks in a mature bed; spears are cut or snapped at soil level when 6-10\" tall and tips are still tight; harvest daily during peak season (spears grow 2-3\" per day in warm weather)",
+    "medicinalUses": "Mild diuretic; asparagine (the compound responsible for the characteristic urine odor) has kidney-supportive properties in traditional herbalism; not a primary medicinal plant",
+    "craftOtherYield": "Dried golden fronds have ornamental value; red berries (female plants) are decorative in late summer"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "The red berries produced by female plants contain saponins and are mildly toxic — not deadly but can cause gastric upset; not a significant concern for adults; worth noting where young children have access",
+    "toxicityAnimals": "Berries are toxic to dogs and cats (gastric upset, vomiting); the fern foliage is also mildly toxic to pets; keep dogs out of established asparagus beds",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Herbaceous layer (tall herbaceous — fronds reach 4-6' and create a seasonal canopy over surrounding low plantings)"
+    },
+    "roles": [
+      "Perennial Vegetable (primary — one of the most productive and permanent perennial vegetables in the temperate food garden)",
+      "Food Forest Edge Plant",
+      "Deep Root Mineral Accumulator (roots penetrate deep subsoil)",
+      "Structural Seasonal Screen (the tall summer fronds create privacy and windbreak effect)",
+      "Wildlife Habitat"
+    ],
+    "companionPlants": [
+      "Tomatoes (classic and well-documented companion — each is said to deter pests of the other; tomatoes repel asparagus beetle, asparagus roots repel root-knot nematodes that attack tomatoes; plant tomatoes at the ends of asparagus rows where they won't shade the bed)",
+      "Comfrey (excellent at the bed edge — comfrey's deep root mineral cycling and chop-and-drop mulch feed the asparagus without competing; do not plant inside the bed)",
+      "Parsley (traditional companion; may deter asparagus beetle)",
+      "Basil (traditional; pest deterrence)",
+      "Marigolds (Tagetes — nematode suppression)",
+      "Strawberries (traditional edge plant in asparagus beds)"
+    ],
+    "antagonists": [
+      "Onions and garlic (Allium family) — traditionally considered inhibitory to asparagus; avoid planting Alliums within the bed; Potatoes (said to increase asparagus blight); any tall plant that will shade the bed from the south"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators (minor — small flowers attract small bees and beneficial insects); birds (female plants' red berries are eaten by birds in fall — a minor wildlife food source)",
+    "hostPlantFor": "Asparagus beetle (Crioceris asparagi) uses asparagus as its primary host in North America — both adults and larvae feed on the foliage; monitor in spring and hand-pick; not a native host plant relationship",
+    "nestingHabitat": "Dense summer fronds provide cover for small birds and beneficial insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — emerging spears are highly palatable to deer and will be browsed; where deer pressure is active, protection (fencing or cage) during the 6-8 week spring harvest window is strongly advised; once fronds harden, deer pressure diminishes"
+    },
+    "salt": {
+      "rating": "moderate-good",
+      "description": "Moderate to good — asparagus has some natural salt tolerance derived from its coastal native origins; tolerates moderate road salt spray and salty soils better than most vegetables"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — the deep root system accesses subsoil moisture, but consistent drought during establishment (years 1-3) reduces crown development and long-term yield"
+    },
+    "other": "Cold-hardy to Zone 3; dormant crowns survive hard winters without damage; emerging spears are killed by hard frost and will re-emerge; late spring frosts can damage spears already above ground but the plant produces replacement growth"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — low once established, with some specific annual tasks; the first 2-3 years require active restraint (not harvesting) which is psychologically harder than the physical work",
+    "pruningNotes": "Cut all fronds to the ground in late fall or early winter after frost has killed the tops and they have turned golden-brown; do not cut before full senescence — the fronds photosynthesize into fall and continue building crown reserves; removing green fronds prematurely directly reduces next year's yield. Weed control in the bed is ongoing — asparagus is intolerant of competition, especially in years 1-2; hand-weed carefully to avoid disturbing crowns; deep mulch (4-6\" of wood chips or straw) suppresses weeds and retains moisture.",
+    "propagationMethods": [
+      "1-year-old bare-root crowns (strongly preferred — plants 1-2 years ahead of seed-grown plants; widely available in early spring); Division of established crowns (possible but disruptive — not recommended; divisions take years to re-establish); Seed (slow — takes an additional year compared to crowns; only justified for growing unusual varieties; seeds need cold stratification)"
+    ]
+  },
+  "cultivarNotes": "The **Jersey series all-male hybrids** are the current standard recommendation and represent a significant advance over older mixed varieties. All-male plants do not set seed, directing all energy into spear production — up to 3x the yield of traditional mixed plantings. **'Jersey Knight'** is the benchmark cultivar: excellent disease resistance (rust, Fusarium crown rot), good cold hardiness, widely available, consistent performer in Zones 5-7; the safe, reliable choice for humid eastern US gardens where rust pressure is significant. **'Jersey Supreme'** is earlier than Jersey Knight — among the first spears of spring — and similarly productive; an excellent choice if early harvest is a priority; also rust-resistant. **'Jersey Giant'** produces larger-diameter spears; suited to those who prefer thick spears over thin; rust-resistant. **'Millennium'** is a newer all-male hybrid developed in Canada with exceptional cold hardiness (to Zone 3) and strong rust resistance; an excellent alternative to the Jersey series, particularly for northern gardeners. **'Purple Passion'** is an open-pollinated (not all-male) purple-speared variety — sweeter and more tender raw, with higher sugar content; loses purple color on cooking; lower yield than Jersey series but the best flavor for fresh eating; worth a small planting alongside a Jersey variety. **'Mary Washington'** is the older heirloom standard — open-pollinated, excellent flavor, widely grown for generations; significantly less productive than Jersey hybrids, more disease-susceptible, and lacks the rust resistance important in humid eastern US climates; still a valid choice where flavor history or seed-saving matters.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated perennial vegetable bed (preferred — asparagus benefits from a bed to itself where crown disturbance is eliminated)",
+      "food forest edge",
+      "sunny kitchen garden border"
+    ],
+    "designPlacement": "Asparagus demands a permanent, well-chosen site — the 15-25 year lifespan means poor siting is a permanent mistake; requires full sun, excellent drainage, and deer protection during spring; dedicated perennial vegetable bed, food forest edge, permanent planting with 20+ year lifespan",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asparagus_officinalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/60265-Asparagus-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282227&isprofile=1&basic=asparagus"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; introduced European vegetable; naturalized in some disturbed areas throughout PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: raised beds or raised ridges are strongly recommended; the standard asparagus bed preparation (trench system) should be done in a raised configuration at Hegins; crown rot is the primary risk in clay without drainage management",
+      "soil": "Hegins: raised bed or raised ridge planting required; deep compost incorporation at bed preparation is essential for long-term crown health",
+      "cultivarNotes": "'Jersey Knight', 'Jersey Supreme', or 'Millennium' are ideal for Zone 6a — all-male, rust-resistant, high-yielding; plant crowns in raised bed or raised ridge; expect first harvest year 3.",
+      "designPlacement": "Raised bed required; dedicated asparagus bed in food forest area or vegetable garden; plant once, harvest for decades; deer protection in first 2 years; the red clay at Hegins is the primary site challenge: raised beds with 12-18\" of deeply prepared, amended, well-draining soil are strongly recommended; a dedicated asparagus bed at the south-facing end of Section C or along the sunny south edge of the property would be ideal — full sun, visible, away from existing tree canopy; do NOT place in Section A (north-facing, partial shade — completely unsuitable) or under the future fruit tree canopy; Section B is too narrow and will become increasingly shaded; a standalone raised bed (4' x 8' or 4' x 12') in a permanent sunny location is the ideal format; plan for 10+ Jersey Knight crowns minimum for meaningful harvests; tomatoes planted at the row ends are a productive and historically validated pairing",
+      "siteObservations": "The primary site challenge is drainage — the red clay subsoil at Hegins will cause crown rot in a ground-level bed without significant soil amendment; a raised bed built over weed barrier on a prepared base, filled with loam-compost mix, solves this definitively; plan bed location before purchasing crowns; do not plant in a temporary location. Deer: active pressure from the east wildlife corridor makes spring fencing non-negotiable — emerging spears will be browsed before they can be harvested; a simple temporary wire cage or hoop enclosure around the dedicated bed during the 6-8 week spring harvest window is sufficient; fronds are less palatable once hardened. Salt: not a concern at Hegins — the asparagus bed location is well away from road salt influence. Note: asparagus fronds reach 4-6' in summer and will shade nearby low-growing plants to the north — site accordingly."
+    }
+  }
+}

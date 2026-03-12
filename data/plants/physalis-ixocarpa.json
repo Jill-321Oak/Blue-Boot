@@ -1,0 +1,163 @@
+{
+  "id": "physalis-ixocarpa",
+  "name": {
+    "commonName": [
+      "Tomatillo",
+      "Husk Tomato",
+      "Mexican Husk Tomato"
+    ],
+    "latinName": "Physalis ixocarpa",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Mexico and Central America; domesticated from wild Physalis species over millennia of Indigenous cultivation; a staple food crop of Mesoamerica long before European contact; the name \"tomatillo\" is Nahuatl-derived (\"little tomate\")",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; tomatillo is a Mexican/Central American species with no natural populations north of Mexico; it is widely cultivated as an annual vegetable crop across all lower-48 states and does not naturalize aggressively in most US climates; in warm-summer regions (Zones 6-9) it self-seeds reliably in disturbed garden soil, producing volunteers the following year, but this behavior is limited to cultivated ground and does not constitute ecological naturalization"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — tomatillo is not listed as invasive or noxious in any US state; it does not escape cultivation into wild or semi-wild habitats; self-seeding in vegetable beds is common and is a practical asset for the grower, not an ecological concern; the plant requires warm, fertile, disturbed soil to germinate and cannot compete in established plant communities"
+    },
+    "zone": {
+      "min": 4,
+      "max": 10,
+      "description": "Grown as an annual in Zones 4-10; technically a short-lived perennial in frost-free zones (8-11); in Zones 4-6 it is treated as a warm-season annual, completing its entire productive cycle within the frost-free window; in Zones 8+ it may overwinter but is typically replanted annually for best production"
+    }
+  },
+  "description": {
+    "height": "3-4' tall at maturity; bushy, somewhat sprawling habit; plants tend to lean and spread rather than stand bolt-upright; staking or caging significantly improves manageability and air circulation",
+    "spread": "3-5' wide — tomatillo plants are large and assertive in the garden; each plant occupies significantly more horizontal space than a pepper plant and roughly comparable to a determinate tomato; underestimating spread is a common first-time grower mistake",
+    "spacing": "24-36\" between plants in row; 3-4' between rows; given the spreading habit, err toward the wider end in raised beds where you need to reach the center without stepping in",
+    "growthRate": "Fast once transplanted into warm soil — tomatillo accelerates quickly in early to midsummer, going from modest transplant to substantial bush in 4-6 weeks; growth slows as fruit load builds in late summer",
+    "timeToMaturity": "70-80 days from transplant to first harvestable fruit; this timeline fits comfortably within the frost-free window of Zones 5-9; in shorter-season areas (Zone 4), choose early-maturing cultivars and start transplants early; expect first fruits approximately 10 weeks after transplant and peak production through the warmest 6-8 weeks of summer",
+    "lifespan": "Annual in Zones 3-7 — killed by first frost; one growing season per plant; however, self-seeded volunteers from dropped fruits often appear reliably the following spring in Zones 6+ and should be expected and welcomed; in Zones 8-11 may persist as a short-lived perennial but is typically replanted",
+    "deciduousEvergreen": "Annual — complete life cycle within one growing season; no winter persistence in most US climates",
+    "winterInterest": "None — plant is killed by frost; remove spent plants from beds in fall and compost or dispose of them; do not leave Solanaceae debris in the bed over winter as it can harbor disease"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6-8 hours minimum; tomatillo is a sun-hungry crop from Mexico and performs best with maximum sun exposure; reduced light means reduced fruit set; do not plant in partial shade; in the hottest parts of the US (Zone 9-10, desert Southwest), light afternoon shade can reduce heat stress but is not necessary in most regions",
+    "water": "Medium; consistent moisture during flowering and fruit development produces the best yields; plants tolerate brief dry spells once established but irregular moisture during fruiting can cause blossom drop or small, poorly filled fruits; mulch the bed to retain moisture and moderate soil temperature; do not overwater — tomatillo is more drought-tolerant than tomato and prefers to dry slightly between waterings rather than sit in wet soil; in arid western climates, regular irrigation is essential; in the humid East and Midwest, rainfall often provides most of what the plant needs",
+    "drainagePreference": {
+      "description": "Well-drained — essential, as with all Solanaceae; plants in waterlogged soil will sulk, yellow, and become disease-prone; raised beds or mounded rows are the simplest solution in heavy-soil areas; adequate drainage is more important than soil richness for preventing Solanaceae root disease",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tomatillo can grow in amended clay but does not thrive in heavy, unamended clay soil; the primary risk is waterlogging during wet periods, which promotes root rot and fungal disease common to all Solanaceae; incorporating 3-4\" of compost into clay beds before planting significantly improves performance; raised beds filled with loose, amended soil bypass clay issues entirely and are the preferred approach in heavy-clay regions (much of the eastern US, Midwest, and Pacific Northwest)"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; performs well across a moderate range; slightly acidic to neutral preferred; average garden soil amended with compost is sufficient — this is not a demanding crop"
+    },
+    "texturePreference": "Fertile, loose, well-drained loam is ideal; tomatillo is adaptable and grows well in most garden soils with adequate drainage and reasonable organic matter; heavy clay alone is not ideal but amended beds work well; incorporate a balanced vegetable fertilizer or compost at planting time",
+    "rootCharacter": "Fibrous root system similar to tomato; moderately deep-rooted; benefits from loose, uncompacted soil for good root penetration; not a deep tap-rooted plant; roots do not linger as persistent structures after the plant dies"
+  },
+  "bloom": {
+    "bloomTime": "June through September in most of the lower 48; flowering begins approximately 6-8 weeks after transplant and continues prolifically through the season as long as conditions remain warm; each flower is produced in the leaf axils",
+    "bloomDescription": "Small, yellow, five-petaled flowers approximately 1cm across, with five dark purple-brown or brownish anther spots inside (a distinctive Physalis characteristic); the inflated, papery calyx (husk) that surrounds each developing fruit is actually the modified sepals, which balloon outward as the fruit grows; the husk is initially green, closing fully around the young fruit, and gradually turns tan and papery-brown as the fruit matures; watching the husk expand and eventually split open is one of the rewarding visual signals of the crop",
+    "fragrance": "Negligible; the green fruit and leaves have a distinctive faintly sticky, tangy herbal scent when handled — pleasant and characteristic but not a fragrance ornamental",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts; however, tomatillo is strongly self-incompatible (see Pollination)",
+    "pollination": "REQUIRES CROSS-POLLINATION — this is the single most important cultivation fact about tomatillo and the most commonly misunderstood. Tomatillo is self-incompatible: a plant cannot fertilize its own flowers, even though each flower is technically hermaphroditic. If you plant only one tomatillo plant, it will flower prolifically, attract pollinators, and set essentially no fruit. You must plant at least two genetically distinct plants (from different seeds or different sources) for fruit set to occur. Three or four plants is even better. First-time growers who plant a single specimen and wonder why their tomatillo never fruits are making exactly this mistake. Plant at a minimum two plants, spaced within reasonable distance of each other, and bumblebees and other native bees will do the rest. Both plants should produce from the same cultivar or different cultivars — what matters is that they are not the same individual clone."
+  },
+  "yield": {
+    "edibleParts": "The fruit — a berry enclosed within the papery husk; tomatillo fruit ranges from the size of a large marble to a golf ball depending on cultivar and growing conditions; the fruit surface is slightly sticky when the husk is removed (a natural resinous coating — the species epithet \"ixocarpa\" means \"sticky-fruited\"); always wash tomatillos well before use to remove this residue. The flavor profile changes significantly with ripeness: green, firm, husk-splitting tomatillos are sharp, bright, tannic, and intensely tart — this is the classic culinary form, the backbone of salsa verde and cooked Mexican sauces. As the fruit ripens further to yellow, orange, or purple (depending on cultivar), the flavor mellows to sweeter, milder, and more complex; the acidic edge softens considerably. Most culinary use calls for green-stage fruit, but sweeter purple or yellow cultivars are excellent fresh when ripe.",
+    "harvestSeason": "Mid-July through frost in Zones 5-7; earlier in Zones 8+; harvest peaks in August and September across most of the country; the harvest signal is specific and reliable — pick when the husk has turned papery brown and is beginning to split open at the base, AND the fruit inside is firm and fills the husk completely; do not pick while the husk is still tight and green (fruit is underdeveloped); do not wait until the fruit softens (overripe); the split-husk signal is nature's harvest indicator; once established, a planting of 3-4 plants will produce hundreds of fruits in a season — far more than most households expect; plan preservation strategies (salsa verde, freezing, roasting and freezing) before peak hits",
+    "medicinalUses": "Traditional use in Mexican herbalism for digestive complaints; not a primary medicinal plant in Western herbalism; the withanolides present in the husk (physalins) have been researched for anti-inflammatory and anti-tumor properties in laboratory settings, but tomatillo is not used therapeutically in practice; grow it as food, not medicine",
+    "craftOtherYield": "The dried papery husks are occasionally used in ornamental dried arrangements; the plant's form — with its many pendant lantern-like husks — is architecturally interesting in the late-season garden"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "All green, above-ground parts of the tomatillo plant — leaves, stems, and unripe fruit — contain solanine and related Solanaceae alkaloids and are toxic; do not eat the leaves or stems; the unripe fruit (significantly green and hard, before the husk begins to swell and split) should not be eaten raw in quantity; the ripe fruit eaten at the typical culinary green stage (husk splitting, fruit firm) is safe and is the intended food; the sticky coating on the fruit surface is non-toxic but unpleasant — always rinse tomatillos before eating or cooking. The papery husk itself is not toxic in small quantities but is not palatable and should be discarded. This is the same solanine-alkaloid caution that applies to tomatoes, peppers, and eggplant — a family characteristic, not a reason for alarm, but worth understanding.",
+    "toxicityAnimals": "As with all Solanaceae, the leaves, stems, and unripe fruits are toxic to dogs, cats, and livestock; the alkaloid content can cause gastric upset, neurological symptoms, and in large doses more serious toxicity; keep dogs out of the tomatillo bed; do not feed plant trimmings to chickens or goats",
+    "allelopathy": "None documented; tomatillo is generally considered compatible with typical vegetable garden companions",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous annual layer (tall annual — functions as a warm-season structural plant in the vegetable bed)"
+    },
+    "roles": [
+      "Annual Food Crop (primary and highly productive)",
+      "Pollinator Attractor (abundant small flowers are visited consistently by bumblebees and other native bees throughout summer — one of the better bee plants in the vegetable garden)",
+      "Biomass Producer (large leafy plants produce significant compostable material at season end)",
+      "Nitrogen Feeder (requires adequate nutrition — not a fixer; pairs well with nitrogen-fixing legume companions)"
+    ],
+    "companionPlants": [
+      "Basil (classic Solanaceae companion; may deter aphids and thrips; good neighbor in the vegetable bed)",
+      "Marigolds (Tagetes patula — nematode suppression, general pest deterrence for Solanaceae; plant at bed edges)",
+      "Cilantro (natural culinary companion; bolting cilantro flowers attract parasitic wasps that prey on aphids and caterpillars; cilantro and tomatillo are paired in the kitchen and can be grown together productively)",
+      "Peppers (compatible bed companions; similar culture)",
+      "Carrots (deep root loosens soil without competition at canopy level)",
+      "Borage (attracts pollinators — beneficial for cross-pollination-dependent tomatillo)",
+      "Beans (can be grown between tomatillos as a nitrogen-fixing understory; bush beans work better than climbers). Note companion relationship with Physalis pruinosa (ground cherry) — similar culture but distinct culinary role; the two can be grown in adjacent beds for complementary harvest."
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare — broadly allelopathic to many vegetables including Solanaceae; keep out of the vegetable bed entirely)",
+      "Brassicas (not direct antagonists but compete for space and do not benefit from close Solanaceae proximity)",
+      "Corn (too tall and will shade tomatillos aggressively if placed to the south). Avoid planting tomatillo in the same bed location as other Solanaceae (tomatoes, peppers, eggplant) in consecutive years — rotate on a 3-year cycle minimum to prevent soilborne disease buildup."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees and native bees are the primary pollinators and visitors — the small yellow flowers with their characteristic anther spots are adapted for buzz pollination (sonication), which bumblebees perform especially effectively; expect consistent bumblebee activity on flowering plants through summer; the abundant flowering season makes tomatillo a useful mid-season pollinator resource in the vegetable garden; late-season fruit that drops or is left in the bed attracts ground-feeding birds and small mammals",
+    "hostPlantFor": "No documented significant native Lepidoptera host relationships in eastern North America (plant is of Mexican origin); some generalist caterpillars (loopers, hornworm relatives) may occasionally feed on the foliage but tomatillo is not a primary host; hornworms (Manduca quinquemaculata) that attack tomatoes may occasionally appear — hand-pick and remove",
+    "nestingHabitat": "None significant; annual plant provides no woody structure for cavity nesters; the leafy summer canopy provides some incidental cover for ground beetles and other beneficial insects at the soil surface"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — tomatillo, like other Solanaceae, has some chemical deterrence from solanine content in the foliage, and mature plants are less palatable than many garden crops; however, deer will browse young, stressed, or newly transplanted Solanaceae plants opportunistically, especially in areas with high deer pressure; young transplants before establishment are most vulnerable; fencing or row cover protection is recommended for the first 2-4 weeks after transplant; once plants are large and established (2+ feet), deer browse pressure is somewhat reduced compared to more palatable crops like beans and lettuce, but not eliminated; treat similarly to tomatoes in terms of deer protection planning"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not a salt-tolerant plant; avoid planting near heavily salted roads or in coastal salt-spray zones; not typically a concern for raised vegetable beds set back from road edges"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tomatillo is more drought-tolerant than tomato once established, reflecting its Mexican origin in seasonally dry climates; brief dry spells are tolerated; prolonged drought during fruiting reduces yield and fruit size; consistent moisture during peak production is worth maintaining; mulch effectively to reduce irrigation frequency"
+    },
+    "other": "Heat-tolerant and performs well in hot summers across the lower 48; sensitive to frost (killed at 32F); no cold hardiness as a perennial in Zones 3-7; does not require vernalization; grows best in warm soil (55F+) — transplanting too early into cold soil causes sulking and setback rather than head start; in the humid Southeast and Mid-Atlantic, good air circulation and cage/stake support help prevent foliar fungal issues"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — tomatillo is not a demanding crop, but its vigorous, sprawling growth benefits from some physical support and the harvest window is time-sensitive enough to require regular monitoring; the biggest management task is physical containment of the large plants",
+    "pruningNotes": "Staking or caging is strongly recommended — uncaged plants sprawl dramatically and the heavy fruit load pulls branches to the ground, increasing pest and disease pressure and making harvest difficult; install a tomato cage or tall stake system at planting time before the plant grows into it; standard large tomato cages work well. No formal pruning is necessary or beneficial in the way tomato suckering is practiced; simply let the plant grow within its support structure. Once frost kills the plants (blackening the foliage overnight), remove the entire plant from the bed promptly — do not leave Solanaceae debris in the bed over winter. Collect any fully ripe fruit that has dropped to the bed surface; these will self-seed, and the resulting volunteers the following spring can be transplanted or thinned to two productive plants.",
+    "propagationMethods": [
+      "Seed started indoors (primary method — start 6-8 weeks before last frost date for your zone; sow seeds 1/4\" deep in cell trays at 70-80F; germination in 7-14 days; grow on in a sunny window or under grow lights; harden off for 7-10 days before transplanting; transplant after last frost when soil is reliably warm — treat exactly like tomato transplants). Direct sowing (possible after last frost when soil reaches 55F+, but loses 4-6 weeks of season — not recommended for Zones 4-6 where the season, while adequate, is best maximized with transplants; more viable in Zones 7-9 with longer frost-free windows). Self-seeded volunteers (reliable in Zones 6+ — fruit that drops in the bed or is left on the soil surface will winter-stratify naturally and germinate the following spring; volunteers appear after soil warms; thin to the two best-placed plants and allow them to grow; free plants with no indoor effort required after the first year)."
+    ]
+  },
+  "cultivarNotes": "Several distinct cultivars are available, each with meaningful differences in flavor, size, and color. Cultivar choice is primarily a matter of culinary preference and garden aesthetic, as all standard cultivars perform well across the range of US growing zones where tomatillo is practical (Zones 4-10).\n**'Toma Verde'** is the classic commercial and culinary standard — large, green-fruited, tangy, and productive; this is the tomatillo of restaurant salsa verde and the benchmark against which others are measured; excellent for cooking, roasting, and preserving; reliable and widely available as seed; the default recommendation for first-time growers who want the authentic Mexican culinary experience. Performs well across all zones; 75-day maturity makes it suitable even for shorter-season gardens in Zones 4-5.\n**'Purple'** (sometimes sold as 'Purple de Milpa') produces smaller, dark purple-skinned fruits with a noticeably sweeter flavor profile than green types; the color is ornamental and striking; flavor is milder and more complex than Toma Verde when ripe; excellent for fresh eating and interesting in mixed salsas; has the same cultural requirements; a worthwhile second plant alongside Toma Verde both for cross-pollination and for culinary variety. Performs reliably in Zones 5-9; in very short-season areas (Zone 4), prioritize Toma Verde for reliability and add Purple as a second plant if season length permits.\n**'Pineapple'** is a yellow-fruited type with exceptionally sweet flavor — almost dessert-like compared to standard tomatillo; loses much of the characteristic tomatillo tartness; interesting for fresh eating and unusual preserves but not suited to traditional salsa verde applications; a novelty worth growing if you want to explore the full range of the species. No particular zone limitations.\n**'Mexican Strain'** (sometimes sold simply as \"Mexican Tomatillo\" without further cultivar name) refers to open-pollinated landraces of variable character — typically vigorous, productive, and well-adapted; a good choice when buying from small seed companies specializing in heritage or Latin American varieties. Landraces are often the most heat-tolerant selections and may outperform named cultivars in Zones 8-10.\n**Zone 3-5:** Choose Toma Verde for reliability; start transplants 6-8 weeks before last frost to maximize the shorter season; direct sowing is not recommended. **Zone 6-7:** All cultivars perform comfortably; the frost-free window accommodates even later-maturing types; pairing Toma Verde + Purple provides both cross-pollination and culinary variety. **Zone 8-10:** All cultivars thrive; the long season allows direct sowing as an option; landraces and Mexican Strain types may be especially well-adapted to the heat; in frost-free areas, tomatillo may overwinter but replanting annually gives better results.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual vegetable bed",
+      "kitchen garden",
+      "dedicated vegetable production area; not an ornamental plant for display beds; belongs in the productive kitchen garden context"
+    ],
+    "designPlacement": "Tomatillo belongs in raised vegetable beds or dedicated annual production areas — it is a productive annual crop, not a perennial feature or ornamental, and should be rotated through vegetable beds on a 3-year Solanaceae rotation alongside tomatoes and peppers. Plant in the sunniest available bed position with full-day sun exposure. Given the 3-5' spread, allow generous spacing and do not crowd adjacent crops. The plants are tall enough (3-4') that bed placement at the back or sides (relative to prevailing view) prevents them shading shorter crops. Install cages at planting time. Where deer pressure is significant, fencing around the vegetable beds during the first weeks after transplant is advisable — young Solanaceae transplants are more vulnerable than mature plants. Plan for two to four plants total, which will produce an abundance of fruit for a household. Note: tomatillo pairs naturally in the garden with *Physalis pruinosa* (ground cherry) — that species produces sweet, small fruits in similar papery husks with similar culture; the two complement each other both in the garden and in the kitchen and can be grown in adjacent bed positions or in the same bed with compatible spacing.",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Physalis_ixocarpa",
+    "inaturalist": "https://www.inaturalist.org/taxa/61375-Physalis-ixocarpa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287199&isprofile=1&basic=physalis+ixocarpa"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or to North America north of Mexico; grown as an annual crop",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — not a concern",
+      "drainage": "The red clay at Hegins is not suitable for in-ground tomatillo planting without significant amendment; raised vegetable beds are the correct approach and eliminate the clay/drainage constraint entirely; if planting in-ground for any reason, build a mounded row with heavy compost amendment and ensure the site does not pool water after rain",
+      "soil": "At Hegins, the raised vegetable beds provide ideal texture and drainage; if any in-ground planting is attempted, the native red clay requires thorough amendment with compost and coarse organic matter to achieve adequate texture for Solanaceae root development",
+      "cultivarNotes": "The 162-day frost-free window at Hegins (approximately May 1 to October 10) comfortably accommodates all cultivars. Start seeds indoors by mid-March for May transplants. Plant a minimum of two plants — **Toma Verde + Purple** is an excellent pairing that provides cross-pollination, culinary diversity, and ornamental interest. Three to four plants total will produce more fruit than a typical household can use fresh; plan for preservation.",
+      "designPlacement": "Plant in the raised vegetable beds in the sunniest available position; not suited to Sections A, B, or C (those are perennial/ornamental beds); tomatillo is a pure production crop for the annual vegetable garden. Deer fencing around the vegetable beds during the first weeks after transplant is advisable given east corridor pressure. Rotate bed position annually within the Solanaceae 3-year rotation plan.",
+      "siteObservations": "Zone 6a Hegins is well-suited to tomatillo — the 162-day frost-free window (May 1 to October 10) comfortably accommodates the 70-80 day production cycle with full peak harvest in August-September. The humid continental climate provides adequate summer moisture, and the raised beds' good drainage is exactly right for Solanaceae (bypassing the site's red clay issues). Key cultivation points for this site: (1) plant at least two plants — the self-incompatibility rule is non-negotiable for fruit set; (2) install cages at planting time; (3) start seeds indoors by mid-March for May transplants; (4) expect self-seeded volunteers in subsequent years — these are a reliable free return planting. Deer from the east wildlife corridor will browse young transplants — protect with fencing or row cover for the first 2-4 weeks until plants size up. Watch for solanine toxicity around dogs or children. Yield will exceed expectations — a first-time tomatillo grower is typically surprised by how much fruit four plants produce; have a salsa verde recipe and freezer space ready before harvest peaks. Cross-reference: *Physalis pruinosa* (ground cherry) — same genus, similar culture, distinct flavor; worth growing alongside tomatillo for a complete Physalis planting."
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "lindera-benzoin",
+  "name": {
+    "commonName": [
+      "Spicebush",
+      "Northern Spicebush",
+      "Common Spicebush"
+    ],
+    "latinName": "Lindera benzoin",
+    "family": "Lauraceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Maine to Ontario south to Florida and Texas; one of the most common native woodland understory shrubs in the eastern US",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from Maine south to Florida and west to Kansas and Texas. Found in nearly every state east of the Great Plains. Not native to the western US."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48. Not listed on any state noxious weed list. A well-behaved native that spreads slowly by root suckers and bird-dispersed seed but does not escape cultivation or displace other species."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "6-12'",
+    "spread": "6-12'; forms a loose, multi-stemmed shrub; some suckering but not aggressively colonial",
+    "spacing": "5-8' from other shrubs",
+    "growthRate": "Slow to moderate; patient establishment but long-lived",
+    "timeToMaturity": "First berries years 3-5 (on female plants); full production from year 5-7",
+    "lifespan": "Long-lived; essentially permanent in its preferred habitat",
+    "deciduousEvergreen": "Deciduous — shiny medium-green leaves throughout summer; excellent yellow fall color — among the brightest yellow fall foliage of any native shrub; outstanding fall color contribution",
+    "winterInterest": "Low — bare in winter; some remnant structure visible"
+  },
+  "lightAndWater": {
+    "sun": "Shade tolerant to part shade; tolerates full sun in moist conditions; native to forest understory — one of the more shade-tolerant fruiting shrubs; in Zone 8+ and the Deep South, afternoon shade is beneficial to prevent leaf scorch in hot summers",
+    "water": "Medium to high; prefers consistent moisture; native to moist woodland edges and stream banks; tolerates periodic wet conditions better than most shrubs; in arid western climates or rain-shadow areas, supplemental irrigation is essential — this is not a xeric plant",
+    "drainagePreference": {
+      "description": "Moist, well-drained to average; tolerates periodic saturation; actually performs better in moist conditions than most understory shrubs; poor drainage combined with heavy soil can cause root issues over time, but this species handles wet feet far better than most shrubs",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — spicebush is one of the more clay-tolerant native shrubs. It naturally occurs in clay-loam bottomlands and stream edges with heavy soils across the eastern US and Midwest. Heavy clay does not cause root rot in this species as readily as in most shrubs, because it evolved in periodically saturated conditions. Amending clay with organic matter (compost, leaf mold) improves performance but is not strictly required for survival. In compacted urban or construction-disturbed clay, break up the planting area well and mulch heavily to improve soil biology over time."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7,
+      "description": "4.5-7.0; broadly adaptable across most eastern and midwestern soils; performs in mildly alkaline soils but prefers slightly acidic to neutral"
+    },
+    "texturePreference": "Moist, well-drained loam is ideal; performs well in clay-loam, sandy loam, and humus-rich woodland soil; tolerates a wide range of textures provided moisture is adequate",
+    "rootCharacter": "Fibrous spreading root system; moderately spreading; some root suckers over time"
+  },
+  "bloom": {
+    "bloomTime": "March-April (before leaves emerge) — one of the earliest blooming native shrubs; flowers when the understory is still bare",
+    "bloomDescription": "Clusters of tiny yellow flowers, 0.25\" wide, tightly packed along the bare twigs; appears as a soft yellow haze along the stems before leaves emerge; one of the earliest native spring flowers; provides critical early-season nectar and pollen",
+    "fragrance": "Strongly aromatic — all parts (flowers, leaves, twigs, bark, and berries) have a characteristic spicy-aromatic scent; the \"benzoin\" reference is to this aromatic quality; the foliage when crushed releases a warm, spicy, allspice-like fragrance",
+    "flowerSex": "Dioecious — plants are either male or female; only female plants produce berries; male plants are needed for pollination; plant both sexes (ideally 2 female : 1 male) for berry production",
+    "pollination": "Bees and flies — important early spring pollinator resource when few other plants are flowering"
+  },
+  "yield": {
+    "edibleParts": "Berries (glossy red, oval, 0.5\" long; intensely aromatic with allspice-like flavor; edible; traditional spice use — the dried and ground berries were used as an allspice substitute by early American colonists; can be used fresh or dried in cooking); leaves (dried as an aromatic herb — allspice-like flavor in cooking); twigs and bark (brewed as a traditional tea — spicebush tea was widely used by Native Americans and colonists)",
+    "harvestSeason": "Berries September-October; leaves spring through summer; twigs year-round",
+    "medicinalUses": "Traditional fever treatment (diaphoretic tea from twigs); used by multiple Native American peoples for colds, fever, and respiratory infections; the aromatic oils have documented antimicrobial and antifungal properties; one of the important native medicinal plants of the eastern US",
+    "craftOtherYield": "Aromatic dried berries as spice; essential oil from leaves; fragrant twig bundles"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally non-toxic in culinary and tea use; some individuals may experience skin sensitization from the aromatic oils — wear gloves if harvesting in quantity",
+    "toxicityAnimals": "Generally considered safe; not a documented toxin concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (berries and leaves as spice — secondary but genuine yield)",
+      "Medicinal (traditional fever and respiratory herb)",
+      "Wildlife Support (critical — see Host Plant below)",
+      "Insect Attractor (early spring pollinator plant)",
+      "Beauty (outstanding yellow fall color)",
+      "Native Plant Contribution"
+    ],
+    "companionPlants": [
+      "Asimina triloba (the classic paw paw + spicebush understory pairing in eastern NA woodland ecology)",
+      "Asarum canadense (wild ginger ground cover)",
+      "Matteuccia struthiopteris (ferns in moist spots)",
+      "Allium tricoccum (ramps — same ecological community)",
+      "native ephemerals"
+    ],
+    "antagonists": [
+      "None documented; thrives in the same conditions as paw paw"
+    ],
+    "coppiceable": "Can be coppiced or cut back hard to rejuvenate; regrows from the base; this is not a standard management practice but can be done every 10+ years if the plant becomes too large"
+  },
+  "wildlife": {
+    "attracts": "Bees and flies (early spring flowers are critical early-season pollen source), birds (berries consumed by migratory thrushes — veery, wood thrush, hermit thrush — in fall; the high fat content of spicebush berries is specifically valuable for fueling fall migration); catbirds, robins, and other birds also eat the berries",
+    "hostPlantFor": "Spicebush swallowtail butterfly (Papilio troilus) — spicebush is the primary larval host plant for this magnificent butterfly; the caterpillars (which mimic bird droppings when young and then develop false eye spots to look like a snake when mature) are a wonderful sight; planting spicebush is one of the best things you can do for this species. Promethea moth (Callosamia promethea) also uses Lindera as a larval host. Host plant value alone makes this a very high-priority native plant.",
+    "nestingHabitat": "Dense multi-stemmed structure provides excellent nesting habitat for small birds; catbirds, wood thrushes, and veeries commonly nest in spicebush"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — deer generally do not prefer spicebush due to its aromatic foliage; not a primary browse target; more deer-resistant than most native shrubs. Young plants may still be browsed opportunistically in areas with heavy deer pressure — protect transplants with wire cages or tree tubes for the first 2-3 years until the aromatic oils are concentrated enough to deter browsing. Established plants are rarely damaged."
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt and salt spray; not suitable for roadside planting or coastal exposure without protection"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; prefers consistent moisture; established plants handle short dry periods but will drop leaves early in prolonged drought; supplemental water during establishment (first 2-3 years) is important in all regions"
+    },
+    "other": "Shade tolerant; tolerates clay and moist soils; cold hardy to Zone 4; among the most adaptable native shrubs for difficult woodland conditions; tolerates humidity and air pollution well; not wind-sensitive in sheltered understory positions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established",
+    "pruningNotes": "Minimal pruning needed. Remove dead or crossing branches. If the shrub becomes too large, cut oldest canes to the base in early spring. Allow some root suckers to remain if a multi-stem colony effect is desired (appropriate in a guild setting); remove suckers if a single-specimen form is wanted. Do not prune in fall or winter — you will remove the flower buds.",
+    "propagationMethods": [
+      "Seed (requires double dormancy — warm + cold stratification; complex; slow; 18 months to germination)",
+      "hardwood cuttings (fall — moderate success)",
+      "division of rooted suckers (easiest for home gardeners)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "No named cultivars are widely available — spicebush is almost always grown as the straight species for its ecological value. Selections for particularly good fall color or heavy berry production exist in the nursery trade but are uncommon. Across Zones 4-6, the straight species performs reliably without cultivar selection. In Zones 7-9, particularly in the southeastern US, ensure nursery stock is sourced from a similar latitude — southern-provenance seed stock establishes better in hot, humid conditions. In all zones, the critical purchasing decision is plant sex: specify that you need at least one male and one or two females for berry production. Some nurseries tag the sex; others do not — ask specifically. Purchase from a reputable native plant nursery rather than a box store to ensure correct identification and sexing.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native woodland garden",
+      "food forest understory",
+      "rain garden",
+      "stream-side planting",
+      "wildlife garden"
+    ],
+    "designPlacement": "Best used as an understory shrub beneath deciduous canopy trees, especially paw paw (Asimina triloba) — the ecologically and aesthetically natural companion in eastern NA woodland ecology. Plant in partial shade to full shade with consistent moisture. Space 5-8' apart for a naturalistic colony effect, or as individual specimens in a mixed shrub border. Plant 2 females + 1 male for berry production. Excellent structural shrub for the shrub layer of a food forest. At 6-12' height, position behind shorter perennials and ahead of canopy trees. Provides early spring pollen, fall berry harvest, outstanding fall color, and critical habitat value for spicebush swallowtail butterfly and migrating songbirds.",
+    "acquisitionStatus": "To source (native plant nursery; specify sexed plants for berry production)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindera_benzoin",
+    "inaturalist": "https://www.inaturalist.org/taxa/54793-Lindera-benzoin",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d890"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — L. benzoin is native to Pennsylvania; commonly found in moist woodland edges, stream banks, and forest understories throughout the state; likely present in nearby hedgerows and woodlands around Hegins",
+      "paInvasiveStatus": "Not invasive in Pennsylvania. Not listed by PA Dept. of Agriculture or DCNR.",
+      "drainage": "Hegins red clay is workable for spicebush without raised beds. Break up the compacted clay in a wide planting hole (3x root ball), backfill with a 50/50 mix of native clay and compost, and mulch with 3-4\" of shredded hardwood. The site's drainage issues after heavy rain are actually tolerable for this species — spicebush handles periodic saturation. Avoid planting in any spot where water pools for more than 48 hours continuously.",
+      "soil": "Hegins red clay is acceptable with amendment. Work in generous compost and leaf mold at planting time. The clay retains the moisture spicebush wants, which is an advantage — the main concern is compaction around roots, not drainage per se. Annual leaf mulch mimics the natural forest duff this species thrives in.",
+      "cultivarNotes": "The straight species is the correct choice. Source sexed plants from a mid-Atlantic native plant nursery (e.g., Edge of the Woods, Redbud Native Plant Nursery, or similar PA/NJ/MD growers). No cultivar selection needed — focus on getting correctly sexed stock.",
+      "designPlacement": "Paw paw guild — primary understory shrub in the paw paw guild; plant 2 females + 1 male in the partial shade beneath the paw paw canopy. The 6-12' mature height exceeds the 5' limit for Sections A and C, so spicebush belongs in the food forest / guild area, not in the foundation beds. The site's east wildlife corridor deer pressure is manageable — spicebush's aromatic foliage provides good deer resistance, but cage transplants for the first 2-3 years as a precaution.",
+      "siteObservations": "The compacted red clay at this site is workable for spicebush with proper amendment at planting — this species is more clay-tolerant than most shrubs. The moist conditions after rain events are actually favorable, as spicebush naturally occurs in periodically wet soils. Deer from the east corridor are unlikely to browse established plants heavily due to the aromatic foliage, but new transplants should be caged. The north-facing aspect of the food forest area provides the shade this species prefers. Salt sensitivity is not a concern here — the food forest / guild planting areas are well away from the salted road."
+    }
+  }
+}

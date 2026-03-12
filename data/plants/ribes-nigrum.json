@@ -1,0 +1,162 @@
+{
+  "id": "ribes-nigrum",
+  "name": {
+    "commonName": [
+      "Black Currant",
+      "European Black Currant"
+    ],
+    "latinName": "Ribes nigrum",
+    "family": "Grossulariaceae"
+  },
+  "range": {
+    "nativeRange": "Northern and central Europe, northern Asia; widely cultivated across the temperate world",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely naturalized in scattered locations across the northeastern and north-central states (New England, Great Lakes region) where it has escaped cultivation. Historically banned in many US states due to its role as an alternate host of white pine blister rust (Cronartium ribicola); federal ban lifted in 1966, but some states (e.g., Maine, Massachusetts, New Hampshire) still restrict or regulate Ribes planting near commercial white pine stands."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in the US. While naturalized in parts of the Northeast and upper Midwest, it does not form aggressive monocultures or displace native vegetation. Some states regulate Ribes species not for invasiveness but for phytosanitary reasons (white pine blister rust). Check state-specific Ribes restrictions before planting — regulations vary significantly by state."
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7 (performs best in Zones 3-6; Zone 7 is the warm edge of reliable production; cultivar selection for heat tolerance becomes important in Zones 6b-7)"
+    }
+  },
+  "description": {
+    "height": "4-6'",
+    "spread": "4-6'",
+    "spacing": "4-5' from other plants",
+    "growthRate": "Moderate; reaches productive size in years 3-4",
+    "timeToMaturity": "First light crop years 2-3; full production years 4-5",
+    "lifespan": "Long-lived; 15-20+ years with proper renewal pruning",
+    "deciduousEvergreen": "Deciduous — aromatic, 3-5 lobed leaves; modest fall color",
+    "winterInterest": "Low — bare in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than most fruit shrubs while still producing. In Zones 6b-7, afternoon shade reduces heat stress and improves fruit quality; in Zones 3-5, full sun is ideal.",
+    "water": "Medium; consistent moisture important especially during fruit development; more moisture-demanding than red currant",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates heavier soils better than most Ribes; avoid waterlogged conditions. Poor drainage leads to root rot, especially in winter when the plant is dormant and soil stays saturated.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates clay-loam and moderately heavy clay better than most fruit shrubs. The fibrous root system handles some compaction, but standing water in dense clay will cause root rot. In unamended heavy clay, incorporate organic matter (compost, leaf mold) into the planting hole and mulch heavily to improve structure over time. Raised mounds or berms help in areas with seasonal waterlogging."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; moist, well-drained loam preferred; tolerates clay-loam and sandy loam. Avoid pure sand (dries too fast) or unimproved heavy clay (waterlogging risk).",
+    "rootCharacter": "Fibrous spreading root system; the entire stem can root if layered — this is how the plant naturally spreads and is the basis for easy propagation"
+  },
+  "bloom": {
+    "bloomTime": "April (early — one of the first fruit shrubs to flower)",
+    "bloomDescription": "Small, somewhat ornamental yellow-green to purple-tinged flowers in hanging racemes; more attractive than red currant flowers; still not showy",
+    "fragrance": "Flowers have a distinctive aromatic scent — characteristic black currant fragrance from the foliage glands (the foliage glands release the characteristic black currant scent when brushed or crushed)",
+    "flowerSex": "Hermaphrodite; self-fertile",
+    "pollination": "Self-fertile; cross-pollination with another cultivar improves yields but is not required"
+  },
+  "yield": {
+    "edibleParts": "Berries (highly nutritious — exceptionally high in vitamin C (4x that of oranges), vitamin K, anthocyanins, and other antioxidants; strong, tart, complex flavor that is polarizing fresh but exceptional when processed into jam, cordial (Ribena), wine, sorbet, and sauces; black currant jam is one of the finest fruit preserves); leaves (aromatic; used in some traditional preparations)",
+    "harvestSeason": "July-August; the entire raceme ripens at once — harvest the whole cluster when most berries are ripe; use stems and all for jam making",
+    "medicinalUses": "Exceptionally high anthocyanin content (among the highest of all fruits) — documented anti-inflammatory, cardiovascular, and anti-cancer properties; gamma-linolenic acid (GLA) in the seed oil; traditional European medicinal use for inflammation, circulation, and immune support; one of the most nutritionally and medicinally valuable small fruits available to a temperate gardener",
+    "craftOtherYield": "Black currant jam (one of the finest fruit preserves), black currant cordial, cassis (black currant liqueur — a very achievable home product), wine, sorbet, sauce for game and venison"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "Generally safe; the berries are eaten by many birds and animals",
+    "allelopathy": "None documented; but note the Ribes/white pine blister rust connection (same as gooseberry — see Antagonists)",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (fruit — high nutritional and medicinal value; second only to elderberry among the shrub fruits in medicinal significance)",
+      "Medicinal (excellent source of vitamin C and anthocyanins)",
+      "Wildlife Support (berries eaten by birds)",
+      "Insect Attractor (early spring bloom)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base)",
+      "garlic chives and chives (pest deterrent companions)",
+      "yarrow (insectary)",
+      "mulberry (guild canopy companion)"
+    ],
+    "antagonists": [
+      "WHITE PINE BLISTER RUST (Cronartium ribicola) — same alternate host concern as gooseberry; all Ribes species can host this pathogen; if white pines (Pinus strobus) are present on or adjacent to the property",
+      "this is a real concern; check for white pine presence; choose resistant cultivars. Also",
+      "some US states have historically restricted Ribes planting within certain distances of white pine timber stands."
+    ],
+    "coppiceable": "Renewal pruning (same as gooseberry — remove oldest canes, keep 1-3-year-old wood); can cut to the ground for complete renovation; regrows vigorously"
+  },
+  "wildlife": {
+    "attracts": "Bees (early spring flowers), birds (berries eaten by blackbirds, thrushes, robins, catbirds, and many others), some small mammals; the dark ripe berries are attractive to birds — harvest before birds take all the fruit",
+    "hostPlantFor": "Several Lepidoptera species use Ribes including the Ribes clearwing moth",
+    "nestingHabitat": "Dense multi-stemmed shrub provides some nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — deer generally avoid black currant due to the aromatic foliage; not as reliably deer-resistant as alliums but better than many fruiting shrubs. Young plants may still be browsed opportunistically; protect with temporary fencing or caging for the first 1-2 years in areas with heavy deer pressure."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate tolerance to road salt and salt spray; not a first-choice plant for roadside or coastal exposure but will tolerate incidental contact."
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; requires more moisture than red currant or gooseberry; consistent watering in dry spells improves production significantly. Mulch heavily to conserve soil moisture in summer."
+    },
+    "other": "Heat is the primary stress factor at the warm end of its range (Zones 6b-7); afternoon shade, heavy mulch, and consistent irrigation mitigate heat stress. Humidity tolerance is moderate — good airflow reduces powdery mildew risk in humid-summer climates across the eastern US and Gulf states."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "Black currant fruits primarily on 1-year-old wood but also on 2 and 3-year-old wood; renewal pruning: keep a balance of 1, 2, and 3-year-old canes (4-5 of each, removing all canes older than 3 years at the base); prune in late winter (February-March); good airflow reduces disease pressure; black currant is more disease-susceptible than red currant — powdery mildew and reversion virus (transmitted by big bud mites) are the primary concerns",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter — extremely easy; a hallmark of the Ribes genus; 8-12\" sections stuck in moist soil root very reliably)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "For blister-rust resistance and disease tolerance, three cultivars stand out across the lower 48: **'Titania'** (very disease-resistant, tall 5-6', productive, Nordic origin — excellent blister rust resistance; performs well across Zones 3-7; the best general-purpose choice for cold-climate growers in Zones 3-5); **'Ben Sarek'** (compact 4', excellent disease resistance, very productive, widely available — performs best in Zones 5-7 where its compact form and mildew resistance are advantages; the gold standard for home gardens); **'Consort'** (immune to white pine blister rust — the most reliable choice if white pines are present; flavor slightly more tart; hardy Zones 3-6). For southern-range growers (Zones 6b-7), heat tolerance becomes the primary selection criterion — 'Ben Sarek' and 'Titania' handle warm summers better than older cultivars. Note: **'Crandall'** is actually Ribes odoratum (clove currant), a different North American native species with clove-fragrant flowers and less tart berries — an excellent alternative for gardeners in Zones 4-8 who want a native Ribes with better heat tolerance.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "kitchen garden",
+      "fruit hedge",
+      "wildlife garden",
+      "permaculture guild understory"
+    ],
+    "designPlacement": "Best sited in the understory or at the drip line of a canopy tree where it receives morning sun and afternoon shade in warm climates (Zones 6-7), or in full sun in cooler climates (Zones 3-5). Plant with dynamic accumulators (comfrey) and pest-deterrent alliums at the base. The thornless habit makes it practical for high-traffic garden areas. Its early bloom and bird-attracting fruit make it a strong wildlife-garden anchor. Space 4-5' from neighbors to allow airflow for disease prevention.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ribes_nigrum",
+    "inaturalist": "https://www.inaturalist.org/taxa/54430-Ribes-nigrum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257221 (listed as Ribes nigrum 'Ben Sarek')"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Pennsylvania lifted its Ribes ban; no current state-level restrictions on planting black currant. Same as general Invasive field — not regulated in PA.",
+      "drainage": "The red clay at Hegins will support black currant with amendment — incorporate compost and coarse organic matter into the planting hole to improve drainage and root establishment. Mulch heavily. In-ground planting is feasible in guild positions where the canopy tree's roots help draw excess moisture; raised beds are not required but would simplify establishment.",
+      "soil": "The Hegins red clay-loam is workable with organic amendment. Incorporate compost at planting and maintain a deep mulch ring. The slightly acidic tendency of PA clay soils suits black currant's preferred pH range.",
+      "cultivarNotes": "'Ben Sarek' is the top recommendation — compact, disease-resistant, productive, and proven at the warm edge of black currant's range. Plant 'Consort' as a second bush if white pines are present on or adjacent to the property.",
+      "designPlacement": "Mulberry guild shrub layer — planted in the understory of the mulberry tree at the drip line. The partial shade from the mulberry canopy suits black currant's heat sensitivity in Zone 6a. The medicinal and nutritional value of the berries makes this one of the highest-value fruit shrubs in the entire food forest. The thorn-free harvest is a convenience advantage over gooseberry.",
+      "siteObservations": "Zone 6a is the warm edge of black currant's reliable range; site in the mulberry guild's partial shade to reduce summer heat stress. Deer pressure from the east wildlife corridor is a moderate concern — the aromatic foliage provides good but not absolute resistance; monitor young plants in the first two seasons. The red clay soil requires amendment at planting but should support long-term production with mulch and compost management."
+    }
+  }
+}

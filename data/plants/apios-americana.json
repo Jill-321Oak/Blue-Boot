@@ -1,0 +1,165 @@
+{
+  "id": "apios-americana",
+  "name": {
+    "commonName": [
+      "Groundnut",
+      "Hopniss",
+      "Indian Potato",
+      "Potato Bean"
+    ],
+    "latinName": "Apios americana",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from Nova Scotia and southern Quebec west to South Dakota, south to Florida and Texas; one of the most widely distributed native legumes in the eastern US",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — from New Brunswick and the Great Lakes south to Florida and west to Kansas and Nebraska; one of the most important food plants of eastern North American indigenous peoples; native throughout a broad swath of the eastern US including Pennsylvania"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; a native plant; spreads by tubers but not aggressively beyond its natural range; the spreading tuber habit is manageable in garden settings"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7"
+    }
+  },
+  "description": {
+    "height": "3-10' as a climbing vine; stems twine around supporting vegetation, shrubs, or trellises; sprawling and mat-forming without vertical support",
+    "spread": "Moderate; underground rhizomes spread laterally over years, forming gradually expanding colonies; a single plant may colonize a 3-6' radius over several seasons",
+    "spacing": "One plant; allow to spread as desired; install a root barrier if growth needs to be contained within a defined area",
+    "growthRate": "Moderate; slow to establish in year 1 while the tuber system develops; accelerates noticeably from year 2-3 onward",
+    "timeToMaturity": "First small tubers harvestable by end of year 1-2; meaningful harvest from year 3+; tuber mass increases substantially each year as the colony expands",
+    "lifespan": "Long-lived perennial; the underground rhizome and tuber system is essentially permanent; aboveground vine dies back to the ground each fall",
+    "deciduousEvergreen": "Dies back completely to the ground each fall; re-emerges from the root system each spring",
+    "winterInterest": "None — dies back completely; the underground tubers are the winter yield"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; produces well in dappled shade; well-suited to the food forest understory where light is filtered; flowering and tuber production are best with at least a few hours of direct sun, but the plant is genuinely shade-tolerant compared to most food crops",
+    "water": "Medium to moist; prefers consistently moist conditions; native to stream banks and moist woodland edges; tolerates periodic wet feet; not drought-tolerant once established in dry sites, though the deep rhizome system provides some resilience",
+    "drainagePreference": {
+      "description": "Moist to average; performs best in moisture-retentive soils; tolerates poorly drained conditions better than most edible plants; avoid hot, dry, well-drained slopes",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good; native to moist bottomland and stream-side habitats with heavy, rich soils; tolerates clay well provided it is not waterlogged; one of the more clay-tolerant edible vines; thrives in moisture-retentive clay with organic matter"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Loamy to clay-loam; tolerates heavier soils well; native to floodplain and streambank soils that are often silty or clay-rich",
+    "rootCharacter": "Deep, spreading rhizomatous root system bearing irregularly spaced tubers (1-3\" diameter) at intervals along the rhizomes; nitrogen-fixing root nodules are present throughout; the rhizome network can extend several feet from the crown; essentially impossible to fully remove once established"
+  },
+  "bloom": {
+    "bloomTime": "August-September",
+    "bloomDescription": "Small, fragrant, pea-like flowers in dense clusters (racemes) along the vine; color is a distinctive brownish-purple to reddish-maroon; individually modest in size but produced in enough quantity to be ornamentally interesting; the flower clusters are attractive up close and pleasantly fragrant; edible",
+    "fragrance": "Fragrant — sweet, slightly spicy; the flowers are notably aromatic for a native legume",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; also visited by native bees including bumblebees and small native bees; cross-pollination improves seed set but is not required for tuber production"
+  },
+  "yield": {
+    "edibleParts": "Tubers (primary yield — irregularly shaped, 1-3\" diameter, borne in strings along the underground rhizomes; edible raw but far superior cooked; flavor when roasted or boiled is nutty, mildly starchy, and pleasant — frequently described as a cross between a potato and a chestnut; protein content is roughly 3x that of potato, making this one of the most nutritious native root vegetables; harvest by carefully tracing the rhizomes and pulling tubers, leaving smaller ones to continue growing); Seeds (in elongated pods, similar in use to beans — high in protein; edible cooked); Flowers (edible; pleasant addition to salads; fragrant and attractive)",
+    "harvestSeason": "Tubers: late summer through winter — harvest any time after the vine dies back in fall; fall and winter harvest is traditional and practical; leave smaller tubers in place to regenerate. Seeds: late summer when pods mature. Flowers: August-September while in bloom.",
+    "medicinalUses": "No significant medicinal use documented; the primary value is nutritional and ecological",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — all edible parts are safe when properly prepared; tubers are best cooked (raw tubers are edible but less palatable and mildly astringent for some individuals); seeds must be cooked before eating, as with most legume seeds",
+    "toxicityAnimals": "Deer will actively dig and eat the tubers — this is the primary wildlife management concern; not a toxicity hazard",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Vine; functions secondarily as a ground cover / root layer crop"
+    },
+    "roles": [
+      "Nitrogen Fixer (Fabaceae — symbiotic root nodule bacteria fix atmospheric nitrogen; a rare native vine that actively improves soil fertility)",
+      "Food (high-value perennial root vegetable + edible seeds + edible flowers)",
+      "Insect Attractor",
+      "Native Plant",
+      "Ground Cover (rhizomes knit the soil in moist areas)",
+      "Dynamic Accumulator (deep rhizomes access subsoil minerals; dying vine biomass returns nutrients to the surface)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — shares moist woodland edge habitat; groundnut's nitrogen fixation benefits the guild)",
+      "Sambucus canadensis (elderberry — similar moist-site native guild)",
+      "Lindera benzoin (spicebush — native woodland edge companion)",
+      "Cornus sericea (red twig dogwood — moist site shrub layer)",
+      "native ferns as ground cover in the same moisture zone; any food forest shrub or tree that would benefit from a nitrogen-fixing vine companion in the moist understory"
+    ],
+    "antagonists": [
+      "The rhizome spread requires attention in beds where it could crowd out smaller plants; not chemically antagonistic",
+      "but physically persistent; give it a defined zone rather than mixing it into a densely planted annual bed"
+    ],
+    "coppiceable": "Naturally dies to the ground each fall; cut dead stems in spring; the root system re-sprouts vigorously"
+  },
+  "wildlife": {
+    "attracts": "Native bees (bumblebees, small native bees — good late-summer pollinator value during August-September bloom, a period when many other plants have finished flowering), butterflies, hummingbirds (occasional)",
+    "hostPlantFor": "Various native moths and insects in the Fabaceae feeding guild; not a documented primary larval host for high-profile butterfly species, but contributes to the native insect community",
+    "nestingHabitat": "Dense vine growth provides structure; the moist habitat it favors is valuable for a range of wildlife"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — deer will browse the vines and, notably, will actively dig the tubers; in high deer-pressure areas this is a real limitation; the underground tubers are attractive to deer and are dug out by foraging animals; not reliably deer-resistant"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — prefers clean, moist conditions; not a salt-tolerant plant"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — native to moist sites; struggles in dry, well-drained conditions; site selection in a moisture-retentive area of the garden is important for success"
+    },
+    "other": "Tolerates part shade well — one of the few edible root crops that performs meaningfully in the food forest understory; tolerates periodic flooding and wet soil conditions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Cut back dead vine stems to the ground in spring before new growth emerges; no other pruning required. Manage rhizome spread annually by cutting back the boundary runners with a spade. If growing on a trellis or through a shrub, train new growth to the support in late spring while stems are supple. The plant is largely self-managing once established.",
+    "propagationMethods": [
+      "Division of the tuber/rhizome system (spring or fall — the most reliable method; replant tuber sections with at least one growth node); seed (soak seed 24 hours before planting; direct sow or start indoors; slower to establish than vegetative propagation); transplant from native plant nurseries (the most practical acquisition route given limited commercial availability)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars are in common cultivation. Apios americana has received some research attention as a potential perennial vegetable crop — notably at Louisiana State University — but named improved selections have not entered the commercial trade. All material available from native plant nurseries is straight species. Source from a reputable native plant nursery to ensure locally-adapted provenance.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "moist zone planting",
+      "nitrogen-fixing ground cover",
+      "native edible garden",
+      "stream bank or rain garden edge"
+    ],
+    "designPlacement": "Native food forest vine, moist woodland edge, shade garden, nitrogen-fixing climber",
+    "acquisitionStatus": "To source — native plant nurseries; look for Pennsylvania-sourced stock; occasionally available from specialty edible plant nurseries"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apios_americana",
+    "inaturalist": "https://www.inaturalist.org/taxa/119817-Apios-americana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=369842&isprofile=1&basic=apios+americana"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Apios americana is native to Pennsylvania; naturally occurs along stream banks, woodland edges, and moist, shaded areas throughout the state",
+      "paInvasiveStatus": "Not invasive in PA; a native plant",
+      "drainage": "Hegins red clay: in-ground planting generally successful; moisture-retentive clay suits this plant's native habitat; avoid the driest, most compacted positions",
+      "soil": "Hegins moist clay is suitable; no raised bed required; compost amendment improves establishment",
+      "cultivarNotes": "Straight species is native to Zone 6a PA; fully hardy; suited to moist, shaded areas on the property; Pennsylvania-sourced plants are ideal for the Hegins site",
+      "designPlacement": "Paw paw guild or other moist shaded areas; native plant contribution; food production from tubers; will climb the lower branches of paw paw trees or a simple stake/trellis within the guild; the combination of native status + nitrogen fixation + highly nutritious perennial tuber + late-season pollinator value makes this one of the highest-value native plants available for Zone 6a; deer pressure on the tubers is the primary siting concern — consider whether deer access can be limited in the intended planting area",
+      "siteObservations": null
+    }
+  }
+}

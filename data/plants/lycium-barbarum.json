@@ -1,0 +1,167 @@
+{
+  "id": "lycium-barbarum",
+  "name": {
+    "commonName": [
+      "Goji Berry",
+      "Wolfberry",
+      "Matrimony Vine"
+    ],
+    "latinName": "Lycium barbarum",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Northwestern and north-central China; broadly distributed across Asia and southeastern Europe; widely cultivated and naturalized across temperate regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States. Introduced and naturalized in scattered locations across much of the lower 48, particularly in the eastern US, Great Plains, and intermountain West. Found in disturbed sites, roadsides, waste ground, and old homesteads where it persists and sometimes spreads from cultivation"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Yes — considered invasive in several US states. Listed as invasive or potentially invasive in parts of the mid-Atlantic, Northeast, and upper Midwest. Appears on invasive plant lists in Connecticut, Massachusetts, and other northeastern states. The primary concern is its aggressive vegetative spread via root suckers and tip-layering of arching stems, combined with bird-dispersed seed. It colonizes disturbed ground, roadsides, fence lines, and riparian edges. In regions with mild winters and disturbed soils, escaped populations can displace native shrubs. Gardeners in any state should check their state's invasive species list before planting and should manage suckering aggressively to prevent escape, especially near natural areas"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 (some sources extend hardiness to Zone 3 with good drainage and snow cover; heat-tolerant through Zone 9 without difficulty)"
+    }
+  },
+  "description": {
+    "height": "3-6' in garden culture; can reach 8' without pruning; arching, cane-like stems give it a fountain or loose hedge form",
+    "spread": "5-8' or more; spreads by layering where arching stems touch the ground, and by root suckers — can expand aggressively if not managed",
+    "spacing": "4-6' for a hedge; 6-8' for a specimen",
+    "growthRate": "Moderate to fast once established; can put on significant extension growth in year 2 and 3",
+    "timeToMaturity": "First light fruit possible in year 2; good production by years 3-4",
+    "lifespan": "Long-lived; 15-20+ years with renewal pruning; individual stems are shorter-lived (like raspberries) but the plant renews itself continuously",
+    "deciduousEvergreen": "Deciduous — small, soft, grey-green leaves; not particularly ornamental in foliage but the bright red-orange fruit is showy against bare canes in fall",
+    "winterInterest": "Low foliage interest; the arching grey-brown canes have a graceful silhouette in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but fruit production declines significantly — site in full sun whenever possible. In Zone 8-9, light afternoon shade is acceptable and may reduce heat stress on fruit, but full sun remains ideal",
+    "water": "Low to medium once established; highly drought-tolerant once roots are established; consistent moisture during the establishment year and during fruit development improves yields; overly rich or consistently wet soil actually reduces flowering and fruiting. In the arid West, occasional deep watering during fruit set improves berry size; in the humid East, supplemental irrigation is rarely needed once established",
+    "drainagePreference": {
+      "description": "Well-drained to dry; one of the few productive fruiting shrubs that genuinely thrives in poor, dry, or sandy soils; does not tolerate waterlogged conditions — root rot is the primary cultural failure mode. If planting in heavy soil, ensure the site is elevated, sloped, or amended to prevent standing water around the root crown",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay better than most fruit shrubs provided drainage is adequate. The key risk in clay is waterlogging during dormancy or prolonged wet periods, which leads to root rot. In well-drained clay (sloped sites, raised planting mounds, or clay amended with coarse organic matter and grit), goji performs adequately. In flat, poorly drained heavy clay, it will decline and eventually die. Amending with generous coarse compost, gravel, or planting on a raised mound significantly improves success in clay soils"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 8.5,
+      "description": "6.5-8.5; tolerates neutral to moderately alkaline soils; actually performs well in the slightly alkaline conditions that challenge most fruit shrubs; avoid strongly acidic conditions"
+    },
+    "texturePreference": "Adaptable; sandy loam preferred; tolerates poor, gravelly, or clay soils better than most fruit shrubs, though heavy wet clay will cause root problems; overly rich soil encourages leafy growth at the expense of fruit",
+    "rootCharacter": "Moderately deep taproot combined with spreading lateral roots; strong suckering habit from the root system; arching stems root at the tip when they contact the ground (tip-rooting, like raspberries), which is both a propagation asset and the mechanism of its vegetative spread"
+  },
+  "bloom": {
+    "bloomTime": "June through August; a long bloom window that continues intermittently through the fruiting season",
+    "bloomDescription": "Small, funnel-shaped, lavender to purple flowers, approximately 0.5\" long; individually modest but produced in quantity along the canes; somewhat ornamental up close",
+    "fragrance": "Mild; not significantly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; a single plant will set fruit reliably without a cross-pollinator; cross-pollination with a second plant may improve yields but is not required"
+  },
+  "yield": {
+    "edibleParts": "Fruit (small, elongated, bright red-orange berries, 0.25-0.75\" long; intensely sweet when fully ripe with a mild herbal/medicinal character; familiar to most people only as the dried goji berry of health food stores, which has a pleasant sweet-tart flavor; fresh fruit from the garden is a different experience — sweeter and more complex; one of the most nutritionally studied fruits in the world: exceptionally high in zeaxanthin (vision-protective carotenoid), betaine, polysaccharides, flavonoids, and antioxidants); young shoots and leaves (used in Chinese cooking — stir-fried or blanched as a green vegetable; this use is almost entirely overlooked in Western cultivation; harvest young growing tips in spring; do not eat uncooked — see Cautions)",
+    "harvestSeason": "August through October; fruit ripens progressively along the canes over an extended window; hand-pick ripe berries individually or spread a sheet under the canes and tap the branches to drop ripe fruit; harvest frequently as ripe berries drop quickly",
+    "medicinalUses": "One of the most extensively studied botanical foods in the world; documented antioxidant, anti-aging, and vision-protective properties; zeaxanthin content is among the highest of any food and is clinically associated with reduced risk of macular degeneration; polysaccharides (Lycium barbarum polysaccharides, LBPs) are studied for immune modulation, neuroprotection, and anti-cancer activity; betaine supports liver function; 4,500+ years of documented use in Traditional Chinese Medicine as a tonic herb for the liver, kidneys, and eyes; the dried berry (gou qi zi) is one of the most commonly used TCM herbs; widely used fresh, dried, in teas, soups, and tinctures; clinical research is ongoing and substantial",
+    "craftOtherYield": "Dried berries (easily home-dried; the primary commercial form; add to trail mix, granola, smoothies, baked goods); goji tea; infused spirits; the canes can function as a loose barrier hedge given the light thorning"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "CAUTION — Goji is in the Solanaceae (nightshade) family and contains solanine-related alkaloids in the leaves and in unripe fruit. Ripe fruit is safe and widely consumed. Leaves are used as a cooked vegetable in Chinese cuisine but should not be eaten raw in quantity; young leaves are preferred and should be cooked. DRUG INTERACTION: A documented and clinically significant interaction exists between goji berry and warfarin (Coumadin) — consumption of goji products can potentiate warfarin's anticoagulant effect and increase bleeding risk; individuals on blood thinners should consult their physician before consuming goji in quantity. Also use caution if taking diabetes medications or other anticoagulants.",
+    "toxicityAnimals": "The solanine-related alkaloids in the leaves and unripe fruit are potentially harmful to dogs and cats; ripe berries in small quantities are generally considered low risk but pets should not be encouraged to graze the plant; keep away from dogs and cats that graze vegetation",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Food (high-value medicinal fruit; one of the most nutritionally dense small fruits available to a temperate grower)",
+      "Medicinal (major TCM herb; extensively studied; among the most medicinally significant fruits in this plant list)",
+      "Wildlife Support (fruit consumed by birds)",
+      "Slope Stabilization (the spreading root system and layering habit make it effective for holding dry or poor slopes)",
+      "Hedge / Living Barrier (arching thorny canes serve as a loose but effective deterrent hedge)",
+      "Dynamic Accumulator (deep roots in dry poor soils access subsoil minerals; leaf drop returns organic matter)"
+    ],
+    "companionPlants": [
+      "Comfrey (base mulch and accumulator)",
+      "yarrow (insectary)",
+      "chives and garlic (pest deterrent)",
+      "rosemary or lavender (dry-soil companions with similar drought tolerance and site preferences)",
+      "mulberry guild perimeter"
+    ],
+    "antagonists": [
+      "Avoid wet",
+      "heavy clay sites or consistently irrigated areas — this is one of the primary management failures with goji; do not plant as a fruit companion to plants requiring consistent soil moisture; the suckering and layering habit means it should not be planted adjacent to areas where containment is important"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Birds (the bright red-orange berries are highly attractive to robins, mockingbirds, catbirds, thrushes, and other fruit-eating species; ripe berries are quickly found and consumed — net if you want to harvest ahead of the birds), bees and other pollinators (the long bloom season provides consistent nectar through mid-summer), squirrels",
+    "hostPlantFor": "Some Lepidoptera larvae; not a primary host plant but supports generalist species",
+    "nestingHabitat": "The dense, thorny, arching cane structure provides reasonable nesting cover; similar to a loose rose or raspberry thicket in value"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate; the thorns and Solanaceae family chemistry provide some deterrence; not as reliably deer-resistant as alliums or strongly aromatic herbs; in high deer-pressure areas, protection during establishment is advisable — young plants may be browsed before the thorny cane structure develops; once established, the thorny thicket is generally left alone but fruit may still attract deer"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good; tolerates road salt and coastal conditions better than most fruit shrubs; recovers from incidental salt spray exposure without lasting damage"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the defining tolerances of this plant; one of the most drought-tolerant productive fruiting shrubs available to temperate growers; once established, performs well with no supplemental irrigation in the humid East and with only occasional deep watering in the arid West"
+    },
+    "other": "Tolerates poor, alkaline, and sandy soils that would exclude most other fruit shrubs; tolerates wind and exposed sites; tolerates lean conditions; overly rich or wet sites actually reduce productivity; heat-tolerant well into Zone 8-9; tolerates urban pollution and compacted soil margins better than most fruiting shrubs"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — low once established in terms of water and fertility needs; medium in terms of containment (the suckering and layering habit requires annual management to keep the plant from expanding beyond its intended area)",
+    "pruningNotes": "Prune in late winter or early spring before new growth; remove oldest, most tangled canes to the base; keep a balance of 1, 2, and 3-year-old canes (fruit is produced on the current season's growth from older wood — similar to raspberry); open up the center for air circulation to reduce powdery mildew pressure; tip-root any arching canes that you do not want to become new plants; aggressively remove suckers at the perimeter if containment is desired; can be cut to the ground every 3-5 years for complete renovation and regrows vigorously; light heading back of cane tips after harvest encourages bushier growth and more fruiting nodes",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter; 6-10\" sections root readily in moist soil — very easy)",
+      "tip layering (arching stems that touch the ground root naturally — sever and transplant rooted tips in fall or spring)",
+      "seed (easy from fresh or dried berries; seedlings are variable — cultivar consistency requires vegetative propagation)",
+      "division of root suckers"
+    ]
+  },
+  "cultivarNotes": "Straight species sold as generic 'Goji Berry' from seed is the most commonly available form but fruit size and consistency are variable. Named cultivars offer meaningfully larger berries and more consistent yield — avoid purchasing unnamed plants from big-box retailers when named cultivars are available from specialty nurseries. **Zone 3-5 (northern tier):** 'Big Lifeberry' is the top choice — developed by the University of Saskatchewan breeding program, it has excellent cold hardiness to Zone 2-3, very large fruit, and strong production; 'Sweet Lifeberry' from the same program offers sweeter flavor with similar cold tolerance. Both are ideal for growers in the northern Plains, upper Midwest, and northern New England. **Zone 6-7 (mid-range):** 'Crimson Star' is the most widely recommended named cultivar for home growers — large fruit, widely available through online nurseries, reliable production; the Saskatchewan cultivars also perform well in this range. **Zone 8-9 (southern and coastal):** Named cultivars perform well but heat stress during fruit set can reduce yields in the Deep South; afternoon shade and consistent moisture during fruiting help; 'Crimson Star' remains a solid choice; avoid generic seed-grown stock as quality is even more variable in hot climates.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer perimeter",
+      "dry or poor soil zones",
+      "slope stabilization",
+      "loose hedge or windbreak",
+      "medicinal garden"
+    ],
+    "designPlacement": "Best placed at the perimeter of a food forest, on a dry slope, or along a property boundary where its drought tolerance and spreading habit are assets rather than liabilities. The arching canes and showy red-orange fruit in late summer and fall give it genuine ornamental value — consider placing it where the fruit display is visible. Site in full sun on well-drained ground; avoid placing near formal beds, vegetable gardens, or any area where suckering and tip-rooting would be difficult to manage. The thorny arching habit makes it functional as a perimeter deterrent hedge. Without active annual pruning, this plant will exceed 5' — keep it away from beds with height restrictions unless committed to regular maintenance. Allow 6-8' clear space from structures or other plantings to accommodate spread.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lycium_barbarum",
+    "inaturalist": "https://www.inaturalist.org/taxa/77902-Lycium-barbarum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=369042&isprofile=0&bt=7"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania. Naturalized in scattered locations across the state, particularly along roadsides, railroad rights-of-way, and disturbed ground",
+      "paInvasiveStatus": "Not currently on the Pennsylvania noxious weed list or the PA DCNR invasive species list. However, given its invasive status in neighboring northeastern states (Connecticut, Massachusetts), its aggressive suckering and layering habit warrants active containment management. Monitor and remove any suckers spreading beyond the intended planting area",
+      "drainage": "The compacted red clay at Hegins is a poor match for goji's drainage requirements if planted flat in-ground. Plant on a raised mound (12-18\" above grade) with heavy amendment of coarse compost and gravel mixed into the backfill, or site on a sloped area where water sheds away naturally. The south-facing Section C bank or any sloped perimeter would be far safer than flat ground. Do not plant in any low spot or area that holds water after rain",
+      "soil": "The red clay at Hegins will need amendment for in-ground planting — mix coarse compost, aged bark, and gravel into the planting hole to break up clay structure and improve drainage. A raised mound planting is the most reliable approach on this soil. The slightly acidic to neutral pH typical of Hegins clay (usually 5.5-6.5) is at the low end of goji's preferred range; a light lime application at planting would benefit establishment",
+      "cultivarNotes": "'Crimson Star' is the most practical recommendation — widely available, proven in the mid-Atlantic, large fruit. 'Big Lifeberry' is an equally strong choice and provides extra cold-hardiness insurance for exposed sites.",
+      "designPlacement": "Best suited to the Section C (south-facing, warm and dry) perimeter where the dry microclimate matches its preferences and the fruit display would be visible from the driveway. A sloped area or raised mound planting is strongly recommended given the red clay drainage constraints. Keep well away from Section B (kitchen strip) where the suckering habit would be impossible to manage in a narrow bed. Not appropriate for Section A (north-facing, cold, 5' height limit) — wrong microclimate and too aggressive for a beauty-first planting. Could also serve as a perimeter hedge or slope stabilizer elsewhere on the property where containment pressure is lower.",
+      "siteObservations": "The active deer pressure from the east corridor is a moderate concern during establishment — protect young plants with fencing or cages for the first 1-2 years until the thorny cane structure develops. Once established, the thorny thicket should deter casual browsing. The compacted red clay is the primary site challenge for this plant — drainage management (mound planting, slope siting, or heavy amendment) is non-negotiable. If sited on the Section C perimeter bank, the natural slope would address drainage while the spreading root system would help stabilize the grade. Sucker management will be an ongoing task — plan to walk the planting perimeter 2-3 times per growing season and remove any suckers or tip-rooted canes escaping the intended area, given the plant's invasive tendencies in the broader Northeast."
+    }
+  }
+}

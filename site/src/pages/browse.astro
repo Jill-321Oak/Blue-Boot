@@ -1,0 +1,233 @@
+---
+import Base from '../layouts/Base.astro';
+import { getAllPlants, getUniqueFamilies, getUniqueLayers, getUniqueRoles } from '../lib/plants';
+
+const plants = getAllPlants();
+const families = getUniqueFamilies();
+const layers = getUniqueLayers();
+const roles = getUniqueRoles();
+
+const layerLabels: Record<string, string> = {
+  canopy: 'Canopy', understory: 'Understory', shrub: 'Shrub',
+  herbaceous: 'Herbaceous', groundCover: 'Ground Cover', vine: 'Vine',
+  root: 'Root', fungal: 'Fungal',
+};
+
+// Pre-serialize plant data for client-side filtering
+const plantData = plants.map(p => ({
+  id: p.id,
+  commonName: p.name.commonName,
+  latinName: p.name.latinName,
+  family: p.name.family,
+  layer: p.permaculture?.layer?.primary ?? '',
+  roles: (p.permaculture?.roles ?? []).map(r => r.replace(/\s*\(.*$/, '').trim()),
+  zone: p.range.zone,
+  height: p.description.height,
+  maintenance: p.maintenance.maintenanceLevel,
+  native: p.range.usNativeStatus?.native ?? false,
+  deer: p.tolerances.deer?.rating ?? '',
+  drought: p.tolerances.drought?.rating ?? '',
+}));
+---
+
+<Base title="Browse Plants — Plant Database">
+
+  <h1>Browse Plants</h1>
+  <p class="subtitle">{plants.length} plants in the database</p>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search by name..." autocomplete="off" />
+    <div class="filters">
+      <select id="filter-family">
+        <option value="">All Families</option>
+        {families.map(f => <option value={f}>{f}</option>)}
+      </select>
+      <select id="filter-layer">
+        <option value="">All Layers</option>
+        {layers.map(l => <option value={l}>{layerLabels[l] ?? l}</option>)}
+      </select>
+      <select id="filter-role">
+        <option value="">All Roles</option>
+        {roles.map(r => <option value={r}>{r}</option>)}
+      </select>
+      <label class="native-toggle">
+        <input type="checkbox" id="filter-native" /> US Native only
+      </label>
+    </div>
+    <p id="result-count" class="result-count"></p>
+  </div>
+
+  <div id="plant-list" class="plant-list">
+    {plants.map(p => (
+      <a href={`/plants/${p.id}`} class="plant-card" data-id={p.id}>
+        <div class="card-header">
+          <span class="common-name">{p.name.commonName[0]}</span>
+          <span class="tag layer">{layerLabels[p.permaculture?.layer?.primary] ?? p.permaculture?.layer?.primary}</span>
+        </div>
+        <span class="latin-name">{p.name.latinName}</span>
+        <div class="card-meta">
+          <span>{p.name.family}</span>
+          {p.range.zone.min != null && <span>Zone {p.range.zone.description}</span>}
+          <span>{p.description.height}</span>
+        </div>
+      </a>
+    ))}
+  </div>
+
+</Base>
+
+<script define:vars={{ plantData }}>
+  const search = document.getElementById('search');
+  const filterFamily = document.getElementById('filter-family');
+  const filterLayer = document.getElementById('filter-layer');
+  const filterRole = document.getElementById('filter-role');
+  const filterNative = document.getElementById('filter-native');
+  const resultCount = document.getElementById('result-count');
+  const cards = document.querySelectorAll('.plant-card');
+
+  function applyFilters() {
+    const query = search.value.toLowerCase();
+    const family = filterFamily.value;
+    const layer = filterLayer.value;
+    const role = filterRole.value;
+    const nativeOnly = filterNative.checked;
+
+    let visible = 0;
+    plantData.forEach((p, i) => {
+      const card = cards[i];
+      const matchesSearch = !query ||
+        p.commonName.some(n => n.toLowerCase().includes(query)) ||
+        p.latinName.toLowerCase().includes(query);
+      const matchesFamily = !family || p.family === family;
+      const matchesLayer = !layer || p.layer === layer;
+      const matchesRole = !role || p.roles.includes(role);
+      const matchesNative = !nativeOnly || p.native;
+
+      const show = matchesSearch && matchesFamily && matchesLayer && matchesRole && matchesNative;
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    resultCount.textContent = `Showing ${visible} of ${plantData.length} plants`;
+  }
+
+  // Apply URL params on load
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('family')) filterFamily.value = params.get('family');
+  if (params.get('layer')) filterLayer.value = params.get('layer');
+  if (params.get('role')) filterRole.value = params.get('role');
+  if (params.get('native')) filterNative.checked = true;
+  if (params.get('q')) search.value = params.get('q');
+
+  search.addEventListener('input', applyFilters);
+  filterFamily.addEventListener('change', applyFilters);
+  filterLayer.addEventListener('change', applyFilters);
+  filterRole.addEventListener('change', applyFilters);
+  filterNative.addEventListener('change', applyFilters);
+
+  applyFilters();
+</script>
+
+<style>
+  .subtitle { color: var(--color-muted); margin-bottom: 1.5rem; }
+
+  .controls {
+    margin-bottom: 1.5rem;
+  }
+
+  #search {
+    width: 100%;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-card-bg);
+    margin-bottom: 0.75rem;
+  }
+  #search:focus { outline: 2px solid var(--color-accent); border-color: transparent; }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  select {
+    padding: 0.4rem 0.6rem;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-card-bg);
+    font-size: 0.9rem;
+  }
+
+  .native-toggle {
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    cursor: pointer;
+  }
+
+  .result-count {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+  }
+
+  .plant-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .plant-card {
+    display: block;
+    padding: 0.75rem 1rem;
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .plant-card:hover {
+    border-color: var(--color-accent);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+  }
+  .common-name { font-weight: 600; font-size: 1rem; }
+  .latin-name { font-style: italic; font-size: 0.85rem; color: var(--color-muted); display: block; margin: 0.15rem 0 0.4rem; }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--color-muted);
+  }
+  .card-meta span::after { content: '·'; margin-left: 0.5rem; }
+  .card-meta span:last-child::after { content: ''; }
+
+  .tag.layer {
+    display: inline-block;
+    padding: 0.15rem 0.45rem;
+    border-radius: 3px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background: var(--color-accent-light);
+    color: var(--color-accent);
+    white-space: nowrap;
+  }
+
+  @media (max-width: 640px) {
+    .plant-list { grid-template-columns: 1fr; }
+    .filters { flex-direction: column; align-items: stretch; }
+    select { width: 100%; }
+  }
+</style>

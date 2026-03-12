@@ -1,0 +1,163 @@
+{
+  "id": "prunus-tenella",
+  "name": {
+    "commonName": [
+      "Russian Almond",
+      "Dwarf Russian Almond"
+    ],
+    "latinName": "Prunus tenella",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Southeastern Europe and central Asia — from the Balkans and southeastern Alps east through Turkey, the Caucasus, and into western Siberia; native to dry rocky slopes, steppes, and open scrubland in continental climates; widely cultivated as an ornamental throughout temperate North America and Europe",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Eurasia as an ornamental; does not naturalize extensively in the US and is not established in wild populations in any region; occasionally persists near old homesteads but does not spread into surrounding landscapes"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — does not naturalize aggressively anywhere in the lower 48 US states; not listed on any state noxious weed list or the federal noxious weed list; the suckering habit stays contained within the planting footprint and does not spread into natural areas; no known invasive populations in any US region"
+    },
+    "zone": {
+      "min": 2,
+      "max": 6,
+      "description": "2-6 (exceptionally cold-hardy; one of the hardiest Prunus species available; native to harsh continental steppe climates with extreme winter cold; performs well across Zones 2-6 but may struggle in Zone 7+ where summer heat and humidity increase disease pressure and reduce vigor)"
+    }
+  },
+  "description": {
+    "height": "2-5'",
+    "spread": "3-6'; low, dense, multi-stemmed shrub spreading by suckers to form a thicket; width often exceeds height at maturity; the suckering habit creates a gradually expanding colony over time",
+    "spacing": "3-4' apart for a continuous low hedge or mass planting; allow 4-5' from other shrubs if planting as a specimen or in a mixed border; be aware the colony will expand over time beyond the initial planting footprint",
+    "growthRate": "Moderate; establishes readily; blooms within 1-2 years of planting; reaches mature height quickly",
+    "timeToMaturity": "Blooms in year 1-2; full ornamental impact from year 3-4 as the colony fills in; fruit is produced but is not a meaningful yield objective — this plant is grown for its bloom and its ecological role, not its fruit",
+    "lifespan": "Long-lived by shrub standards; individual stems within the thicket are renewed naturally by suckering; the colony itself is effectively indefinite with minimal management; individual canes may decline after 10-15 years but the plant self-renews from the base",
+    "deciduousEvergreen": "Deciduous — the bare branches are smothered in bright pink flowers in early spring before any foliage appears; narrow, lance-shaped bright green leaves through summer; modest yellow fall color; fine, twiggy winter silhouette after leaf drop",
+    "winterInterest": "Low to moderate — the fine, densely twiggy branch network has presence in the winter landscape; no ornamental fruit persists; the overall plant is compact and unobtrusive in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred for maximum bloom density; tolerates part shade (4-6 hours direct sun) but flowering is noticeably reduced in shadier conditions; native to open, exposed steppe environments — site in the sunniest available position for best performance; in Zone 7+ and the Deep South, light afternoon shade may reduce heat stress without significantly affecting bloom",
+    "water": "Low; drought-tolerant once established; native to dry continental climates with seasonal drought and lean soils; one of the most drought-resilient small shrubs available; in the humid eastern US, supplemental irrigation is rarely needed after the first season; in arid western climates, occasional deep watering during extended summer drought is beneficial but not essential; do not overwater — consistently moist or poorly drained sites will cause decline",
+    "drainagePreference": {
+      "description": "Well-drained to dry; adapted to dry, rocky, and poor soils; explicitly does not tolerate wet or waterlogged conditions; a dry slope or raised position is ideal; poor drainage leads to root rot, crown rot, and rapid decline — this is the single most important cultural requirement; avoid low spots, seasonal wet areas, and any site where water pools after rain",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — P. tenella can tolerate clay soils if drainage is adequate, but heavy, poorly drained clay is a serious risk factor; the plant's native habitat is rocky and well-drained steppe, and prolonged waterlogging in dense clay will cause root rot; in heavy clay, plant on a slope, berm, or raised mound to ensure water moves away from the root zone; amending the planting area with coarse gravel, expanded shale, or sharp sand improves drainage and survival; avoid planting in flat, unamended heavy clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; broadly adaptable; tolerates slightly acidic to moderately alkaline soils; native soils in its range are often calcareous (limestone-derived) — not troubled by higher pH; performs well across the range of typical US garden soils"
+    },
+    "texturePreference": "Adaptable — performs well in lean, sandy, rocky, or gravelly soils; does not require rich soil and may produce fewer flowers on heavily amended, overly fertile ground; tolerates clay with adequate drainage; this is a plant that thrives on neglect in dry, difficult sites where other shrubs struggle; ideal soil is well-drained and on the lean side",
+    "rootCharacter": "Spreading fibrous root system with the ability to produce suckers from lateral roots; the suckering behavior is what creates the thicket habit over time; not aggressively invasive but does expand gradually; keep aware of proximity to paths, lawn edges, or infrastructure where suckering would be unwanted"
+  },
+  "bloom": {
+    "bloomTime": "Very early spring — one of the earliest flowering shrubs available; blooms on bare wood before leaves emerge; in Zone 6, expect late March to mid-April; in Zone 3-4, bloom may occur in late April to early May; in Zone 5, early to mid-April is typical; bloom timing coincides roughly with forsythia and often precedes most other Prunus species by 1-2 weeks",
+    "bloomDescription": "Masses of small (0.5\"), five-petaled, bright pink to carmine-pink flowers densely covering every branch before a single leaf appears; the color is vivid — not the soft blush of Prunus tomentosa or ornamental cherries, but a saturated hot pink to deep pink; the effect on a mature plant or established colony in full bloom is spectacular and unmistakable in the early spring landscape; few small shrubs offer this intensity of early color; blooms for approximately 2 weeks; the coincidence with very early native bee flights makes this phenologically important beyond its visual appeal",
+    "fragrance": "Lightly fragrant — pleasant, faint almond-honey scent close up on warm days; not strongly perfumed; the fragrance is subtle enough that it is most noticeable when crouching near the plant on a warm afternoon",
+    "flowerSex": "Hermaphrodite (perfect flowers — both male and female parts in each flower)",
+    "pollination": "Self-fertile; a single plant will set fruit without a partner; cross-pollination may improve fruit set marginally but is not a primary consideration since the fruit is not a harvest objective; bees are the primary pollinators — the early bloom is a critical resource for native bees before most other flowers are available"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small, almond-like drupes are produced in summer; the kernels are small and characteristically bitter; P. tenella is not a culinary almond and should not be confused with Prunus dulcis (the culinary almond, which is hardy only to Zone 7-9 and is not suitable for cold-climate gardens); the fruit of P. tenella is not a meaningful food yield and the plant is not grown for this purpose; do not expect an edible almond harvest",
+    "harvestSeason": "Summer (fruit ripens July-August); fruit is ornamentally interesting but not practically harvestable for food use",
+    "medicinalUses": "No significant documented western medicinal use; bark and seeds contain cyanogenic glycosides as with all Prunus species — not used medicinally in a home garden context",
+    "craftOtherYield": "Ornamental cut branches — branches cut when the buds are swelling in late winter can be forced in a vase for early indoor bloom; the dense, twiggy stems are attractive in floral arrangements; the primary yield of this plant is ecological and ornamental rather than material"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit flesh is edible but unpalatable (bitter); seeds (pits) contain amygdalin (cyanogenic glycoside) as with all Prunus species — do not crush and eat pits in quantity; bark and leaves also contain cyanogenic compounds in concentration; no concern for normal garden interaction; standard Prunus caution applies",
+    "toxicityAnimals": "Wilted leaves and seeds contain cyanogenic glycosides toxic to livestock (horses, cattle, sheep) — low practical risk in a managed garden setting but worth noting if grazing animals have access; fruit flesh is safe for birds and wildlife",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer (low shrub — 2-5'; front of shrub layer, hedgerow base, or low bank planting)"
+    },
+    "roles": [
+      "Early Pollinator Support (the most critical ecological role — one of the earliest blooming shrubs available, providing nectar and pollen at a time of near-total floral scarcity in the spring landscape; specifically valuable for native bumblebee queens emerging from hibernation in late March and early April)",
+      "Thicket and Cover (the suckering colony creates dense low cover for ground-nesting birds and small mammals)",
+      "Bank Stabilization (spreading root system and suckering habit make it excellent on dry slopes and banks where erosion control is needed)",
+      "Ornamental-Edible Border (spectacular early bloom gives it a front-row position in any food forest or permaculture border)",
+      "Hedgerow Structure (as a low-growing thicket-forming shrub, it is useful as the low layer of a mixed hedgerow or food forest perimeter planting)"
+    ],
+    "companionPlants": [
+      "Symphytum officinale (comfrey — dynamic accumulator as ground cover companion; mulch the base)",
+      "Allium species (chives, garlic, wild garlic — good understory companions)",
+      "Trifolium repens (white clover — nitrogen-fixing ground cover that supports the same early pollinators)",
+      "Forsythia (blooms at same time — the contrast of bright yellow forsythia against bright pink P. tenella is a classic early spring combination)",
+      "Prunus tomentosa (Nanking Cherry — slightly later bloom, similar ecological function, extends the early-season pollinator resource window)",
+      "Amelanchier species (serviceberry — follows P. tenella in the bloom and fruiting sequence; together they create an excellent early-season sequence from first bloom through first fruit)",
+      "Sambucus canadensis (elderberry — succeeds P. tenella in the seasonal succession; good hedgerow companion)"
+    ],
+    "antagonists": [
+      "Do not plant near Juglans nigra (black walnut) — Prunus species are sensitive to juglone toxicity. Brown rot (Monilinia) is the primary stone fruit fungal disease in humid climates — P. tenella is low risk given its small fruit",
+      "limited harvest use",
+      "and dry-site adaptation",
+      "but maintain good air circulation within the thicket. Cedar-apple rust (Gymnosporangium juniperi-virginianae) primarily affects pome fruits (apples, pears) in the Rosaceae family; P. tenella as a stone fruit is not a primary host",
+      "but eastern red cedars (Juniperus virginiana) should be noted in any site assessment as a concern for other Rosaceae plantings nearby."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Native bees — the bloom is critically timed for native bumblebee queens (Bombus spp.) emerging from hibernation in early spring; at this time few other flowers are available and P. tenella provides a concentrated early nectar and pollen source that directly supports queen survival and colony establishment; honey bees also visit; early spring butterflies (Mourning Cloak, Eastern Comma, and regional equivalents) when active during warm spells; the dense thicket provides important year-round cover for small birds and mammals",
+    "hostPlantFor": "Multiple native Lepidoptera use Prunus species as larval hosts — Eastern Tiger Swallowtail (Papilio glaucus), Coral Hairstreak (Satyrium titus), Viceroy (Limenitis archippus), and numerous moth species including Cecropia (Hyalophora cecropia) and Promethea (Callosamia promethea) use Prunus; as an introduced Eurasian species P. tenella offers some (though not equivalent) host plant value relative to native Prunus; for maximum native Lepidoptera support, pair with native Prunus species appropriate to your region (P. americana, P. serotina, P. virginiana, or P. angustifolia depending on location)",
+    "nestingHabitat": "Good — the dense, low, multi-stemmed thicket is ideal cover and nesting habitat for shrubland birds (Song Sparrow, Gray Catbird, Yellow Warbler) and small mammals; ground-level density is especially valuable for species that nest low in vegetation; the combination of very early bloom (pollinator support) and dense thicket structure (nesting cover) makes this plant a high-value wildlife planting for its size"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — not a preferred browse plant; the dense, twiggy suckering thicket means browsing impact is distributed across many stems and the plant recovers readily; deer typically avoid well-established colonies; protect young plants in the first 1-2 growing seasons before the thicket has developed, using cages or temporary fencing; once established, the low height means plants are within reach but are generally passed over in favor of more palatable species"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Not documented as salt-tolerant; avoid locations with regular road salt exposure or maritime salt spray; incidental exposure is unlikely to cause serious damage but chronic salt contact should be avoided"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant small shrubs available; native to dry, rocky steppe environments with seasonal drought; thrives on dry slopes and in lean soils where other shrubs fail; established plants require no supplemental irrigation in humid climates; in arid western climates, occasional deep watering during extreme summer drought is beneficial; drought tolerance is one of this plant's strongest practical virtues"
+    },
+    "other": "Exceptional cold hardiness (Zone 2) — among the hardiest of all Prunus species; the very early bloom does occur while late frosts remain possible, but P. tenella is notably resilient — while a hard freeze at full bloom can damage flowers and reduce ornamental impact for that season, the plant itself is not harmed and will bloom normally the following year; tolerates poor, rocky, and alkaline soils; tolerates lean and disturbed soils; very low overall disease and pest pressure in appropriate (dry, well-drained) conditions; less suited to high heat and humidity — performance may decline in Zone 7+ summers"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the most undemanding small shrubs available; drought-tolerant, cold-hardy, disease-resistant, and self-renewing through suckering; the primary maintenance task is containing the spreading colony if it is encroaching on adjacent plantings",
+    "pruningNotes": "Annual light pruning in late winter (before bloom) to remove any dead or damaged stems. Every 3-5 years, thin the oldest and most congested canes at ground level to maintain airflow and encourage fresh productive growth from the base — the plant blooms best on younger wood. To limit colony spread, remove unwanted suckers at ground level in spring as they emerge; this is straightforward since suckers are small and shallow-rooted. Avoid heavy pruning immediately before or during bloom. If a colony has become severely overgrown, cut the entire planting back to 6-12\" in late winter — it will regenerate vigorously.",
+    "propagationMethods": [
+      "Suckers (the easiest and most reliable method — simply dig rooted suckers from the colony edge in early spring or fall and transplant directly); seed (cold stratification required — 90-120 days at 34-40°F; direct sow outdoors in fall for natural cold stratification; germination the following spring); softwood cuttings (June); hardwood cuttings (late fall to winter); named cultivars ('Fire Hill', etc.) are typically propagated by budding or grafting at the nursery and sold as container-grown plants"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are available and worth seeking out for maximum ornamental impact. 'Fire Hill' is the most widely available and most ornamentally outstanding cultivar — it produces brilliant carmine-red to deep magenta-pink flowers that are even more vivid than the straight species; excellent compact form; considered the standard of excellence for this species and is the cultivar to source if available. 'Alba' produces white flowers — less commonly available and less visually striking than the pink-flowered forms, but interesting for a white-themed planting. The straight species (seed-grown) is also excellent and entirely appropriate — it is reliably ornamental and more genetically diverse. Zone 3-5 (northern tier): 'Fire Hill' and the straight species both perform exceptionally well; cold hardiness is not a differentiator among cultivars since the species itself is hardy to Zone 2; choose based on desired flower color intensity. Zone 6-7 (mid-latitude): 'Fire Hill' remains the top recommendation for bloom intensity; the straight species is equally reliable; both perform at their ornamental peak in this zone range. Zone 8+ (southern tier): P. tenella is not well suited to hot, humid summers; gardeners in Zone 8 and warmer should consider alternative early-blooming shrubs better adapted to heat (Prunus mume, for example). Note that P. tenella cultivars are sometimes confused in nursery trade with Prunus glandulosa (Dwarf Flowering Almond) — verify Latin names before purchasing; P. glandulosa is a different species with double flowers, less early-blooming, and less ecologically significant for early pollinators.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest perimeter or low shrub layer",
+      "dry slope stabilization and bank cover",
+      "low informal hedge or hedgerow base layer",
+      "early pollinator garden",
+      "ornamental shrub border (front of border)",
+      "wildlife garden"
+    ],
+    "designPlacement": "P. tenella is one of the highest-value early-pollinator plants available and belongs in any food forest planting where supporting native bees in early spring is a priority. Its low stature (2-5') and thicket-forming habit make it ideal at the front of a shrub layer, along the sunny edge of a food forest, or on a dry south-facing bank. Site in the sunniest available position with excellent drainage — a south- or west-facing slope is ideal in most climates. The 2-5' mature height makes it compatible with low hedgerow plantings and height-restricted zones. Pair with Forsythia for a classic early-spring color combination, and follow with Prunus tomentosa (Nanking Cherry) to extend the Prunus bloom and early-fruit sequence. Avoid siting in low, wet areas, shaded positions, or rich bottomland soils — performance will be poor in all three conditions. The suckering habit should be factored into placement: allow a buffer zone of 1-2' from hardscape edges, paths, and lawn areas to simplify sucker management.",
+    "acquisitionStatus": "To source (specialty nursery or online; 'Fire Hill' cultivar preferred; straight species is acceptable alternative; bare-root or container in early spring)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_tenella",
+    "inaturalist": "https://www.inaturalist.org/taxa/543500-Prunus-tenella",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — P. tenella is native to Eurasia; not a Pennsylvania or eastern North American native; no wild populations in the state",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — not a concern",
+      "drainage": "The compacted red clay at the Hegins site is workable for P. tenella but requires attention to drainage; plant on a slope or raised mound rather than flat ground; amend the planting hole generously with coarse gravel or expanded shale to break up clay compaction; a south-facing slope or bank position where water drains away naturally is ideal; do not plant in any low spot where water collects after rain; raised beds are not necessary if a sloped or elevated in-ground position is available",
+      "soil": "The red clay at the Hegins site should be amended with coarse mineral material (gravel, expanded shale) rather than organic matter alone; organic amendments in clay can create a bathtub effect that worsens drainage; the slightly acidic pH typical of Pennsylvania clay soils (5.5-6.5) is within the plant's acceptable range but on the low end — a light lime application at planting would be beneficial if soil tests below 6.0",
+      "cultivarNotes": "'Fire Hill' is the first-choice cultivar recommendation; if unavailable, the straight species is a fully satisfactory alternative; bloom timing at this latitude is typically late March to mid-April.",
+      "designPlacement": "Well suited for a dry slope, the sunny perimeter of the apple or paw paw guilds, or as the low-layer anchor of a mixed hedgerow along the property boundary. Section C (south-facing, warm and dry, fragrance focus, highly visible from SE driveway) is a particularly strong match — the spectacular early bloom would be highly visible from the driveway approach, the dry and warm microclimate suits the plant's preferences perfectly, and the 5' height limit is not a concern. Also suitable as a low dense hedge along Section A (north-facing, purple/pink/yellow palette) if given adequate sun, though the slightly shadier north-facing aspect is less ideal for maximum bloom density. The pink bloom fits Section A's color palette well.",
+      "siteObservations": "The compacted red clay and drainage issues at the Hegins site are the primary concern for this species — P. tenella demands good drainage above all else; any in-ground planting must be on a slope, berm, or raised mound rather than flat clay ground. Deer pressure from the east wildlife corridor is a moderate concern for young plants only — protect with cages in year 1-2; established colonies are generally deer-resistant due to the dense twiggy structure and low palatability. The very early bloom (late March to mid-April in Zone 6a) occurs while late frosts remain possible in the Hegins microclimate — a hard freeze at full bloom may reduce ornamental display for that season but will not harm the plant. Brown rot (Monilinia) risk is present in humid Pennsylvania summers but is low for P. tenella given its dry-site adaptation and non-harvest fruit; maintain good air circulation within the thicket by thinning congested canes every 3-5 years."
+    }
+  }
+}

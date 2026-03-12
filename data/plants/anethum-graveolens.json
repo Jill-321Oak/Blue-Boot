@@ -1,0 +1,155 @@
+{
+  "id": "anethum-graveolens",
+  "name": {
+    "commonName": [
+      "Dill"
+    ],
+    "latinName": "Anethum graveolens",
+    "family": "Apiaceae"
+  },
+  "range": {
+    "nativeRange": "Southwest Asia (India, Pakistan, Iran); widely cultivated and naturalized globally for thousands of years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; Mediterranean/Southwest Asian origin; widely cultivated; naturalized in disturbed areas across much of the US but not aggressively"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; self-seeds readily but is not a regulated species anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 as an annual; self-sowing in most zones"
+    }
+  },
+  "description": {
+    "height": "3-5' (tall forms); 18-24\" (compact dwarf forms); tall, feathery, and airy",
+    "spread": "12-18\" per plant; self-seeds to form a small colony",
+    "spacing": "12-18\"",
+    "growthRate": "Fast annual; mature in 60-90 days from seed",
+    "timeToMaturity": "Foliage harvestable at 40 days; flowers and seeds in 60-90 days",
+    "lifespan": "Annual; self-seeds to maintain colony year after year in a permanent location",
+    "deciduousEvergreen": "Annual — dies with frost; leaves before frost when seeds ripen",
+    "winterInterest": "None — dies completely"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade (3-4 hours) though stem elongation increases in shade",
+    "water": "Low to medium; drought tolerant once established; excessive watering promotes disease",
+    "drainagePreference": {
+      "description": "Well-drained; average garden soil; does not perform in waterlogged conditions",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; dill's taproot doesn't develop well in compacted clay; clay drainage improvement with compost helps; raised beds produce better results; tolerates clay better than many herbs if drainage is adequate"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.8,
+      "max": 7,
+      "description": "5.8-7.0"
+    },
+    "texturePreference": "Average to well-drained loam; does not require rich soil",
+    "rootCharacter": "Single taproot — does not transplant well after germination; direct sow in place"
+  },
+  "bloom": {
+    "bloomTime": "June-August depending on sowing time; succession-sow every 3-4 weeks for continuous harvest",
+    "bloomDescription": "Flat compound umbels 4-8\" wide; tiny yellow-green flowers; typical Apiaceae structure; the flat open flowers are immediately recognizable; covered with beneficial insects throughout bloom",
+    "fragrance": "Strongly aromatic throughout — the classic dill scent from foliage (dill weed) and seeds (dill seed — slightly different, more concentrated aromatic profile)",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding insectary plant — the flat open Apiaceae flower structure is accessible to the widest range of beneficial insects; parasitic wasps and hoverflies (key pest predators) work dill flowers intensively; consistently ranks among the top five insectary annuals for the food garden"
+  },
+  "yield": {
+    "edibleParts": "Foliage (\"dill weed\" — use fresh in salads, cucumber pickles, potato dishes, sauces, fish; the essential herb for dill pickles); seeds (dried — more concentrated dill flavor; used in pickles, bread, and spice blends); flowers (edible as garnish)",
+    "harvestSeason": "Foliage from early in the season; harvest before flowering for best leaf flavor; seeds when the seed heads turn brown; dry both immediately",
+    "medicinalUses": "Traditional digestive herb — relieves gas, bloating, and digestive cramps; mild antispasmodic; \"gripe water\" for infant colic traditionally contains dill; mild antibacterial properties; used in traditional European and Asian medicine for digestive complaints",
+    "craftOtherYield": "Dried dill weed; dried dill seed (excellent spice); dill flower heads for pickling"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe culinary and medicinal herb; CAUTION: contains furanocoumarins (as do most Apiaceae); skin contact with the sap followed by sun exposure may cause phototoxic burns in sensitive individuals — a minor concern in normal culinary use",
+    "toxicityAnimals": "Generally safe; small amounts safe for dogs and cats; large quantities may cause mild GI upset",
+    "allelopathy": "Dill has documented allelopathic effects on some plants — specifically, do not plant dill adjacent to fennel (they cross-pollinate, producing plants with inferior flavor of both) or carrot family plants (competitive interactions); do not plant near tomatoes once dill begins to flower (the mature plant inhibits tomatoes slightly); young dill plants are beneficial companions for tomatoes",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (annual)"
+    },
+    "roles": [
+      "Food (culinary herb — indispensable for pickles and fresh herb use)",
+      "Insectary Plant (primary — one of the top annual insectary plants for beneficial pest predators)",
+      "Host Plant (for black swallowtail butterfly — a bonus wildlife contribution)",
+      "Pest Confuser (aromatic foliage deters some pest insects)",
+      "Dynamic Accumulator (minor)"
+    ],
+    "companionPlants": [
+      "Apple tree guild understory (self-seeding dill colony in the apple guild is a classic insectary planting); cucumbers (the classic dill-cucumber companion for pickling); brassicas (dill attracts wasps that parasitize cabbage worms); tomatoes (beneficial when young; avoid proximity after dill bolts)"
+    ],
+    "antagonists": [
+      "Fennel (never plant dill near fennel — they cross-pollinate, ruining both; keep 20+ feet apart); mature dill near tomatoes (mild inhibition)"
+    ],
+    "coppiceable": "Harvest outer stems as needed; the plant naturally terminates in flowering — allow one or two plants to go to seed for the self-seeding colony; the plant self-replaces"
+  },
+  "wildlife": {
+    "attracts": "Parasitic wasps (Braconidae, Ichneumonidae — key predators of aphids, caterpillars, and other pests), hoverflies (predator larvae eat aphids), lacewings, ground beetles; exceptional beneficial insect attractor",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) — the caterpillars are beautiful green, black, and yellow striped insects that feed on Apiaceae; dill is one of their primary food plants along with parsley, fennel, and carrot; finding swallowtail caterpillars on dill is a pleasure, not a pest problem — leave them and enjoy the butterflies",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic; not a browse target"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — tap-rooted; tolerates dry conditions after establishment"
+    },
+    "other": "Bolts (goes to seed) quickly in hot weather or drought; sow in succession to maintain foliage harvest; the bolt is actually desirable for insectary and host plant functions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — minimal management needed",
+    "pruningNotes": "Direct sow where the self-seeding colony is intended; thin to 12-18\" spacing after germination. Harvest outer leaves as needed. Allow 1-2 plants to go to seed for the next year's colony. Remove dead plants after seed set. No other management needed — dill self-manages in a stable location.",
+    "propagationMethods": [
+      "Seed (direct sow; does not transplant well after germination; sow succession plantings every 3-4 weeks from April through July for continuous harvest)"
+    ]
+  },
+  "cultivarNotes": "Several named cultivars exist: **'Bouquet'** (standard tall dill, 3-4', the classic garden form); **'Fernleaf'** (dwarf, 18\", slow to bolt — best for limited space or container; AAS award winner); **'Mammoth'** (very tall, 4-5', large seed heads — best for pickling); **'Dukat'** (slow-bolting, high leaf production — best for fresh herb harvest). For the apple guild insectary function, 'Bouquet' or 'Mammoth' (tall forms) are best — more flowers, more insectary value. For kitchen herb use, 'Fernleaf' is convenient for a small space.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual herb garden",
+      "insectary planting",
+      "food forest understory",
+      "companion plant throughout the vegetable garden"
+    ],
+    "designPlacement": "Universal — vegetable garden, herb garden, companion plant, apple guild insectary",
+    "acquisitionStatus": "To source (inexpensive annual; direct-sow from seed)\nPennsylvania — Hegins Site Observations:\n- None recorded yet"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dill",
+    "inaturalist": "https://www.inaturalist.org/taxa/75445-Anethum-graveolens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d682"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins: raised beds preferred; in-ground with compost amendment is workable",
+      "soil": "Raised beds preferred; compost-amended clay is acceptable",
+      "cultivarNotes": "Best dill cultivars for Zone 6a — 'Bouquet' for general use, 'Fernleaf' for containers; succession sow for continuous harvest",
+      "designPlacement": "Apple guild companion role; Section B herb strip; raised bed",
+      "siteObservations": null
+    }
+  }
+}

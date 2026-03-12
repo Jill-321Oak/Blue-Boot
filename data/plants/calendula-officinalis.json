@@ -1,0 +1,162 @@
+{
+  "id": "calendula-officinalis",
+  "name": {
+    "commonName": [
+      "Calendula",
+      "Pot Marigold (not to be confused with Tagetes marigolds",
+      "which are unrelated)"
+    ],
+    "latinName": "Calendula officinalis",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region (southern Europe, northern Africa); cultivated globally for thousands of years; one of the oldest cultivated ornamentals and medicinal herbs",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced and occasionally naturalized in disturbed areas across the US"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in the lower 48 states; self-seeds freely but does not spread aggressively beyond cultivated areas; not listed by any US state as a noxious weed or invasive species"
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "Annual in most zones; self-sows to maintain a colony in Zones 5-8; may overwinter as a biennial in Zone 9-10; short-lived perennial in Zone 11"
+    }
+  },
+  "description": {
+    "height": "12-24\" (depending on cultivar)",
+    "spread": "12-18\" per plant; self-seeds to form a colony",
+    "spacing": "12-15\" for full coverage",
+    "growthRate": "Fast annual; blooms in 50-70 days from seed",
+    "timeToMaturity": "First blooms 50-70 days from direct sow; essentially continuous from then until hard frost",
+    "lifespan": "Annual; self-sows to maintain a permanent colony with minimal management in appropriate conditions",
+    "deciduousEvergreen": "Annual — frost-killed; self-sows for the next year",
+    "winterInterest": "None; frost-killed; may self-sow seeds visible on the soil surface"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade (3-4 hours sun) while still blooming, though less prolifically; somewhat unusual for an Asteraceae in its shade tolerance",
+    "water": "Low to medium; drought tolerant once established; actually blooms better in slightly lean, dry conditions than in rich, moist soil",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates lean conditions; performs in a range of soil types",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates moderately heavy clay if not waterlogged; in compacted clay, blooms may be reduced and powdery mildew risk increases — raised beds or amended soil improves performance significantly"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; average to well-drained soil; lean soil often produces more blooms than rich amended soil; performs in sandy loam, loam, and moderately heavy soils",
+    "rootCharacter": "Fibrous annual root system; taprooted; does not transplant well after germination — direct sow in place"
+  },
+  "bloom": {
+    "bloomTime": "Spring through fall frost — one of the longest-blooming annuals available; in Zone 6 typically blooms May through November with regular deadheading; in Zone 8-9 may bloom nearly year-round with a pause in peak midsummer heat; in Zone 4-5 blooms from June until first hard frost",
+    "bloomDescription": "Daisy-like flowers 2-3\" wide in shades of orange, yellow, gold, and apricot; the typical calendar marigold orange is the most common; single and double forms available; the flowers close at night and on cloudy days — a charming characteristic",
+    "fragrance": "Foliage strongly resinous-aromatic; flowers mildly fragrant; the whole plant has a distinctive sticky, resinous scent",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant — bees, hoverflies, butterflies, and beneficial insects work calendula intensively throughout its very long bloom season; one of the best annual pollinator plants per unit time (season-long bloom)"
+  },
+  "yield": {
+    "edibleParts": "Petals (edible — used as a saffron substitute for color in soups, rice, and baked goods; mild, slightly bitter flavor; the orange color is striking and useful as a natural food colorant); young leaves (edible in salads — bitter)",
+    "harvestSeason": "Flowers throughout the growing season; harvest fully open flowers in the morning; dry on screens immediately",
+    "medicinalUses": "One of the most important topical medicinal herbs — calendula oil and salve are the first treatments for skin irritation, minor wounds, burns, eczema, chapped skin, and diaper rash; well-documented anti-inflammatory and wound-healing properties (flavonoids, triterpenoids, polysaccharides); calendula tea used for digestive inflammation and menstrual cramps; one of the top 10 most practical medicinal herbs for a home apothecary; commercially available in many pharmaceutical and cosmetic products",
+    "craftOtherYield": "Dried flowers for arrangements (retain color); infused oil (foundational preparation for medicinal salves and cosmetics); natural fabric dye (golden-yellow); dried petals as saffron substitute"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and widely used medicinally; caution for Asteraceae allergies; patch-test before extensive topical use",
+    "toxicityAnimals": "Generally safe; skin contact may cause mild irritation in sensitive animals",
+    "allelopathy": "Calendula root exudates are documented to deter nematodes and some soilborne pathogens (particularly Fusarium and nematodes); this is a positive companion planting effect — a natural biofumigant in the root zone",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (annual)"
+    },
+    "roles": [
+      "Food (petals as culinary colorant and garnish)",
+      "Medicinal (topical wound healing — one of the most practically useful medicinal herbs in the home apothecary)",
+      "Insect Attractor (excellent, season-long)",
+      "Pest Confuser (resinous aromatic foliage and root exudates deter pests and nematodes)",
+      "Ground Cover (dense planting fills ground spaces)",
+      "Beauty (outstanding continuous color)"
+    ],
+    "companionPlants": [
+      "Tomatoes (classic companion — root exudates deter tomato root nematodes)",
+      "vegetables and herbs throughout the food garden; excellent throughout guild edges and annual ground layers; pairs well with any plant that benefits from nematode suppression and season-long insectary support"
+    ],
+    "antagonists": [
+      "Fennel (controversial — some sources suggest mild incompatibility); do not overcrowd in high-humidity conditions (prone to powdery mildew when airflow is poor)"
+    ],
+    "coppiceable": "Deadhead consistently — remove spent flowers before seed set to maintain continuous bloom; if left to set seed, the plant focuses on seed production and bloom production decreases; allow a few plants to self-seed for next year's colony"
+  },
+  "wildlife": {
+    "attracts": "Bees (excellent, season-long), hoverflies (important predator of aphids — their larvae are voracious aphid consumers), beneficial wasps, butterflies; the long bloom season makes calendula one of the most consistently valuable pollinator plants across the entire gardening season",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera",
+    "nestingHabitat": "None significant; the dense mats of self-seeded plants provide some ground cover for invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strong resinous fragrance generally deters deer browsing; not a primary browse target across most of the lower 48; may be sampled under high deer pressure when preferred forage is scarce"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — tolerates lean, dry conditions; actually blooms better in slightly lean soil; suitable for low-water gardens across the lower 48"
+    },
+    "other": "Tolerates light frost (cold-hardy annual); actually prefers cool weather (blooms best in spring and fall rather than midsummer heat — may pause or decline in Zones 7-9 during peak summer heat before rebounding in fall); self-sows reliably to establish a permanent self-renewing colony across a wide range of climates"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Deadhead consistently for maximum bloom — remove spent flower heads before they set seed; a few minutes of deadheading per week maintains flowering through the season; allow the final flush of fall flowers to set seed for next year's colony; the seeds germinate readily in spring and the colony self-perpetuates; in lean soil, no fertilization needed",
+    "propagationMethods": [
+      "Seed (direct sow in place in early spring, as soon as soil can be worked; tolerates frost; germinates in cool soil; does not transplant well after germination; self-sows reliably from established plantings; in Zones 8-9, fall sowing for winter/spring bloom is also effective)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars vary primarily in flower size and doubling. **'Pacific Beauty'** (mixed colors — orange, yellow, apricot; widely available, reliable, good for drying; suitable across the lower 48 as a workhorse annual). **'Indian Prince'** (deep orange with purple undersides — striking; best single-color selection for bold orange-themed plantings). **'Flashback'** (pastel mixed colors — pale apricot, cream, pink-tinged; lower contrast, softer look). **'Touch of Red'** (red-tipped petals — interesting accent). **'Radio'** (quilled petals — unusual form, good for cut flowers). For hot-summer climates (Zones 7-9), look for heat-tolerant strains; standard cultivars may go dormant mid-summer in the South and Gulf Coast but rebound in fall. In cold climates (Zones 4-5), direct sow as early as possible in spring — the cool germination requirement is an advantage. Across the lower 48, 'Pacific Beauty' is the safest all-regions selection; 'Indian Prince' performs reliably wherever calendula grows well.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual herb garden",
+      "food forest ground layer",
+      "kitchen garden",
+      "cut flower garden",
+      "pollinator garden",
+      "medicinal herb border",
+      "companion throughout vegetable beds"
+    ],
+    "designPlacement": "Versatile annual suitable as guild ground layer, kitchen garden edging, or pollinator border filler across all lower 48 climates. Performs best at guild and bed edges where self-seeding can be managed; the continuous season-long bloom contributes insectary value anywhere it is placed; medicinal harvest is practical from any accessible planting. In food forest systems, use as the annual ground cover layer at guild edges. In ornamental settings, pair with bold perennials as a long-blooming filler.",
+    "acquisitionStatus": "To source (inexpensive annual from seed)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Calendula_officinalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/75931-Calendula-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a566\nPennsylvania — Hegins Site Observations:\n- Annual self-seeding colony in red clay soil possible at bed edges and disturbed areas, though germination is more reliable in amended or raised bed soil\n- Deer pressure in Hegins is active; resinous foliage provides meaningful deterrence — calendula is low-priority browse compared to many other annuals\n- Humidity in the humid continental climate increases powdery mildew risk in dense plantings; maintain airflow by not overcrowding; lean soil reduces lush growth that is most susceptible\n- Blooms best in the cool springs and falls of Zone 6a; may slow in peak July-August heat but typically does not stop entirely; the long PA growing season is well-matched to calendula's bloom habit\n- Self-sowing colony management: allow the last flush of fall flowers to set seed, then leave seed heads in place; seeds overwinter in the soil and germinate in early spring with no intervention needed"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "In Hegins red clay, direct sowing into raised beds or amended soil edges is preferred; in compacted native clay, germination and vigor are reduced; self-seeding is more reliable in looser disturbed soil at bed edges",
+      "soil": "Red clay in Hegins benefits from at least a surface layer of compost or wood chip mulch to allow self-seeded germination; direct sow works reliably at bed edges and disturbed soil areas where clay has been loosened",
+      "cultivarNotes": "Standard cultivars perform excellently in Hegins conditions. Direct sow in early April (soil workable but still cool) for first bloom by late May-June; allow fall-setting seeds for a self-sustaining colony. 'Pacific Beauty' and 'Indian Prince' are both well-suited to the Zone 6a season length and the cool spring/fall periods when calendula blooms most prolifically.",
+      "designPlacement": "Mulberry guild annual ground layer and kitchen herb strip (Section B). Self-seeding calendula colony in the mulberry guild provides season-long insectary value (bees, hoverflies, beneficial wasps); medicinal harvest is highly practical from the guild area; the orange/yellow flowers complement the mulberry fruit color palette; root exudates contribute to soil health in the guild. Also suitable along south-facing bed edges (Section C) for visual color and medicinal access.",
+      "siteObservations": null
+    }
+  }
+}

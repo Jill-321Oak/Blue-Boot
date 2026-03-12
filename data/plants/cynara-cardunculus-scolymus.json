@@ -1,0 +1,160 @@
+{
+  "id": "cynara-cardunculus-scolymus",
+  "name": {
+    "commonName": [
+      "Globe Artichoke"
+    ],
+    "latinName": "Cynara cardunculus var. scolymus",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean basin — southwestern Europe and North Africa; cultivated and naturalized widely in warm-temperate regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; an Old World cultigen with no North American wild origin"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Low risk across the lower 48 — a warm-temperate Mediterranean plant that rarely naturalizes outside frost-free or near-frost-free climates; may persist and spread in Zones 9-11 (coastal California, Gulf Coast, parts of the Southwest) where frost does not reliably kill the crown; naturalized populations of the wild cardoon (Cynara cardunculus) are considered invasive in California — the cultivated scolymus form is less aggressive but is taxonomically the same species\nPennsylvania: Not invasive in Pennsylvania — frost reliably prevents naturalization; no PA invasive listing\nNative to Site: No"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": null
+    }
+  },
+  "description": {
+    "height": "4-6' in full growth; flower stalks may reach 6+ ft if buds are left to bloom",
+    "spread": "4-6'; large clump-forming rosette — a truly massive architectural plant",
+    "spacing": "4-6 ft apart; give full space — this plant will use it",
+    "growthRate": "Fast once established; dramatic size increase from mid-spring through summer",
+    "timeToMaturity": "First-year plants from transplants may produce a small harvest by late summer; full production in year 2 if the plant survives winter; 'Imperial Star' produces from seed in year 1 without vernalization",
+    "lifespan": "Perennial in Zones 7+; effectively annual or short-lived tender perennial in Zone 6 and colder depending on winter severity and siting; plants that survive several winters may persist 5-10 years",
+    "deciduousEvergreen": "Herbaceous — dies back to the crown in cold-winter climates; in mild-winter zones may retain foliage year-round; large silver-grey basal rosette of deeply lobed leaves persists into fall in colder zones",
+    "winterInterest": "None after frost in cold climates; the dramatic silvery foliage provides striking presence through autumn until hard freezes"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6-8+ hours required; will not produce well in shade; a non-negotiable requirement",
+    "water": "Moderate to moderately high; consistent moisture encourages the largest, most tender buds; prefers even soil moisture but cannot tolerate waterlogged roots; drought-stressed plants produce small, tough buds",
+    "drainagePreference": {
+      "description": "Well-drained to moderately moist; excellent drainage is critical — crown rot in wet or poorly-drained soil is the primary cause of winter loss in cold climates; the crown must not sit in standing water at any time of year",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Will grow in amended clay if drainage is corrected through raised bed construction, grit incorporation, or raised planting position; heavy unamended clay is likely to cause crown rot, particularly through wet winters or wet spring periods; raised beds are strongly recommended wherever clay is the native soil type"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates near-neutral to slightly alkaline conditions"
+    },
+    "texturePreference": "Rich, deep, well-worked loam preferred; amended soils perform well; heavy unamended clay is likely to cause crown rot",
+    "rootCharacter": "Deep, fibrous, fleshy root system forming a crown; roots can be substantial after two seasons; division of the crown is the primary propagation method; roots resent transplanting once established"
+  },
+  "bloom": {
+    "bloomTime": "Late June-August if buds are not harvested; second-year plants bloom earlier than first-year plants",
+    "bloomDescription": "Large, spectacular thistle flower heads, 4-6\" across, emerging from unharvested bud scales; vivid violet-purple, with a classic thistle form — one of the most dramatic flowers in the summer garden; the same heads that are eaten as vegetables become stunning ornamental flowers if left to open",
+    "fragrance": "Mildly sweet; not strongly fragrant but pleasant up close",
+    "flowerSex": "Hermaphrodite; individual florets are bisexual; all florets within each head are fertile",
+    "pollination": "Insect-pollinated — bees (especially bumblebees and honeybees) work the open flower heads intensively; an excellent late-summer pollinator resource; self-fertile"
+  },
+  "yield": {
+    "edibleParts": "Immature flower buds (the \"artichoke\" — the fleshy bract bases and the heart/receptacle are the edible portions); harvest before bracts open, when buds are still tight; secondary smaller buds (chokes) develop on side shoots after the primary bud is harvested; young blanched leaf stalks are edible (the cardoon use); roots have historically been used",
+    "harvestSeason": "Late June through August (buds); primary bud first, then secondary side-shoot buds through summer; in short-season climates (Zones 5-6), harvest may be concentrated in a shorter window",
+    "medicinalUses": "Cynarin (a phenolic compound found in the leaves) is well-documented to stimulate bile production, support liver function, and improve digestion; leaf extracts are used commercially in liver-support supplements; the leaves (bitter, not the edible bud) are used medicinally; a significant medicinal herb in European traditional medicine; antioxidant-rich",
+    "craftOtherYield": "Dried flower heads — the open thistle flowers are striking in dried arrangements; natural dye plant (yellow from flower heads); the silvery architectural foliage itself is a significant ornamental contribution"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; a food plant; the leaf extract is used medicinally and considered safe at normal doses",
+    "toxicityAnimals": "Generally considered non-toxic to dogs and cats; may cause mild gastrointestinal upset in large quantities; not a significant concern",
+    "allelopathy": "Not documented; no known allelopathic effects",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herbaceous layer; very large — occupies a full \"shrub-like\" footprint in the herbaceous layer despite being non-woody"
+    },
+    "roles": [
+      "Food (primary — edible flower buds)",
+      "Medicinal (cynarin in leaves; liver/digestive herb)",
+      "Insect Attractor (exceptional if allowed to flower — one of the highest-value late-summer pollinator plants)",
+      "Architectural / Beauty (massive silver-grey foliage — strong visual anchor)",
+      "Dynamic Accumulator (deep roots access subsoil nutrients; large biomass returns to soil)",
+      "Wildlife Habitat (seed heads visited by goldfinches)"
+    ],
+    "companionPlants": [
+      "Broad beans (nitrogen fixers; traditional companion in Mediterranean gardens); fennel (shares Mediterranean sun/drainage preferences — though keep fennel away from most vegetables); tarragon; borage (attracts pollinators, repels pests); nasturtium (ground cover, pest management); peas; garlic (planted at base as pest deterrent)"
+    ],
+    "antagonists": [
+      "Avoid planting near true fennel (Foeniculum vulgare) which can inhibit many vegetables",
+      "including artichoke",
+      "in close proximity; waterlogged companions that require constant moisture are unsuitable in the same raised bed"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional when in flower — bumblebees especially work the open thistle heads intensively), honeybees, native bees, butterflies, beneficial wasps; goldfinches and other seed-eating birds visit seed heads after bloom",
+    "hostPlantFor": "Not a significant host plant for North American native Lepidoptera; a European plant with few established native insect associations in the US",
+    "nestingHabitat": "Large hollow stems may provide some overwintering habitat for cavity-nesting insects if left standing; seed heads provide winter food for finches"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate resistance — spiny bracts deter casual browsing; deer may still eat young growth and soft new leaves in early spring when other food is scarce; not reliably deer-proof under high pressure"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low tolerance; avoid road salt exposure; not suited for roadside planting"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — needs consistent moisture for good bud production; established plants have some drought tolerance but quality and yield decline significantly under stress; not a drought-tolerant plant"
+    },
+    "other": "Frost-sensitive crown — the primary limiting factor in Zones 5-6; will not tolerate extended periods below 0°F without protection; excellent heat tolerance in summer; may struggle in high-humidity combined with poor drainage"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Moderate to high in cold-winter zones (5-6) — routine summer care is easy, but winter protection is labor-intensive and critical to perennial survival; lower maintenance in Zones 7+ where the plant is reliably perennial",
+    "pruningNotes": "Cut flower stalks after harvest or after bloom; cut back all foliage to the crown after the first killing frost (or leave in place and mulch over the top); remove dead outer leaves in spring as new growth emerges; divide crowns every 3-4 years to maintain vigor and spread the planting",
+    "propagationMethods": [
+      "Division (primary — split crowns with offsets, called \"suckers\" or \"slips,\" in early spring before growth begins; the most reliable propagation method); seed (start indoors 8-10 weeks before last frost; 'Imperial Star' does not require vernalization and produces from seed in year 1; most other cultivars need cold vernalization to bloom, making them effectively biennial from seed in northern gardens); root cuttings (possible but less common)"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection is the single most important decision for gardeners outside Zones 7-11, where artichoke is a reliable perennial. Across the lower 48, success varies dramatically by zone:\n**Zones 9-11** (coastal California, Gulf Coast, Hawaii, deep South): All cultivars perform as reliable perennials; 'Green Globe', 'Green Globe Improved', 'Violetto di Chioggia', and 'Imperial Star' all thrive; plants may produce nearly year-round with adequate water; the classic California artichoke-growing climate.\n**Zones 7-8** (mid-Atlantic coast, Pacific Northwest, upper South, much of the transition zone): Reliable perennial with basic winter protection; 'Green Globe Improved' is the standard; 'Violetto di Chioggia' and related purple types perform well; crown mulching is good practice but not always essential; production in year 2+ is strong.\n**Zones 5-6** (upper Midwest, New England, mid-Atlantic inland, northern Plains): Marginal perennial — survival depends on microclimate, drainage, and winter severity. Two strategies are viable: (1) **Annual strategy** — grow 'Imperial Star' from seed each year as a warm-season annual; 'Imperial Star' was bred specifically to produce harvestable buds in year 1 without cold vernalization; reliable and low-risk; (2) **Tender perennial strategy** — overwinter 'Green Globe Improved' or similar with heavy crown mulching (6-8 inches of straw), a south-facing sheltered microclimate, and excellent drainage; success varies year to year; consider growing divisions indoors if a cold frame or cool greenhouse is available. 'Emerald Annual' (also sold as 'Emerald') is another annual type suited to seed-starting in northern short-season gardens.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden",
+      "food forest edge",
+      "medicinal herb garden",
+      "architectural specimen",
+      "pollinator garden (if allowed to flower)",
+      "raised bed production"
+    ],
+    "designPlacement": "Large architectural statement plant requiring full sun, excellent drainage, and 4-6 ft of unobstructed space. Place in a warm, south- or west-facing position in Zones 5-6; drainage is non-negotiable. In Zones 7+, more placement flexibility exists but sun and space requirements remain constant. Best positioned where the bold silver-grey foliage can be appreciated as a focal point — near seating areas, at bed edges, or as a specimen. Avoid crowding, shade, or low spots with poor drainage in any zone. In Zones 9-11, can anchor a Mediterranean-style food garden or food forest edge planting.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Globe_artichoke",
+    "inaturalist": "https://www.inaturalist.org/taxa/861815",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=271486"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or North America",
+      "paInvasiveStatus": "Not invasive in Pennsylvania — frost reliably prevents naturalization; no PA invasive listing",
+      "drainage": "Hegins red clay is compacted and drains poorly after rain; raised beds are essentially mandatory here for perennial success; in-ground planting in unamended clay is high-risk and not recommended",
+      "soil": "Native soil at Hegins is red clay — requires a raised bed with amended loam, compost, and added drainage material (grit or coarse sand) before planting; do not plant into unamended native soil",
+      "cultivarNotes": "Grow 'Imperial Star' from seed annually as the primary reliable strategy. Simultaneously attempt overwintering 'Green Globe Improved' with heavy mulching (6-8 inches of straw over the crown) in a south-facing raised bed — this gives both consistent annual production and the possibility of establishing a perennial clump. Any overwintered crown that survives will reward with earlier, heavier production in subsequent years.",
+      "designPlacement": "Plant in a south-facing raised bed (Section C or a dedicated kitchen garden bed) — the warmest, best-drained microclimate available. Do NOT plant in Section A (north-facing, cold microclimate) or Section B (increasingly shaded). The massive silver-grey foliage makes a dramatic statement near the back porch or seating area. Mulch crown heavily (6-8 inches) after first frost; consider a cold frame or row cover for additional protection during hard freezes.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "maclura-pomifera",
+  "name": {
+    "commonName": [
+      "Osage Orange",
+      "Hedge Apple",
+      "Bois d'Arc",
+      "Horse Apple"
+    ],
+    "latinName": "Maclura pomifera",
+    "family": "Moraceae"
+  },
+  "range": {
+    "nativeRange": "Small native range in the Red River drainage of the south-central US — primarily the Ouachita Mountains and Ozark Plateau region spanning southwestern Arkansas, southeastern Oklahoma, and northeastern Texas; the historical range was tightly circumscribed to river valleys and rich bottomlands in this tri-state area; widely planted and naturalized across the entire continental US since the 18th century, particularly in the Great Plains and Midwest where it was mass-planted as a farm windbreak and living fence during the 19th and early 20th centuries",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to a small region of the south-central US (AR/OK/TX); not native to any other US state; however, Osage orange has been planted so extensively since the 1700s that it is now naturalized in nearly every lower-48 state; it is one of the most widely planted non-native trees in the eastern US, Midwest, and Great Plains, where it persists in old hedgerows and fence lines; treat as a naturalized, long-cultivated utility tree outside its original tri-state range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48; while it self-seeds and can naturalize locally, it does not spread aggressively or displace native vegetation in any documented US region; it is not listed on any state noxious weed list or the federal noxious weed list; the large, heavy fruit (3-5\" diameter) does not disperse far from the parent tree without animal assistance, and squirrels (the primary seed vector) tend to cache seeds locally rather than facilitating broad spread; considered naturalized but ecologically non-problematic throughout its extensive planted range"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 — cold-hardy and adaptable; documented surviving into Zone 4 without damage; heat-tolerant through Zone 9; one of the most climatically wide-ranging large deciduous trees in North America; no heat-zone upper limit concern within the lower 48"
+    }
+  },
+  "description": {
+    "height": "35-60' at maturity in most conditions; occasionally taller on ideal sites; crown shape varies considerably — when grown in the open, develops a broad, dense, irregular to rounded crown; when hedged or coppiced, stays at whatever height it is managed to",
+    "spread": "35-60' — the open-grown tree develops a wide, arching crown with a dense branch structure; spread is roughly equal to height in open conditions; the thorny crown creates an impenetrable thicket quality even without managed pruning",
+    "spacing": "As a windbreak or hedgerow tree, space 8-15' apart; for a tight impenetrable living fence (traditional use), 4-6' apart in a staggered double row; as a standalone specimen or coppice stool for firewood/post production, 20-30' from other large trees and structures",
+    "growthRate": "Moderate to fast — 1.5-2.5' per year when young and well-established; fast enough to establish a functional windbreak within 5-10 years from planting; growth slows at maturity",
+    "timeToMaturity": "Fruit production (on female trees) begins at 7-10 years from seed; coppice poles suitable for firewood/posts are usable within 5-8 years; the tree grows into a functional windbreak screen within 10-15 years; for living fence purposes, a dense hedge begins forming within 3-5 years of managed planting",
+    "lifespan": "Very long-lived — 75-200+ years; documented Osage orange hedgerows planted in the 1800s are still standing and functional; the dense, rot-resistant heartwood and vigorous root system contribute to exceptional longevity; the species was planted so extensively before barbed wire that thousands of hedgerows survive to this day across the Midwest",
+    "deciduousEvergreen": "Deciduous — leaves are simple, ovate, glossy dark green, 3-5\" long with a drawn-out tip; handsome in summer with a clean, leathery appearance; the milky sap from cut stems and leaves is a diagnostic characteristic; fall color is a pleasant clear yellow; leaf drop is clean and not particularly messy; the bark is deeply furrowed orange-brown, attractive and distinctive year-round",
+    "winterInterest": "High structural interest — the densely interlocking thorny branch structure of the open-grown tree is striking in winter; the bark's orange-brown color is warm and distinctive; on female trees, any remaining fruit on the ground persists into winter and is a visual oddity that visitors always notice; the plant's silhouette is architectural and bold"
+  },
+  "lightAndWater": {
+    "sun": "Full sun; performs best and grows most vigorously in full sun; tolerates very light partial shade but is fundamentally a sun-demanding tree; do not attempt to establish in significantly shaded conditions; no regional variation — full sun is required across all zones",
+    "water": "Low to moderate once established — one of the most drought-tolerant large deciduous trees available for Zones 4-9; after establishment (1-2 seasons), requires no supplemental irrigation through normal summers in the humid East and Midwest; in the arid West (Great Plains, intermountain, Southwest), established trees still perform well on natural rainfall in most years but may benefit from deep watering during extreme multi-year drought; also tolerates periodic flooding and temporarily wet conditions better than most drought-tolerant species; the breadth of its water tolerance (from wet bottomlands to dry upland ridges) speaks to its remarkable adaptability",
+    "drainagePreference": {
+      "description": "Highly adaptable — native to rich river bottoms (wet conditions) but performs equally well on dry uplands, rocky hillsides, and heavy clay soils with drainage challenges; tolerates both seasonal waterlogging and extended dry periods; this is one of the few large trees that genuinely performs across the full drainage spectrum from poorly drained to excessively drained soils",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — thrives in heavy clay without amendment; the species was mass-planted across the clay-heavy soils of the Great Plains and Midwest specifically because it tolerates compacted, poorly drained clay that defeats most other large trees; no root rot issues in clay; no special drainage preparation required; one of the safest large-tree choices for any heavy-clay site in the lower 48"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0 — highly adaptable; performs well in moderately acidic to alkaline conditions; no pH amendment needed in most lower-48 soils; tolerates the slightly acidic clays common in the eastern US and the alkaline prairie soils of the Great Plains equally well"
+    },
+    "texturePreference": "Extremely adaptable — grows in clay, loam, sand, gravel, and rocky soils; thrives in disturbed and compacted ground; does not require fertile or amended soil, which is a core reason it was chosen for mass Great Plains plantings on marginal agricultural land; one of the least soil-demanding large trees available",
+    "rootCharacter": "Deep, strong taproot combined with wide lateral roots; the root system is drought-resilient due to depth; not documented as a problematic surface-rooter or foundation threat under normal planting distances; does not produce the aggressive root suckers of Robinia pseudoacacia; the root system is robust but not invasive in character; maintain 20'+ clearance from foundations as a standard precaution with any large tree"
+  },
+  "bloom": {
+    "bloomTime": "Late spring to early summer — June in Zone 6; timing shifts earlier in warmer zones (May in Zone 8-9) and slightly later in colder zones (late June in Zone 4-5); one of the later-blooming large trees in any region",
+    "bloomDescription": "Inconspicuous; small, greenish, non-showy flowers borne in round, dense clusters (male) or globe-shaped heads (female); flowers are wind-pollinated and offer no ornamental interest; the bloom is functionally invisible at garden scale — you may miss it entirely unless looking closely; male and female flowers are on entirely separate trees",
+    "fragrance": "None notable",
+    "flowerSex": "Dioecious — strictly separate male and female trees; a male tree within wind-pollination range (typically cited as 0.5-1 mile, though closer proximity ensures reliable pollination) is required for female trees to set fruit; if fruit production is not a goal, male trees or thornless male cultivars are the appropriate choice",
+    "pollination": "Wind-pollinated; no insect pollination; bees and butterflies are not relevant pollinators for this species; for fruit production, proximity of male and female trees is required but the exact distance need not be short — wind carries pollen effectively"
+  },
+  "yield": {
+    "edibleParts": "None reliably edible; the large, warty, yellow-green fruit (the \"hedge apple\") is not palatable to humans; it is technically not toxic, but the flavor, texture, and milky latex content make it inedible in any practical sense; not a food plant for humans; seeds are edible and nutritious if extracted and processed, and squirrels do consume them, but hand-processing the seeds from the dense, fibrous fruit is not a practical food pursuit; do not plant Maclura pomifera as a food tree",
+    "harvestSeason": "Fruit ripens September-October; the large green spheres (3-5\" diameter, grapefruit-sized) drop from female trees in autumn; they persist on the ground through winter",
+    "medicinalUses": "No significant medicinal applications; folk tradition holds that placing the whole fruits (\"hedge apples\") around the perimeter of rooms deters spiders, cockroaches, and other insects; laboratory research has confirmed that the plant contains tetrahydroxystilbene and other compounds with demonstrated insect-repellent activity in concentrated form, but the whole fruit placed in a room does not release these compounds at concentrations effective for pest control; the folk use is widespread but the scientific support for practical effectiveness is limited; the wood and bark contain osajin and pomiferin (isoflavones), which are the basis of research interest in the plant chemistry",
+    "craftOtherYield": "Outstanding — this is where Maclura pomifera truly distinguishes itself. (1) Wood: the bright orange-yellow heartwood is among the hardest and most rot-resistant of any North American tree; fence posts cut from Osage orange have been documented lasting 50-75+ years in direct ground contact without treatment — a performance unmatched by any other native species and rivaling pressure-treated lumber; the wood has the highest BTU content (heat value) of any North American firewood species, rated at approximately 32.9 million BTUs per cord — meaningfully higher than black locust (~26.8), white oak (~29.1), and hickory (~28.5); the wood is prized by traditional bowyers (bow makers) who consider it superior even to English yew (Taxus baccata) for self bows — it has exceptional elasticity, compression strength, and tension strength simultaneously, the combination required for the back and belly of a longbow; the wood was so valued by Indigenous peoples of the southern plains (Osage Nation and neighbors) for bow-making that it was a major trade item far outside its native range, which is how it acquired its common names \"Osage orange\" and \"bois d'arc\" (French for \"wood of the bow\"); tool handles, mallet heads, wheel spokes, and any application requiring extreme hardness and durability are historical uses; (2) Yellow dye: the heartwood produces a brilliant yellow dye used historically for textiles; (3) Insect-repellent wood: the wood and bark contain compounds that repel insects — historically used in wardrobes and storage"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Low concern; the milky sap (latex) can cause skin irritation and dermatitis in sensitive individuals on contact; the fruit is not considered toxic but is indigestible and not edible; seeds are not toxic but are not a food source; no serious systemic toxicity concern for incidental contact; wash hands after handling cut branches or fruit",
+    "toxicityAnimals": "The fruit is occasionally eaten by livestock (cattle, horses) without serious harm in small quantities; the fruit has caused digestive blockage (impaction) in horses and cattle when consumed in quantity due to the fibrous, dense interior — do not allow livestock free access to large quantities of fallen fruit; dogs may chew on the fruit out of curiosity; the milky sap is a mild irritant; not a significant toxicity concern at the household pet level; squirrels consume the seeds routinely without apparent harm",
+    "allelopathy": "None documented; no allelopathic effects on companion plants reported; considered safe for interplanting and guild use",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy (large tree)"
+    },
+    "roles": [
+      "Windbreak / Shelterbelt (primary structural role — Osage orange was the defining windbreak and shelterbelt tree of the Great Plains; its dense, thorny crown and rapid establishment make it an outstanding windbreak species; an established hedgerow provides full four-season wind protection)",
+      "Living Fence (thorny forms create an impenetrable stock-proof barrier; historically described as \"horse-high, bull-strong, and pig-tight\" — one of the primary technologies of North American agriculture before barbed wire)",
+      "Coppice for Firewood and Posts (the wood's extraordinary BTU value and rot resistance make it the premier coppice firewood and post wood available for Zones 4-9; a managed coppice rotation produces fence post material that outlasts treated wood and firewood that burns hotter than any native alternative)",
+      "Deer Deterrent (thorny forms are an effective physical barrier against deer movement; a perimeter planting of thorny Osage orange is one of the most effective passive deer exclusion tools available for a property)",
+      "Tool Wood (exceptional hardness for handles, mallets, and bow staves)",
+      "Wildlife Habitat (dense nesting cover for birds in thorny forms)",
+      "Insect Repellent (minor, folk-use level)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator planted at the base of coppice stools)",
+      "nitrogen-fixing shrubs at the drip line (Caragana, Amorpha fruticosa)",
+      "native wildflowers and grasses for the windbreak understory",
+      "Sambucus canadensis (elderberry — can be tucked into the lee side of an Osage orange windbreak where it benefits from wind protection and light partial shade)",
+      "red clover as a ground layer nitrogen fixer beneath the canopy opening"
+    ],
+    "antagonists": [
+      "No allelopathic antagonism documented; the primary concern is physical — the thorny forms will encroach on adjacent plantings and paths if not managed; site and management are the key considerations",
+      "not chemical antagonism; the large fruit drop from female trees can be a nuisance in areas with foot traffic or adjacent to paved surfaces"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Squirrels (primary wildlife interaction — gray squirrels and fox squirrels are adept at extracting and caching the seeds from the heavy fruit; squirrels are essentially the only significant wildlife that regularly uses the fruit as food; they gnaw through the dense exterior to reach and cache the seeds, and cached seeds that are not retrieved represent the primary germination pathway for the species), small songbirds (dense thorny crown provides superior nesting and predator-refuge habitat — the interlocking thorns deter cats, raccoons, and other nest predators; species such as mockingbirds, brown thrashers, and catbirds are classic thorny-shrub nesters that will use Osage orange hedgerows actively)",
+    "hostPlantFor": "Limited documentation as a larval host; Moraceae family hosts some native moth species; not a significant native Lepidoptera host in the way that oaks, cherries, or willows are; not a primary host plant consideration in food forest design",
+    "nestingHabitat": "Outstanding for thorny forms — the dense, interlocking, thorny crown structure of an established Osage orange hedge or hedgerow tree creates nesting habitat that is nearly predator-proof; this is one of the most valuable dense-nesting-cover trees available; several species of shrub-nesting birds actively seek out thorny cover; this wildlife value is LOST with thornless cultivars, which do not provide the same physical deterrence to nest predators"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Outstanding — one of the most deer-resistant large trees available; established trees are not browsed; the thorny forms are both physically deterrent and unpalatable; even young trees, once the thorns develop (within the first 1-2 seasons from seed), are largely avoided; the thorny perimeter hedge use directly leverages this deer-resistance as a whole-property management tool; thornless cultivar young trees are somewhat more vulnerable but still not a preferred browse species; young saplings of any form should be protected with tree tubes or caging for the first 1-2 seasons until established"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates roadside salt spray and salt-affected soils; widely planted in tough urban and roadside conditions across the northern US; not as extreme in salt tolerance as Gleditsia triacanthos but well above average; recovers from incidental salt exposure without lasting damage"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — one of the most drought-tolerant large deciduous trees available across Zones 4-9; native to seasonally dry uplands and clay-heavy soils; thrives without supplemental irrigation once established in the humid East and performs remarkably well even on the semi-arid Great Plains; the deep taproot accesses subsoil moisture during dry periods; rated among the top drought-tolerant species for any region within its hardiness range"
+    },
+    "other": "Exceptional tolerance of heat (thrives in Zone 9 conditions), flooding (native to bottomlands), wind (a defining windbreak species — withstands sustained high winds and ice loading), compacted and disturbed soil, poor soil fertility, clay soils, and rocky ground; essentially no serious insect or disease problems documented — a remarkably trouble-free tree once established; tolerates urban pollution; among the most ecologically tough large trees available in Zones 4-9"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low for windbreak and hedgerow use once established; the first 1-2 seasons require watering during establishment and deer/rabbit protection for young saplings before thorns develop fully; after that, a windbreak planting is essentially self-maintaining; a managed coppice or living fence requires periodic cutting on a rotation schedule but the labor is productive (firewood, posts); the primary ongoing task for thorny forms is keeping the hedge from encroaching on paths and adjacent areas — this is managed with annual or biennial trimming",
+    "pruningNotes": "For a living hedge or windbreak screen, cut back to encourage dense multi-stem branching in years 1-3; once established, trim sides annually in late winter or early spring before bud break to maintain desired density and width; for coppice management, cut all stems to 6-18\" above ground on the desired rotation (7-12 years for post wood, 5-7 years for firewood poles) in late winter; regrowth is vigorous; for a standard single-trunk specimen tree, develop a central leader for the first 3-5 years and remove competing stems; raise the canopy gradually over years 5-15 to allow understory light; always wear heavy leather gloves — the thorns are serious; use loppers and a pruning saw rather than hand shears for established wood; the wood is extremely hard and dulls tools quickly — keep blades sharp",
+    "propagationMethods": [
+      "Seed (collect from ripe fruit in October; extract seeds from the fruit by breaking it apart (messy — use gloves; the latex stains); clean seeds and stratify cold-moist for 30-60 days at 34-40F; sow in spring after last frost; germinates readily; note that seedlings will be thorny and sex is unknown until flowering — 7-10 years; not practical for cultivar propagation)",
+      "hardwood cuttings (possible but slow and inconsistent)",
+      "grafting (the commercial method for named thornless male cultivars; 'White Shield' and 'Wichita' are propagated by grafting onto seedling rootstock)",
+      "root cuttings (possible — sections of root taken in late winter can produce plants)"
+    ]
+  },
+  "cultivarNotes": "For food forest, garden, and managed permaculture use, the thornless male cultivars are the correct choice for most applications across all zones. The reasoning is universal: (1) The fruit of female trees is a significant nuisance — large, heavy, and produced in quantity; rolling fruit creates a slip hazard, smells mildly unpleasant as it decays, and attracts no useful wildlife except squirrels; the fruit is not a food goal; (2) Thornless forms eliminate the injury hazard while retaining the core values of the species (rot-resistant wood, high-BTU firewood, windbreak function, drought tolerance, deer resistance as an unpalatable species); (3) Male trees produce no fruit, eliminating all mess concerns; (4) For properties where a thorny living fence or deer-exclusion perimeter is specifically desired, the straight thorny species from seed is the correct choice — but this is a deliberate, managed-access decision, not a default.\n**Straight species (thorny, seed-grown)** — the historically used form; both male and female plants possible; thorny; produces large fruit on female trees; best for living fence, stock-proof hedge, or managed coppice where thorns are a feature rather than a problem; source from seed or local nurseries; inexpensive; variable. Performs across the full Zone 4-9 range without issue.\n**'White Shield'** — thornless male cultivar; does not produce fruit; retains full wood quality, windbreak function, and drought/heat tolerance; broadly available from nurseries across the US; the standard recommendation for managed food forest and garden windbreak use where thorns are not desired; compact, tidy growth habit; widely recommended by extension services for its combination of utility and manageability. Hardy through Zone 4; heat-tolerant through Zone 9.\n**'Wichita'** — thornless male cultivar; similar to 'White Shield'; selected for upright, strong form; good for structural windbreak planting; may be slightly less commonly stocked than 'White Shield' but available from specialty nurseries. Same zone range as 'White Shield'.\nZones 4-5 (northern tier): All cultivars and the straight species perform well; cold hardiness is not a differentiator. Choose based on thorn/fruit preference. Zones 6-7 (mid-latitude): The sweet spot for this species — vigorous growth, full wood development, reliable establishment. Zones 8-9 (southern tier): Heat tolerance is excellent across all forms; no cultivar-specific heat concerns; growth rate may be slightly faster in the long growing season.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Property perimeter windbreak",
+      "living fence / deer barrier",
+      "coppice stool for firewood and fence post production",
+      "standalone specimen canopy tree",
+      "tool wood source",
+      "wildlife nesting habitat (thorny forms)"
+    ],
+    "designPlacement": "This is a large, utility-first tree (35-60' at maturity) and should be placed accordingly — not appropriate for ornamental beds, foundation plantings, or small-scale garden sections where its size, fruit drop (female trees), and thorns (straight species) would be problematic. The ideal placement on any property is at the perimeter: boundary lines, windbreak rows, fence lines, and property edges where its size is an asset rather than a constraint. For windbreak use, plant on the windward side of the area to be protected. For living fence / deer barrier, plant in a hedgerow along boundaries with wildlife pressure. For coppice firewood and post production, site one or two stools where periodic cutting (every 7-12 years) is practical and where the regrowth area can be managed. Allow 20-30' minimum from any structure or utility line. Thornless male cultivars eliminate thorn and fruit concerns but the tree's scale still requires perimeter or back-of-property siting.",
+    "acquisitionStatus": "To source — thornless male cultivars ('White Shield' or 'Wichita') from a specialty nursery; straight species available inexpensively from native plant nurseries or grown from seed collected from known female trees; widely available in the Mid-Atlantic region due to historical planting; check with PA native plant nurseries and windbreak/shelterbelt suppliers"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maclura_pomifera",
+    "inaturalist": "https://www.inaturalist.org/taxa/58205-Maclura-pomifera",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=282737"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to Pennsylvania; the native range is confined to TX/OK/AR; however, Osage orange has been planted throughout PA for centuries as a hedgerow tree and is naturalized in many areas of the state; not native to the Mid-Atlantic or Appalachian region in any ecological sense; treat as a widely adapted, long-cultivated utility tree",
+      "paInvasiveStatus": "Same as general Invasive field — not regulated in PA; not on Pennsylvania's noxious weed list or the PA Dept. of Agriculture invasive species list; not flagged by DCNR",
+      "drainage": "The red clay at Hegins is fully compatible — no amendment, raised beds, or special drainage preparation needed; plant directly into native clay soil; this species was historically chosen for exactly these conditions across the eastern US",
+      "soil": "The red clay of Hegins PA is fully compatible; no soil amendment or preparation required for this species; plant directly into native ground",
+      "cultivarNotes": "Plant 'White Shield' or 'Wichita' as thornless male windbreak trees at the property perimeter — they provide all the structural and wood-yield benefits without fruit litter or injury risk. If a deer-exclusion living fence is specifically desired along a boundary with deer pressure, a row of straight thorny species from seed, spaced 6-8' apart and managed as a hedge with annual trimming, is one of the most effective and lowest-input deer barriers available.",
+      "designPlacement": "Not appropriate for Sections A, B, or C (scale, thorns, and fruit litter all disqualify it for ornamental or herb beds). The ideal placement at Hegins is at the property perimeter, specifically along the east boundary where deer pressure enters from the wildlife corridor. A row of thorny Osage orange spaced 6-8' apart along this boundary, managed as an annual-trim hedge kept at 8-12', would create a long-term deer exclusion barrier that also serves as a windbreak and visual screen. Alternatively, one or two 'White Shield' or 'Wichita' thornless male trees at the north or northwest perimeter of the food forest would provide windbreak function against the primary NW/W winds, high-BTU firewood/post wood from coppice management, and decades of structural benefit without fruit or thorn hazards.",
+      "siteObservations": "The compacted red clay at this site is a non-issue for Osage orange — this is one of the few large trees that requires zero soil amendment in Hegins clay. Deer pressure from the east wildlife corridor makes this species especially relevant: a thorny hedgerow along the east boundary would serve as both a physical deer barrier and a windbreak. For coppice firewood and post production, site one or two stools in a part of the property where periodic cutting is practical — even a single mature coppice stool managed on rotation will produce useful quantities of the best firewood and post material available."
+    }
+  }
+}

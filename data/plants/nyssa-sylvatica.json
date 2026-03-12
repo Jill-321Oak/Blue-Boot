@@ -1,0 +1,171 @@
+{
+  "id": "nyssa-sylvatica",
+  "name": {
+    "commonName": [
+      "Black Gum",
+      "Black Tupelo",
+      "Sour Gum"
+    ],
+    "latinName": "Nyssa sylvatica",
+    "family": "Nyssaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Maine to Ontario south to Florida and eastern Texas; found in moist to wet bottomlands, swamp edges, and upland hardwood forests across its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from Maine to Florida and west to eastern Texas, with scattered populations into the southern Great Lakes region and Ontario; one of the most broadly distributed native canopy trees of the eastern hardwood forest"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; not listed on any state noxious weed list or USDA invasive species list; poses no escape or naturalization concern"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "30-50' (occasionally to 90' in ideal conditions); typically 30-50' in cultivation",
+    "spread": "20-30'; pyramidal when young, developing a broadly rounded to irregular crown with age",
+    "spacing": "20-25' from other canopy trees",
+    "growthRate": "Slow to moderate; a patient investment — plan on 10-15 years to a meaningful canopy",
+    "timeToMaturity": "First significant fruit crops in 5-10 years; full wildlife production at 15+ years; fall color begins in the first few years and is excellent even on young trees",
+    "lifespan": "Exceptionally long-lived — 400-600 years or more; this is a genuinely permanent landscape element, more permanent than almost any other tree in the eastern US planting palette",
+    "deciduousEvergreen": "Deciduous — and arguably the finest native fall color tree in all of eastern North America; the leaves turn brilliant scarlet, orange, and crimson — often simultaneously on the same tree — earlier than nearly any other tree; fall color routinely begins in late August and is one of the most consistent and spectacular displays of any native tree, year after year without exception",
+    "winterInterest": "Moderate — the horizontal branching structure and deeply furrowed, blocky bark (sometimes compared to alligator skin) are distinctive and attractive in winter; old specimens develop a strongly sculptural branching habit"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates moderate shade but best fall color and fruit production in full sun to light shade",
+    "water": "Medium to medium-high; most at home in moist to average soils; found naturally in both wet bottomlands and on dry rocky ridges — this species is more adaptable than its association with wet sites suggests",
+    "drainagePreference": {
+      "description": "Moist to average, well-drained to periodically wet; tolerates seasonal flooding better than most canopy trees; also tolerates average upland conditions once established",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — black gum tolerates clay soils well, as native populations frequently occur in clay bottomlands across the eastern US; the deep taproot can penetrate heavy clay given time, and the species handles the periodic waterlogging common in clay soils better than most canopy trees; no amendments required for establishment in clay, though organic mulch over the root zone improves early growth; avoid planting in compacted clay fill where the taproot cannot penetrate"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 3.7,
+      "max": 6.8,
+      "description": "3.7-6.8; strongly prefers acidic to slightly acidic soils; performs poorly in alkaline conditions — do not plant where lime, concrete rubble, or alkaline fill has raised soil pH above 7.0"
+    },
+    "texturePreference": "Moist, well-drained loam to clay-loam; tolerates clay and sandy soils; native populations occur in both wet bottomland clays and dry upland sandy loams across its range",
+    "rootCharacter": "Very deep taproot — this is the defining root characteristic of black gum and has major practical implications; transplants very poorly once any taproot establishment has occurred; plant as a small bare-root or container-grown specimen and do not attempt to relocate established plants"
+  },
+  "bloom": {
+    "bloomTime": "May-June — after leaf emergence; flowers are not showy but are highly significant",
+    "bloomDescription": "Small, inconspicuous greenish-white flowers in clusters; individually tiny but produced in great numbers on mature trees; highly attractive to bees — black gum is widely regarded as one of the finest native honey trees in the eastern US, and black gum honey is sought-after by beekeepers for its mild, distinctive, buttery flavor",
+    "fragrance": "Faint; not notably fragrant to humans, but clearly attractive to pollinators",
+    "flowerSex": "Dioecious — plants are functionally male or female; only female plants produce fruit; male trees nearby are required for pollination; in practice, with a species this widespread, adequate pollinators are almost always present in the landscape",
+    "pollination": "Bees (primarily) — an outstanding bee plant; bees work the flowers heavily; considered one of the premier native bee forage trees of the eastern US"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small (0.5\"), blue-black, olive-like drupes ripening September-October; the flesh is thin and very sour/tart (hence the common name \"Sour Gum\"); not palatable to most humans when eaten raw; occasionally used for preserves, jellies, or infused vinegars by foragers willing to work with the sourness; the primary yield of this tree is wildlife food, not human food",
+    "harvestSeason": "Fruit September-October; fruit ripens and falls quickly — wildlife typically strips it within days",
+    "medicinalUses": "Traditional bark tea used by several Native American peoples; bark and leaf preparations used historically for fevers, digestive complaints, and as an astringent; not a primary medicinal plant in modern herbalism",
+    "craftOtherYield": "Wood is extremely tough, interlocked-grain, and resistant to splitting — historically used for wheel hubs, rollers, mauls, and applications requiring unsplittable wood; not commonly harvested from landscape trees; the deep furrowed bark of old specimens is aesthetically striking"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Not toxic; fruit is edible if very sour; not a toxicity concern",
+    "toxicityAnimals": "Not a documented toxin concern for dogs, cats, or livestock",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy tree"
+    },
+    "roles": [
+      "Wildlife Food (exceptional — see Wildlife section; one of the most productive native bird food trees)",
+      "Pollinator Support (outstanding bee plant; honey tree)",
+      "Canopy (permanent shade and structure)",
+      "Beauty (unmatched native fall color)",
+      "Native Plant Contribution",
+      "Long-Term Carbon and Soil Structure"
+    ],
+    "companionPlants": [
+      "Ilex verticillata (winterberry holly — moist conditions, similar wildlife value)",
+      "Lindera benzoin (spicebush — classic understory companion in eastern woodland ecology)",
+      "Asimina triloba (paw paw — shares moist woodland habitat)",
+      "Amelanchier spp. (serviceberry — layered spring-to-fall wildlife food sequence)",
+      "Viburnum lentago and V. nudum (native viburnums — understory companions with complementary wildlife value)",
+      "Vaccinium corymbosum (highbush blueberry — acidic soil companion)",
+      "native ferns and woodland wildflowers at the base"
+    ],
+    "antagonists": [
+      "None documented; does not perform well in alkaline soils or heavily disturbed compacted fill"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Exceptional and well-documented wildlife value — the fruit is consumed by over 30 species of birds, including wood thrush, hermit thrush, veery, American robin, gray catbird, Eastern bluebird, cedar waxwing, northern flicker, pileated woodpecker, yellow-bellied sapsucker, and many others; the early ripening (September, sometimes late August) means the fruit is available before most other native fall berries — this makes it critically important for fueling fall songbird migration; black bears and white-tailed deer also consume the fruit; the flowers attract bees heavily in May-June",
+    "hostPlantFor": "Host plant for several Lepidoptera species; not as extensively documented as oaks or cherries, but supports a range of native moths and butterflies",
+    "nestingHabitat": "Large older specimens provide cavity nesting sites; the horizontal branching structure supports open-cup nesting birds; pileated woodpeckers excavate cavities that are later used by wood ducks, owls, and other cavity nesters"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — young trees are browsed; deer will nip terminal leaders on small specimens, which can be frustrating given the slow growth rate; protect young trees with caging or fencing for the first 3-5 years until bark toughens and the canopy rises above browse height; established trees with bark beyond reach are generally undamaged; the fruit attracts deer to the area, which is beneficial for wildlife-focused plantings but worth considering if deer damage to nearby plants is a concern"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt and salt spray; avoid planting within the salt drift zone of treated roads or parking areas; not a coastal planting choice; does not recover well from repeated salt exposure"
+    },
+    "drought": {
+      "rating": "moderate-good",
+      "description": "Moderate to good once established — more drought-tolerant than its association with wet sites implies; established upland specimens handle dry summers adequately; the deep taproot accesses subsoil moisture that shallow-rooted trees cannot reach"
+    },
+    "other": "Excellent cold hardiness (Zone 3); tolerates wet soils and periodic flooding; highly adaptable across a range of soil conditions once the taproot is established; pollution tolerant; performs well in urban conditions if given adequate rooting space; tolerates wind exposure once established"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — black gum is essentially a plant-it-and-leave-it canopy tree; no ongoing management required",
+    "pruningNotes": "Minimal pruning needed or desired; remove dead or damaged branches; do not prune the central leader — black gum develops its characteristic form naturally and does not benefit from interference; if structural pruning is needed, do so in late winter before bud break; the interlocked grain of the wood makes large cuts heal slowly — keep cuts small and well-timed",
+    "propagationMethods": [
+      "Seed (requires cold stratification — 60-90 days; sow in fall or stratify and sow in spring; germination can be erratic)",
+      "softwood cuttings (summer; moderate difficulty; rooting hormone recommended)",
+      "bare-root transplanting of small seedlings (the preferred method — plant small, plant early, disturb the taproot as little as possible)",
+      "container-grown nursery stock (acceptable; do not purchase large containerized specimens — smaller is better for establishment success)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are worth seeking out for more predictable and intense fall color, though the straight species is outstanding in its own right.\n'Wildfire' — One of the most widely available selections; known for exceptional, consistent red fall color; somewhat more predictable than the straight species; performs well across Zones 4-8; a strong first choice if only one tree is being planted. Widely available at mainstream nurseries nationwide.\n'Afterburner' — Intense orange-red-yellow fall color with a slightly more compact habit than the species; excellent for smaller sites where the full 50' spread of the species might be a concern; hardy Zones 4-9.\n'Forum' — Consistent, reliable fall color in the orange-red range; upright, slightly narrower form; good for tighter planting situations where a full-spread canopy is not desired; performs well Zones 4-8.\n'Green Gable' — Pyramidal form; strong central leader; good choice for formal or structured landscape positions where a clean silhouette matters; Zones 4-9.\nFor gardeners in Zones 3-5, the straight species and 'Wildfire' are the safest choices — both have strong cold-hardiness track records. In Zones 8-9 (Deep South, Gulf Coast), black gum is native and thrives but may color later and less intensely; 'Wildfire' and 'Afterburner' still outperform the straight species for color reliability in warm climates. In the arid West (Zones 7-9 intermountain), black gum requires supplemental irrigation and may not thrive without consistent moisture.\nThe straight species is outstanding and more genetically diverse — if sourcing from a reputable local native plant nursery, straight species plants of local provenance are an excellent choice and provide greater ecological value than named cultivars.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy anchor",
+      "wildlife garden centerpiece",
+      "native woodland garden",
+      "naturalistic lawn specimen",
+      "rain garden edge",
+      "moist low area",
+      "permaculture canopy layer",
+      "shade tree for long-term site development"
+    ],
+    "designPlacement": "Black gum is one of the highest-value canopy trees for any eastern US property with space for a 30-50' tree. Its combination of exceptional fall color, outstanding wildlife food value, bee forage, and very long lifespan make it a top-tier permanent investment. Best placed in full sun to light shade with adequate room for the mature crown (20-30' spread). Avoid alkaline soils and salt-exposed positions. Works as a standalone specimen, a canopy anchor in a food forest or wildlife planting, or a naturalistic lawn tree. The slow growth and deep taproot mean this tree should be placed in its permanent position from the start — do not plan to move it. Plant small (bare-root or small container, under 3-4') for best establishment success. Pairs well with acidic-soil understory companions: winterberry, spicebush, blueberry, native viburnums.",
+    "acquisitionStatus": "To source (native plant nursery; bare-root or small container stock strongly preferred; ask for local PA provenance for straight species, or specify 'Wildfire' if a named cultivar is desired)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyssa_sylvatica",
+    "inaturalist": "https://www.inaturalist.org/taxa/54802-Nyssa-sylvatica",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a670"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — N. sylvatica is native throughout Pennsylvania; common in moist woodland edges, bottomlands, and upland hardwood forests across the state; likely present in nearby hedgerows and forest margins around Hegins",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watchlist",
+      "drainage": "The red clay at the Hegins site is within the natural soil range for this species — black gum grows natively in similar clay soils throughout central PA; no raised bed needed (this is a canopy tree); for in-ground planting, dig a wide shallow hole (2-3x root ball width, no deeper than root ball), backfill with native clay, and mulch heavily; the compacted clay may slow early taproot development but will not prevent establishment",
+      "soil": "The red clay at the Hegins site is naturally acidic and well within the preferred pH and texture range for black gum; no soil amendment is needed for this species at this property; plant directly into native clay",
+      "cultivarNotes": "'Wildfire' is the top cultivar recommendation — widely available from PA nurseries, proven fall color performance in the mid-Atlantic, and reliable in Zone 6a conditions. Straight species from a PA-provenance native nursery is equally excellent and ecologically preferred.",
+      "designPlacement": "Not suited to Sections A, B, or C (canopy tree exceeds height limits and does not fit the design goals of any named section). Most appropriate as a standalone canopy tree on the property perimeter or in a dedicated wildlife planting area where it can grow to full size undisturbed. Could anchor a future tree guild or serve as a long-term canopy companion near the paw paw pair (both share moist woodland habitat preferences). Plant a small bare-root or small container specimen. The native red clay soil is ideal for this species — no amendment needed.",
+      "siteObservations": "Protect from deer for the first 3-5 years — the active deer pressure from the east wildlife corridor makes young tree caging essential given the slow growth rate; a browsed leader on a black gum sets the tree back significantly. The property is approximately 50' from the salted road on the north side, which should be adequate distance for a tree planted on the property perimeter or south side, but avoid planting near the road frontage where salt drift could reach the root zone. The red clay and acidic soil conditions at this site are naturally excellent for black gum — this is one of the easiest native canopy trees to match to the Hegins soil profile."
+    }
+  }
+}

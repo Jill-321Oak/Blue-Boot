@@ -1,0 +1,171 @@
+{
+  "id": "vaccinium-corymbosum",
+  "name": {
+    "commonName": [
+      "Highbush Blueberry",
+      "Northern Highbush Blueberry"
+    ],
+    "latinName": "Vaccinium corymbosum",
+    "family": "Ericaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from Nova Scotia south to Florida, west to Wisconsin and Arkansas; naturally found in moist, acidic soils of woodland edges, bogs, swamps, and low areas throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — from the Atlantic coast west to the Great Lakes and upper Mississippi Valley; the core range runs from Maine to Florida along the East Coast and inland through the Mid-Atlantic, Appalachian, and Great Lakes states; note that western and Pacific NW gardeners growing V. corymbosum are cultivating an eastern native; the closely related V. ovatum (Evergreen Huckleberry) and V. parvifolium (Red Huckleberry) are the ecologically analogous species for Pacific NW gardeners, while southern US gardeners often work with southern highbush hybrids (V. corymbosum × V. darrowii) rather than straight northern highbush cultivars"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 4,
+      "max": 7,
+      "description": "4–7"
+    }
+  },
+  "description": {
+    "height": "4–8' (varies by cultivar; standard highbush types reach 6–8'; half-high types 2–4')",
+    "spread": "4–8'",
+    "spacing": "4–6' for dense fruiting hedge; 6–8' for specimens with full air circulation",
+    "growthRate": "Moderate; slow to establish the first 1–2 years while root system develops; accelerates in years 3–5",
+    "timeToMaturity": "First light crop years 2–3; meaningful harvest years 4–5; full production at maturity years 6–8",
+    "lifespan": "Very long-lived; 50+ years with proper care and site preparation; blueberries are multigenerational plants when sited correctly",
+    "deciduousEvergreen": "Deciduous — exceptional multi-season ornamental interest; spring white flowers, summer blue fruit, brilliant red-orange-crimson fall foliage, and attractive red-tinged stems in winter",
+    "winterInterest": "High for a fruiting shrub — the bare stems show warm red and orange tints through winter; one of the most ornamentally rewarding native shrubs across all four seasons"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred for maximum fruit production; tolerates part shade (afternoon shade acceptable) but fruit yield decreases; 6+ hours of direct sun is the productive minimum",
+    "water": "Medium to medium-high; consistent moisture is important throughout the growing season, especially during fruit development in June–July; do not allow to dry out significantly; blueberries have shallow, fibrous roots and are sensitive to drought stress",
+    "drainagePreference": {
+      "description": "Moist but well-drained; tolerates seasonally moist conditions consistent with its native bog-edge habitat; does not tolerate waterlogged anaerobic conditions long-term; good drainage is essential, but the soil must also retain moisture — the ideal is well-structured, organic-rich soil that drains freely while holding even moisture between rains",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — heavy clay creates a double failure mode for blueberries: it compacts around the fine fibrous roots, impedes the drainage that prevents anaerobic root damage, and typically sits at pH 6.0–7.0+, which is directly hostile to blueberry establishment; clay soil will cause slow decline even if other conditions are correct; amendment options for heavy-soil gardeners include raised beds filled with acidic media (pine bark fines, acidic compost, peat moss as a pH buffer), or deep in-ground amendment of a large planting zone (minimum 3' wide, 18\" deep) with the same materials; half-measures are not effective — blueberries in poorly amended clay will fail over 3–5 years as pH drifts and drainage deteriorates"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 5.5,
+      "description": "4.5–5.5 — THIS IS THE SINGLE MOST CRITICAL CULTURAL REQUIREMENT. Blueberries grown in soil above pH 5.5 will fail to thrive regardless of any other care; symptoms of pH failure include chlorotic (yellowing) leaves with green veins (iron chlorosis), stunted growth, poor fruiting, and eventual decline; neutral soil (pH 6.5–7.0) typical of many garden beds is fatal to blueberries over time; test soil pH before planting and amend aggressively; lower pH with elemental sulfur (apply months in advance — sulfur takes time to acidify), acidic organic matter (pine bark, pine needles, oak leaf mold, peat moss), and ongoing acidic mulch topdressings; NEVER use limestone, wood ash, or any alkaline amendment near blueberries"
+    },
+    "texturePreference": "Well-drained, light, sandy-loam to loamy soil with high organic matter; ideal texture is loose and friable with excellent drainage and strong moisture retention from organic content; avoid compacted or dense soils of any type",
+    "rootCharacter": "Extremely fine, fibrous, shallow root system; lacks root hairs — relies instead on mycorrhizal associations (ericoid mycorrhizae) for nutrient uptake; this is why soil pH is so critical — the mycorrhizal partnership breaks down in non-acidic conditions; mulch heavily to protect the shallow roots from temperature extremes and drying; never cultivate around blueberries"
+  },
+  "bloom": {
+    "bloomTime": "April–May (one of the earlier fruiting shrubs to bloom)",
+    "bloomDescription": "Clusters of small, elegant white to pale pink urn-shaped (urceolate) bell flowers hanging in drooping racemes; ornamentally attractive in spring; a good early nectar source",
+    "fragrance": "Mild, delicate honey-sweet fragrance; not strongly perfumed but pleasant up close",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Self-fertile but cross-pollination significantly improves fruit size, yield, and reliability; planting two or more different cultivars that overlap in bloom time is strongly recommended and considered standard practice; bees (including native bumblebees, which are particularly effective pollinators of blueberry flowers) are the primary pollinators"
+  },
+  "yield": {
+    "edibleParts": "Berries — fresh eating, baked goods (muffins, pies, cobblers, pancakes), jams and preserves, syrups, smoothies, dried (excellent), wine, and freezing (one of the best fruits for the freezer — freezes with minimal quality loss); leaves (used occasionally in herbal tea)",
+    "harvestSeason": "June–August depending on cultivar; stagger harvest over 6–8 weeks by planting a mix of early, mid, and late-season cultivars; berries do not all ripen simultaneously — harvest individual clusters when deeply blue and slightly soft; taste is the best indicator of ripeness",
+    "medicinalUses": "One of the most documented medicinal foods available to a temperate gardener; exceptionally high in anthocyanins (the pigments responsible for the deep blue-purple color) with well-documented antioxidant, anti-inflammatory, cardiovascular protective, and neuroprotective properties; clinical research supports benefits for cognitive function, blood sugar regulation, and eye health; the ORAC (antioxidant capacity) value of blueberries is among the highest of all commonly eaten fruits; eat fresh, frozen, or dried — all forms retain significant medicinal value",
+    "craftOtherYield": "Natural dye (blue-purple from berries); the attractive multi-season form makes it a valuable ornamental specimen plant independent of its fruiting value"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and nutritious",
+    "toxicityAnimals": "Non-toxic; berries are consumed by wildlife and are safe for dogs and most animals; do not confuse with toxic look-alikes in the wild",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Food (high-value fruit — both nutritionally and medicinally among the finest fruits a temperate gardener can grow)",
+      "Medicinal",
+      "Wildlife Support (exceptional — see Wildlife section)",
+      "Native Plant (supports full ecological network of native insects and birds)",
+      "Soil Builder (shallow roots and leaf litter contribute to the acidic duff layer that sustains the ericaceous plant community)",
+      "Nitrogen Cycling (works with ericoid mycorrhizae — a specialized fungal partnership distinct from the more common endomycorrhizae and ectomycorrhizae)"
+    ],
+    "companionPlants": [
+      "Oak (Quercus spp. — creates the acidic leaf mulch environment that mirrors the native habitat; oak leaf mold is one of the best mulches for blueberries)",
+      "pine (Pinus spp. — pine needle mulch lowers pH over time and mirrors native habitat)",
+      "lowbush blueberry (Vaccinium angustifolium — native groundcover companion for the same acidic soil zone)",
+      "sweetfern (Comptonia peregrina — nitrogen-fixer native to acidic soils; excellent guild companion)",
+      "wild strawberry (Fragaria virginiana — native groundcover)",
+      "comfrey (dynamic accumulator; keep at the drip line rather than directly under the plant to avoid pH conflict — comfrey slightly raises pH over time with heavy use; use judiciously)"
+    ],
+    "antagonists": [
+      "Any alkaline amendment (limestone, wood ash, bone meal, hard water irrigation from a well with high mineral content) — avoid entirely; do not site near concrete foundations or paths (concrete leaches lime and raises pH over time); avoid proximity to black walnut (Juglans nigra) which produces juglone (blueberries have some sensitivity)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value — among the most important native fruiting shrubs in eastern North America; dozens of bird species consume the fruit including American robin, cedar waxwing, Eastern bluebird, gray catbird, Baltimore oriole, brown thrasher, hermit thrush, and many others; native bumblebees are critical and highly effective pollinators; honeybees also visit; the dense multi-stemmed structure provides excellent cover and foraging habitat",
+    "hostPlantFor": "One of the most important Lepidoptera host plants in the genus; documented host for Spring Azure butterfly (Celastrina ladon), Brown Elfin butterfly (Callophrys augustinus), Striped Hairstreak (Satyrium liparops), and numerous moth species including the Blueberry Sphinx moth; in Pennsylvania, the genus Vaccinium is among the top native shrub genera for supporting native insect diversity",
+    "nestingHabitat": "Dense multi-stemmed thicket structure provides excellent nesting cover for ground-nesting and shrub-nesting birds; mature clumps are used by catbirds, towhees, and sparrows"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse blueberry foliage and stems, particularly on young plants; protect new plantings for the first 2–3 years with wire cages (a simple cylinder of 4' welded wire fencing around each plant is effective and inexpensive); established mature plants with woody stems are less vulnerable but still browsed during hard winters or when preferred forage is scarce; young plants without protection are at high risk in areas with active deer populations"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — sensitive to road salt and maritime salt spray; avoid siting near heavily salted roads or coastal exposure; does not recover well from repeated salt loading; general avoidance of salt-affected soil zones is the safest approach"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — not drought-tolerant; consistent moisture is important; the shallow fibrous root system dries out quickly; mulching heavily (3–4\" of pine bark or wood chips) is essential to retain moisture"
+    },
+    "other": "Avoid proximity to concrete or masonry (pH creep from lime leaching); avoid overhead irrigation with hard well water if mineral content is high — the alkalinity accumulates in soil over time; test soil pH annually for the first several years to track drift"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — the soil preparation and pH management are the primary ongoing commitment; once established in correctly prepared acidic soil, the plants themselves are not high-maintenance",
+    "pruningNotes": "Blueberries fruit on one-year-old wood and two-year-old wood; minimal pruning is needed for the first 3–4 years — allow the plant to establish; after year 4, begin annual late-winter pruning (February–March before bud break): remove dead, damaged, or crossing wood; remove the oldest, thickest canes at the base every few years to stimulate vigorous new growth; avoid heavy pruning that removes all the productive 1–2 year old wood; the goal is a balanced framework of young, productive canes; tip-pruning the previous season's growth slightly can encourage branching and larger berry clusters",
+    "propagationMethods": [
+      "Softwood cuttings (June–July — moderately easy under mist or humidity dome)",
+      "hardwood cuttings (dormant season — less reliable than softwood)",
+      "layering (tip-layer or mound layer — reliable; pin a low stem to the ground, cover the mid-section with acidic soil, roots develop at the buried node)",
+      "division of established clumps",
+      "seed (long process; seedlings do not come true to cultivar)"
+    ]
+  },
+  "cultivarNotes": "Cross-pollination between two or more different cultivars is strongly recommended — stagger bloom times slightly for reliability but ensure overlap. Cultivar selection varies meaningfully by region: northern highbush cultivars (the standard V. corymbosum selections) are best suited to Zones 4–7; southern gardeners in Zones 7–9 should instead seek southern highbush cultivars (hybrids of V. corymbosum × V. darrowii) such as 'O'Neal', 'Emerald', 'Star', and 'Jewel', which require far fewer chill hours; Pacific NW gardeners have a different cultivar landscape and should consult regional extension resources. For northern growers in Zones 4–7, the following are the most reliable standard selections:\n**'Bluecrop'** (mid-season; the benchmark standard cultivar for the Northeast; reliable, productive, excellent flavor, light blue medium-large berry; widely available at every nursery; plant this as the anchor of any blueberry planting; MBG lists this cultivar with a dedicated page);\n**'Blueray'** (early to mid-season; large berry; considered by many to have exceptional flavor — among the best-tasting highbush cultivars; excellent cross-pollinator for 'Bluecrop'; ornamentally attractive fall color);\n**'Jersey'** (late-season; classic heritage cultivar first released in 1928; extends the harvest into August; medium berry with good flavor; vigorous upright grower to 6–8'; pairs well with 'Bluecrop' for cross-pollination);\n**'Patriot'** (early season; Zone 3–7; compact habit; excellent cold-hardiness; one of the most reliable performers for challenging or exposed sites; good flavor; recommended for difficult or marginal sites);\n**'Northblue'** (half-high type, 2–3' tall; a cross between highbush and lowbush species; extremely cold-hardy Zone 3; very ornamental — brilliant red fall color, compact form; excellent for the front of a planting or ornamental use in a visible bed; produces well despite compact size; smaller berry than standard highbush but excellent flavor).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Acidic soil food forest zone",
+      "native plant guild",
+      "wildlife garden",
+      "edible hedge or mass planting",
+      "specimen ornamental shrub; the exceptional multi-season ornamental value — spring flowers",
+      "summer fruit",
+      "fall color",
+      "winter stems — justifies placement in highly visible areas",
+      "not just a back-of-property utility planting"
+    ],
+    "designPlacement": "Blueberries require a dedicated acidic soil zone — the most practical approach for heavy-clay or neutral-soil sites is a raised bed or heavily amended planting area filled with acidic media (pine bark fines, acidic compost, peat moss as a pH stabilizer); a mass planting of 3–5 plants produces cross-pollination benefits, extends the harvest season across cultivars, and creates wildlife habitat value that a single specimen cannot match; full sun (6+ hours) is non-negotiable for productive fruiting; pair with native oaks (Quercus spp.) as long-term canopy companions — oak leaf litter is a natural acidifying mulch that perpetually maintains the pH of the understory and mirrors the native habitat ecology; avoid siting near concrete foundations, paths, or alkaline-amendment-heavy garden areas",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaccinium_corymbosum",
+    "inaturalist": "https://www.inaturalist.org/taxa/52740-Vaccinium-corymbosum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279992"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — V. corymbosum is native to Pennsylvania; wild populations occur throughout the state in moist, acidic woodland edges, wetland margins, and low-lying areas; this is a native plant of this exact landscape type",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed on any PA regulated species list",
+      "drainage": "The red clay at the Hegins site is unsuitable for blueberries without significant intervention; a raised bed or heavily amended acidic planting zone is the practical approach; in-ground planting directly into the red clay is not recommended; raised bed with imported pine bark fines, acidic compost, and peat moss is the most reliable path to long-term success at this site",
+      "soil": "The red clay at the Hegins site is generally unsuitable without major amendment or raised bed construction; a raised bed filled with a mix of pine bark fines, acidic compost, and native sandy loam is the practical solution; this approach removes both the pH conflict and the drainage problem simultaneously",
+      "cultivarNotes": "plant 'Bluecrop' + 'Blueray' as the core reliable mid-season pair; add 'Jersey' for a late harvest extension; add 'Patriot' for a challenging or exposed site, or 'Northblue' as a compact ornamental option (fits within a 5' height limit if needed for Section C).",
+      "designPlacement": "A dedicated acidic raised bed in a full-sun location on the property is the correct approach; avoid Section A (north-facing, insufficient sun for productive fruiting); standard highbush types will exceed the 5' height limit of Section C, though 'Northblue' (half-high, 2–3') could work there as an ornamental accent; the long-term goal of a mass planting of 3–5 plants in a dedicated acidic zone represents one of the highest-value food forest additions possible for this site — the combination of nutritional value, medicinal value, wildlife support, native plant status, ornamental beauty, and longevity (50+ years) makes this among the best investments in the entire system; an oak guild pairing in the same acidic zone would mirror native habitat and self-maintain soil pH over time",
+      "siteObservations": null
+    }
+  }
+}

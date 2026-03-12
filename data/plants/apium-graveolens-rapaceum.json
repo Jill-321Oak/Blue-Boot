@@ -1,0 +1,156 @@
+{
+  "id": "apium-graveolens-rapaceum",
+  "name": {
+    "commonName": [
+      "Celeriac",
+      "Celery Root",
+      "Turnip-Rooted Celery",
+      "Root Celery"
+    ],
+    "latinName": "Apium graveolens var. rapaceum",
+    "family": "Apiaceae"
+  },
+  "range": {
+    "nativeRange": "The wild ancestor of all Apium graveolens forms (including celery and celeriac) is native to the Mediterranean basin and western Asia, particularly coastal marshes, river margins, and wet lowlands from Ireland and Britain through southern Europe to the Caucasus and western Himalaya. Celeriac as a cultivated form was developed primarily in northern and central Europe, where it became a staple winter vegetable well before the stalking celery (var. dulce) became popular. The two are varieties of the same species — celeriac is the older and hardier form.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; cultivated throughout the US as a vegetable crop; not naturalized in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; does not self-seed prolifically and poses no naturalization risk"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 as an annual or biennial crop; grown as an annual vegetable across this range; reliably winter-harvested after light frosts improve flavor; stores through winter in a root cellar"
+    }
+  },
+  "description": {
+    "height": "18-24\" of leafy top growth above the swollen base; leaves are celery-like — pinnate, dark green, strongly aromatic; the edible \"bulb\" (technically a swollen hypocotyl and stem base, not a true root) sits at or just above soil level and may reach 4-5\" in diameter at full maturity",
+    "spread": "12-18\" per plant; the leafy tops are upright but spread outward as the season progresses; lower leaves should be removed periodically as the plant matures",
+    "spacing": "10-12\" between plants in rows 18\" apart; closer spacing (8-10\") is acceptable in raised beds but slightly reduces final bulb size; wider spacing (12\") produces larger globes",
+    "growthRate": "Slow from seed — celeriac is among the slowest of all common vegetables to establish; the first two months of growth produce deceptively little visible progress, then the plant accelerates through summer; bulb swelling is most pronounced in late summer and fall as temperatures cool",
+    "timeToMaturity": "110-120 days from transplant; this is a long-season crop by any measure; in Zone 6a, achieving full-sized roots requires an early February start indoors and harvest in October-November; rushed starts or late transplanting will not produce full-sized bulbs before hard frost; plan accordingly and treat this as one of the first seeds sown each year",
+    "lifespan": "Annual in cultivation in Zone 6a; biennial by nature — if left in ground, it would overwinter and flower in its second year, but the edible root deteriorates after flowering; grow strictly as an annual",
+    "deciduousEvergreen": "Annual — all top growth killed by hard frost; harvest before temperatures drop below the low 20s°F",
+    "winterInterest": "None — cut foliage; the harvested root is the winter value, stored in the root cellar"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred — 6-8 hours minimum; reduced sun slows growth and reduces bulb size; do not plant in partial shade locations; celeriac needs the full photosynthetic capacity of a sunny raised bed to build the large bulb within its 110-120 day window",
+    "water": "High and consistent; celeriac is among the most moisture-demanding of all vegetable crops; drought at any point in the season causes hollow centers, cracked bulbs, and stunted growth; aim for 1-1.5\" per week consistently; mulch heavily (3-4\" of straw or shredded leaves) to retain moisture and stabilize soil temperature; do not allow the bed to dry out between waterings; this is the single most important cultural requirement",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive; celeriac needs soil that holds moisture but does not waterlog; raised beds with high organic matter content are ideal — they hold moisture between waterings while draining excess freely; heavy clay that holds standing water is unsuitable",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate to poor; celeriac needs consistent moisture but also good drainage for root development; clay can cause hypoxic conditions around developing roots; raised beds or well-amended clay with compost and grit produces better results; the long growing season means clay's drainage limitations compound over time"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; prefers near-neutral to slightly acidic; strongly acidic soils reduce nutrient availability and slow growth"
+    },
+    "texturePreference": "Rich, deeply prepared, loose loam with high organic matter content; celeriac is a heavy feeder that benefits from compost-amended beds; incorporate 2-4\" of well-rotted compost before planting; the soil should be friable enough that the developing hypocotyl can expand freely at the surface; unlike true root crops (parsnips, carrots), celeriac develops above the soil surface — deep tilth is not required, but surface soil quality matters greatly",
+    "rootCharacter": "Celeriac produces a shallow fibrous root system that anchors the enlarged hypocotyl; the edible portion is not technically a root but rather the swollen junction of the hypocotyl (the section between the cotyledons and true roots) and stem base — this is why celeriac sits at or slightly above soil level and why it sends fibrous side roots outward from the globe; these side roots should be periodically trimmed (see Pruning Notes) to encourage the central globe to enlarge rather than divert energy into the fibrous root network"
+  },
+  "bloom": {
+    "bloomTime": "Second year only — biennial; in cultivation as an annual, celeriac does not flower; if a plant bolts in an unusually warm first season (rare), it will produce small white umbels; this is uncommon but more likely if the plant is stressed by cold in early spring after transplant",
+    "bloomDescription": "Typical Apiaceae flat compound umbels (identical in structure to dill, carrot, and parsnip); white to cream-colored flowers in summer of the second year; the flowers attract the same beneficial insect community as other Apiaceae family members",
+    "fragrance": "Foliage is strongly aromatic — the concentrated celery-parsley scent that defines the whole plant; flowers have a faint, pleasant herbal fragrance in second-year plants",
+    "flowerSex": "Hermaphrodite (bisexual flowers in the umbels)",
+    "pollination": "Insect-pollinated in the second year; irrelevant to the edible harvest, which occurs in year one before flowering; the Apiaceae flower structure attracts parasitic wasps and hoverflies when blooming"
+  },
+  "yield": {
+    "edibleParts": "The swollen hypocotyl (the large, rounded globe at the base of the plant) is the primary harvest — peeled and used raw or cooked; the flavor is intensely concentrated celery, richer and more complex than celery stalk, without any of celery's bitterness; the young inner leaves and stalks are also edible and can be used as a celery substitute in cooking; peel deeply with a knife rather than a peeler — the outer skin is knobby and deeply furrowed and requires generous trimming; the interior is white, firm, and dense",
+    "harvestSeason": "October to November in Zone 6a; harvest after light frosts (which improve and sweeten the flavor) but before hard freezes below the low 20s°F damage the bulb; roots can be left in the ground through light frosts without harm and even benefit from a few frost events; harvest by pulling the entire plant, cutting off the top growth 1-2\" above the globe, trimming side roots, and brushing off soil; do not wash before storage",
+    "medicinalUses": "Traditional European digestive tonic; celeriac and celery share phthalides, which have mild antihypertensive and antispasmodic effects in herbal tradition; anti-inflammatory compounds; historically used for rheumatism and gout in European herbalism; not a primary medicinal plant but a nutritionally dense vegetable with legitimate health value",
+    "craftOtherYield": "None significant; the cut tops can be composted"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally safe as food; contains furanocoumarins (psoralens), as do all Apiaceae family members — handling large quantities of fresh foliage in bright sunlight can cause phototoxic skin reactions (photodermatitis) in sensitive individuals; this is a minor concern in normal harvesting and garden work; wear gloves if skin sensitivity is known; the cooked or raw root poses no toxicity concerns",
+    "toxicityAnimals": "The foliage contains the same furanocoumarins as other celery family plants — not of major concern in typical exposure; the strong aromatic scent deters most grazing animals naturally; celeriac is not considered a significant toxicity risk for pets or livestock",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual vegetable)"
+    },
+    "roles": [
+      "Food (primary — high-value root vegetable and celery substitute)",
+      "Annual Vegetable",
+      "Aromatic Pest Deterrent (the intense celery-family scent confuses and repels some pest insects)",
+      "Insectary Support (second-year plants attract beneficial insects to the Apiaceae flower structure, though in normal annual culture this is not the primary role)"
+    ],
+    "companionPlants": [
+      "Leeks and other Alliums (classic European companion planting — leeks and celeriac are traditionally intercropped in European kitchen gardens; the Allium scent may deter carrot fly and other Apiaceae pests); Bush beans (said to improve growth of celery family plants and fix nitrogen); Tomatoes (compatible — not traditionally paired but compatible timing and spacing); Marigolds (Tagetes — general pest deterrent; appropriate bed-edge planting); Nasturtiums (trap crop for aphids); Comfrey (at bed edge for mulch and mineral cycling — keep outside the bed proper)"
+    ],
+    "antagonists": [
+      "Parsley (competitive — both are heavy feeders in the Apiaceae family; avoid planting directly adjacent); Fennel (allelopathic to most vegetables; keep well away); Corn (shades out celeriac); other large",
+      "sprawling crops that will compete for moisture or light"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "In second-year flowering form: parasitic wasps, hoverflies, and small bees on the Apiaceae umbels; in annual garden culture, the foliage attracts black swallowtail butterfly (Papilio polyxenes) larvae, as celeriac is a host plant in the Apiaceae family — finding swallowtail caterpillars on celeriac is a pleasant surprise and not a pest problem; the caterpillars do not cause significant economic damage to a mature celeriac plant",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) — the same species that uses dill, parsley, fennel, and carrot; celeriac foliage is acceptable host material; worth noting as a wildlife bonus",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good to very good — the strong celery-family scent (phthalides, furanocoumarins) is an effective deterrent; deer strongly prefer other browse and typically avoid intensely aromatic Apiaceae plants; celeriac is a much lower deer-pressure crop than most vegetables; not completely deer-proof if deer are very hungry, but consistently low on the browse priority list"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; not a salt-tolerant plant"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — celeriac is drought-intolerant and one of the few vegetables where consistent moisture is genuinely non-negotiable; hollow, cracked, bitter roots result from moisture stress; mulching and consistent irrigation are essential"
+    },
+    "other": "Moderate frost tolerance once established — established plants can handle light frosts (28-30°F briefly) without damage; in fact, a few frost events before harvest improve flavor; cannot tolerate prolonged hard freezes below the low 20s°F; early spring cold after transplanting can trigger bolting if plants are exposed to temperatures below 55°F for extended periods — harden off carefully before transplanting and do not set out too early"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — celeriac requires consistent attention through the season: watering discipline, periodic leaf removal, and a long indoor seed-starting period; it is more demanding than most vegetables but less demanding than stalking celery (var. dulce), which it resembles and outperforms in Zone 6a conditions; the cultural effort is rewarded by an excellent yield of long-storing, versatile roots",
+    "pruningNotes": "Three specific maintenance tasks define successful celeriac culture. (1) LOWER LEAF REMOVAL: As the season progresses and the bulb begins to enlarge (typically July onward), remove the lower yellowing leaves by snapping or cutting them cleanly at the base; this opens airflow, reduces disease pressure, and directs the plant's energy into bulb enlargement rather than maintaining old foliage; by midsummer, the plant should be carrying 8-10 central leaves with older outer leaves removed; do not remove healthy green inner leaves. (2) SIDE ROOT TRIMMING: The globe sends out lateral fibrous roots that can anchor it to the surrounding soil; use a clean knife to trim these side roots flush to the globe surface periodically through summer; this is not always described in basic cultivation guides but is practiced by experienced growers to encourage a round, smooth globe rather than a gnarled, fibrous one. (3) SOIL MOUNDING: Some growers mound soil slightly around the base of the developing globe to keep it evenly moist and prevent sunscald on the exposed upper surface — optional but beneficial in hot, dry spells.",
+    "propagationMethods": [
+      "Seed (the only method; celeriac does not divide or propagate vegetatively in normal garden use). Seed germination is slow (14-21 days) and requires specific conditions: (a) do not cover seeds — they need light to germinate; surface sow and press lightly onto moist germination mix; (b) keep warm (70-75°F) and consistently moist but not waterlogged; a humidity dome over the tray accelerates germination; (c) sow in late January to mid-February in Zone 6a — this is one of the earliest indoor starts of the year",
+      "alongside onions and leeks; germinating before Valentine's Day is the general rule; (d) transplant outdoors in mid-April when plants are 6-8 weeks old and have 3-4 true leaves; harden off carefully over 7-10 days before planting; can tolerate light frosts (28-30°F briefly) once hardened but do not rush outdoor exposure in early spring as extended cold below 55°F may trigger bolting"
+    ]
+  },
+  "cultivarNotes": "Named varieties make a meaningful difference in celeriac — stick to proven performers with confirmed maturity within 110-120 days. **'Diamant'** is the benchmark variety for North American gardeners: vigorous, large-rooted, excellent flavor, and widely available; consistently the most reliable choice across zones and one of the few varieties with a MBG cultivar page; the first choice for most gardeners. **'Brilliant'** (Burpee) has notably smoother skin than older varieties, making it significantly easier to peel — a practical advantage that should not be underestimated; flavor is good but slightly milder than Diamant; excellent for kitchen convenience. **'Mentor'** is the European standard in German and Dutch commercial cultivation — dense, flavorful, and productive; good if available from European seed sources (Baker Creek, Fedco). **'Prinz'** has received strong flavor reviews and RHS Award of Garden Merit recognition; excellent all-around performer where available. **'Mars'** (Johnny's Selected Seeds) is a reliable American-market performer noted for consistent size and productivity; a solid alternative to Diamant.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated raised bed vegetable production; kitchen garden annual; cool-season root crop for fall harvest and winter storage; excellent addition to the vegetable rotation for its storage value and culinary versatility"
+    ],
+    "designPlacement": "Vegetable garden, raised bed, cool-season crop; celeriac claims space in the bed from transplant in April through harvest in October-November and should be planned into the rotation accordingly; companion interplanting rather than succession planting in the same space is the appropriate strategy; the long growing season (110-120 days from transplant) means it is not a crop that can be shuffled around or fit into gaps — it needs a dedicated bed slot planned from the seed-starting calendar forward; the low deer pressure (Apiaceae family deterrence) is a meaningful advantage over most vegetables",
+    "acquisitionStatus": "Not yet acquired; seed is inexpensive and widely available; Diamant from Johnny's Selected Seeds or Burpee is the recommended sourcing"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Celeriac",
+    "inaturalist": "https://www.inaturalist.org/taxa/58785-Apium-graveolens-rapaceum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276064"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins: raised beds strongly recommended for reliable celeriac production; in-ground with heavy compost amendment is a fallback",
+      "soil": "Raised beds preferred for celeriac; consistent moisture retention and drainage are both needed",
+      "cultivarNotes": "'Brilliant', 'Prinz', or 'Mars' are reliable celeriac cultivars for Zone 6a; start indoors in late February/early March for transplant after last frost; harvest before hard freeze in October.",
+      "designPlacement": "Raised beds strongly preferred; start indoors in late February; transplant after last frost (mid-April); Zone 6a timing requires a February seed start — mark it as one of the first acts of the planting year; harvest in October before hard freeze; celeriac is strongly recommended over stalking celery (Apium graveolens var. dulce) for Zone 6a Pennsylvania — it is more heat-tolerant, more drought-forgiving, more compact, stores far better, and produces a more reliable yield than celery in Pennsylvania summers",
+      "siteObservations": "The primary cultural challenges at Hegins are moisture consistency and the long indoor start. The raised bed system addresses drainage; the greater challenge is maintaining even moisture through the Zone 6a summer without drying out during heat spells — deep mulching (straw is ideal) and a regular watering schedule are essential. The January-February seed start precedes most gardening activity and must be deliberately scheduled — mark it in the garden calendar as one of the first acts of the planting year. A heat mat during germination dramatically improves germination speed and rate. On flavor: celeriac raw in remoulade (julienned, dressed with mustard, mayonnaise, lemon, and chives) is one of the great forgotten vegetable dishes of European cuisine; roasted or mashed with potato it is exceptional in fall and winter; the concentrated flavor punch per unit of garden space is among the best of any root vegetable."
+    }
+  }
+}

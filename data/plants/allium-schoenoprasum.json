@@ -1,0 +1,159 @@
+{
+  "id": "allium-schoenoprasum",
+  "name": {
+    "commonName": [
+      "Chives"
+    ],
+    "latinName": "Allium schoenoprasum",
+    "family": "Amaryllidaceae (formerly Alliaceae)"
+  },
+  "range": {
+    "nativeRange": "Europe, Asia, and North America — notably one of the few culinary Allium species with a natural range that includes North America; native from Alaska to Newfoundland and south through the Rocky Mountains and Great Lakes region",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to parts of the US — A. schoenoprasum is native to northern and western North America including Alaska, the Pacific Northwest, and Rocky Mountain regions; the plants widely cultivated in gardens throughout the US are often European strains; cultivated chives are present and naturalized throughout the country but the distinction between wild native and naturalized garden chives is worth noting"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; chives spread by clump division and modest self-seeding but are not considered invasive anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "12-18\" in bloom; foliage 8-12\"",
+    "spread": "6-12\" per clump; expands gradually over years",
+    "spacing": "6-8\" for ground cover effect; 12\" for individual clumps",
+    "growthRate": "Moderate; new clumps reach harvestable size in year 1",
+    "timeToMaturity": "Productive from first year",
+    "lifespan": "Long-lived; essentially permanent; self-divides to expand over time",
+    "deciduousEvergreen": "Deciduous — foliage dies back in frost; emerges very early in spring (one of the first edible plants ready to harvest after winter)",
+    "winterInterest": "None — dies back completely"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates the widest light range of most culinary alliums — good for north-facing conditions",
+    "water": "Medium; moderately drought tolerant; consistent moisture produces better yield",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates clay better than most alliums; avoids waterlogged conditions",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good to moderate; chives are adaptable and tolerate clay better than most Allium species; the fibrous clump root system handles clay conditions well; drainage improvement with compost is beneficial but not critical; a practical clay-tolerant herb"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable; performs in average garden soil including clay-loam",
+    "rootCharacter": "Small bulb with fibrous roots; clump-forming; non-invasive"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Spherical flower heads 1-1.5\" wide of densely packed pink-purple florets atop straight upright stems; among the prettiest allium flowers relative to plant size; covers the clump in bloom; attractive in the ornamental border as well as the herb garden",
+    "fragrance": "Mild onion/garlic scent from foliage; flowers lightly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant — bees work chive flowers intensively; one of the best early-summer bee plants in the herb garden; also attracts butterflies and other beneficial insects"
+  },
+  "yield": {
+    "edibleParts": "Leaves (mild onion flavor; use fresh in eggs, salads, soups, potatoes, sour cream; one of the most widely used fresh herbs); flowers (edible — beautiful as a salad garnish; same mild onion flavor; use petals or whole flowers); bulbs (small, edible but rarely harvested)",
+    "harvestSeason": "Leaves from earliest spring through fall — one of the longest harvest seasons of any herb; snip as needed from the outside of the clump; regrows rapidly",
+    "medicinalUses": "Traditional mild antibacterial and digestive properties (allicin compounds); minor circulation benefits; used traditionally in small quantities medicinally; primarily a culinary plant",
+    "craftOtherYield": "Dried flower heads for arrangements (retain color well when dried)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe and widely consumed",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia in dogs and cats; even small amounts consumed regularly can be dangerous; a significant caution if pets access the garden. Toxic to horses as well.",
+    "allelopathy": "Mild allelopathic effect — chive exudates inhibit some fungal pathogens (black spot, scab) and may deter aphids; a positive effect when used as a companion plant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Food (culinary herb — primary)",
+      "Pest Confuser (allicin exudates deter aphids, root-feeding insects, and some fungal pathogens — companion planting value throughout the garden)",
+      "Insect Attractor (excellent pollinator plant during bloom)",
+      "Dynamic Accumulator (sulfur compounds from root exudates)"
+    ],
+    "companionPlants": [
+      "Roses (classic — chives at the base of roses deter aphids and black spot; a well-documented companion planting relationship)",
+      "carrots",
+      "tomatoes",
+      "brassicas; essentially compatible with all vegetables and herbs; avoid planting adjacent to peas and beans (mild allelopathic effect on legumes)"
+    ],
+    "antagonists": [
+      "Peas and beans (avoid direct adjacency — chive exudates may inhibit legume growth)"
+    ],
+    "coppiceable": "Cut back to 2-3\" above the ground as needed throughout the season — the clump regrows vigorously within 2-3 weeks; cutting triggers fresh new growth; multiple harvests per season"
+  },
+  "wildlife": {
+    "attracts": "Bees (excellent), butterflies, beneficial insects",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — all Allium species are strongly avoided by deer; among the most reliable deer-deterrent plants; the onion scent is highly effective"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates dry spells once established; best with moderate moisture"
+    },
+    "other": "Tolerates part shade; tolerates cold to Zone 3; one of the easiest and most reliable herbs for beginners; self-maintains indefinitely with minimal care"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Divide clumps every 3-4 years in spring when they become crowded or the center dies out; lift the entire clump, split into sections of 5-10 bulbs, and replant — this rejuvenates production and creates new plants. Deadhead spent flowers to prevent self-seeding if desired (though the modest self-seeding is rarely a problem). Cut back hard after bloom (June) to encourage a fresh flush of clean foliage for summer and fall harvest.",
+    "propagationMethods": [
+      "Division (easy — standard method; divide every 3-4 years)",
+      "seed (easy; surface-sow in spring; germinates well; less reliable for exact flavor than vegetative division)"
+    ]
+  },
+  "cultivarNotes": "The straight species is standard and excellent. **'Forescate'** is a cultivar with larger, more showy rose-pink flowers — good for ornamental use. **'Profusion'** is selected for heavy flower production. Allium tuberosum (garlic chives) is a related species (see separate profile) with flat leaves and white flowers, milder garlic flavor, and excellent ornamental value. Both species have a place in the herb garden.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "kitchen garden",
+      "companion planting (especially with roses)",
+      "border edging",
+      "container"
+    ],
+    "designPlacement": "Herb garden, container, border edge, companion plant",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_schoenoprasum",
+    "inaturalist": "https://www.inaturalist.org/taxa/59254-Allium-schoenoprasum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=j270"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA as a species specific to this region; cultivated plants are European strains; wild native populations in PA are not documented; grown as a garden herb throughout PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: in-ground planting is generally fine with compost amendment; no raised bed required; chives adapt well to Section B clay conditions",
+      "soil": "Hegins clay with compost is adequate; in-ground planting works well for chives",
+      "cultivarNotes": "Standard chives are fully hardy in Zone 6a; garlic chives (A. tuberosum) also Zone 6a hardy; both perform well at Hegins",
+      "designPlacement": "Section B kitchen herb strip; easy in-ground planting; border edge near kitchen",
+      "siteObservations": null
+    }
+  }
+}

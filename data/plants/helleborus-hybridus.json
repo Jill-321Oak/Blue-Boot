@@ -1,0 +1,157 @@
+{
+  "id": "helleborus-hybridus",
+  "name": {
+    "commonName": [
+      "Lenten Rose",
+      "Hybrid Hellebore"
+    ],
+    "latinName": "Helleborus × hybridus",
+    "family": "Ranunculaceae"
+  },
+  "range": {
+    "nativeRange": "Complex hybrid; primary parent H. orientalis is native to Turkey and Greece",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely cultivated and naturalized in scattered locations across the eastern US, particularly in the mid-Atlantic and Southeast. Does not form wild populations aggressively."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed on any US state noxious weed list. Self-seeds slowly in favorable shade conditions but does not spread aggressively or displace native flora. Seedlings are easy to remove if unwanted. Not a concern in any region of the lower 48."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "18-24\" in flower; foliage similar",
+    "spread": "18-24\"",
+    "spacing": "18-24\"",
+    "growthRate": "Slow to establish; accelerates after year 2",
+    "timeToMaturity": "Full flowering display from year 2-3; self-seeding colony in 5+ years",
+    "lifespan": "Exceptional — 20-30+ years; among the longest-lived garden perennials",
+    "deciduousEvergreen": "Semi-evergreen — old foliage persists through winter, replaced by new leaves in spring",
+    "winterInterest": "High — persistent leathery evergreen foliage AND flowers appearing late winter through early spring (often through snow) make this one of the most valuable plants for winter and early-spring garden structure"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full shade; one of the best flowering plants for difficult shade conditions. In Zones 8-9, requires reliable afternoon shade to prevent scorch; in Zones 4-6, tolerates more light exposure.",
+    "water": "Medium; reasonably drought tolerant once established in shade",
+    "drainagePreference": {
+      "description": "Well-drained preferred; dislikes waterlogged soil. Crown rot (Helleborus net necrosis virus and fungal pathogens) is the primary risk of poor drainage — standing water around the crown in winter is often fatal. Raised planting or sloped beds improve outcomes in heavy soils.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Hellebores tolerate clay better than many perennials if drainage is adequate, but heavy unamended clay with winter waterlogging will cause crown rot. In clay soils across the eastern US and Midwest, amend the planting hole generously with comite, leaf mold, or aged bark to improve drainage around the root zone. Planting slightly high (crown above grade) helps in marginal drainage situations."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Prefers rich, humus-rich, well-drained soil. Tolerates a range of textures from sandy loam to clay loam provided organic matter content is adequate and drainage is functional. Heavy soils benefit from generous organic amendment at planting time.",
+    "rootCharacter": "Fibrous, deep-rooted clump; resents disturbance; self-seeds slowly in congenial conditions"
+  },
+  "bloom": {
+    "bloomTime": "February through April — one of the very first perennials to bloom, often while snow is still present. Bloom timing shifts with zone: as early as January in Zone 8-9, February-March in Zone 6-7, March-April in Zone 4-5.",
+    "bloomDescription": "Nodding cup-shaped flowers 2-3\" diameter; available in white, cream, pale yellow, pink, rose, purple, near-black, and spotted combinations; single and double forms; flowers face downward (an endearing characteristic — tilt to view)",
+    "fragrance": "Faint; not a significant fragrance plant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile and cross-fertile; pollinated by early-emerging bees — a critical early nectar source; seedlings from open-pollinated plants show color variation"
+  },
+  "yield": {
+    "edibleParts": "None — do not consume",
+    "harvestSeason": "N/A",
+    "medicinalUses": "AVOID — historically used in herbal medicine (as a violent purgative and to treat madness) but entirely superseded; all parts dangerously toxic",
+    "craftOtherYield": "Cut flowers — hellebores are excellent as cut flowers if stems are seared immediately after cutting"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "ALL PARTS HIGHLY TOXIC — contains hellebrin, helleborin, and protoanemonin; ingestion causes severe burning of mouth and throat, excessive salivation, vomiting, severe abdominal pain, diarrhea; sap causes skin irritation and dermatitis on contact; wear gloves when handling. Serious concern if young children have unsupervised access to planting areas.",
+    "toxicityAnimals": "ALL PARTS HIGHLY TOXIC to dogs, cats, and horses — cardiac glycoside effects; potentially fatal; animals generally avoid due to bitter taste but fallen leaves and seeds are a risk",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (ground layer)"
+    },
+    "roles": [
+      "Beauty (exceptional — unique winter/early spring bloom window)",
+      "Insect Attractor (critical early-season nectar when little else is available)",
+      "Ground Cover (evergreen foliage suppresses weeds through winter)"
+    ],
+    "companionPlants": [
+      "Astilbe (complementary shade preference, sequential bloom)",
+      "snowdrops and early bulbs beneath",
+      "ferns (for summer texture after hellebore blooms fade)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Remove old foliage to the ground in late January/early February before flowers emerge — this improves the flower display and removes any diseased leaf material"
+  },
+  "wildlife": {
+    "attracts": "Early-emerging bees (critical nectar source late winter through early spring when almost nothing else is blooming); minimal other wildlife value",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Evergreen foliage clumps provide some winter ground cover for small creatures"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — among the most deer-resistant plants available. All parts contain toxic alkaloids and are strongly avoided. Even in areas with heavy deer pressure, hellebores are rarely browsed. Young transplants are generally safe without protection, though a light deterrent during the first season is prudent in high-pressure areas."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light spray; not suitable for direct roadside planting or coastal salt wind"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; shade reduces moisture demand. In arid western climates, supplemental irrigation is necessary even in shade."
+    },
+    "other": "Tolerates deep shade, dry shade (once established), competition from tree roots, and cold exposure. Performs well in north-facing aspects across all zones."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the lowest-maintenance perennials once established",
+    "pruningNotes": "Remove old foliage in late January or early February (before flowers emerge) by cutting all leaves to the ground with scissors or secateurs. This is the only regular maintenance required. Wear gloves — sap is irritating. Deadhead if you want to control self-seeding; leave spent flowers if you want the colony to expand slowly.",
+    "propagationMethods": [
+      "Seed (slow — fresh seed sown immediately after harvest (June) gives best results; germination takes 1-2 years; seedlings variable in color)",
+      "division (spring — difficult, resents disturbance; only divide if absolutely necessary; best left undisturbed)"
+    ]
+  },
+  "cultivarNotes": "H. × hybridus covers a huge range of forms and colors, and cultivar selection should account for regional climate and garden context.\n**Zone 3-5 (cold-climate gardeners):** Select hardy strains bred for cold tolerance. The 'Winter Jewels' series (Northwest Garden Nursery) is reliably cold-hardy and offers consistent named colors. Prioritize single-flowered forms, which tend to be hardier than doubles. In the coldest areas (Zone 3-4), site hellebores on the south or east side of buildings for winter protection.\n**Zone 6-7 (mid-range gardeners):** The widest cultivar selection performs well here. 'Honeymoon' series offers vigorous doubles. 'Gold Collection' (Helleborus Gold Collection) includes selections with outward-facing flowers — easier to appreciate than the traditional nodding form. Both single and double forms are reliable. For maximum visual impact in shade beds, select darker colors (purple, near-black, deep rose) that stand out against mulch and foliage.\n**Zone 8-9 (warm-climate gardeners):** Heat tolerance becomes a factor. Select cultivars with proven performance in southern heat — 'Pine Knot Select' strains and the 'Winter Thriller' series are bred in warmer climates. Provide reliable afternoon shade and adequate moisture. Double-flowered forms may suffer more in heat; singles are safer.\n**For an economical approach in any zone:** Buy unnamed mixed seedlings and select your favorites once they bloom in year 2-3; remove colors that don't fit the scheme. Open-pollinated seedlings are vigorous and long-lived.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Shade border",
+      "foundation planting",
+      "winter garden",
+      "woodland garden"
+    ],
+    "designPlacement": "Ideal for north-facing and east-facing aspects where few other flowering plants perform well. Place in mid-zone of shade borders — behind low ground covers and bulbs, in front of taller shrubs and ferns. The February-April bloom window fills the gap before most shade perennials activate. Evergreen foliage provides year-round structure. Group in drifts of 3-5 for best visual effect. Site away from high-traffic areas if toxicity is a concern (children, pets). Combines well with snowdrops, crocus, and other early bulbs for a layered late-winter display.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Helleborus_orientalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/126550-Helleborus-orientalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=260409"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "Hegins red clay requires amendment before planting hellebores in-ground. Work in generous leaf mold, compost, and coarse bark to at least 12\" depth. Planting on a slight slope or raised mound is advisable given the site's drainage issues after rain. The compacted, construction-disturbed foundation beds need thorough preparation — double-dig if possible. Once established in amended clay, hellebores perform well here.",
+      "soil": "Hegins red clay is workable for hellebores with amendment — incorporate 3-4\" of compost and leaf mold into the planting zone. The naturally slightly acidic to neutral pH of Pennsylvania clay soils suits hellebores well without lime adjustment.",
+      "cultivarNotes": "For north-facing beds with a purple/pink/yellow color scheme, select darker cultivars (purple, near-black, deep rose) for maximum contrast against yellow roses and pale lilac companions. 'Winter Jewels' and 'Honeymoon' series are reliable performers in Zone 6a. 'Gold Collection' outward-facing types are especially valuable in north-facing beds where the nodding habit makes traditional forms harder to see.",
+      "designPlacement": "Section A (north-facing front bed) mid-zone — uniquely suited to the cold north-facing microclimate. Fills the February-April bloom gap before anything else in the bed is active. Evergreen foliage provides winter ground cover and structure when the rest of the bed is dormant. The 5' height limit is not a constraint (18-24\" mature height). Note toxicity if children have unsupervised access to the front bed. Excellent deer resistance is critical given the active east wildlife corridor.",
+      "siteObservations": "The north-facing front bed's cold microclimate and partial shade are near-ideal conditions for hellebores — this is one of the plants best adapted to the most difficult aspect on the property. The compacted red clay will require thorough amendment before planting (see Drainage and Soil notes above). Deer pressure from the east corridor is not a concern — hellebores are among the most reliably deer-proof ornamentals available. The semi-evergreen foliage will provide winter visual interest in a bed that is otherwise fully dormant November through March."
+    }
+  }
+}

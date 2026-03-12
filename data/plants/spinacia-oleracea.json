@@ -1,0 +1,164 @@
+{
+  "id": "spinacia-oleracea",
+  "name": {
+    "commonName": [
+      "Spinach"
+    ],
+    "latinName": "Spinacia oleracea",
+    "family": "Amaranthaceae (Amaranth family; formerly placed in Chenopodiaceae)"
+  },
+  "range": {
+    "nativeRange": "Central and southwestern Asia — believed to have originated in ancient Persia (modern Iran and neighboring regions); introduced to China by the 7th century AD, to Spain by the 11th century via Arab traders, and from there throughout Europe; now cultivated globally in temperate regions and widely naturalized in disturbed ground in North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced as a cultivated crop from Eurasia; does not naturalize meaningfully — spinach is a strict annual that rarely persists outside cultivated settings; occasional volunteers from bolted plants may appear in disturbed garden soil but do not establish wild populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — a cultivated annual that does not establish or spread outside the garden in any US region; plants left to bolt and set seed will occasionally produce volunteers in disturbed soil, which is welcome rather than concerning; not listed on any state noxious weed list or USDA invasive species database"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "Annual; grown in zones 2–11 as a cool-season crop; fully hardy as a seedling and overwintering rosette to Zone 3–4 with protection; heat is the limiting factor rather than cold — spinach bolts rapidly when temperatures consistently exceed 75°F and day length surpasses 14 hours, making it impractical as a summer crop in most of the lower 48"
+    }
+  },
+  "description": {
+    "height": "6–12\" in rosette form before bolting; bolt stalks reach 18–24\" when flowering; rosettes of overwintering plants remain low (2–4\") through winter",
+    "spread": "6–10\" per plant at mature rosette size",
+    "spacing": "4–6\" for standard leaf production; plants can be sown more thickly and thinned progressively, eating thinnings; 2–3\" in dense plantings intended for baby leaf harvest; 6\" for full-sized rosette heads",
+    "growthRate": "Fast — germinates in 5–10 days in cool soil (40–65°F); harvestable baby leaves in 25–30 days; full rosette maturity in 40–50 days; one of the first direct-sow crops possible in spring, often germinating in soil temperatures as low as 35–40°F",
+    "timeToMaturity": "25 days to first baby leaf harvest; 40–50 days to full leaf maturity; bolting is triggered by day length exceeding approximately 14 hours and temperatures consistently above 75°F; spring crops in Zones 5–7 face a racing bolt clock from late April onward; fall crops have the advantage of shortening days and declining temperatures, which is why they are far more productive in most climates",
+    "lifespan": "Annual; completes its full life cycle in a single season; however, overwintering rosettes (sown late summer to early fall, mulched, and covered) survive winters in Zones 5–7 and resume growth in late winter to early spring — this bridging behavior gives spinach a pseudo-biennial quality in the garden even though it is strictly an annual",
+    "deciduousEvergreen": "Annual — not applicable; overwintering rosettes remain alive but dormant or near-dormant under cover through the coldest months, resuming active growth as days lengthen in late winter",
+    "winterInterest": "None ornamental; overwintering rosettes are green and alive under mulch or row cover but are not visible in the landscape during this phase"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun is ideal for vigorous growth and fastest maturity; partial shade (3–4 hours of direct sun) is actively useful in spring, where afternoon shade can delay bolting by reducing soil temperature and moderating light exposure — a partially shaded spring bed can meaningfully extend the harvest window; fall crops perform best in full sun as day length shortens naturally; overwintering crops should receive whatever sun is available through the dormant period",
+    "water": "Medium; consistent, even moisture is essential for quality — well-watered plants produce larger, more tender, more flavorful leaves and are slower to bolt than drought-stressed plants; drought stress is one of the key triggers for premature bolting alongside heat and long days; the root system is shallow and relies on surface moisture; mulching around plants conserves moisture meaningfully",
+    "drainagePreference": {
+      "description": "Average; prefers well-drained but moisture-retentive soil; does not tolerate waterlogged conditions; raised beds are ideal where drainage is poor, providing better drainage while retaining the consistent moisture spinach needs",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — spinach can be grown in clay soil if it is well-amended with compost to improve tilth and drainage, but unamended heavy clay produces stunted, poor-quality plants; the shallow root system (6–8\") means all feeding occurs in the surface layer, so amending the top 8–10\" is sufficient; waterlogging from clay subsoil is the primary risk, as spinach roots rot quickly in saturated conditions; raised beds filled with amended soil over clay are the most reliable approach in heavy-clay gardens across the eastern US, Midwest, and Pacific Northwest"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0; spinach is notably sensitive to acidic soil below pH 6.0, which can cause yellowing and poor growth; if soil pH is unknown, a quick test is worthwhile before the first planting; lime amendment may be useful in acidic-soil regions over time; optimal performance is at 6.5–7.0"
+    },
+    "texturePreference": "Loose, fertile, well-amended soil with high organic matter produces the best yields — rich, dark loam is ideal; spinach responds more strongly to soil fertility than most annual vegetables, with leaf size and quality directly tied to nitrogen availability; generous compost amendment addresses both heavy texture issues and the fertility need simultaneously",
+    "rootCharacter": "Shallow, fibrous taproot; roots are relatively short (6–8\") and concentrated in the upper soil layer; this shallow root character is why consistent surface moisture matters so much; it also means spinach does not mine deep subsoil the way deep-taprooted plants do — all its feeding is in the amended surface layer; the taproot character makes direct sowing preferable to transplanting, though spinach tolerates transplanting better than arugula if seedlings are moved young and carefully"
+  },
+  "bloom": {
+    "bloomTime": "Spring-sown crops bolt in late spring as day length exceeds ~14 hours and temperatures warm; fall-sown crops that are overwintered bolt the following spring as days lengthen; the exact timing varies by zone — in Zones 5–7 this is typically May through early June",
+    "bloomDescription": "Spinach is dioecious — male and female flowers occur on separate plants. Male plants produce clusters of small, inconspicuous greenish-yellow flowers on upright spikes; female plants produce denser, less showy flowers that develop into clusters of small, spiny or rounded seeds depending on the variety type. The bolt stalks are upright and branching, typically 18–24\" tall; the flowers are functionally invisible at garden scale — there is nothing ornamental about spinach in bloom. The bolt stage signals the end of the leaf harvest; leaves produced after bolting begins become smaller, more bitter, and tougher. Once the central growing point elongates visibly, the plant has committed to reproduction and leaf quality declines rapidly.",
+    "fragrance": "None",
+    "flowerSex": "Dioecious — male and female flowers on separate plants; a spinach planting will contain both sexes, with male plants typically bolting earlier than females",
+    "pollination": "Wind-pollinated; spinach does not rely on insect pollination; the flowers produce pollen carried by wind between male and female plants; not a meaningful pollinator resource"
+  },
+  "yield": {
+    "edibleParts": "Leaves (the primary yield — the entire shoot, including stems, is edible when young and tender). Spinach leaves are among the most nutritionally dense foods in the vegetable garden: exceptionally high in vitamins K, A, C, folate, iron, magnesium, and manganese. The flavor is mild, slightly earthy, and mineral — less assertive than arugula or mustard, more neutral than chard — which is a large part of why it is universally palatable and versatile. Baby leaves (under 3\" long, typically from dense succession sowings or thinnings) are the most tender, mildest, and most suitable for raw salad use; they are the form sold as \"baby spinach\" in grocery stores and are the gold standard for raw eating. Mature leaves (full-sized rosette leaves) are more substantial, slightly more mineral in flavor, and excellent for cooked applications — wilting in butter or olive oil, adding to soups, incorporating into egg dishes, sauteing with garlic. Both sizes freeze well after blanching, making spinach one of the few annual vegetables where a surplus harvest has genuine long-term value. Oxalic acid content is significant (see Cautions).",
+    "harvestSeason": "Spring crop: direct sow as soon as soil can be worked — timing varies by zone (late February in Zone 8, late March in Zone 6, mid-April in Zone 4–5); baby leaf harvest begins 3–4 weeks after sowing; prime full-leaf harvest runs for 4–6 weeks after that; the spring window closes as days approach 14 hours and temperatures climb; the entire spring harvest window may be as short as 4–6 weeks, and bolt-resistant variety selection and partial shade placement are the primary tools to stretch it. Fall/primary crop: sow 6–8 weeks before first frost (late August to mid-September in Zones 5–7, later in warmer zones); germination is rapid in warm late-summer soil; harvest runs through autumn and into early winter with row cover protection; fall plants not harvested fully can be mulched lightly and covered with floating row cover (Agribon AG-30 or heavier) to overwinter in Zones 4–7. Overwintering and spring regrowth: fall-planted spinach overwintered under row cover or in a cold frame goes dormant or near-dormant through the coldest months but resumes growth in late winter as days lengthen; this late-winter/early-spring harvest is one of the most productive and rewarding windows — the plants are well-rooted and established, growth resumes weeks before a new direct sowing could mature, and fresh spinach greens weeks before the frost-free date is a significant productivity gain; harvest runs from late winter through mid-spring before these overwintered plants bolt. This overwintered early-spring harvest is arguably the highest-value use of spinach in cold-winter climates.",
+    "medicinalUses": "Not a formal medicinal herb in western herbalism, but nutritionally exceptional — the iron, folate, vitamin K, and magnesium content supports cardiovascular health, bone health, and hematopoiesis; the flavonoids and carotenoids (lutein, zeaxanthin) in the leaves are documented to support eye health; the oxalic acid content limits absorption of some minerals (see Cautions), which is relevant for high-volume therapeutic use; broadly considered one of the most health-supportive vegetables in mainstream nutrition research",
+    "craftOtherYield": "None significant; bolted plants produce seed that can be saved for the following season; seed saving is straightforward (allow female plants to dry fully on the stalk, then thresh) but most gardeners purchase fresh seed annually given the low cost"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Not toxic in culinary quantities. However, spinach has one of the highest oxalic acid contents of any common vegetable — oxalic acid binds to calcium, iron, and other minerals in the digestive tract, forming insoluble salts that cannot be absorbed, effectively reducing the bioavailability of these minerals from the spinach itself and from other foods eaten in the same meal. For healthy individuals eating spinach as part of a varied diet, this is a nutritional footnote rather than a clinical concern. For individuals with a history of calcium oxalate kidney stones, high spinach consumption is a meaningful risk factor and should be discussed with a healthcare provider; cooking (steaming, blanching, sauteing) reduces oxalic acid content significantly by breaking down soluble oxalates — cooked spinach is generally preferable to raw for high-volume consumption in stone-prone individuals. Individuals taking warfarin or other vitamin K-dependent anticoagulants should maintain consistent spinach intake rather than dramatically varying it, as spinach is exceptionally high in vitamin K.",
+    "toxicityAnimals": "The oxalic acid content is the relevant concern — high spinach consumption is not recommended for dogs with kidney issues for the same reasons as in humans; occasional small amounts as a treat are generally safe for healthy dogs and cats; not acutely toxic",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / ground layer — low annual rosette occupying the productive cool-season niche in the vegetable bed"
+    },
+    "roles": [
+      "Food (primary — one of the most nutritionally dense and culinarily versatile of all annual vegetables)",
+      "Cool-Season Bed Occupier (fills bed space productively during the spring and fall windows when summer annuals cannot be grown — two productive seasons plus winter dormancy from a single sowing is exceptional value from a small-scale food system perspective)",
+      "Season Extender (fall crop combined with overwintering is among the best demonstrations of season extension available in cold-winter climates — fresh greens weeks before the frost-free date is a significant productivity gain)",
+      "Living Mulch / Weed Suppressor (dense rosettes shade the soil surface and suppress weed germination during their growing window)",
+      "Soil Nitrogen Consumer (the crop's high nitrogen demand means it actively draws on fertility added to the bed — plan succession with nitrogen-fixing companions or compost applications accordingly)"
+    ],
+    "companionPlants": [
+      "Strawberries (classic pairing — spinach fills the space around strawberry crowns in early spring before the berries are actively growing; harvest spinach and clear before the strawberry canopy closes)",
+      "Radishes (excellent cool-season row companions; radishes mature in 25–30 days and help break heavy soil; they also reportedly deter some leaf miners and flea beetles)",
+      "Alliums — garlic",
+      "chives",
+      "Egyptian walking onion (garlic planted in fall occupies the same bed as overwintering spinach without competition; both overwinter successfully and the garlic companion is broadly considered beneficial)",
+      "Peas (plant together in early spring — peas fix nitrogen that enriches the bed for subsequent crops, and the two species co-mature through spring before summer heat ends both)",
+      "Comfrey at bed edges (dynamic accumulator providing potassium and micronutrients via chop-and-drop; does not compete with shallow-rooted spinach when placed at bed margins)"
+    ],
+    "antagonists": [
+      "Fennel (the general allelopathic antagonist applicable to most annual vegetables — do not plant spinach near fennel); avoid continuous brassica crop rotation in the same bed",
+      "though spinach is Amaranthaceae",
+      "not Brassicaceae",
+      "so it does not share clubroot or other brassica soilborne pathogens — spinach can actually be used in brassica rotations without concern; do not follow spinach with beets or chard in the same season (shared leaf miner pest pressure builds up)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Minor — wind-pollinated spinach flowers provide minimal wildlife value; the garden value is entirely culinary; no significant beneficial insect attraction",
+    "hostPlantFor": "Leaf miners (Liriomyza species and Pegomya hyoscyami — the spinach leaf miner) are the primary insect relationship; the larvae tunnel between leaf surfaces, creating pale, winding blotch mines that are unmistakable and unappetizing; heavily mined leaves are generally discarded; the same pest also attacks beets and chard (all Amaranthaceae); leaf miners typically have two generations per season — a spring flush and a fall flush — which coincides with spinach's two growing windows; row cover installed at planting time is the most effective prevention",
+    "nestingHabitat": "None — a low annual without persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — spinach is among the most palatable vegetables in the garden, offering soft, nutritious, low-growing foliage with no chemical, aromatic, or physical defense; deer will browse spinach plants to the ground given any opportunity; the seedling stage is especially vulnerable; physical exclusion (fencing) is essential in any deer-active landscape, not optional; row cover provides incidental deterrence by obscuring the plants and creating a physical barrier, but is not a substitute for proper fencing where deer pressure is significant"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not a salt-tolerant plant; sensitive to saline soil and salt spray; not suitable for coastal or roadside plantings without substantial buffering distance"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — one of the least drought-tolerant annual vegetables; drought stress causes rapid wilting, accelerated bolting, reduced leaf size, and bitterness; consistent irrigation is a quality prerequisite, not an option; mulching the soil surface meaningfully reduces moisture loss and extends the interval between watering"
+    },
+    "other": "Cold tolerance is exceptional and is the key to spinach's value in cold-winter climates — established spinach rosettes survive temperatures down to 20°F without protection; under row cover (Agribon AG-30 or heavier) or in a cold frame, they survive well below 0°F; this cold-hardiness far exceeds that of lettuce, bok choy, arugula, and most annual vegetables; it is the biological trait that makes the overwintering strategy viable and reliable in Zones 4–7. Heat tolerance is the inverse — spinach is one of the most heat-intolerant common vegetables, bolting faster at high temperatures than almost any other crop; above 75°F consistently, the plant's biological clock accelerates dramatically regardless of day length; gardeners in Zones 8+ should treat spinach as a strictly fall/winter/early-spring crop"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low in fall; moderate in spring (primarily due to the bolt management challenge and timing precision required)",
+    "pruningNotes": "Harvest management is the primary maintenance task. For continuous leaf harvest, remove outer leaves from the rosette regularly (once per week during peak growth), leaving the central growing point intact — the plant will continuously push new center leaves as outer ones are taken, a productive cut-and-come-again cycle that extends the harvest window considerably. For a single harvest, cut the entire rosette at the base with scissors 1–2\" above the soil; this is efficient for batch processing and freezing. Bolt monitoring: check spring plantings daily once temperatures begin climbing above 65°F; the central growing point will elongate and begin producing smaller, stalkier leaves — this is the onset of bolting; harvest the entire plant immediately at this point; do not wait for the stalk to elongate fully; leaves harvested at early bolt stage are still usable, if slightly more bitter. Leaf miner management: if leaf miners are present, remove and destroy (do not compost) heavily mined leaves to reduce the local population; row cover installed before adult flies lay eggs is the most effective prevention; cover should be installed at sowing or transplanting, not after damage appears. Downy mildew (Peronospora farinosa f. sp. spinaciae): the most significant disease of spinach in humid climates; appears as yellow patches on upper leaf surfaces with a grey-purple fuzzy sporulation on the undersides; spreads rapidly in cool, wet conditions; prevention — choose resistant varieties (Tyee, Space, Regiment all carry resistance ratings), avoid overhead irrigation and wetting foliage in the evening, ensure good air circulation between plants, rotate spinach to a new bed location each season. Do not plant spinach in the same spot in consecutive years.",
+    "propagationMethods": [
+      "Direct sow (strongly preferred and standard practice): sow seeds 1/2\" deep in well-amended soil; germination occurs at soil temperatures as low as 35–40°F",
+      "making spinach one of the earliest direct-sow crops possible; sow thickly (1–2\" apart) and thin progressively to 4–6\"",
+      "eating thinnings as microgreens; seed can be pre-soaked 12–24 hours before sowing to improve germination speed in cold early-spring soil; succession sow every 2–3 weeks during the fall planting window for continuous harvest rather than a single flush. Transplanting: possible but less common and less ideal than with most vegetables — spinach tolerates transplanting adequately if seedlings are moved when small (2–3 true leaves); indoor starting is not generally recommended since direct sowing works so well and early",
+      "but starting under lights 3–4 weeks before planned outdoor date is a valid approach for growers who want very early spring production before outdoor direct sow is possible. Overwintering and volunteer seedling: spring-bolted spinach that sets seed will occasionally volunteer in fall from the seed bank — a welcome bonus but not a reliable succession strategy."
+    ]
+  },
+  "cultivarNotes": "Spinach cultivar selection should prioritize three factors in order of importance: (1) bolt resistance for spring crops, (2) downy mildew resistance for both seasons, and (3) leaf type preference. The leaf type distinction — savoy, semi-savoy, or flat/smooth — is primarily a practical harvesting choice rather than a performance factor.\n**Leaf types:**\n**Savoy** (crinkled, deeply textured leaves) — the classic \"real spinach\" texture; best flavor and most visually striking; the textured surface traps more flavor compounds but also traps grit, sand, and soil, making washing more labor-intensive; multiple washes in a salad spinner are required. **Bloomsdale Long Standing** is the benchmark savoy heirloom — a dark, deeply crinkled leaf with excellent flavor and above-average bolt resistance for a savoy type; widely available, trusted, and proven across generations of home gardens; the \"Long Standing\" designation refers specifically to its slower bolting compared to earlier Bloomsdale selections; a reliable first choice for fall planting and a reasonable spring choice given good bolt resistance; performs well across Zones 3–9.\n**Semi-savoy** (lightly crinkled, moderate texture) — the practical best-of-both-worlds category: enough texture for good flavor retention and visual appeal, much easier to wash than full savoys. **Tyee** is the gold-standard semi-savoy for Zones 5–8 — consistently bolt-resistant, excellent downy mildew resistance, vigorous, productive, and available from all major seed suppliers; it is the most recommended spinach variety for home gardens in the mid-Atlantic and Northeast by extension services and experienced growers, and performs well across most temperate US climates. **Regiment** is a newer semi-savoy with outstanding bolt resistance and strong mildew resistance; a strong fall crop performer. **Space** is another semi-savoy with excellent bolt resistance and a particularly clean, smooth-ish leaf — very easy to wash; well-suited for fall production.\n**Flat/smooth** — the easiest to wash, the most commercially common (supermarket baby spinach is almost universally a smooth type), and the mildest in flavor; somewhat less bolt-resistant than the best semi-savoys but very practical for high-volume processing and freezing. **Space** (also considered semi-savoy by some sources but very smooth in practice) covers this niche.\n**Zone-band recommendations:**\n**Zones 3–5 (short season, severe winters):** Bolt resistance is less critical for spring crops (cooler summers buy more time), but cold hardiness for overwintering is paramount. Bloomsdale Long Standing and Winter Giant are strong choices. Overwintering requires heavier protection (cold frame or AG-50 row cover).\n**Zones 6–7 (classic cool-season window):** The full bolt-resistance toolkit matters for spring crops, and overwintering is highly reliable with standard row cover. Tyee, Regiment, and Bloomsdale Long Standing are the core varieties. Winter Giant is the overwintering specialist — bred specifically for cold-hardiness and slow spring bolting after overwintering.\n**Zones 8–10 (mild winters, hot springs):** Spinach is a fall-through-spring crop only; spring bolt pressure is intense and early. Tyee and Regiment are the best bolt-resistant options for the narrow spring window. Fall and winter harvests are the primary production seasons, and overwintering requires no special protection.\n**Overwintering specialist: Winter Giant** — bred specifically for cold-hardiness and overwintering performance; larger leaves, very cold-tolerant, slower to bolt in spring after overwintering; an excellent choice for the dedicated overwintering planting in Zones 4–7 where cold hardiness and slow spring bolting are the priorities.\nAll recommended varieties are available from Johnny's Selected Seeds, High Mowing Organic Seeds, or Baker Creek Heirloom Seeds.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary); cold frame or low tunnel overwintering; fall and spring cool-season production; companion planting with strawberries and spring alliums"
+    ],
+    "designPlacement": "Spinach belongs in dedicated vegetable beds and is one of the most productive cool-season crops available. Its role is strictly productive — it is not an ornamental plant and does not belong in ornamental borders or herb gardens for display purposes. The vegetable bed area should include spinach as a permanent fixture of the cool-season calendar, grown in at least two dedicated successions: a spring sowing as early as soil can be worked and a primary fall sowing 6–8 weeks before first frost. The overwintering strategy should be implemented from the first year — leave a portion of the fall planting unharvested, mulch it lightly with straw, and cover it with Agribon AG-30 row cover or a low tunnel; the late-winter to early-spring harvest from these overwintered plants will be one of the most satisfying and practical demonstrations of season extension, providing fresh greens before any other vegetable is harvestable. Pair with radishes, peas, and overwintering garlic in the same bed space for an efficient early-season productive guild. In deer-active landscapes, fencing around the vegetable bed area is a prerequisite for reliable spinach production.",
+    "acquisitionStatus": "To source — seed widely available; purchase Tyee, Bloomsdale Long Standing, and Winter Giant from Johnny's Selected Seeds, High Mowing Organic Seeds, or Baker Creek Heirloom Seeds; all are inexpensive per packet and a single packet provides enough seed for multiple successive plantings"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spinach",
+    "inaturalist": "https://www.inaturalist.org/taxa/84092-Spinacia-oleracea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e819"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; no naturalization concern; an annual crop with no wild persistence",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Department of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — no concern",
+      "drainage": "The red clay at Hegins is not a meaningful impediment in raised bed contexts; for any in-ground sowing, generous compost amendment of the top 8–10\" is required — direct sowing in unamended red clay would produce small, stunted plants; raised vegetable beds remove the clay constraint entirely and are the recommended approach for this site",
+      "soil": "In the raised bed context at Hegins, compost-amended bed mix addresses both the clay texture issue and the fertility need; direct in-ground sowing in unamended red clay would produce small, stunted plants — amendment is not optional for spinach at this site",
+      "cultivarNotes": "For Hegins, the primary recommendations are Tyee (semi-savoy, bolt and mildew resistant) + Bloomsdale Long Standing (savoy, classic flavor) for fall crops — grow both; harvest Tyee first as it matures quickly, Bloomsdale as a longer-season companion. Winter Giant for overwintering plantings (maximum cold hardiness, best spring regrowth window). Tyee or Regiment for the spring crop (maximum bolt resistance is paramount for the short spring window).",
+      "designPlacement": "Spinach is destined for the dedicated raised vegetable beds, not Sections A, B, or C. The overwintering strategy is especially well-suited here — sow late August to mid-September, mulch and cover with Agribon AG-30 by November, and harvest fresh greens in late March to April before any new direct sowing could mature. The deer situation at Hegins (east-corridor pressure) makes fencing around the vegetable bed area a prerequisite; row cover provides some incidental deer protection during the overwintering period but cannot substitute for physical exclusion.",
+      "siteObservations": "The fall crop is the primary crop for Zone 6a and should be treated as the anchor of the spinach calendar — it is more productive, less bolt-prone, and less pest-prone than the spring crop. The spring sowing is worthwhile but should be approached as a bonus early-season crop with realistic expectations: a 4–6 week harvest window at best, fully dependent on timing and variety. Leaf miner pressure should be anticipated from the first planting — row cover installed at sowing is not optional for spring crops, where the May leaf miner generation coincides with the spinach harvest window. Fall crops are generally less affected by leaf miners (the fall generation is smaller) but row cover through September provides additional protection. The overwintering strategy is the single highest-value cultural technique available for spinach in this climate: a mid-August to mid-September sowing covered in November and left through winter will deliver fresh spinach greens in late March before the frost-free date, from plants that require zero replanting effort. This should become a permanent part of the garden's annual rhythm from the first year."
+    }
+  }
+}

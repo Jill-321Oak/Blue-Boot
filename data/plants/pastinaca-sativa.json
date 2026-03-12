@@ -1,0 +1,154 @@
+{
+  "id": "pastinaca-sativa",
+  "name": {
+    "commonName": [
+      "Parsnip",
+      "Wild Parsnip (naturalized form)"
+    ],
+    "latinName": "Pastinaca sativa",
+    "family": "Apiaceae (Umbelliferae)"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; native throughout much of temperate Europe from Britain and Scandinavia south to the Mediterranean; cultivated since antiquity and widely naturalized in North America, where it has escaped gardens and established along roadsides, field edges, and disturbed ground",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Europe; extensively naturalized across the northern half of the country from New England through the upper Midwest and Pacific Northwest; present in most states but most densely established in the northeast, Great Lakes region, and northern Plains states; classified as introduced/naturalized rather than native in all US flora databases"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Yes — in its naturalized (wild parsnip) form, Pastinaca sativa is considered invasive or a noxious weed in portions of the northeastern and midwestern United States, including New York, Vermont, Wisconsin, Minnesota, Ohio, Michigan, and several other states; it is listed as a restricted or prohibited noxious weed in some jurisdictions. Wild parsnip spreads aggressively along roadsides, railroad corridors, and disturbed ground, forming dense monocultures that displace native vegetation. The cultivated garden parsnip is the same species and will not behave invasively in a managed vegetable bed, but bolted plants that set seed can naturalize. Do not allow plants to go to seed outside of a contained vegetable context. Check your state's noxious weed list before planting if you are in an area where wild parsnip is regulated."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9; cold-hardy biennial; roots survive ground freeze without damage and are actually improved by it; no significant heat zone ceiling — performs adequately in Zone 9 but flavor and sweetness peak in areas with reliable hard frosts"
+    }
+  },
+  "description": {
+    "height": "12-18\" rosette of pinnate leaves in the first-year vegetative stage; second-year flowering stalks reach 3-5'; for vegetable production, plants are grown as annuals and harvested before flowering",
+    "spread": "6-12\" per plant; relatively compact rosette in the first year",
+    "spacing": "Thin to 3-4\" for standard roots; 6\" spacing produces larger, more tapered roots; rows 12-18\" apart; direct sow densely and thin in stages (thinnings are edible)",
+    "growthRate": "Slow to moderate — germination is notably slow (14-21 days under ideal conditions), and the crop requires 100-120 days from sowing to harvestable root; one of the longer-season root vegetables; patience is required at both ends of the season",
+    "timeToMaturity": "100-120 days from sowing to first harvest; flavor and sweetness peak after the first hard frosts of fall (below 28°F), when the plant converts stored starch to sugar; the defining characteristic of parsnips is that they are better after frost than before it; for the sweetest roots, leave in the ground through winter and harvest in early spring — this traditional overwintering method produces a crop of extraordinary sweetness and is the preferred method for serious growers",
+    "lifespan": "Annual for vegetable production (harvested before flowering); biennial by nature — if left in the ground through a second summer, plants bolt, flower, and set seed in year two; treat as annual in the kitchen garden",
+    "deciduousEvergreen": "Deciduous — the feathery, pinnate foliage dies back in hard frost; the root overwinters in the ground and survives deeply frozen soil",
+    "winterInterest": "None above ground; the overwintering root is invisible; mark rows with stakes before the ground freezes to locate them in early spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6-8 hours minimum; parsnips are full-sun root vegetables that develop poorly in shade; reduced light reduces root size and sweetness",
+    "water": "Medium and consistent; even moisture during germination is critical — the soil must not dry out during the slow 14-21 day germination window or germination rates will collapse; once established, moderate drought tolerance; avoid waterlogging, which promotes root rot and canker",
+    "drainagePreference": {
+      "description": "Good drainage essential; standing water causes crown rot and phytophthora root disease; raised beds or mounded rows are strongly preferred on any heavy soil; parsnip tolerates moderately heavy soil better than carrot but still benefits from loose, open soil structure; chronically waterlogged ground is fatal to overwintering roots",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate to good — parsnip is more tolerant of clay than carrot due to its thicker, more robust taproot, but heavy clay causes forking, misshapen roots, and reduced length. Amended clay (deeply worked with compost and coarse sand to 12-18\") can produce acceptable roots. Short-rooted cultivars like 'All American' perform significantly better in clay than long-rooted types like 'Hollow Crown'. Raised beds filled with loose mix remain the most reliable approach on heavy clay across the eastern US, Midwest, and Pacific Northwest where clay soils are prevalent."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acid to neutral; performs well across most garden soil pH ranges; lime if below 6.0"
+    },
+    "texturePreference": "Deep, loose, stone-free, well-amended soil to 12-18 inches produces long, straight, well-formed roots; heavy clay causes forking, misshapen roots, and reduced size — not a crop failure, but a quality reduction; double-dug beds or deep raised beds with loose mix (topsoil/compost/sand blend) produce the most satisfying harvest; parsnip is more tolerant of clay than carrot due to its thicker, more robust root, but loose soil remains the ideal for any grower seeking full-length, well-formed roots",
+    "rootCharacter": "Long, tapered, fleshy taproot — the primary yield; can reach 12-18\" in length in ideal loose soil; the root is the storage organ that accumulates sugar through frost cycles; requires deep, unobstructed soil to develop full length and avoid forking"
+  },
+  "bloom": {
+    "bloomTime": "June-July of the second year (if allowed to overwinter without harvest and complete its biennial cycle)",
+    "bloomDescription": "Flat-topped compound umbels (characteristic of Apiaceae) of small yellow flowers; the flower structure is typical of the carrot family — broadly attractive to beneficial insects; the second-year flowering plant is tall, architectural, and quite striking, but allow it to bloom only if you are intentionally collecting seed or want the wildlife benefit, as a bolted plant is no longer harvestable",
+    "fragrance": "Mild, slightly sweet herbal scent from the flowers; the foliage has a distinctive pungent, green-vegetal smell when crushed or handled — notably more acrid than carrot tops",
+    "flowerSex": "Hermaphrodite; individual flowers are perfect",
+    "pollination": "Insects — primarily small bees, wasps, flies, and beneficial parasitoid insects are strongly attracted to the open umbel flowers; umbel flowers in the Apiaceae are among the most valuable food sources for small beneficial insects in the garden"
+  },
+  "yield": {
+    "edibleParts": "ROOT (primary yield) — the cream-to-ivory fleshy taproot, harvested after frost for peak sweetness; flavor is rich, sweet, nutty, and complex — described as a sweeter, earthier relative of the carrot with a distinctive warmth; one of the sweetest of all root vegetables after a hard freeze, when enzymatic conversion of starch to sugar peaks; excellent roasted (caramelizes beautifully), in soups and stews, pureed with butter and cream, or cut into fries and oven-roasted with olive oil; historically one of the most important winter staples in Britain and northern Europe before sugar became cheap. YOUNG LEAVES AND SHOOTS — technically edible as a potherb and historically used; not commonly eaten today; handle with heavy caution (see Cautions).",
+    "harvestSeason": "Primary harvest window is fall through early spring, timed around frost exposure. In zones with reliable hard frosts (Zones 4-7), harvest October through November after multiple hard frosts, or leave in ground under 4-6\" straw mulch through winter and harvest in early spring as the first vegetable of the season — this overwintered, spring-harvested crop has undergone repeated freeze-thaw cycles that produce maximum sweetness. In milder zones (8-9), frost exposure is unreliable and sweetness development is reduced; harvest when roots reach mature size. A cold frame or heavy mulch layer keeps soil workable longer into winter and makes spring harvest easier in cold zones.",
+    "medicinalUses": "Modest traditional medicinal uses in European herbalism; the root contains falcarinol and related polyacetylene compounds with some research suggesting mild anti-inflammatory and antifungal properties; not a primary medicinal plant in modern practice; seeds and leaves were used historically in various preparations; given the phototoxicity risk from the plant's furanocoumarins, casual medicinal experimentation is not recommended",
+    "craftOtherYield": "Second-year plants produce attractive dried seed heads; the architectural umbel structure is ornamental when dried; not a significant craft plant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "PHOTOTOXICITY — this is the most important safety note for parsnip. The sap, stems, and leaves of Pastinaca sativa contain furanocoumarins (psoralen and related compounds), which cause phytophotodermatitis: contact with sap followed by exposure to sunlight (specifically UVA) causes a chemical burn reaction that produces painful blisters, inflammation, and long-lasting brown discoloration of the skin. Reactions are most severe on warm, sunny days when sap exposure and sunlight intensity are highest. ALWAYS wear gloves and long sleeves when harvesting parsnip, handling the tops, thinning seedlings, or working around plants on sunny days. Wash skin and tools thoroughly after contact. The same compounds responsible for this reaction are present throughout the plant, including the root skin. The domestic garden parsnip carries the same risk as wild parsnip — this is the same species. Children should not handle parsnip tops without supervision. Note: the root flesh, once peeled, is safe to handle and eat; the primary risk is from the sap in the foliage, stems, and root skin when combined with sunlight. WILD PARSNIP CONNECTION — Pastinaca sativa in its naturalized wild form is responsible for some of the most severe cases of plant-induced phototoxic burns reported in the northeastern US; it is widely considered a hazardous invasive plant for exactly this reason. The ornamental Queen Anne's Lace (Daucus carota) and edible carrot are related but do not carry the same furanocoumarin load — parsnip is significantly more phototoxic than carrot tops. Work with parsnip in early morning or on overcast days if possible, and treat all above-ground plant material as potentially sensitizing.",
+    "toxicityAnimals": "The same furanocoumarins that cause phototoxicity in people can affect livestock and pets; grazing animals exposed to wild parsnip develop skin lesions in sunlit areas; not a significant risk to dogs or cats from a garden planting under normal conditions, but do not allow pets to chew on the foliage; root flesh is not considered toxic",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground/herbaceous layer (root crop; low annual rosette)"
+    },
+    "roles": [
+      "Annual Root Vegetable (primary)",
+      "Beneficial Insect Plant (second-year flowers are excellent for parasitoid wasps and small pollinators)",
+      "Dynamic Accumulator (deep root mines subsoil minerals; the leafy tops are nutritious compost material)"
+    ],
+    "companionPlants": [
+      "Peas (fix nitrogen before parsnip is sown in the same bed; pea residue improves soil for parsnip roots)",
+      "Radishes (sow with parsnip seed — radishes germinate fast and mark the row while parsnip germinates slowly; also loosen the surface soil)",
+      "Bush beans",
+      "Peppers",
+      "Garlic (general kitchen garden companions; no documented antagonism)",
+      "Rosemary and sage (reputed to deter carrot fly, which also affects parsnip)"
+    ],
+    "antagonists": [
+      "Carrots (both Apiaceae; share pests including carrot fly — do not grow immediately adjacent; rotate; a few beds apart is fine)",
+      "Celery and other Apiaceae (share disease and pest cycles — rotate out of Apiaceae ground each year)",
+      "Fennel (the classic antagonist of most vegetables; keep away from parsnip)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Second-year flowers are exceptional for beneficial insects — umbel flowers provide abundant accessible nectar and pollen for parasitoid wasps (Ichneumonidae, Braconidae), hoverflies (Syrphidae), small native bees, and soldier beetles; this is one of the most wildlife-valuable Apiaceae flowers in the summer garden; consider allowing one or two plants to bolt each season for this benefit, in a contained location where seed dispersal can be managed",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) — a native butterfly that uses plants in the Apiaceae family as its larval host; the larvae are striking (green and black banded with yellow dots); this is an incidental benefit and the damage to a large planting is minimal",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — parsnip is relatively low priority for deer compared to most vegetables; the pungent, acrid smell of the foliage is deterring; deer will eat parsnip tops when other food is scarce or when plants are very young and succulent, but mature parsnip tops are not a preferred browse item; the root is essentially inaccessible to deer when in the ground; parsnip rates significantly better than carrots for deer resistance; in areas with heavy deer pressure, fencing the vegetable garden is still recommended, but parsnip is one of the better-tolerated vegetables in deer country"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low tolerance — parsnip is not salt-tolerant and should not be planted where road salt runoff or salt spray reaches the soil; not typically relevant for vegetable garden placements set back from roadways"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — once established, parsnip is moderately drought tolerant due to its deep root, but consistent moisture during the germination window and early root development is important for stand quality; drought stress during root enlargement can cause woody texture"
+    },
+    "other": "FROST TOLERANT — one of the most frost-tolerant of all vegetable crops; direct sow as early as soil reaches 50°F in spring; seedlings tolerate frost; the mature root survives complete ground freeze without damage and is physiologically improved by it; CLAY TOLERANCE — moderate to good; better than carrot due to thicker root; still benefits significantly from loose soil for root quality; HEAT — performs adequately in warm summers but is fundamentally a cool-season crop; in Zone 8-9, time sowing so root development occurs during the cooler months"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the main challenges are slow germination (requiring patience and sustained soil moisture), thinning, and timing the harvest to capture peak sweetness post-frost; the crop is undemanding once established",
+    "pruningNotes": "No pruning required for annual root production. Thin seedlings progressively to final spacing of 3-6\" — do not pull, but cut or pinch at soil level to avoid disturbing neighbors. If overwintering for spring harvest, cut back any remaining foliage after it dies down in fall and apply 4-6\" of straw or leaf mulch over the rows to keep soil workable and protect roots; mark row ends clearly. Remove mulch in early spring to check progress. For any plant allowed to bolt for seed or wildlife benefit, deadhead (cut flowering stalks) before seed fully matures and disperses unless you are intentionally saving seed or have a controlled area; do not allow plants to naturalize outside the garden — this is the same species as the invasive wild parsnip.",
+    "propagationMethods": [
+      "Direct sow only — parsnip does not transplant well due to its taproot; transplanting causes forking and stunting; sow directly in the prepared bed at final location; SEED VIABILITY IS CRITICAL — parsnip seed loses viability very rapidly and is notoriously short-lived; germination rates drop significantly in the second year and approach zero by year three; always purchase fresh seed for the current season; do not carry over seed from the previous year; this is one of the most important practical facts about parsnip and the most common cause of failed stands; if germination is poor",
+      "the most likely cause is old seed; sow more densely than you think you need to compensate for typical germination rates (40-60% is normal even with fresh seed); sow 2-3 seeds per inch and thin to final spacing; SOIL TEMPERATURE — minimum 50°F for germination; optimal 50-65°F; germination slows above 65°F; sow in early spring when soil is still cool for best results"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection should be guided by soil depth, climate zone, and whether overwintering is practical. **'Hollow Crown'** is the classic heirloom standard — a long (12-18\"), tapered root of excellent flavor; widely grown for centuries; tolerant of variable soil conditions; the most forgiving heirloom for first-time growers; the benchmark against which other cultivars are compared; seed is widely available; performs well in Zones 4-8 wherever deep, loose soil is available. **'All American'** produces a shorter, stockier, more tapered root (8-12\") that is better suited to heavier or less deeply prepared soil, including raised beds with limited depth; the shape reduces forking on less-than-ideal ground; a practical choice for clay-soil gardeners anywhere in the lower 48. **'Gladiator'** (F1 hybrid) offers improved germination consistency, uniform roots, and good disease resistance — a good choice if germination failures have been a problem with heirloom types; less character than Hollow Crown but more reliable stand establishment; widely available; especially valuable in regions where seed suppliers are limited and seed freshness is uncertain. **'The Student'** is a Victorian heirloom variety of exceptional flavor and sweetness, said to be among the finest-tasting parsnips available; slightly lower yield than Hollow Crown but worth growing for pure flavor; for gardeners who want the best-tasting root regardless of zone. **'Tender and True'** is a long-rooted, low-canker British variety with excellent flavor; resistant to parsnip canker (the main fungal disease); particularly valuable in humid-summer regions (eastern US, Gulf states) where canker pressure is higher. For **southern growers (Zones 8-9)**, parsnip is marginal — choose short-season varieties like 'All American' or 'Gladiator', sow in late fall or winter for spring harvest, and accept that sweetness will be reduced without hard freezes. For **northern growers (Zones 3-5)**, any variety performs well; overwintering is straightforward with adequate mulch; 'Hollow Crown' is the default.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary recommendation on heavy soil); in-ground beds are viable with double-digging or deep amendment to 12-18\"; overwintering crop for spring harvest in Zones 4-7 (highest-value use case); long-season anchor crop in the main vegetable rotation; allow one or two plants to bolt annually for beneficial insect habitat in a controlled location"
+    ],
+    "designPlacement": "Parsnip belongs in the primary vegetable beds, ideally in raised beds or deeply prepared in-ground beds that provide 12-18\" of loose, stone-free soil. Assign a full bed or half-bed to parsnip each season as part of an Apiaceae rotation (rotate out of any ground previously used for carrot, celery, or dill in the last two years to break pest and disease cycles). The overwintering use case is the crop's highest-value application in Zones 4-7: sow in spring when soil reaches 50°F, grow through summer, allow fall frosts to sweeten the roots, then mulch heavily and leave in ground through winter for a late-winter or early-spring harvest — the first vegetable of the new season, harvested before any spring planting begins. This makes parsnip a uniquely efficient crop: it occupies bed space through winter when the bed would otherwise sit idle, and delivers the most flavorful harvest at a time when the vegetable garden is otherwise empty. Plan bed access for spring harvest before the ground refreezes in late winter.",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parsnip",
+    "inaturalist": "https://www.inaturalist.org/taxa/59778-Pastinaca-sativa",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; introduced from Europe; not native to Pennsylvania; the naturalized wild form is well established in disturbed areas, roadsides, and fields throughout the state, particularly in the central and northern counties",
+      "paInvasiveStatus": "Wild parsnip (Pastinaca sativa) is recognized as an invasive plant by the Pennsylvania Department of Conservation and Natural Resources (DCNR) and is documented as spreading in disturbed habitats statewide; it is not currently on the PA Dept. of Agriculture's official noxious weed list but is tracked as a species of concern; the phototoxicity hazard elevates its management priority beyond its ecological impact alone",
+      "drainage": "The red clay at Hegins is compacted and drainage-impaired after rain; raised beds with 12-18\" of loose soil mix are strongly recommended for parsnip at this site; in-ground planting is viable only with deep double-digging and heavy amendment (compost/sand blend); the existing raised bed infrastructure removes the clay constraint effectively",
+      "soil": "Raised beds are the recommended format at Hegins given the red clay base; if current beds are shallower than 12\", the short-rooted 'All American' variety reduces the problem; in-ground planting requires deep amendment — add 4-6\" of compost and coarse sand worked to 18\" depth",
+      "cultivarNotes": "Grow **Hollow Crown** as the primary variety (widely available, reliable, excellent flavor) alongside **All American** in any beds with less-than-ideal soil depth, and consider **Gladiator** if germination is a recurring challenge; the Zone 6a freeze-thaw cycle at Hegins is ideal for developing peak parsnip sweetness through overwintering.",
+      "designPlacement": "The raised bed system is ideal for parsnip at this site. Sow in April, grow through summer, allow fall frosts to sweeten the roots (October-November), then mulch heavily and leave in ground through winter for a March-April harvest. The Zone 6a freeze-thaw cycle at Hegins produces the exact conditions that maximize parsnip sweetness. Parsnip is a vegetable bed crop — it does not belong in Sections A, B, or C, nor in any tree guild. Assign to the main raised vegetable beds as part of the Apiaceae rotation.",
+      "siteObservations": "Fresh seed is the single most important input — purchase new seed every spring from a reputable source (Johnny's Selected Seeds, Baker Creek, High Mowing, or local feed stores); do not reuse seed from the previous year. The raised beds at Hegins are well-suited provided soil depth is adequate (12-18\" of loose mix); if current beds are shallower, the All American variety's shorter root reduces the problem. Deer pressure from the east wildlife corridor is lower for parsnip than for most vegetables — the pungent foliage is a natural deterrent — but the general vegetable garden fencing and deer deterrence measures already in place for the site remain necessary. Exercise phototoxicity precautions consistently — wear gloves and long sleeves when thinning, weeding around plants, or harvesting on sunny days; this is a standing rule, not a one-time note."
+    }
+  }
+}

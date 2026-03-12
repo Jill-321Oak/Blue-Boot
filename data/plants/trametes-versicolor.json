@@ -1,0 +1,152 @@
+{
+  "id": "trametes-versicolor",
+  "name": {
+    "commonName": [
+      "Turkey Tail",
+      "Turkey Tail Mushroom"
+    ],
+    "latinName": "Trametes versicolor",
+    "family": "Polyporaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread globally across temperate zones; one of the most common and cosmopolitan bracket fungi in the world; native to North America, Europe, and Asia; found on every continent except Antarctica",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the contiguous United States wherever dead hardwood is present; one of the most abundant and commonly encountered bracket fungi in North America; found in all 48 lower states from coast to coast, in forests, parks, woodlots, and anywhere fallen hardwood persists"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; T. versicolor is a native decomposer organism that fills an essential ecological role; it does not displace other species or spread beyond its natural substrate (dead hardwood); no state lists it as a noxious or invasive species"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — a fungal species that occurs across an exceptionally wide climate range wherever dead hardwood is present; found from Zone 3 through Zone 10 without meaningful hardiness limitations"
+    }
+  },
+  "description": {
+    "height": "Fruiting bodies are thin, leathery brackets 1-4\" wide and 1-3 mm thick; low and flat against the substrate",
+    "spread": "Individual brackets cluster in dense, overlapping rosette-like fans; a single colonized log may support dozens of overlapping fruiting bodies spanning 12-24\" or more; mycelium pervades the entire substrate wood",
+    "spacing": "No traditional spacing; inoculate wood chip beds or logs with turkey tail spawn; the mycelium will spread naturally through all connected hardwood substrate",
+    "growthRate": "One of the most vigorous and fast-colonizing wood decay fungi; mycelium colonizes fresh wood chip beds within weeks to months; fruiting bodies appear rapidly once mycelium is established and conditions are right",
+    "timeToMaturity": "Fruiting bodies can appear in the first season on inoculated chip beds; wild-harvesting from naturally colonized logs and stumps is possible immediately upon discovery",
+    "lifespan": "Individual fruiting bodies are semi-persistent — they are leathery and more durable than fleshy mushrooms, lasting weeks to months on the substrate; mycelium persists and continues fruiting for years as long as substrate remains; a colonized log will fruit repeatedly for 2-5 years or more",
+    "deciduousEvergreen": "Not applicable; mushroom organism; fruiting is seasonal with peaks in spring and fall, but turkey tail fruiting bodies are tough enough to persist through much of the year and are visible year-round on colonized wood",
+    "winterInterest": "Yes — the distinctive banded brackets are visible and identifiable on logs and stumps through winter; one of the few visually interesting fungi in the dormant-season landscape"
+  },
+  "lightAndWater": {
+    "sun": "Shade preferred; grows in shaded forest understory in its natural habitat; any shaded log or chip bed position is ideal; direct summer sun dries substrate and inhibits fruiting; in southern zones (8+), deep shade is especially important to maintain substrate moisture",
+    "water": "Consistent moisture supports active fruiting; the mycelium is drought-tolerant once established but fruiting is triggered by rain and high humidity; watering chip beds during extended dry periods maintains production; in the humid eastern US, natural rainfall is generally sufficient; in arid western regions, regular supplemental watering of substrate is essential",
+    "drainagePreference": {
+      "description": "Not directly applicable to the wood substrate in the usual soil-drainage sense; however, prolonged waterlogging of logs or chip beds can promote anaerobic conditions and competing molds; adequate airflow around logs and chip beds is beneficial; avoid placing substrate in standing-water depressions",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not applicable in the traditional sense — T. versicolor grows in wood substrate, not in soil directly; however, clay soil beneath chip beds retains moisture and slows drainage, which can be beneficial by keeping the overlying wood chips consistently moist; in heavy clay areas, ensure chip beds are not sited in locations where standing water pools after rain, as waterlogged substrate promotes competing molds rather than turkey tail colonization"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood, not soil"
+    },
+    "texturePreference": "Dead hardwood is the primary substrate — any hardwood species including oak, maple, beech, poplar, cherry, and most others; will also colonize wood chip beds, sawdust, and woody debris; avoids cedar and black walnut (as with most wood-decay fungi); thin branches and large logs alike are suitable",
+    "rootCharacter": "White to cream mycelium pervades the wood, forming dense mycelial mats visible at log ends or when substrate is broken apart; T. versicolor causes a white rot, breaking down both lignin and cellulose; the mycelium is an active and efficient decomposer, converting woody material into dark, crumbly humus"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: spring (April-June) and fall (September-November) are peak; fruiting bodies are semi-durable and may be present year-round on colonized wood",
+    "bloomDescription": "Fruiting bodies are thin, leathery, fan-shaped to semicircular brackets with distinctively banded upper surfaces — concentric rings of color including shades of brown, tan, cream, white, rust, and occasionally blue-grey or green (due to algae); the color bands vary between individual specimens but the concentric pattern is always present and always distinctive; the pore surface (underside) is white to cream with very fine, barely visible pores — this is the critical identification feature; the texture is flexible and leathery, not brittle; brackets grow in dense, overlapping clusters on logs and stumps, often forming large rosette-like masses",
+    "fragrance": "Mild, faintly woody or mushroomy; not strongly scented; the dried material has a pleasant mild earthy note",
+    "flowerSex": "Not applicable — sporing organism; white spores released from the fine pore surface on the underside of the bracket",
+    "pollination": "Not applicable; spore dispersal by wind"
+  },
+  "yield": {
+    "edibleParts": "NOT EDIBLE AS FOOD — the fruiting bodies are tough, leathery, and indigestible; T. versicolor is used exclusively as a medicinal mushroom, not as a culinary ingredient; do not attempt to eat the fruiting bodies directly",
+    "harvestSeason": "Collect fruiting bodies when fresh and actively growing — the colors should be vibrant, the flesh firm and flexible, the pore surface white and clean; avoid old, weathered, or darkened specimens; spring and fall are peak; dry immediately after collection; properly dried turkey tail stores for 1-2 years",
+    "medicinalUses": "One of the most clinically studied medicinal mushrooms in the world. Key compounds and documented benefits:\n— PSK (Polysaccharide K / Krestin): a proprietary standardized extract derived from T. versicolor that is an approved pharmaceutical cancer adjunct therapy in Japan; widely used in oncology settings in Asia in combination with conventional chemotherapy and radiation; documented benefits in colon, breast, and lung cancer treatment support\n— PSP (Polysaccharide Peptide): a related compound with similar immunomodulatory action; the basis of several commercial extracts\n— Potent immune modulation: beta-glucans and other polysaccharides activate natural killer cells, macrophages, and T-cells; one of the strongest immune-modulating profiles of any commonly available medicinal mushroom\n— Antiviral activity: documented activity against several viral infections; historically used in traditional Chinese medicine for respiratory and immune conditions\n— Gut microbiome support: clinical research shows prebiotic effects — T. versicolor extracts measurably improve gut bacterial diversity; one of the few medicinal mushrooms with documented microbiome impact\n— Home use: simmer dried turkey tail in water for 20-30 minutes to make a tea; flavor is mild and slightly woody — pleasant and easy to drink daily; for full-spectrum extraction, combine hot water extraction (tea) with alcohol tincture (dual extraction); grind dried material to powder for capsules; this is one of the most accessible and affordable medicinal fungi available — it is free to wild-harvest and extremely abundant",
+    "craftOtherYield": "Dried material (dries easily; stores well; no special equipment needed); turkey tail powder (coffee grinder; use in teas, broths, or capsules); natural dye potential from the pigments in the banded caps"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "NOT EDIBLE — do not consume the fruiting bodies as food; the tough, leathery flesh is indigestible and will cause GI distress if eaten directly; medicinal use as a tea or extract is well-established and safe; the tea and standardized extracts have an excellent safety profile with no significant reported toxicity at normal use levels; as with all wild mushrooms, positive identification is required before use",
+    "toxicityAnimals": "The fruiting bodies are not a known significant toxin concern; dogs that habitually eat wild mushrooms should be discouraged (risk of misidentifying other species); not a specific toxin concern for T. versicolor itself",
+    "allelopathy": "The white rot mycelium actively decomposes lignin and cellulose in its substrate; competes with and displaces other fungi in the same woody substrate; this is a positive characteristic in a food forest chip bed, as the aggressive turkey tail mycelium builds humus while outcompeting potential pathogenic fungi; not allelopathic to garden plants in the soil sense",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Medicinal (one of the most valuable and accessible medicinal fungi available — free wild harvest; tea preparation)",
+      "Soil Builder (white rot mycelium rapidly converts wood chips and logs to humus — one of the most efficient decomposers in the temperate forest)",
+      "Nutrient Cycling (breaks down locked lignin and cellulose, releasing nutrients available to adjacent plants)",
+      "Bioremediation (T. versicolor mycelium has documented capacity to break down certain environmental contaminants in woody substrate)",
+      "Indicator Species (presence on dead hardwood indicates a healthy fungal community and active decomposition — a sign of ecological function in the food forest)"
+    ],
+    "companionPlants": [
+      "Stropharia rugosoannulata (wine cap mushroom — complementary fungal layer partner; wine cap colonizes the top layer of wood chips on the ground while turkey tail colonizes deeper woody substrate and logs; together they provide comprehensive decomposition of the food forest floor layer); Pleurotus ostreatus (oyster mushroom — log culture companion; oyster mushroom and turkey tail can coexist on the same logs as they tend to partition the substrate over time); all food forest trees benefit from the soil-building activity of the turkey tail mycelium in chip mulch paths and beds beneath them"
+    ],
+    "antagonists": [
+      "Competing wood decay fungi (in natural settings, T. versicolor competes with other species for substrate; in cultivation, fresh inoculated chip beds should be established promptly after wood chip delivery to give turkey tail mycelium a head start); Trichoderma (green mold — the primary contamination competitor in wet or poorly aerated substrate)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (numerous beetles and other invertebrates breed in and feed on turkey tail fruiting bodies and the decaying wood they inhabit); birds (woodpeckers and nuthatches investigate colonized logs and stumps for the invertebrate communities within); small mammals",
+    "hostPlantFor": "Many invertebrates breed in the substrate and fruiting bodies; the decaying wood community beneath the turkey tail mycelium supports a complex invertebrate food web integral to food forest soil health",
+    "nestingHabitat": "Decaying logs colonized by turkey tail mycelium provide extensive habitat for wood-boring beetles, ground beetles, and other beneficial invertebrates; indirectly supports woodpecker foraging activity"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable; deer do not browse or target bracket fungi; no protection needed"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable; wood-decay fungi in forest settings have no meaningful interaction with road salt or salt spray"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "The mycelium is tolerant of dry periods once established; fruiting is suppressed during drought but resumes with moisture; one of the more drought-resilient wood-decay fungi due to the moisture-retention of the wood substrate itself; in arid climates, supplemental watering of substrate maintains fruiting production"
+    },
+    "other": "Extremely cold-hardy; the mycelium overwinters in substrate without concern across the full US hardiness zone range; tolerates heat, humidity, and temperature extremes as long as wood substrate is present; one of the most ecologically robust fungi in the temperate forest and one of the easiest to establish in a managed food forest or garden setting"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially none — the lowest-maintenance plant or fungal element in a food forest",
+    "pruningNotes": "Harvest fresh fruiting bodies when colors are vibrant and pore surface is white and clean; dry immediately in a food dehydrator or oven on lowest setting, or air-dry in a well-ventilated space; store dried material in sealed jars away from light and moisture. No substrate management is needed for naturally colonized logs and stumps — the mycelium is self-sustaining. For managed chip beds, add fresh hardwood chips each spring to extend productivity and maintain active decomposition. To verify a positive identification before medicinal use: check the underside for the fine white pore surface (not smooth, not gilled — pored); this distinguishes T. versicolor from the false turkey tail (Stereum ostrea), which has a smooth underside; multiple color bands on the upper surface confirm the ID.",
+    "propagationMethods": [
+      "Wild harvest requires only identification and collection from naturally colonized hardwood — T. versicolor is almost certainly already present on any dead hardwood in a temperate US woodland; no acquisition is needed. For intentional cultivation in food forest chip beds: purchase turkey tail sawdust or grain spawn from a reputable supplier (North Spore, Field & Forest Products, Fungi Perfecti); spread spawn through a fresh hardwood chip bed 4-8\" deep; water in well; the mycelium will establish within weeks in warm weather; fruiting bodies may appear in the first season. For log inoculation: drill and plug inoculate fresh-cut hardwood logs (same method as oyster mushrooms) using turkey tail plug spawn; seal with wax; the logs will begin fruiting within 6-18 months. Natural spread via spore is also significant — established turkey tail will inoculate adjacent chip beds and woody debris through normal spore dispersal."
+    ]
+  },
+  "cultivarNotes": "No named cultivars. Trametes versicolor is the single species used across all zones. Closely related species include Trametes hirsuta and Trametes pubescens, which share the banded bracket form but lack the fine pore surface of T. versicolor and have different medicinal profiles; use the pore surface check for positive ID. The false turkey tail (Stereum ostrea) is the most commonly confused species — it has a smooth, non-porous underside and is not used medicinally. When purchasing spawn for cultivation, any reputable T. versicolor spawn stock is appropriate for outdoor use across the full US zone range (Zone 3 through Zone 10); there is no cultivar selection needed by region.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest fungal layer",
+      "medicinal wild-harvest",
+      "wood chip bed inoculation",
+      "log culture",
+      "chip mulch path decomposer"
+    ],
+    "designPlacement": "Fungal layer throughout any food forest or permaculture system — T. versicolor is a foundational decomposer element for the forest floor. Inoculate wood chip mulch paths and beds with turkey tail spawn when establishing or refreshing chip areas; the mycelium actively builds soil as chips break down. Place dead hardwood logs and stumps in shaded, moist locations within or adjacent to tree guilds as permanent turkey tail substrate — do not remove deadwood from the site. The combination of intentionally inoculated chip beds and naturally colonized logs creates a comprehensive turkey tail presence. For medicinal production specifically: establish one or two dedicated turkey tail logs in a consistently shaded and moist location for easy harvest monitoring. Best suited to shade or part-shade positions; avoid full-sun placements where substrate dries rapidly.",
+    "acquisitionStatus": "Almost certainly already on site — survey all dead hardwood logs, stumps, and fallen branches for banded bracket fungi; confirm identification using the pore surface check; spawn available from mushroom cultivation suppliers for intentional chip bed inoculation"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trametes_versicolor",
+    "inaturalist": "https://www.inaturalist.org/taxa/54134-Trametes-versicolor",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — T. versicolor is native to Pennsylvania and one of the most abundant fungi in the eastern US; nearly ubiquitous in any moist woodland in the state; almost certainly already present on the Hegins property on any dead hardwood — stumps, fallen logs, or large branches on the forest floor",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; same as general Invasive field — not listed by PA Dept. of Agriculture or DCNR; a native species posing no invasive concern",
+      "drainage": "The red clay at the Hegins site actually benefits turkey tail chip beds by retaining moisture beneath the wood substrate; no amendment needed for the clay itself since the fungus grows in the chips above, not in the soil; avoid low spots in the yard where the clay causes standing water after heavy rain — site chip beds and logs on slight slopes or level ground with adequate surface drainage",
+      "soil": "Hardwood is abundant in central Pennsylvania; oak and maple are the dominant local species and both are excellent turkey tail substrate; any tree service wood chips from the Hegins area will be primarily hardwood and suitable for inoculation",
+      "cultivarNotes": "any standard T. versicolor spawn from a reputable US supplier is suitable for outdoor chip bed and log inoculation at this site; no special strain selection required.",
+      "designPlacement": "Throughout the food forest — inoculate all chip mulch paths and beds with turkey tail spawn when establishing or refreshing chip areas; place any dead hardwood logs and stumps in shaded locations within or adjacent to the apple, paw paw, and mulberry guilds; the paw paw guild understory is an ideal shaded and moist location for dedicated medicinal harvest logs",
+      "siteObservations": "Survey existing dead hardwood on and adjacent to the property for current presence; any moist woodland edge or fallen log in Zone 6a Pennsylvania is a likely turkey tail location; the first identification on-site confirms what is almost certainly already a naturalized population. The east wildlife corridor woodland edge is a prime area to check for existing turkey tail colonies on fallen hardwood."
+    }
+  }
+}

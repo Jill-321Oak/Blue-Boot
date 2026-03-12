@@ -1,0 +1,162 @@
+{
+  "id": "rheum-rhabarbarum",
+  "name": {
+    "commonName": [
+      "Rhubarb",
+      "Garden Rhubarb",
+      "Pie Plant"
+    ],
+    "latinName": "Rheum rhabarbarum",
+    "family": "Polygonaceae"
+  },
+  "range": {
+    "nativeRange": "Central Asia (Siberia, Mongolia, northern China); widely cultivated throughout temperate regions for centuries",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Central Asia as a food crop; widely cultivated across temperate North America but does not naturalize significantly — it persists where planted and rarely establishes wild populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; rhubarb does not self-seed prolifically, does not spread by runners, and is not listed on any state noxious weed list or the federal noxious weed list; a well-behaved garden perennial that stays where it is planted"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8; requires a cold dormancy period — performs best in Zones 3-6; begins to decline in productivity above Zone 7 where winters lack sufficient chill; heat zone upper limit is significant — poor performance in AHS Heat Zones 8+ due to insufficient winter chill and summer heat stress"
+    }
+  },
+  "description": {
+    "height": "2-3' foliage (leaf blades extending 18-24\" above crown); flower stalks reach 4-5' when allowed to bolt",
+    "spread": "3-4' at full maturity",
+    "spacing": "3-4'",
+    "growthRate": "Moderate — establishes slowly in year 1; vigorous and dependable from year 2 onward; a long-lived permanent planting",
+    "timeToMaturity": "Light harvest possible in year 2; full productive harvest from year 3 onward",
+    "lifespan": "Very long-lived; a well-sited rhubarb crown can produce for decades with minimal care; divide every 5-7 years to maintain vigor",
+    "deciduousEvergreen": "Deciduous — dies back completely to the crown in late fall; one of the earliest perennials to push new growth in spring",
+    "winterInterest": "None — dies back completely; crown is dormant below ground"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but stalk production and color are best in full sun",
+    "water": "Medium; consistent moisture during the growing season improves stalk yield; will tolerate brief dry spells once established but does not thrive in drought",
+    "drainagePreference": {
+      "description": "Prefers well-drained soil; does not tolerate prolonged waterlogging around the crown, which causes crown rot — the primary drainage-related failure mode for rhubarb; raised planting or amended beds improve success in heavy soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — rhubarb tolerates average clay soils but heavy, poorly drained clay increases the risk of crown rot, especially during winter dormancy when the crown sits in cold saturated soil for extended periods; incorporating generous organic matter (compost, aged manure) at planting depth and mounding the crown slightly above grade significantly improves outcomes in clay; once established in amended clay, rhubarb performs well and the large root system tolerates the density of clay subsoil"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8"
+    },
+    "texturePreference": "Rich, deep, well-drained loam is ideal; tolerates clay soils with adequate drainage; benefits greatly from organic matter incorporation at planting; sandy soils are acceptable if fertility and moisture are maintained but loam is strongly preferred",
+    "rootCharacter": "Thick, fleshy crown and stout storage roots; roots are not deeply penetrating but are wide-spreading and vigorous; do not disturb established crowns unnecessarily"
+  },
+  "bloom": {
+    "bloomTime": "Late spring to early summer (May-June); flower stalks emerge in year 2+ and should be removed promptly",
+    "bloomDescription": "Tall hollow flower stalks (to 4-5') topped with large plume-like panicles of tiny cream-white flowers; botanically interesting but removing them is essential — flowering diverts energy from the crown and significantly reduces stalk production",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated; not relevant for edible production — flower stalks should be cut off as soon as they appear"
+  },
+  "yield": {
+    "edibleParts": "LEAF STALKS (PETIOLES) ONLY — the thick, tart, celery-like stalks are the edible crop; they range from green to deep pink or red depending on cultivar; intensely sour raw; almost universally cooked with sugar; classic uses include pies, crumbles, jams, compotes, chutneys, and sauces; the iconic pairing with strawberries ('strawberry rhubarb') is one of the great flavor combinations in the food garden. WARNING — THE LEAF BLADES ARE TOXIC. See Cautions & Hazards.",
+    "harvestSeason": "Late spring to early summer (May through June in most temperate areas); stop harvesting by early July and allow all remaining stalks to stand and photosynthesize through the rest of the season to recharge the crown; in warmer zones (7-8), harvest window may begin earlier and end sooner as heat stress increases",
+    "medicinalUses": "None significant in modern use",
+    "craftOtherYield": "The large dramatic leaves (to 2' across) are sometimes used as a decorative mold for concrete stepping stones; the leaves break down readily and can be composted (see Cautions regarding livestock)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CRITICAL WARNING — THE LEAF BLADES OF RHUBARB ARE TOXIC AND MUST NOT BE EATEN. The leaves contain very high concentrations of soluble oxalic acid (oxalates) which bind calcium in the body, cause kidney damage, and can cause death in sufficient quantity. Only the leaf stalks (petioles) are edible. This is non-negotiable — there is no preparation method that makes the leaf blades safe to eat. When harvesting, cut or break the leaf blade off the stalk and discard it before bringing stalks inside. The stalks themselves are safe; the leaves are not. Keep this distinction clear, especially for children and new gardeners.",
+    "toxicityAnimals": "The toxic leaf blades pose the same oxalate risk to livestock and pets — do not feed rhubarb leaves to chickens, goats, horses, cattle, or other animals. Composting the leaves is safe as the oxalates break down; feeding them raw to livestock is not. The stalks are not a concern for incidental animal contact.",
+    "allelopathy": "None known",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (herbaceous perennial layer)"
+    },
+    "roles": [
+      "Perennial Food Crop (stalks)",
+      "Ornamental Groundcover (dramatic large leaves provide excellent weed suppression and visual structure)",
+      "Anchor Perennial (long-lived, low-maintenance, high-reliability food plant)",
+      "Chop-and-Drop potential (leaf biomass is substantial, though the toxic oxalate content means it should be composted rather than used as fresh livestock feed or left as surface mulch in animal areas)"
+    ],
+    "companionPlants": [
+      "Strawberries (classic garden pairing — same harvest season, complementary flavors; the strawberry rhubarb combination works both in the garden and on the plate)",
+      "garlic and alliums",
+      "comfrey (as a mineral-accumulating neighbor; keeps the guild soil fertile)",
+      "currants and gooseberries (compatible perennial food shrub layer neighbors)"
+    ],
+    "antagonists": [
+      "Does not compete well with aggressive spreaders or tall plants that shade it significantly; keep grass and weedy perennials away from the crown; avoid planting directly under tree canopy where shade reduces productivity"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators visit the flowers when they are allowed to develop, but flowering is not recommended for edible production; minimal wildlife value compared to native plants",
+    "hostPlantFor": "Not a host plant for native Lepidoptera in North America (Asian origin; native insects do not use it as a primary host)",
+    "nestingHabitat": "The large basal leaf canopy provides some ground-level cover and moisture retention for ground beetles and other invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — rhubarb is not a preferred deer browse; the large coarse leaves and tart/acidic chemistry are generally avoided; young transplants may still be sampled and should be protected with temporary fencing until established; not guaranteed deer-proof but a reasonably deer-resistant perennial across the eastern US and other high-pressure regions"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside or salt-spray conditions; will not recover well from repeated salt exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established crowns tolerate short dry periods but produce significantly less without consistent moisture; do not allow to wilt repeatedly; in arid western climates, regular irrigation is essential"
+    },
+    "other": "Cold-hardiness is exceptional (Zone 3); the crown requires a hard frost dormancy period each winter — this is a feature, not a limitation, in cold-winter climates; the plant actively needs cold to perform well; poor heat tolerance above Zone 7-8; humidity is generally not an issue as the plant is not prone to foliar disease"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the most hands-off perennial food plants available for temperate gardens; the main tasks are removing flower stalks promptly and dividing crowns on a long rotation",
+    "pruningNotes": "Remove flower stalks immediately when they emerge (typically in year 2+) — cut them off at the base; allowing the plant to flower and set seed greatly reduces stalk production and can exhaust the crown. In late fall, cut or pull away the dead brown foliage after frost knocks it back, or leave it to collapse and protect the crown through winter — either approach works. Do not harvest any stalks after early July; the remaining growing season is needed for the crown to store energy for next year.",
+    "propagationMethods": [
+      "Crown division (strongly preferred — divide established crowns every 5-7 years in early spring before growth begins, or in early fall; each division must include at least one strong \"eye\" or bud and a portion of root; replant immediately at the same depth as the original crown)",
+      "seed (possible but slow; seedlings are variable and may not match parent cultivar quality; not recommended for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly preferred over seed-grown plants for consistent stalk color, flavor, and productivity. Cultivar performance is relatively uniform across rhubarb's viable range (Zones 3-7), as the main limiting factor is winter chill rather than cultivar-specific regional adaptation.\n**Zones 3-5 (Cold Northern):** All standard cultivars perform well here. 'Canada Red' and 'Valentine' are top choices — both produce deep red stalks with excellent flavor and handle harsh winters without issue. 'Victoria' (heirloom, 19th century) is extremely cold-hardy and has been proven over generations in northern gardens.\n**Zones 6-7 (Temperate):** The sweet spot for rhubarb. All cultivars perform at their peak productivity here. 'Canada Red' remains the default recommendation — deep red stalks, excellent sweet-tart flavor, very productive, and widely available. 'Crimson Cherry' is a good choice for smaller spaces due to its compact habit. 'Glaskin's Perpetual' is notable for being harvestable in year 1 from seed — unusual among rhubarbs — though flavor is acceptable rather than exceptional.\n**Zone 8 (Marginal Southern):** Rhubarb struggles in Zone 8 and is generally not viable in Zone 9+. Where attempted, 'Victoria' tolerates warmer conditions slightly better than most due to its vigor, and 'Glaskin's Perpetual' may provide a quick crop before summer heat shuts the plant down. Southern growers should ensure maximum winter exposure (no mulch over crowns) to maximize chill hours.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated perennial food bed",
+      "kitchen garden border",
+      "food forest herb layer",
+      "edible ornamental planting; anywhere a large",
+      "dramatic",
+      "reliably productive perennial is needed"
+    ],
+    "designPlacement": "Rhubarb is best sited as a permanent anchor in a dedicated perennial food bed — it should not be placed where cultivation, rotation, or annual bed preparation will disturb the crown. Place it in full sun with well-drained soil, away from areas subject to standing water. The large ornamental foliage (2-3' tall, 3-4' spread) makes it effective as a bold focal point or back-of-border anchor in edible landscape designs. Keep it accessible for regular harvest during its spring season. Allow adequate spacing (3-4') as crowns expand over time — do not crowd with neighbors. Flower stalks may occasionally reach 4-5' but are removed promptly in production plantings, so height is not a design constraint.",
+    "acquisitionStatus": "Not yet on site"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhubarb",
+    "inaturalist": "https://www.inaturalist.org/taxa/51251-Rheum-rhabarbarum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=292979&isprofile=0&chr=19 (listed as Rheum × hybridum — MBG's treatment of culinary rhubarb cultivars)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or eastern North America; long-cultivated garden plant with no naturalized populations in the state",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture or DCNR invasive species lists; same as general Invasive field — no concerns",
+      "drainage": "The red clay at the Hegins site will benefit from thorough bed preparation before planting — incorporate 4-6\" of compost into the top 12\" of soil and plant the crown slightly raised above the surrounding grade to ensure winter drainage; a dedicated prepared bed or a raised planting mound is strongly recommended given the site's documented drainage issues after heavy rain; crown rot is the primary site-specific risk",
+      "soil": "The Hegins red clay requires amendment before planting — incorporate generous compost to improve tilth and drainage in the root zone; the naturally slightly acidic pH of the site's clay is likely within rhubarb's preferred range (6.0-6.8) and should not require lime correction",
+      "cultivarNotes": "'Canada Red' is the top recommendation — Zone 6a provides ideal winter chill and growing season length for maximum stalk production and color development. 'Victoria' is an excellent alternative if an heirloom cultivar is preferred. A single well-chosen crown is sufficient for a household.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is the strongest fit: productive, accessible from the kitchen, and suited to a permanent planting that will not be disturbed seasonally. A single well-placed crown produces an abundance of stalks for a household. The large ornamental foliage also has merit at the back of Section C as a bold accent, though its primary value is culinary, pointing to Section B as the best use.",
+      "siteObservations": "Zone 6a Hegins is excellent rhubarb country — the cold winters provide the dormancy period rhubarb requires, making them an asset rather than a liability. The site's clay soil will benefit from bed preparation with organic matter before planting. A single crown of 'Canada Red' planted in a permanent, prepared bed near the kitchen (Section B) would be low-effort and high-reward. Allow the plant to establish fully in year 1 without harvest; take a very light harvest in year 2; harvest freely from year 3 onward. Plant well away from areas subject to standing water after heavy rain — crown rot is the primary site-specific risk given the drainage challenges noted for this property. Deer pressure at this site is not a significant concern for rhubarb given its general deer resistance, but a temporary cage for the first season would provide insurance while the crown establishes."
+    }
+  }
+}

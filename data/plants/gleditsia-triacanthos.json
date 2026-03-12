@@ -1,0 +1,164 @@
+{
+  "id": "gleditsia-triacanthos",
+  "name": {
+    "commonName": [
+      "Honey Locust"
+    ],
+    "latinName": "Gleditsia triacanthos",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Central North America — primarily the Ohio and Mississippi River valleys; native from Pennsylvania and New Jersey south through the Appalachians to Georgia, and west through the Midwest to Nebraska, Kansas, and Texas; the heart of the range is the interior lowlands of the central US",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern and central US — roughly from the Appalachian foothills west through the Great Plains; native range extends from Pennsylvania and New Jersey south to Georgia and Alabama, and west through Ohio, Indiana, Illinois, Missouri, Kansas, Nebraska, Oklahoma, and Texas; absent as a native from New England, the Deep South coastal plain, the Pacific states, and the arid Southwest; widely naturalized well beyond its native range across the eastern US and Pacific Northwest due to extensive landscape planting"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in managed or semi-natural settings across most of the US; naturalized populations exist throughout the eastern states but do not typically displace native vegetation; the species self-seeds readily and wild-type seedlings bear dangerous thorns — monitor for volunteer seedlings in any landscape, especially near pod-bearing trees; not listed on federal noxious weed lists; the thornless cultivars and var. inermis produce fewer viable seedlings than the wild thorny form"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 — exceptional cold hardiness for a large legume tree; one of the few large nitrogen-fixing trees reliably hardy through Zone 3-4; heat-tolerant through Zone 9 without difficulty"
+    }
+  },
+  "description": {
+    "height": "30-70' at maturity; typically 40-60' in cultivation; thornless street-tree cultivars tend toward the lower end of this range",
+    "spread": "30-50' — broad, rounded to vase-shaped crown at maturity; an impressive canopy tree",
+    "spacing": "30-40' from structures and other large trees; 20-30' in a food forest canopy layer where understory light is desired",
+    "growthRate": "Fast — 1.5-2.5' per year under good conditions; among the fastest-growing large deciduous trees available across Zones 3-9; rapid canopy establishment makes it a useful pioneer canopy tree",
+    "timeToMaturity": "Pod production begins at 5-10 years; significant pod crops by year 10-15; nitrogen fixation begins from establishment",
+    "lifespan": "100-150 years; the species is long-lived though some cultivars may be shorter-lived",
+    "deciduousEvergreen": "Deciduous — the doubly pinnate or pinnate compound leaves are among the most finely textured of any large tree; bright green in summer, yellow in fall; leaf drop is clean and the small leaflets decompose quickly without matting",
+    "winterInterest": "Moderate — the persistent twisted brown seed pods hang on the tree and litter the ground through winter and into spring; distinctive silhouette; pods provide significant winter wildlife food value on the ground after falling"
+  },
+  "lightAndWater": {
+    "sun": "Full sun; intolerant of significant shade; requires an open canopy position",
+    "water": "Low to moderate once established — excellent drought tolerance; performs well without supplemental irrigation after the first 1-2 establishment seasons in humid climates (eastern US, Midwest); in arid western regions (Zones 7-9 in the intermountain West and southern Plains), supplemental water during the first 2-3 years accelerates establishment but is rarely needed long-term; also tolerates periodic flooding and wet conditions better than most drought-tolerant trees",
+    "drainagePreference": {
+      "description": "Very adaptable — performs in well-drained to moderately wet soils; tolerates both dry upland and seasonally moist lowland sites; poor drainage only becomes a concern in permanently waterlogged soils, which can suppress root nodule activity and slow growth; in most garden soils, drainage is not a limiting factor",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the best large trees for heavy clay soils; the deep taproot penetrates compacted clay layers, and lateral roots gradually improve soil structure and aeration over time through biological activity and nitrogen inputs; clay does not cause root rot in this species because it tolerates both wet and dry extremes; no amendments are required for clay planting; honey locust actively rehabilitates heavy clay soils, making them more hospitable for future understory plantings"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline and even slightly saline conditions; fixes nitrogen effectively across this entire range; gardeners in the alkaline soils of the western US and limestone-derived soils of the Midwest will find this tree equally at home as those in the mildly acidic soils of the eastern seaboard"
+    },
+    "texturePreference": "Highly adaptable; thrives in clay, loam, sand, and gravel; excellent performance in disturbed, compacted, and degraded soils — a genuine soil rehabilitator; no soil amendment is required for any standard garden soil type",
+    "rootCharacter": "Deep taproot with wide-spreading lateral roots; nitrogen-fixing root nodules (Rhizobium bacteria) throughout the lateral root zone; not documented as a significant surface-rooting problem; the roots improve compacted soils over time"
+  },
+  "bloom": {
+    "bloomTime": "Late May to early June in Zone 6-7; earlier (late April to mid-May) in Zone 8-9; later (early to mid-June) in Zone 3-5",
+    "bloomDescription": "Small, fragrant, creamy-white to yellowish-green flowers borne in short racemes; individually inconspicuous but produced in abundance; the tree has a pleasant honey-like fragrance when in full bloom — the scent carries notably on warm evenings",
+    "fragrance": "Yes — distinctly fragrant; honey-like; a pleasant surprise given the otherwise utilitarian reputation of the tree",
+    "flowerSex": "Polygamo-dioecious — trees bear a mix of male, female, and perfect (hermaphrodite) flowers; individual trees vary in their tendency to produce pods; some trees are effectively male (minimal pod set) while others are heavily pod-bearing; cultivars bred for fruitlessness (e.g., 'Shademaster') have been selected to produce few or no pods",
+    "pollination": "Bees and other insects; the flowers attract a variety of native bees and honeybees; good early-summer nectar source"
+  },
+  "yield": {
+    "edibleParts": "Pod pulp — the long, twisted, dark brown to black seed pods (12-18\") contain a sweet, sticky, honey-like pulp surrounding the seeds; this pulp (not the seeds) is the edible portion; the flavor is intensely sweet, mildly caramel-like, and genuinely pleasant; historically eaten fresh by Indigenous peoples and early settlers; the sweetness is the origin of the common name \"honey locust\"; pods have been fermented into a beer-like beverage and used as a high-energy livestock and wildlife fodder; the sugar content of the dry pods is exceptionally high",
+    "harvestSeason": "Pods ripen in September-October and fall through winter; harvest from the tree in September-October or collect from the ground through winter",
+    "medicinalUses": "Bark tea used historically by some Indigenous nations for whooping cough and measles; not a primary medicinal plant in contemporary practice; no significant modern medicinal applications",
+    "craftOtherYield": "Extremely hard, durable heartwood — one of the hardest and most rot-resistant native North American woods; traditionally used for fence posts, railroad ties, furniture, and tool handles; the wood is attractive with a golden-brown color; the thorns of the wild form were historically used as pins and nails; the pods historically used as livestock fodder (high sugar content makes them a calorie-dense supplement for cattle, goats, sheep, and pigs)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Seed toxicity — the seeds themselves contain alkaloids and are NOT safely edible raw; they require extensive processing and cooking to neutralize; do not eat the seeds. The sweet pod pulp is safe. Leaves and bark are not consumed. The tree is not a significant general toxicity concern.",
+    "toxicityAnimals": "The pod pulp is readily eaten and is safe for cattle, horses, deer, goats, sheep, and most wildlife — it is in fact a valued high-energy fodder. The raw seeds are a concern for dogs and horses in large quantities (alkaloid content); incidental ingestion of a few seeds is unlikely to cause serious harm but intentional feeding of seeds is not recommended. Consult a veterinarian if significant seed consumption is suspected.",
+    "allelopathy": "None documented; no allelopathic effects on companion plants reported; considered a safe companion tree",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy (large tree)"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary — one of the very few large nitrogen-fixing trees available for Zones 3-9; fixes atmospheric nitrogen via root nodules; a cornerstone species for food forest canopy nitrogen cycling)",
+      "Edible (pod pulp — significant secondary yield)",
+      "Wildlife Fodder (outstanding — pods are a major food source for deer, cattle, squirrels, rabbits, and many other species)",
+      "Coppice/Pollard Candidate (responds well to pruning; can be managed as a pollard for biomass and nitrogen cycling)",
+      "Dappled Shade Provider (the ultra-fine compound leaves cast the lightest, most penetrating shade of any large tree — a defining permaculture value; grass, understory shrubs, and even vegetables can thrive beneath a mature honey locust)",
+      "Soil Rehabilitator (thrives in and improves compacted, degraded, and disturbed soils)",
+      "Pioneer Canopy Species (fast growth establishes canopy and nitrogen inputs quickly)"
+    ],
+    "companionPlants": [
+      "Comfrey (mineral accumulator beneath the canopy)",
+      "nitrogen-hungry fruiting trees (apple, pear, plum — plant honey locust to windward or at canopy margins to feed the guild)",
+      "native wildflowers and grasses (thrive in the dappled shade)",
+      "goumi or autumn olive (complementary nitrogen-fixing shrub layer)",
+      "paw paw (benefits from the light dappled shade and nitrogen inputs)",
+      "elderberry (tolerates partial shade and benefits from enriched soil)"
+    ],
+    "antagonists": [
+      "None documented; no known allelopathic or competitive suppression of guild companions; the light canopy is a positive asset rather than a competitive disadvantage for most understory plants"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "White-tailed deer (the fallen pods are avidly eaten — a significant winter food source when other forage is scarce), cattle and horses (historically grazed pod-bearing trees), squirrels (eat the pods and seeds), rabbits, opossums, foxes and other mammals that forage fallen pods; native bees and honeybees (nectar and pollen at bloom); the tree supports a range of native insects including native moth and butterfly species",
+    "hostPlantFor": "Native Lepidoptera — several native moth species use Gleditsia as a larval host; not a primary host for iconic species but contributes to overall insect diversity; the compound leaves support caterpillar feeding",
+    "nestingHabitat": "The mature tree structure (deeply furrowed bark, branch crotches) provides nesting sites and foraging habitat for cavity-nesting birds and small mammals; the thorny wild form is exceptional nesting habitat for small birds (thorns deter predators) — the thornless cultivars are less valuable in this specific respect but still provide canopy habitat"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Low — deer do not significantly browse the foliage of mature established trees, but young trees and saplings are vulnerable to browse and antler rubbing; protect young trees for the first 2-3 years with tube guards or wire cages until the trunk is large enough to resist rubbing damage; once established, deer pressure on the tree itself is minimal; the pods are actively sought by deer, which is a wildlife benefit rather than a problem"
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most salt-tolerant large trees available; widely planted as a street tree precisely because of its tolerance of road salt spray and soil salt accumulation; useful near roadways, driveways, and in coastal regions with salt spray exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — once established, one of the most drought-tolerant large deciduous trees across its entire zone range; thrives on dry slopes and in periods of summer drought without supplemental water; equally reliable in the humid East and the drier Plains states"
+    },
+    "other": "Outstanding pollution tolerance (urban air quality, soil compaction, disturbed fill soils); tolerates periodic flooding and wet soils better than most drought-tolerant species; thrives in heat; adapts to a very wide range of soil conditions including highly alkaline and degraded soils; wind-tolerant once established — suitable for exposed sites and windbreak plantings"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the first 1-2 seasons require deer protection and watering during dry spells; after establishment, largely self-sufficient",
+    "pruningNotes": "Prune in late winter before bud break. The young tree should be trained to a single central leader for the first few years to develop a strong structure — suppress co-dominant leaders early. Remove suckers and thorny seedlings promptly if they appear. For food forest use, raise the canopy gradually over years 5-15 to allow light penetration for understory plants. Note: all pruning cuts on the trunk and major limbs should be clean; the wood is extremely hard and a sharp saw is required. If using a pod-bearing cultivar or the straight thornless form, expect significant pod litter — the pods are slippery on hard surfaces and should not be planted immediately adjacent to paved paths or stairs. Pods on lawn areas are not a problem and are eaten quickly by wildlife.",
+    "propagationMethods": [
+      "Seed (stratify cold for 30-60 days OR scarify the hard seed coat with sandpaper/hot water soak prior to sowing; germinates readily once the seed coat is breached; grows quickly from seed; note that seedlings from thornless parents may still express thorns — thornlessness is not always heritable); hardwood cuttings (difficult — grafting is the standard commercial method for named cultivars); named cultivars are exclusively propagated by grafting or budding"
+    ]
+  },
+  "cultivarNotes": "For most food forest and permaculture applications, choose a pod-producing thornless cultivar or the straight thornless species form (G. triacanthos var. inermis) to retain full wildlife and edible pod value. The most common street-tree cultivars are fruitless — they sacrifice the primary permaculture yield for tidiness. Gardeners who want shade and nitrogen fixation only (no pod litter) may prefer fruitless selections.\nG. triacanthos var. inermis (straight thornless form) — the thornless species without named selection; pod-bearing; full wildlife and edible value; the best choice for food forest canopy where pod yield and wildlife value are priorities; variable in form but reliably large and productive; performs well across the full Zone 3-9 range\n'Shademaster' — the most widely planted street-tree cultivar; thornless; largely fruitless (minimal pod set); excellent form and structure; fast-growing; widely available at nurseries nationwide; NOT recommended for food forest use due to lack of pod production; excellent for shade and nitrogen fixation only; performs well in all regions\n'Skyline' — thornless; ascending, pyramidal habit when young, broadening with age; some pod production; better for food forest use than 'Shademaster'; good structural form for small properties where a narrower canopy is desired; reliable across Zones 4-8\n'Sunburst' — thornless; striking golden-yellow new growth in spring that fades to green by midsummer; ornamental value is high; pod production variable; a good choice where aesthetic impact in spring is a priority alongside permaculture function; the golden foliage is genuinely showy; performs best in Zones 4-8; in the Deep South (Zone 8b-9), the golden color may bleach quickly in intense heat\n'Imperial' — thornless; low-branching, spreading habit; shorter than typical (20-35'); fruitless; useful where canopy height must be controlled; less valuable for wildlife/edible purposes; a viable option for smaller properties in any zone\nZone 3-5 (northern tier): All cultivars and var. inermis perform reliably; cold hardiness is not a differentiator; choose based on desired pod production and form. Zone 6-7 (mid-latitude): The full range of cultivars is available and performs well; this is the heart of the species' comfort zone. Zone 8-9 (southern tier): All cultivars tolerate the heat; 'Sunburst' may show less vivid spring color in the hottest areas; pod production tends to be heavy in warm climates.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy nitrogen fixer",
+      "wildlife fodder tree",
+      "dappled-shade canopy",
+      "pioneer canopy species",
+      "edible pod tree",
+      "soil rehabilitation on compacted or degraded ground"
+    ],
+    "designPlacement": "This is a large canopy tree (40-60') and must be sited with adequate clearance — not suitable for small beds, foundation plantings, or any location with a height limit. Best sited as a standalone canopy tree or food forest keystone at property margins or in open areas, away from foundations and utility lines. Allow 30-40' clearance from buildings. The ultra-light dappled shade is a significant design asset — position to allow maximum understory planting beneath the canopy. Ideal placement is on the north or northwest side of garden areas where the canopy casts shade away from sun-dependent beds, or at the property perimeter as a windbreak and nitrogen anchor. The root system is deep and not typically a foundation concern, but maintain at least 20' from foundations as a precaution. The fallen pods in autumn and winter are a significant wildlife draw — site near habitat corridors where wildlife access is welcome. Avoid planting immediately adjacent to paved paths, patios, or stairs where fallen pods create a slip hazard.",
+    "acquisitionStatus": "To source — seek var. inermis (straight thornless, pod-bearing) or 'Skyline' from a specialty native/food forest nursery rather than standard landscape stock (which will almost certainly be 'Shademaster' or another fruitless cultivar)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gleditsia_triacanthos",
+    "inaturalist": "https://www.inaturalist.org/taxa/54797-Gleditsia-triacanthos",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a871"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginally native — G. triacanthos is native to the central US and the western fringes of Pennsylvania, but not to central or eastern PA proper; it has naturalized broadly across the Mid-Atlantic and is considered adventive/naturalized in much of PA including the Ridge and Valley region around Hegins; ecologically well-adapted to the region and not considered out of place; treat as a naturalized native equivalent",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; same as general Invasive field — naturalized but not regulated or problematic in PA",
+      "drainage": "The compacted red clay at the Hegins site is no obstacle — honey locust is one of the few large trees that will actively improve this soil type rather than merely tolerating it; plant directly into native clay with no amendment; ensure adequate watering during the first two summers to establish the taproot through the compacted layer; once established, the root system will begin loosening and enriching the surrounding clay",
+      "soil": "The Hegins red clay is well within this tree's comfort range; no soil preparation needed for in-ground planting; the clay's moisture retention is actually beneficial during establishment; the tree will improve the surrounding soil structure over the first 5-10 years",
+      "cultivarNotes": "The straight thornless form (var. inermis) or 'Skyline' are the recommended choices — both retain pod production and perform well in the humid continental climate of central PA. Source from a specialty nursery that stocks pod-bearing forms rather than defaulting to the common fruitless street-tree stock at standard garden centers.",
+      "designPlacement": "Not suitable for Sections A, B, or C (height and spread far exceed the limits of all three bed strips). Best sited as a food forest keystone at the far edges of the property — the north or northwest side would place the canopy where it casts shade away from the main garden beds. The east wildlife corridor makes a nearby location ideal for maximizing the pod-as-fodder benefit for deer and other mammals. Allow 30-40' clearance from the house.",
+      "siteObservations": "The active deer pressure from the east wildlife corridor means young trees will need tube guards or wire cages for the first 2-3 years — deer browse on saplings and antler rubbing on young trunks are the primary establishment risks. Once past the sapling stage, deer are an asset rather than a problem: they consume fallen pods enthusiastically, which is a designed wildlife benefit. The compacted red clay soil at this site is ideal territory for honey locust — the tree will actively improve soil structure over time, making future understory guild planting more viable. The road salt from the salted road to the north is not a concern for this species given its excellent salt tolerance, and the tree's likely placement at the property margins is well away from the road regardless."
+    }
+  }
+}

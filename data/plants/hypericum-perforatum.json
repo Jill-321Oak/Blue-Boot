@@ -1,0 +1,166 @@
+{
+  "id": "hypericum-perforatum",
+  "name": {
+    "commonName": [
+      "St. John's Wort",
+      "Common St. John's Wort",
+      "Perforate St. John's Wort"
+    ],
+    "latinName": "Hypericum perforatum",
+    "family": "Hypericaceae"
+  },
+  "range": {
+    "nativeRange": "Europe, western Asia, and northern Africa; first brought to North America by settlers in 1696 and now extensively naturalized throughout much of the continent",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; naturalized across all 48 contiguous states in disturbed areas, roadsides, dry meadows, pastures, and old fields; most abundant in the Pacific Northwest, northern Rockies, upper Midwest, and Northeast"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Listed as a noxious weed in California, Colorado, Montana, Nevada, Oregon, South Dakota, and Washington; listed as a regulated or restricted plant in several additional western and midwestern states; the primary concern is toxicity to livestock (photosensitization in cattle, sheep, and horses grazing heavily on it) rather than ecological displacement of natives; in rangeland states it can colonize overgrazed pastures aggressively and is difficult to eradicate; in the eastern US it naturalizes freely in disturbed ground but is generally not regulated; gardeners in listed states should check their state noxious weed list before planting and may need to manage seed spread actively; the Chrysolina beetle biocontrol program has significantly reduced populations in some western states"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "1-3'",
+    "spread": "1-2'; spreads by seed and short stolons; can form loose colonies over time",
+    "spacing": "18-24\"",
+    "growthRate": "Moderate; vigorous once established",
+    "timeToMaturity": "Flowers in its first or second year; productive from establishment",
+    "lifespan": "Perennial; individual crowns are not especially long-lived but colonies self-renew freely through self-seeding",
+    "deciduousEvergreen": "Deciduous — dies back to the crown in winter; re-emerges reliably in spring",
+    "winterInterest": "None; dried seed capsules are negligible"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but flowering is reduced; best flower production and medicinal compound concentration occur in full sun; in Zone 8+ and the Deep South, light afternoon shade can prevent stress during peak summer heat",
+    "water": "Low to medium; drought tolerant once established; native to dry, disturbed soils and performs well in lean conditions; in the arid West, occasional deep watering during prolonged drought improves vigor but overwatering is more harmful than underwatering",
+    "drainagePreference": {
+      "description": "Well-drained to dry; dislikes wet feet and is prone to crown rot in waterlogged soil; thrives on roadsides, banks, dry slopes, and meadows; in heavy soils, raised planting or slope placement prevents the standing moisture that damages roots",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay if drainage is adequate, but heavy, poorly drained clay is a poor fit; the key risk is winter waterlogging around the crown rather than the clay texture itself; amending with coarse grit, gravel, or organic matter to break up compaction and improve drainage makes clay workable; raised beds or mounded planting rows eliminate the issue entirely; performs best in lean clay that dries out between rains rather than rich, moisture-retentive clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; prefers lean, well-drained soil; does not require fertile soil and may produce weaker aromatic compounds in overly rich conditions — a common trait among medicinal herbs; sandy loam, gravelly soil, and rocky ground are ideal; tolerates clay if drainage is adequate",
+    "rootCharacter": "Fibrous with a woody rootstock; not aggressive; spreads primarily by seed rather than root runners"
+  },
+  "bloom": {
+    "bloomTime": "June-July; traditionally blooming around the feast of St. John the Baptist (June 24) — the origin of the common name",
+    "bloomDescription": "Bright golden-yellow, five-petaled, star-shaped flowers approximately 1\" across, borne in showy terminal clusters (pyramidal compound cymes); numerous prominent yellow stamens give the flower a full, radiant appearance; close inspection reveals distinctive black or dark red oil gland dots along the petal margins — these contain hypericin, one of the primary medicinal compounds; highly ornamental and one of the showiest wildflowers in the summer herb garden",
+    "fragrance": "Mild, faintly resinous or balsamic; the crushed foliage and especially the flowers have a distinctive aromatic quality; leaves held up to light reveal translucent oil gland punctations — the \"perforations\" that give the species its name",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile but insect-pollinated; attracts a wide range of native bees, bumblebees, and other pollinators; the bright yellow flowers are highly attractive to pollinators throughout June and July"
+  },
+  "yield": {
+    "edibleParts": "Not significantly edible; historically the young tips were occasionally used in salads in parts of Europe but this is not a common food use; the plant's value is overwhelmingly medicinal",
+    "harvestSeason": "Harvest the flowering tops (a mix of buds and open flowers — the buds are actually preferred for oil-making as they contain the highest concentration of pigment and actives) in June-July at peak bloom; this is the primary harvest window",
+    "medicinalUses": "One of the most extensively clinically studied botanical medicines in the world and the single most commercially important medicinal herb in Europe. Primary documented uses:\nDEPRESSION (mild to moderate): St. John's Wort standardized extract (0.3% hypericin) has been evaluated in dozens of randomized controlled trials and multiple meta-analyses. Evidence consistently supports efficacy for mild-to-moderate depression comparable to standard antidepressants, with a more favorable side-effect profile. This is the best evidence-supported indication for any botanical medicine.\nANXIETY AND NERVOUS SYSTEM: Used traditionally and in clinical practice for anxiety, nervous tension, and neuralgia; hyperforin is believed to play a key role alongside hypericin and pseudohypericin.\nNERVE PAIN (topical and internal): St. John's Wort oil and tincture are used for nerve pain, sciatica, and neuropathy; topical application to bruises, burns, muscle soreness, and injured nerves has a long tradition and documented efficacy.\nST. JOHN'S WORT OIL (the red oil): The classic preparation — fresh flowers infused in olive oil and left in sunlight for 4-6 weeks; the oil turns deep blood red as the hypericin leaches into the oil; used topically for burns (especially sunburn — note the irony with the photosensitivity caution below), bruises, nerve pain, muscle pain, and wound healing; one of the most useful preparations in the home apothecary.\nWOUND HEALING (topical): Well-documented anti-inflammatory and tissue-healing properties when applied externally.\nActive compounds: hypericin, pseudohypericin (naphthodianthrones — the red pigments), and hyperforin (phloroglucinol derivative); the standardized commercial extracts are typically calibrated to 0.3% hypericin and 3-5% hyperforin.",
+    "craftOtherYield": "Natural dye — the flowers yield yellow to gold dye; dried flowers for arrangements; the red oil is itself a beautiful and useful craft-apothecary product"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "DRUG INTERACTIONS — CRITICAL AND CLINICALLY DOCUMENTED: St. John's Wort is a potent inducer of cytochrome P450 enzymes (particularly CYP3A4) and P-glycoprotein, significantly reducing blood levels of many pharmaceutical drugs. Documented interactions include: oral contraceptives (reduced efficacy — risk of unintended pregnancy), antiretrovirals (HIV medications — risk of treatment failure), warfarin (reduced anticoagulation — risk of clotting), cyclosporine (risk of organ rejection in transplant patients), digoxin, certain chemotherapy agents, and many others. This is the most important safety consideration for this plant and must be taken seriously. ALWAYS consult a pharmacist or physician before using St. John's Wort internally alongside any prescription medication. Do not use casually if on a complex medication regimen.\nPHOTOSENSITIVITY: Hypericin is a photosensitizing compound. Fair-skinned individuals using St. John's Wort internally should limit prolonged direct sun exposure, particularly at high doses. Topical application of the red oil can also cause photosensitization and sunburn in some individuals — use with caution in sun-exposed areas of skin. Photosensitization is more of a documented concern in livestock (particularly fair-coated animals grazing heavily on the plant) than in typical human therapeutic use, but it is a real consideration.",
+    "toxicityAnimals": "Toxic to livestock — particularly cattle, sheep, and horses — when grazed in large quantities; causes photosensitization dermatitis (St. John's Wort poisoning, called \"hypericism\") in light-coated animals exposed to sunlight; this is the basis for its noxious weed listing in western rangeland states where it colonizes livestock pastures; not a practical concern in most home garden settings where livestock access is managed; generally not a significant concern for dogs and cats in garden quantities",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer; also functions as a ground cover in open, dry, sunny areas"
+    },
+    "roles": [
+      "Medicinal (high priority — one of the most clinically validated botanical medicines; valuable home apothecary plant)",
+      "Insect Attractor (excellent pollinator plant during June-July bloom)",
+      "Dynamic Accumulator (moderate — fibrous roots draw up minerals in lean soils)",
+      "Ground Cover (in dry sunny areas where little else thrives)",
+      "Pioneer Species (colonizes disturbed ground; a valid early-succession role in a developing food forest edge or meadow)"
+    ],
+    "companionPlants": [
+      "Works well in dry",
+      "sunny herb guilds alongside lavender",
+      "thyme",
+      "oregano",
+      "and other Mediterranean-style herbs that share its preference for lean",
+      "well-drained soil; plant alongside other pollinator-attracting herbs; a natural companion for meadow and edge planting schemes"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Cut back to several inches after flowering to encourage fresh growth and prevent excessive self-seeding; not a formal coppice plant but responds well to a post-bloom cut"
+  },
+  "wildlife": {
+    "attracts": "Native bees (strong attractor during June-July bloom — a significant pollinator resource during the early summer gap), bumblebees, honey bees, butterflies; the bright yellow flowers are highly visible and worked extensively during bloom",
+    "hostPlantFor": "Gray Hairstreak butterfly (Strymon melinus)",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strong aromatic compounds and resinous quality deter browsing; not a primary deer target; young transplants may still be sampled in areas of heavy deer pressure and should be protected with temporary fencing or caging until established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — well-adapted to dry, lean conditions; one of its defining ecological traits; handles summer dry spells without supplemental water once established"
+    },
+    "other": "Tolerates poor, lean, and disturbed soils; tolerates rocky and gravelly conditions; not well-suited to wet or waterlogged ground; cold hardy to Zone 3 with no winter protection needed through Zone 7; tolerates heat and humidity in Zone 8 if drainage is sharp"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the easier medicinal herbs to grow once established",
+    "pruningNotes": "Deadhead or cut back after the main bloom flush to reduce self-seeding and encourage a second flush of growth; in a formal or managed bed, shear to 6-8\" after flowering; in a wild herb or meadow area, allow some seed set for natural spread and self-renewal; cut back to the ground or near it in late fall; in states where it is listed as noxious, deadheading before seed set is essential to prevent unwanted spread",
+    "propagationMethods": [
+      "Seed (easy — direct sow in fall for spring germination; light-dependent germinator, do not cover seed deeply; or start indoors 6-8 weeks before last frost)",
+      "division (divide established clumps in spring or fall)",
+      "stem cuttings (root in moist medium in summer)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Hypericum perforatum) is the standard medicinal form and the correct choice for apothecary use — this is what the clinical literature is based on and what commercial standardized extracts are produced from. Many ornamental Hypericum cultivars and species exist (particularly H. calycinum, H. moserianum, H. androsaemum, and various hybrids sold as landscape shrubs), but these are different species or hybrids and do not share the same medicinal profile. For medicinal use, always grow H. perforatum specifically, not a generic \"St. John's Wort\" landscape shrub. Source from a reputable herb nursery or seed supplier (Strictly Medicinal Seeds, Horizon Herbs, or similar) to ensure correct species identity. Zone 3-5: the straight species is fully hardy and the only practical choice; ornamental Hypericum hybrids are often less cold-hardy and irrelevant for medicinal use. Zone 6-7: the straight species performs well; this is the core of its productive range in the US. Zone 8+: the straight species still grows but may be shorter-lived in hot, humid conditions (particularly the Gulf Coast and Deep South); ensure sharp drainage and avoid mulching the crown; H. perforatum 'Topaz' is sometimes offered as a compact selection but has not been validated for equivalent medicinal potency.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Medicinal herb garden",
+      "apothecary garden",
+      "dry meadow",
+      "food forest edge",
+      "pollinator planting",
+      "pioneer ground cover on lean sunny slopes"
+    ],
+    "designPlacement": "Best suited to a dry, full-sun position with lean soil and sharp drainage; stays under 3' and works well in the middle rank of an herb border or as a filler in a sunny perennial bed; excellent for south- or west-facing slopes, gravel gardens, and dry meadow edges; pair with other aromatic, drought-tolerant herbs (lavender, thyme, oregano, rosemary where hardy) for a cohesive low-water guild; avoid shaded, moist, or heavily amended positions where it will underperform and more competitive plants will crowd it out; the deer resistance makes it a useful choice in gardens with ungulate pressure",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hypericum_perforatum",
+    "inaturalist": "https://www.inaturalist.org/taxa/56077-Hypericum-perforatum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e198"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; naturalized throughout Pennsylvania in disturbed areas, roadsides, dry meadows, railroad grades, and old fields; common but not native",
+      "paInvasiveStatus": "Not listed as invasive or noxious in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; can self-seed freely in open ground but is not regulated in the state",
+      "drainage": "The compacted red clay at Hegins drains poorly after rain and holds moisture longer than this plant prefers; plant in the best-drained spot available — a south-facing slope, raised bed edge, or gravel-amended pocket; avoid low spots where water pools; amending a planting hole with coarse sand or fine gravel and mounding the crown slightly above grade will reduce rot risk; the naturally lean fertility of the clay is actually an advantage for this species",
+      "soil": "The red clay at Hegins is acceptably lean for this species but too compacted and moisture-retentive without amendment; work coarse grit or gravel into the planting area to improve structure; a raised bed edge or gravel-amended pocket in Section C would provide the right texture without requiring a full bed build",
+      "cultivarNotes": "grow the straight species from a reputable medicinal herb supplier; it is fully hardy and well-suited to the climate; no cultivar substitution needed.",
+      "designPlacement": "Section C (south-facing back porch strip) is the ideal fit — full sun, warm and dry microclimate, and the fragrance/medicinal focus of that section align perfectly with this plant's requirements; it stays well under the 5' height limit at 1-3'; plant in a gravel-amended pocket or raised bed edge to address the red clay drainage; avoid Section A (north-facing, too shady for best medicinal compound production) and Section B (increasingly shaded by food forest, better reserved for shade-tolerant herbs); the deer resistance is an asset given the east corridor pressure but protect new transplants in the first season",
+      "siteObservations": "The compacted red clay will need localized amendment (coarse grit or gravel worked into the planting hole) or a raised position to provide the drainage this species demands; the lean fertility of the clay is actually a benefit — do not over-amend with compost or rich organic matter; the active deer pressure from the east wildlife corridor is not a major concern for this plant given its aromatic deterrent compounds, but young transplants should be caged for the first growing season as a precaution; no winter protection needed in Zone 6a; allow some self-seeding in Section C to build a productive medicinal colony, but deadhead most spent flowers to prevent spread into areas where seedling pressure would be unwelcome"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "astilbe-simplicifolia-sprite",
+  "name": {
+    "commonName": [
+      "Sprite Astilbe"
+    ],
+    "latinName": "Astilbe simplicifolia 'Sprite'",
+    "family": "Saxifragaceae"
+  },
+  "range": {
+    "nativeRange": "Parent species native to Japan and Korea; not native to North America. The only Astilbe native to North America is Astilbe biternata (Appalachian false goat's-beard), native to the southern Appalachians.",
+    "usNativeStatus": {
+      "native": null,
+      "description": "Non-native ornamental; widely cultivated across the lower 48 states; not naturalized"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the United States. Not listed on federal noxious weed lists or any state invasive plant list. Clump-forming, non-seeding habit prevents spread; no documented naturalization in the wild."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8 (some sources extend to zone 9 for the parent species)"
+    }
+  },
+  "description": {
+    "height": "Foliage mound 8-10\"; flower plumes rise to 12-18\"",
+    "spread": "18-24\" (slowly expands over years)",
+    "spacing": "18\"",
+    "growthRate": "Moderate",
+    "timeToMaturity": "Full ornamental display from year 2",
+    "lifespan": "Long-lived; 10-20+ years if divided regularly",
+    "deciduousEvergreen": "Herbaceous — dies back completely in winter",
+    "winterInterest": "Low to moderate — dried seedheads have subtle ornamental character; leave standing through winter"
+  },
+  "lightAndWater": {
+    "sun": "Part shade preferred; tolerates more sun if soil stays consistently moist; will scorch in hot afternoon sun on dry soil",
+    "water": "Medium to moist — requires consistent moisture; one of the few ornamental perennials that actively benefits from clay drainage conditions",
+    "drainagePreference": {
+      "description": "Average to moist; tolerates clay and periodic waterlogging better than most perennials — a genuine asset in clay-heavy soils",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Performs well in heavy clay — clay's moisture retention directly suits astilbe's high water demand. Crown heave and waterlogging are the two risks; both are managed by annual compost top-dressing and ensuring the site does not pond standing water for extended periods. No need to break up or replace clay; amend in place with compost."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5"
+    },
+    "texturePreference": "Rich, moist, humus-rich loam; clay is acceptable and even beneficial for moisture retention",
+    "rootCharacter": "Fibrous, slowly spreading clump; no runners; crown gradually rises above soil level over years (top-dress with compost annually)"
+  },
+  "bloom": {
+    "bloomTime": "June to July",
+    "bloomDescription": "Graceful drooping panicles of shell-pink flowers on arching dark stems; feathery, airy texture; highly ornamental",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Pollinated by bees and small insects"
+  },
+  "yield": {
+    "edibleParts": "Young shoots reportedly edible (cooked) in some East Asian traditions; not commonly used",
+    "harvestSeason": "Early spring (young shoots only)",
+    "medicinalUses": "Some Astilbe species used in traditional Chinese medicine (roots as analgesic and anti-inflammatory); not commonly used in Western practice",
+    "craftOtherYield": "Dried flower plumes for arrangements — harvest when fully open and dry hanging upside down"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic",
+    "toxicityAnimals": "Generally considered safe",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (mid-layer)"
+    },
+    "roles": [
+      "Beauty",
+      "Insect Attractor (pollinator support)",
+      "Ground Cover (dense foliage suppresses weeds)",
+      "Water Management (tolerates and thrives in the wet clay conditions that challenge other plants)"
+    ],
+    "companionPlants": [
+      "Hellebore (complementary shade and moisture preference; sequential bloom — hellebore Feb-April, astilbe June-July)",
+      "ferns",
+      "hosta",
+      "geranium 'Rozanne'"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Cut to ground in late fall or early spring; top-dress crown with compost annually as crown rises"
+  },
+  "wildlife": {
+    "attracts": "Bees (pollen and nectar), some butterflies; dried seedheads have limited wildlife value",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Dense foliage clumps provide some low cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally avoided"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — keep away from road-adjacent or salt-spray areas"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — will decline quickly without consistent moisture; requires irrigation in dry spells"
+    },
+    "other": "Tolerates clay soil; tolerates temporary waterlogging; tolerates part to full shade"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "Cut all foliage to the ground in late fall or early spring. Top-dress crown with 1-2\" of compost each spring — the crown slowly rises above soil level over years and will heave and decline without this. Divide every 3-4 years in spring to maintain vigor; older crowns become woody and flower less.",
+    "propagationMethods": [
+      "Division (spring — most reliable; divide every 3-4 years regardless for plant health)"
+    ]
+  },
+  "cultivarNotes": "'Sprite' (Perennial Plant of the Year 1994) remains the definitive compact astilbe — shell-pink, dark foliage, graceful drooping plumes, reliably at 12-18\" tall. Hardy zones 4-8.\nFor colour variety in the same compact size range (all zones 4-8 unless noted):\n- 'Visions in Red' (crimson, 16-20\")\n- 'Pumila' (lavender-pink, very compact 8-12\"; zones 4-9)\n- 'Vision in White' (white, 16-20\")\nFor larger plumes in the back of the mid-zone:\n- 'Fanal' (deep red, 18-24\"; zones 4-9)\n- 'Bridal Veil' (white, 24\"; zones 4-9)\nFor hot-summer zones (7-9): prioritize later-blooming cultivars and ensure afternoon shade; 'Pumila' and 'Sprite' handle heat stress better than large-plume types.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Shade border mid-zone",
+      "moist areas",
+      "streamside planting",
+      "woodland garden"
+    ],
+    "designPlacement": "Mid-zone plant for shaded or part-shaded borders; thrives where other perennials struggle due to moisture and shade. June-July bloom bridges the gap between spring shrubs and late-summer echinacea. Well suited to north-facing beds, woodland edges, and any site with reliably moist clay soil.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Astilbe",
+    "inaturalist": "https://www.inaturalist.org/taxa/772155-Astilbe-simplicifolia",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=260361\nPennsylvania — Hegins Site Observations:\n- No in-ground observations yet; plant not yet established on site\n- Section A (north-facing, clay, part shade) matches this plant's ideal conditions closely\n- Crown top-dressing with compost will be essential given the compacted clay subsoil\n- Monitor for deer browse in the first season; listed as generally deer-resistant but young foliage may be sampled"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed on the PA DCNR invasive plant list; no invasive concern",
+      "drainage": "Hegins red clay is a good match. The compacted, moisture-retentive subsoil provides the steady moisture astilbe needs without frequent irrigation. Top-dress with 1-2\" of compost each spring to prevent crown heave and improve surface tilth. North-facing beds (Section A) will hold moisture longer — an advantage in dry summers.",
+      "soil": "Hegins red clay is workable without full replacement — top-dress with compost annually and mulch heavily to moderate moisture swings. Avoid planting in low spots that pond after rain; a gentle slope or flat ground with clay subsoil is ideal.",
+      "cultivarNotes": "'Sprite' is fully reliable and an excellent fit for north-facing beds. For a purple/pink/yellow palette, 'Sprite' (pink) or 'Visions in Red' are both strong choices at Section A scale. No special zone-edge risk at zone 6a — this cultivar is rated to zone 4.",
+      "designPlacement": "Best placed in Section A (north-facing front bed), mid-zone — uniquely suited to the moist clay conditions that challenge other plants in this bed. Keep at least 18\" from the walk edge to allow spread. Pairs well with hellebore (early spring) and geranium Rozanne (summer through fall) for near-continuous bloom in the shade bed. Low salt tolerance rules out the street-facing front edge; place 2+ rows back from the road side.",
+      "siteObservations": null
+    }
+  }
+}

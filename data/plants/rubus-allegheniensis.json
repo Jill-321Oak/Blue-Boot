@@ -1,0 +1,161 @@
+{
+  "id": "rubus-allegheniensis",
+  "name": {
+    "commonName": [
+      "Allegheny Blackberry",
+      "Common Blackberry"
+    ],
+    "latinName": "Rubus allegheniensis",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — from Nova Scotia and Ontario south to Georgia, west to Minnesota and Kansas; one of the most widespread native blackberries on the continent",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern and central US — from the Great Lakes and upper Midwest south through the Appalachians and piedmont to Georgia, and west to the Great Plains. One of the most common native fruiting shrubs across this entire range; found in woodland edges, roadsides, old fields, clearings, and disturbed ground. Not native to the western US, Pacific Northwest, or Southwest."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — native and ecologically appropriate throughout its range. Spreads by root suckers and tip-rooting but remains manageable with annual pruning. Not listed on any state noxious weed list. Can form dense thickets in disturbed areas and old fields as part of normal ecological succession, but this is native behavior, not invasive spread. No regulatory concern anywhere in the lower 48."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "4-8' (canes arch and mound; can reach 8-10' in vigorous stands; thornless cultivars are often slightly less arching and easier to manage)",
+    "spread": "Spreading by root suckers and tip-rooting canes; a single planting can form a dense thicket over several years; plan for 4-6' spread per crown in managed beds; naturalized colonies spread more widely",
+    "spacing": "3-5' for managed rows; 6-8' for food forest hedgerow planting; wider spacing improves airflow and reduces disease pressure",
+    "growthRate": "Fast — canes put on 4-8' of growth in their first year (primocanes); the root system establishes quickly once planted",
+    "timeToMaturity": "First fruit typically year 2 from a rooted plant; full production by year 3; the plant hits its stride quickly and rewards patience with substantial annual yields",
+    "lifespan": "The root crown is very long-lived (decades); individual canes are biennial and die after fruiting; the colony persists and expands indefinitely with minimal intervention",
+    "deciduousEvergreen": "Deciduous — leaves drop in fall; semi-evergreen in mild winters",
+    "winterInterest": "Low to moderate — the arching canes with stout recurved thorns create a bold architectural silhouette and form an effective barrier hedge even in winter; the cane framework is visually interesting in snow"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred — minimum 6-8 hours; fruit quality, yield, and disease resistance all decline significantly in part shade; this is one of the most sun-demanding native fruiting shrubs",
+    "water": "Medium — consistent moisture during fruit development improves berry size and quality; tolerates dry conditions once established; avoid overhead irrigation (promotes fungal disease); drought tolerant after the first season",
+    "drainagePreference": {
+      "description": "Well-drained to average. Tolerates heavier soils better than most fruiting shrubs but does not perform well in waterlogged conditions. Slope siting improves both drainage and air circulation, reducing disease pressure. Avoid low-lying areas where water pools after rain — standing water dramatically increases susceptibility to root rot and fungal diseases.",
+      "claySoilPerformance": {
+        "rating": "good-excellent",
+        "description": "Good to excellent. R. allegheniensis is one of the most clay-tolerant native fruiting shrubs in eastern North America. The native ecotype evolved in clay-heavy woodland-edge soils and handles compacted, heavy ground better than most Rubus. Amending clay with compost at planting improves establishment but is not strictly required for the straight species. Thornless cultivars benefit more from amendment since they lack the native ecotype's full soil adaptability."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7,
+      "description": "4.5-7.0; performs best in the 5.5-6.5 range; strongly adapted to the naturally acidic soils common throughout its eastern US range and typically requires no pH amendment"
+    },
+    "texturePreference": "Highly adaptable — thrives in clay, loam, and sandy loam. The native ecotype evolved in clay-heavy woodland-edge soils across the eastern US and is exceptionally tolerant of heavy ground. Prefers loam but performs well in a wide range of textures. Avoid only permanently saturated soils.",
+    "rootCharacter": "Fibrous, spreading root system; produces lateral roots that send up new canes (root suckers); cane tips also root where they contact soil (tip-rooting), allowing the plant to spread and colonize; the root system is robust and regenerates quickly after pruning or disturbance"
+  },
+  "bloom": {
+    "bloomTime": "May-June — one of the later Rosaceae to bloom; flowers appear after leaves are fully out",
+    "bloomDescription": "White, 5-petaled flowers, 3/4-1\" across, in upright racemes on the floricanes; similar in form to a small wild rose; numerous stamens; not showy at a distance but individually attractive; a reliable early-summer bee forage plant",
+    "fragrance": "Lightly sweet; pleasant at close range but not perfume-level",
+    "flowerSex": "Hermaphrodite (perfect flowers — both male and female parts in each flower)",
+    "pollination": "Self-fertile; cross-pollination by bees increases yield and berry size; native bees, bumble bees, and honey bees are the primary pollinators; the flowers are an important late-spring/early-summer nectar source"
+  },
+  "yield": {
+    "edibleParts": "Fruit (berries — black, glossy, compound drupelets; considerably larger and sweeter than wild red raspberries; excellent flavor when dead-ripe and slightly soft; premature harvest yields tart, astringent fruit — patience pays); leaves (young leaves edible as a mild tea — traditionally used medicinally)",
+    "harvestSeason": "July-August (peak July in Zone 6-7; earlier in Zone 8+, later in Zone 4-5); harvest when fully black and slightly soft — the berry should detach with almost no resistance; berries do not ripen uniformly on a cluster; pick every 2-3 days at peak; excellent fresh, in cobblers, pies, jams, smoothies, ice cream, and wines; freezes exceptionally well — freeze on a sheet pan before bagging to prevent clumping",
+    "medicinalUses": "Leaves high in tannins — used traditionally as a tea for diarrhea, dysentery, and gastrointestinal upset; root bark also used medicinally in traditional herbalism; berries are high in anthocyanins, Vitamin C, and antioxidants; an important historical food and medicine plant for indigenous peoples throughout its range",
+    "craftOtherYield": "Thorny canes used as a natural deterrent barrier; canes can be woven into rough baskets or fencing; fruit yields deep purple-black dye; wine production (blackberry wine is one of the most accessible country wines)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; berries are a beloved wild food",
+    "toxicityAnimals": "Non-toxic to dogs, cats, and livestock; the berries are eagerly eaten by many mammals",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub / Cane layer (vine-shrub layer in the 7-layer model)"
+    },
+    "roles": [
+      "Food (primary yield — one of the most productive native fruits per square foot)",
+      "Wildlife Support (exceptional — see Wildlife section)",
+      "Native Plant (indigenous to eastern and central North America — full ecological integration with native fauna)",
+      "Barrier / Security Hedge (thorny thickets are impenetrable and provide passive property edge management)",
+      "Soil Stabilization (spreading root system holds disturbed banks and edges)",
+      "Nurse Plant (thicket interior provides protected microhabitat for tree seedlings)"
+    ],
+    "companionPlants": [
+      "Comfrey (at base — dynamic accumulator; nutrient cycling and mulch)",
+      "yarrow (insectary; edge planting)",
+      "native grasses (at perimeter — softens transition from thicket edge)",
+      "elderberry (Sambucus canadensis — excellent hedgerow companion; complementary wildlife value)",
+      "spicebush (Lindera benzoin — compatible understory companion at food forest edge)",
+      "Virginia creeper (Parthenocissus quinquefolia — native vine companion on same hedgerow)"
+    ],
+    "antagonists": [
+      "Avoid planting adjacent to other Rosaceae that share disease vectors; keep distance from apple and pear plantings if orange rust or anthracnose pressure is high; do not plant in areas of standing water or poor drainage (dramatically increases disease pressure)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value — among the most important native fruiting shrubs in eastern North America; fruit consumed by over 150 bird species, including American robin, gray catbird, cedar waxwing, eastern towhee, northern mockingbird, wood thrush, veery, Baltimore oriole, and many more; mammals including black bear, red fox, raccoon, opossum, eastern chipmunk, and white-footed mouse consume the fruit heavily; white-tailed deer eat the fruit but are deterred from cane browsing by the thorns; the plant provides a major midsummer food resource at a time when other fruiting shrubs have finished",
+    "hostPlantFor": "Numerous native Lepidoptera — notably the wild indigo duskywing (Erynnis baptisiae), various tiger moths, and multiple hairstreak butterflies use Rubus as a larval host; Rubus is one of the most significant Lepidoptera host genera in eastern North America; a single mature thicket may support dozens of native moth and butterfly species",
+    "nestingHabitat": "Exceptional — the dense, thorny thicket interior is among the most secure nesting habitat available to eastern songbirds; indigo bunting, common yellowthroat, American goldfinch, yellow warbler, catbird, and brown thrasher all nest regularly in blackberry thickets; the thorns provide active protection against predators; one of the highest-value nesting habitat plants available to any food forest designer within its native range"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer consume the fruit heavily and will browse tender primocane tips; the thorny canes deter browsing of mature canes effectively; young plantings should be protected with wire cages or fencing for the first 1-2 seasons; thornless cultivars are more vulnerable to deer browse on the canes than the native thorny species; in areas with heavy deer pressure, the native thorny straight species is significantly more resilient than thornless cultivars"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to road-adjacent plantings in salted areas; does not recover well from repeated salt exposure"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — handles summer dry spells well across its range; consistent moisture during fruiting improves yield and berry size; mulching the root zone reduces stress during drought periods"
+    },
+    "other": "Excellent tolerance of poor, compacted, and disturbed soils — R. allegheniensis is one of the most important pioneer species in eastern North American successional ecology; clay tolerance is outstanding; good wind tolerance; handles humidity and summer heat well through Zone 8"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low (native straight species in hedgerow/wildlife context) to Medium (managed cultivar rows for harvest)",
+    "pruningNotes": "Blackberry uses the same biennial cane structure as raspberry — primocanes grow vegetatively in year 1; floricanes flower and fruit in year 2; floricanes die after fruiting. Pruning protocol: (1) After harvest, cut all spent floricanes to the ground — they are done and will not fruit again; (2) In late winter (February-March), tip-prune primocanes at 3-4' to encourage lateral branching and increase fruiting wood; (3) Thin crowded canes, leaving 4-6 of the strongest primocanes per plant; (4) Remove any canes showing signs of orange rust (bright orange spore masses on undersides of leaves) immediately and destroy — do not compost. For thornless cultivars in managed rows, trellising with two horizontal wires (at 3' and 5') makes pruning and harvest significantly easier. Native straight species in a hedgerow context can be managed with a simple annual cutting of dead floricanes; they do not require tip pruning or trellis support.",
+    "propagationMethods": [
+      "Tip layering (easiest — bend a long cane tip to the ground in late summer, bury 3-4\", pin in place; roots form by fall; sever and transplant the following spring — the fastest and most reliable method)",
+      "root division (dig and divide spreading root suckers in early spring)",
+      "hardwood cuttings (dormant season — moderate success)",
+      "seed (requires cold stratification; primarily of interest for native plant restoration work)"
+    ]
+  },
+  "cultivarNotes": "The native straight species R. allegheniensis is the correct choice for wildlife hedgerows, food forest perimeter plantings, and naturalized areas — its thorns provide ecological and security value that thornless cultivars cannot replicate. For managed harvest beds where regular human access is needed, thornless cultivars are dramatically more practical and are strongly recommended.\n**Zones 3-5 (northern tier):** 'Chester' (Rubus fruticosus 'Chester'; Zone 5-8; semi-erect; thornless; large, firm, good-flavored fruit; excellent disease resistance; widely available; a reliable low-risk choice for first-time growers; ripens mid-late season; [MBG Profile](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=263200)) is the safest choice at the cold end of the range. 'Triple Crown' is marginally hardy in Zone 5 with winter protection. The native straight species is fully hardy to Zone 3 and is the best option for northern hedgerow and wildlife plantings where thornless cultivars may not overwinter reliably.\n**Zones 6-7 (mid-range):** The widest cultivar selection performs well here. **'Triple Crown'** (Zone 5-8; semi-erect; thornless; the benchmark thornless blackberry — large, very sweet, rich-flavored fruit; excellent yield; widely regarded as the best overall thornless blackberry for the home garden; ripens mid-season July-August; [MBG Profile](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=249984)) is the top recommendation for managed harvest beds. **'Chester'** is equally reliable with slightly better disease resistance. **'Apache'** (Zone 6-9; erect; thornless; large, very sweet fruit; upright habit needs no trellis; ripens early-mid season) is an excellent erect option that eliminates the need for trellising.\n**Zones 8-9 (southern tier):** **'Natchez'** (Zone 6-9; erect; thornless; very large fruit; early ripening — one of the first thornless blackberries to ripen; excellent flavor; bred for warm climates) excels in southern heat. 'Apache' also performs well. 'Triple Crown' and 'Chester' can struggle with insufficient winter chill in the warmest parts of Zone 9.\nMBG does not maintain a species-level profile for R. allegheniensis — see the cultivar links above for the closest equivalent reference.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest edge / hedgerow",
+      "wildlife thicket",
+      "managed harvest rows",
+      "perimeter barrier planting",
+      "naturalized bank or slope stabilization"
+    ],
+    "designPlacement": "Native straight species belongs on the food forest perimeter or property edge where a thorny thicket provides maximum ecological return and passive security. Position hedgerow plantings in full sun along property boundaries, field edges, or forest transitions. Thornless cultivars ('Triple Crown' or 'Chester') belong in a dedicated harvest bed with trellis support, positioned in full sun with maximum airflow — away from dense tree shade and with enough access room to harvest comfortably on both sides of the row. Keep all Rubus plantings well separated from other Rosaceae (especially apples and pears) to minimize shared disease pressure. Slope siting improves drainage and air circulation. This is a plant that belongs on almost every food forest property within its native range in some form — the native species for ecology, the thornless cultivars for harvest productivity.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubus_allegheniensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/82110-Rubus-allegheniensis",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — R. allegheniensis is native to Pennsylvania and is among the most common native fruiting shrubs in the state; found in woodland edges, roadsides, old fields, and disturbed areas throughout the region; likely already present on or adjacent to most PA properties",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Native species — no regulatory concern.",
+      "drainage": "The red clay at Hegins is well within this species' natural tolerance — R. allegheniensis evolved in exactly this type of soil. No raised bed required. Amending the planting hole with compost improves drainage in the compacted, construction-disturbed areas, but the plant will establish even in unamended clay. Hedgerow plantings along the property edge need no soil preparation at all.",
+      "soil": "The red clay at Hegins is ideal native habitat for this species — no amendment required for hedgerow or naturalized plantings. For managed harvest rows with thornless cultivars, work compost into the planting row to improve drainage and root establishment in the compacted, construction-disturbed areas.",
+      "cultivarNotes": "'Triple Crown' or 'Chester' are the most reliably available and best-proven choices for managed harvest beds. Start with one of these before exploring less common cultivars. The native straight species is readily available from PA native plant nurseries and is the ideal choice for hedgerow and wildlife plantings.",
+      "designPlacement": "Native straight species is ideal for the east property edge (wildlife corridor side) where a thorny thicket provides the greatest ecological return and the most practical deer deterrence. Thornless cultivar harvest rows should go in the sunniest available open ground with good airflow, away from the food forest canopy. Not suited for Sections A, B, or C (needs full sun and more space than foundation beds allow).",
+      "siteObservations": "Deer pressure from the east corridor is a significant factor — the native thorny straight species provides its own deer deterrence and is strongly preferred for any perimeter planting on this property. Thornless cultivars will need caging or fencing for the first 1-2 seasons. The compacted red clay soil is well within this species' native tolerance and requires no amendment for hedgerow plantings. The site's drainage issues after heavy rain are not a concern for slope-sited perimeter plantings but should be considered when choosing the location for managed harvest rows — avoid any low spot where water pools."
+    }
+  }
+}

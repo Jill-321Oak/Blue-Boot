@@ -1,0 +1,165 @@
+{
+  "id": "celtis-occidentalis",
+  "name": {
+    "commonName": [
+      "Hackberry",
+      "Common Hackberry"
+    ],
+    "latinName": "Celtis occidentalis",
+    "family": "Cannabaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — Quebec to Manitoba south to Georgia, Alabama, Oklahoma, and Kansas; one of the most widely distributed native trees in the eastern US; common in moist floodplain soils, woodland edges, stream corridors, and disturbed areas across much of its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the continental US across a large portion of the eastern and central lower 48; present as a native in roughly 35 states from the Great Plains east through New England and south to the Gulf Coast states; not native to the Pacific Coast, most of the Mountain West, or the Deep South coastal plain"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state; self-seeds freely in disturbed areas but does not outcompete native vegetation or escape into natural areas in problematic ways; widely considered a beneficial and non-aggressive native tree throughout its range"
+    },
+    "zone": {
+      "min": 2,
+      "max": 9,
+      "description": "2-9"
+    }
+  },
+  "description": {
+    "height": "40-60'; occasionally to 100' in ideal conditions; develops a large, spreading crown with age",
+    "spread": "40-60'; broadly spreading, somewhat irregular crown; mature trees are wide and architecturally interesting",
+    "spacing": "30-40' from other large trees; 20' from structures minimum",
+    "growthRate": "Moderate; 1-2' per year once established; faster on moist, rich sites",
+    "timeToMaturity": "Fruiting begins within 5-8 years; full production as the crown expands; berries can be abundant on young trees in sunny positions",
+    "lifespan": "Long-lived; 150-200+ years; a genuine canopy tree for multi-generational planting",
+    "deciduousEvergreen": "Deciduous — medium green leaves through summer; fall color is yellow to yellow-green, unremarkable but present; the persistent winter berries provide more seasonal interest than the foliage",
+    "winterInterest": "High — the persistent purple-black berries remain on the tree through winter and are one of the most important winter bird food resources in the region; the distinctive warty, corky bark is architecturally interesting in the winter landscape; the somewhat irregular, spreading branch structure is visible and attractive in silhouette"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive and fastest-growing in full sun; tolerates part shade well; one of the more shade-adaptable large native trees",
+    "water": "Low to medium; very adaptable; tolerates both periodic flooding and extended drought once established; genuinely one of the most site-tolerant large native trees",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates wet soils, average soils, and dry, rocky, or compacted soils; native to both bottomland floodplains and upland slopes; exceptionally wide drainage tolerance",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the most clay-tolerant large native trees in the eastern US; performs well in compacted, heavy, or poorly structured clay soils that would severely limit other canopy species; deep taproot penetrates clay over time and improves drainage"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline soils better than most native trees; adaptable to a wide pH range"
+    },
+    "texturePreference": "Adaptable to almost any texture — loam, clay, sandy, rocky, or compacted; performs in difficult soils that would limit other large native trees",
+    "rootCharacter": "Deep taproot with spreading lateral roots; generally not invasive to infrastructure; good soil stability; roots contribute to bank stabilization in riparian settings"
+  },
+  "bloom": {
+    "bloomTime": "April-May (with or just before leaf emergence)",
+    "bloomDescription": "Small, inconspicuous greenish flowers appear in the leaf axils as the leaves emerge; individually unspectacular but collectively providing pollen and nectar; flowers are wind-pollinated and also attract small native bees and flies",
+    "fragrance": "None",
+    "flowerSex": "Monoecious — male, female, and perfect (bisexual) flowers on the same tree; single trees are self-fertile and will produce fruit without a partner",
+    "pollination": "Primarily wind-pollinated; also visited by small native bees and flies for pollen; self-fertile — single trees produce fruit reliably"
+  },
+  "yield": {
+    "edibleParts": "Berries (small, round, 0.25-0.5\" diameter; ripen from red to deep purple-black in September-October; edible raw; sweet, date-like, slightly chewy flavor; genuinely pleasant as a trail nibble; intensely sweet given their small size; thin flesh surrounds a proportionally large, hard seed — the seed is the dominant structure, so flesh-to-seed ratio is low but the flavor reward is real); the berries were an important food source for multiple Indigenous nations of eastern North America — eaten fresh, dried, or ground with fat and corn as a concentrated energy food (pemmican-style)",
+    "harvestSeason": "September-October; berries persist on the tree through winter — late-season and even winter harvest possible before birds take them",
+    "medicinalUses": "Bark tea used traditionally for menstrual irregularities and sore throats; berries high in fat, carbohydrates, and sugars — genuinely nutritious small food; not a primary medicinal plant in modern herbalism",
+    "craftOtherYield": "Hard, heavy wood (specific gravity ~0.53); used historically for athletic equipment, fencing, and furniture; not widely used commercially today but workable; the warty bark is visually distinctive in craft arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — berries are edible; no toxic compounds documented",
+    "toxicityAnimals": "None documented; berries consumed freely by wildlife; not a known toxin concern for pets or livestock",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Wildlife Support (exceptional — one of the highest-value wildlife trees in eastern North America)",
+      "Food (berries — secondary human yield but genuine; primary wildlife yield)",
+      "Canopy (large shade tree; wind buffer; microclimate modifier)",
+      "Soil Stabilization (deep roots; excellent for slopes and stream banks)",
+      "Native Plant Contribution",
+      "Pioneer / Disturbance Tolerant (colonizes disturbed areas; useful for restoration planting on difficult sites)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — riparian and woodland edge companion)",
+      "Lindera benzoin (spicebush — classic understory pairing in woodland edge communities)",
+      "Sambucus canadensis (elderberry — similar riparian and edge habitat; staggered fruiting extends wildlife food season)",
+      "Prunus serotina (black cherry — companion in woodland edge; another high-value wildlife tree)",
+      "Cornus florida (flowering dogwood — understory complement)",
+      "native Carex spp. (ground layer in moist settings)",
+      "Symphyotrichum spp. (native asters — ground layer complement)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds (over 48 species documented consuming hackberry fruits; this is one of the most important winter bird food trees in eastern North America; the persistent berries are available when most other food sources are exhausted; key species include cedar waxwings, American robins, hermit thrush, eastern bluebird, yellow-rumped warbler, northern mockingbird, gray catbird, brown thrasher, purple finch, American goldfinch, red-bellied woodpecker, and many others; the winter persistence of the fruit is the critical ecological factor — most fruiting trees drop or lose their berries to frost by December; hackberry retains them through February or later); small native bees and flies (spring flowers); numerous insects (the tree supports a rich insect community — over 40 species of Lepidoptera larvae feed on hackberry foliage in addition to the specialist butterfly species below)",
+    "hostPlantFor": "Hackberry Emperor butterfly (Asterocampa celtis) — virtually an obligate Celtis feeder; this butterfly is nearly completely dependent on hackberry for larval development and the adults rarely stray far from hackberry trees; planting hackberry is one of the few ways to reliably establish this species in a garden. Tawny Emperor butterfly (Asterocampa clyton) — another near-obligate Celtis specialist; closely related to the Hackberry Emperor and similarly dependent. Question Mark butterfly (Polygonia interrogationis) — uses hackberry as one of its primary larval hosts alongside elm and nettles. Eastern Comma butterfly (Polygonia comma) — also uses hackberry as a larval host. These four butterfly species represent some of the most hackberry-dependent insects in eastern North America; no Celtis means no Hackberry Emperors and Tawny Emperors — it is effectively that simple.",
+    "nestingHabitat": "Large spreading canopy provides nesting sites for a wide range of birds; the somewhat irregular branch structure suits species that prefer open-grown trees; catbirds, robins, and mourning doves nest in the crown; cavity-nesting species use older trees with natural cavities"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — young saplings and branches are browsed; deer pressure on young transplants can be significant and tree tubes or caging is recommended for the first 3-5 years; established trees are generally too large to sustain serious damage; not a deer-proof species but recovers well from browsing once established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — more salt-tolerant than many native trees; suitable for urban planting near roads"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant large native trees; established trees handle extended drought without significant dieback; this tolerance combined with wet-soil tolerance makes hackberry uniquely adaptable"
+    },
+    "other": "Urban pollution tolerant; compacted soil tolerant; alkaline soil tolerant; periodic flooding tolerant; one of the most site-adaptable large native trees available; genuinely appropriate for difficult sites where other canopy trees would struggle"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; this is a self-sufficient canopy tree with minimal requirements",
+    "pruningNotes": "Minimal pruning needed. Remove dead, crossing, or structurally weak branches in late winter. Young trees may benefit from early structural pruning (first 5 years) to establish a clear central leader and well-spaced scaffold branches. Witches' broom (see Cultivar Notes) does not require treatment — do not attempt to prune it out, as it is pervasive throughout the canopy on affected trees and pruning does no meaningful good. Avoid heavy pruning in spring when the tree is leafing out.",
+    "propagationMethods": [
+      "Seed (clean berries from flesh; cold stratify 60-90 days; direct sow in fall for natural stratification; germination is reliable; seedlings grow quickly); softwood cuttings (summer — moderate success; not the standard propagation method); transplanting from wild seedlings (hackberry self-seeds freely under parent trees — seedlings can be dug and transplanted in early spring before leaf-out)"
+    ]
+  },
+  "cultivarNotes": "The straight species is the standard in commerce and is the appropriate choice for wildlife and ecological planting across the lower 48 — no cultivar improves on the species for its primary roles. C. occidentalis is hardy across a very wide zone band (Zones 2-9), making it suitable for nearly every climate in the continental US; gardeners in the northern Plains and Upper Midwest (Zones 3-4) will find it one of the few large native canopy trees with proven hardiness at those extremes, while gardeners in the mid-Atlantic, Southeast, and lower Midwest (Zones 5-8) have the widest selection of straight-species and regional ecotype material from native plant nurseries. Some improved selections exist for reduced witches' broom tendency (a cosmetic issue caused by a combination of powdery mildew fungus and eriophyid mites — see Pruning Notes), but these are uncommon in the trade. Witches' broom is extremely common on C. occidentalis and should be considered a normal characteristic of the tree rather than a disease problem; it does not significantly harm the tree. If witches' broom is a strong aesthetic concern, Celtis laevigata (Sugarberry / Southern Hackberry) is a related species with less susceptibility, though its hardiness varies by provenance and it is not appropriate in Zones colder than 5-6. Buy straight-species C. occidentalis from a native plant nursery offering local-provenance or regionally appropriate seed-grown stock whenever possible — locally sourced trees will be best adapted to your specific conditions.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wildlife garden",
+      "food forest canopy",
+      "riparian planting",
+      "naturalized woodland edge",
+      "challenging urban or suburban site",
+      "large property windbreak or hedgerow anchor"
+    ],
+    "designPlacement": "Best suited to the back of a property or a property edge where its eventual 40-60' spread can be accommodated without crowding structures. As a canopy tree, it anchors a wildlife-focused guild or woodland edge planting — pair with elderberry, spicebush, and native asters beneath for a multi-layer, multi-season wildlife planting. Even a single tree is a meaningful wildlife investment given the exceptional winter bird value and butterfly host specificity. Caging or tree tubes are recommended for the first 3-5 years in any region with deer pressure.",
+    "acquisitionStatus": "To source (native plant nursery; straight species preferred; local-provenance seed if available)\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Celtis_occidentalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/54857-Celtis-occidentalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a858"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. occidentalis is native to Pennsylvania; found in moist, rich woodland soils and bottomlands throughout the state; naturally abundant along creek corridors, old fence rows, and woodland margins in central PA",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; no restrictions",
+      "drainage": "Performs strongly in Hegins red clay; compaction and drainage challenges that would disqualify most canopy trees are not limiting factors for hackberry; no soil amendment required for establishment",
+      "soil": "Red clay, compacted construction-disturbed soils — fully within hackberry's tolerance range; no special preparation needed; plant and establish with normal tree establishment care",
+      "cultivarNotes": "C. occidentalis is fully native to Pennsylvania and well within its hardiness comfort zone at Zone 6a. Straight species from a PA or mid-Atlantic native plant nursery is the correct choice; local-provenance seed-grown stock is preferred. Avoid C. laevigata as a substitute — not native to PA and marginally hardy here.",
+      "designPlacement": "Strong candidate for the far edge of the paw paw corridor or as a standalone canopy specimen on an open part of the lot where spread can be accommodated. Active deer pressure at Hegins makes tree tubes or caging essential for the first 3-5 years.",
+      "siteObservations": null
+    }
+  }
+}

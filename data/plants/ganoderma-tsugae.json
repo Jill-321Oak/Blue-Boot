@@ -1,0 +1,157 @@
+{
+  "id": "ganoderma-tsugae",
+  "name": {
+    "commonName": [
+      "Reishi",
+      "Hemlock Varnish Shelf",
+      "Hemlock Reishi"
+    ],
+    "latinName": "Ganoderma tsugae",
+    "family": "Ganodermataceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — native to temperate coniferous and mixed forests from the Appalachians through the Great Lakes and into the Northeast; range closely tracks that of its primary host, eastern hemlock (Tsuga canadensis); also occurs on other conifers (spruce, fir) across its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — found throughout the Appalachian region, Great Lakes states, and the Northeast wherever eastern hemlock (Tsuga canadensis) occurs; range extends from Georgia and the southern Appalachians north to Maine and west to Minnesota; not native to the western US, Great Plains, Gulf Coast, or Southwest; not present where its primary host tree is absent"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Ganoderma tsugae is a native saprophytic/parasitic fungus that decomposes dead and dying conifers — it does not spread aggressively, does not colonize living healthy trees, and poses no ecological threat outside its natural host-substrate relationship. No US state lists any Ganoderma species as invasive or noxious."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "Zone 4–8"
+    }
+  },
+  "description": {
+    "height": "Fruiting body 2–12\" across; low-profile bracket (shelf) fungus attached laterally to the host log or stump; cap surface is flat to kidney-shaped with a pronounced lacquered gloss",
+    "spread": "Individual brackets to clusters of overlapping shelves; mycelium pervades the host wood deeply; a single inoculated log may produce one to several brackets per flush",
+    "spacing": "Inoculate logs or stumps with spawn; no plant spacing applies; logs can be placed vertically or horizontally in a shaded, moist location",
+    "growthRate": "Slow relative to oyster mushrooms; mycelium colonizes logs over 6–18 months before first fruiting; once established, the same log or stump fruits annually across multiple seasons",
+    "timeToMaturity": "First fruiting 6–18 months after log inoculation; established logs or stumps fruit reliably for 3–6+ years; wild stumps with established mycelium may fruit annually for a decade or more",
+    "lifespan": "Individual fruiting bodies develop slowly over 2–4 months (unlike ephemeral gilled mushrooms, Ganoderma forms a persistent bracket that hardens as it matures); once dried and hardened, the fruiting body is durable for years; mycelium persists in the host wood for the lifespan of the substrate",
+    "deciduousEvergreen": "Not applicable; fruiting occurs primarily in summer — the exact window varies by zone (Zone 4–5: July–September; Zone 6–7: June–August; Zone 8: May–July); distinctly warm-season, in contrast to the spring/fall fruiting of shiitake and oyster",
+    "winterInterest": "Dried, hardened brackets from previous seasons may persist on logs and stumps through winter; the varnished surface is striking and may serve as a decorative object even after harvesting"
+  },
+  "lightAndWater": {
+    "sun": "Shade preferred to partial shade; direct sun can dry and crack developing brackets; natural habitat is the shaded forest understory; a north-facing log placement, under tree canopy, or in any consistently shaded understory is ideal; in warmer zones (Zone 8), deeper shade is more critical to prevent desiccation",
+    "water": "Consistent moisture is critical during bracket development; the developing fruiting body grows very slowly and requires sustained humidity across its months-long development period; drought during development causes distorted, stunted, or aborted brackets; supplemental irrigation during dry periods supports bracket completion; the host log must be kept moist through colonization; in the humid East, natural rainfall is often sufficient during wet summers but supplemental watering is needed during dry spells; in drier western climates, regular irrigation is essential",
+    "drainagePreference": {
+      "description": "Not applicable to the substrate in the traditional sense; the host wood should not sit in standing water (promotes bacterial contamination and anaerobic conditions); angled or elevated log placement in a cool, shaded, consistently moist microsite is ideal; good air circulation around logs prevents bacterial issues while maintaining humidity",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not directly applicable — G. tsugae grows in wood, not soil. However, clay soil beneath a log stack affects the microclimate: heavy clay retains moisture and can create beneficial humidity around logs during dry periods, but poorly drained clay that pools water under logs promotes bacterial contamination. Elevate logs on gravel, pallet rails, or concrete blocks to prevent direct contact with waterlogged clay. On well-drained clay sites, the natural moisture retention is actually an advantage for log-culture mushrooms."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — grows in wood, not soil; the substrate is the host log or stump"
+    },
+    "texturePreference": "In cultivation: hardwood logs (oak, maple, sweetgum are widely used; G. tsugae also grows on hemlock logs — appropriate for a species naturally associated with conifers); supplemented hardwood sawdust blocks are also used for indoor or controlled cultivation; does NOT grow productively on black walnut (antifungal compounds); avoid cedar. In wild contexts, G. tsugae is nearly obligate on conifers — especially eastern hemlock — while the closely related G. sessile and G. curtisii are the oak-associated North American Ganoderma species; for hardwood log culture, G. sessile spawn is the more natural match for oak, though G. tsugae spawn is widely sold for general log cultivation",
+    "rootCharacter": "White to cream mycelium colonizes the sapwood and heartwood of the host log; white mycelial fans visible on log ends and beneath bark when colonization is advanced; the log becomes progressively lighter and spongier as the wood is consumed"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: summer is the primary fruiting window across the species' range; Zone 4–5: July–September; Zone 6–7: June–August; Zone 8: May–July; G. tsugae is distinctly warm-season, fruiting at temperatures of 65–85°F; this is the most important seasonal distinction from shiitake (spring/fall) and oyster mushrooms (spring/fall) — reishi fills the summer production gap in the fungal layer calendar",
+    "bloomDescription": "Kidney-shaped to fan-shaped bracket with a brilliantly lacquered, varnished surface — the defining characteristic of the Ganoderma genus; the cap surface is deep red-mahogany to orange-red, shiny as if coated in shellac; the growing edge of the cap is white or pale cream and actively expanding during development; the underside (pore surface) is white to cream, browning with age; a sturdy lateral stem (stipe) is present in G. tsugae — distinguishing it from some other Ganoderma species; the entire fruiting body is tough, woody, and corky — not soft-fleshed like edible gilled mushrooms; bracket develops slowly over 2–4 months, hardening progressively as it matures; spore release (producing a rusty-brown spore dust) occurs as the bracket matures and is often dramatic",
+    "fragrance": "Faint, woody, pleasantly earthy aroma; not the pronounced culinary scent of shiitake or oyster; the dried mushroom develops a distinctive herbal, slightly bitter medicinal scent",
+    "flowerSex": "Not applicable; spore-dispersing organism",
+    "pollination": "Not applicable; rusty-brown to cinnamon spore print released from pore surface on the underside of the bracket"
+  },
+  "yield": {
+    "edibleParts": "The fruiting body is NOT used as a culinary food ingredient. The flesh is woody, tough, extremely bitter, and completely indigestible — it cannot be eaten as a vegetable in the way shiitake or oyster mushrooms are consumed. This is the primary distinction between reishi and the edible cultivated mushrooms. Reishi is a medicinal mushroom exclusively — the yield is medicine, not food.",
+    "harvestSeason": "Harvest brackets when fully developed — when the white growing margin has turned red/mahogany and the bracket has hardened throughout; before significant spore drop if possible (spore release can be heavy and creates a rust-colored dust); timing varies by zone: Zone 4–5: August–September; Zone 6–7: July–August; Zone 8: June–July; dry immediately after harvest",
+    "medicinalUses": "Reishi (Ganoderma species) is among the most extensively researched and historically revered medicinal fungi in the world. G. tsugae is the North American species equivalent to G. lucidum — the East Asian species used for millennia in Traditional Chinese Medicine (TCM) as \"Lingzhi,\" the \"Mushroom of Immortality.\" The two species are not identical but share the same primary medicinal compounds and activity profiles.\nPrimary medicinal compounds:\nGanoderic acids (triterpenoids) — the defining class of compounds; anti-inflammatory, hepatoprotective (liver-protecting), adaptogenic, anti-hypertensive, anti-tumor activity in laboratory studies; responsible for the characteristic bitter flavor\nBeta-glucans (polysaccharides) — immune-modulating compounds shared with shiitake and other medicinal mushrooms; stimulate macrophage and NK cell activity; extensively documented in clinical research\nGanoderma polysaccharides — additional immune-active carbohydrate compounds distinct from beta-glucans\nDocumented benefits (research-supported):\nImmune modulation — one of the most potent immune-modulating natural products known; particularly relevant for immune support and as a cancer therapy adjunct\nAnti-cancer (adjunct) — not a standalone cancer treatment; used as an adjunct to conventional therapy in East Asian oncology; reduces fatigue, improves quality of life, and may enhance immune response to tumor cells\nLiver protection (hepatoprotection) — ganoderic acids protect against chemical- and alcohol-induced liver damage; used clinically for liver support in East Asian medicine\nAnti-hypertensive — documented reduction in blood pressure in clinical studies; ACE-inhibitory activity\nAdaptogenic — reduces physiological and psychological stress response; one of the classical adaptogens alongside ashwagandha and eleuthero; promotes resilience and balance rather than stimulating or sedating\nAnti-inflammatory — ganoderic acids inhibit inflammatory pathways; relevant for chronic inflammatory conditions\nPreparation methods: Reishi is NOT taken raw or as a simple food; the active compounds require specific extraction methods:\nTea / decoction (water extraction): simmer dried sliced reishi in water for 30–60 minutes; the hot water extracts beta-glucans and some polysaccharides; the tea is intensely bitter; sweeten with honey or combine with other herbs; this is the simplest and most traditional preparation\nDual extract tincture (water + alcohol extraction): the full medicinal profile requires both water extraction (for beta-glucans) and alcohol extraction (for ganoderic acids / triterpenoids, which are not water-soluble); a dual extract combines both fractions and is the highest-potency preparation; this is what quality commercial reishi supplements contain\nPowder (for capsules or blending): dried fruiting body ground to powder; less potent than dual extract but convenient; used in capsule form or blended into drinks; look for hot-water-extracted or dual-extracted powders from quality suppliers\nThe medicinal value of reishi is among the highest of any cultivated organism in the food forest system. It should be considered a high-priority medicinal crop alongside elderberry, echinacea, and valerian.",
+    "craftOtherYield": "Dried whole brackets (striking decorative objects — the varnished surface is beautiful; used in dried floral arrangements, altar displays, and craft work); dried sliced reishi (long-term storage for medicinal use; stores for 1–3+ years in airtight containers); reishi powder (dried and ground for tincture-making or capsules); reishi dual extract tincture (highest-potency medicinal preparation — the primary goal of home cultivation); spent logs (exhausted logs return to the soil as high-quality humus)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered very safe at typical medicinal doses; Ganoderma species have an excellent safety record across thousands of years of use in East Asian medicine and decades of modern clinical research; the most commonly reported side effects at high doses are digestive upset (nausea, loose stool) and occasional dryness of the mouth or throat; persons on anticoagulant medications (warfarin, etc.) should use caution — ganoderic acids have mild blood-thinning activity; as with all medicinal herbs, consult a healthcare provider if pregnant, nursing, or taking prescription medications; the spore release during bracket maturation is heavy and the rusty-brown spore dust is a respiratory irritant — avoid breathing spore clouds during harvest; harvest outdoors and wear a dust mask if spore release is active",
+    "toxicityAnimals": "No significant documented toxicity; the same general precautions apply as with any novel botanical/fungal material for pets; the intensely bitter flavor makes accidental ingestion of large amounts unlikely",
+    "allelopathy": "The mycelium actively decomposes the host log's lignocellulosic material; will outcompete other fungi for the same substrate; no significant broader allelopathic effects in the garden",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Medicine (the primary yield — a premier medicinal mushroom with one of the best-documented herb/fungus safety and efficacy profiles in the world; among the highest-value medicinal crops per square foot in the food forest)",
+      "Soil Builder (decomposition of host logs returns humus and nutrients to the system)",
+      "Nutrient Cycling (converts locked lignin and cellulose to plant-available nutrients)",
+      "Ecological Niche (fills the summer fruiting window in the fungal layer calendar, complementing the spring/fall production of shiitake and oyster mushrooms)"
+    ],
+    "companionPlants": [
+      "Lentinula edodes (shiitake) — complementary log-culture mushroom; shiitake fruits spring and fall; reishi fruits summer; together they provide nearly year-round log-culture mushroom activity; Pleurotus ostreatus (oyster mushroom) — spring and fall fruiting companion; Stropharia rugosoannulata (wine cap) — the ground-level fungal complement in the wood chip layer; the three-mushroom combination of reishi (logs, summer)",
+      "shiitake (logs, spring/fall)",
+      "and oyster (logs, spring/fall) with wine cap in the chip layer creates a fully integrated",
+      "four-season fungal guild"
+    ],
+    "antagonists": [
+      "Contamination (bacterial contamination and green mold / Trichoderma during log colonization — use fresh-cut logs, seal inoculation holes thoroughly with wax, maintain clean substrate and appropriate moisture); Trichoderma (green mold — primary competitor; healthy colonization outcompetes it but logs must be clean and properly inoculated); black walnut (Juglans nigra) — do not use as substrate; juglone inhibits mycelial growth"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles and flies breed in and around the fruiting bodies and decaying substrate); birds (woodpeckers and other insectivores investigate inoculated logs for associated insect activity); the heavy spore cloud released by maturing brackets is dispersed by wind and insects",
+    "hostPlantFor": "Various invertebrates colonize the decaying wood of the host log as it is progressively broken down by the mycelium",
+    "nestingHabitat": "Progressively decayed and exhausted logs provide habitat for ground-dwelling invertebrates, salamanders, and other small animals in the food forest understory"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable; deer do not consume the woody, extremely bitter fruiting bodies of Ganoderma species; logs stored in any location are not a target; no deer protection is needed for reishi cultivation anywhere in the US"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Bracket development is highly sensitive to moisture — drought during the summer fruiting season causes bracket abortion, distortion, or failure to develop; supplement with irrigation if dry conditions occur during the fruiting window; the mycelium persists in the log but will not complete bracket development without adequate moisture; this is the primary cultivation challenge across most of the species' range during summer; gardeners in the humid East may get by with natural rainfall in wet years but should plan for supplemental watering; in the drier West or during heat waves, irrigation is essential"
+    },
+    "other": "Warm-season fruiting requirement (65–85°F) is the defining ecological characteristic; reishi will not fruit in cool weather; it fills the summer production gap when shiitake and oyster are largely dormant; hemlock woolly adelgid (Adelges tsugae) is killing eastern hemlocks across the Appalachian region and Northeast, which creates an ecological tragedy but simultaneously produces a short-term pulse of wild G. tsugae fruiting opportunity on dying hemlock stands throughout the affected range"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once logs are inoculated; the primary active management is irrigation during dry periods to support bracket development",
+    "pruningNotes": "Harvest brackets when fully mature — when the white growing margin has fully colored to red/mahogany, the bracket is firm and hard throughout, and before or shortly after spore release begins; cut cleanly at the base with a knife; the bracket will not re-grow from the same point but new brackets may emerge from other areas of the log in subsequent seasons. Wear a dust mask if harvesting during active spore release — the rusty-brown spore cloud is heavy and persistent. Dry harvested brackets immediately in a food dehydrator or low oven (95–115°F) until completely hard and dry throughout; a fully dried bracket will snap rather than bend; slice before drying for easier powder production. Do not allow brackets to sit undried after harvest — they will deteriorate. Store dried brackets or sliced pieces in an airtight container; properly dried reishi stores for 1–3 years with minimal degradation of medicinal compounds.",
+    "propagationMethods": [
+      "Plug spawn (the standard outdoor log inoculation method — drill 5/16\" holes in a diamond pattern along fresh-cut hardwood logs, hammer in inoculated wooden plugs, seal each hole with cheese wax; use logs cut within 2 weeks, with bark intact, 4–8\" diameter, 3–4' length; oak, maple, and sweetgum are all suitable hardwood substrates); sawdust spawn (faster colonization for smaller log sections or stump inoculation — pack into drilled holes and seal with wax); stump inoculation (drill and inoculate fresh hardwood stumps for a long-term, low-maintenance perennial fruiting site — stumps provide a large substrate volume and can fruit annually for many years); supplemented sawdust blocks (for controlled indoor or greenhouse fruiting — faster production; useful for testing strains or producing a harvest before outdoor logs are ready); purchase spawn from reputable suppliers: North Spore",
+      "Fungi Perfecti",
+      "and Field & Forest Products are the primary US suppliers; specify G. tsugae for hemlock log or mixed hardwood culture",
+      "or G. sessile for oak-specific culture"
+    ]
+  },
+  "cultivarNotes": "Strain selection for Ganoderma is less complex than shiitake but species selection matters. The three relevant North American Ganoderma species each suit different substrates and regional contexts:\nGanoderma tsugae — the native eastern North American species naturally associated with eastern hemlock; grows well on hardwood logs (oak, maple) in addition to its natural hemlock association; the species most commonly sold as \"reishi\" by US spawn suppliers; medicinal profile is equivalent to G. lucidum for practical purposes. Best suited for Zone 4–7 gardeners in the eastern US where hemlock is native, but performs well on hardwood logs anywhere in its zone range.\nGanoderma sessile / G. curtisii — the oak-associated North American Ganoderma species; naturally found on oaks and other hardwoods throughout the eastern US; some mycologists consider these the more appropriate choice for hardwood log culture, especially in the Southeast (Zone 7–8) where oaks are the dominant hardwood and hemlock is absent from lowland forests; less commonly available as spawn but worth seeking for oak log inoculation; check with Field & Forest Products.\nGanoderma lucidum — the classic East Asian species used in TCM; not native to North America; occasionally available from specialty spawn suppliers; the medicinal profile is well-documented and it is the species behind virtually all commercial reishi supplements; less well-adapted to North American conditions than G. tsugae; no advantage over G. tsugae for home cultivation in the US.\nZone 3–5: G. tsugae is the primary option; ensure logs are in a sheltered, south-facing location to accumulate enough summer heat for fruiting; the shorter warm season may delay first fruiting to 12–18+ months; prioritize oak logs for thermal mass.\nZone 6–7: The sweet spot for G. tsugae cultivation; summer temperatures reliably support bracket development; both hardwood and hemlock logs are effective substrates; the June–August fruiting window complements shiitake and oyster mushrooms well.\nZone 8+: G. sessile or G. curtisii may be more appropriate for southern gardeners using oak substrates, as these species are better adapted to warm hardwood forests; G. tsugae will still fruit on hardwood logs but is at the warm edge of its range; ensure deep shade and consistent moisture to prevent desiccation in summer heat.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest fungal layer",
+      "log culture",
+      "stump inoculation",
+      "medicinal mushroom production"
+    ],
+    "designPlacement": "Fungal layer of any shaded, moist guild — the primary placement is inoculated hardwood logs stored in the shaded understory of a food forest, under a north-facing structure, or in any consistently moist, shaded microsite. Logs can be stacked vertically (totem style) or horizontally (crib stack) depending on available space. The summer fruiting season makes reishi the critical complement to shiitake and oyster mushrooms in the seasonal fungal calendar: shiitake and oyster cover spring and fall; reishi covers summer. Together the three log-culture species provide near year-round medicinal and edible fungal production from the same log-stack footprint. Stump inoculation on any available hardwood stump is a long-term, low-maintenance fruiting site worth establishing early. Given the exceptionally high medicinal value — reishi is arguably the most medicinally significant organism that can be cultivated in a temperate food forest — this should be prioritized alongside elderberry and other medicinal plants in the system design. Note: in the eastern US, if dying or recently dead eastern hemlocks are present within reasonable foraging distance, wild harvest of G. tsugae during summer is a high-value wildcrafting opportunity that requires no cultivation investment.",
+    "acquisitionStatus": "To source (spawn available from North Spore, Fungi Perfecti, Field & Forest Products)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganoderma_tsugae",
+    "inaturalist": "https://www.inaturalist.org/taxa/63274-Ganoderma-tsugae",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — G. tsugae occurs naturally throughout Pennsylvania on dying and dead eastern hemlocks; active hemlock mortality from hemlock woolly adelgid (Adelges tsugae) has increased the frequency of fruiting in many parts of the state; likely present within the broader Hegins region on any significant hemlock stand",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania. Same as general Invasive field — no Ganoderma species appears on the PA Dept. of Agriculture invasive species list or DCNR watch lists.",
+      "drainage": "At the Hegins site, the compacted red clay is a mixed factor for log culture. The clay retains moisture well, which benefits the humid microclimate around log stacks during summer fruiting. However, the drainage issues after heavy rain mean logs must be elevated off the ground to avoid sitting in pooled water. Place log stacks on gravel pads, pallet rails, or concrete blocks — never directly on the clay surface. No raised beds needed; this is log culture, not in-ground planting.",
+      "soil": "At the Hegins site, source oak or maple logs from local arborist drop wood or routine tree maintenance. The red clay soil is irrelevant to substrate selection since G. tsugae grows in wood, not soil. Hemlock logs from adelgid-killed trees in the region are also suitable if available.",
+      "cultivarNotes": "G. tsugae is the correct choice for home cultivation. It is native to the region, spawn is widely available, it produces on both hardwood and hemlock logs, and its medicinal profile is equivalent to G. lucidum for home medicinal use purposes. Source oak or maple logs locally and inoculate in late winter (February–March).",
+      "designPlacement": "Place inoculated log stacks in the most consistently shaded and moist area of the property — the north-facing garage strip (Section B area) or within the food forest understory as tree guilds mature and provide canopy shade. Elevate logs off the compacted red clay on gravel pads or pallet rails to avoid bacterial contamination from pooled water after heavy rain. The summer fruiting window (June–August) complements the shiitake/oyster spring-fall schedule. Stump inoculation on any hardwood stumps on the property is a low-effort, high-return opportunity.",
+      "siteObservations": "Survey the broader Hegins area for dying or dead eastern hemlocks — hemlock woolly adelgid pressure in Schuylkill County means dying hemlocks may be present locally, offering a wild G. tsugae harvest opportunity in summer. For cultivated production, source oak or maple logs from routine tree work (arborist drop wood) and inoculate in late winter or early spring (February–March). The compacted red clay at the site is not a direct constraint for log culture but means logs must be elevated to avoid sitting in pooled water after rain. Deer pressure from the east wildlife corridor is irrelevant for reishi — the woody, bitter brackets are not palatable to deer. The primary cultivation challenge at this site is ensuring adequate moisture during the June–August fruiting window; supplemental watering during dry summer spells is the key management task."
+    }
+  }
+}

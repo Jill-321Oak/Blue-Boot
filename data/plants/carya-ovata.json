@@ -1,0 +1,165 @@
+{
+  "id": "carya-ovata",
+  "name": {
+    "commonName": [
+      "Shagbark Hickory"
+    ],
+    "latinName": "Carya ovata",
+    "family": "Juglandaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from southern Quebec and Ontario west to Minnesota and Nebraska, south through the Appalachians to Georgia and Alabama and west to Texas; one of the most ecologically distinctive and valuable native nut trees of the eastern deciduous forest",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across a broad swath of the eastern US, including most of the Midwest, Mid-Atlantic, Appalachians, and Southeast; native from Zone 4 through Zone 8; not native to the Pacific states, the arid Southwest, the Great Plains west of Nebraska, or Florida; within its native range it is a characteristic canopy tree of upland hardwood forests, wooded slopes, and well-drained woodland soils"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "United States: No; spreads by squirrel-cached nuts and gravity — seedlings appear in undisturbed soil beneath and around parent trees; germination is reliable but slow to establish; not considered invasive anywhere in the US\nPennsylvania:\nNative to Site: Yes — C. ovata is native to Pennsylvania; found across the state in upland hardwood forests, wooded slopes, and well-drained woodland soils; a characteristic tree of the eastern deciduous forest canopy, frequently found alongside oaks, maples, and black walnut throughout central and eastern PA; the shaggy peeling bark makes mature trees unmistakable in the winter landscape\nPA Invasive Status: Not invasive"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "60-80' at maturity in open conditions; occasionally to 100'+ in ideal forest settings with favorable soils and moisture",
+    "spread": "30-50'; narrower and more upright than black walnut; oval to oval-rounded crown; the crown becomes more open and irregular with age",
+    "spacing": "40-60' from other canopy trees for full crown development; 20-30' allelopathic buffer from sensitive plants (significantly smaller than black walnut's zone, but caution is warranted); allow space for the full mature canopy — this tree rewards generous spacing",
+    "growthRate": "Slow; one of the slowest-growing native hardwood canopy trees — typically 6-12\" per year; patience is essential; the slow growth produces extraordinarily dense, strong wood",
+    "timeToMaturity": "First nut production typically 10-15 years from seed; meaningful nut crops in 20-30 years; full production at 40+ years; this is a multigenerational planting — the tree improves for centuries and the gift is as much for future generations as for the present",
+    "lifespan": "Exceptionally long-lived; 200-500 years; mature hickories are ecological anchors and irreplaceable components of the eastern forest; planting one is a permanent contribution to the landscape",
+    "deciduousEvergreen": "Deciduous — large pinnately compound leaves (8-14\" long, typically with 5 leaflets, sometimes 7); leaflets are largest at the tip of the compound leaf, which distinguishes Shagbark from many other hickories; rich yellow-green in summer; outstanding golden yellow to amber fall color; leafs out moderately late in spring",
+    "winterInterest": "Outstanding — the most visually distinctive bark of any common eastern tree; long, curved, gray plates of bark peel away from the trunk and curve outward at both ends, giving the trunk a dramatic shaggy appearance unlike anything else in the winter forest; a mature Shagbark Hickory is immediately identifiable from 50 yards in any season by its bark alone"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; requires minimum 6 hours of direct sun for good nut production; tolerates light shade when young and will grow under light canopy, but nut production is dramatically reduced in shade; nut crops are best on open or lightly wooded sites",
+    "water": "Medium; moderately drought tolerant once established, particularly given the deep taproot; young trees benefit from consistent moisture in establishment years 1-5; tolerates brief periods of excess moisture but is not a wetland species",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to upland sites, wooded slopes, and well-drained woodland soils; tolerates moderately dry sites better than black walnut; avoid consistently wet or poorly drained locations",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay-loam and moderately heavy clay soils provided drainage is not consistently poor; the deep taproot allows the tree to penetrate below a compacted clay layer and access subsoil moisture and structure; establishment is slower in heavy clay but the tree is resilient once rooted; avoid sites with standing water or a seasonally perched water table"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acid to neutral preferred; performs best in slightly acidic soil consistent with typical eastern woodland conditions"
+    },
+    "texturePreference": "Deep, well-drained loam preferred; performs well in clay-loam soils if drainage is adequate; found naturally in a wide range of soil types across its range including rocky slopes and upland clay; the deep taproot gives it resilience in difficult soils once established",
+    "rootCharacter": "Very deep taproot — one of the deepest taproots of any native eastern tree; the taproot is a defining characteristic and a critical factor in site selection and planting strategy; lateral roots extend well beyond the drip line; the taproot makes transplanting extremely difficult after the first year or two of growth; plant bare-root when very small (1-2 years old), use deep containers, or direct-seed in the intended permanent location; once established, the taproot is essentially impossible to remove without mechanical equipment"
+  },
+  "bloom": {
+    "bloomTime": "April-May; blooms as leaves are emerging",
+    "bloomDescription": "Monoecious — male and female flowers borne separately on the same tree; male catkins are slender, drooping, yellow-green, appearing in groups of three from the previous year's wood; female flowers are small, inconspicuous, appearing at the tips of new growth; wind-pollinated; the catkins provide important early-season pollen for native bees and other insects before many other sources are available",
+    "fragrance": "Leaves have a pleasant, faintly spicy-woody fragrance when crushed; less assertive than black walnut; the crushed foliage of hickory is a characteristic scent of the eastern woodland in summer",
+    "flowerSex": "Monoecious — male and female flowers on the same tree",
+    "pollination": "Wind-pollinated; a single tree will produce nuts; cross-pollination with a nearby second tree improves yield and nut set; most trees in woodland settings across the native range will have adequate nearby pollinators; isolated single trees still produce well as a general rule"
+  },
+  "yield": {
+    "edibleParts": "Nut — the Shagbark Hickory nut is widely regarded as the finest-flavored native nut in eastern North America; the flavor is rich, buttery, sweet, and complex — superior in flavor to the black walnut and broadly comparable to (or better than) the best pecans (Carya illinoinensis is a close relative); the shell is very thick and extremely hard, requiring a sturdy nut cracker or a purpose-built hickory cracker; cracking is labor-intensive but the reward is exceptional; the kernel yields are lower by weight than English walnut or pecan due to shell thickness, but flavor quality more than compensates; hickory nut oil rendered from the kernels was one of the most prized native fats in eastern North America — Indigenous peoples extracted the oil by boiling crushed nuts and skimming the rich oil from the surface; the resulting nut milk (called \"pawcohiccora\" — the origin of the word \"hickory\") was a staple cooking fat and food; hickory nut cake and hickory nut candy are traditional Appalachian foods with deep regional roots",
+    "harvestSeason": "September-October; the thick green-yellow husks split open in four sections when ripe and the nuts fall; collect promptly from the ground before squirrels cache them all; husks come off more cleanly than black walnut and do not stain as severely; dry nuts for 2-4 weeks before cracking; properly dried nuts store well for months in a cool dry location",
+    "medicinalUses": "Limited documented medicinal use compared to black walnut; the bark has been used in traditional and folk medicine as an astringent and febrifuge (fever reducer); primarily valued for food, not medicine",
+    "craftOtherYield": "Hickory wood is among the strongest, hardest, and most shock-resistant of all native North American hardwoods — superior in these properties to oak, ash, and most other eastern species; the wood bends well under steam and has exceptional impact resistance; historically used for tool handles (axes, hammers, mauls), wagon wheel spokes, ladder rungs, and sporting goods (golf club shafts were hickory before steel); Shagbark Hickory is also the preeminent smoking wood of American BBQ tradition — hickory smoke is the defining flavor of traditional American smoked meats, particularly in the Southeast and Midwest; the bark can be used for basket making and the peeling strips have aesthetic craft value; sap can be tapped in early spring similarly to maple"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "No toxicity; the nut is safe to eat; the husks do not stain as severely as black walnut but light staining is possible; handle with reasonable care",
+    "toxicityAnimals": "Hickory nuts are generally safe for most wildlife; moldy fallen nuts can cause digestive issues in dogs if consumed in quantity (a concern with any fallen nut crop); horses and livestock should not have access to large quantities of any raw nut; no significant toxicity concerns comparable to black walnut",
+    "allelopathy": "Mild to moderate — hickory produces juglone-related compounds (plumbagin and related naphthoquinones) primarily through its roots and leaf litter, but in significantly lower concentrations than black walnut; hickory's allelopathic effects are substantially milder than Juglans nigra and rarely cause the dramatic plant death seen under black walnut; most common garden plants and food crops tolerate proximity to hickory far better than proximity to black walnut; some juglone-sensitive plants (tomatoes, peppers, some Ericaceae) may show mild sensitivity very close to the root zone, but a 20-30' buffer is generally adequate rather than the 50-80' required for black walnut; this is a meaningful distinction in design — hickory integrates into a food forest far more easily than black walnut",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (exceptional quality native nut — the finest-flavored nut of eastern North America; nut oil and nut milk for cooking)",
+      "Wildlife Support (one of the most important native mast producers for woodland wildlife)",
+      "Timber / Long-term Asset (one of the strongest native hardwoods; significant long-term value)",
+      "Dynamic Accumulator (very deep taproot mines subsoil minerals and brings them to the surface through leaf litter — an important function in any food forest)",
+      "Smoking Wood (the preeminent American BBQ wood — deadwood and prunings have immediate practical value)",
+      "Canopy Anchor (large, long-lived canopy tree that defines the structure of a food forest for generations)"
+    ],
+    "companionPlants": [
+      "The allelopathic profile is mild enough to allow a wider range of companions than black walnut; confirmed good companions include: Asimina triloba (pawpaw — an ideal understory companion and fellow native)",
+      "native woodland wildflowers (Trillium, bloodroot, wild ginger, jack-in-the-pulpit, mayapple)",
+      "most native grasses and sedges",
+      "Allium spp. (onions and garlic)",
+      "native ferns",
+      "Rudbeckia and Echinacea spp.",
+      "elderberry (Sambucus canadensis)",
+      "Virginia creeper (Parthenocissus quinquefolia)",
+      "most native shrubs and woodland edge species; with the reduced allelopathy compared to black walnut",
+      "most standard food forest guild plants are compatible at normal spacing"
+    ],
+    "antagonists": [
+      "Very juglone-sensitive plants should still be kept at distance from the root zone — particularly tomatoes",
+      "peppers",
+      "and members of Ericaceae (blueberries, rhododendrons); however",
+      "the required buffer is far less extreme than black walnut; do not plant immediately at the base of the trunk regardless of species — allow the inner root zone its space"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Squirrels (primary nut dispersers — squirrel caching is the primary means of natural forest regeneration; squirrel activity under a hickory in fall is exceptional), white-tailed deer (consume fallen nuts), wild turkeys (one of their most important fall and winter mast foods), wood ducks, raccoons, black bears, and many other mammals and birds that consume the nuts; hickory is among the top five native mast trees in ecological importance for wildlife in the eastern US",
+    "hostPlantFor": "C. ovata hosts a rich community of native Lepidoptera — over 200 species of moths and butterflies use Carya species as larval hosts, making hickory one of the most ecologically important native host trees in the east; notable associated species include the spectacular hickory horned devil caterpillar (larva of the regal moth, Citheronia regalis — the largest caterpillar in North America), luna moth (Actias luna), banded hairstreak butterfly (Satyrium calanus), hickory hairstreak (Satyrium caryaevorus), and many others; the catkins provide early-season pollen for native bees before many other sources are available",
+    "nestingHabitat": "The shaggy, peeling bark plates create exceptional habitat — Eastern screech-owls, brown creepers, and several bat species roost and occasionally nest in the spaces behind the peeling bark strips; this is an uncommon and ecologically valuable nesting microhabitat that no other common eastern tree provides to the same degree; mature trees with large canopies support many additional nesting bird species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — mature trees are not significantly browsed; young saplings may receive some tip browsing but the tree is rarely a primary deer target; the aromatic foliage is somewhat deterrent; protect young trees in the first 2-3 years with a simple wire cage if deer pressure is heavy"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — not salt tolerant; site away from road salt spray zones"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — the deep taproot gives hickory exceptional drought resilience for a large canopy tree; young trees need more consistent moisture in years 1-5 while the taproot develops"
+    },
+    "other": "Highly wind-resistant due to the deep taproot and flexible, shock-resistant wood; hickory rarely suffers wind damage that would topple other large trees; very cold-hardy (Zone 4); no significant pest or disease problems in native range — one of the most self-sufficient native trees in eastern North America"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; the primary work is at the planting stage and in the first few years; after establishment, hickory is essentially self-managing",
+    "pruningNotes": "Minimal pruning required once established. In the first 5-10 years, select a strong central leader and remove competing co-dominant stems; gradually remove lower branches as the tree matures to develop a clear trunk if timber quality is a goal (a well-formed trunk improves timber value significantly). Prune in late summer or early fall if possible — like other Juglandaceae, hickory can bleed sap if pruned in late winter before the leaves emerge; not harmful but avoidable. Deadwood and pruned branches are valuable smoking wood — do not discard. Annual nut collection: harvest promptly from the ground in September-October before squirrels claim the entire crop; husks split and release more cleanly than black walnut; dry nuts in a single layer for 2-4 weeks before cracking; a quality nut cracker or a purpose-built hickory cracker is a worthwhile investment if the tree produces well.",
+    "propagationMethods": [
+      "Seed (the preferred method for most plantings; collect fresh nuts in fall immediately after they drop; remove husks; plant 1-2\" deep in the intended permanent location in fall to allow natural cold stratification and spring germination; alternatively, cold-stratify nuts in moist sand in the refrigerator for 90-150 days and plant in spring; protect planting sites from squirrels with hardware cloth; direct seeding in the permanent location avoids the taproot transplant problem entirely); bare-root transplanting (only feasible with very small 1-2 year seedlings before the taproot has extended deeply — the transplant window is narrow; use immediately after purchase, keep roots moist, and handle carefully); grafting (used for named cultivars selected for nut size and production; grafted trees are rare in the commercial market but available from specialty nut nurseries)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars selected for improved nut size and crackability are uncommon in the commercial market — Shagbark Hickory has never developed the cultivar market of apple or even black walnut. Two selections with documented track records are **'Grainger'** (selected for large nut size and good kernel percentage — the most widely cited named Shagbark selection) and **'Neilson'** (similar selection criteria; less widely available). However, the vast majority of Shagbark Hickories in cultivation and in food forests are grown from seed, and this is entirely appropriate — flavor and nut size vary among seedlings but the species as a whole produces excellent nuts. Across the lower 48, the tree performs reliably in Zones 4-8; gardeners at the warmer edge of the range (Zones 7-8 in the Deep South and inland Southeast) may see reduced nut set in years with insufficient winter chilling, and should source provenance-appropriate seed from within their region. Gardeners at the northern edge of the range (Zones 4-5 in the upper Midwest and New England) should prioritize northern provenance stock selected for cold hardiness. In the middle of the range (Zones 5-7 across the Mid-Atlantic, Appalachians, Ohio Valley, and Midwest), virtually any provenance-matched regional stock performs well. Specialty nut nurseries — including Nolin River Nut Tree Nursery (Kentucky), Oikos Tree Crops (Michigan), and regional native plant nurseries — are the best sources across the country; direct seeding from locally collected nuts is always an excellent approach where available.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Canopy anchor for a large food forest or woodland garden; wildlife mast planting; long-term nut production; timber investment; smoking wood source; native habitat restoration; specimen tree for winter bark interest"
+    ],
+    "designPlacement": "Shagbark Hickory is a canopy-layer tree requiring a large, open area — allow at minimum 40-50' of open space for full crown development, and ideally more. The slow growth means design must look decades ahead, but the reduced allelopathy compared to black walnut makes it far more food-forest-friendly. Unlike black walnut, it does not impose a 50-80' exclusion zone on desirable food plants — pawpaw, currants, herbs, and most vegetable beds can exist within a comfortable distance with appropriate spacing from the trunk. The outstanding nut quality, multigenerational lifespan, wildlife value, and exceptional winter bark interest justify a prominent, permanent position in any landscape large enough to accommodate the mature canopy. Plant one with full intention — it will outlive the planter by centuries.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carya_ovata",
+    "inaturalist": "https://www.inaturalist.org/taxa/54791-Carya-ovata",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a854"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. ovata is native to Pennsylvania; found across the state in upland hardwood forests, wooded slopes, and well-drained woodland soils",
+      "paInvasiveStatus": "Not invasive",
+      "drainage": "At Hegins, red clay soils are compacted and drainage can be impaired after heavy rain; Shagbark Hickory will establish more slowly than on loam but is a strong long-term choice — the taproot will eventually penetrate the clay pan and the tree will become highly self-sufficient; choose the best-drained available site and avoid low areas",
+      "soil": "Hegins soils are red clay, compacted, and construction-disturbed; direct seeding or very small bare-root stock is strongly preferred over container stock to allow the taproot to establish without restriction; amending the planting hole with compost will aid early establishment; the tree will ultimately prove highly adapted once rooted through the clay layer",
+      "cultivarNotes": "For Hegins and the central PA region, sourcing seed or bare-root seedlings from a Pennsylvania or broader Mid-Atlantic / Appalachian provenance is strongly recommended over sourcing from the southern or midwestern edge of the range — local provenance trees are adapted to PA winters, soil conditions, and phenology. Growing from a locally collected nut is a deeply satisfying and ecologically sound approach.",
+      "designPlacement": "At the Hegins property, hickory is best placed at the far edge or back of the property where the canopy can develop without competing with lower-layer food forest plantings. The heavy deer pressure at the site warrants wire cage protection for the first 2-3 years. The red clay soils will slow early establishment but will not prevent the tree from thriving long-term once the taproot penetrates the clay layer. The property's wildlife corridor context makes hickory an especially strong choice — mast production will directly benefit the wildlife this landscape is intended to support.",
+      "siteObservations": null
+    }
+  }
+}

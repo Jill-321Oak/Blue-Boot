@@ -1,0 +1,166 @@
+{
+  "id": "pinus-koraiensis",
+  "name": {
+    "commonName": [
+      "Korean Nut Pine",
+      "Korean Stone Pine",
+      "Korean Pine"
+    ],
+    "latinName": "Pinus koraiensis",
+    "family": "Pinaceae"
+  },
+  "range": {
+    "nativeRange": "Korea, Manchuria (northeast China), adjacent Russian Far East, and northern Japan; one of the dominant conifers in the temperate mixed forests of northeast Asia; grows in mountainous terrain alongside Abies, Picea, and broadleaved hardwoods",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from East Asia; not naturalized in the wild in any US state; all specimens in the US are cultivated plantings or their immediate offspring"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; extremely slow to reproduce naturally in cultivation; no invasive potential documented anywhere in the lower 48; not listed on any state noxious weed list or the federal noxious weed list; the slow growth rate, heavy seeds with limited dispersal, and lack of aggressive colonization behavior make invasiveness essentially impossible for this species"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7; performs well across a wide range of northern and mid-latitude US climates; heat tolerance becomes limiting above Zone 7 in most cases"
+    }
+  },
+  "description": {
+    "height": "30-60' in cultivation at maturity; potentially larger (to 100'+) in its native forest habitat over centuries; in a managed food forest setting, expect 40-50' at full maturity over 50+ years",
+    "spread": "15-35'; broadly conical when young, developing a more open, irregular crown with age; old specimens develop a distinctive flat-topped or domed profile",
+    "spacing": "20-25' minimum; for a food forest guild, 25-30' gives room for the mature crown and understory planting beneath; plant at least 2 trees for wind pollination and improved cone set — site them within 50-100' of each other",
+    "growthRate": "Slow — one of the slower-growing pines; expect 6-12\" per year in good conditions; the slow growth is the primary tradeoff for a long-lived, low-maintenance, extremely productive canopy tree; patience is the single most important requirement",
+    "timeToMaturity": "First cones in 10-15 years from seed (sometimes earlier on grafted trees); first significant harvestable nut crops 15-20 years; full, heavy production at 25-30+ years; this is a multigenerational investment and should be understood as such at planting",
+    "lifespan": "Very long-lived — 200-500+ years in the wild; in a garden context, this is a tree planted for children and grandchildren as much as for oneself",
+    "deciduousEvergreen": "Evergreen — holds its needles 2-3 years; provides year-round screening, windbreak, and structural presence",
+    "winterInterest": "Outstanding — the evergreen form, distinctive five-needle arrangement, and blue-green to dark-green foliage provide major winter interest; a handsome tree at all seasons"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred for best growth and cone production; tolerates light partial shade, especially when young; site in full sun for maximum productivity",
+    "water": "Moderate; tolerates both moist and drier conditions once established; does not tolerate prolonged waterlogging; in humid eastern climates, natural rainfall is often sufficient after establishment; in arid western regions, supplemental irrigation during dry summers may be needed for optimal growth",
+    "drainagePreference": {
+      "description": "Well-drained to moderately moist; does not tolerate standing water or saturated soil, especially in winter — waterlogged roots invite Phytophthora and other root rots; established trees are reasonably drought-tolerant; the first 2-3 years require consistent moisture for establishment",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — P. koraiensis can grow in clay-loam soils provided drainage is adequate, but heavy, poorly drained clay is a serious risk; the deep taproot tolerates firm subsoil once established, but young trees in compacted, waterlogged clay are vulnerable to root rot and slow establishment; amend the planting area generously with coarse compost and organic matter to break up clay structure; planting on a slight mound or berm improves drainage in heavy clay sites; avoid low spots where water pools"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6.5,
+      "description": "4.5-6.5; naturally acidic soil preferred; tolerates a range of acidic to slightly acidic conditions; the fallen needle duff acidifies the soil beneath the tree over time, which is an asset for acid-loving companions in the understory"
+    },
+    "texturePreference": "Loamy to clay-loam; adaptable to a range of mineral soils provided drainage is adequate; sandy loams and gravelly loams are excellent; heavy clay is workable with amendment; avoid pure sand (too droughty for establishment) and pure clay (too waterlogged)",
+    "rootCharacter": "Deep, wide-spreading root system; tap-rooted when young; established trees are wind-firm and drought-tolerant; not allelopathic; the root system is compatible with most companion plants"
+  },
+  "bloom": {
+    "bloomTime": "May-June; blooms as new growth (candles) extend; pollen release and cone receptivity occur simultaneously on the same tree",
+    "bloomDescription": "Monoecious — separate male and female structures on the same tree; male pollen cones are small, clustered at branch tips, yellow-brown, releasing abundant wind-borne pollen; female seed cones are small and reddish when newly receptive, developing into the large mature cones over 18 months; the yellow pollen haze in spring is conspicuous on large trees",
+    "fragrance": "Fresh resinous pine fragrance; particularly noticeable in warm weather and when bark or needles are handled",
+    "flowerSex": "Monoecious — male and female cones on the same tree",
+    "pollination": "Wind-pollinated; technically capable of producing some cones alone, but cone set and seed fill improve substantially with a second tree nearby; plant at least 2 trees within wind-pollination distance (50-100'); do not rely on a single specimen for serious nut production"
+  },
+  "yield": {
+    "edibleParts": "Seeds (pine nuts) — the primary yield; the seeds of P. koraiensis are the large, rich, oily pine nuts that dominate the Asian commercial pine nut trade; the same species sold commercially in Asian markets; the nuts are roughly 3/4\" long, ivory-white, enclosed in a thin shell within the cone scales; flavor is rich, buttery, and mildly resinous — excellent raw, toasted, in pesto, in salads, in baked goods, and in Korean and Chinese traditional cuisine; nutritionally outstanding — very high in monounsaturated fats (oleic acid), vitamin E, vitamin K, manganese, and zinc; one of the most nutritionally dense tree nuts available; the young male cones and pollen are edible (pollen used in traditional Korean tteok/rice cakes); fresh pine needle tips (spring candles) can be used to make pine needle tea; young bark is edible in survival contexts",
+    "harvestSeason": "Cones mature in September-October of the second year after pollination (cones take 18 months to mature); collect cones before they fully open and scatter seeds naturally; spread on tarps or wire mesh in a dry location and allow to open over several weeks; extract seeds by hand or with a mallet; shell seeds before eating (the shells are hard but thin); seed extraction is labor-intensive on a small scale — this is expected and traditional",
+    "medicinalUses": "Pine nuts are rich in pinolenic acid, which has documented appetite-suppressing and cholesterol-lowering effects in research; high vitamin E and antioxidant content; pine needle tea (from fresh young tips) is high in vitamin C and has traditional use as an anti-scurvy remedy; pine resin has traditional antiseptic and wound-dressing applications; primarily a food and nutritional plant",
+    "craftOtherYield": "Pine resin (pitch) — traditional waterproofing, fire-starting, and adhesive; pine needle baskets and weavings; the straight-grained, resinous wood is excellent timber (historically important in Korea and Russia for construction); fallen needles make an outstanding mulch for acid-loving beds; pine nuts suitable for pressing into high-quality pine nut oil"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — entirely non-toxic; one of the safest edible nut trees; \"pine mouth\" (metallic aftertaste lasting several days after eating pine nuts) is a documented phenomenon associated primarily with P. armandii (Chinese white pine) and occasionally other species, including P. koraiensis in some reports — rare but worth knowing; caused by certain fatty acids in some batches; the effect is harmless and temporary",
+    "toxicityAnimals": "Pine needles can cause GI upset if consumed in large quantities by dogs or cats; not a significant toxicity concern in a normal garden setting; horses should not be allowed to browse heavily on pine needles; pine nuts themselves are not known to be toxic to animals in normal amounts",
+    "allelopathy": "None — P. koraiensis does not produce allelopathic compounds; the acidic needle duff has a pH-modifying effect on the soil beneath the tree, which benefits acid-loving plants but is not allelopathic in the toxic sense; a benign companion in the canopy layer",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy — long-term, permanent canopy layer investment"
+    },
+    "roles": [
+      "Food (pine nuts — one of the highest-value edible nut yields available from a Zone 3-7 tree)",
+      "Windbreak / Shelter (evergreen; valuable as a year-round windbreak element)",
+      "Wildlife Support (high-value seed for birds and mammals)",
+      "Mulch Production (needle duff)",
+      "Canopy Structure (year-round; provides shading and microclimate moderation for understory plants)",
+      "Long-Term Timber (if the tree is ever felled, the wood is outstanding)"
+    ],
+    "companionPlants": [
+      "Vaccinium corymbosum (blueberry — thrives in the acidified, well-drained needle duff beneath the tree; an ideal companion benefiting from the microclimate created by the pine)",
+      "Vaccinium vitis-idaea (lingonberry — same reasoning; acid-loving, low ground cover)",
+      "Gaultheria procumbens (wintergreen — native to eastern US; acid-loving; thrives under pines)",
+      "Rhododendron and azalea species (acid-loving ornamental understory)",
+      "Caragana arborescens (nitrogen-fixing shrub — plant on the sunny side of the pine guild)",
+      "Symphytum officinale (comfrey — dynamic accumulator; plant at the drip line)",
+      "Trifolium repens (white clover in adjacent open areas — nitrogen fixer); avoid planting Ribes species (currants and gooseberries) within the same guild — see note below"
+    ],
+    "antagonists": [
+      "Ribes species (currants and gooseberries) are the alternate host of white pine blister rust (Cronartium ribicola)",
+      "a serious fungal disease of five-needle pines including P. koraiensis; do not plant Ribes within 900 feet of five-needle pines if possible (state regulations on this vary); this is the single most important disease risk to manage; if Ribes are already planned on the property",
+      "site the pine as far from them as possible and monitor"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Squirrels (major consumers of the cones and seeds — expect significant competition from red and gray squirrels once trees begin producing; harvest cones early to beat squirrels); corvids — blue jays and crows will consume seeds; woodpeckers use the bark for foraging; in the native range, the Eurasian nutcracker (Nucifraga caryocatactes) is the primary seed disperser and has a mutualistic relationship with the tree; in North America, blue jays and Clark's nutcrackers (western US) play analogous roles; deer occasionally browse young trees",
+    "hostPlantFor": "Limited native Lepidoptera host value in the US (not native); supports some generalist bark and wood insects on older trees; the value here is primarily as food and shelter",
+    "nestingHabitat": "Significant — large evergreen pines provide outstanding year-round nesting and roosting habitat for birds; the dense canopy is used by owls, songbirds, and raptors; major nesting structure once the tree reaches maturity"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — young trees are vulnerable to deer browsing and antler rubbing (bucks rub antlers on young pines, which can be fatal to saplings); protect young trees with wire cages or tree tubes for the first 5-7 years until bark diameter exceeds what deer can damage; established trees with thick bark are essentially deer-proof; once past the vulnerable sapling stage, deer are not a significant concern"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates some road salt spray better than many conifers; not recommended for sites with direct, heavy salt exposure but handles light drift and incidental spray at moderate distances from treated roads"
+    },
+    "drought": {
+      "rating": "moderate-good",
+      "description": "Moderate to good once established; the deep root system accesses subsoil moisture; young trees (years 1-3) need consistent irrigation; do not allow the root ball to dry out completely during establishment"
+    },
+    "other": "Very cold-hardy (Zone 3 rated) — late spring frosts are not a concern for the needles or new growth; wind-firm once established; white pine weevil (Pissodes strobi) can occasionally attack the terminal leader of young trees in spring — if the growing tip wilts and droops (the characteristic \"shepherd's crook\"), remove the affected leader immediately and train a lateral branch as a new leader; this is the primary pest to monitor in the first decade; not a serious or common problem but worth knowing"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — this is one of the lowest-maintenance food-producing trees available; the primary demands are patience during the slow establishment phase and protection of young trees from deer",
+    "pruningNotes": "Minimal pruning required. Select a strong central leader in years 1-3 and remove any competing leaders (double leaders) early — this is the most important formative pruning task. Remove dead or damaged branches as needed. No shearing or heading. Do not cut back into old wood — pines do not bud from old wood. Monitor the terminal leader for white pine weevil damage in early spring (April-May); if damaged, remove the affected tip and select the strongest upright lateral to replace the leader. Beyond this, leave the tree alone. The slow growth rate means pruning mistakes are long-lasting — less intervention is better.",
+    "propagationMethods": [
+      "Seed (the primary method; seeds require cold-moist stratification of 90-120 days before germination; sow in fall outdoors or stratify in the refrigerator and sow in late winter; germinates readily once stratification is complete; expect very slow early growth; seedlings take 10-15+ years to bear nuts); grafting (used commercially to produce earlier-bearing, named cultivars — grafted trees may bear cones in 5-8 years; recommended if sourcing from a specialty nursery); cuttings (difficult; not the standard method)"
+    ]
+  },
+  "cultivarNotes": "For maximum nut production, the straight species (P. koraiensis) from a known provenance is the standard recommendation across all zones. Named ornamental selections are uncommon in the US nursery trade but a few exist. **Zone 3-5 (northern tier):** Prioritize seedlings or grafted trees from Manchurian or Russian provenances — these populations are selected for extreme cold-hardiness and reliable nut productivity in short-season climates. The straight species is the best choice; ornamental cultivars have not been selected for cold performance beyond the species norm. **Zone 6-7 (mid-latitude):** The full range of options is available; this is the sweet spot for the species in the US. Both straight species and named cultivars perform well. **'Morris Blue'**: selected for ornamental blue-green needle color; still produces nuts; a reasonable choice if ornamental value is a priority alongside food production. **'Silvery'**: silvery-blue foliage; similarly ornamental. **Zone 8+ (southern/hot-summer regions):** P. koraiensis is marginal; heat stress and insufficient winter chill may reduce cone set and overall vigor; gardeners in Zone 8+ should consider P. pinea (Italian stone pine) or P. edulis (pinyon pine) as better-adapted pine nut alternatives for warm climates. Across all zones, grafted trees are worth the premium cost for earlier bearing age (5-8 years vs. 10-15+ from seed). Raintree Nursery, One Green World, and specialist nut tree nurseries (e.g., Burnt Ridge Nursery) have occasionally carried P. koraiensis.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "windbreak",
+      "long-term nut production",
+      "ornamental evergreen specimen"
+    ],
+    "designPlacement": "Permanent canopy layer — a long-term investment that earns its space through decades of escalating nut production, wildlife value, and structural presence. Site in full sun with good drainage, away from Ribes species (currants and gooseberries — white pine blister rust host), and away from any areas where the 30-60' mature height will conflict with structures, views, or utility lines. Plant a minimum of 2 trees within 50-100' of each other for cross-pollination and improved cone set. The acidified needle duff beneath the mature tree creates an excellent microclimate for an acid-loving understory guild (blueberry, lingonberry, wintergreen) — plan the understory companions at planting even if they won't be installed for several years. Protect young trees from deer with wire cages or tree tubes for the first 5-7 years. This tree requires significant vertical and horizontal space and is not suited to small beds, narrow borders, or areas with height restrictions.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pinus_koraiensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/52392-Pinus-koraiensis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=284965"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced ornamental and food tree",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "The compacted red clay at Hegins requires deliberate site preparation; plant on a raised mound (12-18\" above grade) or on a naturally elevated, well-drained slope; amend the planting hole with a 50/50 mix of native clay and coarse compost to a radius at least 3x the root ball; do not plant in any low area where water stands after rain; the food forest zone likely has better drainage than the foundation beds, which is an advantage",
+      "soil": "The red clay at Hegins is within the acceptable range if amended; mix coarse compost generously into the planting hole and surrounding area; once the deep root system establishes (years 3-5), the tree accesses resources far beyond the amended zone and becomes largely self-sufficient in the native clay subsoil",
+      "cultivarNotes": "The straight species from Manchurian or Russian provenance is the top recommendation; grafted trees from any reputable specialty nursery are excellent if available. 'Morris Blue' is a sound choice if ornamental presence matters for the planting location. No special cultivar concerns for this zone.",
+      "designPlacement": "This tree is not suited to Sections A, B, or C (height, scale, and the 5' height limits in A and C rule it out; B is too narrow and increasingly shaded). It belongs in the food forest canopy zone where it can grow to its full potential without conflict. Site on well-drained ground, away from any low spots where red clay holds water. Plant a pair for pollination, spaced 25-30' apart. If Ribes species are planned anywhere on the property, site the pines as far from them as feasible (900'+ preferred). The pine nut guild (P. koraiensis + blueberry + lingonberry + wintergreen understory) can stand independently from the apple, paw paw, and mulberry guilds, or anchor a separate corner of the food forest.",
+      "siteObservations": "The active deer pressure from the east wildlife corridor makes sapling protection non-negotiable — install wire cages or tree tubes at planting and maintain them for 5-7 years until bark diameter is large enough to resist antler rubbing. The compacted red clay requires mound planting or a naturally elevated, well-drained site within the food forest zone; do not plant in any depression or flat area that holds water after rain. The slow growth rate means this tree will not contribute meaningfully to the food forest canopy for 15-20 years — plan surrounding guilds accordingly and do not count on shade from this tree in the near term."
+    }
+  }
+}

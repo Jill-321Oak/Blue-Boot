@@ -1,0 +1,166 @@
+{
+  "id": "chenopodium-bonus-henricus",
+  "name": {
+    "commonName": [
+      "Good King Henry",
+      "Poor Man's Asparagus",
+      "Perennial Goosefoot",
+      "Lincolnshire Spinach"
+    ],
+    "latinName": "Chenopodium bonus-henricus (syn. Blitum bonus-henricus — reclassified 2012; both names in wide use)",
+    "family": "Amaranthaceae (formerly Chenopodiaceae)"
+  },
+  "range": {
+    "nativeRange": "Central and southern Europe; widely cultivated as a cottage garden and allotment vegetable for centuries; naturalized in parts of North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States — introduced from Europe; naturalized in scattered locations across the northern US, particularly in the Northeast, upper Midwest, and Pacific Northwest; naturalization is sparse and patchy, not invasive"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive across the lower 48 states — self-seeds gently and forms stable colonies; not aggressive; not listed on any state invasive species list in the US; the gentle self-seeding habit is a garden asset, not a management concern"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "12-24\"",
+    "spread": "12-18\" per established clump; slowly expands by self-seeding to form a colony over years",
+    "spacing": "12-18\"",
+    "growthRate": "Moderate; slower to establish than annual spinach in year 1; fills its space and becomes fully productive by year 2; once established, essentially permanent",
+    "timeToMaturity": "Young leaves harvestable in year 1; spring asparagus-shoots and full leaf yield from year 2 onward",
+    "lifespan": "Very long-lived perennial; essentially a fixture once established; individual crowns persist for many years; treat it as a permanent planting",
+    "deciduousEvergreen": "Deciduous — dies back completely in hard frost; emerges reliably in early spring, typically March-April in Zones 5-6, April-May in Zone 3-4, and February-March in Zones 7-9; often one of the earliest productive greens of the year regardless of region",
+    "winterInterest": "None — dies back fully; mark crown position to avoid disturbing it during winter bed cleanup"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; one of the most shade-tolerant productive leaf vegetables available — genuinely useful in part-shade conditions where most vegetables fail; tolerates full shade with reduced yield; performs well in full sun with adequate moisture; afternoon shade in warm-summer climates (Zones 6-9) reduces bolting pressure and keeps leaves tender longer; in cool-summer climates (Zones 3-5) full sun is well-tolerated through most of the season",
+    "water": "Medium; benefits from consistent moisture for best leaf quality; tolerates short dry periods once established; not as drought-tolerant as comfrey or sorrel — keep reasonably moist",
+    "drainagePreference": {
+      "description": "Average; adaptable to a range of soils including heavier clay; more forgiving of wet conditions than most culinary herbs; avoid waterlogged soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay soils well relative to most vegetables; performs adequately in heavy clay with reasonable drainage; raised beds or amended beds will improve yield but are not required; avoid clay soils that hold standing water"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates slightly acid to slightly alkaline soils; adaptable across the range of soils common in the lower 48"
+    },
+    "texturePreference": "Rich, moist loam preferred for best productivity; performs adequately in clay soils with reasonable drainage; the classic association with compost heaps and building shade suggests it thrives in organically enriched, disturbed soil — conditions common across most US garden settings",
+    "rootCharacter": "Fibrous, spreading root system; forms a thickening crown over time; not a deep taproot; divides readily; spreads slowly but reliably outward from established crowns"
+  },
+  "bloom": {
+    "bloomTime": "May-July",
+    "bloomDescription": "Erect flower spikes 18-30\" tall bearing dense clusters of tiny green flowers; the flower buds (before opening) are the edible \"broccoli\" yield — pick them when compact and bright green; flowers are small, inconspicuous, and not ornamentally significant; allow a few plants to set seed for colony establishment, then remove remaining stalks to maintain leaf production",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite (flowers contain both male and female parts)",
+    "pollination": "Wind-pollinated; self-fertile; sets seed readily without intervention"
+  },
+  "yield": {
+    "edibleParts": "Good King Henry is one of the most productive multi-yield perennial vegetables available for the temperate garden, with distinct harvests across the season:\nSPRING SHOOTS (March-May in Zones 5-7; April-June in Zones 3-4; February-April in Zones 8-9 — the \"asparagus\" use): The primary reason this plant earned the name Poor Man's Asparagus. When new growth emerges in early spring, allow shoots to reach 4-6\" tall, then cut them at the base and cook like asparagus — steam or boil briefly (3-4 minutes), dress with butter or olive oil, salt, and a squeeze of lemon. The texture is tender and slightly mucilaginous in a pleasant way; the flavor is mild, green, spinach-like with none of the sharpness of sorrel. This is the most prized yield and arrives weeks before asparagus and most other spring vegetables. Harvest shoots from second-year plants onward; do not harvest heavily from first-year plants while establishing.\nYOUNG LEAVES (April-July in most zones — spinach substitute): After the first flush of shoots, the expanding leaves are used as a cooked spinach substitute — one of the best available in the perennial garden. Pick leaves when young and tender (before midsummer heat toughens them), wilt briefly in a pan with butter and garlic, or steam and dress simply. Flavor is mild and pleasant with no strong acidity; a practical and genuinely delicious spinach replacement that outperforms most annual spinach in the perennial garden context. Leaves become larger and coarser through summer; focus harvest on the youngest growth. In hot-summer climates (Zones 7-9), leaf quality declines faster — afternoon shade is particularly valuable for extending tender leaf production.\nFLOWER BUDS (May-June in most zones): The dense, compact flower bud clusters, harvested before the flowers open, are eaten like sprouting broccoli or cauliflower — steam or stir-fry briefly. A bonus yield that overlaps with the leaf harvest season and extends the productivity of each plant.\nSEEDS (midsummer): Seeds are edible — the plant is related to quinoa and lamb's quarters (Chenopodium album) and belongs to the same goosefoot tribe. In practice, seed harvest is rarely pursued in the garden; the effort-to-yield ratio is low and the plant is better valued for its shoots and leaves. Allow some seed set for colony self-propagation rather than dedicated harvest.",
+    "harvestSeason": "Shoots: early spring (timing varies by zone, typically 4-6 weeks before last frost); Leaves: spring through early summer, with a possible second flush from cut-back plants in fall; Flower buds: late spring to early summer. The combined harvest window stretches from early spring well into summer — an unusually long productive season for a single low-maintenance perennial.",
+    "medicinalUses": "Historically used in European folk medicine as a mild laxative, blood purifier, and general tonic green; high in iron and vitamins; used traditionally for skin complaints applied as a poultice. No significant modern clinical use; value is primarily nutritional and culinary.",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — oxalic acid: Good King Henry contains oxalic acid, as do sorrel, spinach, and chard. The same cautions apply across all these plants: in normal culinary quantities this is not a concern for healthy adults. Individuals with kidney stones (particularly calcium oxalate stones), gout, or rheumatoid arthritis should moderate or avoid consumption, as oxalic acid can exacerbate these conditions. Cooking reduces oxalic acid content considerably. Do not eat in very large quantities raw on a regular basis. Use as a cooked vegetable — which is the traditional preparation — and this caution is essentially academic for typical garden harvests.",
+    "toxicityAnimals": "Oxalic acid content is a concern for dogs and cats in significant quantities; do not feed to pets. Livestock (pigs, poultry) have historically been fed this plant in small quantities, but large amounts may cause issues with monogastric animals. Horses are more sensitive to oxalate-containing plants — exercise caution if livestock have access.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer; groundcover layer"
+    },
+    "roles": [
+      "Food — multi-yield perennial vegetable (primary role; shoots, leaves, and flower buds across an extended spring-summer season)",
+      "Shade Tolerant Producer (fills the productive understory role in food forest and orchard guild situations where sun-loving vegetables cannot grow; this is one of its defining permaculture values)",
+      "Early-Season Producer (spring shoots emerge among the earliest perennials — filling a genuine gap in the harvest calendar before most vegetables are available, regardless of climate zone)",
+      "Ground Cover (dense crown and spreading habit suppresses weeds in its footprint)",
+      "Dynamic Accumulator (deep roots mine nutrients; traditional association with compost areas suggests good nutrient cycling behavior; leaves are nutritious and make a useful compost addition)",
+      "Colony Former (slowly self-seeds to fill available space; useful for colonizing the base of food forest trees and shaded building edges where little else grows productively)"
+    ],
+    "companionPlants": [
+      "Comfrey (classic dynamic accumulator guild companion; both thrive in part shade and organically rich soil; comfrey's deep roots and Good King Henry's fibrous roots complement each other without competition)",
+      "sorrel (early-season harvest companions with overlapping emergence; both fill the spring productivity gap)",
+      "lovage (tall structural herb companion in the kitchen herb guild)",
+      "fruit tree guilds as understory groundcover (thrives under apples, pears, and paw paws where shade excludes most vegetables)",
+      "chives and perennial alliums (early-season companions with similar cultural needs)",
+      "Egyptian walking onions (guild companion in shaded or semi-shaded allotment-style beds)",
+      "strawberries (low companion that shares space without conflict)",
+      "near compost heaps and nitrogen-rich areas (the traditional cottage garden placement — performs especially well in organically enriched spots)"
+    ],
+    "antagonists": [
+      "None documented for typical garden companions"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Small insects and flies visit the inconspicuous flowers; minor direct wildlife value from blooms; the seed heads provide modest food value for small birds and sparrows in late summer; the spreading colony provides low ground cover shelter",
+    "hostPlantFor": "The goosefoot family (Amaranthaceae/Chenopodiaceae) hosts several moth species whose larvae feed on chenopod foliage, including some noctuid moths; not a primary or well-documented host for charismatic Lepidoptera, but supports the general invertebrate community",
+    "nestingHabitat": "Dense basal foliage and colony habit provide low ground cover shelter for small insects and ground-nesting invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse Good King Henry, but the plant recovers well and the colony-forming habit provides resilience; the persistent root system and self-seeding mean a browsed plant is rarely a lost plant. This is a meaningful management advantage across deer-pressure regions of the US: where deer pressure prevents maintaining individual specimen plants, a Good King Henry colony can sustain browsing losses and fill back in from surrounding plants. Less deer-resistant than sorrel; more resilient to browsing than most annual vegetables."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — prefers consistent moisture; short dry periods tolerated once established; leaf quality and tenderness decline under drought stress; not as drought-hardy as sorrel or comfrey; in hot, dry-summer climates (parts of Zones 7-9, the Southwest) irrigation and afternoon shade are important for season extension"
+    },
+    "other": "Excellent cold hardiness (Zone 3); tolerates clay soils; tolerates part shade and even moderately deep shade with some reduction in productivity; long-lived and very persistent once established; very tolerant of organically rich, nitrogen-heavy soils (traditionally grown near outhouses, middens, and compost heaps — this is a feature, not a flaw)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the most carefree perennial vegetables available; essentially zero ongoing maintenance once established beyond periodic harvest management; a true set-it-and-forget-it perennial for the food garden",
+    "pruningNotes": "Remove flower stalks after harvesting the buds if you want to maximize leaf production; allow one or two stalks to set seed annually for colony establishment and self-propagation. Cut the entire plant to the ground in midsummer (July-August) when leaves become large and coarse — this is optional but recommended for extending the harvest season with a fresh flush of growth. Divide overcrowded clumps in early spring every 4-6 years if productivity appears to decline; this is rarely necessary — the plant manages itself well.",
+    "propagationMethods": [
+      "Seed (direct sow in early spring or fall; surface-sow or barely cover; germinates readily; easy from seed — the most common acquisition method since plants are rarely sold at garden centers)",
+      "division of crowns in early spring (reliable and immediate)",
+      "self-seeding (the plant will slowly colonize a suitable area on its own — allow this, as a colony is more productive and resilient than a single plant)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars of Good King Henry exist in commerce — the straight species is always grown, and cultivar selection is irrelevant across all regions of the lower 48. Seed from any reputable source will produce the same reliable, productive plant regardless of where in Zones 3-9 you garden. The taxonomic reclassification from Chenopodium to Blitum (2012) has created some catalog confusion — seed sold under either name is the same plant. When sourcing, look for Horizon Herbs, Richters Herbs (Canada), Baker Creek Heirloom Seeds, or Experimental Farm Network — all carry it periodically; none of these sources are region-specific and all ship across the lower 48. It is rarely found at conventional garden centers in any US region; seed sourcing is almost always necessary. The species performs reliably across its entire hardiness range (Zones 3-9) without any selection pressure for regional adaptation — a plant grown from English seed performs identically to one grown from Vermont-harvested seed.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory",
+      "kitchen herb guild",
+      "shaded building edges",
+      "orchard guild understory",
+      "productive ground cover for part-shade situations",
+      "allotment-style perennial vegetable bed",
+      "compost area companion"
+    ],
+    "designPlacement": "Good King Henry is the ideal candidate for any part-shade location where productive ground cover is wanted but sun-loving vegetables are not viable. The most compelling general placement is as an understory producer beneath fruit trees, nut trees, or any maturing food forest canopy — it genuinely thrives in the dappled shade these trees eventually cast, filling a productive role that almost no other food plant can fill as reliably. It belongs in the kitchen herb or perennial vegetable zone where low maintenance and multi-season harvest are priorities. In ornamental or mixed borders it lacks visual interest and is better kept in productive zones. A colony near the compost area is particularly traditional and appropriate across any garden setting.",
+    "acquisitionStatus": "To source — seed only; not available at conventional garden centers\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blitum_bonus-henricus",
+    "inaturalist": "https://www.inaturalist.org/taxa/507134-Blitum-bonus-henricus",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced from Europe; naturalized in scattered locations but not considered a weed pressure in the garden",
+      "paInvasiveStatus": "Not listed — not on the Pennsylvania Invasive Species Council (PISC) list or the PA Department of Agriculture noxious weed list",
+      "drainage": "Red clay at Hegins is workable; raised beds will give better shoot and leaf production in year 1 and support faster establishment; direct in-ground planting in amended clay is viable but expect slower first-year growth",
+      "soil": "Hegins red clay is workable with organic amendment; raised beds preferred for faster establishment and best shoot production; compost-enriched planting pockets in the existing clay are a practical and effective approach",
+      "cultivarNotes": "No special sourcing considerations apply; any of the above seed sources are appropriate. Direct sow outdoors in early spring (March-April) or start indoors 4-6 weeks before last frost. Spring shoots will arrive by mid-March to early April in established years.",
+      "designPlacement": "The most compelling placement is as an understory producer beneath the apple pair, paw paw pair, or mulberry guilds — it thrives in the dappled shade these trees will eventually cast. Section B (garage strip, kitchen-adjacent, increasingly shaded by food forest) is an excellent fit: low-maintenance, productive, kitchen-adjacent, and its shade tolerance will become an asset rather than a compromise as the food forest matures. The north-facing Section A is workable for its shade tolerance but its lack of ornamental interest makes it a less compelling choice — keep it in the productive zones. Pair with comfrey, sorrel, and Egyptian walking onions for a fully productive early-season perennial ground layer.",
+      "siteObservations": null
+    }
+  }
+}

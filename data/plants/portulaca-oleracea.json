@@ -1,0 +1,160 @@
+{
+  "id": "portulaca-oleracea",
+  "name": {
+    "commonName": [
+      "Common Purslane",
+      "Pursley",
+      "Little Hogweed"
+    ],
+    "latinName": "Portulaca oleracea",
+    "family": "Portulacaceae"
+  },
+  "range": {
+    "nativeRange": "Uncertain — likely native to North Africa, the Middle East, and South Asia; now cosmopolitan and found on every inhabited continent; one of the most widely distributed plants on Earth",
+    "usNativeStatus": {
+      "native": null,
+      "description": "Debated — some botanists consider Portulaca oleracea native to parts of North America based on archaeological seed evidence predating European contact, while others treat all US populations as introduced and naturalized. Functionally naturalized throughout all 50 states and present in every region of the lower 48: eastern US, Midwest, Great Plains, Southwest, Pacific coast, and Gulf states. Grows as a common volunteer in disturbed ground, agricultural fields, gardens, and sidewalk cracks from Maine to California."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as a noxious weed at the federal level. A few states include it on secondary weed lists due to its prolific self-seeding in agricultural settings, but it is not formally regulated as invasive in any lower-48 state. Extremely prolific and self-sowing — a single plant can produce over 50,000 seeds — and stem fragments reroot on contact with soil, making eradication difficult once established. In conventional agriculture it is treated as a significant weed; in permaculture and edible landscaping it is a welcomed volunteer. Not ecologically invasive in the sense of displacing native plant communities — it colonizes bare disturbed ground that other plants have not yet claimed."
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 (annual; zones reflect its broad climatic tolerance, not cold hardiness — killed by frost everywhere, but germinates and completes its life cycle in any zone with warm summer soil)"
+    }
+  },
+  "description": {
+    "height": "4-8\" (mat-forming; occasionally to 12\" in rich conditions)",
+    "spread": "6-18\" per plant; sprawling, branched stems radiate outward from a central taproot",
+    "spacing": "Not typically planted — allow to self-sow and thin as needed; treat as a volunteer crop",
+    "growthRate": "Very fast; germinates and reaches harvestable size within weeks of emergence; multiple generations possible in a single season",
+    "timeToMaturity": "Harvestable within 4-6 weeks of germination; fully productive before most cultivated greens are established",
+    "lifespan": "Annual (warm-season); killed by frost; perpetuates by prolific self-seeding — a single plant can produce over 50,000 seeds",
+    "deciduousEvergreen": "Annual — dies at first frost; reappears from seed the following summer once soil warms",
+    "winterInterest": "None; completely absent in winter; seeds overwinter in soil and germinate when soil temperatures reach ~70°F"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; thrives in open, hot, exposed positions; tolerates part shade but sprawls weakly and produces less",
+    "water": "Drought tolerant to an exceptional degree — CAM photosynthesis allows it to close stomata during the day and fix CO₂ at night, dramatically reducing water loss; survives extended dry periods that kill most annuals; no supplemental irrigation needed once germinated. In the humid eastern US, natural rainfall is more than sufficient. In arid western states (interior West, Southwest), purslane still thrives without irrigation in most years — it is one of the few edible plants that requires no supplemental water even in dry climates.",
+    "drainagePreference": {
+      "description": "Excellent to average drainage preferred; tolerates dry, well-drained soil best but survives in a wide range of conditions including compacted and nutrient-poor ground. Prolonged waterlogging (standing water for days) can cause stem rot, but brief wet periods after rain are tolerated without issue. The plant's succulent stems store water internally, so it handles dry soil far better than wet soil.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — purslane tolerates heavy clay surprisingly well, particularly if the clay drains seasonally (wet in spring, drying in summer). Its shallow root system avoids the deeper waterlogged zones that cause problems for deeper-rooted plants in clay. Compacted clay is not a barrier — purslane is one of the few edible plants that actively thrives in compacted, poor, disturbed soil. In heavy clay that stays saturated through summer (poorly drained bottomland clay), performance declines and stem rot becomes more likely. No amendment needed for purslane in clay — it performs better in lean unamended soil than in rich amended beds."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly tolerant; grows in acidic clay to alkaline disturbed ground without issue"
+    },
+    "texturePreference": "Thrives in poor, lean, disturbed, and compacted soils — it is actually better adapted to difficult soil than to rich amended garden beds, where it can become excessively lush and rank. Sandy, gravelly, and rocky soils are ideal. Heavy clay is acceptable (see Clay Soil Performance above). Purslane is one of the most soil-indifferent edible plants available.",
+    "rootCharacter": "Single taproot with fibrous laterals; shallow-rooted; roots hold moisture in the succulent stems and leaves; does not compete deeply with established trees or shrubs"
+  },
+  "bloom": {
+    "bloomTime": "June through frost (blooms continuously in heat)",
+    "bloomDescription": "Tiny, 5-petaled yellow flowers, ~1/4\" across, opening only in bright morning sun; produced abundantly along stem joints; not ornamentally significant but prolific seed producers",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Self-fertile; also visited by small native bees and insects; wind assists; easily sets abundant seed without any assistance"
+  },
+  "yield": {
+    "edibleParts": "Stems, leaves, and flower buds — all parts are edible raw or cooked. The flavor is succulent, mildly sour, and faintly lemony from malic and citric acid content; the texture is crisp and slightly mucilaginous (similar to okra), which thickens soups and stews. Use raw in salads where it adds a refreshing, juicy crunch; stir-fry briefly with garlic and oil; add to soups and stews as a thickener and green; pickle in vinegar; blend into smoothies. It is a staple green in Mediterranean, Middle Eastern, and South Asian cuisines — fattoush salad, cacik, and Indian stir-fries all use purslane traditionally. Harvest young stem tips 3-4\" long for the most tender material; older stems become woody but leaves remain edible. One of the most nutritionally dense wild greens available in a temperate garden.",
+    "harvestSeason": "Early summer through frost — harvest continuously as plants grow; cut stem tips and young growth repeatedly; plants branch and regrow vigorously after cutting. Peak quality is in early-to-mid summer before plants begin to flower heavily. Pre-frost harvest of any remaining growth is worthwhile.",
+    "medicinalUses": "Used in traditional Chinese medicine (ma chi xian) for heat-clearing, detoxification, and treating dysentery; applied topically for insect bites and skin inflammation in folk medicine; the high omega-3 content has attracted modern interest for cardiovascular and anti-inflammatory support; used historically as a cooling herb in hot weather",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — oxalic acid: purslane contains oxalic acid (shared with sorrel, spinach, and chard), which can contribute to calcium oxalate kidney stones in susceptible individuals. At normal culinary quantities — a handful of leaves in a salad or a side dish — this is not a concern for healthy adults. Individuals with a history of kidney stones (particularly calcium oxalate stones), gout, or hyperoxaluria should limit or avoid large raw quantities. Cooking reduces oxalic acid content. Do not eat in very large amounts raw; use as one green among others, not as a sole bulk food source.",
+    "toxicityAnimals": "Oxalic acid content poses potential risk to dogs and cats in large quantities; purslane has been cited in some veterinary sources as potentially toxic to pets if consumed in significant amounts — keep grazing pets away from heavy stands",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground layer / self-sowing annual herb layer"
+    },
+    "roles": [
+      "Food (highly nutritious edible green — one of the richest plant sources of omega-3 fatty acids ALA; exceptional vitamin A, C, and E content; antioxidants and minerals)",
+      "Living Mulch (sprawling mat shades soil surface, suppresses competing weeds, and retains soil moisture in hot dry spots)",
+      "Dynamic Accumulator (concentrates minerals from soil into edible biomass; excellent chop-and-drop material)",
+      "Self-Sowing Annual Volunteer (requires no planting effort after first appearance — manage rather than cultivate)",
+      "Gap Filler (colonizes bare disturbed soil in food forest understory, preventing erosion and weed invasion in early successional gaps)"
+    ],
+    "companionPlants": [
+      "Corn (traditional Three Sisters companion — purslane grows as a living mulch beneath)",
+      "tomatoes and peppers (tolerates heat at their base; provides moisture retention)",
+      "fruit tree guilds (fills bare disturbed ground beneath establishing trees)",
+      "comfrey (complements as ground-layer partner)"
+    ],
+    "antagonists": [
+      "None documented; it is generally neutral to companion plants and does not produce allelopathic compounds"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Small native bees, hoverflies, and other beneficial insects visit the small yellow flowers; seeds are eaten by granivorous birds including goldfinches, sparrows, doves, and towhees — purslane seed is a meaningful late-summer food source for seed-eating birds",
+    "hostPlantFor": "Some Lepidoptera larvae use Portulacaceae as hosts; minor value as host plant",
+    "nestingHabitat": "The low mat provides ground-level cover for ground-nesting insects and small invertebrates; moisture retention beneath the mat supports soil ecology"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — deer generally avoid purslane; the succulent texture and mild acidity make it unappealing to deer; one of the most reliably deer-resistant edible plants available, even under heavy browsing pressure in eastern US whitetail territory"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates roadside salt spray and light soil salinity; recovers from incidental winter salt exposure in spring"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Exceptional — CAM photosynthesis makes this one of the most drought-tolerant edible plants available; survives heat and drought that kill most cultivated annuals; no supplemental watering required after establishment in any US climate zone"
+    },
+    "other": "Extreme heat tolerance; thrives in compacted and poor soil; tolerates disturbed and construction-damaged ground; tolerates near-neutral to moderately acidic pH; wind-resistant due to low prostrate habit; one of the most adaptable edible plants to difficult site conditions across all US regions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially zero — purslane manages itself; the only \"maintenance\" is deciding how much to allow and harvesting what you want",
+    "pruningNotes": "No pruning needed. Harvest stem tips regularly to encourage branching and extended production. If you wish to reduce self-seeding, remove plants before they set seed in late summer; this is difficult to do completely, as plants produce seed prolifically. Be aware that stem and leaf fragments left on soil surface can resprout — purslane regenerates from detached stems and leaves; shake soil off uprooted plants before composting or they may root in the compost pile. If managing spread, pull plants after harvest and before seed set.",
+    "propagationMethods": [
+      "Self-seeding (the only method needed — plants will appear wherever conditions are suitable once established on site); stem cuttings root readily if desired for intentional propagation; direct seed can be sown on soil surface in full sun after last frost"
+    ]
+  },
+  "cultivarNotes": "The wild species (Portulaca oleracea) is the most common form and fully edible. Portulaca oleracea subsp. sativa is the cultivated vegetable form — larger leaves, more upright, less prostrate — sold as \"golden purslane\" or \"green purslane\" in seed catalogs; it is slightly more productive as a crop but behaves identically in the garden. Named cultivars worth noting: 'Goldberg' offers upright growth and larger leaves for intentional salad production. 'Gruner Red' has red-tinged stems and is slightly more cold-tolerant at germination. For Zones 3-5, the wild type is the most reliable — it self-sows aggressively enough to reestablish each year even with short summers; cultivated forms may not set enough seed before frost in the shortest-season areas. For Zones 6-7, either the wild type or cultivated subsp. sativa works well; the longer warm season gives cultivated forms time to produce abundantly. For Zones 8-10, the cultivated forms are especially productive — the long hot season allows multiple successive harvests, and 'Goldberg' or similar upright cultivars are worthwhile if growing purslane as a deliberate crop rather than a volunteer.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Welcomed volunteer crop in food forest gaps",
+      "living mulch beneath establishing trees and shrubs",
+      "hot dry disturbed areas",
+      "garden paths and edges; harvest-in-place annual green requiring no cultivation"
+    ],
+    "designPlacement": "Purslane functions as a self-managing ground-layer annual in any permaculture system or edible garden. It colonizes bare, hot, disturbed soil — the exact conditions found in new food forest plantings, recently mulched tree rings where mulch has thinned, pathway edges, and dry south-facing exposures. Allow it to fill gaps between establishing perennials and shrubs where it provides living mulch, soil moisture retention, and harvestable food with zero input. It pairs well beneath fruit trees, alongside tomatoes and peppers, and in any full-sun area where bare soil would otherwise invite less useful weeds. Its prostrate habit means it does not compete for light with taller plants. Manage spread by harvesting before heavy seed set if it becomes excessive. Not a candidate for deliberate ornamental bed placement — its value is as a managed volunteer that fills ecological and culinary niches simultaneously.",
+    "acquisitionStatus": "Likely to appear as a volunteer; if not present, scatter seed on bare warm soil in full sun after last frost"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Portulaca_oleracea",
+    "inaturalist": "https://www.inaturalist.org/taxa/58991-Portulaca-oleracea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=285506"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America in the conventional botanical view; naturalized throughout the state and present in virtually every county; common in gardens, farm fields, roadsides, and disturbed ground across all of PA",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Treated as a common agricultural and garden weed by Penn State Extension but not regulated. No restrictions on cultivation or intentional use.",
+      "drainage": "The red clay at the Hegins site is entirely suitable for purslane without amendment. Summer heat dries the clay surface sufficiently for purslane to thrive. The compacted, construction-disturbed areas that are most difficult for other plants are exactly where purslane excels. No raised beds needed — in-ground bare soil and gaps between other plantings are ideal.",
+      "soil": "The red clay at the Hegins site requires no amendment or preparation for purslane. It will colonize bare clay surfaces, construction-disturbed ground, and gaps in mulch without assistance. The slightly acidic pH typical of PA clay soils (5.5-6.5) is well within its range.",
+      "cultivarNotes": "The wild self-seeding type is ideal — it will appear as a volunteer without sourcing effort. If intentional production is desired, subsp. sativa 'Goldberg' or generic \"green purslane\" seed can be sown on bare warm soil after mid-May when soil temperatures are reliably above 70°F.",
+      "designPlacement": "Purslane will likely appear on its own in any disturbed or bare soil on the Hegins site — it is already cosmopolitan across Pennsylvania. Allow it to colonize bare ground in food forest gaps and beneath establishing trees in the apple, paw paw, and mulberry guilds. The hot, dry microclimate of Section C (south-facing, back porch) is ideal purslane habitat — let it fill gaps between fragrance plantings. Any south-facing open soil on the property will support it. Harvest stem tips throughout summer as a free nutritious green. Its exceptional deer resistance is an asset across all areas of the property, including the east side where deer pressure from the wildlife corridor is heaviest.",
+      "siteObservations": "The compacted, construction-disturbed red clay around the foundation and driveway edges is exactly the kind of difficult ground where purslane thrives and few other edibles will volunteer. Deer pressure from the east wildlife corridor is not a concern for this plant — deer consistently avoid it. Salt from the road on the north border is irrelevant given the ~50 ft distance from road to front beds, but purslane's moderate salt tolerance would handle incidental exposure regardless."
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "vicia-faba",
+  "name": {
+    "commonName": [
+      "Fava Bean",
+      "Broad Bean",
+      "Windsor Bean",
+      "Field Bean",
+      "Horse Bean"
+    ],
+    "latinName": "Vicia faba",
+    "family": "Fabaceae (Leguminosae)"
+  },
+  "range": {
+    "nativeRange": "Believed native to North Africa, the Middle East, and southwest to south Asia (Iran, Afghanistan, and the Indian subcontinent); precise wild origin is uncertain as the species has been cultivated for at least 8,000-10,000 years and is not known with certainty in a truly wild state; among the oldest domesticated crops in human history",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to any US state; introduced and cultivated throughout the lower 48 as a cool-season annual vegetable and cover crop; does not naturalize or persist without cultivation in any US region"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not invasive anywhere in the lower 48 US states; does not naturalize, self-sow aggressively, or escape cultivation; annual lifecycle and dependence on human cultivation prevent any invasive potential; not listed on any state noxious weed lists or the Federal Noxious Weed List"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "Annual in most of North America; cultivated as a cool-season annual in Zones 3-9; can overwinter with protection in Zones 6-9; in the UK and Mediterranean regions treated as a hardy annual planted in fall for overwintering; hardy to approximately 14-17°F (-8 to -10°C) for cold-hardy varieties, with potential survival to 10°F (-12°C) in a favorable microclimate with mulch protection"
+    }
+  },
+  "description": {
+    "height": "2-5' tall depending on variety; dwarf varieties (Aquadulce types) tend toward 2-3'; tall Windsor-type varieties reach 4-5'; plants are upright and stiffly erect, self-supporting in most conditions",
+    "spread": "12-18\" per plant; plants are narrow and columnar, not sprawling",
+    "spacing": "6-9\" in rows, with rows 18-24\" apart; or 9-12\" each way in blocks; block planting creates a mutually supporting mass that reduces need for staking",
+    "growthRate": "Moderate to fast for a cool-season crop; spring-sown plants reach maturity in 80-100 days from sowing; overwintered plants establish quickly in spring and may mature 2-4 weeks earlier than spring sowings, depending on conditions",
+    "timeToMaturity": "80-100 days from spring direct sow to first pod harvest; overwintered fall-planted crops can produce pods as early as late May-June in Zone 6-7; shoot tips are harvestable within 6-8 weeks of sowing",
+    "lifespan": "Annual (cool-season); plants are killed by summer heat once temperatures consistently exceed 75-80°F; in Zone 6a this means the crop terminates in late June to mid-July regardless of planting date; in warmer zones the window closes earlier; overwintering plants begin their decline as summer arrives; there is no extending the season into summer",
+    "deciduousEvergreen": "Annual — dies back completely in summer heat; no winter structure from spring-sown plants",
+    "winterInterest": "Overwintered fall-planted crops are evergreen through the winter, holding green foliage above the mulch in mild periods; in hard winters the foliage may die back but crowns and roots often survive to re-flush in early spring; an actively growing plant in January-March is a genuine garden pleasure"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred — 6+ hours; tolerates partial shade (4-5 hours) with reduced yield; fava beans are more shade-tolerant than most other legume crops, but flowering and pod set are best in full sun; the cool-season growth window means summer shade from deciduous trees is not the issue it would be for warm-season crops",
+    "water": "Moderate; consistent moisture from sowing through pod fill is important; drought during flowering causes pod drop; fava beans prefer even moisture but are not waterlogged-tolerant; established plants are reasonably drought-tolerant in cool weather but will fail rapidly if stressed by both heat and drought simultaneously",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates heavier soils far better than most legumes; standing water after heavy rain should drain within 24-48 hours; their tolerance of clay is exceptional but not unlimited — saturated soil in winter can cause root rots, especially in poorly drained bottomland",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — fava beans are among the most clay-tolerant of all legume crops and this is one of their most practically important attributes for heavy-soil gardeners. Their deep taproot penetrates compacted clay that defeats bush beans and peas. In heavy clay, ensure drainage is adequate (no standing water beyond 48 hours) and avoid compacting soil around the root zone. Clay's moisture retention actually benefits favas during dry spells in the cool season. No amendment is strictly necessary for clay soils with reasonable drainage, though compost incorporation improves tilth and root penetration in the worst hardpan."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; slightly acid to neutral preferred; tolerates mildly alkaline conditions; does well in unamended native soil where drainage is adequate"
+    },
+    "texturePreference": "Among the most clay-tolerant of all legume crops — the deep taproot penetrates heavy and compacted soils that defeat most other legumes. Well-suited for in-ground growing directly in heavy clay without raised beds. Loam and loam-clay mixes are ideal; sandy soils dry too quickly and reduce yields. Raised beds are always an option but not a requirement as they are for most legumes in heavy soil.",
+    "rootCharacter": "Deep, branching taproot that penetrates heavy and compacted soils; root nodules (Rhizobium leguminosarum biovar viciae) fix atmospheric nitrogen at rates exceptional even among legumes — higher per plant than most other commonly grown legume crops; the root system is an asset to soil structure; leave roots in the ground after harvest rather than pulling; the decomposing root nodules release fixed nitrogen available to subsequent crops"
+  },
+  "bloom": {
+    "bloomTime": "May-June (spring-sown crop); April-May (overwintered crop); bloom coincides with the warmest part of the cool-season window and precedes the summer heat that ends the crop",
+    "bloomDescription": "Distinctive and beautiful; flowers are white with a bold black blotch on each wing petal — unmistakable among legume flowers; held in clusters of 1-6 along the leaf axils; individual flowers are roughly 1\" across; the black-and-white pattern has no close visual parallel in the vegetable garden; the effect of a row of fava beans in full bloom — stiff, upright plants covered in black-and-white flowers — is genuinely ornamental and tends to surprise gardeners who've never grown them",
+    "fragrance": "Sweetly fragrant, honey-like; the flowers carry a distinct and pleasant scent that is noticeable on still mornings; not overpowering but real; one of the more fragrant vegetable flowers in the temperate garden",
+    "flowerSex": "Hermaphrodite; each flower contains both male and female parts",
+    "pollination": "Primarily self-fertile, but yields improve significantly with pollinator visitation; bumblebees are the primary effective pollinators — their body size and buzz-pollination behavior is well-matched to the flower structure; honeybees and other native bees also visit; planting near pollinator habitat improves pod set; in a garden context with reasonable bee activity, pollination is not a concern"
+  },
+  "yield": {
+    "edibleParts": "(1) BEANS — the primary harvest; the large seeds inside the pods are the classic edible part; young beans (pods under 3\") can be cooked whole like snap beans; more mature beans are shelled from the outer pod; young shelled beans (bright green, tender) can be eaten as-is after brief cooking; mature beans (starchy, with a tough grey-green skin) require double-shelling — first remove from the outer pod, then blanch and slip off the individual seed skin to reveal the vivid green inner bean; double-shelled mature favas are among the finest vegetables the cool-season garden produces; (2) SHOOTS AND GROWING TIPS — the top 2-4\" of actively growing shoots are edible raw or lightly cooked; flavor is mild, pea-like, tender; harvesting the tips regularly is both a culinary benefit and a critical aphid management strategy (see Maintenance); tip shoots are excellent in salads, stir-fries, or lightly sautéed in butter; (3) YOUNG PODS — when very young (1-2\"), the entire pod can be cooked and eaten whole; window is brief; (4) FLOWERS — edible; mild flavor; garnish use",
+    "harvestSeason": "Shoot tips: harvest continuously from the time plants are 8-10\" tall through bloom; pods: timing depends on zone and planting strategy — spring-sown crops in Zone 6-7 harvest June-July; overwintered fall-sown crops harvest May-June; in warmer zones (8-9) the harvest window shifts earlier; the harvest window is typically 3-5 weeks; the crop declines rapidly once summer heat arrives; harvest promptly — pods left to mature on the plant reduce total yield; pick regularly every 3-5 days at peak",
+    "medicinalUses": "Long history of use in traditional medicine; the plant contains L-dopa (levodopa), a precursor to dopamine — of interest in Parkinson's disease research; traditional use as a diuretic and digestive tonic; the L-dopa content is highest in the seeds and sprouts; this is not a primary medicinal plant for home use, but the pharmacological activity is real and meaningful (see Cautions — the same compounds that create medicinal interest are related to the favism risk)",
+    "craftOtherYield": "Exceptional nitrogen-fixing cover crop; leaving roots in the ground after harvest is the best single management act to improve soil; the dried straw can be composted; plants can be cut and turned into the soil as green manure before full maturity if the cover crop function is primary"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "IMPORTANT — FAVISM: Fava beans contain the glycosides vicine and convicine, which in individuals with G6PD deficiency (glucose-6-phosphate dehydrogenase deficiency) can trigger acute hemolytic anemia — a serious and potentially life-threatening condition called favism. G6PD deficiency is a hereditary enzyme disorder that is most prevalent in populations with ancestry from the Mediterranean basin, Middle East, sub-Saharan Africa, and parts of South and Southeast Asia; it affects an estimated 400 million people worldwide. In affected individuals, consumption of fava beans — or in some cases even exposure to fava pollen — can cause rapid red blood cell destruction, resulting in fatigue, jaundice, dark urine, and in severe cases, hospitalization. This is not an allergic reaction and cannot be predicted by previous exposure without symptoms — individuals with G6PD deficiency may tolerate favas without symptoms for years and then have a severe reaction. For most people of Northern European descent, G6PD deficiency is rare and favism is not a concern. However, if you are cooking for others, serving favas at gatherings, or gifting the harvest, it is worth noting the risk for anyone of relevant ancestry. Do not dismiss this as trivial — it is a real, well-documented medical condition. Some modern cultivars (low vicine-convicine types) have been bred to reduce this risk; when they become widely available to home gardeners they will be safer for affected individuals. For now, standard advice is: if you or anyone you are fed has G6PD deficiency or Mediterranean/Middle Eastern/African ancestry and is unaware of their status, check before serving.",
+    "toxicityAnimals": "Fava beans are potentially harmful to dogs and cats — the same compounds responsible for favism in humans can cause oxidative damage to red blood cells in animals; keep pets away from the harvest; the foliage is not a significant concern in normal garden access, but prevent dogs from consuming pods or beans",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual)"
+    },
+    "roles": [
+      "Annual Nitrogen Fixer (primary and exceptional — fava beans fix more atmospheric nitrogen than most other commonly grown legume crops; a serious contribution to soil fertility)",
+      "Food Crop (cool-season vegetable of the highest quality)",
+      "Cover Crop (cool-season nitrogen-building green manure; highly productive in this role)",
+      "Insectary Plant (flowers attract bumblebees and beneficial insects)",
+      "Soil Builder (deep taproot breaks up compacted clay subsoil; root nodule decomposition feeds soil biology)",
+      "Successional Crop (occupies beds in cool season before warm-season crops, or follows warm-season crops in fall — ideal for continuous bed productivity)"
+    ],
+    "companionPlants": [
+      "Brassicas (excellent predecessor — fava beans in late winter/early spring followed by brassicas capitalizes on the fixed nitrogen left in the soil); summer squash and cucumbers (follow favas after harvest — benefit from residual nitrogen); potatoes (traditional companion — mutual benefit, though keep spacing generous); Calendula (good garden companion, insectary value, similar cool-season preference); dill (excellent nearby insectary plant that attracts beneficial insects that also manage fava aphids)"
+    ],
+    "antagonists": [
+      "Onions and garlic (alliums in the Allium family are generally considered inhibitory to legume nitrogen fixation when planted in direct proximity — avoid planting fava beans in the same bed as garlic or onions); fennel (allelopathic to most vegetables, including legumes — keep away)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (primary pollinators — fava bean flowers are structured to reward large bees; a patch in bloom is a significant bumblebee resource in May-June when bumblebee queens are building their colonies); honeybees; beneficial insects generally through bloom period; black bean aphid colonies in late spring attract ladybirds, lacewings, parasitic wasps, and hoverflies — the aphid colony, managed correctly, becomes an insectary resource that seeds beneficial insect populations into the garden",
+    "hostPlantFor": "Black bean aphid (Aphis fabae) — this is the primary insect pest, not a native host relationship; see Maintenance for management; the aphid colonies support populations of beneficial predatory insects that carry over to benefit the rest of the garden",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — young fava shoots and plants are palatable to deer; established plants with some height are less targeted than tender seedlings, but deer will browse them; favas are cool-season and planted early (March-April in Zone 6-7), before deer pressure typically intensifies in late spring, which provides some practical protection; once plants reach 18-24\" they are less vulnerable but still not immune; row cover or temporary fencing during the first 4-6 weeks after emergence is advisable in areas with active deer pressure; the spring planting timing is the best natural defense, as deer tend to move to other forage as spring vegetation proliferates"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor during flowering and pod fill — drought stress during these stages causes flower and pod drop and significantly reduces yield; drought tolerance is better during vegetative growth in cool weather; in heavy clay soils, moisture retention helps buffer dry spells; in sandy soils, supplemental irrigation during pod fill is critical"
+    },
+    "other": "Heat intolerance is the defining limitation — fava beans stop producing and decline when daytime temperatures consistently exceed 75-80°F; all planting strategies must complete the productive cycle before sustained summer heat arrives; this is not a plant that can be salvaged by irrigation in summer; plan the crop window accordingly and do not attempt to extend it"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the crop is undemanding once established, but two active management practices (tip pinching for aphid control and timely harvest) significantly improve outcomes",
+    "pruningNotes": "TIP PINCHING IS ESSENTIAL. As soon as black bean aphid colonies begin to appear — typically in May, starting at the growing tips — pinch out the top 3-4\" of each plant. This is not merely reactive pest control; it is standard fava bean culture. The growing tips are the aphids' preferred colonization site and removing them disrupts establishment; it also forces the plant to redirect energy into pod development rather than vegetative extension. Critically: the pinched tips are delicious. Do not discard them. Fava shoot tips are a prized edible, comparable in flavor to pea shoots — mild, sweet, slightly nutty — and excellent raw in salads or lightly sautéed. Begin tip harvesting before aphids appear (when plants reach 18-24\") and continue through the season; regular tip removal delays aphid pressure and is also good cultural practice for pod development. In a well-managed bed, the combination of tip harvesting and beneficial insect activity keeps aphid pressure manageable without any spraying. If severe aphid infestations occur despite tip pinching, a strong spray of water to dislodge colonies, or an application of insecticidal soap, is effective; avoid broad-spectrum insecticides that kill bumblebee pollinators. Staking: tall varieties (Windsor types at 4-5') may need support in windy locations; driving stakes at the ends of rows and running twine along both sides of the row is sufficient. Watering during dry spells during pod fill is the other active management task.",
+    "propagationMethods": [
+      "Seed only; direct sow — large seeds that germinate reliably; does not need starting indoors and resents transplanting once roots are established; sow 1-2\" deep",
+      "6-9\" apart; seeds can be soaked overnight to speed germination but this is not required; seed viability is good for 2-3 years if stored cool and dry"
+    ]
+  },
+  "cultivarNotes": "Fava bean varieties divide into two functional groups with meaningfully different characteristics depending on climate zone and planting strategy.\nLARGE-SEEDED WINDSOR TYPES are the classic market and garden favas — the varieties most people picture when they think of fava beans. Seeds are large, flat, and meaty; excellent for double-shelling and fresh eating at any stage. They produce the classic \"broad bean\" of British and Mediterranean cuisine. **'Windsor'** is the heirloom standard, widely grown for centuries; reliably productive in spring plantings across Zones 3-9; good flavor; available from most seed companies. **'Broad Windsor'** is the most common strain sold in the US and is essentially interchangeable with 'Windsor.' These are spring-sown varieties primarily, and perform well in any zone where the cool-season window is long enough (60-90 days of temperatures below 75°F).\nCOLD-HARDY VARIETIES FOR OVERWINTERING — this is the category that makes fall planting viable in Zones 6-9, and it is where the most exciting possibilities lie for extending the fava bean season. **'Aquadulce Claudia'** is the benchmark overwintering variety — bred specifically for fall sowing and winter survival in northern Europe; among the coldest-hardy favas available; survives temperatures down to approximately 12-15°F when mulched; produces pods 2-4 weeks earlier than any spring-sown crop; considered the standard for autumn planting throughout the UK and cool maritime climates. **'Aquadulce'** (the parent strain) is similarly cold-hardy and more widely available in the US. **'Super Aquadulce'** is a further-improved strain with excellent cold tolerance. **'Robin Hood'** is a dwarf variety (18-24\") that overwinters well and is useful in beds with height constraints or exposure to wind. In Zones 8-9 (Pacific NW, Gulf Coast), overwintering favas are straightforward and require minimal protection. In Zones 6-7, success depends on mulching (4-6\" of straw) and variety selection — the Aquadulce types are essential. In Zones 3-5, overwintering is unreliable and spring sowing is the safer strategy.\nNOTE ON FAVISM-REDUCED VARIETIES: Research programs in Europe (especially Canada and Australia) have produced low vicine-convicine (low-VC) fava bean lines that are safer for individuals with G6PD deficiency. These are not yet widely available to home gardeners in the US market, but they are worth seeking out if favism is a concern for anyone in your household. The trait is recessive and well-characterized; as these lines enter the home garden market, they will be worth adopting.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Cool-season annual vegetable crop; nitrogen-building cover crop; dual-season planting strategy (spring AND fall) to maximize bed productivity; insectary planting; in-ground trial crop for heavy clay soils"
+    ],
+    "designPlacement": "Place at the back or north end of any bed — plants reach 4-5' and will shade shorter crops if placed in front. In raised vegetable beds, favas are an excellent \"pre-crop\" for the spring-to-summer transition: direct sow in early spring, harvest before summer heat, then transition beds to warm-season crops (tomatoes, squash, cucumbers) that benefit from the residual fixed nitrogen. For in-ground heavy clay areas, fava beans are one of the very few legume crops that can be planted directly without amendment or raised beds — an excellent way to begin improving unworked ground incrementally. The fall overwintering strategy is particularly compelling for in-ground locations: sow in mid-fall, mulch with straw before hard frost, and the plants work on soil improvement all winter while delivering the earliest spring vegetable harvest. Not an ornamental border plant — belongs in productive vegetable beds, cover crop rotations, or soil-building trial areas.",
+    "acquisitionStatus": "To source — seed is widely available and inexpensive; Johnny's Selected Seeds, Baker Creek, High Mowing, and Fedco all carry multiple varieties; for the overwintering strategy, specifically source 'Aquadulce Claudia' or 'Aquadulce'; for spring planting, 'Broad Windsor' is the most readily available"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicia_faba",
+    "inaturalist": "https://www.inaturalist.org/taxa/57309-Vicia-faba",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of North America",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — no invasive concern",
+      "drainage": "The Hegins red clay is well-suited to fava beans — one of the few legume crops that can be grown in-ground in the native clay without raised beds or heavy amendment. The clay's moisture retention is an advantage during spring dry spells. Raised beds will produce excellent results but are not required. For in-ground planting, a single pass of compost incorporation in the top 6-8\" improves root establishment but favas will grow in unamended clay if drainage is functional.",
+      "soil": "The Hegins red clay is a legitimate growing medium for fava beans without raised beds — one of the few legumes for which this is true on this site. In-ground trials in the native clay are worth attempting; the clay's moisture retention is actually beneficial during the cool-season growing window. Raised vegetable beds will produce the best results, but in-ground plantings are viable for soil improvement and food production simultaneously.",
+      "cultivarNotes": "For spring planting, 'Broad Windsor' is the most readily available and reliably productive. For the fall overwintering strategy, start with 'Aquadulce Claudia' or 'Aquadulce' — these are the proven performers for Zone 6a winter survival with mulch protection. 'Robin Hood' is a useful dwarf alternative for exposed or windy beds.",
+      "designPlacement": "Raised vegetable beds for spring sowing (direct-sow late March to early April, harvest by late June, then transition to warm-season crops). In-ground trial in the native clay — even a 4x8' block in a sunny location would demonstrate clay tolerance and build soil biology in ground not yet bed-developed. The fall overwintering strategy is compelling for the in-ground location: sow mid-October, mulch with straw in November. Not a candidate for Sections A, B, or C (ornamental/herb/food forest sections with established placements); the vegetable beds and any in-ground expansion areas are the correct site.",
+      "siteObservations": "The two-season planting strategy is the most important concept to internalize for this site. SPRING PLANTING: direct sow as early as late March (soil workable, even if frost still likely — favas tolerate light frost and seedlings shrug off 25-28°F once established); harvest June-July; plants die with summer heat regardless of care. FALL OVERWINTERING: sow mid-October, 4-6 weeks before hard frost; plants establish, overwinter as small rosettes under heavy mulch (4-6\" of straw), and surge in early spring to produce the first substantial vegetable harvest of the year — pods ready in late May, 2-4 weeks before spring-sown plants. Zone 6a winters are generally survivable for cold-hardy varieties; a -10°F January event (rare but possible) may winter-kill even mulched plants, but most winters the plants come through. The fall-planted overwintered crop is a genuine seasonal opportunity that few Zone 6a gardeners exploit. Deer protection: row cover from emergence through 12-18\" height is advisable given east corridor pressure; favas planted in the in-ground beds away from the house edge may be more exposed than raised beds near the structure. In-ground clay performance: the Hegins red clay retains moisture well, which actually benefits favas during spring dry spells — consistent moisture in raised beds is easily managed, but the in-ground clay provides it naturally."
+    }
+  }
+}

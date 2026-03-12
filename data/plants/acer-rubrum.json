@@ -1,0 +1,161 @@
+{
+  "id": "acer-rubrum",
+  "name": {
+    "commonName": [
+      "Red Maple"
+    ],
+    "latinName": "Acer rubrum",
+    "family": "Sapindaceae (formerly Aceraceae)"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — from Newfoundland and Nova Scotia west to Manitoba and Minnesota, south to Florida and eastern Texas; one of the most abundant and geographically widespread native trees in North America; the U.S. Forest Service recognizes it as the most common native tree in eastern North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern United States — present in all states east of the Great Plains from Maine to Florida and west to Minnesota, Iowa, Missouri, Arkansas, and eastern Texas; also native along the Gulf Coast into eastern Oklahoma; one of the few trees with a continuous native range across nearly the entire eastern half of the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US states; a native species throughout its range; no invasive designations at the federal or state level; no documented naturalization outside native range"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 — exceptional hardiness range; among the most cold-tolerant large deciduous trees native to the eastern US; zero risk of cold injury in Zone 6a Pennsylvania"
+    }
+  },
+  "description": {
+    "height": "40-60' at maturity in typical cultivation; can reach 70-90' in ideal bottomland conditions in the wild; a true large canopy tree",
+    "spread": "30-50' at maturity; rounded to oval crown; somewhat variable depending on site conditions and moisture",
+    "spacing": "30-40' from structures and other large trees; site with full mature canopy in mind from day one; too often planted too close to buildings and later regretted",
+    "growthRate": "Fast to very fast — among the fastest-growing native canopy trees; typically 1.5-3' per year under good conditions; can reach 30-40' in 15-20 years; significantly faster than sugar maple (A. saccharum) and comparable to silver maple (A. saccharinum); this growth rate is one of its defining practical virtues",
+    "timeToMaturity": "Canopy presence meaningful by year 8-12; full ecological function within 20 years; blooms (and thus provides early spring pollen) from year 3-5 onward as a young tree",
+    "lifespan": "Moderate to long — typically 80-100 years; shorter-lived than sugar maple or oaks; not a multi-century tree, but long enough to be a generational planting",
+    "deciduousEvergreen": "Deciduous — and arguably the finest four-season deciduous tree native to the eastern US: brilliant red flowers in late winter before leaf emergence; red samaras in May; attractive medium-green summer foliage with silver-gray undersides; spectacular red to orange-red fall color; red twigs in winter; the common name is no accident — red is present in every season",
+    "winterInterest": "High — red twigs provide subtle winter color; the red flower buds are visible in late January–February swelling before the flowers open; on female trees, the red flowers are among the most welcome sights of the late-winter landscape; the bark of mature trees is gray and furrowed, developing good textural character with age"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; adaptable across a wider light range than most large canopy trees; performs best in full sun but is genuinely tolerant of partial shade, especially when young; this shade tolerance contributes to its success across diverse habitats",
+    "water": "Adaptable across a very wide moisture range — from consistently wet soils to moderately dry upland sites; thrives in periodically flooded bottomlands; also performs well in average garden soil with normal rainfall; one of the few large canopy trees genuinely suitable for wet, poorly drained sites; once established on an average site, tolerates summer drought reasonably well, though established trees on dry sites may show some stress in extended droughts",
+    "drainagePreference": {
+      "description": "Highly adaptable — one of its defining characteristics is tolerance of both wet and moderately dry conditions; thrives in clay, tolerates periodic standing water better than virtually any other large canopy tree; a reliable performer on difficult sites where more demanding species fail",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — red maple is one of the best large canopy trees for heavy clay soils; the fibrous, wide-spreading root system adapts well to compacted and poorly aerated soils; the species evolved in bottomland and floodplain habitats where clay and silt soils are the norm; it does not require good drainage to thrive, and periodic waterlogging that would stress or kill most trees is well within its tolerance range; clay soils that retain moisture through summer dry periods actually benefit this species compared to fast-draining sandy soils"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7,
+      "description": "4.5-7.0; distinctly prefers slightly acidic to acidic soils; performs best in the 5.5-6.5 range typical of Pennsylvania woodlands; tolerates mildly alkaline conditions less well than sugar maple, though it adapts adequately to neutral pH; the red clay soils of Hegins (naturally slightly acidic) are a good match"
+    },
+    "texturePreference": "Very broad — clay, loam, sandy loam, and even compacted or disturbed urban soils are all within tolerance; succeeds in conditions that would stress or kill less adaptable trees",
+    "rootCharacter": "Moderately shallow and wide-spreading fibrous root system; not a deep taproot species; this makes transplanting relatively easy compared to taproot species (persimmon, hickory) and means surface roots can become visible in the lawn around mature trees; the wide lateral root system makes it effective at holding streambanks and moist slopes; roots can be aggressive on wet sites — maintain distance from foundations and septic fields"
+  },
+  "bloom": {
+    "bloomTime": "Late February to March in Zone 6a — before leaves emerge and often before any other native tree flowers; specific timing varies by microclimate and year; in a warm late-winter spell, flowers can open in late February; in a cold spring, extending into mid-March; consistently among the very first native trees to bloom in eastern Pennsylvania; this timing is the most ecologically significant fact about this species",
+    "bloomDescription": "Small, dense clusters of bright red to orange-red flowers emerging directly from the bare winter twigs before any leaves appear; the flowers are small individually but produced in such profusion along every branch that a flowering red maple is a striking sight — the entire crown turns red-orange from a distance; male flowers have long, prominent red stamens; female flowers have small red pistils; the combination of bare branches and vivid red flowers against a late-winter sky is one of the most beautiful and welcome sights in the eastern landscape",
+    "fragrance": "None",
+    "flowerSex": "Polygamo-dioecious — trees are typically functionally male or functionally female, though some trees produce a mixture; some individual trees produce both male and female flowers; this is variable and not always consistent year to year",
+    "pollination": "Wind-pollinated primarily; also visited by native bees, especially native mining bees (Andrena spp.) and other early-emerging native bees that are critically dependent on early pollen sources; the ecological value of the bloom timing — February/March, before virtually any other pollen is available — cannot be overstated; native bees emerging from overwintering in late winter have almost no other pollen source of comparable abundance; a single mature red maple is a massive early-season resource"
+  },
+  "yield": {
+    "edibleParts": "Sap (maple syrup) — technically tappable; see notes below; inner bark (historical, emergency food); seeds (samaras) edible raw or roasted when young and green, though rarely used",
+    "harvestSeason": "Sap: late January to early March in Zone 6a — the red maple sap run begins earlier than sugar maple, triggered by the same freeze-thaw cycles but starting sooner as the tree's bloom phenology is earlier; samaras ripen in May and are among the earliest tree seeds to mature in the season",
+    "medicinalUses": "Bark was used by various Native American peoples as an astringent wash for sore eyes and as a treatment for coughs; not a primary contemporary herbal medicine plant",
+    "craftOtherYield": "Timber — red maple wood is moderately hard, fine-grained, and workable; used for furniture, flooring, cabinetry, and musical instruments (guitar bodies, drum shells); \"soft maple\" in the lumber trade (as opposed to \"hard maple\" from A. saccharum), though harder and more commercially valuable than the name implies; the brilliant fall foliage is a major ornamental contribution; sap collected for syrup\nSap and Syrup Note: Red maple sap can be tapped for syrup, and the practice is legitimate — many small-scale sugar makers in Pennsylvania tap red maple alongside sugar maple, especially at the start of the season when red maple runs earlier. However, the sugar content of red maple sap (roughly 1-2% sugar) is approximately half that of sugar maple sap (typically 2-3%); this means roughly twice as much sap must be boiled to produce the same volume of syrup — about 80-100 gallons of sap per gallon of syrup vs. 40-50 for sugar maple. The flavor profile is also slightly different and considered by most to be inferior to sugar maple syrup, with a slightly less complex character. Red maple is a viable syrup source in the absence of enough sugar maples, or in a mixed-species tapping operation, but it is not the primary species of choice when sugar maple is available. For a small-scale home operation at Hegins, tapping a few red maples in late January to early February (before the sugar maples run) is entirely worthwhile and can be an enjoyable early-season activity."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — all parts safe for humans; the sap, seeds, and young leaves are non-toxic",
+    "toxicityAnimals": "SERIOUS HAZARD TO HORSES — wilted or dried red maple leaves are highly toxic to horses, causing Heinz body hemolytic anemia; this is a well-documented, potentially fatal toxicity; wilted leaves fallen after a storm or from pruning are particularly dangerous because horses will readily consume them (the wilting reduces bitterness); fresh live leaves on the tree pose less risk as horses generally avoid them, but any fallen or wilted material is a significant hazard; do NOT plant red maple near horse pastures or paddocks; do NOT allow pruned branches or storm-fallen limbs with wilting leaves to remain accessible to horses; this is one of the most important horse-owner cautions in eastern North America and must not be overlooked; toxic to other equids (donkeys, mules) as well; the toxicity is not significant for cattle, sheep, dogs, or cats",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy — a true large canopy tree; the primary overstory layer in eastern North American food forests and native plant gardens"
+    },
+    "roles": [
+      "Canopy Structure (primary role — provides the essential overstory layer for a multi-story food forest or native plant guild)",
+      "Early Pollinator Support (exceptional — the February/March bloom is a critical early pollen resource with almost no native competition; this alone justifies the planting in any permaculture design)",
+      "Wildlife Support (outstanding across multiple dimensions — see Wildlife section)",
+      "Biomass / Leaf Litter (large volumes of autumn leaves; excellent mulch material; decomposes at a moderate rate)",
+      "Sap Source (secondary — maple syrup tapping; most productive in early February before sugar maple runs)",
+      "Shade Regulation (the canopy provides summer shade for cooling buildings, understory plants, and living areas)",
+      "Nurse Tree (fast growth shelters slower-growing understory plantings)",
+      "Soil Moisture Regulation (on wet sites, the tree's vigorous transpiration helps manage excess moisture)"
+    ],
+    "companionPlants": [
+      "Spring ephemerals that benefit from filtered light and humus-rich soil under the canopy — bloodroot (Sanguinaria canadensis)",
+      "trout lily (Erythronium americanum)",
+      "trillium spp.",
+      "Virginia bluebells (Mertensia virginica); ramps (Allium tricoccum) — excellent under a red maple canopy as both appreciate moist",
+      "humus-rich conditions; wild ginger (Asarum canadense — already in the plant list) as a dense shade-tolerant groundcover; ostrich fern (Matteuccia struthiopteris — already in the plant list) in wetter areas under the canopy; comfrey (already growing on site) as a mulch-and-mineral accumulator at the drip line; elderberry (Sambucus canadensis — already in the plant list) works well at the canopy edge where it can get enough light; native asters (Symphyotrichum spp.) and goldenrod (Solidago spp.) at the drip line perimeter for late-season pollinator support"
+    ],
+    "antagonists": [
+      "No allelopathic compounds documented; the deep shade of a mature canopy will limit sun-demanding plants beneath it — plan understory selections for true shade tolerance; the shallow",
+      "wide-spreading root system can compete aggressively with shallow-rooted understory plants for moisture in dry conditions; on wet sites this is less of a concern"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value across all seasons — early spring: native bees (Andrena mining bees, bumblebee queens, early mason bees) on the February/March flowers — this is critical early-season pollinator support with almost no other native source competing; May: the red samaras are consumed by evening grosbeaks, American goldfinches, purple finches, pine siskins, and other finches as soon as they ripen — red maple samaras are one of the earliest tree seeds available and are heavily sought; white-tailed deer and squirrels also consume the samaras; summer: the canopy provides nesting and foraging habitat for a wide range of songbirds; fall and winter: the tree structure provides perching, roosting, and bark-foraging habitat; woodpeckers, nuthatches, and brown creepers work the bark; the canopy hosts many cavity-nesting birds as the tree ages and develops natural cavities",
+    "hostPlantFor": "Excellent Lepidoptera host — red maple is documented as a larval host plant for over 285 species of native moths and butterflies, making it one of the highest-ranked native trees for caterpillar diversity in eastern North America (comparable to cherries and well behind only oaks in the regional rankings); host for rosy maple moth (Dryocampa rubicunda — one of the most beautiful native moths, whose caterpillars feed almost exclusively on maples), Columbia silk moth (Hyalophora columbia), Cecropia moth (Hyalophora cecropia), and numerous other Lepidoptera; the ecological contribution as a caterpillar host is enormous — the insects feeding on red maple form the base of the food web for nesting songbirds and their nestlings",
+    "nestingHabitat": "High — the large crown provides excellent nesting sites for a wide range of birds; older trees develop natural cavities used by woodpeckers, screech owls, wood ducks (near water), and other cavity nesters; the branch architecture supports open-cup nests for orioles, vireos, tanagers, and warblers; a mature red maple is a significant wildlife habitat structure in its own right"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — young trees and saplings are browsed, particularly the tender new growth; deer will also rub antlers on small-diameter stems; once the trunk reaches 3-4\" caliper and the canopy height is above browse level, deer pressure is minimal; mature trees are essentially deer-proof; tree tubes or wire caging recommended for first 3-5 years in areas with active deer pressure"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates road salt better than sugar maple (one of several respects in which it outperforms its close relative); used as a street tree in urban contexts, though salt-spray tolerance is moderate rather than high; not a first-choice salt-spray species but adequate for most non-coastal roadside situations"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — more drought-tolerant than silver maple and performs well on average sites; less drought-tolerant than some upland species; on genuinely dry sites (thin, rocky, or sandy soils with low moisture retention), performance declines; for Zone 6a in a typical year, established trees require no supplemental irrigation; during extended drought, trees on dry sites may show early leaf drop — not fatal but a sign of stress"
+    },
+    "other": "Exceptional wet-soil tolerance — one of the most important tolerances this tree offers; among the very few large canopy trees that perform well in periodically waterlogged or poorly drained soil; suited to bottomlands, drainage swales, compacted clay, and sites with standing water after rain; tolerates urban heat, compacted soils, and air pollution reasonably well; used as a street and parking lot tree in urban settings; also tolerates moderate shade, especially when young — this combination of wet-soil tolerance + shade tolerance + fast growth + cold hardiness (Zone 3) makes it one of the most versatile large native trees in the eastern US"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established — after the standard establishment period (2-3 years of supplemental watering during drought), red maple requires essentially no routine maintenance; no spray programs; no significant disease or pest issues in Pennsylvania native plantings; the primary maintenance task is structural pruning in youth",
+    "pruningNotes": "Structural pruning in the first 5-10 years is the most important investment — establish a strong central leader and well-spaced scaffold branches early; red maple has a tendency to develop co-dominant leaders and included bark at branch unions, which can lead to structural failure in large trees; address this early when it is easy; prune in late winter (February-March) before leaf emergence, or in midsummer (July-August); avoid pruning in spring (April-June) when sap is flowing and wound response is slower; remove any crossing, rubbing, or structurally compromised branches; once structural form is established, ongoing pruning needs are minimal; the tree heals well from properly made cuts",
+    "propagationMethods": [
+      "Seed — red maple seeds (samaras) are among the easiest tree seeds to germinate; collect in May when the samaras turn red and begin to fall; sow immediately with no cold stratification required (the seeds are not dormant when fresh); direct sow in containers or in prepared seedbeds; germination is rapid (7-14 days) when seeds are fresh; seeds lose viability quickly if dried — sow promptly after collection; for fall-collected seed",
+      "cold-moist stratification for 60-90 days is needed; softwood cuttings in early summer; grafting for named cultivars (cleft graft or budding onto seedling rootstock)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Acer rubrum) grown from local-provenance seed is the best choice for ecological planting — maximum genetic diversity, maximum ecological compatibility with local wildlife, maximum site adaptation. Named cultivars sacrifice some of this adaptability for predictable ornamental traits (especially fall color consistency). For a food forest or naturalistic planting, the species is preferable. For ornamental and landscape use where consistent fall color is a priority, named cultivars are reliable.\n'October Glory' — One of the most widely planted and reliably performing red maple cultivars; outstanding, deep red to red-purple fall color that holds late into the season; broadly adaptable to a range of soil types including clay; rounded crown habit; widely available at nurseries throughout the eastern US; an excellent choice when a cultivated red maple with predictable fall color is wanted; Zone 4-9.\n'Red Sunset' (also sold as 'Franksred') — Reliable, early and vivid red fall color; considered by many to be the best cultivar for consistently rich red fall color; slightly earlier coloring than 'October Glory'; adaptable and vigorous; Zone 4-9; widely available; MBG PlantFinder entry confirms its high ornamental rating.\n'Autumn Blaze' — Note: 'Autumn Blaze' is NOT a red maple cultivar despite its close association with the species; it is Acer × freemanii (a hybrid of A. rubrum × A. saccharum — red maple × silver maple); it is included here because it is extremely commonly sold alongside red maple cultivars and frequently confused with them; 'Autumn Blaze' is an exceptional landscape tree with brilliant orange-red fall color, excellent drought tolerance (from the silver maple parentage), and very fast growth; it is widely considered one of the finest landscape maples in commerce; however, as a hybrid it has somewhat reduced ecological value compared to the straight native species; for a pure native planting, choose 'October Glory' or 'Red Sunset' over 'Autumn Blaze'; for a landscape tree where ornamental performance is the primary goal, 'Autumn Blaze' is outstanding; Zone 3-8.\n'Northwood' — Selected in Minnesota for exceptional cold hardiness and reliable fall color in cold climates; good orange-red fall color; reliable Zone 3-4 performance; no particular advantage over 'October Glory' in Zone 6a but a solid cold-region standout.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Canopy anchor for food forest guilds on wet or average sites; native plant and wildlife garden specimen; early pollinator support tree; shade tree for buildings and outdoor living areas; bottomland or wet-site restoration; native hedgerow or property boundary; syrup tapping (small-scale); four-season ornamental specimen"
+    ],
+    "designPlacement": "Red maple is a large canopy tree requiring 30-40' of clearance at maturity — it is not suitable for confined beds or spaces with height restrictions; best sited in open areas, food forest zones, property perimeters, or anywhere with adequate clearance for a 40-60' canopy; particularly well-suited to low-lying areas, drainage swales, compacted clay, or any site with wet-soil challenges where other large trees struggle; its exceptionally early bloom (February/March) provides critical early pollen for native bees — this alone makes it one of the highest-value ecological plantings in any design; a spring ephemeral understory of ramps, wild ginger, and ostrich fern beneath the canopy creates an ecologically rich and nearly maintenance-free combination; protect young trees from deer with wire caging or tree tubes for the first 3-5 years; do NOT site near any horse pasture or equine facility due to serious leaf toxicity to horses",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Acer_rubrum",
+    "inaturalist": "https://www.inaturalist.org/taxa/48098-Acer-rubrum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=j170"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — A. rubrum is native to Pennsylvania; one of the most common, ubiquitous native trees in the state; found in virtually every county and ecological context — wet bottomlands, floodplains, upland forests, dry ridges, disturbed roadsides, forest edges, and suburban woodlots; this tree belongs here in a way that few plants can claim; planting it is an act of ecological restoration even in ordinary circumstances",
+      "paInvasiveStatus": "Not invasive — native throughout Pennsylvania; no invasive designation by the Pennsylvania Department of Agriculture or any PA-based invasive species authority",
+      "drainage": "Construction-disturbed red clay soils at Hegins are well within its comfort zone; no amendments needed for drainage; if anything, the site's drainage issues after heavy rain align with this tree's strengths rather than working against it; plant in any low-lying area where water collects — red maple will perform better there than almost any other large tree",
+      "soil": "Hegins red clay requires no amendment for red maple; this is one of the species best matched to the site's existing soil conditions; no special concern; plant directly into existing soil with no modification",
+      "cultivarNotes": "For ecological plantings, prioritize the straight species or local-provenance Pennsylvania seedlings for maximum wildlife value and site adaptation. For ornamental use with predictable fall color, 'October Glory' and 'Red Sunset' are both Zone 4-9, widely available in PA nurseries, and well-matched to Zone 6a conditions; either is an excellent choice.",
+      "designPlacement": "Not a candidate for Sections A, B, or C (all too confined with height restrictions). Place in the food forest zone or at the property perimeter where full canopy development is possible. The site's red clay and drainage issues after heavy rain are well-matched to this tree's strengths — consider placing it at the low end of any drainage gradient. It does not anchor any of the three existing guilds (apple, paw paw, mulberry) but would function as an independent canopy element or as the nucleus of a future native understory planting. Given active deer pressure from the east corridor, tree tube or wire caging protection is essential for the first 3-5 years.\nAcquisition Status:\nPennsylvania — Hegins Site Observations:\nZone 6a — zero cold-hardiness risk (species rated to Zone 3); the Hegins climate presents no challenge for this tree\nRed clay soil — an asset, not a limitation; red maple evolved in bottomland clay and performs excellently; no amendments needed\nDeer pressure from east wildlife corridor — moderate concern for young trees only; wire caging or tree tube required for years 1-5; once trunk reaches 3-4\" caliper and canopy clears browse height, essentially deer-proof\nSalt tolerance — moderate; front beds are ~50 ft from the road, well outside the salt-spray zone; road salt is not a concern at this placement distance\nNo sections A, B, or C suitability — too large for any of the three confined bed sections; open food forest or perimeter placement only\nHighest ecological return on the property for early-season native bee support — February/March bloom with almost no competition from other pollen sources; a single tree provides outsized pollinator benefit",
+      "siteObservations": null
+    }
+  }
+}

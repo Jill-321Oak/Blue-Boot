@@ -1,0 +1,165 @@
+{
+  "id": "malus-domestica",
+  "name": {
+    "commonName": [
+      "Apple ('Liberty' and 'Enterprise' disease-resistant cultivars)"
+    ],
+    "latinName": "Malus domestica 'Liberty' and Malus domestica 'Enterprise'",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Not applicable — complex horticultural hybrid; apple (Malus domestica) is derived primarily from Malus sieversii (Central Asia) with contributions from other Malus species; extensively naturalized across temperate regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Several wild Malus species are native to North America (M. coronaria, M. fusca, M. ioensis, M. angustifolia), but M. domestica is entirely Old World in origin. Naturalized across much of the eastern US and Pacific Northwest where old orchards and feral seedlings persist in hedgerows and woodland edges."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive. Malus domestica does not spread aggressively in the lower 48. Feral seedling apples establish from discarded cores and wildlife-deposited seed but do not form monocultures or displace native vegetation. Not listed on any state noxious weed list or the USDA PLANTS invasive list. Some states track feral apple as a non-native naturalized species, but it is not considered a management concern."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "'Liberty' — Zone 4–8; 'Enterprise' — Zone 4–8. Both cultivars perform well across the core apple belt (Zones 4–7) and into the warmer end of Zone 8 where adequate winter chill hours (800–1000) are met. Heat zone upper limit is approximately AHS Zone 8; southern growers in Zones 8b–9 should select low-chill cultivars instead."
+    }
+  },
+  "description": {
+    "height": "Standard — 20–30'; semi-dwarf (most recommended) — 12–16'; dwarf — 8–12'. For the home food forest or backyard orchard, semi-dwarf on a size-controlling rootstock is recommended for easier harvest and management.",
+    "spread": "Semi-dwarf — 12–15'",
+    "spacing": "Semi-dwarf — 12–15' apart; plant two different cultivars for cross-pollination (Liberty + Enterprise bloom at overlapping times — compatible pair)",
+    "growthRate": "Moderate; begins fruiting years 3–5 depending on rootstock",
+    "timeToMaturity": "First fruit years 3–5; full production years 7–10",
+    "lifespan": "50–100+ years for a standard tree; semi-dwarf 25–40+ years",
+    "deciduousEvergreen": "Deciduous — attractive spring flowers, summer fruit development, and some fall color",
+    "winterInterest": "Moderate — structural branching; some persistent dried fruit if not harvested"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential for fruit quality and disease resistance — minimum 6 hours, 8+ preferred. In the Deep South (Zone 8+), light afternoon shade can reduce heat stress, but full sun remains ideal in Zones 4–7.",
+    "water": "Medium; consistent moisture during fruit development (June–September); drought tolerance moderate but excessive drought causes fruit drop and reduces quality. In arid western climates, regular irrigation is essential; in the humid East, supplemental watering is mainly needed during dry spells in the fruiting season.",
+    "drainagePreference": {
+      "description": "Well-drained soil is essential. Apples are highly intolerant of waterlogged conditions — standing water around the root zone for even short periods promotes Phytophthora root rot and collar rot, which can kill the tree. Ideal drainage allows water to pass through the root zone within hours of heavy rain. Raised planting (mounding) is recommended on any site with seasonal wet conditions. Avoid low-lying areas, flood plains, and compacted soils where water pools.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Apples can succeed in clay soil with proper amendment, but unimproved heavy clay is a significant risk factor. Clay retains moisture around roots, increasing rot susceptibility and reducing oxygen availability. The key intervention is breaking up the clay hardpan well beyond the planting hole (minimum 3× root ball width), incorporating generous compost and coarse organic matter, and mounding the planting site 6–12\" above grade to ensure the graft union and crown stay above any seasonal water table. Semi-dwarf rootstock M.7 is preferred in clay because of its stronger root anchorage and better tolerance of heavier soils compared to M.9 or M.26."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0. Apples prefer slightly acidic to neutral soil. Below 5.5, lime to raise pH; above 7.5, nutrient lockout (especially iron and manganese) becomes a concern. Most eastern US soils fall naturally within the acceptable range."
+    },
+    "texturePreference": "Well-drained loam is ideal. Sandy loam and silt loam are also excellent. Clay loam is workable with amendment. Pure sand drains too fast and requires more frequent irrigation and fertility management. Pure clay requires the amendments described under Clay Soil Performance.",
+    "rootCharacter": "Wide-spreading fibrous root system; semi-dwarf rootstocks (M.7, M.26, M.9) restrict root spread and tree size; full standard rootstocks (seedling) produce the largest, most long-lived trees. Root spread typically extends to the drip line or beyond. M.7 has the best anchorage of the common semi-dwarf stocks — important in heavier soils or windy sites."
+  },
+  "bloom": {
+    "bloomTime": "Late April to early May in Zones 6–7; earlier (mid-April) in Zones 7b–8; later (mid-May) in Zones 4–5. Both 'Liberty' and 'Enterprise' are mid-season bloomers.",
+    "bloomDescription": "Clusters of 5-petaled white-pink flowers, 1–1.5\" wide; typical apple blossom; one of the most beautiful spring flowering sights in the temperate garden; fragrant",
+    "fragrance": "Flowers pleasantly fragrant — sweet, classic apple blossom",
+    "flowerSex": "Hermaphrodite; but self-infertile — requires cross-pollination from another apple cultivar blooming at the same time",
+    "pollination": "Requires cross-pollination; 'Liberty' and 'Enterprise' are compatible pollinators for each other; bees are the primary pollinators; a robust bee population (or nearby bee colonies) is important for full fruit set. Crabapples also serve as excellent pollinators for domestic apples if bloom timing overlaps."
+  },
+  "yield": {
+    "edibleParts": "Fruit (large, high-quality apples — see Cultivar Notes for specifics); juice and cider; dried apples; apple sauce, jelly, pie",
+    "harvestSeason": "'Liberty' — mid-October; 'Enterprise' — late October (timing is for Zones 6–7; harvest shifts earlier in warmer zones, later in colder ones). The 2-week spread extends fresh apple availability.",
+    "medicinalUses": "Apples are rich in quercetin, pectin, and polyphenols with documented cardiovascular and gut health benefits; apple cider vinegar has traditional medicinal use; \"an apple a day\" is not entirely folk myth",
+    "craftOtherYield": "Apple cider (excellent); apple wine; dried apples; apple wood (fragrant firewood; excellent for smoking meat)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Seeds contain amygdalin (cyanogenic glycoside) — do not eat large quantities of seeds; incidental consumption is not a concern; apple fruit is entirely non-toxic",
+    "toxicityAnimals": "Apple fruit is safe for dogs and horses; seeds are toxic in quantity (not a realistic concern); avoid feeding large amounts of fallen fruit to animals (sugar fermentation can cause digestive issues)",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (fruit — primary canopy crop of the food forest)",
+      "Wildlife Support",
+      "Timber/Wood (prunings and eventually the wood)",
+      "Habitat Structure"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base)",
+      "yarrow (insectary)",
+      "chives/garlic (pest deterrent)",
+      "nasturtium (pest trap — aphid diversion)",
+      "white clover (nitrogen fixer in the understory)",
+      "daffodils (deer deterrent ring)",
+      "flowering ground covers; the classic apple guild is built around these companions"
+    ],
+    "antagonists": [
+      "Juglone-producing trees (Juglans nigra — black walnut) — do not plant apple within the walnut's root zone (50–80' radius). Eastern red cedar (Juniperus virginiana) is the alternate host for cedar-apple rust (Gymnosporangium juniperi-virginianae) — proximity increases rust pressure",
+      "though resistant cultivars like Liberty and Enterprise mitigate this risk significantly. Fire blight (Erwinia amylovora) is a concern for susceptible cultivars; plant resistant varieties."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional spring pollinator tree), birds (fruit consumed by many species; tree provides nesting), beneficial insects throughout the season; apple trees are one of the most wildlife-supportive trees in the temperate food garden",
+    "hostPlantFor": "Numerous native Lepidoptera use Malus species including the Cecropia moth, Polyphemus moth, Promethea moth, and many other moths and butterflies — a high host plant value across the eastern and central US",
+    "nestingHabitat": "Major nesting and roosting structure for birds; apple trees attract cavity-nesting birds in old wood; dense canopy used by many species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate. Deer readily browse apple foliage, twigs, and fruit. Young trees are especially vulnerable — protect with wire cages, tree tubes, or fencing for the first 3–5 years until the canopy is above browse height. Mature trees can sustain moderate browsing without serious damage but heavy pressure reduces fruit yield. Guild design with deer-deterrent plants (alliums, daffodils, strong aromatics) around the drip line provides some additional protection. Deer pressure is a universal concern in the eastern US, Midwest, and increasingly in suburban areas nationwide."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt spray; not suitable for direct roadside planting or coastal salt exposure. Recovers from light seasonal exposure."
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates short dry periods once established, but fruit quality and size decline significantly under extended drought. Consistent moisture during the establishment years (first 3 years) is critical regardless of climate zone. In arid western climates, irrigation is non-negotiable."
+    },
+    "other": "Good wind tolerance once established; semi-dwarf trees on M.7 rootstock have strong anchorage. Late spring frosts during bloom are the primary climate risk across Zones 4–6 — siting trees on slopes or elevated ground (rather than frost pockets) reduces this risk. Moderate humidity tolerance; disease-resistant cultivars are strongly recommended in the humid eastern US where fungal pressure is highest."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — annual pruning, pest monitoring, and harvest management",
+    "pruningNotes": "Annual late-winter pruning (late February–March in Zones 6–7; adjust timing by zone) is the most important maintenance task. Goal is an open-center (vase) or modified central leader form. Remove: crossing branches, water sprouts (vertical shoots from scaffold branches), dead wood, and any branches growing into the center. Maintain airflow and light penetration throughout the canopy. Thin fruit clusters to 6–8\" apart in June (one fruit per cluster) to improve fruit size and prevent biennial bearing. Remove and destroy any mummified fruit hanging through winter — reduces disease inoculum. Monitor for fire blight (wilted, \"shepherd's crook\" shoot tips) — cut out immediately 12\" below the infected tissue and disinfect tools between cuts.",
+    "propagationMethods": [
+      "Grafting (the standard method — grafted onto rootstock determines ultimate tree size; purchase grafted trees from a reliable nursery); semi-hardwood cuttings (possible but rarely done for fruiting apples)"
+    ]
+  },
+  "cultivarNotes": "**Disease-resistant cultivars are the single most important selection criterion for organic or low-spray apple growing**, especially in the humid eastern US where scab, rust, and fire blight are endemic. In the arid West, disease resistance is less critical but still valuable for reducing management burden.\n**Zone 3–5 (Northern tier):** Both 'Liberty' and 'Enterprise' are rated to Zone 4 and perform well in cold climates. Northern growers should ensure adequate growing season length for 'Enterprise' (late-maturing); 'Liberty' ripens 2 weeks earlier and may be more reliable at the cold end of the range. Other excellent disease-resistant options for this zone band include 'Freedom', 'Redfree', and 'Pristine'.\n**Zone 6–7 (Core apple belt):** This is the sweet spot for both cultivars. **'Liberty'**: Cornell-Mack cross; released 1978; mid-October harvest; red fruit with mild subacid flavor; outstanding resistance to apple scab, cedar-apple rust, fire blight, and powdery mildew — arguably the most comprehensively disease-resistant apple available for the eastern US; excellent choice for organic/low-spray management; stores 3–4 months. **'Enterprise'**: complex cross; released 1994; late October harvest; red, crisp, slightly tart, excellent flavor; exceptional resistance to apple scab, good resistance to fire blight and mildew (slight cedar-apple rust susceptibility — still much better than standard varieties); a top recommendation from Cornell and Rutgers extension services for the Mid-Atlantic; stores 4–6 months. **Why this pair**: the disease profiles complement each other, harvest timing is spread 2 weeks apart, and both are mid-season bloomers ensuring cross-pollination.\n**Zone 8+ (Southern / warm-winter regions):** Both cultivars require 800–1000 chill hours and may not perform in low-chill areas of the Gulf Coast, Deep South, or Southern California coastal zones. Southern growers in Zone 8b–9 should look to low-chill cultivars such as 'Anna', 'Dorsett Golden', or 'Ein Shemer' instead.\n**Rootstock guidance (all zones):** M.7 (semi-dwarf, good anchorage in clay and heavier soils, widely available) or M.26 (slightly smaller, may need staking, prefers lighter soils). In extreme cold (Zone 3–4), Bud.118 offers hardier roots. In well-drained light soils, M.9 produces the most compact tree but requires permanent staking.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "orchard",
+      "home fruit garden",
+      "permaculture guild anchor"
+    ],
+    "designPlacement": "Plant as a guild anchor — a pair of compatible cultivars spaced 12–15' apart forms the canopy layer, with understory guild plants (comfrey, yarrow, clover, chives, bulbs, alliums, gooseberry, hardy kiwi, ground covers) arranged beneath and around. Site selection priorities: full sun (8+ hours), well-drained soil or mounded planting, away from Juglans species (50'+ separation), and adequate space for the full guild radius (15–20' per tree). Avoid frost pockets — plant on slopes or elevated ground where possible. In regions with endemic cedar-apple rust, distance from Juniperus virginiana reduces spore load (though resistant cultivars make this less critical).",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apple",
+    "inaturalist": "https://www.inaturalist.org/taxa/469472-Malus-domestica",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Liberty",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=249516"
+      },
+      {
+        "label": "Enterprise",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=264689"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania. However, feral apple is common in PA hedgerows, old fields, and woodland margins throughout the state.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list.",
+      "drainage": "The compacted red clay at the Hegins site requires significant preparation for in-ground apple planting. Dig and amend a wide area (minimum 6' diameter, 18\" deep), incorporate 4–6\" of compost and coarse organic matter, and mound the planting site above grade. M.7 rootstock is the best choice for this soil. The construction-disturbed areas may actually be easier to work than undisturbed clay hardpan. Monitor drainage after heavy rain in the first year and add additional mounding if water pools.",
+      "soil": "Red clay at the Hegins site will need compost amendment at planting. Loamy topsoil mixed into the planting area improves texture. The raised vegetable beds are not relevant for tree planting — apple trees go in-ground with site preparation as described above.",
+      "cultivarNotes": "'Liberty' and 'Enterprise' are the top recommendation for this site. Both are proven performers in the Mid-Atlantic, with disease resistance profiles specifically suited to the region's high humidity and endemic cedar-apple rust (Juniperus virginiana is common in PA hedgerows). M.7 rootstock is preferred for the heavy clay soil. This pair provides cross-pollination, staggered harvest, and complementary disease resistance.",
+      "designPlacement": "Apple guild — a pair planted 12–15' apart as the guild canopy layer; the surrounding guild plants (comfrey, yarrow, clover, chives, bulbs, alliums, gooseberry, hardy kiwi, hops) are arranged in the understory and on the trellis/vine layer. Not assigned to a specific bed section (A/B/C) — tree guild placement will be determined when the property map is developed. Site within the property should prioritize the sunniest available ground with adequate distance from neighboring structures and the walnut-free zone.",
+      "siteObservations": "Eastern red cedar (Juniperus virginiana) is present in nearby PA hedgerows — this is the alternate host for cedar-apple rust, making disease-resistant cultivar selection critical at this site. Deer pressure from the east wildlife corridor is a significant concern for young trees — wire cages or tree tubes will be needed during establishment (first 3–5 years). The compacted red clay requires substantial amendment at planting (wide hole, compost incorporation, mounding above grade). Monitor drainage closely after heavy rain during the first growing season. Guild design should include alliums and daffodils in the deer deterrent ring around each tree."
+    }
+  }
+}

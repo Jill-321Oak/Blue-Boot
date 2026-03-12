@@ -1,0 +1,152 @@
+{
+  "id": "schisandra-chinensis",
+  "name": {
+    "commonName": [
+      "Five-Flavor Berry",
+      "Magnolia Vine",
+      "Wu Wei Zi",
+      "Chinese Magnolia Vine"
+    ],
+    "latinName": "Schisandra chinensis",
+    "family": "Schisandraceae"
+  },
+  "range": {
+    "nativeRange": "Northern China, Russian Far East (Siberia, Sakhalin), Korea, Japan; native to moist forest margins and stream-side habitats at moderate to high elevations; one of the most significant medicinal plants of the East Asian flora",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from East Asia; not naturalized in any US region and does not escape cultivation"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; slow to moderate grower that has not demonstrated invasive behavior in cultivation in any US state; not listed on any state noxious weed list; safe to plant"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8 (performs well across the entire range; no significant heat zone ceiling within the lower 48)"
+    }
+  },
+  "description": {
+    "height": "15-25' as a twining vine; in cultivation typically managed at 10-15' on a trellis or fence",
+    "spread": "6-10'; less laterally aggressive than many ornamental vines",
+    "spacing": "6-8' apart on a trellis or fence; if planting a male-female pair for fruit production, 6' apart is sufficient for cross-pollination",
+    "growthRate": "Moderate; establishes slowly in the first 1-2 years, then grows steadily once the root system is established",
+    "timeToMaturity": "First fruit possible in year 3-4; reliable production from year 5 onward; patience is required — the vine rewards long-term establishment",
+    "lifespan": "Long-lived perennial vine; decades in favorable conditions",
+    "deciduousEvergreen": "Deciduous — attractive small oval leaves through the growing season; not notable for fall color; the vine framework persists through winter",
+    "winterInterest": "Low — bare twining stems without strong architectural quality; the dried berry clusters may persist briefly into early winter and are ornamentally attractive while they last"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full sun; shade tolerance is genuine and significant — one of the few fruiting vines that will produce in a dappled or part-shade food forest understory position; better fruit production in more sun, but the plant performs creditably in 4-6 hours",
+    "water": "Medium; prefers consistently moist soil; does not tolerate prolonged drought; performs best near a water source or in a site that retains moisture; avoid waterlogged conditions",
+    "drainagePreference": {
+      "description": "Moist, well-drained; consistent moisture with good drainage is the ideal; does not tolerate standing water or prolonged waterlogging, which will cause root decline",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — can succeed in clay soils if amended with generous compost to improve both drainage and moisture retention simultaneously; unamended heavy clay risks waterlogging in wet seasons and surface crusting in dry spells, both of which stress this vine; raised or bermed planting is strongly recommended in heavy clay sites; once established in amended clay the vine performs well, but the first two years are the critical window"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; prefers slightly acidic to neutral; tolerates moderately acidic conditions"
+    },
+    "texturePreference": "Rich, loamy, moist soil with good organic matter content; adaptable once established but performs noticeably better in improved soil; amend heavy soils with compost to improve structure",
+    "rootCharacter": "Moderately deep fibrous root system; not as deeply rooting as grapes or fruit trees; benefits from mulching to maintain consistent soil moisture and temperature"
+  },
+  "bloom": {
+    "bloomTime": "May-June; blooms on the previous year's wood",
+    "bloomDescription": "Small (0.5\"), waxy, cup-shaped flowers; white to pale pink; borne singly or in small clusters in the leaf axils; subtle and understated — not ornamentally showy, but pleasant close up; the flowers appear after leafout",
+    "fragrance": "Mildly fragrant; pleasant subtle scent at close range",
+    "flowerSex": "Variable — dioecious in many plants (separate male and female individuals); some plants are monoecious (bearing both male and female flowers on the same plant); this variability depends on seed provenance and growing conditions; do not assume any single plant will fruit without a confirmed female or monoecious partner",
+    "pollination": "Insect-pollinated (small beetles and flies are primary pollinators); requires either a monoecious plant or both a male and female plant for reliable fruit set; when purchasing, always confirm sex of plant or buy confirmed monoecious individuals; buying in pairs from reputable nurseries is the safest approach"
+  },
+  "yield": {
+    "edibleParts": "Fruit (small red berries, approximately 0.5\" diameter, borne in pendant clusters; the flavor is the defining characteristic — all five basic tastes are present simultaneously: sweet, sour, salty, bitter, and pungent/umami; this complex, challenging flavor makes fresh eating an acquired taste; most commonly processed rather than eaten out of hand); the berries are more a medicinal and tonic ingredient than a conventional food crop",
+    "harvestSeason": "September-October; harvest when the clusters are deep red and the berries are fully developed; the entire pendant cluster detaches cleanly; dries well for long-term storage",
+    "medicinalUses": "PRIMARY value of this plant. Schisandra chinensis is one of the 50 fundamental herbs of Traditional Chinese Medicine and one of the most extensively studied botanical medicines from East Asian tradition. Documented pharmacological properties include: adaptogenic (modulates the stress-hormone axis — reduces cortisol response, increases physical and mental resilience); hepatoprotective (clinically studied for liver protection and liver disease — schisandrin lignans have demonstrated protective effects against chemical-induced liver damage in multiple studies); immune-modulating; anti-fatigue (used historically by hunters in Siberia and Manchuria for endurance during long expeditions); cognitive-enhancing (improves concentration, accuracy, and mental endurance). The primary active compounds are schisandrin and related dibenzocyclooctadiene lignans concentrated in the seeds and pulp. Schisandra was extensively used by Soviet athletes and cosmonauts during the Cold War as part of the original adaptogen research program (alongside Eleutherococcus/Siberian ginseng). Common preparations: dried berry tea (decoction), tincture in vodka or spirits (traditional preparation), dried and powdered for capsules or tonics. Not a casual culinary berry — grow this plant for its medicine.",
+    "craftOtherYield": "Schisandra-infused spirits (a traditional Central Asian and Russian preparation — the berries infused in vodka or grain spirits produce a distinctive complex tonic liqueur); dried berries for long-term storage; powdered berry for tonic preparations"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally regarded as safe at food and tonic doses; contraindicated in pregnancy (uterine stimulant) and in individuals with gastroesophageal reflux disease or peptic ulcer (the sour-acidic component may aggravate these conditions); may interact with cytochrome P450 drug metabolism pathways — relevant for individuals on multiple pharmaceuticals; consult a qualified herbalist or physician before using medicinally at therapeutic doses",
+    "toxicityAnimals": "No significant toxicity documented for common domestic animals; not a known veterinary concern; the berries are too small and complex-tasting to be attractive to dogs",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Vine layer (vertical layer climbing into the shrub and lower canopy layers)"
+    },
+    "roles": [
+      "Medicinal plant (primary yield — one of the most medicinally significant vines for temperate food forests); Food (secondary — tonic berry crop); Vertical space utilization; Shade tolerance makes it a genuine understory vine candidate unlike most fruiting vines"
+    ],
+    "companionPlants": [
+      "Elder (Sambucus canadensis or nigra — adjacent shrub layer that offers compatible height and shade tolerance; both are significant medicinal plants); paw paw (Asimina triloba — both prefer part shade and moist conditions; paw paw guild is a natural home for schisandra in the vine layer); comfrey (at the base for mulch and mineral accumulation); ostrich fern or other moisture-loving groundcovers beneath; spicebush (Lindera benzoin — native shrub with compatible site requirements)"
+    ],
+    "antagonists": [
+      "No specific antagonists documented; avoid planting in dry",
+      "compacted",
+      "or full-shade conditions where the vine will struggle and fail to fruit"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds will consume the ripe berry clusters — robins, catbirds, and thrushes are likely foragers; the ornamental red pendant clusters are visually attractive through the fall season; not a primary wildlife food source in North America (where it is not native and wildlife have no evolutionary relationship with it), but opportunistic consumption occurs",
+    "hostPlantFor": "No documented North American Lepidoptera host plant relationships; this is a non-native species without established native insect associations in North America",
+    "nestingHabitat": "The twining vine structure offers minor nesting support; not a significant nesting plant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — deer will browse the vine, particularly new growth; protect young plants during establishment with wire caging or fencing; the vine is not listed as deer-resistant; once established on a high trellis the browse pressure on productive wood is reduced, but this plant should be considered deer-susceptible in areas with active deer populations"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — avoid road salt exposure; not a roadside plant; does not recover well from salt damage"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low — requires consistent moisture; drought is the most likely cultural failure point in hot, dry summers; mulch heavily and ensure access to moisture"
+    },
+    "other": "Tolerates moderate wind once established on a sturdy support; sensitive to extreme heat — in Zone 8+ regions, afternoon shade becomes more important; intolerant of soil compaction"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the vine is not aggressive or high-maintenance once established; primary tasks are training the vine on its support, annual light pruning, and maintaining soil moisture",
+    "pruningNotes": "Prune in late winter (February-March) before bud break; remove crossing, dead, or overcrowded wood; the vine fruits on second-year and older wood — avoid over-pruning; light thinning to improve airflow and light penetration is the primary goal; train new shoots onto the trellis structure through the growing season; the vine is not as vigorous as grape or wisteria and does not require the intensive annual pruning of those species",
+    "propagationMethods": [
+      "Seed (requires cold stratification — 90+ days at 35-40°F; germination is slow and irregular; fresh seed has better viability); semi-hardwood cuttings (summer, with rooting hormone; moderate success); layering (peg flexible young shoots to the ground until rooted — reliable method for home propagation); division of established plants (if multiple stems emerge from the base)"
+    ]
+  },
+  "cultivarNotes": "No significant named cultivars are established in North American commerce. The primary sourcing distinction across all zones is sex: confirmed female plants, confirmed monoecious plants, or purchased male-female pairs. Seed-grown plants of unknown sex are a gamble — many gardeners have waited years only to discover they have an all-male planting. Buy from specialty nurseries that offer sex-confirmed or monoecious stock. **Zone 3-5:** Hardy throughout; no special cultivar selection needed beyond sex confirmation; northern growers benefit from the longest cold stratification period for seed-started plants. **Zone 6-7:** The sweet spot of the range — vigorous growth and reliable fruiting; source from nurseries in similar climates for best adaptation. **Raintree Nursery** and **One Green World** both carry Schisandra chinensis and are reputable sources. **Zone 8+:** Performs adequately but may need afternoon shade and more consistent irrigation; heat stress can reduce berry quality in the deep South. When available, monoecious selections are the most convenient for small gardens regardless of zone. For maximum medicinal yield, prioritize a confirmed fruiting (female or monoecious) plant above all other considerations.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "medicinal garden",
+      "paw paw guild vine layer",
+      "trellis or fence planting in a moist part-shade position",
+      "adaptogen garden"
+    ],
+    "designPlacement": "Train on a sturdy trellis, fence, or wire panel from planting — the vine needs support from year one. Ideal placement is within or adjacent to a part-shade food forest understory, particularly in a paw paw guild where both species share a preference for moist, dappled conditions. The vine's genuine shade tolerance makes it one of the few fruiting vines suitable for understory or north-facing positions. Provide consistent moisture at the root zone with deep mulch. Avoid exposed, dry, or windswept sites. The vine pairs well with other medicinal and edible understory plants (elder, spicebush, comfrey) and benefits from the humidity and shelter of a developing canopy.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Schisandra_chinensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/431608-Schisandra-chinensis",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or North America; introduced from East Asia",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field",
+      "drainage": "The red clay at the Hegins site will need significant amendment — a raised berm or amended bed with at least 6\" of compost worked in is the practical approach; in-ground planting directly into unamended compacted clay is likely to fail; ensure the planting site does not collect standing water after heavy rain",
+      "soil": "Amend the red clay at the Hegins site with generous compost and organic matter before planting; a raised berm or amended bed is the most reliable approach for in-ground planting at this property",
+      "cultivarNotes": "Raintree or One Green World stock is reliably hardy here; prioritize a confirmed monoecious plant or a male-female pair; no special cultivar adaptation needed — standard offerings perform well in Zone 6a.",
+      "designPlacement": "The paw paw guild is the natural placement — both species prefer moist, part-shade conditions and are productive in the understory; train schisandra on a sturdy trellis or fence adjacent to or within the paw paw pair. Alternatively, the vine could be trained on a fence along the Section B strip (north-facing, increasingly shaded by the developing food forest) where its shade tolerance is an asset. Mulch heavily at the base to maintain consistent soil moisture; amend the red clay or use a raised planting to prevent waterlogging.",
+      "siteObservations": "Deer will browse new growth — protect young plants with wire caging during establishment, especially given the active deer corridor from the east. The red clay soil requires significant amendment (compost, organic matter) or a raised berm to provide the moist, well-drained conditions this vine needs. Hot, dry Pennsylvania summers are the most likely stress point — ensure consistent moisture access. Once established on a high trellis, browse pressure on productive wood is reduced."
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "gymnocladus-dioicus",
+  "name": {
+    "commonName": [
+      "Kentucky Coffeetree"
+    ],
+    "latinName": "Gymnocladus dioicus",
+    "family": "Fabaceae (subfamily Caesalpinioideae)"
+  },
+  "range": {
+    "nativeRange": "Midwest and Upper South of North America — primarily the Ohio and Mississippi River valleys; native range extends from southern Michigan and Ohio southwest through Indiana, Illinois, Iowa, Missouri, Kansas, Oklahoma, and Arkansas into Tennessee and Kentucky",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the central and upper-central US — core range covers the Ohio and Mississippi River valleys from southern Ontario south to Tennessee and west to eastern Nebraska and Kansas; present but uncommon at the eastern and western margins of its range; not native to the Pacific states, Gulf Coast, or northeastern US beyond western New York and southwestern Pennsylvania; widely planted as a landscape tree well outside its native range throughout the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — seeds are dispersed extremely slowly; the thick-walled pods persist on the tree through winter and may lie on the ground for years before germinating; self-seeding is rarely a management concern; not listed as invasive by any state in the lower 48; not on the USDA PLANTS invasive list; one of the least weedy large trees available"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8 — exceptional cold hardiness; one of the hardiest large native trees available; performs well across the full temperature range of the lower 48 with the possible exception of the hottest Zone 9+ areas of the deep South and desert Southwest; no meaningful heat zone upper limit for most gardeners"
+    }
+  },
+  "description": {
+    "height": "60-80' in ideal conditions in the wild; typically 40-60' in cultivation; a massive, stately canopy tree — one of the largest nitrogen-fixing trees native to eastern North America",
+    "spread": "40-60' at maturity; an architecturally imposing specimen; requires substantial space",
+    "spacing": "40-50' from structures and other large trees; site with its mature footprint in mind from day one",
+    "growthRate": "Moderate — 1-2' per year; faster on good soil with adequate moisture; not a fast pioneer like Caragana but substantially faster than oak",
+    "timeToMaturity": "Begins nitrogen fixation from year 1; canopy presence meaningful by year 10-15; full stature at 30-50 years",
+    "lifespan": "Long-lived; 100-150 years; a multigenerational planting",
+    "deciduousEvergreen": "Deciduous — one of the most distinctive phenological signatures of any eastern tree: among the very last trees to leaf out in spring (typically mid-to-late May in Zone 6) and among the first to drop leaves in fall; the bare period is long and the crown is openly skeletal for much of the year; leaf-out timing shifts earlier in Zone 7-8 and later in Zone 3-5",
+    "winterInterest": "High — the persistent large seed pods (female trees only) hang dramatically through winter; the coarse, deeply furrowed gray-brown bark and bold branching architecture are visually striking in the winter landscape; a standout winter silhouette tree"
+  },
+  "lightAndWater": {
+    "sun": "Full sun; not tolerant of shade; site in an open, unobstructed location; this holds true across all zones — no regional shade tolerance",
+    "water": "Low to moderate — excellent drought tolerance once established; the deep root system accesses subsoil moisture; in the humid East, established trees rarely need supplemental irrigation; in arid western climates (Zone 7-8 intermountain, Great Plains rain shadow), occasional deep watering during extended drought may be needed until the taproot is fully established",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates clay, poor drainage, and compacted urban soils better than almost any other large native tree; also performs in well-drained and dry soils; waterlogging tolerance is good but not unlimited — standing water for weeks at a time will cause decline; overall one of the most drainage-flexible large trees available",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the most clay-tolerant large trees in cultivation; thrives in heavy clay soils across the Midwest, mid-Atlantic, and Pacific Northwest where clay is prevalent; the deep taproot penetrates compacted layers that defeat most species; clay-induced waterlogging during dormancy is well tolerated; no amendments required for establishment in clay, though compost topdressing accelerates early growth; compacted urban clay, construction-fill clay, and native heavy clay are all acceptable"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates mildly alkaline soils; fixes nitrogen across this full range; performs in the slightly acidic soils common in the eastern US and the alkaline prairie soils of the Midwest and Great Plains equally well"
+    },
+    "texturePreference": "Very adaptable — clay, loam, sandy, compacted, and disturbed soils all acceptable; not fussy; one of its primary values in restoration and food forest contexts is precisely this adaptability to substandard soil",
+    "rootCharacter": "Deep taproot with lateral spreading roots; nitrogen-fixing root nodules (Rhizobium bacteria — subfamily Caesalpinioideae nodulates less reliably than the Papilionoideae subfamily, but nodulation and nitrogen fixation are well-documented in field conditions); inoculation with appropriate Rhizobium strains at planting is recommended to ensure nodulation"
+  },
+  "bloom": {
+    "bloomTime": "Late May to early June — coincides with leaf-out; the flowers emerge as the enormous leaves are expanding; timing shifts earlier (late April) in Zone 7-8 and later (early June) in Zone 3-5",
+    "bloomDescription": "Small greenish-white to cream-colored flowers borne in terminal panicles 4-12\" long; male flower clusters are shorter and more compact; female clusters are longer and looser; individually modest but collectively pleasant; the flowers are not the primary ornamental feature of this tree",
+    "fragrance": "Mildly fragrant — pleasant but not strongly scented",
+    "flowerSex": "Dioecious — male and female flowers on separate trees; both must be present within pollinator range for seed production; most nursery stock is male (no pods = no litter; cleaner landscape tree)",
+    "pollination": "Primarily bees; also visited by other generalist pollinators; requires a male tree within range for female trees to set pods"
+  },
+  "yield": {
+    "edibleParts": "Seeds — ONLY after thorough roasting; see Cautions below; historically roasted and used as a coffee substitute (the origin of the common name); the flavor is reported as coffee-like but inferior; roasting destroys the toxic alkaloid cytisine; this is a niche historical use, not a primary food forest yield",
+    "harvestSeason": "Pods ripen and persist through fall and winter; harvest from female trees after pods brown and dry on the tree",
+    "medicinalUses": "None in current use; historical Native American medicinal uses documented for various parts; not a contemporary herbal medicine plant",
+    "craftOtherYield": "Timber — the wood is extremely durable, rot-resistant, heavy, and strong; historically valued for railroad ties, fence posts, and cabinetry; one of the most durable native hardwoods; a long-term timber value on large properties; the pods yield a soap-like saponin (historically used as a soap substitute); nitrogen-rich leaf litter from the bipinnate leaves decomposes readily and is an excellent mulch contribution"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "SIGNIFICANT — seeds and pods contain cytisine, a toxic quinolizidine alkaloid with nicotinic receptor activity; consumption of raw seeds or pods can cause nausea, vomiting, diarrhea, and in sufficient doses more serious poisoning; the pulp inside the pods is also toxic; thorough roasting destroys cytisine and renders the seeds safe — the historical \"coffee\" use relied on this; do not consume any part of this plant raw; treat with caution around children who may be attracted to the large persistent pods; the leaves and young shoots are also considered toxic",
+    "toxicityAnimals": "Toxic to livestock and pets — the pods and seeds are toxic to horses, cattle, dogs, and cats; the persistent pods on the ground beneath female trees present a grazing and foraging hazard; male trees (no pods) are the safer choice for sites with livestock access; if siting near a pasture, plant only male cultivars",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy — a large to very large canopy tree; the anchor layer in a mature food forest"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary functional role — a uniquely valuable combination of large native canopy tree + nitrogen fixation; there are very few nitrogen-fixing trees that reach true canopy stature in eastern North America; this is one of them)",
+      "Timber (long-term; exceptional wood quality)",
+      "Biomass / Leaf Litter (the enormous bipinnate leaves break down readily and contribute nitrogen-rich organic matter)",
+      "Spring Ephemeral Facilitator (the extremely late leaf-out allows full light penetration to the understory through the entire spring wildflower season; an exceptional quality for underplanting with spring ephemerals, early bulbs, and light-hungry understory plants)",
+      "Shelter / Habitat Structure"
+    ],
+    "companionPlants": [
+      "Spring ephemerals (bloodroot, trout lily, trillium, Virginia bluebells — all benefit enormously from the late-leafing canopy and can complete their lifecycle before canopy closure); pawpaw (tolerates partial shade and benefits from nitrogen fixation); comfrey (mineral accumulator under the drip line); ramps (Allium tricoccum — shade-tolerant and spring-active, ideal timing match); fruit trees planted at sufficient distance to benefit from lateral nitrogen movement; native wildflower groundcovers that can tolerate the deep summer shade once the canopy closes"
+    ],
+    "antagonists": [
+      "None documented; the deep shade cast once fully leafed is the primary design constraint — understory selections must be truly shade-tolerant for summer conditions"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and generalist pollinators at bloom time; squirrels and deer browse the fallen pods and crack open the seeds; songbirds use the large crown for perching and nesting; the coarse bark provides habitat for bark-gleaning birds (nuthatches, creepers)",
+    "hostPlantFor": "Limited documented Lepidoptera use — not a high-value caterpillar host compared to oaks or cherries; the ecological wildlife value is primarily structural (large canopy habitat) rather than host-plant-based",
+    "nestingHabitat": "The large, open crown and stout branch architecture provide excellent nesting sites for large birds (hawks, owls, orioles); a mature Coffeetree is a significant wildlife habitat structure in its own right"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good-excellent",
+      "description": "Good to excellent — not a preferred browse species; the coarse texture and reportedly unpalatable foliage deter deer; young saplings may need temporary fencing or caging until established (first 3-5 years), as with any young tree; once past sapling stage, deer damage is rarely significant"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates urban road salt and maritime salt spray; widely used as a street tree in harsh urban environments with heavy winter salting; recovers well from incidental salt exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — the deep taproot accesses subsoil moisture; among the most drought-tolerant native canopy trees across all zones where it is grown; establishment watering (first 2-3 summers) is important in all climates"
+    },
+    "other": "Outstanding urban tolerance — compacted soil, poor drainage, air pollution, heat island conditions, and construction disturbance are all within its tolerance range; one of the most stress-resilient large native trees available; also tolerates occasional flooding and wet-foot conditions better than most large trees; wind-firm once established due to the deep taproot; no significant ice storm vulnerability"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — after a standard establishment period (2-3 years with supplemental watering during drought), this tree requires essentially no intervention; no significant pest or disease issues anywhere in the lower 48; no routine spraying, no significant disease management",
+    "pruningNotes": "Structural pruning in youth (first 5-10 years) to establish a strong central leader and well-spaced scaffold branches is worthwhile on a tree of this ultimate size; prune in late winter before bud break; remove any co-dominant leaders early; once established, pruning needs are minimal; female trees: fallen pods beneath the tree will accumulate — rake if aesthetically objectionable, or allow them to decompose slowly (they are slow to break down); male trees avoid this entirely",
+    "propagationMethods": [
+      "Seed — scarification required; the seed coat is extremely hard; nick or file the seed coat",
+      "then soak in hot (not boiling) water for 24-48 hours before sowing; germination is reliable after scarification; sow in deep containers to accommodate the taproot; direct sow in fall for natural cold stratification and spring germination. Root cuttings are possible. Named male cultivars are propagated by grafting."
+    ]
+  },
+  "cultivarNotes": "For most food forest and permaculture applications across all zones, the straight species grown from local-provenance seed is the best choice — maximum genetic diversity and ecological compatibility. However, for sites where pod litter is a concern (near paths, driveways, livestock areas, or anywhere children play), a male cultivar eliminates pod production entirely.\nZone 3-5 (upper Midwest, northern Plains, northern New England): 'Prairie Titan' is an excellent choice — strong central leader, good storm resistance, and proven performance in extreme cold; 'Espresso' also performs well in this range but may be slower to establish in very short growing seasons.\nZone 6-7 (mid-Atlantic, southern Midwest, transition South, Pacific Northwest): All major cultivars perform well in this range. 'Espresso' (male, no pods) is the most widely available named cultivar — dense, symmetrical habit, consistent form; the standard recommendation for clean landscape use. 'Stately Manor' is another male form with a narrower habit suited to tighter spaces. For food forest plantings where seed production and the full wildlife/historical interest of the pods is desired, source a female or allow mixed-sex seedlings to develop and identify sex at maturity (sex is not determinable until first flowering, typically 10+ years).\nZone 8 (upper South, Pacific NW lowlands): The species performs adequately but is at the warm edge of its preferred range; growth may slow in prolonged summer heat; ensure deep mulching and adequate soil moisture during establishment. All male cultivars are suitable; straight species from southern-provenance seed (Tennessee, Kentucky, Arkansas origin) may show better heat adaptation.\nIf inoculating at planting, use a Rhizobium inoculant labeled for Caesalpinioideae or Gymnocladus — do not assume standard garden pea inoculant is a match; consult the inoculant supplier.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Canopy anchor for large food forest guilds; nitrogen-fixing shade tree; specimen tree for large properties; native landscape tree; long-term timber investment; spring ephemeral garden canopy"
+    ],
+    "designPlacement": "A large tree requiring 40-50' of clear space at maturity — site with the full mature footprint in mind from planting day. Best positioned as a canopy anchor in food forest plantings, at property perimeters, or as a standalone specimen in large yards. The late leaf-out (among the last deciduous trees to produce foliage each spring) makes it an exceptional canopy for underplanting with spring ephemerals — trout lilies, bloodroot, trilliums, ramps, and Virginia bluebells can complete their entire spring lifecycle before canopy closure. The nitrogen fixation benefits the entire surrounding guild via root contact and leaf litter over time. Not appropriate for small garden beds, confined foundation plantings, or areas with less than 40' of open space in any direction. Avoid siting female trees where fallen pods will create litter on walks, drives, or play areas unless this is acceptable.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gymnocladus_dioicus",
+    "inaturalist": "https://www.inaturalist.org/taxa/163451-Gymnocladus-dioicus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a872"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Marginally native to Pennsylvania — the natural range barely extends into southwestern PA; widely cultivated throughout the state as an ornamental and landscape tree; for practical purposes, treat as a native-adjacent species with full ecological compatibility in Zone 6a",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on PA Dept. of Agriculture noxious weed list, not flagged by DCNR; same as general Invasive field",
+      "drainage": "The construction-disturbed red clay at the Hegins site is well within this tree's tolerance range; no amendment or raised bed needed — plant directly into native soil with a generous mulch ring; the compaction and poor drainage that challenge most trees are non-issues for Gymnocladus",
+      "soil": "The Hegins red clay requires no special preparation for this species; plant directly into undisturbed or construction-disturbed clay; the tree's deep taproot and tolerance for compaction make it one of the easiest large trees to establish on this site",
+      "cultivarNotes": "'Espresso' is the cleanest landscape choice and is readily available from PA and mid-Atlantic nurseries. For a food forest guild at the Hegins site, the straight species from Ohio Valley or central PA provenance is preferred for maximum genetic diversity and ecological fit. If sourcing a female tree for pod interest, pair with a male within 200' for pollination.",
+      "designPlacement": "Not a candidate for Sections A, B, or C (all too small and too confined). Placement should be in the main food forest area or at the property perimeter where the mature 40-60' spread can be accommodated. Ideal positioning: anchor the food forest canopy layer toward the center or back of the planting area; underplant with spring ephemerals that exploit the late leaf-out window. Consider this a long-term investment planting — the tree will be modest for 10 years, meaningful for 20, and extraordinary at 40.",
+      "siteObservations": "The construction-disturbed red clay soil on this property is a non-issue for Gymnocladus — it is one of the most clay- and compaction-tolerant large trees available. Deer pressure from the east wildlife corridor is low-risk for this species once past the sapling stage; cage or fence young trees for the first 3-5 years as a precaution. The late leaf-out (mid-to-late May in Zone 6a) is a significant design advantage at this site — spring light penetration to the understory guild will be complete through the entire spring ephemeral season. Drainage issues after heavy rain at this site will not affect an established Gymnocladus."
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "viburnum-dentatum",
+  "name": {
+    "commonName": [
+      "Arrowwood Viburnum"
+    ],
+    "latinName": "Viburnum dentatum",
+    "family": "Adoxaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Maine to Minnesota south to Georgia and Texas; found in moist woodland edges, stream banks, forest margins, and disturbed areas throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from the Great Lakes to the Gulf Coast; one of the most widespread native shrubs in the eastern hardwood forest region; found in every state east of the Great Plains"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; not listed on any state noxious weed list or USDA invasive species database; a well-behaved native that spreads slowly by suckering but does not escape cultivation or naturalize aggressively"
+    },
+    "zone": {
+      "min": 2,
+      "max": 8,
+      "description": "2-8"
+    }
+  },
+  "description": {
+    "height": "6-10'; can reach 15' in ideal conditions; most garden plants stay in the 6-10' range",
+    "spread": "6-10'; forms a dense, upright to rounded, multi-stemmed shrub; spreads slowly by suckering to form thickets over time",
+    "spacing": "5-8' from other shrubs; for massed wildlife plantings, 5-6' on center",
+    "growthRate": "Moderate to fast",
+    "timeToMaturity": "First fruit typically years 3-4; full fruiting display from year 5 onward; requires cross-pollination with a second genetically distinct V. dentatum plant for reliable fruit set",
+    "lifespan": "Long-lived; multi-decade shrub; essentially permanent in suitable habitat",
+    "deciduousEvergreen": "Deciduous — glossy dark green leaves through summer; fall color highly variable by cultivar — the species itself turns yellowish to reddish; named cultivars like 'Autumn Jazz' deliver exceptional orange, red, and burgundy fall color",
+    "winterInterest": "Low to moderate — attractive multi-stemmed branching structure; persistent blue-black berry clusters into early winter before birds strip them"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive in full sun; tolerates part shade well without significant loss of vigor; adaptable across a wide light range",
+    "water": "Medium; prefers consistent moisture; native to moist woodland edges and stream banks; tolerates wet conditions and periodic saturation better than most shrubs; also tolerates drier conditions once established",
+    "drainagePreference": {
+      "description": "Moist, well-drained to wet; one of the most drainage-adaptable native shrubs — performs in rain gardens, wet-edge plantings, and average garden soils; does not require wet conditions but thrives in them; poor drainage and periodic saturation are tolerated without root damage, unlike most fruiting shrubs",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — V. dentatum is one of the most clay-tolerant native shrubs; its fibrous root system handles heavy clay without the rot or compaction damage that limits many species; performs well in unamended clay-loam and even heavy clay provided moisture is adequate; no amendments required in most clay soils, though organic matter incorporation at planting improves establishment speed"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.8,
+      "description": "5.5-6.8; prefers slightly acidic; broadly tolerant"
+    },
+    "texturePreference": "Adaptable — performs well in moist loam, clay-loam, and average garden soils; tolerates heavy clay better than most fruiting shrubs; accepts sandy soils if moisture is consistent",
+    "rootCharacter": "Fibrous spreading root system; suckering over time can form a colony; remove suckers if a contained single-specimen form is preferred"
+  },
+  "bloom": {
+    "bloomTime": "May-June — late spring to early summer; one of the later viburnums to flower",
+    "bloomDescription": "Flat-topped flower clusters (corymbs) 2-4\" across; individual flowers small and creamy white; not showy individually but the flat corymb form is outstanding for pollinators — the open, accessible flower structure makes nectar available to a wide range of native bees; flowers held well above the foliage; a plant in full bloom is heavily visited",
+    "fragrance": "Not fragrant — V. dentatum is one of the non-fragrant viburnums; the appeal is ecological rather than sensory",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Requires cross-pollination — V. dentatum is self-incompatible and requires a second, genetically distinct V. dentatum plant for reliable fruit production; this means two different seedlings or two different named cultivars; a different Viburnum species will not work. Plant at least two different selections within 30-50 ft of each other. Without cross-pollination, flowering is abundant but fruit set is minimal."
+  },
+  "yield": {
+    "edibleParts": "Fruit (small, 0.25\" blue-black drupes; technically edible but mildly bitter and astringent raw; not palatable for most people as fresh eating; historically used by Native Americans; primarily a wildlife crop rather than a human food crop); seeds (not practical); bark (traditional medicinal use — see below)",
+    "harvestSeason": "Fruit August-October; typically gone within days to weeks once birds locate them",
+    "medicinalUses": "Bark used traditionally by Native Americans as an antispasmodic and for muscle cramping (the genus name Viburnum encompasses plants sometimes used as uterine antispasmodics; limited modern research; not a primary medicinal plant for general use)",
+    "craftOtherYield": "Historical arrow shafts — the common name \"Arrowwood\" directly references the use of the straight, hard, young stems by Native Americans as arrow shafts; the stems are notably straight-grained and strong; a genuinely practical craft material"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Berries mildly bitter and astringent; not known to be significantly toxic but not recommended for eating in quantity; the fruit is primarily a wildlife food",
+    "toxicityAnimals": "Not documented as significantly toxic; berries may cause mild gastrointestinal upset if consumed in quantity by dogs or cats; not a high-risk plant",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Wildlife Support (primary role — exceptional fruit and cover for birds)",
+      "Native Plant Contribution (high-priority native for eastern US ecosystems)",
+      "Insect Attractor (outstanding native bee plant)",
+      "Erosion Control (fibrous root system stabilizes moist banks and edges)",
+      "Windbreak / Screen",
+      "Craft Yield (arrow shaft material — historical)"
+    ],
+    "companionPlants": [
+      "Lindera benzoin (spicebush — same ecological community; moist woodland edge)",
+      "Sambucus canadensis (elderberry — similar habitat and bird-attracting roles; staggered fruiting season extends the wildlife buffet)",
+      "Asimina triloba (paw paw — all three native to moist eastern woodland edges)",
+      "Matteuccia struthiopteris (ostrich fern — moist understory ground cover beneath)",
+      "native Carex species (sedges — ground layer companion in wet-edge and rain garden plantings)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Birds (primary attractor — blue-black berries consumed by over 35 bird species; heavy use by thrushes — veery, wood thrush, hermit thrush; American robin, gray catbird, eastern bluebird, cedar waxwing, and many migrating species eat the fruit heavily; the fruiting season in August-October coincides with fall migration, making this one of the most important native shrubs for refueling migratory birds); native bees (flat-topped flower clusters are exceptionally accessible to bees — visited by bumblebees, sweat bees, mining bees, and many other native bee species during the June bloom); butterflies (nectar source)",
+    "hostPlantFor": "Spring Azure butterfly (Celastrina ladon) — V. dentatum is a documented larval host plant for the Spring Azure, one of the earliest spring butterflies; the caterpillars feed on the flower buds and developing fruit; host plant status makes this a meaningful contribution to the full insect food web beyond just the flower nectar value",
+    "nestingHabitat": "Excellent — the dense, multi-stemmed thicket habit provides outstanding nesting cover for small and medium-sized birds; catbirds, robins, and thrushes commonly nest within dense viburnum colonies; the layered interior of a mature clump is particularly valued as cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse viburnum but it is not a preferred target; the dense multi-stemmed habit means browsing is generally tolerable and the plant recovers well; better deer resistance than many fruiting shrubs; young transplants should be protected in the first two seasons in areas with heavy deer pressure"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; tolerates incidental road salt exposure but not direct salting; more tolerant than many woodland-edge shrubs but not suitable for immediate roadside planting"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; prefers consistent moisture but established plants handle short dry periods; not a drought-tolerant plant by nature; in Zone 8+ or arid western climates, supplemental irrigation is essential"
+    },
+    "other": "Outstanding cold hardiness — rated to Zone 2; tolerates periodic flooding and wet soils; tolerates heavy clay and compacted soils; wind-tolerant; one of the most adaptable native shrubs for difficult moist-site conditions across the eastern US"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — one of the least demanding native shrubs",
+    "pruningNotes": "Minimal pruning needed. Blooms on old wood — do not prune in fall or winter (removes next year's flower buds). Light shaping immediately after flowering in late June if needed. To manage size or rejuvenate an old shrub, remove the oldest, thickest canes to the base in early spring; V. dentatum responds well to renewal pruning. Allow some suckering if a naturalistic thicket colony is the goal; remove suckers promptly if a contained form is preferred. Viburnum leaf beetle (Pyrrhalta viburni) can be a concern — inspect leaves in spring for egg-laying scars on young twigs; the larvae skeletonize leaves in May-June. Hand-pick larvae when populations are low; prune and destroy infested twigs in late summer to remove egg masses before they hatch. V. dentatum is considered moderately susceptible; in most gardens this pest is cosmetic rather than lethal, but dense plantings in humid sites can see significant defoliation in bad years. Monitor annually.",
+    "propagationMethods": [
+      "Hardwood cuttings (late fall/winter — reliable)",
+      "softwood cuttings (early summer — moderately easy)",
+      "seed (requires double dormancy — warm + cold stratification; 18 months to germination; slow but straightforward)",
+      "division of rooted suckers (simplest for home gardeners)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "The straight species is fully appropriate for wildlife gardens and naturalistic plantings — wild-type plants have the fullest genetic diversity and ecological value. For ornamental settings where fruit production and fall color matter:\n'Autumn Jazz' ('Ralph Senior') — 8-10' tall; outstanding fall color in orange, red, and burgundy; good fruit production; widely available; performs well across Zones 4-7; one of the best all-around ornamental selections.\n'Blue Muffin' ('Christom') — compact 3-5' tall; proportionally heavy fruiting; considered one of the best selections specifically for fruit production and bird-attracting value; excellent for small spaces, rain gardens, and foreground positions where a full-sized viburnum would be too large; reliable across Zones 3-7.\n'Chicago Lustre' — vigorous 8-10'; glossy, attractive foliage; reliable; good for screening and massed plantings; not as notable for fall color as 'Autumn Jazz' but a dependable workhorse across Zones 3-8.\nCross-pollination reminder: Any two of these cultivars will cross-pollinate each other reliably. Do not rely on a single cultivar planted alone — fruit set requires genetic cross. 'Blue Muffin' + 'Autumn Jazz' is a particularly effective pairing that covers both compact and large-shrub niches while ensuring mutual pollination.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native plant garden",
+      "food forest edge and shrub layer",
+      "rain garden",
+      "moist-site planting",
+      "wildlife garden",
+      "stream bank stabilization",
+      "naturalistic massed planting for birds"
+    ],
+    "designPlacement": "Shrub layer at the food forest edge or garden perimeter — V. dentatum serves as both a wildlife corridor element and a moist-area anchor. The blue-black berries in August-October are a critical seasonal resource for fall-migrating birds. Plant in masses (minimum two plants for cross-pollination; three or more for maximum fruit production and cover) along woodland edges, moist back corners, or any wet-edge area. The late summer-fall fruiting season fills an important gap between early summer elderberry and late fall spicebush berries. For maximum wildlife impact, combine with Sambucus canadensis and Lindera benzoin to create a continuous native fruiting sequence from July through October. 'Blue Muffin' is the best option if space is limited; the straight species or 'Autumn Jazz' for larger areas.",
+    "acquisitionStatus": "To source (native plant nursery; specify at least two different selections or cultivars for cross-pollination)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Viburnum_dentatum",
+    "inaturalist": "https://www.inaturalist.org/taxa/82247-Viburnum-dentatum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=278980"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — V. dentatum is native to Pennsylvania; extremely common in the wild throughout the state, found in moist woodland edges, stream banks, and forest margins statewide",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR; a high-value native species actively recommended for restoration plantings in the state",
+      "drainage": "The red clay at Hegins is a non-issue for V. dentatum; plant directly in-ground without raised beds; the species is native to clay-heavy woodland soils throughout PA and thrives in them; if planting into construction-compacted clay, break up the compaction in a wide planting hole and backfill with native soil mixed with compost to speed root establishment",
+      "soil": "Red clay at Hegins is well within tolerance; no amendment required for established plantings; compost incorporation at planting helps in construction-disturbed areas but is not strictly necessary for this species",
+      "cultivarNotes": "'Autumn Jazz' is the top ornamental pick for fall color impact; 'Blue Muffin' is ideal for smaller spaces or rain garden foreground. Either pairing with the straight species or with each other ensures cross-pollination. All three cultivars are fully reliable in Zone 6a.",
+      "designPlacement": "Food forest edge — plant along the food forest perimeter where it can anchor the moist-area wildlife corridor. The Hegins valley migration path makes fall-fruiting shrubs especially valuable here. Pair at least two different selections for cross-pollination. Tolerates the red clay site without amendment.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a moderate concern for young transplants — protect new plants with cages or fencing for the first two seasons until established; mature plants tolerate browsing without significant damage. The red clay soil and drainage issues on site are non-limiting for this species. V. dentatum is one of the most site-appropriate native shrubs for this property."
+    }
+  }
+}

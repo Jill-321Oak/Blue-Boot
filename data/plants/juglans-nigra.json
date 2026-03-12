@@ -1,0 +1,177 @@
+{
+  "id": "juglans-nigra",
+  "name": {
+    "commonName": [
+      "Black Walnut",
+      "Eastern Black Walnut"
+    ],
+    "latinName": "Juglans nigra",
+    "family": "Juglandaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from southern Ontario south to Florida and west to the Great Plains; one of the most ecologically important and widely recognized native nut trees of the eastern deciduous forest",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the eastern US from the Atlantic coast west to the Great Plains (roughly east of a line from South Dakota through central Texas); found in every state east of the 100th meridian; most abundant in the central hardwood region (Ohio River Valley, Missouri, Iowa, Indiana, Illinois); naturalized in some western states where planted but not invasive outside its range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not listed on any state noxious weed list; spreads by squirrel-cached nuts — seedlings appear readily in undisturbed soil but are easily managed and do not form monocultures or displace native vegetation; not considered invasive anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "50-75' at maturity in open conditions; can reach 100'+ in ideal forest conditions with competition",
+    "spread": "50-75'; large, wide-spreading crown at maturity; requires significant horizontal space",
+    "spacing": "50-80' minimum from sensitive plants due to juglone allelopathy; allow 60'+ of open space for full canopy development; do not crowd",
+    "growthRate": "Moderate; 12-24\" per year under good conditions once established; faster with adequate moisture and fertility",
+    "timeToMaturity": "First nut production in 4-7 years from seed; meaningful nut crops in 10-15 years; full production at 30+ years; timber value increases with age over decades",
+    "lifespan": "Long-lived; 150-250+ years; mature trees are significant ecological and financial assets",
+    "deciduousEvergreen": "Deciduous — large pinnately compound leaves (15-24\" long, with 15-23 leaflets); bright yellow-green in summer; yellow fall color; leafs out late in spring and drops early in fall",
+    "winterInterest": "Low — bare in winter; striking architectural branch structure; the deeply furrowed, dark gray-black bark is distinctive and beautiful at close range"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; needs at minimum 6 hours of direct sun for good nut production; tolerates light shade when young but becomes increasingly sun-demanding with age",
+    "water": "Medium; moderately drought tolerant once established; prefers consistent moisture for best nut production; tolerates wet soils better than many trees but not standing water",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to rich bottomlands and stream valleys; tolerates a range of drainage conditions but performs best where water moves through the root zone rather than sitting; avoid sites with persistent standing water or seasonal waterlogging — root rot risk increases in saturated soils",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — black walnut tolerates heavy clay better than most nut trees, given its native range includes extensive clay-bottomed river valleys and bottomlands throughout the Midwest and mid-Atlantic; the deep taproot penetrates below the clay pan where possible, and the lateral root system adapts to clay structure; growth rate and nut production will be somewhat reduced compared to deep loam, but established trees perform well; amending the planting area with organic matter and ensuring surface drainage helps during establishment; avoid compacted clay where water pools for extended periods"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acid to neutral preferred; tolerates a range of pH from about 5.5 to 7.5 without significant decline"
+    },
+    "texturePreference": "Deep, moist, fertile loam preferred; native to alluvial and rich woodland soils; grows successfully in clay, sandy loam, and silt loam but production is best in well-structured soil with good organic matter content and at least 3-4' of root-penetrable depth",
+    "rootCharacter": "Deep taproot plus extensive lateral roots; the lateral roots extend well beyond the drip line (50-80' radius) and are the primary source of juglone allelopathic compounds; roots are difficult to remove once established; plant carefully — final siting is essentially permanent"
+  },
+  "bloom": {
+    "bloomTime": "April-May; blooms as leaves emerge",
+    "bloomDescription": "Monoecious — male and female flowers borne separately on the same tree; male catkins are long (2-5\"), drooping, yellow-green, and appear in clusters from the previous year's wood; female flowers are small, inconspicuous, appearing at the tips of new growth in small clusters; wind-pollinated; flowers are not showy",
+    "fragrance": "Leaves and husks are strongly and distinctively aromatic when crushed — the characteristic black walnut scent is familiar throughout the eastern US; the aroma is pleasant to many, pungent and medicinal",
+    "flowerSex": "Monoecious — male and female flowers on the same tree",
+    "pollination": "Wind-pollinated; generally self-fertile for nut production, though cross-pollination with another tree often improves yield and nut size; a single tree will produce nuts"
+  },
+  "yield": {
+    "edibleParts": "Nut (the black walnut kernel is intensely flavored — far more pungent, complex, and assertive than English walnut; excellent in baked goods, cookies, cakes, banana bread, ice cream, and savory dishes; a little goes a long way given the bold flavor; the kernel requires significant effort to extract — the shell is extraordinarily hard and requires a specialized nut cracker or heavy-duty equipment; crushing under foot to remove the husk, then drying nuts for several weeks before cracking is the traditional approach; the work is real but the flavor is exceptional and unlike anything commercially available)",
+    "harvestSeason": "September-October; nuts fall when ripe and should be collected promptly before mold sets in; wear gloves — the husks stain skin a persistent dark brown-black (juglone-based dye) that lasts for days to weeks",
+    "medicinalUses": "Green unripe husks are used in traditional medicine; juglone has documented antimicrobial and antifungal properties; black walnut tincture (made from green husks) is used traditionally as a treatment for intestinal parasites and worms; the husk is used externally as an antifungal remedy for athlete's foot and ringworm; the leaves have been used in folk medicine as an astringent; note that juglone is biologically active — use tinctures with knowledge and appropriate caution",
+    "craftOtherYield": "Husk dye — the green husks yield a rich dark brown to black natural dye that is one of the most colorfast natural dyes available; used for dyeing wool, fabric, and fiber; historically used as an ink; the timber — black walnut wood is among the most valuable native hardwoods in North America; the dark, chocolate-brown wood is prized for furniture, gunstocks, and fine woodworking; a mature black walnut is a significant financial asset; shells — the extremely hard shells have industrial uses (blasting media, water filtration, cosmetics abrasive); syrup — the sap can be tapped in early spring similar to maple, though less sweet and more labor-intensive; the flavor is distinctive"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The nut is safe to eat; the husks and raw plant material contain juglone which can irritate skin; husk staining is persistent and cosmetically annoying but not dangerous; tinctures from green husks are medicinally active and should not be taken in excess",
+    "toxicityAnimals": "Black walnut is toxic to horses — the sawdust, shavings, and hulls should never be used in horse bedding or enclosures; horses can develop laminitis from contact with black walnut wood shavings; keep horses away from areas where nuts and husks fall; moderately toxic to dogs if nuts are consumed in quantity (due to mold on fallen nuts producing tremorgenic mycotoxins); cats are not typically affected; the primary concern for livestock is horses",
+    "allelopathy": "DEFINING CHARACTERISTIC — black walnut produces juglone (5-hydroxy-alphanaphthoquinone), an allelopathic compound released through its roots, leaves, and husks; juglone is toxic to a wide range of plants within the root zone, which typically extends 50-80' from the trunk but is most concentrated within the drip line; juglone-SENSITIVE plants that will die or decline within the root zone include: tomatoes, peppers, potatoes, eggplant, apples, pears, cherries, peaches, blueberries, rhododendrons, azaleas, blackberries, raspberries, lilacs, white pines, and many others; this constraint fundamentally shapes food forest design — black walnut MUST be sited where its root zone will not overlap with desired production areas; decomposed leaves and composted husks still carry residual juglone; DO NOT compost black walnut material for use near sensitive plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (high-value, intensely flavored native nut — one of the most nutritious native foods in eastern North America)",
+      "Timber / Long-term Asset (significant financial value in the wood)",
+      "Medicinal",
+      "Wildlife Support (exceptional ecological value as a mast producer and insect host)",
+      "Dynamic Accumulator (deep taproot mines subsoil nutrients; leaf litter is nutrient-rich)",
+      "Windbreak / Shelter (large canopy provides wind and sun moderation at property scale)",
+      "Natural Dye Source"
+    ],
+    "companionPlants": [
+      "Juglone-tolerant plants ONLY within the root zone — black walnut has a very constrained companion plant list; confirmed tolerant companions include: Asimina triloba (pawpaw — notably juglone-tolerant and an ideal understory companion)",
+      "Zea mays (corn)",
+      "Phaseolus vulgaris (beans)",
+      "most grasses",
+      "Beta vulgaris (beets)",
+      "Daucus carota (carrots)",
+      "Allium spp. (onions, garlic)",
+      "Echinacea purpurea (purple coneflower)",
+      "Rudbeckia hirta (black-eyed Susan)",
+      "many native woodland wildflowers (Trillium, Bloodroot, Jack-in-the-Pulpit)",
+      "Virginia creeper",
+      "elderberry (Sambucus canadensis)",
+      "osage orange",
+      "black raspberry; plant the full production food forest well outside the 50-80' juglone radius"
+    ],
+    "antagonists": [
+      "The juglone root zone is an antagonist to a very long list of highly desirable food plants — tomatoes",
+      "peppers",
+      "potatoes",
+      "apples",
+      "pears",
+      "cherries",
+      "blueberries",
+      "raspberries",
+      "blackberries",
+      "and many ornamentals will be severely harmed or killed within the root zone; site planning must treat the black walnut juglone zone as a permanent exclusion area for these plants; also note that fallen husks and decomposing leaves deposit juglone into the soil directly beneath the canopy"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Squirrels (primary nut dispersers — caching is responsible for most natural regeneration), wild turkeys, black bears, white-tailed deer, wood ducks, raccoons, and many other mammals and birds that consume the nuts; an exceptional mast producer for wildlife",
+    "hostPlantFor": "An extraordinarily rich insect host tree — J. nigra hosts 100+ species of Lepidoptera (moths and butterflies) in eastern North America, including the regal moth (Citheronia regalis, whose caterpillar — the hickory horned devil — is spectacular), luna moth (Actias luna), walnut sphinx moth (Amorpha juglandis), and many others; the ecological web supported by this tree is one of the most complex of any native tree in the eastern US; as a host plant, black walnut is in the same ecological tier as oaks",
+    "nestingHabitat": "Excellent; mature trees with large, spreading canopies provide nesting sites for many cavity-nesting birds as the tree ages; the canopy structure supports many bird species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — mature trees are not significantly browsed; young seedlings and saplings may have some tip browsing but the tree is not a primary deer target; the foliage has a strong aromatic quality that tends to deter browsing; protect young transplants with tree tubes or wire cages in areas with heavy deer pressure for the first 2-3 years"
+    },
+    "salt": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — not salt-tolerant; avoid planting within road salt spray zones or areas subject to winter salt runoff; foliage and young bark are sensitive to salt accumulation"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established trees handle drought reasonably well given the deep taproot; young trees benefit from consistent moisture in years 1-3; in the arid West and southern Great Plains, supplemental irrigation is necessary for establishment and may be needed long-term"
+    },
+    "other": "Highly adaptable once established; tolerates a range of soil types and conditions; very cold-hardy (Zone 4); the late leafing date and early leaf drop reduces frost damage risk; the tree is remarkably self-sufficient once established; tolerates wind well due to deep taproot anchorage; handles humid summers without disease issues"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the primary management tasks are at the design and siting stage",
+    "pruningNotes": "Minimal pruning needed once established. The most important work is in the first 5-10 years: select a strong central leader and remove competing stems; gradually remove lower branches to develop a clear trunk for timber quality (a well-pruned trunk adds significant timber value); prune in late summer or early fall — black walnut bleeds heavily if pruned in late winter or spring, which can stress the tree; the sap flow is not harmful but is aesthetically undesirable. Annual nut collection and husk management: collect fallen nuts promptly; remove husks (use gloves and old clothes — the stain is real and persistent); dry nuts in a single layer for 2-4 weeks before cracking; do not leave husks to decompose near sensitive plants.",
+    "propagationMethods": [
+      "Seed (the primary method; plant fresh nuts in fall immediately after husking — the nut requires natural cold stratification over winter and germinates the following spring; plant 2\" deep; protect from squirrels with hardware cloth; direct seeding in the desired location avoids transplant shock from the taproot; seedlings grow vigorously); grafting (used for named cultivars selected for nut quality — grafted trees begin producing sooner and with more predictable nut characteristics)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are selected for improved nut quality (thinner shells, larger kernels, better crackability) and more consistent production. Cultivar selection matters most for nut production — for pure timber or wildlife plantings, seedling trees from local provenance are preferred and very inexpensive. The allelopathy is consistent across all cultivars — cultivar selection does not affect the juglone issue. **Zone 3-5 (northern tier):** Select cultivars with proven cold hardiness and shorter season requirements; **'Sparrow'** (good kernel percentage, thin shell, productive, hardy) and **'Myers'** (large nut, productive, widely grown, cold-hardy) are reliable choices; grafted trees from Nolin River Nut Tree Nursery or Grimo Nut Nursery are good northern sources; late spring frosts can damage flowers — later-blooming selections help where this is a concern. **Zone 6-7 (mid-latitude):** The widest range of cultivars performs well here — this is the heart of black walnut country; **'Emma K'** (excellent crackability, large kernel, reliable producer — one of the most recommended for home orchards), **'Sparrow'**, **'Myers'**, and **'Kwik Krop'** (selected for early production, good for smaller properties) are all strong performers; source grafted trees from Stark Bro's, Nolin River, or similar nut nurseries. **Zone 8-9 (southern tier):** Black walnut is native to the upper South but performance declines in the Deep South and Gulf Coast due to insufficient winter chill and heat stress; select southern-adapted provenance; nut production may be less consistent; in Zone 9, consider whether Juglans nigra is the right species or whether pecan (Carya illinoinensis) is a better fit for the canopy nut niche.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Canopy anchor at the far edge of the property or property line; windbreak; wildlife support planting; timber investment; natural dye garden component; nut orchard (if space allows the necessary isolation from sensitive plants)"
+    ],
+    "designPlacement": "Black walnut must be sited as a perimeter or far-edge tree due to the 50-80' juglone exclusion zone — this is not optional and shapes the entire garden or food forest design. Place the tree where the juglone root zone extends off-property, into mown grass, or into areas permanently dedicated to juglone-tolerant plantings only. All fruit trees (apples, pears, cherries, peaches), berry patches (blueberries, raspberries, blackberries), nightshade crops (tomatoes, peppers, potatoes), and most ornamental shrubs must be sited well outside the walnut's root zone. Pawpaw (Asimina triloba) is one of the few productive food trees that thrives within the walnut's influence and makes an ideal understory companion. On small lots (under 1 acre), the juglone zone may consume so much of the property that black walnut is not practical — assess available space before committing. On larger properties, even a single tree is a significant long-term ecological, food, and financial asset.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juglans_nigra",
+    "inaturalist": "https://www.inaturalist.org/taxa/54504-Juglans-nigra",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a875"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — J. nigra is native throughout Pennsylvania; common in rich woodland soils, stream valleys, forest edges, and old farmsteads; the large round green-husked nuts are very familiar in rural PA; old trees are frequently found as solitary specimens in pastures and along fence lines where they were left standing during land clearing",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania; same as general Invasive field — no restrictions",
+      "drainage": "At the Hegins site, the red clay and compaction are manageable for black walnut — this species is better adapted to heavy clay than most fruit and nut trees; the deep taproot will eventually penetrate below the disturbed construction zone; amend the planting hole generously with compost and ensure surface grading moves water away from the trunk; no raised bed needed (this is a canopy tree); the clay is a moderate limitation, not a disqualifier",
+      "soil": "The Hegins red clay will support black walnut but is not ideal; amend the planting area with compost to improve structure in the top 12-18\"; the tree's taproot will work through the clay over time; long-term leaf mulch return around the tree will progressively improve the surface soil",
+      "cultivarNotes": "'Emma K' and 'Sparrow' are the top picks; both are well-proven in the mid-Atlantic climate with reliable nut set and good crackability; source grafted trees from Nolin River Nut Tree Nursery or Stark Bro's; for wildlife/timber only, direct-seed nuts collected from healthy local PA trees for best site adaptation.",
+      "designPlacement": "Black walnut is best considered at the outermost edge of the property, where the juglone zone extends off-property or into areas that will not be planted with production plants. The pawpaw guild, apple trees, berry patches, and vegetable beds must all be placed well outside the walnut's root zone. None of the foundation bed sections (A, B, or C) are appropriate — the tree far exceeds the 5' height limits and the juglone zone would compromise all nearby plantings. If space constraints on the Hegins lot make the required 50-80' separation from production areas impossible, black walnut may not be appropriate for this site.",
+      "siteObservations": "The active deer pressure from the east wildlife corridor is not a significant concern for black walnut — deer do not preferentially browse this species, though young transplants should be protected with tree tubes for the first 2-3 years as a precaution. The red clay soil and compaction at the Hegins site are manageable but not ideal — black walnut prefers deep loam, and growth rate will be somewhat slower in the construction-disturbed clay; generous compost amendment at planting and annual leaf mulch return will help. The primary NW/W wind exposure actually favors black walnut as a windbreak element on the property's western or northern boundary. Road salt from the northern border road is a concern if the tree were sited near the front — maintain distance from the salt spray zone."
+    }
+  }
+}

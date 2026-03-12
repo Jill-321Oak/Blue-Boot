@@ -1,0 +1,166 @@
+{
+  "id": "prunus-americana",
+  "name": {
+    "commonName": [
+      "American Plum",
+      "Wild Plum"
+    ],
+    "latinName": "Prunus americana",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — Saskatchewan and Idaho east to Quebec, Maine, and Florida, and south to New Mexico; one of the most widespread native plums on the continent, found from the Great Plains to the Atlantic coast and from southern Canada into the Gulf states",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across most of the eastern and central US — from Montana, the Dakotas, and Nebraska east to the Atlantic seaboard, and south through Texas, Oklahoma, and the Gulf Coast states. Present in nearly every state east of the Rockies. Absent or rare in the Pacific states, the desert Southwest, and the southern tip of Florida. One of the most broadly distributed native Prunus species in the US."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. P. americana is a native species throughout its range and is not listed on any state noxious weed list or the federal noxious weed list. The suckering habit can be aggressive in garden settings but this is vigorous native growth, not invasive behavior — it does not displace native plant communities. No regulatory concerns in any US state."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8; excellent cold hardiness and broad heat tolerance; performs well across most of the eastern and central US without climate-related limitations"
+    }
+  },
+  "description": {
+    "height": "10-15'; occasionally to 20' in ideal conditions; typically grown as a large shrub or small tree; thicket-forming habit means the \"plant\" is often a colony rather than a single specimen",
+    "spread": "10-15' for a single trunk; thickets spread indefinitely via root suckers if unmanaged — plan accordingly",
+    "spacing": "10-15' apart for individual specimens; allow wider spacing if a managed thicket is desired; plant two individuals (or one P. americana + one P. nigra) within 50' for cross-pollination",
+    "growthRate": "Moderate to fast; vigorous once established; root suckers appear within 2-3 years",
+    "timeToMaturity": "First fruit typically years 3-5; full production from year 5-7",
+    "lifespan": "Individual stems 20-30 years; the thicket colony is essentially permanent and self-renewing",
+    "deciduousEvergreen": "Deciduous — showy white spring flowers before leaf-out; clean medium-green summer foliage; modest yellow-orange fall color; structural thorny branching visible in winter",
+    "winterInterest": "Moderate — the thorny, interlocking branch structure of a mature thicket has presence in the winter landscape; some persistent dried fruit if not fully consumed by wildlife"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred for best fruit production; tolerates part shade but flowering and fruiting diminish significantly; site in the sunniest available position; in Zone 8+ regions, light afternoon shade may reduce heat stress but is not required",
+    "water": "Low to medium; drought tolerant once established; native to a wide range of conditions including dry rocky soils and abandoned fields; one of the more drought-tolerant native fruiting shrubs; in arid western regions within its range (western Great Plains), supplemental irrigation during fruit set improves yield",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates dry to medium moisture; prefers well-drained soils but performs in clay-loam and rocky ground; avoids prolonged waterlogging, which promotes root rot and Phytophthora; genuinely tough and site-adaptable across a wide range of drainage conditions",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — P. americana is naturally found in clay-loam, compacted, and disturbed soils across much of its range; tolerates heavy clay better than most fruiting trees; the wide-spreading lateral root system copes with dense soil structure; prolonged waterlogging in poorly drained clay is the main risk, as it can promote root disease; amending the planting hole with compost and ensuring the site is not in a low-lying collection point is sufficient in most heavy-clay situations; no raised bed required"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable; tolerates moderately acidic to neutral soils; performs across the full range of typical eastern and midwestern soil pH without amendment"
+    },
+    "texturePreference": "Adaptable to a wide range — sandy loam, clay loam, rocky or gravelly soils; often found naturally in difficult, disturbed, or lean soils; thrives in conditions that challenge most cultivated fruit trees; heavy clay is acceptable if not waterlogged",
+    "rootCharacter": "Wide-spreading lateral root system; produces root suckers aggressively — this is the primary means by which it forms thickets and the primary management consideration in a designed garden setting"
+  },
+  "bloom": {
+    "bloomTime": "March-April in Zone 7-8; April-May in Zone 4-6; before or just as leaves emerge — one of the earliest native flowering trees; bloom often coincides with early bee emergence",
+    "bloomDescription": "Clusters of 5-petaled white flowers, 0.5-0.75\" wide, densely covering the branches before leaves emerge; the effect of a full-blooming P. americana against a still-bare hedgerow is spectacular — a cloud of white flowers; fragrant",
+    "fragrance": "Pleasantly fragrant — sweet, light, classic Prunus blossom",
+    "flowerSex": "Hermaphrodite (perfect flowers — both male and female parts present)",
+    "pollination": "Requires cross-pollination from another Prunus americana or Prunus nigra (Canada plum) within pollinating distance; self-fertile fruit set is poor to none; bees are the primary pollinators; the early bloom is an important early-season resource for bees"
+  },
+  "yield": {
+    "edibleParts": "Fruit — small round drupes, 0.75-1\" diameter; skin color ranges from red to yellow-orange at full ripeness; flesh is yellow, juicy, and notably tart; not well-suited to fresh eating due to the tartness and relatively thin flesh-to-pit ratio; excellent and highly productive for jams, jellies, preserves, fruit leather, wine, and cooked preparations; flavor is rich and distinctly \"wild plum\" — complex and excellent when processed",
+    "harvestSeason": "July-August; fruit ripens quickly and drops fast — harvest as soon as the fruit softens and colors fully; spread a tarp under the plant to catch fallen fruit if harvesting a large thicket",
+    "medicinalUses": "Bark has traditional use as an astringent and in treatment of fevers (Cherokee, other eastern peoples); inner bark tea used similarly to other native Prunus species; not a primary medicinal plant but with documented traditional use",
+    "craftOtherYield": "Plum wine (excellent); fruit leather; dried plums; wood is hard and fine-grained — suitable for small turned items and tool handles; thorny branch cuttings useful as a natural barrier material"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Fruit flesh is non-toxic; seeds (pits) contain amygdalin (cyanogenic glycoside) as with all Prunus species — do not crush and eat pits in quantity; incidental contact is not a concern; leaves and bark contain similar compounds in small amounts",
+    "toxicityAnimals": "Fruit flesh is safe for birds and wildlife; pits and wilted leaves are toxic to livestock (horses, cattle, sheep) due to cyanogenic glycosides — a real concern in pasture situations; in a managed garden setting this is low risk but worth noting if livestock are present",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Shrub / Sub-canopy (small tree layer); functions as a shrub in thicket form; functions as a small canopy tree when trained as a single-trunk specimen"
+    },
+    "roles": [
+      "Food (fruit — excellent processed yield)",
+      "Wildlife Support (one of the highest wildlife-value native fruiting plants in eastern North America)",
+      "Windbreak / Hedgerow Structure",
+      "Deer Deterrent (thorny thicket perimeter)",
+      "Native Plant Contribution",
+      "Nesting Habitat",
+      "Early Pollinator Support"
+    ],
+    "companionPlants": [
+      "Prunus serotina (black cherry — fits the same native hedgerow ecological community)",
+      "Amelanchier canadensis or A. arborea (serviceberry — similar bloom time, complementary wildlife value)",
+      "Crataegus species (hawthorns — thorny hedgerow companions)",
+      "Sambucus canadensis (elderberry — fills the shrub layer in the same hedgerow ecology)",
+      "Rosa carolina or R. palustris (native roses — thorny hedgerow layer)",
+      "Rhus typhina (staghorn sumac — thicket-forming companion for difficult dry sites)"
+    ],
+    "antagonists": [
+      "Do not plant near Juglans species (black walnut) — juglone toxicity affects Prunus. Monitor for black knot fungus (Dibotryon morbosum / Apiosporina morbosa) — the same disease that devastates European plums; P. americana has meaningful tolerance compared to cultivated plums but is not immune; inspect annually and prune out infected galls."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds — the fruit is consumed by dozens of bird species including American robin, gray catbird, cedar waxwing, northern mockingbird, eastern bluebird, brown thrasher, and many others; the American plum is consistently cited as one of the most important native fruiting plants for birds in the eastern US; bees (early spring flowers — critical early pollen and nectar source); butterflies and beneficial insects throughout the season; small mammals (raccoon, fox, opossum, white-tailed deer) consume fallen fruit",
+    "hostPlantFor": "Multiple native Lepidoptera use Prunus species as larval hosts — the Coral Hairstreak (Satyrium titus) uses native plums specifically; Eastern Tiger Swallowtail (Papilio glaucus), Viceroy (Limenitis archippus), and many moth species including the Cecropia moth (Hyalophora cecropia) and Promethea moth (Callosamia promethea) use Prunus; host plant richness for Prunus species is among the highest of any native genus",
+    "nestingHabitat": "Outstanding — the thorny thicket structure of a mature P. americana colony is prime nesting habitat for shrubland and hedgerow birds; catbirds, brown thrashers, yellow warblers, and song sparrows commonly nest in dense thorny shrubs; the thicket provides protection from predators that few other plants match"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the thorny branch structure deters deer browsing on established plants; young plants without significant thorn development may be browsed and should be protected with caging or fencing for the first 1-2 years; once a thicket establishes, the thorny perimeter is a genuine deer deterrent and can be used strategically to protect the interior of a food forest guild; deer will eat fallen fruit but do not damage the plant structure once thorns are well-developed"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates roadside conditions and incidental salt spray better than many native shrubs; found naturally in disturbed and exposed sites including road margins; recovers from moderate salt exposure without lasting damage"
+    },
+    "drought": {
+      "rating": "good-excellent",
+      "description": "Good to excellent — one of the most drought-tolerant native fruiting shrubs; native to dry rocky soils and exposed ridges; well-suited to lean or disturbed sites once established; in the arid western portion of its range, supplemental water during fruit development improves yield but is not required for survival"
+    },
+    "other": "Highly tolerant of disturbed soils, poor nutrition, and difficult sites; tolerates compacted soils better than most fruiting trees; tolerates wind exposure well and is commonly used in windbreak and shelterbelt plantings across the Great Plains; black knot disease (Dibotryon morbosum) is the primary disease concern — more tolerant than European plums but not immune; monitor annually and prune out galls promptly"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the plant itself is tough and requires little; the thicket management is the ongoing task",
+    "pruningNotes": "The primary maintenance decision is thicket management: either allow the plant to sucker freely and manage a naturalized thicket, or mow around the planting area 2-3 times per growing season to prevent thicket spread and maintain a defined clump. For a single-trunk small tree form, remove all suckers at ground level as soon as they appear — this is a persistent annual task. Prune out any black knot galls immediately upon discovery; cut 4-6\" below the visible gall into clean wood; disinfect tools between cuts; destroy infected material (do not compost). Annual late-winter pruning (February-March) to remove dead wood, crossing branches, and to thin the interior for airflow. For thicket management, remove the oldest and most crowded stems at the base every 3-5 years to maintain vigor and fruit production on younger wood.",
+    "propagationMethods": [
+      "Seed (cold stratification required — 90-120 days at 34-40°F; direct sow outdoors in fall for natural cold stratification; germination the following spring; the standard method for native plantings); root division (dig and transplant rooted suckers — easiest and fastest for home propagation); hardwood cuttings (possible; moderate success); bare-root plants from native plant nurseries (the most reliable source for establishment)"
+    ]
+  },
+  "cultivarNotes": "No significant named cultivars are in wide commercial circulation — P. americana is almost always planted as the straight species, which is appropriate for wildlife, native plant, and permaculture purposes. A few regional selections exist: 'Bounty' is occasionally available in upper Midwest nurseries (Zone 3-5); 'Hawkeye' and 'De Soto' are historic Great Plains selections developed for cold-climate fruit production; 'Newport' appears in some eastern catalogs but offers minimal advantage over the species for hedgerow or food forest use. For Zone 3-5 gardeners in the upper Midwest and northern Plains, the historic selections may offer slightly improved fruit size, but genetic diversity and cross-pollination compatibility are more important than cultivar selection. For Zone 6-7 gardeners across the mid-Atlantic, Ohio Valley, and upper South, the straight species from a regional native plant nursery is the best choice — locally adapted genetics will outperform selections from distant origins. For Zone 8 gardeners in the lower South, confirm the nursery source is from a warm-climate provenance, as northern-origin stock may break dormancy too early in mild winters. In all zones, source at least two plants from different seed lots or nurseries to ensure genetic diversity for cross-pollination. Prunus nigra (Canada plum) is a compatible cross-pollinator and close relative — using one of each species increases genetic diversity.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest edge",
+      "wildlife hedgerow",
+      "native shrub border",
+      "difficult site planting",
+      "perimeter deer-deterrent plantings",
+      "shelterbelt and windbreak",
+      "naturalized meadow edge"
+    ],
+    "designPlacement": "Best positioned at the outer edge or perimeter of a food forest, garden, or property boundary where thicket formation is welcome or where regular mowing can contain spread. The thorny structure creates a wildlife-friendly and deer-resistant perimeter. Avoid placing within a guild interior or confined bed — the aggressive suckering will displace companions. Ideal hedgerow partners include elderberry (Sambucus canadensis), hawthorn (Crataegus spp.), and serviceberry (Amelanchier spp.) for a native fruit-and-wildlife corridor of exceptional value. Plant in full sun for best fruit production. Allow at least 10-15' from structures or managed beds to prevent sucker intrusion, or install a root barrier. In windy or exposed sites, the thicket habit is an asset — P. americana is widely used in Great Plains shelterbelts precisely because it tolerates wind and forms a dense screen.",
+    "acquisitionStatus": "To source (native plant nursery; bare-root; source two plants from different genetic origins for cross-pollination)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_americana",
+    "inaturalist": "https://www.inaturalist.org/taxa/48629-Prunus-americana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e830"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — P. americana is native to Pennsylvania; found in hedgerows, woodland edges, stream banks, abandoned fields, and rocky slopes throughout the state; common in central PA counties including Schuylkill County",
+      "paInvasiveStatus": "Not invasive in Pennsylvania. Not listed by PA Dept. of Agriculture, DCNR, or any mid-Atlantic invasive species council. Same as general Invasive field — no regulatory concerns.",
+      "drainage": "Hegins red clay is well within the tolerance range of P. americana — this species naturally colonizes difficult, compacted, clay-heavy soils in central PA. No amendment required for perimeter or hedgerow planting. If planting in a low spot where water pools after heavy rain, mound the planting area slightly (6-8\") to improve drainage around the root crown. Raised beds are not needed and would be impractical for a thicket-forming species.",
+      "soil": "The red clay at the Hegins site is entirely suitable without amendment for perimeter and hedgerow plantings. P. americana naturally occurs in similar clay-heavy soils across central PA. No special soil preparation required beyond standard planting hole loosening.",
+      "cultivarNotes": "Purchase straight-species bare-root plants from a mid-Atlantic or Appalachian native plant nursery. Source two plants from different genetic origins for cross-pollination. Regional provenance (PA, MD, WV, OH) will be best adapted to the humid continental climate and clay soils of central PA.",
+      "designPlacement": "Best placed at the outer property boundary rather than within any named bed section or tree guild interior. The suckering habit is incompatible with Sections A, B, and C and would displace guild companions around the apple, paw paw, or mulberry trees. Position along the eastern boundary to intercept the wildlife corridor — the thorny thicket serves as a deer buffer while providing fruit and nesting habitat. A hedgerow planting along the property edge with elderberry and hawthorn would create a productive, wildlife-rich perimeter that also functions as a windbreak against NW/W winds if extended along the north or west boundary.",
+      "siteObservations": "The Hegins red clay and compacted soil are well within this species' tolerance — P. americana naturally colonizes exactly this type of disturbed, clay-heavy ground in central PA. Active deer pressure from the east wildlife corridor is a factor for young plants only; protect with wire caging for the first 1-2 years until thorns develop, after which the thicket becomes self-defending and can serve as a deer buffer for more vulnerable plants behind it. The primary management concern at this site is sucker control — mow a clear perimeter around the planting 2-3 times per season to prevent the thicket from spreading into managed areas. Black knot fungus should be monitored annually; the humid continental climate of central PA is within the disease's preferred range."
+    }
+  }
+}

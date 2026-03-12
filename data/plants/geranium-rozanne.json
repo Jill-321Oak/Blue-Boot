@@ -1,0 +1,161 @@
+{
+  "id": "geranium-rozanne",
+  "name": {
+    "commonName": [
+      "Rozanne Cranesbill",
+      "Hardy Geranium 'Rozanne'"
+    ],
+    "latinName": "Geranium 'Gerwat' (sold as ROZANNE)",
+    "family": "Geraniaceae"
+  },
+  "range": {
+    "nativeRange": "Cultivar of hybrid origin; primary parent Geranium wallichianum is native to the Himalayas (northern Pakistan, Kashmir, Afghanistan at 2000-4000m). The other parent, Geranium himalayense, shares a similar Central Asian range.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Neither parent species has naturalized in North America. Hardy geraniums as a group are strictly garden plants in the US and do not appear in wild or ruderal settings."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — sterile patented cultivar that sets no viable seed and does not spread by runners. Not listed on any state noxious weed list or the USDA Federal Noxious Weed List. No invasive potential anywhere in the lower 48."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8. Performs best in Zones 5-7 where cool nights extend the bloom season. In Zone 8+ heat can cause midsummer bloom slowdown; afternoon shade and a hard midsummer cutback will restart flowering. No heat zone ceiling per se, but Zone 9+ gardeners should treat it as a cool-season performer."
+    }
+  },
+  "description": {
+    "height": "18-20\" mounding",
+    "spread": "20-24\"",
+    "spacing": "18-24\"",
+    "growthRate": "Moderate to fast",
+    "timeToMaturity": "Blooms well from first full season",
+    "lifespan": "Long-lived; 10+ years",
+    "deciduousEvergreen": "Herbaceous — dies back completely in winter",
+    "winterInterest": "None — bare ground; plant collapses in fall"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade. Tolerates partial shade well across all zones. In Zones 7-8, afternoon shade improves bloom persistence and prevents midsummer foliage scorching. In Zones 5-6, full sun produces the densest flowering.",
+    "water": "Medium; drought tolerant once established. In the humid East, supplemental watering is rarely needed after the first season except during extended dry spells. In the arid West (intermountain, Southwest), consistent irrigation is necessary even on established plants.",
+    "drainagePreference": {
+      "description": "Requires adequate drainage — crown rot is the primary killer. Will tolerate average garden soil moisture but cannot survive prolonged waterlogging. Raised crowns or slope planting help in heavy soils. Standing water for more than 24 hours after rain risks root and crown rot.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates heavy clay better than most perennials provided it is not waterlogged. The fibrous root system handles moderate compaction. In unamended clay, growth may be slower in year one but plants establish well by year two. Adding 2-3\" of compost worked into the top 8\" at planting time significantly improves first-year performance in clay. Avoid planting in clay low spots where water pools."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0. Flexible across this range; not sensitive to mildly acidic or neutral soils. Most eastern US garden soils fall within this window without amendment."
+    },
+    "texturePreference": "Adaptable — performs in sandy loam, loam, and clay loam. Ideal is a well-drained loam with moderate organic matter. Tolerates clay if drainage is adequate. Struggles only in pure sand (dries too fast) or waterlogged muck.",
+    "rootCharacter": "Fibrous, mounding clump; does not spread aggressively or by runners"
+  },
+  "bloom": {
+    "bloomTime": "Late May through October — one of the longest bloom seasons of any hardy perennial. In Zones 7-8, bloom may pause during the hottest weeks of July-August and resume in September. In Zones 5-6, bloom is often continuous from late spring to hard frost.",
+    "bloomDescription": "Violet-blue flowers to 2.5\" diameter with purple veins and a small white center; produced almost continuously across the entire season",
+    "fragrance": "None; leaves slightly aromatic when crushed",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; pollinated by bees and small butterflies"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers are edible (mild flavour); petals used as a garnish",
+    "harvestSeason": "Continuous through the growing season",
+    "medicinalUses": "Traditional astringent and wound-healing herb; tannins in the leaves; not commonly used in modern practice",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic",
+    "toxicityAnimals": "Generally considered safe; mild gastrointestinal upset possible if large quantities ingested",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Beauty (primary — exceptional season-long color)",
+      "Insect Attractor",
+      "Ground Cover (mounding habit fills space and suppresses weeds)"
+    ],
+    "companionPlants": [
+      "Lilac (blooms after lilac fades)",
+      "echinacea (similar season)",
+      "astilbe",
+      "hellebore",
+      "daylilies",
+      "salvia",
+      "nepeta"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Cut back hard in midsummer if flowering fades; will resprout and rebloom within weeks"
+  },
+  "wildlife": {
+    "attracts": "Bees and small butterflies throughout the long flowering season; one of the best perennials for sustained insect support",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Minimal — low mounding habit"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally avoided by deer due to slightly aromatic and hairy foliage. One of the more deer-resistant geraniums. Young transplants may be browsed opportunistically in spring when other foliage is scarce; light temporary fencing or repellent spray for the first season is prudent in high-pressure areas. Established plants are rarely damaged."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt spray and light coastal exposure. Not suitable for direct roadside planting or heavy maritime conditions."
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — the thick rootstock stores moisture. Will go semi-dormant in extended drought rather than dying. Resume watering and it recovers. First-year plants need consistent moisture."
+    },
+    "other": "Tolerates part shade, urban pollution, moderate wind, and benign neglect. Handles light frost on open flowers without damage. Not sensitive to humidity (performs equally in the humid Southeast and the dry Mountain West)."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Can be cut back hard (to 4-6\") in midsummer if the plant looks tired or sprawling; will regenerate and rebloom within 3-4 weeks. Remove spent flower stems to encourage continued bloom. Cut entirely to ground in late fall or early spring.",
+    "propagationMethods": [
+      "Division (spring — every 3-4 years to maintain vigor; personal-use division is fine but plant is patented and cannot be propagated for sale)",
+      "softwood cuttings (early summer)"
+    ]
+  },
+  "cultivarNotes": "'Rozanne' (trade name) / 'Gerwat' (registered cultivar name) / 'Jolly Bee' (synonymous cultivar) are all the same plant. This is widely considered the best long-blooming hardy geranium available in the US. No other cultivar combines shade tolerance, continuous bloom from late spring to frost, and reliable multi-year vigor as consistently.\n**Zones 3-5:** Rozanne is hardy to Zone 5; gardeners in Zone 4 and colder should consider Geranium 'Brookside' or G. sanguineum varieties, which are hardier. In Zone 5, Rozanne performs well but benefits from winter mulch in exposed sites.\n**Zones 6-7:** Peak performance zone. Bloom is continuous without midsummer intervention. This is where Rozanne truly outclasses all competitors.\n**Zones 8-9:** Still excellent but expect a midsummer bloom gap in hot regions. Cut back hard in July; plants rebloom by late August. 'Azure Rush' (a Rozanne sport with slightly paler flowers) reportedly handles heat marginally better but the difference is minor. Afternoon shade is more important than cultivar selection in this zone range.\n'Azure Rush' is a newer similar cultivar with slightly larger, paler flowers; worth considering if Rozanne is unavailable but not a meaningful upgrade. Avoid unnamed \"blue hardy geranium\" stock — named cultivars perform significantly better than seed-grown substitutes.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Border mid-zone",
+      "edging",
+      "ground cover",
+      "container. Excellent for filling space between shrubs in mixed borders. Works as a living mulch under roses and other open-structured shrubs. Effective in large drifts for public or low-maintenance plantings."
+    ],
+    "designPlacement": "Place in the mid-zone of borders where its 18-20\" mounding habit can spread without being hidden. Pairs well with upright companions (salvia, echinacea, ornamental grasses) that provide vertical contrast. Ideal as a color bridge between early-spring bloomers (bulbs, hellebores) and late-summer perennials (asters, sedums). In part-shade gardens, use as the primary blue-violet anchor; few perennials match its shade performance and season length. Allow at least 20\" spread per plant — it will fill in by year two.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geranium_%27Rozanne%27",
+    "inaturalist": "https://www.inaturalist.org/taxa/602541-Geranium-wallichianum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=y910"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or the eastern US. No wild Geranium wallichianum or G. himalayense populations exist in the state.",
+      "paInvasiveStatus": "Same as general Invasive field — not regulated in PA. Sterile hybrid with no escape potential.",
+      "drainage": "Hegins red clay is workable for Rozanne without raised beds, but amend the planting hole generously — mix 50/50 native clay with compost to a depth of 10-12\". The compacted, construction-disturbed clay at this site drains poorly after heavy rain; planting on a slight mound (2-3\" above grade) provides insurance against crown rot during spring thaw and summer thunderstorms.",
+      "soil": "Hegins red clay is acceptable with amendment. Work compost into the planting hole and top-dress with 1-2\" of mulch annually to improve structure over time. The naturally acidic pH of PA red clay (typically 5.5-6.5) is within Rozanne's preferred range — no lime needed.",
+      "cultivarNotes": "Rozanne is the definitive choice for this zone and site. Continuous bloom from late May through October with no midsummer cutback needed. No alternative cultivar offers a meaningful advantage here.",
+      "designPlacement": "Section A front bed mid-zone — primary season-long color anchor for the north-facing front bed. Bridges the bloom gap between early spring shrubs and late summer perennials. The violet-blue fits the purple/pink/yellow palette. Plant in groups of 3-5 along the front border, flanking the central stairway symmetrically. Stays well under the 5' height limit.",
+      "siteObservations": "North-facing Section A receives enough summer sun to drive full bloom; the partial shade is actually an advantage for Rozanne, extending flower life compared to full-sun southern exposures. Deer pressure from the east corridor is not a concern — Rozanne is consistently avoided. The compacted red clay in the front bed should be amended at planting time (see Drainage/Soil Pennsylvania notes above) but does not require raised beds for this species. Monitor drainage after heavy spring rains during the first season to confirm the crown stays above standing water."
+    }
+  }
+}

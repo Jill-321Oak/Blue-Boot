@@ -1,0 +1,168 @@
+{
+  "id": "brassica-rapa-rapa",
+  "name": {
+    "commonName": [
+      "Turnip"
+    ],
+    "latinName": "Brassica rapa subsp. rapa (syn. Brassica rapa Rapifera Group; treated by MBG and many horticultural sources as Brassica rapa (Rapifera Group))",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Believed to have originated in Central Asia or the Near East; cultivated for over 4,000 years across temperate Eurasia; one of the oldest cultivated root vegetables in the world; naturalized in disturbed ground throughout temperate North America, Europe, and Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; naturalized widely in disturbed ground, roadsides, and field edges across much of the lower 48 states; present in most states as a sporadic escape from cultivation"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — naturalized across the lower 48 but not considered invasive in any US state; bolted plants may self-seed in disturbed soil, but the species poses no meaningful weed concern in any managed garden context and is easily controlled"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 as a cool-season annual; performs best as a cool-season crop in spring and fall; grows successfully as a vegetable crop across all USDA hardiness zones in the lower 48 — the limiting factor is temperature during the growing season, not winter hardiness, since it is a fast annual"
+    }
+  },
+  "description": {
+    "height": "12-18\" in leaf growth above ground; root is the primary harvest; plants bolt to 24-36\" flower stalks if not harvested in spring heat",
+    "spread": "8-12\" in leaf canopy at maturity",
+    "spacing": "4-6\" between plants for root development; rows 12-18\" apart; thin to final spacing once seedlings are 2-3\" tall and eat the thinnings as microgreens — they are excellent raw",
+    "growthRate": "Very fast — among the quickest root crops in the garden; small salad-type turnips (Hakurei) can be ready in 35-40 days; standard roots (Purple Top White Globe) in 50-60 days; fall plantings often mature slightly faster in the cooling, shortening days",
+    "timeToMaturity": "35-60 days depending on variety and season; spring crops are harvestable before temperatures push past 75°F; fall crops are the primary season — sow in mid to late summer for an October-November harvest; roots improve markedly with frost exposure, making the late fall harvest window the culinary high point",
+    "lifespan": "Annual; completes its life cycle (germinate, grow, root, bolt, flower, seed) in a single season; overwinters only in very mild climates (Zone 9+)",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None; tops are killed by hard frost; roots can be left in the ground and mulched heavily for extended harvest in mild-winter climates, but reliability declines with hard freezes"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred (6+ hours) for vigorous root development; tolerates partial shade (4-5 hours), which can actually be beneficial in delaying bolting during warm spring days; fall crops do best in full sun as temperatures and light levels decline",
+    "water": "Consistent medium moisture; even watering is important for uniform, crack-free roots; dry spells followed by heavy watering cause the roots to crack or split; moderate drought tolerance once established, but quality suffers — dry conditions produce tough, pungent, pithy roots; raised beds should not be allowed to dry out completely during root swelling",
+    "drainagePreference": {
+      "description": "Adaptable — one of the more forgiving root crops in terms of drainage; tolerates heavier soil and moderate clay better than carrots or parsnips; does not perform well in standing water, but unlike most root crops it will not fork or rot under moderately wet conditions",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good relative to other root crops; the strong taproot penetrates and breaks into moderately compacted clay effectively; roots may be irregular in shape in heavy clay but are generally usable; successive turnip crops in clay beds contribute to soil structure improvement over time; raised beds with amended loam produce the finest quality roots"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; prefers slightly acidic to neutral; tolerates a somewhat wider range than many brassicas; lime additions that raise pH also discourage clubroot, which is a meaningful benefit in any brassica rotation"
+    },
+    "texturePreference": "Loose, fertile, well-amended soil produces the cleanest, most uniform roots; however, turnip's taproot character allows it to penetrate clay soils far better than fibrous-rooted crops — a key advantage in heavy-soil gardens; the taproot is strong enough to break into moderately compacted clay, making turnip one of the best root crop candidates for transitioning in-ground beds away from clay; raised beds with compost-amended loam produce the finest quality; in-ground clay beds produce usable but sometimes rougher-shaped roots",
+    "rootCharacter": "Taproot — the swollen hypocotyl is the primary edible root; fibrous lateral roots extend from the main taproot; the taproot can penetrate clay and compacted soil effectively, which is why turnips are historically used as a pioneer crop in heavy soils; root depth is moderate (8-12\"), much shallower than parsnip or carrot"
+  },
+  "bloom": {
+    "bloomTime": "Spring to early summer (bolting triggered by heat and/or long days); spring crops bolt in late spring; fall crops rarely bolt before harvest",
+    "bloomDescription": "Upright branching flower stalks with bright yellow four-petaled flowers — the characteristic crucifer bloom; quite cheerful and edible; flower shoots harvested just before the petals open are a delicacy in their own right, similar to rapini but milder; the flowers attract pollinators and beneficial insects; if a plant bolts in spring, harvest the shoot and eat it rather than discarding",
+    "fragrance": "Mild, slightly mustard-y when flowers are crushed; not decorative fragrance",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Insect-pollinated (bees primarily); cross-pollination with other Brassica rapa subspecies (bok choy, napa cabbage, rapini, mizuna) is possible when multiple types flower simultaneously — not a concern for edible harvest but relevant if saving seed; keep seed-saving plants isolated by at least 300 feet from other B. rapa if purity matters"
+  },
+  "yield": {
+    "edibleParts": "Two distinct and equally valuable yields from the same plant — roots and greens. The root (swollen taproot) is the classic primary harvest: earthy, slightly peppery, becoming sweeter and milder after frost; eaten raw when young and very small (Hakurei-type especially), roasted, mashed, added to soups and stews, or stored through winter. The greens (young leaves) are a separate and nutritionally superb crop: more peppery and mustardy than spinach, rich in vitamins A, C, and K, calcium, and folate; popular and beloved in Southern American cooking, often slow-braised with a smoked ham hock; also excellent sautéed with garlic and olive oil, added to soups, or wilted into pasta dishes. Greens can be harvested selectively from the outer leaves without sacrificing root development, though heavy defoliation will reduce root size. Some varieties (Seven Top) are bred exclusively for greens with no significant root development. Flower shoots (bolt tips, when bolting occurs) are also edible and worth harvesting. The full plant is productive at multiple stages: seedling thinnings (eat raw), young greens, mature roots, and bolt shoots.",
+    "harvestSeason": "Two primary windows per season across most of the lower 48 — Spring: direct sow as soon as ground can be worked; harvest before temperatures push past 75°F (timing varies by zone); Fall: the superior season in most climates — sow mid-to-late summer for an October-November harvest; roots improve markedly with frost exposure as starches convert to sugars, making the late fall harvest window the culinary high point. In the Deep South (Zones 8-10), fall through winter is the primary season; spring crops are impractical in warm climates. In the far North (Zones 3-4), the summer growing season may support a single mid-season crop. Harvest roots at 2-3 inches diameter for best flavor and texture; quality declines sharply past 3 inches in most varieties as roots become pithy, fibrous, and bitter. The exception is varieties specifically bred for larger size (Gilfeather, some white-globe types) which remain tender and sweet at larger sizes.",
+    "medicinalUses": "Turnip greens are highly nutritious — rich in vitamins A, C, K, folate, and calcium; among the most nutritious brassica greens; traditional European folk medicine used turnip syrup for coughs and colds; glucosinolates (present in all brassicas) are the subject of ongoing cancer-prevention research; no formal medicinal application, but a genuinely nutritious staple food",
+    "craftOtherYield": "Long history as livestock fodder — whole field plantings of turnips are grown specifically for grazing by sheep, cattle, and pigs, which eat roots and tops directly from the field; this is an ancient and still-practiced form of livestock integration, relevant in a homestead context; turnip root can be hollowed and carved (traditional Scottish jack-o'-lanterns were turnips, not pumpkins, predating the American pumpkin tradition)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — entirely edible, all parts including roots, greens, flower shoots, and flowers; no toxicity concerns for people",
+    "toxicityAnimals": "Like all brassicas, can cause gas and digestive upset in dogs and cats if fed in large quantities; not toxic in a clinical sense; not a concern for farm animals — livestock eat turnips in large quantity as a traditional fodder crop; horses, cattle, sheep, and pigs tolerate turnips well",
+    "allelopathy": "None known",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (low annual root vegetable)"
+    },
+    "roles": [
+      "Seasonal Food Crop (primary — fast-producing dual-yield vegetable for spring and fall harvest windows)",
+      "Root Crop / Soil Loosener (taproot penetrates and breaks up clay subsoil, improving structure over time; successive turnip crops contribute to clay bed remediation)",
+      "Gap Filler / Quick Cover (matures fast enough to fill empty bed space before or after other crops; good for succession planting in raised beds)",
+      "Animal Fodder (significant permaculture role in integrated livestock systems — a homestead-scale turnip planting can provide meaningful fodder for chickens, pigs, or other animals)",
+      "Nitrogen-Responsive Crop (responds well to soil fertility; good use of compost-rich beds)"
+    ],
+    "companionPlants": [
+      "Peas (compatible nitrogen-fixing companion in spring planting)",
+      "nasturtiums (trap crop for aphids)",
+      "dill and chamomile (attract beneficial predatory insects)",
+      "celery (said to deter white cabbage moths)",
+      "aromatic herbs generally (pest deterrence for Brassicaceae); in fall garden context",
+      "turnips pair well with kale",
+      "arugula",
+      "spinach",
+      "and other cool-season greens for a coordinated harvest block"
+    ],
+    "antagonists": [
+      "Avoid planting in ground that has hosted any brassica in the last 3 years to reduce clubroot",
+      "black rot",
+      "and soilborne disease pressure; hedge mustard and other wild brassicas in the vicinity can harbor brassica pests; avoid planting near other Brassica rapa if seed-saving (cross-pollination risk among all B. rapa subspecies — bok choy, napa cabbage, rapini, mizuna, turnip)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators (bees and beneficial insects visit the yellow flowers when plants bolt and are allowed to flower); beneficial predatory insects are drawn to flowering brassicas; consider allowing one or two fall plants to overwinter as biennials and bloom in spring to provide early pollinator forage",
+    "hostPlantFor": "Cabbage white butterfly (Pieris rapae) — larvae (imported cabbageworms) feed on brassica leaves; flea beetles (Phyllotreta spp.) are the primary pest, creating distinctive small round shot-holes in young leaves; both relationships are pest relationships rather than beneficial wildlife interactions; the plant is not a native host species",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — turnip greens are moderately attractive to deer, particularly the soft young growth; mature plants with toughened leaves are browsed less aggressively than tender greens; the roots themselves are below ground and largely inaccessible unless deer dig, which is unusual; in areas with active deer pressure, row cover or low fencing is advisable, especially for young seedlings and tender salad turnip types like Hakurei; the risk is lower than for highly palatable crops like lettuce or bok choy"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside salt spray; keep plantings away from heavily salted road corridors; not a concern for raised or in-ground vegetable beds set back from roads"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — tolerates brief dry spells but root quality degrades noticeably; drought produces pithy, bitter, tough roots and triggers premature bolting; consistent moisture is essential for quality harvest; the taproot accesses slightly deeper moisture than shallow-rooted greens, providing modest resilience"
+    },
+    "other": "Good frost tolerance — withstands light to moderate frosts (25-28°F) without damage; frost exposure after root maturity actively improves flavor as starches convert to sugars, making late fall harvests the culinary peak; harder freezes will damage or kill the tops but the roots may be salvageable if harvested quickly; heavy clay tolerance is notably good for a root crop — the strong taproot breaks into clay soils effectively; one of the better root crop candidates for in-ground clay beds"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the lowest-maintenance vegetables in the garden; direct sow, thin, keep watered, harvest; the primary management challenges are timing (avoiding heat in spring, planting on schedule in summer for fall) and flea beetle management on seedlings",
+    "pruningNotes": "No pruning in the traditional sense. Key management considerations: (1) SPRING BOLTING — the central challenge of spring growing; heat triggers bolting rapidly; monitor plants when daytime temperatures consistently reach 70°F+; bolting plants should be harvested immediately — do not wait; bolted roots are still edible but pithy; the bolt shoot itself is delicious and should be harvested before flowers open; spring crops are inherently shorter-season and less rewarding than fall crops. (2) FLEA BEETLES — the most significant pest on all Brassica rapa seedlings across most of the US; flea beetles create characteristic small round shot-holes in young leaves; severe infestations can weaken or kill seedlings; row cover installed at planting time (before beetles locate the plants) is the single most effective prevention and is strongly recommended for both spring and fall plantings; once plants are 4-5 weeks old and have hardened, they tolerate flea beetle damage much better and row cover can usually be removed; do not wait until flea beetles appear to install cover — act preventively. (3) HARVEST TIMING — the most common mistake with turnips is waiting too long; harvest at 2-3 inches for peak flavor and texture; roots left past this size develop pithiness and increased bitterness; the exception is varieties specifically bred for size (Gilfeather, large white types) that hold quality at larger sizes; check roots by gently brushing aside soil to measure. (4) GREENS HARVEST — young leaves can be harvested selectively from the outside of the plant at any time; heavy defoliation reduces root development; for a dual root-and-green harvest, take no more than 1/3 of the leaf area at once.",
+    "propagationMethods": [
+      "Direct sow only (strongly preferred — turnips do not transplant well due to taproot sensitivity; transplanting disrupts the taproot and produces forked, stunted, or malformed roots; always direct sow); sow seeds ½\" deep",
+      "1\" apart",
+      "thin to 4-6\" once seedlings are 2-3\" tall; germination is rapid at 60-75°F (5-7 days); succession sow every 2-3 weeks during the fall planting window for a continuous harvest rather than a single glut; fall planting window varies by zone — count back from average first hard frost date using variety day-to-maturity"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection should address intended use (root, greens, or dual-purpose), harvest timing, climate zone, and culinary purpose. Turnip varieties range from familiar cooking turnips to Japanese salad turnips that are almost a different vegetable in culinary character. The varieties below perform reliably across most of the lower 48; fall is the primary and superior season in Zones 4-8, while fall-through-winter is the primary season in Zones 8b-10.\n**Purple Top White Globe** — The classic American dual-purpose turnip: white globe with a distinctive purple-flushed top above the soil line, 3-4 inch roots, firm white flesh with a full, earthy, traditional turnip flavor. The benchmark variety for both root eating and greens. Reliable, widely available, performs well in both spring and fall across Zones 3-9. Fall-harvested roots after frost are excellent roasted or mashed. Greens are robust and flavorful. The standard recommendation for any first-time turnip grower. Matures in 55-60 days.\n**Hakurei (Japanese Salad Turnip)** — Deserves special and separate treatment because it is a fundamentally different culinary experience from cooking turnips. Hakurei produces small (2-inch), perfectly round, smooth white roots with exceptional sweetness, delicate texture, and virtually none of the sharp pungency associated with cooking turnips. They are best eaten raw — sliced thin into salads, eaten out of hand like an apple, or served with dip — or very lightly sautéed (30 seconds in butter) to preserve their tenderness; cooking them like a traditional turnip destroys what makes them special. The greens are also more tender and mild than standard turnip greens, excellent raw or barely wilted. Hakurei matures in 35-38 days, making it one of the fastest root crops in the garden and ideal for quick succession planting in both spring and fall. Harvest at exactly 2 inches — they deteriorate quickly if left larger. Fall crops are magnificent. This variety alone can convert turnip skeptics. Primary recommendation for fresh eating and raw salad use across all zones.\n**Gilfeather** — A Vermont heirloom with an unusual flavor profile: white-fleshed, green-topped, slightly flattened, with sweet, mild, almost kohlrabi-like flavor that stays tender and non-pithy even at larger sizes (4-5 inches). Named for the Wardsboro, VT farmer who developed it; listed on the Slow Food Ark of Taste. More forgiving of delayed harvest than most varieties. Excellent roasted, mashed, or eaten raw. A rewarding variety for those who want to explore beyond the classic type. Slightly longer season (75+ days) — in Zones 5-6, sow by late July for fall harvest; in Zones 7-8, sow can extend into August.\n**Seven Top** — Grown exclusively for greens; the root is small, tough, and inedible. Produces an abundance of mild, tender, productive leaves that are preferred by many Southern cooks over the greens of root-type varieties. Highly productive greens harvest over a long season; very cold-hardy and slow to bolt. If greens are the primary goal, Seven Top outproduces any dual-purpose variety. Does not require root development space — can be sown more densely (2-3\"). Excellent fall green all the way to hard frost and beyond; in Zones 7-9, a late-planted crop can produce through much of winter.\n**Tokyo Cross** — An AAS winner; produces uniform, smooth, pure-white globe roots at 2 inches in just 35 days; sweet and mild for a cooking turnip; somewhat comparable to Hakurei but slightly larger and better suited to cooking; good for those who want a fast, clean, mild root. Performs well across Zones 3-9. Less distinctively different from cooking turnips than Hakurei.\n**Fall planting timing by zone (lower 48):** Count back from average first hard frost date using variety day-to-maturity plus 1 week buffer. Approximate direct-sow targets: Zone 3-4 — late July; Zone 5-6 — late July to early August; Zone 7 — mid-August to early September; Zone 8 — September to early October; Zone 9-10 — October to November (fall-winter crop).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable bed (primary for quality production)",
+      "in-ground vegetable beds (good candidate given clay tolerance)",
+      "fall garden staple",
+      "spring shoulder-season crop",
+      "homestead fodder planting (larger in-ground scale)"
+    ],
+    "designPlacement": "Turnips belong in the dedicated vegetable beds with active seasonal management. The fall crop — sown in mid-to-late summer and harvested October through November depending on zone — should be a reliable annual fixture in the rotation; it requires minimal space and delivers high caloric and nutritional yield per square foot. Kitchen-adjacent placement is ideal given the value of frequent small harvests of both roots and greens. In-ground beds are a viable option for turnips specifically — the taproot character makes them one of the best root crop choices for transitioning clay ground, and a fall turnip planting in-ground can be productive while also improving soil structure for future use. A homestead-scale fodder planting (a 4×8 or larger in-ground bed of forage turnips for chicken or livestock integration) is worth considering as properties develop. Spring crops can occupy any sunny bed space but should be planned with row cover and a realistic harvest window that closes when daytime temperatures consistently exceed 70°F.",
+    "acquisitionStatus": "Not yet acquired (seeds only needed — widely available from any seed catalog)\nPennsylvania — Hegins Site Observations: Zone 6a Hegins offers an excellent fall turnip season that should be a regular part of the garden calendar — this is one of the most productive and lowest-effort crops for the fall slot. The red clay soil is actually less limiting for turnips than for most root crops; in-ground planting is worth attempting, particularly for a fall crop or fodder planting. Key site-specific considerations: (1) Flea beetles — universally severe on all Brassica rapa in Pennsylvania; row cover from sowing day is strongly recommended for seedlings in both spring and fall; remove when plants are 4-5 weeks old; (2) Deer — turnip greens are moderately palatable; row cover provides double service as a deer deterrent for low plantings; Hakurei salad turnips with their soft, sweet greens may be especially attractive and warrant closer attention; (3) Fall timing is critical — sow by August 1-10 for Purple Top White Globe (60-day variety); by August 15 for Hakurei (38-day variety); later sowing risks incomplete root development before hard frost; mark calendar dates and sow on schedule; (4) Spring crops — a short row of Hakurei sown in mid-March under row cover is a low-risk, fast-return spring planting that can be harvested in late April before the May 1 last frost date even arrives; (5) Storage — fall-harvested turnips (Purple Top, Gilfeather) store exceptionally well in root cellar conditions (32-40°F, 90-95% humidity) for 4-5 months; remove tops before storage and do not wash; store with the root crop harvest alongside carrots and beets for winter food security."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Turnip",
+    "inaturalist": "https://www.inaturalist.org/taxa/55171-Brassica-rapa-rapa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261918&isprofile=0&chr=19"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; sporadic naturalization along roadsides and field edges in PA but not considered invasive",
+      "paInvasiveStatus": "Not listed as invasive by the Pennsylvania Invasive Species Council (PISC)",
+      "drainage": "Red clay at Hegins is less limiting for turnips than for most root crops; in-ground planting is worth attempting, particularly for fall crops or fodder plantings; raised beds produce the best-shaped, highest-quality roots",
+      "soil": "Red clay, compacted, construction-disturbed soil at Hegins is workable for turnips; raised beds with compost amendment are strongly preferred for quality production; in-ground fall planting is viable and doubles as soil remediation; turnip is among the best root crop choices for this specific site condition",
+      "cultivarNotes": "Grow **Hakurei** and **Purple Top White Globe** as the core fall planting (direct sow by August 1-10); add **Seven Top** if greens are a priority. Spring crops are more challenging — attempt **Hakurei** under row cover in March-April as the fastest-maturing option with the smallest window needed. For a homestead-scale fodder planting, **Purple Top White Globe** or a field turnip variety (Forage turnip / Pasja) can be sown in a larger in-ground area for chicken or other livestock fodder.\n**Family context:** Brassica rapa is an extraordinarily diverse species — turnip (subsp. rapa), bok choy (subsp. chinensis), napa cabbage (subsp. pekinensis), rapini (subsp. ruvo), mizuna (subsp. nipposinica), and tatsoi (subsp. narinosa) are all the same species. All share flea beetle vulnerability and clubroot susceptibility. Rotate the entire group together as a single brassica block — avoid planting any B. rapa in ground that held another B. rapa subspecies within the past 3 years.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is well-suited as part of a fall brassica block alongside kale, arugula, and bok choy; kitchen proximity is ideal for frequent small harvests of both roots and greens. In-ground beds in the red clay are a viable and interesting option for turnips specifically — a fall turnip planting in-ground would be productive while also improving soil structure. A homestead-scale fodder planting in a larger in-ground area for chicken integration is worth considering as the property develops. Spring crops can occupy any sunny raised bed space but should be planned with row cover and a harvest window of 4-6 weeks before May heat closes the window.",
+      "siteObservations": null
+    }
+  }
+}

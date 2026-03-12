@@ -1,0 +1,160 @@
+{
+  "id": "akebia-quinata",
+  "name": {
+    "commonName": [
+      "Chocolate Vine",
+      "Five-Leaf Akebia"
+    ],
+    "latinName": "Akebia quinata",
+    "family": "Lardizabalaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern Asia — China, Japan, and Korea",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from East Asia; naturalized in scattered locations in the eastern US; documented as escaped from cultivation in several mid-Atlantic and southeastern states"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "US-wide — Akebia quinata is invasive in parts of the eastern US; it is listed as invasive in multiple states including Alabama, Georgia, and Tennessee, among others; it spreads by seed (bird-dispersed), by runners, and by layering; in the warmer parts of its range (Zones 6-9) it can smother native vegetation; gardeners in the southeast and mid-Atlantic should research their state's current invasive status before planting; in Zone 5 and colder it is more restrained; avoid planting near intact woodland or natural areas regardless of zone; this is a thoughtful choice in a managed food forest, not a casual release planting"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9 (Zone 6a is well within its comfort range)"
+    }
+  },
+  "description": {
+    "height": "20-40' on adequate support in ideal conditions; typically 15-25' in Zone 6a with seasonal dieback pressure; a strongly vertical grower",
+    "spread": "Wide; a single vine can cover a large arbor or pergola completely; plan for substantial horizontal reach",
+    "spacing": "8-12' between plants; for fruit production, plant two or more genetically distinct individuals within 10-15' of each other",
+    "growthRate": "Moderate in year one; fast to very fast from year two onward once the root system establishes; a mature vine puts on 10-15' of new growth in a season",
+    "timeToMaturity": "First flowers year 2-3; meaningful fruit production typically begins year 3-5, dependent on having a compatible pollination partner established concurrently; the vine needs to reach flowering maturity on both individuals simultaneously",
+    "lifespan": "Long-lived; a well-placed vine on strong permanent support is a decades-long installation",
+    "deciduousEvergreen": "Semi-evergreen in Zone 6-7a — retains portions of foliage through mild winters; behaves more deciduous in cold winters; the five-part compound leaves are ornamentally attractive from spring through late fall, with attractive blue-green to dark green coloration throughout the season",
+    "winterInterest": "Moderate — the twining woody framework is visible when deciduous; persistent foliage in mild winters; dried fruit husks may remain on the vine briefly after splitting"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; very adaptable; will fruit most reliably in full sun (6+ hours); tolerates partial shade better than most fruiting vines, which makes it a useful food forest vine layer candidate under dappled canopy; in deep shade fruit production drops off significantly",
+    "water": "Low to medium once established; moderate drought tolerance after the first 1-2 seasons; consistent moisture during fruit development (summer through early fall) supports pod fill; avoid persistently waterlogged conditions",
+    "drainagePreference": {
+      "description": "Well-drained preferred; adaptable to average to clay soils with reasonable drainage; not suited to standing water",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Adaptable to clay soils provided the site drains between rain events; heavy, persistently wet clay will stress the plant and increase disease risk; amending the planting hole with compost and ensuring no standing water after rain is the key threshold; once established, the root system handles moderate clay compaction reasonably well"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable; not fussy about soil chemistry"
+    },
+    "texturePreference": "Loam preferred; adapts well to amended clay; good organic matter content supports establishment; does not require fertile soil once established",
+    "rootCharacter": "Fibrous, moderately spreading root system; not known to be aggressively rhizomatous; the primary spread concern is by seed (bird-dispersed) rather than root spread"
+  },
+  "bloom": {
+    "bloomTime": "March-April; among the earliest flowering woody vines in the eastern garden; blooms before or concurrent with leaf emergence",
+    "bloomDescription": "Small, pendant, raceme-borne flowers in two sizes on the same cluster — the larger female flowers (1\" across, dark purple-maroon) at the base of the cluster; the smaller, more numerous male flowers (pinkish-purple) toward the tip; the contrast is subtle but interesting up close; the overall display is not showy from a distance but is charming at close range",
+    "fragrance": "Outstanding — rich, warm, chocolate-vanilla fragrance; one of the most distinctively and pleasantly scented spring vines in temperate horticulture; the scent is strongest on warm, still mornings and carries several feet; this fragrance alone is a compelling reason to grow the plant, separate from any fruit consideration",
+    "flowerSex": "Monoecious — male and female flowers are separate but borne on the same plant; each individual vine carries both sexes",
+    "pollination": "Cross-pollination required for reliable fruit set; a single plant rarely sets fruit because the male and female flowers on any one individual are not synchronized for self-pollination; two or more genetically distinct plants (or two named cultivars) must be planted together; insect-pollinated, primarily by early-season bees"
+  },
+  "yield": {
+    "edibleParts": "Fruit pulp (primary edible yield — the ripe pods split open to reveal sweet, white, gelatinous pulp with a mild melon-like flavor; pleasant and unusual; the pulp is eaten fresh, scooped directly from the pod; the seeds embedded in the pulp are small and numerous); pod skin/shell (edible but distinctly bitter — used in Japanese cuisine as a vessel: hollowed, stuffed with miso-seasoned fillings such as minced pork and vegetables, and pan-fried; a traditional dish called \"akebi no kawa miso itame\"; a genuinely unique culinary application with no direct western equivalent); young shoots (edible in spring — lightly blanched and eaten as a vegetable in Japanese mountain cuisine; harvested very young before the leaves fully open)",
+    "harvestSeason": "September-October; pods reach 4-5\" long, sausage-shaped, pale lavender to whitish-purple; harvest when the pods begin to split naturally along the seam; a split pod is a ripe pod; do not wait long after splitting as the pulp dries out and birds quickly find the exposed fruit",
+    "medicinalUses": "Traditional use in East Asian herbalism — the stems (known as \"mu tong\" or \"akebi\") have been used in traditional Chinese medicine as a diuretic and anti-inflammatory; modern use is limited and the internal use of concentrated stem preparations is not recommended without guidance; the fruit itself has no significant toxicity concerns and is consumed freely as food",
+    "craftOtherYield": "The flexible young vines are used in Japanese basketry and wickerwork; the woody stems have been used for basket weaving in their native range; the ornamental early bloom is a cut flower possibility"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The fruit pulp is non-toxic and widely consumed; the pod skin is edible though bitter; concentrated preparations of the woody stems (mu tong) have a historical record of nephrotoxicity in traditional medicine contexts — this concern applies to concentrated herbal preparations, not casual food use of the fruit",
+    "toxicityAnimals": "No significant toxicity reported for the fruit or foliage; not known to be a hazard for dogs, cats, or livestock",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "vine",
+      "description": "Vine layer"
+    },
+    "roles": [
+      "Food (fruit and young shoots — unusual and high-interest edible yield)",
+      "Fragrance (exceptional early spring bloom fragrance — a sensory asset in any garden space)",
+      "Vertical Structure (covers arbors, pergolas, and fences; utilizes vertical space efficiently)",
+      "Wildlife Support (early bloom for pollinators; fruit for birds and small mammals)",
+      "Canopy Edge Softening (the vine layer on a food forest edge or between the shrub and canopy layers)"
+    ],
+    "companionPlants": [
+      "Comfrey (at the base for dynamic accumulation and mulch)",
+      "native spring bulbs beneath (the vine's early bloom complements early bulbs)",
+      "elderberry (nearby shrub layer companion — both are early-season wildlife plants)",
+      "pawpaw (a natural food forest companion; both are East Asian/eastern North American woodland edge plants with edible fruit in the same season window)"
+    ],
+    "antagonists": [
+      "Vigorous establishment can overwhelm small shrubs or perennials growing on the same support; do not plant where it will reach into the canopy of young or small trees without strong management intention; the potential for naturalization means it should not be sited near natural woodland edges without monitoring"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Early-season bees (bumblebees, mason bees, and early-emerging native bees are the primary pollinators; the early March-April bloom is a valuable early nectar and pollen source when few other plants are flowering); birds (the split-open fruit pods are accessible to fruit-eating birds including catbirds, robins, and thrushes in fall); small mammals (raccoons and squirrels will investigate the fruit)",
+    "hostPlantFor": "No documented significant native Lepidoptera host plant value in North America — this is a meaningful limitation compared to native vines; as a non-native plant from East Asia, the associated native insect herbivore community is minimal",
+    "nestingHabitat": "Dense vine growth on an arbor or pergola provides some nesting opportunity for shrub-nesting birds; not a primary nesting plant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Generally low browse pressure — the aromatic foliage is less palatable to deer than many other ornamental vines; not considered deer-proof but is less targeted than roses, hostas, or many fruiting shrubs; protect young plants during establishment with a simple wire cage as a precaution; established vines with high coverage are less vulnerable"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not salt-tolerant; avoid road-salt spray zones"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; will tolerate short dry periods but performs and fruits best with adequate summer moisture"
+    },
+    "other": "Very adaptable to varied light and soil conditions; low pest and disease pressure overall; one of the lower-maintenance edible vines once established on appropriate support"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the primary tasks are structural pruning to keep the vine within bounds and monitoring for any naturalization beyond the intended planting area",
+    "pruningNotes": "Prune after flowering (late April-May) to avoid removing the current season's fruit-bearing stems; thin congested growth to maintain airflow and light penetration; hard rejuvenation pruning (cut to within 1-2' of the base) is tolerated if the vine has overtaken its support, but will sacrifice that season's fruit; annual light thinning is preferable to periodic hard cutting; in Zone 6a, some tip dieback may occur in harsh winters — remove dead wood in early spring before new growth begins",
+    "propagationMethods": [
+      "Stem cuttings (semi-hardwood cuttings in summer — moderately easy; treat with rooting hormone; keep in humid conditions); layering (peg a low stem to moist soil; roots in one season — the easiest method for home propagation); seed (cold stratification required; germination is reliable but seedlings take several years to flower; plants grown from seed are genetically unique individuals — useful for establishing a cross-pollinating pair from a single purchased plant over time); division of established crown (possible but difficult with larger plants)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Akebia quinata) is the most widely available and most commonly grown form. 'Alba' (white flowers; uncommon in the US trade; less ornamentally striking than the purple form; same fruit production potential). 'Rosea' (soft pink flowers; sometimes available from specialty nurseries; ornamentally attractive). A. trifoliata (Three-Leaf Akebia — a related species with three leaflets rather than five; slightly less vigorous; the fruit and fragrance are similar; sometimes used in crosses). A. × pentaphylla (a natural hybrid between A. quinata and A. trifoliata; intermediate in character). For fruit production, sourcing two plants from different nurseries or seed sources is the simplest way to ensure genetic diversity for cross-pollination — do not assume two plants purchased from the same nursery at the same time are genetically distinct, as they may be divisions of the same clone. In Zones 7-9, invasive risk increases significantly with all forms; the straight species and vigorous cultivars are not recommended for unmonitored planting in those zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "arbor or pergola feature plant",
+      "ornamental-edible combination planting",
+      "fragrance garden",
+      "early pollinator support"
+    ],
+    "designPlacement": "Best placed on a strong permanent structure — a heavy arbor, pergola, or robust fence; the vine will be a multi-decade installation and will eventually exert significant weight and pull on its support; not appropriate for lightweight trellises or small ornamental structures; southern gardeners (Zones 7-9) should weigh invasive risk carefully before installation and ensure the planting site can be monitored annually; vigorous vine — do not underestimate eventual scale",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Akebia_quinata",
+    "inaturalist": "https://www.inaturalist.org/taxa/126249-Akebia-quinata",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a149"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA — East Asian introduction",
+      "paInvasiveStatus": "Not on Pennsylvania's official invasive plant list as of this writing, but listed as a noxious weed or invasive concern in several other eastern and midwestern states; has naturalized in woodland edges in warm portions of its US range; plant with awareness and monitor for escape; gardeners in southeastern PA and warm microclimates should exercise particular caution",
+      "drainage": "Hegins red clay is workable for this vine with site selection care — choose a location where water does not pool after heavy rain; raised planting or slight grade is helpful; amend the planting hole; avoid low spots",
+      "soil": "Hegins red clay with compost amendment is an acceptable planting medium; prioritize drainage over soil richness; a generous planting hole with 30-50% compost incorporation will support establishment through the first 1-2 seasons",
+      "cultivarNotes": "The straight species is the recommended choice for a managed food forest or ornamental-edible planting; invasive risk is lower in Zone 6a than in warmer zones but is not zero — monitor for seedling escape annually, particularly at woodland edges; site on a strong permanent structure with regular management; a good fit for a deliberate food forest installation with attentive stewardship",
+      "designPlacement": "In the Hegins garden, this vine is a candidate for any south-facing pergola or large arbor in the food forest zone; it pairs naturally with the pawpaw guild (both are Asian or eastern woodland plants with fall fruit) or as a standalone vine layer on a dedicated structure; Section C (south-facing back porch strip) is a potential fit given the fragrance focus of that bed, provided a sufficiently strong support is in place and vertical height is not constrained; monitor annually for any seedling escape into adjacent shrub or woodland areas; the invasive-tendency of this species should always accompany any siting decision — place it where fruit and vegetative growth can be observed each season\nPennsylvania — Hegins Site Observations:\nNo site observations recorded yet.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "stropharia-rugosoannulata",
+  "name": {
+    "commonName": [
+      "Wine Cap Mushroom",
+      "King Stropharia",
+      "Garden Giant",
+      "Burgundy Mushroom"
+    ],
+    "latinName": "Stropharia rugosoannulata",
+    "family": "Strophariaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread in Europe and North America; found naturally in disturbed woodland edges, meadows, and compost-rich areas across temperate regions of both continents",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to eastern North America; commonly found in disturbed soils, wood chip mulch, and woodland edges throughout the eastern US and Midwest; also reported in the Pacific Northwest; widely naturalized across the lower 48 wherever wood chip mulch is used in landscaping and gardening"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; Stropharia rugosoannulata is a beneficial saprophytic fungus that decomposes woody debris and does not displace native species; not listed on any state noxious weed or invasive species lists"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "Not applicable (fungal species; cold-hardy mycelium survives Zone 3-11 conditions under appropriate substrate)"
+    }
+  },
+  "description": {
+    "height": "Fruiting bodies (mushroom caps) 3-12\" diameter; stems 3-8\" tall",
+    "spread": "Mycelium spreads through the substrate over time; well-established beds may spread 10-20' or more over several years",
+    "spacing": "Inoculate beds 12-18\" apart; beds can be as small as 4x4' or as large as desired",
+    "growthRate": "Mycelium colonizes substrate within 2-6 months of inoculation; first fruiting typically occurs 3-12 months after inoculation",
+    "timeToMaturity": "First fruiting in first season with fresh spawn; full production by year 2; can produce abundantly for 3-5 years before substrate is exhausted",
+    "lifespan": "Individual fruiting bodies are ephemeral (days to weeks); mycelium can persist and continue fruiting indefinitely if substrate is refreshed",
+    "deciduousEvergreen": "Not applicable — fungal organism; mycelium is perennial; fruiting occurs in appropriate conditions (cool, moist weather: spring and fall)",
+    "winterInterest": "None — fruiting occurs in cool weather; mycelium dormant in deep winter"
+  },
+  "lightAndWater": {
+    "sun": "Prefers partial to full shade; direct sun dries out the substrate and inhibits fruiting; north-facing or tree-shaded locations are ideal in any climate zone",
+    "water": "Medium to high — mycelium and fruiting bodies require consistent moisture; irrigation may be needed in dry periods to maintain production; humid-climate gardeners (eastern US, Pacific NW) will need less supplemental water than arid-climate gardeners",
+    "drainagePreference": {
+      "description": "Not applicable in the traditional sense; the substrate (wood chips or straw) needs to be moist but not waterlogged; good airflow around the bed prevents anaerobic conditions; standing water in the bed will kill mycelium",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not directly relevant — wine caps grow in organic substrate (wood chips, straw), not in mineral soil; however, clay soil beneath the substrate can be beneficial because it retains moisture and keeps the bed from drying out too quickly; poor drainage in clay can cause waterlogging at the substrate-soil interface, so a slight slope or raised bed lip helps; rating: Good (indirect — clay beneath substrate is an advantage if not waterlogged)"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Grows in carbon-rich organic material — wood chips (hardwood preferred), straw, or mixed organic mulch; not in mineral soil alone; the fungus decomposes lignocellulosic material; the underlying mineral soil type matters only insofar as it affects moisture retention beneath the substrate",
+    "rootCharacter": "Mycelium (white thread-like hyphal network) pervades the substrate; produces characteristic white \"mycelial mat\" visible when you move the substrate; this mycelial mat is a sign of healthy, well-established colonization"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: May-June and September-October (spring and fall when temperatures are 50-65F and moisture is adequate); timing shifts earlier in warmer zones and later in cooler zones",
+    "bloomDescription": "Fruiting bodies (mushrooms) begin as smooth burgundy-red to wine-colored caps covered by a partial veil; caps expand to 3-12\" wide; mature caps are deep wine-red to chestnut-brown; gills are initially grey, becoming dark purple-brown to black at maturity; prominent skirt-like ring (annulus) on the stem — this is the \"rugosoannulata\" (rough ring) reference",
+    "fragrance": "Pleasant mild mushroom-like scent; some describe a faint radish or anise note",
+    "flowerSex": "Not applicable — sporulating organism; spores are purple-black",
+    "pollination": "Not applicable — spore dispersal"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (mushroom caps and stems) when harvested before the veil breaks (when the cap is still domed and the partial veil is intact); flavor is mild, meaty, and excellent — considered one of the finest gourmet mushrooms for home cultivation; best harvested when the cap edge is still rolled under slightly",
+    "harvestSeason": "Spring (May-June) and fall (September-October) primarily; occasionally fruiting at other times in cool, moist weather",
+    "medicinalUses": "Not primarily medicinal, but as a fungal organism, wine caps contribute to soil health through mycelial decomposition of lignin and other complex compounds; some general mushroom immunomodulatory properties (beta-glucans) present as in most edible fungi",
+    "craftOtherYield": "Spore prints (purple-black — striking; used as natural ink or for documentation); mycelium-amended substrate (exhausted beds are excellent compost additions with enhanced microbial activity)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Edible — but CRITICAL identification caution: know what you are harvesting before eating; Stropharia rugosoannulata is distinctive but can theoretically be confused with toxic species by inexperienced foragers. Key ID features: wine-red cap, prominent white ring on stem, dark purple-grey gills (NOT brown or orange), white stem; always confirm identification before eating. Properly identified wine caps are considered safe and delicious.",
+    "toxicityAnimals": "Generally considered safe for animals in normal encounters; dogs that eat mushrooms habitually should be discouraged (could encounter toxic species); not a known toxin concern specifically for S. rugosoannulata",
+    "allelopathy": "Significant — wine cap mycelium actively suppresses competing soil fungi including some plant pathogens; contributes to the \"biological tilling\" and soil building function described in permaculture literature; a positive allelopathic effect in the food forest context",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (gourmet edible — high productivity in appropriate conditions)",
+      "Soil Builder (mycelium decomposes woody material, building humus and improving soil structure)",
+      "Biological Pest Control (mycelium suppresses competing soil pathogens)",
+      "Nutrient Cycling (breaks down lignin releasing locked nutrients)"
+    ],
+    "companionPlants": [
+      "Compatible with all garden and food forest plants; particularly valuable beneath fruit trees and in guild understories where wood chip substrate is available; often paired with comfrey in permaculture guilds; excellent beneath any deciduous tree that provides shade and leaf litter"
+    ],
+    "antagonists": [
+      "None documented for garden plants; competing fungal species (oyster mushrooms) may compete for the same substrate"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Slugs and some insects are attracted to fruiting bodies (a minor concern for harvest timing); decomposing mycelium supports a diverse soil invertebrate community; birds may dig through mulch looking for invertebrates living in the myceliated substrate",
+    "hostPlantFor": "Various fungal-feeding insects and nematodes use the substrate; an important component of the decomposer community",
+    "nestingHabitat": "The wood chip substrate provides nesting and overwintering habitat for ground beetles, centipedes, and other beneficial invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable — deer do not target mushroom fruiting bodies or myceliated substrate; no protection needed in any region"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable — wine caps grow in organic substrate above the soil line; road salt in soil beneath the bed is unlikely to affect the fungus unless salt-laden runoff floods the bed directly"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — the mycelium and fruiting bodies require consistent moisture; drought significantly reduces productivity; water the bed during dry periods; mulching the substrate surface with straw helps retain moisture in arid or hot climates"
+    },
+    "other": "Tolerates partial to full shade; performs best in cool temperatures 50-65F; cold-hardy mycelium overwinters in the substrate down to Zone 3; will not fruit in hot summer weather (above 75F consistently); heat-zone gardeners (Zone 8+) should focus on fall and early spring flushes and provide deep shade"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Not applicable. Maintain the bed by adding 2-4\" of fresh wood chips or straw each spring. Harvest mushrooms promptly when they appear — mature mushrooms that drop spores are not wasted (they inoculate surrounding areas) but younger mushrooms have better flavor and texture. Turn the substrate occasionally to introduce oxygen and prevent anaerobic conditions. Replace the entire bed substrate every 3-5 years when productivity declines significantly.",
+    "propagationMethods": [
+      "Spawn (sawdust or grain spawn available from specialty suppliers — inoculate fresh wood chip or straw beds in spring); transplanting colonized substrate (move sections of white myceliated substrate to a new bed); natural spread (wine caps self-inoculate adjacent substrate via spores — watch for new fruiting bodies at the edges of established beds)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars; Stropharia rugosoannulata is the single species grown for food. Sources vary in the vigor and fruiting characteristics of their spawn stock — buy from reputable mushroom supply companies. For Zone 3-5 gardeners, select spawn from northern suppliers accustomed to cold-climate outdoor cultivation (Field & Forest Products in Wisconsin is well-regarded). For Zone 6-7 gardeners, most major suppliers work well — Fungi Perfecti, Field & Forest Products, North Spore, and others all carry reliable outdoor wine cap spawn. For Zone 8+ gardeners, timing matters more than spawn source — inoculate in fall for winter/spring fruiting and expect reduced summer production.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest floor",
+      "wood chip mulch beds",
+      "guild understory",
+      "kitchen garden border",
+      "orchard understory",
+      "shade garden path edges"
+    ],
+    "designPlacement": "Place wine cap beds anywhere wood chip or straw mulch substrate is maintained — beneath deciduous fruit trees, along shaded garden borders, in guild understories, or in dedicated mushroom beds. North-facing or tree-shaded locations are ideal; avoid full-sun exposed areas where substrate dries quickly. Wine caps integrate naturally into any mulched garden system and require no dedicated bed space beyond what mulching already provides. Pair with nitrogen-fixing plants and dynamic accumulators (comfrey, clover) for maximum nutrient cycling benefit.",
+    "acquisitionStatus": "Already on site (wine cap mushrooms confirmed in existing plants list)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stropharia_rugosoannulata",
+    "inaturalist": "https://www.inaturalist.org/taxa/119151-Stropharia-rugosoannulata",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Likely native to Pennsylvania; commonly found in wood chip mulch and disturbed woodland edges throughout the eastern hardwood forest region; already confirmed on the Hegins property",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field",
+      "drainage": "The red clay at Hegins is actually favorable beneath wine cap beds — it holds moisture and keeps wood chip substrate from drying out; no raised bed needed for wine caps; simply lay substrate directly on the existing ground; the compacted clay provides a natural moisture reservoir",
+      "soil": "Hegins red clay beneath the wood chip substrate is ideal — no amendment needed; the clay holds moisture and the wood chips sit on top; no conflict between the fungus and the mineral soil",
+      "cultivarNotes": "Field & Forest Products and North Spore both ship reliably to PA; request spawn appropriate for outdoor wood chip cultivation and inoculate in early spring after last frost.",
+      "designPlacement": "Kitchen garden strip (Section B) and tree guild understories (apple, paw paw, mulberry guilds) are the primary managed locations; wherever wood chip mulch is applied on the property, wine cap spawn can be incorporated. The north-facing orientation of Section B is ideal for consistent moisture retention.",
+      "siteObservations": "Already established on the property — refresh beds each spring with new wood chips to maintain productivity. Note current beds' location and condition for spring substrate addition. The red clay beneath the substrate is an advantage here, holding moisture during dry spells. Deer pressure is not a concern for this species at this site."
+    }
+  }
+}

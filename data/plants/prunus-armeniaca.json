@@ -1,0 +1,159 @@
+{
+  "id": "prunus-armeniaca",
+  "name": {
+    "commonName": [
+      "Apricot"
+    ],
+    "latinName": "Prunus armeniaca",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Northern China, Central Asia; naturalized across much of temperate Eurasia; long cultivated — true wild origin is complex but the center of diversity is in the region of modern China and Central Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Introduced and widely cultivated across the lower 48 since the Spanish colonial period; naturalized in scattered locations in the western US (particularly California and the intermountain West) but not considered established in the wild in eastern states. Commercial production concentrated in California, Washington, and Utah."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Apricots do not naturalize aggressively — seedlings are uncommon and rarely persist without cultivation. Not listed on any state noxious weed list or the federal noxious weed list. No invasive look-alikes of concern."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "Zone 5-8; hardy to Zone 4-5 for the tree itself, but reliable cropping is a separate and much harder problem in zones with late spring frosts (see Bloom and Cultivar Notes)"
+    }
+  },
+  "description": {
+    "height": "Standard — 15-20'; semi-dwarf — 8-12' on Citation or Lovell rootstock",
+    "spread": "15-20' for standard; proportionally smaller for semi-dwarf",
+    "spacing": "15-20' for standard; 10-12' for semi-dwarf; can be planted as a pair — most varieties are self-fertile but a second tree can improve fruit set",
+    "growthRate": "Moderate to fast; begins fruiting years 3-5",
+    "timeToMaturity": "First fruit years 3-5; full production years 6-8; in areas with late spring frosts, a \"productive year\" is not guaranteed annually — site selection determines whether you get a crop",
+    "lifespan": "20-40 years; shorter than apple; Prunus in general are shorter-lived than pome fruits",
+    "deciduousEvergreen": "Deciduous; attractive rounded canopy in leaf; beautiful in bloom",
+    "winterInterest": "Low to moderate — attractive branch structure; the very early bloom is a dramatic late-winter event if frost does not destroy it"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 8+ hours; apricots will not produce satisfactorily in shade",
+    "water": "Medium; moderate drought tolerance once established; consistent moisture improves fruit size and quality; avoid waterlogged conditions which promote root disease and canker. In the arid West, irrigation is essential throughout the growing season; in the humid East, supplemental water is mainly needed during fruit development and prolonged dry spells.",
+    "drainagePreference": {
+      "description": "Well-drained; apricots are intolerant of wet feet and will develop root rot and canker in waterlogged soil. Avoid low areas where water pools or cold air drains and settles — both are damaging for different reasons. Raised planting (mounding the root zone 6-12\" above grade) is beneficial wherever drainage is marginal.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Apricot tolerates clay better than peach but worse than plum or apple. In heavy clay, the primary risks are waterlogging during dormancy and slow drainage after rain promoting root diseases (Phytophthora, Armillaria). Amending the planting area generously with compost and coarse organic matter improves structure. Planting on a mound or berm is strongly recommended in clay soils. Avoid creating a \"bathtub effect\" by digging a hole in clay and backfilling with light soil — water collects in the hole. Instead, break up a wide area (6-8' diameter) and mound above grade."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerant across a moderate range"
+    },
+    "texturePreference": "Well-drained loam ideal; tolerates clay better than peach but prefers loose, well-aerated soil. Amend the planting hole with compost but avoid over-fertilizing with nitrogen, which promotes soft growth susceptible to canker and brown rot. Sandy loam is excellent where available. Heavy clay requires amendment and mounding (see Clay Soil Performance).",
+    "rootCharacter": "Moderately deep, spreading root system; not as aggressive as walnut or poplar; Citation rootstock produces a smaller, more fibrous root system suitable for tighter spaces"
+  },
+  "bloom": {
+    "bloomTime": "Apricots bloom earlier than any other common Prunus — often late February to mid-March in warm-winter areas, before peach, before plum, before cherry. A single late frost event (28°F or below for even a few hours) at or after bloom destroys the crop completely. In zones with spring frost risk (Zone 5-7 in the eastern US, Zone 6-7 in the intermountain West), this early bloom is the defining challenge. Careful siting on a north-facing or east-facing slope can delay bloom by 1-2 weeks — sometimes enough to escape the worst frosts. In mild-winter areas (Zone 8+ Pacific Coast, Gulf Coast), frost risk at bloom is minimal but insufficient chill hours can become the limiting factor instead.",
+    "bloomDescription": "Profusely borne white to pale pink 5-petaled flowers, 3/4-1\" wide, opening before the leaves emerge; flowers appear directly on the previous year's wood (spurs and short shoots); the effect of a fully blooming apricot in late winter or early spring is extraordinary — one of the most beautiful sights in the winter-to-spring garden",
+    "fragrance": "Flowers lightly fragrant — sweet and clean",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Most named cultivars are self-fertile; a second apricot of a different variety nearby will improve fruit set but is not required; bees and other early pollinators must be active at bloom time — the very early bloom means pollinator availability can itself be a limiting factor in cold springs"
+  },
+  "yield": {
+    "edibleParts": "Fruit (fresh, dried, preserved); kernels of some varieties are edible (sweet kernel types) — bitter-kernel varieties contain amygdalin and are not for eating",
+    "harvestSeason": "Mid-June through mid-August depending on zone and cultivar — earlier in warm zones, later in cool ones; fruit ripens quickly and does not hold well on the tree; harvest at full color and slight softness; unlike apple and pear, apricots ripen all at once rather than progressively",
+    "medicinalUses": "High in beta-carotene, vitamin C, and potassium; dried apricots are a concentrated source of minerals; apricot kernel oil is used in cosmetics and traditional medicine; the fruit has a long history in Central Asian and Middle Eastern medicinal traditions",
+    "craftOtherYield": "Apricot wood is hard, fragrant, and valued for small turned objects, handles, and firewood; an excellent smoking wood for poultry and pork; dried apricots are one of the finest preserved fruits from a home garden — a truly exceptional yield when the year cooperates"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit flesh is entirely non-toxic. Seeds (kernels) of most commercial varieties contain amygdalin (cyanogenic glycoside) — bitter kernels should not be consumed. Sweet-kernel varieties ('Goldstrike', some heirloom types) have edible kernels; do not assume kernels are safe without knowing the variety.",
+    "toxicityAnimals": "Fruit flesh is generally safe for dogs and horses in moderation; pits and leaves contain cyanogenic compounds and should not be consumed by animals; wilted apricot leaves are particularly dangerous to livestock — remove fallen leaves and branches promptly",
+    "allelopathy": "None significant; can be grown near most companions without concern",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Understory fruit tree layer (semi-dwarf); small canopy layer (standard)"
+    },
+    "roles": [
+      "Food (fruit — one of the finest stone fruits when conditions align)",
+      "Pollinator Support (extremely early bloom feeds the first bees of spring)",
+      "Wildlife Support",
+      "Canopy Structure"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator; ground cover at base)",
+      "chives and garlic (pest deterrent; allium family deters borers and aphids)",
+      "daffodils (deer deterrent ring around the drip line)",
+      "white clover (nitrogen fixer in understory)",
+      "yarrow (insectary — draws beneficial predators)",
+      "basil (traditional companion said to repel aphids); keep grass and competitive perennials away from the trunk zone — apricots do not like root competition"
+    ],
+    "antagonists": [
+      "Do not plant near black walnut (Juglans nigra) — juglone sensitivity. Keep away from eastern red cedars (Juniperus virginiana) — apricot is susceptible to cedar-apple rust (Gymnosporangium) though less severely than apple; with late-blooming cultivars this is a secondary concern. Avoid planting where other Prunus have had canker or brown rot problems — inoculum builds in the soil and on surrounding wood."
+    ],
+    "coppiceable": "No; Prunus does not coppice well; large wounds invite canker; prune minimally and strategically"
+  },
+  "wildlife": {
+    "attracts": "Bees and early pollinators — apricot is one of the first significant nectar sources of the season, blooming when little else is open; birds consume fallen and remaining fruit; cedar waxwings and robins are regular visitors at fruit ripening",
+    "hostPlantFor": "Various native Lepidoptera use Prunus species as larval host plants, including the Eastern tiger swallowtail (Papilio glaucus), Coral hairstreak (Satyrium titus), and numerous native moths; Prunus is one of the highest-value host genera for eastern US insects",
+    "nestingHabitat": "Moderate; smaller than a standard apple tree but provides useful structure for song birds; open branching is used by robins and other cup-nesters"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse young apricot trees across the eastern US and anywhere deer populations are high. Protect with wire cages or hardware cloth cylinders during establishment (first 3-5 years). Mature trees sustain browsing better and recover from light browse damage. Deer generally avoid ripe fruit in midsummer when other food is plentiful but will take windfalls. In areas with heavy deer pressure, permanent fencing around young orchard trees is more reliable than repellent sprays."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — apricots are salt-sensitive; avoid road salt exposure and saline irrigation water; not suitable for coastal maritime salt spray zones without wind protection"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; established trees survive drought but fruit quality declines significantly; young trees need consistent water through the first two seasons"
+    },
+    "other": "Late frost intolerance at bloom is the primary limiting factor for cropping success across much of the eastern US and intermountain West — this is not a tolerance issue with the tree itself, but a phenological mismatch between the tree's very early bloom timing and the frost calendar. The tree is cold-hardy; the flowers are not. In humid climates (eastern US, Gulf Coast, Pacific NW), fungal disease pressure (brown rot, canker) is significantly higher than in arid western climates where apricots thrive with less intervention."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium-High — annual pruning, vigilant disease monitoring, and realistic crop expectations are all required; apricot is among the more demanding fruit trees for home orchardists, particularly in humid eastern climates",
+    "pruningNotes": "Prune in late winter or very early spring before bud break — or immediately after harvest in summer. Avoid fall pruning, which leaves wounds open during the wet, cool conditions when canker pathogens are most active. Train to an open-center (vase) form to maximize light penetration and airflow — critical for managing brown rot. Remove: crossing branches, any dead or cankered wood (cutting well below the discolored tissue; disinfect tools between cuts with 70% isopropyl alcohol or 10% bleach), water sprouts, and branches that create shade in the canopy interior. Keep pruning wounds as small as possible — large wounds on Prunus are an entry point for cytospora canker and bacterial canker. Do not paint wounds (wound paints do not prevent canker and can trap moisture). After any suspected canker cut, burn or bag the removed wood — do not compost it.\nDisease management is the defining maintenance challenge in humid climates: **Brown rot (Monilinia fructicola / M. laxa)** is the most serious disease of apricot east of the Rockies and in the Pacific NW. Symptoms: blossoms turn brown and wither (blossom blight); fruit develops brown, rapidly spreading rot at any wound or crack; mummified fruit hangs on the tree through winter as an overwintering inoculum source. Management: remove all mummified fruit in late winter before bloom; rake and remove fallen fruit promptly throughout the season; maintain excellent canopy airflow through pruning; avoid overhead irrigation. In wet bloom years, a single copper-based or sulfur fungicide spray at pink bud and petal fall reduces blossom blight significantly. In arid western climates, brown rot pressure is much lower and may not require fungicide intervention.\n**Bacterial canker (Pseudomonas syringae)** causes sunken, weeping cankers on branches and trunk, typically appearing in early spring. It is favored by wet conditions and mechanical wounds. Management: prune in dry weather; minimize wounds; apply copper spray in fall before leaf drop and at bud swell in spring to reduce bacterial load.\n**Cytospora canker (Leucostoma persoonii)** is a fungal canker that attacks stressed trees. Prevention is the best management: maintain tree vigor through appropriate watering and avoid over- or under-fertilizing; keep wounds small.",
+    "propagationMethods": [
+      "Grafting onto compatible rootstock (Citation for semi-dwarf; Lovell or Nemaguard for standard; purchase grafted trees from a reputable nursery); seed propagation is possible but seedlings are variable and usually inferior; cuttings are difficult with Prunus — grafting is the standard"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection is the single most important decision for apricot success, and the key criterion varies by region. In frost-prone zones (5-7, eastern US and intermountain West), prioritize **late bloom time** above all else — a late-blooming apricot that escapes frost will yield; an early-blooming one with superior flavor will yield nothing in most years. In mild-winter zones (8-9, Pacific Coast), chill-hour requirements become the primary selection criterion instead. In arid western climates, disease resistance is less critical and flavor/fruit quality can take priority.\n**Zone 3-5 (Northern Tier / Upper Midwest / Northern Rockies):** Tree survival is the first hurdle. Choose the hardiest rootstock (Manchurian apricot seedling or hardy selections). 'Westcot' (Manitoba), 'Debreceni' (Hungarian), and 'Moongold'/'Sungold' (Minnesota) are bred for extreme cold. Cropping is unreliable — expect fruit in perhaps 2-3 years out of 10 due to frost at bloom. Plant for the tree's beauty and pollinator value as much as for fruit.\n**Zone 5-7 (Mid-Atlantic, Great Lakes, Central Plains, Intermountain West):** This is the zone band where cultivar selection matters most. Late-blooming varieties are essential in the eastern half; western growers in arid climates have more flexibility.\n**'Harglow'** (Ontario, Canada — Harrow Research Station): The top recommendation for frost-prone Zone 5-7. Bred specifically for late bloom to avoid spring frost damage; reliably 1-2 weeks later than most standard varieties. Self-fertile. Medium-large, bright orange fruit with excellent flavor and freestone flesh. Good resistance to perennial canker — an important secondary advantage.\n**'Harlayne'** (Ontario, Canada — Harrow Research Station): From the same breeding program as 'Harglow'; also late-blooming, self-fertile, and developed specifically for cold-climate reliability. Slightly more tart than 'Harglow'; excellent for drying and preserves. A strong second choice or a good pairing with 'Harglow' to extend harvest and improve cross-pollination.\n**'Goldcot'** (Michigan — USDA): An American selection developed for the Great Lakes region; later bloom than most standard varieties; Zone 5-8; freestone; good flavor for fresh eating and canning. Less late-blooming than the Canadian varieties but more widely available from US nurseries.\n**Zone 8+ (Pacific Coast, Deep South, Desert Southwest):** In California and the arid Southwest, apricots thrive with minimal frost risk. Flavor and fruit quality become the primary criteria. 'Blenheim' ('Royal') is the classic California apricot — incomparable flavor, the benchmark for dried apricots, but early-blooming and unsuitable for frost-prone areas. 'Tilton' is widely grown commercially in the West. In the humid Southeast (Zone 7b-8), high disease pressure (brown rot, bacterial canker) makes apricot difficult; choose disease-resistant cultivars like 'Harglow' even in warmer zones if humidity is high.\n**'Moorpark'** (traditional English variety, 18th century): The historical flavor benchmark — rich, aromatic, exceptional when grown well. Early-blooming. In frost-prone zones, 'Moorpark' is a high-risk gamble. Plant it only if you have an ideal delayed-bloom microclimate and can accept no-crop years. In mild-winter areas with adequate chill, it rewards with the finest apricot flavor available.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Home orchard",
+      "food forest understory fruit layer",
+      "specimen flowering tree",
+      "permaculture guild anchor; apricots deserve a place in any serious food garden — with honest expectations about crop frequency in frost-prone zones"
+    ],
+    "designPlacement": "Apricot is the most site-demanding Prunus and requires the most carefully chosen microclimate wherever late frosts threaten the crop. The ideal site in frost-prone zones: a **north-facing or east-facing slope** where the tree receives morning shade in late winter and early spring — this slows soil and air warming, keeping the tree dormant longer and delaying bloom. Avoid south-facing and west-facing exposures, which warm early and push bloom earlier. In mild-winter areas (Zone 8+ Pacific Coast, arid Southwest) this calculus reverses — full southern exposure is fine and desirable. **Air drainage** is critical everywhere: cold air is denser than warm air and flows downhill, pooling in low spots and hollows. Do not site the apricot at the bottom of a slope or in a depression where frost will be worst. A mid-slope position with good cold-air drainage below it is the gold standard. Morning shade from a building or treeline to the east can further delay bloom in frost-prone areas without unduly restricting full-sun access in the afternoon. Plant 1-2 apricots; accept that some years there will be no crop in frost-prone zones, and celebrate the years when the crop succeeds.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apricot",
+    "inaturalist": "https://www.inaturalist.org/taxa/135331-Prunus-armeniaca",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderProfileResults.aspx?basic=prunus+armeniaca"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concerns.",
+      "drainage": "The compacted red clay at Hegins poses a real challenge for apricot. In-ground planting requires aggressive site preparation — break and amend a wide area and plant on a raised mound above grade. The drainage issues after rain at this site make mounding non-optional. A south-facing or west-facing slope would normally be preferred for drainage, but for apricot the bloom-delay requirement (north or east aspect) takes priority — choose the best-drained spot on a north or east exposure and mound generously.",
+      "soil": "Red clay at Hegins needs compost amendment and wide soil-breaking before planting. Do not simply dig a hole in the clay and backfill — this creates a drainage trap. Break up an area at least 6-8' across, work in 4-6\" of coarse compost, and mound the planting zone. The slightly acidic pH typical of central PA soils (5.5-6.5) is acceptable but a soil test is recommended; lime lightly if below 6.0.",
+      "cultivarNotes": "'Harglow' is the clear first choice — late bloom, self-fertile, canker-resistant, proven in the humid eastern climate. Pair with 'Harlayne' if space allows for improved cross-pollination and extended harvest. 'Goldcot' is a viable alternative if the Canadian varieties are unavailable from nurseries. Avoid 'Moorpark' and 'Blenheim' unless you have a perfect north-facing microclimate and consider the tree ornamental first, productive second.",
+      "designPlacement": "Site the apricot on the most cold-delayed, well-drained microclimate available on the property. A north or east aspect is ideal — the tree needs full sun but delayed spring warming. If placed near a tree guild, position it where it will not be shaded but can benefit from the windbreak and microclimate moderation of surrounding plantings. The red clay requires mounding at planting (see Drainage/Clay notes above). Keep away from any existing Juniperus virginiana on or near the property to reduce cedar-apple rust risk. Not suitable for Sections A, B, or C (height limits, shade, wrong exposures) — this is a food forest or open orchard tree.",
+      "siteObservations": "The Hegins site presents the classic Zone 6a apricot challenge: late frosts routinely occur through mid-April, and the compacted red clay adds drainage stress on top of the frost-timing problem. Active deer pressure from the east wildlife corridor means wire caging will be required during establishment (first 3-5 years minimum). The property's construction-disturbed soil near the house is unsuitable — site the tree in an area with less compaction if possible, or commit to thorough soil preparation. In a realistic assessment, expect harvestable fruit perhaps 3-5 years out of 10 even with ideal siting and a late-blooming cultivar. The tree itself will be long-lived, beautiful, and valuable to early-season pollinators regardless of crop success. A 'Harglow' on Citation rootstock (semi-dwarf, 8-12') is the most practical choice for this property — manageable size for netting and harvest, good disease package for humid PA conditions."
+    }
+  }
+}

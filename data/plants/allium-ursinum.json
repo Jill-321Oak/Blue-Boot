@@ -1,0 +1,166 @@
+{
+  "id": "allium-ursinum",
+  "name": {
+    "commonName": [
+      "Wild Garlic",
+      "Ramsons",
+      "Bear's Garlic",
+      "Buckrams"
+    ],
+    "latinName": "Allium ursinum",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and temperate Asia — from the British Isles and Atlantic coast east through central Europe to the Caucasus, Russia, and western Siberia; abundant in moist, deciduous woodland throughout; one of the most widespread and well-known foraged plants of Europe",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe; naturalized in scattered moist woodland locations in the northeastern US; documented as escaped from cultivation in some states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not widely listed as invasive in the US but has naturalized in parts of the northeastern US; it spreads by bulb offsets and prolific self-seeding and can colonize woodland understories; gardeners in the Northeast should be aware of its spreading tendency; not a regulated species nationally but worth monitoring; compare to Allium tricoccum (ramps) — the native North American equivalent that is ecologically preferable for eastern US woodland gardens"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9; fully cold-hardy; thrives in cool, moist woodland climates; an excellent fit for Zone 6a Pennsylvania"
+    }
+  },
+  "description": {
+    "height": "8-18\" in leaf and flower; foliage typically 8-12\", flower scapes reaching 12-18\"",
+    "spread": "Spreads gradually over time via self-seeding and bulb offset; a colony will expand to fill available shaded, moist ground; over several years a small initial planting can develop into a substantial ground-covering drift",
+    "spacing": "4-6\" apart; plant in large groups or drifts for best ground-cover effect and harvest potential",
+    "growthRate": "Moderate — establishes and spreads more readily than ramps (A. tricoccum); a colony becomes productive and visually substantial within 2-3 years",
+    "timeToMaturity": "Leaves harvestable from year 1; a full, dense ground-covering colony takes 3-5 years to establish",
+    "lifespan": "Long-lived perennial bulb; essentially permanent in suitable habitat; a colony, once established, self-perpetuates indefinitely",
+    "deciduousEvergreen": "Spring ephemeral — one of the earliest plants to emerge in the garden; bright green leaves appear in February or March, well before many other perennials wake; flowers April-May; foliage yellows and dies back completely by June; the plant spends the remainder of the year dormant underground; this deep dormancy is timed precisely to the deciduous woodland cycle — active when the canopy is open and the woodland floor is bright, retired when summer shade and heat arrive",
+    "winterInterest": "None — dormant from June through February; the location should be marked clearly, as there is no visible evidence of the plant during this extended dormancy"
+  },
+  "lightAndWater": {
+    "sun": "Full shade to partial shade — this is the defining ecological characteristic of A. ursinum; it is a woodland floor specialist that requires overhead canopy shade, or at minimum the dappled, shifting shade of deciduous trees; it will perform adequately in partial shade with summer shade protection; it does NOT thrive in full sun; the food forest understory is its ideal habitat",
+    "water": "Medium; consistent moisture during the spring growing season (February-June) is essential for robust growth; the plant tolerates drier conditions during its summer dormancy, which is ecologically convenient — it retreats underground before summer water stress begins",
+    "drainagePreference": {
+      "description": "Moist, well-drained; native to rich, moist woodland soils with high organic matter; does not thrive in waterlogged conditions but appreciates consistent soil moisture; clay soil amended with organic matter (leaf litter, compost) is well-suited",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Wild garlic in heavy clay — moderate; it tolerates moist, heavy soils better than most Allium species given its native woodland habitat; clay that stays moist is actually acceptable; poor surface drainage is the main risk; amend with leaf mold and compost to improve structure"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "5.0-7.0; tolerates a range from mildly acid to neutral; the slightly acid, humus-rich woodland soil that develops under a maturing food forest canopy is ideal"
+    },
+    "texturePreference": "Rich, humus-rich, moist soil; the leaf litter that accumulates under deciduous trees provides exactly the kind of surface mulch and slow-release organic matter that wild garlic thrives in; red clay with organic matter additions is workable — the key is building organic content in the top layer",
+    "rootCharacter": "True bulb; slender and elongated; forms clusters of offset bulbs adjacent to the parent, slowly expanding the colony; shallow-rooted, as is typical for woodland floor ephemerals"
+  },
+  "bloom": {
+    "bloomTime": "April-May; among the earlier spring-flowering plants once established; flowers appear with the foliage or shortly after",
+    "bloomDescription": "Loose, open umbels of 6-20 small, bright white, star-shaped flowers on slender scapes rising above the foliage; individually delicate and pretty; collectively striking when a colony is in full bloom; the white flowers are luminous against the bright green leaf carpet in the still-bare spring woodland; a lovely visual moment in the food forest before the canopy leafs out",
+    "fragrance": "Intensely, unmistakably garlic-scented throughout the entire plant — leaves, flowers, bulbs, and stem; this pervasive garlic scent is both the plant's defining culinary characteristic and its most important identification feature (see Cautions); the flowers are lightly fragrant with the same garlic note",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; also visited and cross-pollinated by bees, hoverflies, and other early-season insects seeking pollen; the early bloom window (April-May) makes it a useful early-season pollinator resource when few other flowers are open"
+  },
+  "yield": {
+    "edibleParts": "Entire plant is edible — leaves, flowers, bulbs, and green seed capsules; leaves are the primary and most prized harvest (the broad, smooth, bright green leaves have a mild, fresh garlic flavor — less sharp than garlic cloves, less pungent than ramps, beautifully balanced; harvest young leaves before flowering for the best flavor; use fresh, as the delicate flavor diminishes with prolonged cooking; wilt briefly into pasta, stir into soups, blend into pesto, chop into salads, layer into compound butters, use anywhere mild garlic flavor is wanted); flowers (the white star-shaped flowers are edible and beautiful — use as a garnish for salads and plates; mild garlic flavor; visually striking); green seed capsules (the unripe seed capsules before they harden are edible — a foraged delicacy; mild garlic flavor; use as a garnish or pickle); bulbs (small, slender bulbs can be dug in late summer when the plant is dormant; intense flavor; use as a garlic substitute; only harvest bulbs from a well-established colony and leave enough to sustain and expand the planting)",
+    "harvestSeason": "Leaves February-May (the earliest wild garlic leaves are one of the very first fresh greens of the year — they can appear as early as February in a mild year; harvest before flowering for peak flavor; post-flowering leaves become tougher and slightly more pungent but remain edible); flowers April-May; green seed capsules May-June; bulbs July-August (during dormancy, after foliage has died back)",
+    "medicinalUses": "Rich traditional medicinal history in European herbal practice — used for centuries as a spring tonic and blood purifier; contains allicin and related sulfur compounds with documented antibacterial, antifungal, and antioxidant activity; traditional uses include cardiovascular support, digestive support, lowering blood pressure, and treatment of intestinal parasites; considered the European counterpart to garlic (A. sativum) in folk medicine; one of the most important medicinal food plants of the European tradition",
+    "craftOtherYield": "Wild garlic pesto (a celebrated British and European spring specialty — leaves blended with olive oil, nuts, and cheese; one of the most prized seasonal preparations); wild garlic compound butter; wild garlic vinegar; fermented wild garlic; pickled bulbs and capsules; dried leaves (though flavor is diminished)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The plant itself is non-toxic and widely consumed across Europe. CRITICAL LOOKALIKE WARNING — this is one of the most important plant safety cautions in the temperate garden: Allium ursinum has two dangerous lookalikes that share its woodland habitat and spring emergence window. Lily of the valley (Convallaria majalis) is highly toxic — all parts cause cardiac glycoside poisoning; the leaves are superficially similar to wild garlic when young, sharing the broad, smooth, bright-green, lance-shaped leaf form. Autumn crocus (Colchicum autumnale) is extremely toxic — all parts cause colchicine poisoning, which can be fatal; the early leaves can resemble wild garlic emerging from the ground. Both grow in moist, woodland conditions. ALWAYS confirm identity by smell before consuming any part of the plant — Allium ursinum smells intensely and unmistakably of garlic throughout every part of the plant; the scent is released immediately when a leaf is lightly crushed; if there is no garlic smell, do not eat it. No garlic scent = wrong plant. This identification rule is simple, reliable, and must never be skipped.",
+    "toxicityAnimals": "TOXIC to dogs, cats, and horses — as with all Allium species, wild garlic contains N-propyl disulfide and related compounds that cause oxidative damage to red blood cells, leading to hemolytic anemia; even relatively small amounts can be dangerous, particularly for dogs; do not allow pets to graze in areas where wild garlic is naturalized; this is standard Allium toxicity and applies to the whole family",
+    "allelopathy": "None documented; reported as a good companion in the woodland floor community",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground Cover / Herb Layer"
+    },
+    "roles": [
+      "Food (edible leaves, flowers, bulbs, seed capsules — an abundant and diverse spring harvest)",
+      "Medicinal (traditional European herbal medicine — cardiovascular, digestive, antibacterial)",
+      "Ground Cover (spring ephemeral carpet covers bare woodland floor in early spring, suppressing weeds during the window when nothing else is growing)",
+      "Dynamic Accumulator (sulfur compounds from root exudates; the decomposing spring foliage contributes organic matter to the woodland floor)",
+      "Pollinator Support (early bloom when few other flowers are open)",
+      "Pest Confuser (allicin exudates may deter some soil pests and fungal pathogens — a companion benefit similar to other alliums)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — the food forest canopy provides ideal shade; wild garlic fills the early-spring ground layer before paw paw leafs out)",
+      "Morus Illinois Everbearing (mulberry — same logic; the open canopy in early spring is perfect for wild garlic)",
+      "Matteuccia struthiopteris (ostrich fern — the ferns emerge just as wild garlic is dying back; a natural succession in the understory)",
+      "Asarum canadense (wild ginger — a summer-persistent companion; wild garlic covers the spring; wild ginger covers the summer)",
+      "Allium tricoccum (ramps — can grow together in the same food forest understory; they occupy the same ecological niche but A. ursinum is more vigorous and productive; the combination is interesting but A. ursinum may eventually dominate a mixed planting)"
+    ],
+    "antagonists": [
+      "Full sun and dry soil; these are site condition limits rather than plant antagonists; do not site in exposed or dry locations"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and hoverflies (early spring bloom is a useful pollen source when few other flowers are available); butterflies; early-emerging beneficial insects; the common name \"Bear's Garlic\" reflects its historical consumption by brown bears emerging from hibernation in spring — a colorful reminder of its role in the broader ecological food web",
+    "hostPlantFor": "Not a significant host plant for lepidoptera or other specialist insects",
+    "nestingHabitat": "Dense, low ground cover provides some habitat value for ground-level invertebrates and small wildlife; not a primary nesting plant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the intense, pervasive garlic scent of all plant parts is a strong deterrent; deer almost universally avoid Allium species; wild garlic, with its particularly powerful volatile compounds throughout the foliage, is among the most reliable deer-resistant ground covers available"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — a woodland floor plant with no salt tolerance; not relevant to the food forest understory planting position"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor during the spring growing season; the plant requires consistent moisture while actively growing; summer dormancy provides a natural escape from summer drought stress — the plant is underground and unbothered while the garden dries out"
+    },
+    "other": "Tolerates heavy shade; tolerates poorly structured clay soils when organic matter is present; relatively pest- and disease-free in appropriate conditions; naturalizes readily in suitable habitat"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; the main requirement is appropriate siting (shade and moisture); after that the colony largely self-manages, self-seeds, and expands",
+    "pruningNotes": "No pruning required. Harvest leaves by cutting cleanly at the base rather than tearing. Allow spent flowers to set seed freely — self-seeding is the primary mechanism of colony expansion and is not a problem in woodland conditions. Mark the colony location clearly in summer when the plant is dormant; the ground will appear completely bare and bulbs are easily disturbed by unintended digging. A light application of leaf mulch in autumn mimics the natural woodland floor environment and encourages robust spring emergence.",
+    "propagationMethods": [
+      "Seed (easy — let spent flowers set seed naturally; seeds fall and self-sow in the surrounding area; for deliberate propagation, sow fresh seed in autumn directly in the target area; requires cold stratification and typically germinates the following spring)",
+      "bulb offsets (lift and divide clumps in late summer or early autumn when dormant; carefully separate offset bulbs and replant immediately; the preferred method for establishing new colonies in a specific location)",
+      "purchase of bulbs or pot-grown plants in spring (the fastest method; plant pot-grown specimens in spring for establishment by autumn)"
+    ]
+  },
+  "cultivarNotes": "No significant named cultivars in common cultivation; the straight species is what is grown and sold. Occasionally, a variety with slightly larger flowers or more robust foliage may be offered by specialty nurseries, but these are minor selections rather than distinct cultivars. Source from a reputable herb nursery or woodland plant specialist selling cultivated stock — do not collect from the wild, as wild populations are protected in parts of Europe. In the UK and Europe, wild garlic bulbs and plants are widely available from herb suppliers in autumn (the dormant bulb planting window); North American herb nurseries are an increasingly good source as interest grows. For US woodland gardens, particularly in the eastern states, Allium tricoccum (native ramps) is the ecologically preferable alternative — it occupies the same niche, provides identical culinary use, and supports native woodland ecosystems.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory",
+      "woodland garden",
+      "spring ephemeral ground cover",
+      "herb garden with dappled shade",
+      "shaded food production bed"
+    ],
+    "designPlacement": "Universal — woodland garden, shaded food forest floor, spring ephemeral ground cover",
+    "acquisitionStatus": "To source — available from herb nurseries and woodland plant specialists; seek cultivated bulbs or pot-grown plants; autumn is the best planting window for bulbs"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Allium_ursinum",
+    "inaturalist": "https://www.inaturalist.org/taxa/56152-Allium-ursinum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281739"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; European introduction; Allium tricoccum (ramps) is the native PA equivalent for woodland wild garlic use",
+      "paInvasiveStatus": "Not listed as invasive in PA; monitor for spread in moist woodland settings",
+      "drainage": "Hegins red clay: moist clay areas are acceptable; incorporate leaf mold to improve woodland texture; avoid dry, compacted clay sites",
+      "soil": "Hegins: leaf mold and compost amendment beneficial; moist clay areas are workable",
+      "cultivarNotes": "A. ursinum is hardy in Zone 6a; however, A. tricoccum (native ramps) is ecologically preferable for PA woodland gardens and provides identical culinary use",
+      "designPlacement": "Paw paw guild or other shaded, moist areas; note that A. tricoccum is the preferred native alternative for this site",
+      "siteObservations": "An excellent candidate for the Hegins food forest; fills the spring ephemeral ground layer niche with a highly productive, deer-resistant, low-maintenance edible; the early emergence (February-March) and rapid establishment (compared to ramps) make it one of the most rewarding food forest ground covers for this climate; the intense garlic scent is a significant practical advantage given the deer pressure on the east side of the property"
+    }
+  }
+}

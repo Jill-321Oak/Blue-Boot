@@ -1,0 +1,170 @@
+{
+  "id": "prunus-avium",
+  "name": {
+    "commonName": [
+      "Sweet Cherry"
+    ],
+    "latinName": "Prunus avium",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Europe, western Asia, and northern Africa; naturalized widely in temperate regions worldwide, including eastern North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Extensively naturalized in the eastern US from New England south through the mid-Atlantic and into the upper South, as well as in the Pacific Northwest (Oregon, Washington). Birds spread seeds freely and the species establishes in disturbed woodlands, hedgerows, and forest edges throughout these regions."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive at the federal level or on most state noxious weed lists. However, Prunus avium naturalizes readily via bird-dispersed seed in disturbed forests and woodland edges, particularly in the humid eastern US and Pacific Northwest. Self-seeded seedlings will appear in nearby hedgerows and woodland margins. In most states it is considered a minor weed rather than a regulated invasive — it does not form dense monocultures or displace native canopy trees aggressively. Check your state's noxious weed list if uncertain."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "Zone 5-8; some cultivars and rootstock combinations extend to Zone 4 with careful siting. Heat tolerance is generally good through Zone 8 but fruit quality and disease pressure worsen in Zone 9+."
+    }
+  },
+  "description": {
+    "height": "Standard — up to 30-35'; semi-dwarf on Gisela 5 or Colt rootstock — 15-18'; this profile focuses on semi-dwarf forms for home orchard use",
+    "spread": "15-20' on semi-dwarf rootstock",
+    "spacing": "15-20' for semi-dwarf; if planting two trees for cross-pollination, place them within 50' of each other (closer is better for bee-mediated pollen transfer)",
+    "growthRate": "Moderate to fast; sweet cherry is one of the more vigorous Prunus species and will put on 18-24\" of growth per year in good conditions",
+    "timeToMaturity": "First fruit typically years 3-5 on semi-dwarf rootstock; full production years 6-8",
+    "lifespan": "20-40 years on semi-dwarf rootstock; standard trees can exceed 60+ years",
+    "deciduousEvergreen": "Deciduous — spectacular early spring bloom, glossy summer foliage, modest yellow-orange fall color",
+    "winterInterest": "Moderate — attractive bark with horizontal lenticels (similar to other cherries); structural branching visible in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours; reduced sun leads to poor fruit set, weak growth, and increased disease pressure; do not plant in partial shade",
+    "water": "Medium; consistent moisture is important during fruit development (late spring through early summer); avoid overhead irrigation — water at the base only; surface drip or soaker hose is ideal; wet foliage promotes brown rot. In arid western climates, regular deep irrigation is essential throughout the growing season; in humid eastern climates, supplemental water is mainly needed during dry spells in the fruit development window.",
+    "drainagePreference": {
+      "description": "Well-drained to moderately well-drained; sweet cherry is more sensitive to waterlogged conditions than apple or pear; standing water after rain is a serious concern for root health and promotes Phytophthora root rot. Avoid low spots, compacted soils, and any site where water pools for more than a few hours after heavy rain. Raised planting (mounding the root zone 6-12\" above grade) is a practical strategy on marginal-drainage sites.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate to poor. Sweet cherry tolerates clay if drainage is adequate, but heavy, poorly drained clay creates serious risk of root rot and decline. Amend the planting area generously with compost and coarse organic matter to improve structure and drainage. On heavy clay, plant on a raised mound (12-18\" above grade) to keep the root crown above standing water. Colt rootstock shows better clay tolerance than Gisela 5. Where clay is dense and drainage cannot be improved, sweet cherry is a poor candidate."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8"
+    },
+    "texturePreference": "Loam preferred; tolerates clay-loam and sandy loam if drainage is adequate. Avoid dense, unimproved clay or waterlogged soil. Amend heavy soils with compost and coarse organic matter before planting.",
+    "rootCharacter": "Moderately deep, spreading root system; semi-dwarf rootstocks (Gisela 5, Colt) produce more contained root systems than seedling standards; Gisela 5 has good anchorage despite its dwarfing effect; avoid planting in areas with compacted hardpan within 18\" of the surface"
+  },
+  "bloom": {
+    "bloomTime": "Early to mid-spring — among the earliest fruiting trees to bloom; timing varies from late March in Zone 8 to late April in Zone 5. The early bloom makes sweet cherry vulnerable to late frost damage in all but the mildest zones.",
+    "bloomDescription": "Clusters of 5-petaled pure white flowers, 1-1.5\" diameter, appearing in groups of 2-5 along the branches, opening just before or with the emerging leaves; one of the showiest spring-blooming fruit trees; the brief bloom period (7-10 days) is spectacular",
+    "fragrance": "Lightly fragrant — sweet and fresh; pleasant but not strongly perfumed",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Most sweet cherry cultivars require a cross-pollinator — plant two compatible cultivars within 50' for reliable fruit set. Important exceptions: 'Stella', 'Lapins', and 'Sweetheart' are self-fertile and will produce fruit without a partner, though yields improve with cross-pollination. Pollinators: bees (honeybees and native bees); bloom is early and bee activity can be limited in cold springs — this is a variable factor for fruit set in northern zones"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the familiar sweet cherry — eaten fresh, dried, canned, frozen, juiced, made into jam, wine, or liqueur); pits should not be consumed (contain amygdalin)",
+    "harvestSeason": "Late spring to mid-summer depending on zone — roughly late May in Zone 8 to mid-July in Zone 5. The compressed harvest window (typically 1-2 weeks) means timing is critical; harvest at full color and check daily once ripening begins.",
+    "medicinalUses": "Cherry juice (particularly tart cherry, though sweet cherry shares some compounds) is documented to reduce uric acid levels and has anti-inflammatory properties; anthocyanins in the fruit are potent antioxidants; folk use for gout management; cherry stems (peduncles) are used in European herbal tradition as a mild diuretic",
+    "craftOtherYield": "Cherrywood — fine-grained, reddish-brown hardwood; excellent for woodworking, furniture, and carving; highly valued lumber; fragrant firewood and excellent for smoking meat (mild, sweet smoke); gum (resin) exuded from bark has traditional uses"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit flesh is safe; pits, leaves, and bark contain amygdalin (a cyanogenic glycoside that releases hydrogen cyanide when metabolized) — do not crack and eat pits; incidental swallowing of a whole pit is not a concern as the hard shell prevents digestion; wilted leaves are particularly high in amygdalin",
+    "toxicityAnimals": "Leaves, stems, bark, and pits are toxic to dogs, cats, horses, and livestock — wilted leaves especially dangerous to horses and cattle; keep livestock out of areas where cherry leaves or prunings fall; fallen leaves after storm damage are a documented livestock hazard",
+    "allelopathy": "Minimal; like most Prunus species, decomposing leaves may have mild inhibitory effects on some plants; not a significant practical concern in a food garden setting",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy (semi-dwarf — upper canopy / tall understory layer at 15-18')"
+    },
+    "roles": [
+      "Food (primary fruit crop)",
+      "Wildlife Support (one of the highest-value fruiting trees for birds and insects)",
+      "Timber/Wood (valuable cherrywood from prunings and eventual harvest)",
+      "Habitat Structure",
+      "Insectary (spring bloom feeds early bees)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator and mulch plant at the base — the classic cherry guild anchor)",
+      "white clover (nitrogen-fixer in the understory)",
+      "chives or garlic (alliums discourage some pests at the root zone)",
+      "yarrow and dill (insectary plants attracting beneficial wasps and predatory insects)",
+      "daffodil ring (deer deterrent around drip line)",
+      "sweet woodruff or strawberry (ground cover under canopy)",
+      "nasturtium (aphid trap plant)"
+    ],
+    "antagonists": [
+      "Do not plant near black walnut (Juglans nigra) — juglone toxicity is a real risk to Prunus species. Avoid planting in areas with a history of Phytophthora root rot (poorly drained spots). Cedar-apple rust (Gymnosporangium) primarily affects Malus and pear species — sweet cherry has no significant rust disease from eastern red cedar",
+      "so proximity to Juniperus virginiana is less of a concern than with apple."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional early-season nectar and pollen source — one of the first major flowering trees available in spring), butterflies and other early pollinators; fruit is consumed by a very wide range of birds — this is both a feature and the primary management challenge (see Maintenance)",
+    "hostPlantFor": "Native Lepidoptera — Prunus species broadly are among the highest-value host genera in North America; hosts include the Eastern Tiger Swallowtail (Papilio glaucus), Cecropia moth (Hyalophora cecropia), Promethea moth (Callosamia promethea), Coral Hairstreak (Satyrium titus), and dozens of other moth and butterfly species. While P. avium is not native, its close relationship to native Prunus means it supports many of the same Lepidoptera.",
+    "nestingHabitat": "Moderate — dense canopy used by many songbird species for nesting and shelter; birds are strongly attracted to the fruit and will nest in or near the tree during the fruiting period"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse young trees and can damage bark by rubbing. Protect young trees during establishment with wire cages or tree tubes (at least 5' tall); mature trees are more resilient but not immune. Sweet cherry is not as heavily targeted as apple or pear but remains vulnerable in areas with significant deer populations. In high-pressure zones across the eastern US and Midwest, persistent protection of young trees is essential."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — avoid road salt exposure; not suitable for roadside planting or maritime salt spray zones"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — sweet cherry is less drought-tolerant than apple; consistent moisture during fruit development is critical; mulch heavily to retain soil moisture. In arid western climates, regular irrigation is non-negotiable."
+    },
+    "other": "Late frost susceptibility is a meaningful risk across Zones 5-7 — the early bloom can be caught by frost events. Site selection should favor slightly elevated, well-drained ground where cold air drains away rather than pools; avoid frost pockets. In the humid eastern US and Gulf states, high summer humidity increases brown rot pressure significantly (see Maintenance). In hot southern climates (Zone 8+), insufficient chill hours can reduce fruit set for some cultivars — select low-chill cultivars where applicable."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium-high — annual pruning, bird netting at harvest, and active disease management are all required for a productive sweet cherry; this is not a plant-and-forget tree",
+    "pruningNotes": "Annual late-winter pruning (before bud swell) is essential. Train to an open-center (vase) form to maximize light penetration and airflow — both critical for disease management. Remove crossing branches, water sprouts, and any dead or diseased wood. Keep the canopy open; dense canopy is the primary driver of brown rot problems. After harvest, remove and destroy any fruit that is mummified or shows signs of rot — this reduces brown rot inoculum for the following year. Do not leave prunings in the tree or on the ground beneath it. Disinfect pruning tools between cuts when working on disease-affected tissue (70% isopropyl alcohol or 10% bleach solution).\nBird Netting — THE PRIMARY MANAGEMENT TASK: Bird pressure on sweet cherry is severe and largely unavoidable wherever the tree is grown in the US. Catbirds, American robins, cedar waxwings, starlings, and other fruit-eating birds will descend on a cherry tree in numbers and strip the entire crop in 24-48 hours, often before the fruit is even fully ripe. There are two realistic management strategies: (1) Net the entire tree with fine-mesh bird netting before fruit begins to color and remove after harvest — this is the only reliably effective method; (2) Accept sharing the crop with birds and plant a larger-than-needed tree. Reflective tape, predator decoys, and noise deterrents provide minimal protection and require constant rotation to remain effective. For a productive home cherry crop, netting is not optional — it is the central task of the season. Semi-dwarf trees on Gisela 5 (15-18') are far easier to net than standard trees.\nDisease Management — Brown Rot (Monilinia fructicola): Brown rot is the most significant disease threat to sweet cherry, particularly in humid climates (eastern US, Pacific Northwest, Gulf states). It spreads rapidly in warm, wet weather during the ripening period. Symptoms: rapidly spreading tan-brown rot on the fruit, often with gray sporulating tufts. Management: (1) Never use overhead irrigation — always water at the base; (2) Prune for maximum airflow through the canopy; (3) Remove and destroy all mummified fruit and diseased material; (4) Harvest promptly at peak ripeness — do not leave ripe fruit on the tree; (5) In high-pressure years, sulfur-based fungicide applied at petal fall and again before harvest can be used in an organic-compatible program. Rain cracking at harvest (fruit skin splits after rain events) creates entry points for brown rot — crack-resistant cultivar selection is therefore a disease management strategy as much as a quality concern. Growers in arid western climates (inland California, high desert) experience significantly less brown rot pressure.",
+    "propagationMethods": [
+      "Grafting onto rootstock (the standard commercial method; purchase grafted trees from a reputable nursery); hardwood cuttings (possible for some rootstocks); seed (will not come true to cultivar; used for rootstock production)"
+    ]
+  },
+  "cultivarNotes": "Sweet cherry (Prunus avium) and sour/pie cherry (Prunus cerasus) are distinct species with very different flavor profiles, uses, and management requirements. Montmorency and Morello are sour cherries (P. cerasus) — a separate profile will cover sour cherry. Do not confuse them when sourcing trees.\n**Self-fertile cultivars (recommended for most home gardens regardless of zone):**\n**'Stella'**: The most widely recommended self-fertile sweet cherry for the home garden. Large, dark red to nearly black fruit; sweet, excellent flavor. Crack-resistant. Zone 5-9. Mid-season harvest. Widely available at nurseries nationwide. If only one sweet cherry tree is being planted, 'Stella' is the default recommendation across most of the lower 48.\n**'Lapins'**: Self-fertile, large dark red fruit, excellent flavor and quality; very crack-resistant — one of the best for humid climates. Heavy producer. Zone 5-8. Slightly later than 'Stella'. Performs exceptionally well in the Pacific Northwest and humid eastern US. An excellent alternative or companion to 'Stella'.\n**'Sweetheart'**: Self-fertile, late-season, large red fruit, crack-resistant, good flavor. The latest-ripening of the self-fertile trio — useful for extending the cherry season. Zone 5-8.\n**Cross-pollinated cultivars (require a compatible partner):**\n**'Bing'**: The classic commercial sweet cherry — large, firm, mahogany-red, exceptional flavor. Requires a pollinator (use 'Stella' or 'Lapins' nearby). Not crack-resistant — prone to splitting in wet weather. Best suited to drier climates (Pacific Northwest inland valleys, intermountain West, California). Lower recommendation for the humid East or Gulf states where rain cracking and brown rot are persistent issues.\n**'Rainier'**: Yellow-red bicolor, exceptionally sweet and complex flavor; requires a pollinator. Susceptible to cracking in wet weather. Worth growing in drier climates or if bird netting is diligently applied. A premium dessert cherry.\n**Zone-band guidance:**\n- **Zones 3-4:** Sweet cherry is marginal; select cultivars on the hardiest rootstocks (Gisela 6 or seedling Mazzard) and site in the most protected microclimate available. 'Stella' and 'Lapins' are the safest choices; expect variable yields due to late frost damage.\n- **Zones 5-7:** The core sweet cherry zone across the US. All cultivars listed above perform well. Crack resistance matters most in the humid East; less critical in the arid West. Brown rot management is essential in humid climates.\n- **Zone 8+:** Sweet cherry requires adequate winter chill (typically 700-900 hours below 45°F). In the Deep South and Gulf Coast, insufficient chill hours may prevent reliable fruit set. Low-chill cultivars ('Minnie Royal', 'Royal Lee') are available for Zone 8-9 in mild-winter areas but are less widely tested. In the arid West (inland California, high desert), standard cultivars perform well with irrigation.\n**Rootstock guidance (all zones):**\n- **Gisela 5**: The standard semi-dwarf rootstock for home orchards; produces trees at 50-60% of standard size (roughly 15-18'); good anchorage; widely available; earlier fruiting (year 2-3); requires good soil preparation and consistent moisture. Performs best in well-drained loam.\n- **Colt**: Semi-dwarfing (produces trees at 70-80% of standard); slightly more vigorous than Gisela 5; good anchorage; more tolerant of clay and variable drainage than Gisela 5 — a practical advantage on heavy soils. Moderately available.\n- **Mazzard**: Seedling rootstock producing full-size trees (30-35'); extremely vigorous and hardy; best cold tolerance; appropriate for Zone 4-5 sites where dwarfing rootstocks may not survive.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy layer",
+      "home orchard",
+      "fruit guild anchor",
+      "ornamental spring-flowering tree"
+    ],
+    "designPlacement": "Upper canopy / tall understory layer on semi-dwarf rootstock. Requires full sun — minimum 6-8 hours of direct sun; do not site in shade of existing trees or structures. Allow 15-20' radius clearance on semi-dwarf rootstock. If planting two trees for cross-pollination (recommended even with self-fertile cultivars for improved yield), space 15-20' apart and orient to maximize sun exposure to both trees. Plan bird netting access before planting — the ability to drape and secure netting over the entire canopy is a functional design constraint. Avoid planting in frost pockets (elevated or slope-side placement preferred given early bloom timing). Keep away from black walnut (Juglans nigra) — minimum 50' separation. Not suitable for small foundation beds, containers, or height-restricted plantings under 18'.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prunus_avium",
+    "inaturalist": "https://www.inaturalist.org/taxa/61964-Prunus-avium",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=l860"
+      },
+      {
+        "label": "'Stella'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=252679&isprofile=0&pt=7"
+      },
+      {
+        "label": "'Lapins'",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=252665&isprofile=0&pt=7"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Naturalizes in disturbed woods and hedgerows throughout eastern PA via bird-dispersed seed; considered potentially weedy but not regulated.",
+      "drainage": "The red clay at the Hegins site is a concern for sweet cherry — compacted, slow-draining, and construction-disturbed. In-ground planting requires aggressive amendment: excavate a wide planting area (at least 3x root ball diameter), backfill with a 50/50 mix of native soil and compost, and mound the root zone above grade. Colt rootstock is the safer choice here for its better clay tolerance. Monitor drainage after heavy rain during the first two years and intervene if water pools near the trunk.",
+      "soil": "The Hegins red clay will need significant amendment for sweet cherry — work compost and coarse organic matter into a wide planting area, and mound the root zone above grade. Do not plant directly into unimproved dense red clay.",
+      "cultivarNotes": "'Stella' on Colt rootstock is the strongest single-tree recommendation — self-fertile, crack-resistant, and Colt handles the heavy clay better than Gisela 5. If planting a pair, add 'Lapins' for cross-pollination and extended harvest. Bloom is early to mid-April; late frost is a real but manageable risk with good site selection (avoid low spots). Brown rot management is essential in PA's humid summers — prioritize crack-resistant cultivars and open-center pruning.",
+      "designPlacement": "Not suitable for Sections A or C (5' height limits). Not appropriate for Section B (increasingly shaded by food forest). Best placed as a standalone orchard planting or as part of a fruit guild in an open, full-sun area of the property. If establishing a cherry guild, anchor with comfrey, white clover, and a daffodil ring at the drip line for deer deterrence. Site on the highest available ground to minimize frost pooling during April bloom.",
+      "siteObservations": "The red clay and drainage issues at this site are the primary concern for sweet cherry — Colt rootstock and aggressive soil amendment are strongly recommended over Gisela 5. Deer pressure from the east wildlife corridor is a secondary concern; young trees will need wire cages (5' minimum) during establishment. Bird pressure will be significant — plan netting infrastructure at planting time, not after. Late frost risk during April bloom is real but manageable with good site selection; avoid any low areas where cold air pools. Brown rot will be an annual management task given PA summer humidity — commit to open-center pruning, prompt harvest, and sanitation before planting."
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "lonicera-caerulea",
+  "name": {
+    "commonName": [
+      "Honeyberry",
+      "Haskap",
+      "Blue Honeysuckle",
+      "Sweetberry Honeysuckle"
+    ],
+    "latinName": "Lonicera caerulea",
+    "family": "Caprifoliaceae"
+  },
+  "range": {
+    "nativeRange": "Circumpolar boreal regions — northern Japan, Russia, northeastern China, Siberia, Canada; cool-temperate and subarctic forest edges, riparian zones, and mountain slopes throughout the Northern Hemisphere",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to parts of the northern US — subspecies L. caerulea var. villosa occurs in the northeastern US and Great Lakes region (Maine through Minnesota), typically in cool bogs, rocky shores, and montane habitats; not native to the southern, central, or western US; widely introduced as a cultivated fruiting shrub across all regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; does not naturalize or spread aggressively anywhere in the lower 48; not listed on any state noxious weed list or the federal noxious weed list; the plant stays where planted and does not produce root suckers or viable volunteer seedlings in garden settings"
+    },
+    "zone": {
+      "min": 2,
+      "max": 8,
+      "description": "2-8; extraordinarily cold-hardy; the practical upper limit is heat tolerance rather than cold — plants in Zone 8 and warmer may struggle with insufficient chill hours and summer heat stress; performs best in Zones 3-7"
+    }
+  },
+  "description": {
+    "height": "4-6'",
+    "spread": "4-5'",
+    "spacing": "4-5' between plants; pairs must be planted within 6-8' of each other for reliable cross-pollination",
+    "growthRate": "Moderate; slow in year 1 as roots establish, accelerating in years 2-3",
+    "timeToMaturity": "First light crop in years 2-3; full production years 4-5",
+    "lifespan": "Long-lived; 20-30+ years; remarkably durable once established",
+    "deciduousEvergreen": "Deciduous — rounded blue-green leaves; no notable fall color",
+    "winterInterest": "Low — bare in winter; the twiggy, dense branching habit is tidy but not ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; in Zones 7-8, afternoon shade is strongly recommended to buffer summer heat stress; in Zones 3-6, full sun is fine and produces the best yields; morning sun with afternoon protection is ideal in warmer climates — this is the single most important siting decision for honeyberry in the southern half of its range",
+    "water": "Medium; consistent moisture during fruit development is important; more drought-tolerant once established than blueberry; do not allow to dry out completely during establishment year; in arid western climates, irrigation is essential throughout the growing season",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates heavier soils better than blueberry; avoid waterlogged or saturated conditions, which cause root rot; brief seasonal wetness is tolerable but standing water is not",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — significantly more clay-tolerant than blueberry or most Ericaceae; the fibrous root system handles clay-loam without difficulty; in heavy, poorly drained clay, amend the planting hole generously with compost and coarse organic matter to improve drainage; raised planting (mounding the root crown 2-3\" above grade) helps in flat clay sites where water pools; once established, honeyberry in amended clay performs well"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; significantly more adaptable than blueberry, which requires strongly acid soil; does not require acidification; performs well in the neutral to slightly acid soils common across much of the eastern US and Midwest; treat it more like a currant or gooseberry in soil management"
+    },
+    "texturePreference": "Adaptable; tolerates clay-loam through sandy-loam; moist, well-drained loam is preferred; benefits from organic matter amendment in heavy clay or very sandy soils; not particular about soil structure once drainage is adequate",
+    "rootCharacter": "Fibrous, moderately shallow root system; does not spread aggressively by runners; stays where planted"
+  },
+  "bloom": {
+    "bloomTime": "March-April — among the very earliest shrubs to bloom, often alongside forsythia and well before most fruit trees; timing varies by zone (as early as February in Zone 8, March-April in Zones 5-7); the early bloom is a major asset for early pollinators but carries frost risk in regions with late-spring cold snaps",
+    "bloomDescription": "Small, paired, tubular, pale yellow to creamy-white flowers; not showy individually but produced in abundance along the bare stems before leaf-out; the timing, not the appearance, is their significance",
+    "fragrance": "Faint, faintly sweet; not a notable fragrance plant",
+    "flowerSex": "Hermaphrodite; flowers have both male and female parts but are functionally self-incompatible in most cultivars",
+    "pollination": "REQUIRES CROSS-POLLINATION — this is non-negotiable for fruit production; two compatible cultivars must be planted together; compatibility is cultivar-specific and cannot be assumed; many honeyberry cultivars are not cross-compatible with each other even if they are the same species; always purchase named, matched pairs from compatibility charts; see Cultivar Notes"
+  },
+  "yield": {
+    "edibleParts": "Fruit — elongated, blue-purple berries 0.5-1\" long; oblong to cylindrical shape, like a stretched blueberry; deep blue skin with a whitish bloom; very high juice content; flavor is tart-sweet, blueberry-adjacent with a more assertive tartness and complex berry depth; excellent fresh eating when ripe (some cultivars are sweeter than others); outstanding in smoothies, jams, pies, cobblers, sauces, and baked goods; can be frozen whole and used like blueberries",
+    "harvestSeason": "Late May to mid-June in Zones 5-7; earlier in warmer zones, later in colder ones — THIS IS THE DEFINING CHARACTERISTIC of honeyberry; it typically ripens 2-3 weeks before strawberries and is one of the first fruits of the entire season; the fruit is fully ripe when it pulls off easily and the interior flesh is uniformly dark (not white near the seed — white flesh at the center means it is not yet fully ripe, even if the skin looks ready)",
+    "medicinalUses": "Exceptionally high anthocyanin content — among the highest recorded of any fruit, higher than blueberry and black currant by some measures; documented anti-inflammatory, cardiovascular-protective, and antioxidant properties; traditional food and medicine in indigenous communities of Hokkaido (Japan) and the Russian Far East",
+    "craftOtherYield": "Deep-staining blue-purple juice — an excellent natural dye source; the juice color is intense and long-lasting"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; fully edible; the common name \"honeysuckle\" may cause confusion — most ornamental Lonicera berries are toxic, but Lonicera caerulea fruit is specifically the edible exception; do not confuse with ornamental honeysuckle species",
+    "toxicityAnimals": "Generally considered non-toxic; birds consume the berries freely; exercise caution with dogs and cats as with any Lonicera species, though L. caerulea fruit is not considered toxic",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (early-season fruit — among the first of the year)",
+      "Wildlife Support (critical early-season food source for birds before other berries ripen)",
+      "Insect Attractor (early bloom feeds bees and early-emerging pollinators when little else is available — this is a genuinely significant ecological role)",
+      "Soil Builder (mulch under the shrubs; comfrey as companion)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator; plant at the base for living mulch and fertility)",
+      "chives and garlic chives (pest deterrent)",
+      "yarrow (insectary; draws beneficial insects)",
+      "other honeyberry cultivars (required companion for pollination)",
+      "blueberry (extends the early-season harvest window; complementary but not a pollination substitute)"
+    ],
+    "antagonists": [
+      "None documented; honeyberry is generally compatible in mixed plantings"
+    ],
+    "coppiceable": "No; does not respond well to hard coppice; renewal pruning (selective removal of oldest canes) is the correct approach — same framework as currant and gooseberry management"
+  },
+  "wildlife": {
+    "attracts": "Bees and early-emerging pollinators (the early bloom is exceptionally valuable; honeyberry may be one of the most important early-season nectar sources in a food forest or mixed planting); birds (the early fruit ripens before nearly all other berries — robins, catbirds, thrushes, cedar waxwings, and others will find it before most other fruits are available; expect bird competition at harvest time)",
+    "hostPlantFor": "Not a primary lepidopteran host plant; limited data; the genus Lonicera hosts some moth species",
+    "nestingHabitat": "Dense multi-stemmed habit provides some cover; not a primary nesting shrub"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the dense, twiggy growth habit and small leaves are not preferred browse; deer generally avoid honeyberry; not completely deer-proof but significantly less attractive than roses, apples, or most fruiting shrubs; one of the better deer-tolerant fruiting shrubs available; young plants may still need temporary protection (caging or netting) until established in areas with heavy deer pressure"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure and recovers from light spray; not suited for direct roadside planting or maritime salt wind"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; needs consistent moisture during establishment and during fruit development; in arid western climates, supplemental irrigation is required year-round"
+    },
+    "other": "SUMMER HEAT is the primary tolerance concern across the southern half of the lower 48 — honeyberry is native to boreal and subarctic climates and prefers cool summers; it will survive Zones 7-8 heat but may show stress (leaf scorch, reduced production) in extended hot spells; afternoon shade, heavy mulching, and consistent moisture are the three mitigations; gardeners in Zones 8+ should consider whether the plant is worth the effort given heat limitations; LATE FROST is a secondary risk everywhere — the early bloom (as early as February-March in warmer zones) can be damaged by a hard late freeze; the flowers themselves can tolerate brief dips to around 20°F, which is remarkable, but an extended cold snap below 20°F during bloom can reduce yield for that season; HUMIDITY is generally not a problem — honeyberry tolerates the humid summers of the eastern US without significant disease issues"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "Prune in late winter before bloom; honeyberry fruits on 1-year-old wood and older; in the first 3-4 years, minimal pruning — remove only dead, damaged, or crossing wood; once the shrub is established (years 4+), begin annual renewal pruning: remove the oldest, thickest canes at the base to encourage vigorous new growth; the goal is to maintain productive young wood; avoid heavy pruning in the first few years as it delays fruiting; do not tip-prune (removing shoot tips removes the flower buds)",
+    "propagationMethods": [
+      "Hardwood cuttings (late fall/early winter — moderately easy; less reliable than Ribes but achievable); softwood cuttings (summer — more reliable than hardwood); layering; seed (slow and cultivar characteristics will not be preserved — not recommended for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "COMPATIBILITY IS CRITICAL — always plant named, matched pairs. Do not assume two honeyberry plants will pollinate each other; confirm compatibility before purchasing. Cultivar selection should be guided primarily by your USDA hardiness zone and summer heat exposure.\n**Zones 2-5 (northern US, upper Midwest, mountain West):** The widest range of cultivars performs well here. Russian and Japanese introductions ('Berry Blue', 'Blue Velvet', older selections) thrive in these cold zones. University of Saskatchewan (U of Sask) varieties also excel. Cold is never the limiting factor; choose for flavor, fruit size, and productivity.\n**Zones 5-7 (mid-Atlantic, lower Midwest, Pacific Northwest, Great Lakes):** Prioritize cultivars from the U of Sask breeding program, which were specifically selected for improved heat tolerance, larger fruit, and reduced bitterness. Recommended pairs:\n- **'Aurora' + 'Borealis'** — The gold standard pair; both U of Sask; 'Borealis' is vigorous and productive with large, mild-flavored fruit; 'Aurora' is slightly later with excellent flavor; the most widely recommended pairing for mid-Atlantic and Great Lakes food gardeners; widely available from specialty nurseries.\n- **'Tundra' + 'Boreal Blizzard'** — Both U of Sask; 'Tundra' is compact and productive with sweet berries; 'Boreal Blizzard' is a strong, vigorous pollinator; a reliable second-choice pair with good heat tolerance.\n- **'Indigo Gem' + 'Indigo Treat'** — Older introductions; more tart flavor profile; reliable production; good for those who prefer an assertive, tart berry for jam and baking; widely available and often the most affordable option.\n**Zone 8 (southern US, low-elevation Pacific NW):** Marginal territory for honeyberry. Only the most heat-tolerant selections should be attempted. U of Sask Boreal series is the best bet. Afternoon shade and heavy mulching are essential, not optional. Expect reduced yields compared to cooler zones. Gardeners in Zone 9+ should generally avoid honeyberry.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "orchard understory edge",
+      "north-facing slope or aspect",
+      "early-season fruit production",
+      "wildlife garden",
+      "pollinator support garden"
+    ],
+    "designPlacement": "Site honeyberry in a cooler, partially shaded position where afternoon sun is limited in summer — a north-facing or northeast-facing aspect is ideal in Zones 6+. In Zones 3-5, full sun is fine and produces the best yields. The pair requirement means two compatible plants must be sited within 6-8' of each other; plan for a minimum 8-10' linear footprint for a productive pair. Plant near other early-season fruit (blueberry, currant) to create a concentrated early harvest zone. Avoid hot, south-facing walls or exposed western aspects in Zones 7+. The 4-6' mature height makes honeyberry suitable for understory planting beneath taller fruit or nut trees, or as a freestanding hedge-row element.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonicera_caerulea",
+    "inaturalist": "https://www.inaturalist.org/taxa/164761-Lonicera-caerulea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278931"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "The native variety (L. caerulea var. villosa) occurs in northern Pennsylvania in cool, boggy habitats; not native to the Ridge and Valley region around Hegins; cultivated forms at this site are introduced selections from breeding programs, not local genotypes",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture or DCNR invasive species lists; same as general Invasive field — no concerns",
+      "drainage": "The compacted red clay at the Hegins site will benefit from generous compost amendment at planting — dig a wide, shallow hole (wider than deep), backfill with a 50/50 mix of native clay and compost, and mound the crown slightly above grade; raised beds are not required but would simplify establishment; in-ground planting is viable with amendment",
+      "soil": "The red clay at the Hegins site is within the acceptable range with amendment; work in 3-4\" of compost at planting and maintain a deep organic mulch (wood chips or leaf mold) to improve soil structure over time; the naturally slightly acid pH of the local clay is suitable without adjustment",
+      "cultivarNotes": "For the Hegins site, 'Aurora' + 'Borealis' is the top recommendation — well-matched to the climate, widely sourced, and proven in the mid-Atlantic. The U of Sask Boreal series cultivars are the priority over older Russian introductions for this zone.",
+      "designPlacement": "Section A (north-facing front bed) is a strong candidate: the cool microclimate, partial shade, and 5' height limit (honeyberry naturally stays 4-6', manageable with light pruning) align well; the early March-April bloom would provide ornamental interest and pollinator value at the front of the property before almost anything else is in flower. The symmetrical layout around the central stairway could accommodate a matched pair on either side. Alternatively, a cool north-facing spot in the food forest — near the mulberry guild understory edge or on the north side of an apple guild — would suit it well. Pairs well with blueberry for an extended early-season harvest.",
+      "siteObservations": "The north-facing aspect of Section A provides the afternoon shade buffer that honeyberry prefers in Zone 6a, making it the best microclimate match on the property. Deer pressure from the east corridor is a low concern — honeyberry has good deer resistance, though young plants should be caged for the first year or two as a precaution. The compacted red clay will need amendment at planting (compost, wide shallow hole, slight mounding) but honeyberry is more clay-tolerant than blueberry and should establish without raised beds. Summer heat stress is the main watch item — extended hot spells in July-August may cause leaf scorch; the north-facing aspect and heavy mulching will mitigate this. Late frost during the early March-April bloom is a seasonal risk that could reduce yield in some years but will not harm the plant itself."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "thymus-vulgaris",
+  "name": {
+    "commonName": [
+      "Common Thyme",
+      "Garden Thyme",
+      "Culinary Thyme"
+    ],
+    "latinName": "Thymus vulgaris",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Western Mediterranean region — southern Europe, primarily Spain, southern France, and Italy; widely naturalized throughout Europe and cultivated globally since antiquity",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native; widely cultivated across the US; naturalized in scattered locations but not aggressively"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; well-behaved garden plant; does not naturalize aggressively in any US region"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9; drainage quality matters far more than cold tolerance — wet soil through winter kills thyme faster than frost does"
+    }
+  },
+  "description": {
+    "height": "6-12\"; upright to mounding semi-woody subshrub; taller and more erect than Thymus serpyllum (creeping thyme), which forms a prostrate mat at 1-3\"",
+    "spread": "12-18\"",
+    "spacing": "12-15\"",
+    "growthRate": "Moderate; establishes readily in year 1; full productive size by year 2",
+    "timeToMaturity": "Harvest lightly in year 1; fully productive from year 2 onward",
+    "lifespan": "3-5 years at peak productivity; plants become progressively woodier and less vigorous over time and should be replaced from cuttings or fresh stock; with good drainage and annual pruning, productive life can extend beyond 5 years",
+    "deciduousEvergreen": "Semi-evergreen; small grey-green leaves persist through mild winters in Zones 6-9; significant stem dieback is normal after hard winters in Zones 4-6 — do not prune until new growth shows in spring to confirm what has survived",
+    "winterInterest": "Low; the woody gray-stemmed structure and persistent leaves are visible but not ornamentally significant; plants can look rough after a hard winter — this is normal and expected"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required; 6+ hours minimum; thyme's essential oil concentration (thymol and carvacrol) is directly tied to sun exposure — shading produces weaker, less flavorful growth; south-facing or west-facing positions are ideal; north-facing beds are poorly suited to thyme",
+    "water": "Low; drought tolerant once established; water deeply and infrequently; consistent moisture reduces aromatic potency and increases disease risk; established thyme in most US climates typically needs no supplemental irrigation through summer except in severe drought",
+    "drainagePreference": {
+      "description": "Excellent drainage is the single most critical requirement — more important than cold hardiness; thyme will not survive wet, waterlogged soil through winter regardless of temperature; raised beds, berms, or a raised ridge of well-amended gritty soil are strongly recommended wherever native soil drains slowly; wet winter conditions are the primary killer of thyme across heavy-soil gardens throughout the eastern US",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor in unammended clay; clay holds moisture that rots the crown and roots during winter dormancy; in any heavy-soil garden, meaningful drainage improvement is required before planting thyme in-ground; amend planting areas generously with sharp grit (horticultural grit or coarse perlite) and compost worked in at a ratio of at least 1:1 with native soil; raising the planting area 4-6\" above the surrounding grade substantially improves survival; containers and raised beds are reliable alternatives to in-ground planting where drainage cannot be adequately improved"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates slightly alkaline conditions; lean to average fertility strongly preferred; excess fertility produces lush, soft growth with reduced aromatic intensity — thyme thrives where other plants struggle"
+    },
+    "texturePreference": "Sandy loam, gravelly or stony soil, or lean well-amended soil strongly preferred; lean conditions concentrate the volatile oils that give thyme its characteristic flavor and scent; heavy clay is incompatible unless substantially amended and elevated",
+    "rootCharacter": "Shallow, fibrous root system with a slightly woody crown; stays in place — does not spread by runners or rhizome the way T. serpyllum does; the crown is the most vulnerable point in wet soil"
+  },
+  "bloom": {
+    "bloomTime": "May through June in most of the US; sometimes blooms again lightly in late summer; earlier in warmer zones",
+    "bloomDescription": "Small, two-lipped tubular flowers clustered in whorls along the upright stems; typically pale lilac to soft pink-purple, occasionally white depending on cultivar; the plant in full bloom has a pleasant misty appearance; individually modest but collectively attractive; do not deadhead if supporting pollinators — the flowers are a premium nectar source",
+    "fragrance": "Foliage is intensely and distinctively aromatic — pungent, warm, slightly spicy, and medicinal; the characteristic thyme scent is produced by thymol and carvacrol, two phenolic compounds that give the herb its culinary and antiseptic properties; T. vulgaris is noticeably more pungent than T. serpyllum (creeping thyme), whose flavor is milder and slightly sweeter; even light brushing of the foliage releases strong fragrance",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding pollinator plant during bloom; honeybees and native bees work thyme flowers intensively; thyme honey is regionally famous in the Mediterranean for its distinctive aromatic flavor; the bloom period is one of the most bee-attractive events in the herb garden relative to the plant's size"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers; one of the most important culinary herbs in Western cooking; used fresh or dried in soups, stews, stocks, braises, roasted meats, and marinades; essential in bouquet garni alongside bay, parsley, and rosemary; pairs particularly well with poultry, lamb, pork, root vegetables, tomatoes, and legumes; dried thyme retains its flavor well and is a staple of the dried herb pantry; sprigs can be roasted alongside vegetables or meats to perfume the dish; the flowers are edible and mildly flavored",
+    "harvestSeason": "Leaves available year-round from established plants in Zones 6-9; harvest most heavily before and during bloom for maximum essential oil concentration; cut stems 4-6\" long; strip or pull leaves from lower stems for drying; harvest no more than one-third of the plant at a time to maintain vigor; avoid heavy harvest in late summer and fall, which can weaken the plant before winter",
+    "medicinalUses": "Thymol, the primary active compound in T. vulgaris, is a documented natural antiseptic and antifungal — it is the active ingredient in some commercial mouthwashes and topical antiseptics for this reason. Traditional uses include infusions for respiratory complaints (coughs, bronchitis, upper respiratory congestion), where thymol acts as an expectorant and antimicrobial; thyme tea or syrup for cough relief is one of the better-supported herbal remedies in traditional medicine. Topically, thyme infusions can be used as a wound wash or skin rinse for minor cuts and fungal conditions. Thyme tincture is used in herbal practice for digestive complaints and as a broad-spectrum antimicrobial. The antifungal properties extend to garden use — thyme essential oil and strong infusions are used in some organic fungicide applications.",
+    "craftOtherYield": "Dried herb (outstanding shelf life — one of the best-drying culinary herbs; retains color and potency well); essential oil (thymol); dried stems and foliage for fragrant sachets and wreaths; strong thyme infusion as a natural household antiseptic rinse"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe in all culinary and normal medicinal use quantities; the herb has been used continuously since antiquity with no toxicity concerns at food and tea doses; concentrated essential oil (thymol extract) should not be taken internally — but this is not relevant to garden or kitchen use; pregnant women should avoid large medicinal doses of thyme tea as a precaution; culinary use during pregnancy is safe and unproblematic",
+    "toxicityAnimals": "Generally safe; thyme is not listed as toxic to dogs or cats by the ASPCA; essential oils are not safe for use on or near pets; garden plants grazed in normal quantities pose no risk",
+    "allelopathy": "Mild allelopathic effects from volatile oils have been reported, similar to other Mediterranean aromatic herbs; not a concern in established mixed herb plantings; space slightly from fine-seeded annuals",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herb / Shrub (low); occupies the herb layer at 6-12\"; distinct from T. serpyllum, which occupies the ground cover layer"
+    },
+    "roles": [
+      "Food (premier culinary herb — one of the most productive kitchen garden herbs per square foot)",
+      "Medicinal (antiseptic, respiratory, antifungal)",
+      "Insect Attractor (excellent bee plant during bloom)",
+      "Pest Confuser (strongly aromatic foliage deters pest insects and browsing animals including deer)",
+      "Nutrient Accumulator (shallow roots work lean topsoil)"
+    ],
+    "companionPlants": [
+      "Sage (Salvia officinalis) — nearly identical cultural requirements and natural Mediterranean companions; rosemary; oregano; lavender (in well-drained, sunny positions); brassicas (traditional companion said to deter cabbage pests); tomatoes; strawberries; excellent throughout herb guilds and kitchen garden beds. Pairs well with T. serpyllum (creeping thyme) as an edge plant in the same herb strip",
+      "with T. vulgaris providing upright culinary harvest and T. serpyllum closing the ground below."
+    ],
+    "antagonists": [
+      "Any plant requiring consistently moist",
+      "rich soil — thyme's need for lean",
+      "dry",
+      "well-drained conditions is incompatible with moisture-loving neighbors; avoid planting in wet zones or alongside plants that need heavy watering; keep away from areas with drainage problems"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (excellent — honeybees and native bees both work the flowers intensively during bloom; thyme is one of the most valuable nectar plants in the herb garden); butterflies and skippers; beneficial wasps and hoverflies; small beneficial insects",
+    "hostPlantFor": "Not a significant larval host plant for eastern North American Lepidoptera",
+    "nestingHabitat": "The low woody mounding structure provides minimal shelter; not significant for nesting"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the intensely aromatic, thymol-rich foliage is strongly avoided by deer; one of the most reliably deer-resistant plants in the garden; the pungency that makes thyme valuable in cooking is precisely what makes it unappealing to browsers; the volatile oils that produce the characteristic scent act as a sensory deterrent, and deer consistently avoid thyme even when browsing pressure on surrounding plants is heavy"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental salt exposure; not a salt-sensitive plant and performs adequately in typical roadside or driveway edge situations"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; naturally adapted to the summer-dry conditions of the Mediterranean; established plants in most US climates need no supplemental irrigation through typical summers"
+    },
+    "other": "Tolerates heat, rocky and poor lean soil, and exposed south-facing positions; dislikes humidity combined with poor drainage; dislikes wet winter conditions above all else; tolerates light frost and cold well — winter wetness is the true enemy, not cold"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "In early spring, wait until new growth is clearly visible before pruning — this shows exactly what survived winter and what is dead. Cut dead and winter-damaged stems back to live wood. Cut the overall plant back by up to one-third to encourage compact, bushy growth and prevent the sprawling, open woody habit that develops in unpruned plants. A light shearing after the bloom period is beneficial — it removes spent flower stems, tidies the plant, and encourages a flush of fresh leafy growth through summer. Do not cut back hard in late summer or fall, as this stimulates tender new growth that will be winter-damaged. Replace plants every 3-5 years as they become excessively woody at the base and less productive — propagate replacements from cuttings taken the previous summer.",
+    "propagationMethods": [
+      "Softwood or semi-hardwood cuttings (fastest and most reliable — take 2-3\" stem tips in early summer, strip lower leaves, root in moist perlite or sharp sand; roots in 2-3 weeks; this is the preferred method for maintaining cultivar traits); seed (viable but slow — germinates in 14-21 days at 65-70°F; start indoors 6-8 weeks before last frost; flavor from seed is variable but generally good for the straight species); division (possible in spring on established clumps — less reliable than cuttings as thyme does not divide as cleanly as herbaceous perennials)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Thymus vulgaris) is entirely satisfactory for culinary use and is widely available. Named cultivars offer refinements in leaf size, flavor profile, and form:\n**'Narrowleaf French'** (French Thyme) — fine-leaved, classic European culinary thyme flavor; considered by many cooks as the benchmark; somewhat more tender than the species and performs best in Zones 6-9 with excellent drainage; the preferred cultivar in French cooking tradition; in humid climates, prioritize sharp drainage to keep this cultivar performing well.\n**'English Thyme'** (also called German Thyme or 'Broadleaf English') — broader leaves, robust flavor, excellent cold hardiness; the most reliable performer in Zones 4-6 among the culinary types; first choice for cold-climate or heavy-soil kitchen gardens where survival is the priority.\n**'Lemon Thyme'** (Thymus citriodorus) — technically a separate hybrid species rather than a T. vulgaris cultivar; bright lemon-scented foliage; excellent in fish dishes, poultry, and desserts; slightly less cold-hardy (best Zones 6-9) and requires the same excellent drainage; a useful complement to standard thyme rather than a replacement; variegated forms ('Silver Queen', 'Doone Valley') are available and are fully hardy in Zones 7-9, marginal in Zone 6.\n**'Variegatus'** and similar variegated forms — gold or silver-edged foliage; attractive in ornamental herb beds across zones; slightly less vigorous than the plain-leaved types; drainage remains critical regardless of climate.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen herb garden",
+      "Mediterranean-style herb bed",
+      "raised bed",
+      "container",
+      "edging",
+      "companion plant in vegetable garden",
+      "pollinator bed (during bloom)",
+      "fragrance garden"
+    ],
+    "designPlacement": "T. vulgaris belongs in a sunny, well-drained herb bed close to the kitchen — its highest value is convenience of harvest, and it should be within easy arm's reach of food preparation. Full sun is non-negotiable; place it at the front or edge of an herb bed so it receives unobstructed light. It pairs naturally with other Mediterranean herbs — sage, rosemary, oregano, lavender — and thrives in lean, gritty soil conditions that suit the whole group. In a vegetable garden, use it as a border or interplanting near brassicas and tomatoes. Avoid planting beside moisture-lovers. Distinguish T. vulgaris from T. serpyllum: T. vulgaris is an upright culinary herb for harvest, not a ground cover; T. serpyllum is suited to path edges and low-traffic stepping areas.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thymus_vulgaris",
+    "inaturalist": "https://www.inaturalist.org/taxa/85469-Thymus-vulgaris",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f970"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or eastern North America",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "At Hegins, the red clay soil combined with wet winters is the primary thyme killer — drainage improvement is non-negotiable; plant on a raised mound with sharp grit and compost worked in; a ridge of amended soil 4-6\" above grade is the practical solution for in-ground planting in either Section B or Section C",
+      "soil": "The red clay at Hegins is incompatible with thyme unless substantially amended; mix sharp grit and compost into the planting area to approximate a lean, well-drained medium; do not rely on native soil alone",
+      "cultivarNotes": "'English Thyme' or the straight species are the most reliable starting point given cold winters and wet clay soil. French thyme is worth growing in a raised or well-amended position where drainage is excellent. Keep T. vulgaris in a separate mental category from T. serpyllum (already profiled as a ground cover for Section A) — they serve different roles: T. serpyllum closes ground and provides moderate-flavor harvest; T. vulgaris stands upright and is the culinary workhorse.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is the natural home for T. vulgaris — close to the kitchen for easy harvest, with no height restrictions. The north-facing aspect and clay soil mean drainage must be addressed before planting; raise the planting area with grit-amended soil. Section C (south-facing, warm and dry) is actually the more ideal microclimate for thyme and would produce the most intensely flavored growth — worth considering as an alternative or secondary planting. T. serpyllum is already placed in Section A for ground-cover use; T. vulgaris should not be confused with that role.",
+      "siteObservations": null
+    }
+  }
+}

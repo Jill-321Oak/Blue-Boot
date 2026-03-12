@@ -1,0 +1,166 @@
+{
+  "id": "amorpha-fruticosa",
+  "name": {
+    "commonName": [
+      "False Indigo Bush",
+      "Desert False Indigo"
+    ],
+    "latinName": "Amorpha fruticosa",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern and central North America — from southern Canada south through much of the eastern and central United States into northern Mexico; native to riparian corridors, floodplains, stream banks, and disturbed moist ground",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to a broad swath of North America; naturally occurring from the eastern US west to the Great Plains and into the Southwest; native range includes much of the eastern and central US from Pennsylvania south to Florida and west to Nebraska and Texas; also native to parts of the West; a broadly distributed native shrub across many US regions"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Amorpha fruticosa is considered invasive outside its native range — it is listed as invasive in Europe and parts of Asia where it has been introduced; within the US, it is generally native or naturalized rather than invasive; however, in areas outside its natural range (parts of the Pacific NW and western states), it may be considered weedy or of concern; gardeners should verify whether it is native in their specific region before planting; within its native eastern and central US range, it is an appropriate native planting"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "6-15' at maturity; typically 8-12' under average conditions; can be maintained shorter with coppicing",
+    "spread": "8-15'; spreads by both seed and root suckers — can colonize a wide area over time in moist, favorable conditions",
+    "spacing": "8-12' for individual specimens; can be planted in informal masses at 6' spacing for riparian stabilization or wildlife cover",
+    "growthRate": "Fast — vigorous grower; recovers quickly after cutting or hard pruning; can reach 4-6' in a single growing season from a cut stool",
+    "timeToMaturity": "Begins nitrogen fixation from year 1; flowers reliably from year 2-3",
+    "lifespan": "Long-lived shrub under appropriate conditions; persists and spreads indefinitely by suckering in moist sites",
+    "deciduousEvergreen": "Deciduous — compound pinnate leaves with 11-35 oval, gland-dotted leaflets; attractive gray-green foliage through the growing season",
+    "winterInterest": "Low — bare in winter; the shrubby structure provides some cover but little ornamental value in the dormant season"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best flowering and most vigorous growth in full sun; tolerates part shade in riparian settings",
+    "water": "Moderate to high — one of the most moisture-tolerant native shrubs available; thrives on stream banks, floodplain margins, and wet depressions; tolerates periodic inundation; does not require supplemental irrigation once established in a suitable moist site",
+    "drainagePreference": {
+      "description": "Moist to wet; tolerates poorly drained and seasonally flooded soils; also adapts to average garden soils with adequate moisture; notably more water-tolerant than most shrubs including other nitrogen fixers",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — native to riparian and bottomland habitats with heavy, moist soils; the nitrogen-fixing root system (Frankia) establishes readily in clay; one of the more clay-tolerant native nitrogen-fixing shrubs available; tolerates periodic waterlogging better than most leguminous shrubs"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0; highly adaptable; tolerates both acidic and mildly alkaline soils"
+    },
+    "texturePreference": "Adaptable to a wide range of soils including clay, loam, and sandy soils; performs well in heavy clay soils provided moisture is adequate; does not require good drainage",
+    "rootCharacter": "Extensive spreading root system with nitrogen-fixing nodules (Bradyrhizobium species); spreads laterally by root suckers; the nitrogen-fixing nodules are the primary permaculture value and are active from the first growing season"
+  },
+  "bloom": {
+    "bloomTime": "June (occasionally extending into July)",
+    "bloomDescription": "Striking 4-8\" upright spike-shaped racemes of densely packed dark purple flowers with 10 protruding stamens tipped with vivid orange-yellow anthers — the contrast of deep purple and bright orange is one of the most distinctive color combinations among native shrubs; a single established plant in full bloom is visually dramatic; flowers are sweetly scented",
+    "fragrance": "Sweet, light fragrance",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Highly attractive to native bees; bumblebees, native solitary bees, and long-tongued bees are primary pollinators; the pea-flower structure selectively rewards larger bees"
+  },
+  "yield": {
+    "edibleParts": "None typically used; seeds and foliage are not considered edible; the plant's yield is primarily ecological and functional rather than culinary",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Traditionally used by numerous Native American tribes for a range of applications including skin conditions, fever, and insect repellent; leaves contain rotenone-related compounds (amorphins) with documented insecticidal properties; not a common plant in Western herbalism and not recommended for home use without specialized knowledge; primarily of ethnobotanical and research interest",
+    "craftOtherYield": "Nitrogen-rich coppice biomass for chop-and-drop mulching; historically used for basketry and wickerwork by some Native peoples; dried seed pods and flower spikes are ornamentally useful in arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Mildly toxic — contains rotenone-related compounds; not a culinary plant; avoid ingestion; the insecticidal properties of the foliage are well-documented; handle normally but do not consume",
+    "toxicityAnimals": "Potentially toxic to livestock and pets due to rotenone-related compounds; not typically browsed by deer or livestock due to aromatic foliage; keep grazing animals from sustained access",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary role — one of the very few large native nitrogen-fixing shrubs for Zone 4-9; valuable in food forest designs where native provenance is important)",
+      "Pioneer Species (colonizes disturbed and degraded ground rapidly; stabilizes eroding stream banks and wet slopes)",
+      "Erosion Control (extensive root system anchors stream banks and wet depressions)",
+      "Coppice Plant (fast-growing biomass; responds vigorously to hard cutting)",
+      "Windbreak (can form a dense thicket providing wind and wildlife shelter)",
+      "Wildlife Support (pollinator plant of high value; Silver-spotted Skipper host)"
+    ],
+    "companionPlants": [
+      "Elderberry (Sambucus canadensis — complementary wet-site native with overlapping ecological roles)",
+      "willows (Salix spp. — natural riparian companions; excellent for wet site guilds)",
+      "comfrey (mineral accumulator; complementary guild support)",
+      "pawpaw (Asimina triloba — riparian food forest tree that shares moisture preference and benefits from nitrogen fixation)",
+      "swamp rose (Rosa palustris)",
+      "buttonbush (Cephalanthus occidentalis); Amorpha canescens (Lead Plant — smaller dry-site relative, excellent for drier guild edges at 2-3')"
+    ],
+    "antagonists": [
+      "None documented for typical food forest companions; monitor its own spreading habit — root suckers and self-seeding can displace lower-growing companions if not managed"
+    ],
+    "coppiceable": "Excellent — cut to 6-12\" from the ground in late winter or early spring; regrows to 4-6' or more in a single season; coppicing controls spread, renews vigor, maximizes nitrogen-rich biomass production, and prevents the plant from becoming overly woody and open; annual or biennial coppicing is the recommended management approach in most food forest settings"
+  },
+  "wildlife": {
+    "attracts": "Native bees (outstanding pollinator plant — one of the best-rated native shrubs for native bee support), bumblebees, butterflies (especially skippers), hummingbirds (occasional); seed pods provide some winter food for seed-eating birds; dense thicket provides excellent cover and nesting habitat for small birds and mammals",
+    "hostPlantFor": "Silver-spotted Skipper (Epargyreus clarus) — one of the primary larval host plants; also used by several other native Lepidoptera species",
+    "nestingHabitat": "Dense multi-stemmed thicket provides excellent nesting and shelter cover for small birds; particularly valuable along riparian corridors"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — aromatic foliage is generally avoided by deer; one of the more reliably deer-resistant native shrubs"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — some documented tolerance; not a primary salt-tolerance plant but adequate for typical garden conditions"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — best performance is in moist conditions; established plants can tolerate short dry spells but will not thrive in sustained drought; not a dry-site plant"
+    },
+    "other": "Excellent flooding tolerance — one of the few shrubs that tolerates periodic inundation; highly adapted to disturbed ground; tolerates compacted, degraded, and nutrient-poor soils (improves them via nitrogen fixation); wind-tolerant in riparian settings"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate — the primary maintenance requirement is managing its spreading habit; in moist, open conditions it will spread aggressively by seed and root suckers and can become weedy if left entirely unmanaged",
+    "pruningNotes": "Two management strategies are valid depending on site goals. (1) Annual or biennial coppicing — cut the entire shrub hard to 6-12\" in late winter; maximizes nitrogen biomass, keeps the plant manageable, and prevents sprawling open growth. This is the recommended approach in a food forest guild. (2) Allow to grow to full size as a thicket for wildlife habitat or riparian stabilization — remove unwanted suckers at the margins with a spade or mower and deadhead spent flower spikes before seed dispersal to limit spread. In either case, removing seed heads before the pods mature and shatter is important for preventing unwanted naturalization into adjacent areas.",
+    "propagationMethods": [
+      "Seed (easy — scarify with sandpaper or soak in hot water for 24 hours before sowing; direct-sow in fall for spring germination or cold-stratify for 30-60 days and start indoors; germinates readily)",
+      "root division (dig and separate sucker shoots in early spring)",
+      "hardwood cuttings (possible but seed and division are more reliable)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars are in common cultivation — the straight species is grown exclusively. The species is consistent and performs well without selection. The related species Amorpha canescens (Lead Plant) is a smaller (2-3'), fine-textured, dry-site relative with similar nitrogen-fixing function and outstanding ornamental value; Zone 2-8; an excellent companion for drier guild edges and sunny well-drained sites where A. fruticosa would struggle. The two species together cover a wide range of moisture conditions across a property.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Riparian restoration",
+      "food forest nitrogen fixer",
+      "stream bank and wet depression stabilization",
+      "wildlife habitat thicket",
+      "pollinator garden anchor",
+      "wet-site pioneer"
+    ],
+    "designPlacement": "Nitrogen-fixing shrub, riparian planting, food forest shrub layer, hedgerow component, difficult-site pioneer",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amorpha_fruticosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/57356-Amorpha-fruticosa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280343"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Amorpha fruticosa is native to Pennsylvania; occurs naturally along stream banks, woodland edges, and floodplain habitats throughout the state",
+      "paInvasiveStatus": "Not invasive in PA; a native shrub",
+      "drainage": "Hegins red clay: excellent performer; in-ground planting without amendment is generally successful; plant in moist or seasonally wet areas of the property if available",
+      "soil": "Hegins red clay is compatible with Amorpha fruticosa; no amendment strictly required; thrives in native clay conditions",
+      "cultivarNotes": "Straight species is fully hardy in Zone 6a; native to PA; excellent low-maintenance nitrogen fixer for difficult wet or clay areas at Hegins",
+      "designPlacement": "Food forest or hedgerow use; wet or clay areas of the property; nitrogen-fixing guild support; native plant contribution to the landscape",
+      "siteObservations": null
+    }
+  }
+}

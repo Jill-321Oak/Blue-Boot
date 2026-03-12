@@ -1,0 +1,164 @@
+{
+  "id": "valeriana-officinalis",
+  "name": {
+    "commonName": [
+      "Valerian",
+      "Garden Valerian",
+      "Garden Heliotrope",
+      "All-Heal"
+    ],
+    "latinName": "Valeriana officinalis",
+    "family": "Caprifoliaceae (formerly Valerianaceae)"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; widely naturalized in temperate North America, including throughout eastern Canada and the northeastern United States",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe. Widely naturalized across much of the northern and eastern United States — established in New England, the mid-Atlantic, Great Lakes region, Pacific Northwest, and scattered populations in the northern Great Plains and Rocky Mountain states. Found in disturbed areas, roadsides, old fields, stream margins, and moist meadows throughout its naturalized range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not federally listed as a noxious weed. Not on most state invasive species lists, but self-seeds freely and can behave weedily in moist, fertile conditions — particularly in the Pacific Northwest and upper Midwest where naturalized populations are well established. Connecticut lists it as invasive; a few other northeastern states flag it as a species of concern. The primary spread mechanism is wind-dispersed seed; deadheading before seed maturity is the standard management practice. A manageable self-seeder rather than an aggressive ecosystem-displacing invasive in most contexts"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "3-5' in bloom; a tall, upright perennial — one of the taller herbs in the garden",
+    "spread": "2-3'; forms a clumping crown that slowly expands; spreads primarily by self-seeding",
+    "spacing": "24-36\"",
+    "growthRate": "Fast — vigorous once established; typically makes full height by the second year",
+    "timeToMaturity": "Root harvest begins in fall of year two or three; flowers in year two",
+    "lifespan": "Long-lived perennial; individual crowns persist many years; also self-seeds to renew the colony",
+    "deciduousEvergreen": "Deciduous — dies back completely in frost; basal rosette overwinters; vigorous spring regrowth",
+    "winterInterest": "None significant; dried stalks can persist but are not ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; prefers full sun but tolerates light shade; somewhat more shade-tolerant than most Mediterranean herbs",
+    "water": "Medium to moist; prefers consistently moist soil; does particularly well near water features, rain gardens, or low areas; tolerates occasional wet periods better than most herbs",
+    "drainagePreference": {
+      "description": "Average to moist; not drought-adapted; prefers sites that retain some moisture; tolerates occasional wet periods but does not thrive in standing water or permanently saturated soil",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — valerian tolerates heavy clay well; the moisture-retentive quality of clay actually suits its preference for consistently moist soil. Root development may be somewhat restricted in highly compacted, unamended clay, but the plant still performs adequately. Amending clay with compost to improve tilth (not drainage per se) will produce larger, easier-to-harvest roots. One of the more clay-tolerant tall perennial herbs"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; grows in average to fertile soils including clay, loam, and sandy loam; performs best in deep, moist, moderately fertile soil; does not require rich soil — average conditions produce good root yield",
+    "rootCharacter": "Deep taproot with a spreading rhizome system; the root crown and rhizomes are the primary harvest; roots have a distinctive strong odor (isovaleric acid) that intensifies as they dry; roots penetrate deeply and improve soil structure over time"
+  },
+  "bloom": {
+    "bloomTime": "June-July (typically late June into July in Zone 6a)",
+    "bloomDescription": "Dense, rounded, flat-topped clusters (corymbs) of tiny white to pale pink tubular flowers carried on tall, branching stems; individually small but collectively showy at height; the flower heads have a soft, airy quality; flowers are fragrant — a light, sweet, vanilla-like scent distinctly different from the root's odor",
+    "fragrance": "Flowers are pleasantly fragrant — sweet, vanilla-like; the foliage and especially the root have a strong, distinctive, cheesy-musky odor from isovaleric acid — markedly unpleasant to most people when dried, though the fresh plant is less offensive; the contrast between flower fragrance and root odor is striking",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; an excellent pollinator plant — the flat, open flower clusters are accessible to a wide range of insects including honey bees, bumblebees, hoverflies, and butterflies; a genuine insectary value at the back of the herb bed"
+  },
+  "yield": {
+    "edibleParts": "Root (medicinal primary harvest — not typically consumed as food); flowers (edible, pleasant, used fresh in salads or as garnish — light vanilla fragrance); young spring leaves (edible but bitter; used as a salad green in some European folk traditions; not a significant food use)",
+    "harvestSeason": "Root — fall of year two or three (October-November after tops die back); harvest after first hard frost when root energy is at its peak; flowers — June-July as they open; young leaves — spring before the plant bolts",
+    "medicinalUses": "One of the most widely used and clinically studied botanical medicines in the Western tradition. PRIMARY USE — sleep and anxiety: valerian root is documented in multiple clinical trials to improve sleep quality, reduce time to fall asleep, and alleviate mild anxiety without the dependency risks of pharmaceutical sedatives. The primary active compounds — valerenic acid, isovaltrate, and related iridoids — act on GABA-A receptors in a manner broadly similar to (though less potent than) benzodiazepines. Used in tea, tincture, and capsule form. Tea requires 1-2 tsp dried root per cup, steeped 10-15 minutes; tincture in 1:5 ratio in 50% alcohol. Also used historically for headaches, nervous tension, menstrual cramps, and mild digestive complaints. One of the best-evidenced herbs for sleep in modern phytotherapy.",
+    "craftOtherYield": "Dried root for tea and tincture; the tall stems with flower clusters work in fresh arrangements; a traditional dye plant (root yields a minor yellow dye)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally regarded as safe for short-term use; not recommended for long-term daily use without breaks. IMPORTANT CAUTION: may enhance the sedative effect of pharmaceutical sedatives, anxiolytics, and sleep medications — do not combine with benzodiazepines, barbiturates, or prescription sleep aids without medical guidance. Not recommended with alcohol. Some individuals experience a paradoxical stimulating effect rather than sedation — discontinue if this occurs. Not recommended during pregnancy. Do not use before driving or operating machinery.",
+    "toxicityAnimals": "CATS: valerian root has a catnip-like effect on cats — fresh root and dried root both attract cats strongly; cats may roll in, chew, or dig up harvested or drying root; protect drying and stored root from cats. Non-toxic to cats; the attraction is real and persistent. Generally considered non-toxic to dogs. Avoid use in horses.",
+    "allelopathy": "None documented; the root exudates are considered beneficial to soil organisms rather than suppressive",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herb (tall herb layer — occupies the upper herb / lower shrub interface at 3-5')"
+    },
+    "roles": [
+      "Medicinal (primary — one of the highest-value medicinal roots that can be grown in a temperate garden)",
+      "Soil Builder (deep taproot breaks up compacted soil; root exudates documented to attract and stimulate earthworm populations — a genuine permaculture function)",
+      "Insect Attractor (flat flower clusters support a wide range of beneficial insects including pollinators and predatory wasps)",
+      "Dynamic Accumulator (deep roots mine subsoil minerals and make them available through leaf litter)"
+    ],
+    "companionPlants": [
+      "Works well at the back of herb guilds and food forest understories; the earthworm-attracting root exudates benefit neighboring plants; good companions include comfrey (shares deep-rooting soil-building role)",
+      "yarrow (shared insectary function)",
+      "lemon balm",
+      "and other tall medicinal herbs; plant behind shorter herbs so as not to shade them; appropriate with fruit tree guilds as an understory edge plant"
+    ],
+    "antagonists": [
+      "None documented. Primary management concern is self-seeding — deadhead before seed set if planting near areas where volunteers are unwanted."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Honey bees, bumblebees, native bees, hoverflies, butterflies, and other beneficial insects — the flat corymbs are among the most accessible flower structures for a wide range of insects; a valuable late-spring insectary plant at the back of the bed; cats are strongly attracted to the root (see Cautions)",
+    "hostPlantFor": "Not a significant host for native Lepidoptera",
+    "nestingHabitat": "Tall hollow stems may provide minimal overwintering habitat for cavity-nesting insects if left standing through winter"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strong aromatic compounds in the foliage deter deer browsing; not a primary target in areas with deer pressure; one of the more reliable deer-resistant tall perennial herbs. Young transplants may still be sampled — protect with temporary fencing or caging until established if deer pressure is high"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not salt-tolerant; avoid road-salt-impacted sites and maritime salt spray exposure; does not recover well from repeated salt contact"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — not drought-tolerant; prefers consistent moisture; will sulk and underperform in dry, thin soils; in arid-summer climates (Zone 8+ West) supplemental irrigation is essential; in humid-continental and maritime climates east of the Rockies, established plants generally manage on rainfall except during extended dry spells"
+    },
+    "other": "Tolerates clay soil well; tolerates occasional wet periods; cold-hardy to Zone 3; tolerates light shade; tolerates humidity and summer heat through Zone 8; wind tolerance is moderate — tall flower stalks may lean or lodge in exposed, windy sites; staking or sheltered placement helps in high-wind areas"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established — the primary ongoing tasks are deadheading to prevent self-seeding and root harvest management",
+    "pruningNotes": "KEY TASK — deadhead spent flower clusters before seeds mature (typically late July to August) if you want to prevent self-seeding; valerian sets abundant seed and volunteers will appear throughout the bed and surrounding areas if this step is skipped. Cut flowering stalks to the ground after deadheading; the plant will produce fresh basal growth. Leave a few plants to set seed if self-replacement is desired. Cut all stems to the ground in late fall after frost. For root harvest: lift root crowns in fall of year two or three with a garden fork; the deep taproot requires effort to extract intact; wash, slice, and dry the root at low heat (below 100°F); the fresh root smells mildly herbal; the dried root develops the distinctive strong cheesy odor from isovaleric acid — store dried root in sealed containers away from cats.",
+    "propagationMethods": [
+      "Seed (easy — surface sow in spring; light-dependent germinator, do not cover; germinates freely; direct sow or start indoors 6-8 weeks before last frost)",
+      "division (easy in spring or fall — divide the crown; each division with roots will establish)",
+      "root cuttings (possible but less common)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Valeriana officinalis) is the standard form grown for medicinal use and is the appropriate choice for a home medicinal garden across all zones. No cultivars have demonstrated meaningfully superior valerenic acid content over the wild type in home-garden contexts. Some sources list Valeriana officinalis var. latifolia (broad-leaved valerian) as a more robust form with larger roots — worth seeking for a dedicated medicinal planting regardless of zone. For ornamental purposes only, dwarf forms exist but offer no advantage for root harvest. Zone 3-5 growers benefit from valerian's excellent cold hardiness — no special cultivar selection needed. Zone 6-7 is the sweet spot for root production; the straight species performs at its best. Zone 8+ growers in hot-summer areas should ensure consistent moisture and may benefit from afternoon shade; the species still performs but root quality may decline in heat-stressed plants.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Medicinal herb garden",
+      "apothecary garden",
+      "food forest edge",
+      "back of herb border",
+      "rain garden edge",
+      "insectary planting"
+    ],
+    "designPlacement": "Place at the back of herb borders or medicinal beds given its 3-5' mature height — it will shade shorter companions if placed forward. The tall, upright habit works well as a vertical accent behind lower herbs. Excellent along food forest edges where the earthworm-attracting and insectary functions add ecological value. Pairs well structurally with other tall back-of-border perennials like comfrey, elecampane, and angelica. Prefers a moist microclimate — site near rain gardens, swales, or low areas where moisture collects. The strong root odor during drying is a real practical consideration — plan drying space away from living areas or in a dedicated outbuilding. Protect drying and stored root from cats.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Valeriana_officinalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/56160-Valeriana-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=287433"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; naturalized and escaped cultivation across much of Pennsylvania; found in disturbed areas, roadsides, old fields, and stream margins throughout the region, including the Ridge and Valley province where Hegins sits",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Self-seeding tendency warrants deadheading but it is not regulated in PA",
+      "drainage": "The red clay at the Hegins site is a reasonable match for valerian's moisture preference — clay's water retention works in its favor here. For in-ground planting, work compost into the planting hole to loosen the top 12\" and improve root harvestability. Raised beds are not required but would make root harvest significantly easier in this heavy soil",
+      "soil": "The Hegins red clay falls within valerian's acceptable range. Amend the planting area with compost to improve workability for eventual root harvest; the native clay pH and moisture retention are otherwise suitable without major modification",
+      "cultivarNotes": "grow the straight species; it is well-suited to the humid-continental climate and will reach full productivity by year two.",
+      "designPlacement": "Best placed at the back of Section B (garage kitchen herb strip) — the height works without a 5' limit concern, and kitchen-adjacent placement makes root harvest and drying convenient. Also suitable at food forest guild edges. Not recommended for Section A (north-facing, beauty-first, 5' height limit — valerian at full height would violate the limit and ornamental value is secondary). Section C is possible for back placement, but the drier, warmer microclimate is less than ideal — valerian prefers moisture.",
+      "siteObservations": "The naturalized habit across eastern North America, including Pennsylvania, demonstrates good adaptability to the humid-continental conditions at this site. Clay soil moisture retention works in valerian's favor here. Deer pressure from the east corridor is unlikely to be a problem given the strong aromatic foliage. The active self-seeding tendency requires consistent deadheading to prevent spread into adjacent beds and the food forest understory."
+    }
+  }
+}

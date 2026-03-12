@@ -1,0 +1,165 @@
+{
+  "id": "cornus-florida",
+  "name": {
+    "commonName": [
+      "Flowering Dogwood",
+      "Eastern Flowering Dogwood"
+    ],
+    "latinName": "Cornus florida",
+    "family": "Cornaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Maine to Ontario south to Florida and Texas, west to Kansas; one of the most iconic and ecologically significant native understory trees of the eastern deciduous forest",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US; naturally occurring from New England south through the Appalachians and Gulf Coast states, west through the Midwest to Kansas and Oklahoma; absent from the Great Plains, Rocky Mountain states, and Pacific Coast; within its native range it is a keystone understory tree of oak and hickory forests"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US states; no invasive status recorded by any state authority; widely encouraged as a native planting throughout its eastern range"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "15-25'; occasionally to 30' in ideal conditions; low-branching with a distinctive layered, horizontal habit",
+    "spread": "15-25'; broad spreading crown; often wider than tall at maturity; the horizontal branching structure is one of the most recognizable and beautiful tree forms in eastern North American woodlands",
+    "spacing": "15-20' from other canopy-scale plants; 10' from shrubs",
+    "growthRate": "Slow to moderate; 1-1.5' per year under good conditions; patience rewarded with an exceptionally ornamental specimen",
+    "timeToMaturity": "Blooms reliably within 3-5 years of planting if purchased as a nursery specimen; fruit production begins at the same time; full ornamental and wildlife impact by year 5-10",
+    "lifespan": "80+ years in good conditions; the wild population has been severely reduced by dogwood anthracnose, but well-sited garden trees routinely live to full maturity",
+    "deciduousEvergreen": "Deciduous — medium-green horizontally held leaves through summer; brilliant scarlet to burgundy red fall color, among the most vivid of any native tree; an outstanding four-season plant",
+    "winterInterest": "High — attractive gray-brown plated bark; elegant horizontal branching silhouette; persistent red fruit clusters into winter if not taken by birds; distinctive flower buds visible all winter, swelling as spring approaches; one of the finest native trees for winter structure"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; performs best and is most disease-resistant in full sun with good air circulation; tolerates moderate shade but anthracnose risk increases significantly in deep shade or poorly aerated sites; avoid dense woodland interior planting",
+    "water": "Medium; moderate moisture preference; established trees are reasonably drought-tolerant; prefers evenly moist, well-drained soil; does not tolerate prolonged waterlogging",
+    "drainagePreference": {
+      "description": "Well-drained to average; will not thrive in heavy, poorly drained soils; good drainage is especially important for disease resistance; avoid low-lying sites with standing water or slow percolation",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to marginal in heavy clay; C. florida is naturally a woodland upland species adapted to well-drained, moderately fertile soils; in clay-dominant sites, prioritize raised planting (crown slightly above grade), generous organic matter amendment, and excellent mulching to moderate soil temperature and moisture; drainage is the single most important site factor for long-term health"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5; prefers slightly acidic conditions; performs poorly in alkaline soils; in high-pH regions of the Midwest or West, amend or select a naturally acidic site"
+    },
+    "texturePreference": "Well-drained loam to sandy loam with good organic matter; tolerates clay-loam if drainage is adequate; naturally grows in the well-drained, moderately fertile soils of upland hardwood forests",
+    "rootCharacter": "Shallow, fibrous, spreading root system; roots are sensitive to soil compaction and disturbance; mulch the root zone generously; do not cultivate around the base — root damage and bark wounds are the primary entry points for dogwood borer"
+  },
+  "bloom": {
+    "bloomTime": "April-May — one of the great spring flowering events of the eastern US; blooms shortly after redbuds and before most tree canopy leafs out; the display lasts 2-3 weeks; a landmark moment in the spring garden calendar",
+    "bloomDescription": "The \"flowers\" are technically not petals — what appears to be four large white (or pink) petals are actually bracts (modified leaves), each notched at the tip; the true flowers are tiny, yellowish-green, and clustered in a button-like head at the center of the four bracts; the effect is spectacular — large, clean white four-pointed stars covering the entire tree canopy before the leaves fully emerge; one of the most showy flowering moments of any native North American tree; the display reads beautifully against a dark treeline or wooded backdrop",
+    "fragrance": "Slight; not significantly fragrant; the ornamental value is entirely visual",
+    "flowerSex": "Hermaphrodite (perfect flowers — each tiny true flower contains both male and female parts)",
+    "pollination": "Self-fertile; pollinated by native bees, bumblebees, and other insects; does not require a pollination partner; the spring bloom is an important early-season nectar and pollen source"
+  },
+  "yield": {
+    "edibleParts": "None for humans — the fruit is bitter and mildly toxic in quantity; not recommended for consumption; C. kousa (Korean dogwood) produces edible fruit and is a worthy companion planting",
+    "harvestSeason": "N/A for human harvest; fruit ripens September-October and is consumed immediately by wildlife",
+    "medicinalUses": "Traditional — bark of C. florida was used as a quinine substitute by Confederate soldiers during the Civil War; bark tea was used by various Native American peoples as a fever treatment and stimulant; roots contain cornine (a quinidine-like alkaloid); these uses are historical and not a primary reason to plant this tree",
+    "craftOtherYield": "The wood is extremely hard and dense — historically prized for textile shuttles, golf club heads, and tool handles; not typically harvested from garden specimens; the horizontal branching structure is attractive in cut arrangements (with or without flowers)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit is bitter and mildly toxic — not edible; do not confuse with edible C. kousa fruit; bark and leaves contain mildly toxic alkaloids; not a significant hazard in a normal garden setting but should be noted",
+    "toxicityAnimals": "Fruit and leaves are considered mildly toxic to dogs and cats; not among the most dangerous plants but avoid situations where pets consume significant quantities of fruit; the fruit is overwhelmingly consumed by wildlife before it poses any issue",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Understory tree (canopy edge / sub-canopy layer); appropriate for the 15-25' canopy layer of a food forest; ideal as an edge tree where it receives adequate sun"
+    },
+    "roles": [
+      "Wildlife Support (exceptional — see Wildlife below)",
+      "Pollinator Support (spring bloom)",
+      "Beauty / Ornamental Anchor (one of the premier four-season native trees)",
+      "Native Plant Contribution",
+      "Canopy Edge Definition",
+      "Seasonal Marker (the spring bloom is one of the defining events of the food forest calendar)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — classic native understory association)",
+      "Lindera benzoin (spicebush — shares woodland understory ecology and overlapping wildlife value)",
+      "Amelanchier spp. (serviceberry — similar layer and bloom season; excellent companion)",
+      "Cercis canadensis (redbud — blooms just before C. florida; the redbud-then-dogwood spring sequence is one of the great native plant pairings)",
+      "Vaccinium corymbosum (highbush blueberry)",
+      "native ferns (Polystichum, Osmunda)",
+      "Aquilegia canadensis (native columbine at base)"
+    ],
+    "antagonists": [
+      "Avoid siting in dense shade or in low-lying areas with poor air movement — these conditions dramatically increase dogwood anthracnose susceptibility; avoid proximity to lawn mowing zones without a proper mulch buffer (dogwood borer enters through mowing wounds to bark)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Over 40 bird species consume the fruit — including American robin, wood thrush, eastern bluebird, cedar waxwing, scarlet tanager, hermit thrush, veery, gray catbird, and many migrating warblers and thrushes; the fall fruit is one of the highest-fat native fruits available in the eastern US, making it critically important for migratory birds building fat reserves before and during fall migration; spring bloom provides nectar and pollen for native bees and early-season pollinators; the horizontal branching structure is structurally perfect for robin and wood thrush nesting",
+    "hostPlantFor": "Spring Azure butterfly (Celastrina ladon) — C. florida is an important larval host plant for this early-season native butterfly; the spring bloom timing coincides precisely with Spring Azure flight period; also used by various native moths",
+    "nestingHabitat": "Outstanding — the strongly horizontal branching architecture is among the most favored nesting structures for American robin and wood thrush; the tiered branch layers provide sheltered, stable nest sites; expect nesting activity from year 3-5 onward in a well-established specimen"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate to poor — deer browse foliage, twigs, and bark; young trees (under 5-6') are particularly vulnerable and should be protected with fencing or tree tubes until they reach browse height; once established at 6-8' tall, deer pressure is more manageable though not eliminated; protection during establishment is strongly recommended in any deer-active region"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt; do not plant near road salt exposure zones"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; prefers consistent moisture; young trees need supplemental watering through the first 2-3 seasons; established trees handle short dry periods reasonably well"
+    },
+    "other": "Sensitive to soil compaction; protect root zone with a 4-6\" deep mulch ring extending to the drip line; do not pile mulch against the trunk (creates conditions for bark rot and borer entry); moderately sensitive to air pollution; performs best in the humid continental and humid subtropical climates of its native eastern range"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established and correctly sited; the single most important maintenance decision is site selection — a well-sited tree in full sun with good air circulation is largely self-maintaining; a poorly sited tree in shade or poor drainage will require ongoing intervention for disease",
+    "pruningNotes": "Minimal pruning needed. Remove dead, damaged, or crossing branches in late winter. Do not prune in fall or during wet spring weather — open pruning wounds invite fungal infection. Prune sparingly — C. florida has a naturally beautiful form that needs no shaping. Avoid any wounding of the lower trunk or surface roots; mowing wounds at the base are the primary entry point for dogwood borer (Synanthedon scitula) — maintain a wide mulch zone to keep mowers away from the trunk. Never top or severely prune.",
+    "propagationMethods": [
+      "Seed (requires warm + cold stratification; sow fresh in fall for spring germination; slow and variable); softwood cuttings (June-July — moderate success; treat with rooting hormone); grafting (used for named cultivars — whip-and-tongue onto C. florida rootstock); layering (possible but slow); purchase nursery-grown grafted cultivars for predictable results"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection is meaningful across all regions where C. florida is grown, but the stakes are highest in the humid eastern states (Zone 5-8) where dogwood anthracnose (Discula destructiva) pressure is significant — particularly in shaded or poorly aerated sites. In drier inland climates (Midwest, southern Plains), disease pressure is lower, but heat and drought tolerance become the primary selection criteria.\n'Cherokee Princess' — The benchmark white-bracted cultivar; large, overlapping, rounded white bracts; extremely heavy bloom even on young trees; considered the most widely recommended white dogwood for the eastern US; good general disease resistance; widely available throughout the trade from Zone 5 to Zone 8; the default recommendation for most gardeners wanting one white dogwood.\n'Appalachian Spring' — Selected specifically for anthracnose resistance from wild Appalachian populations; white bracts; considered the best choice for humid, higher-risk sites or part-shade positions; a University of Tennessee / National Arboretum introduction; particularly well-suited to the mid-Atlantic and upper South where anthracnose pressure is greatest.\n'Cherokee Chief' — The standard red/pink-bracted cultivar; deep rosy-red bracts; excellent ornamental impact against a light background; pairs beautifully with white-bracted specimens; moderate disease resistance; widely grown from Zone 5 to Zone 8.\nC. kousa (Kousa / Korean Dogwood) — Not a cultivar of C. florida but a closely related Asian species and a worthy companion or alternative. Blooms 3-4 weeks later than C. florida (June); very disease-resistant (essentially immune to dogwood anthracnose); produces edible red-orange strawberry-like fruit; slightly different ornamental character (bracts more pointed; fruit different; bark exfoliating in patches with age). Consider planting one C. florida and one C. kousa to extend the bloom sequence and reduce disease risk. 'Milky Way' is a heavy-blooming C. kousa selection widely available in the trade.\n'Stellar Pink' — Actually a hybrid (C. florida × C. kousa); combines the earlier bloom of C. florida with the disease resistance of C. kousa; pink bracts; a practical compromise for high-humidity sites anywhere in Zone 5-8.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy edge",
+      "native woodland garden",
+      "wildlife garden",
+      "four-season specimen tree",
+      "pollinator garden anchor",
+      "spring display focal point"
+    ],
+    "designPlacement": "Canopy edge position in any food forest or native woodland garden — C. florida is ideally placed at the sunny edge where it receives adequate light for disease resistance and maximum bloom. It functions as an ornamental anchor and seasonal marker: the bloom sequence of redbud (Cercis canadensis) followed immediately by flowering dogwood is one of the defining ecological and aesthetic events of the eastern garden calendar. Site in full sun to light part shade with good air circulation — avoid tucking it into a shaded interior position. Allow 15-20' of space for full crown development. Pair with spicebush (Lindera benzoin) in the shrub layer below for complementary wildlife value — the two are classic eastern woodland associates. Protect young trees from deer with fencing until established at browse height.",
+    "acquisitionStatus": "To source (native plant nursery; specify 'Cherokee Princess' or 'Appalachian Spring' for disease resistance; purchase container-grown or balled-and-burlapped nursery stock — bare-root establishment is more challenging)\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cornus_florida",
+    "inaturalist": "https://www.inaturalist.org/taxa/54777-Cornus-florida",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c280"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. florida is native to Pennsylvania; a classic native understory tree of deciduous woodlands throughout the state; historically common in the understory of oak and hickory forests; present in intact woodland remnants across the region",
+      "paInvasiveStatus": "Not invasive — no Pennsylvania invasive plant listing",
+      "drainage": "Hegins red clay is a significant challenge — plant on a gently sloping site or raised position where possible; amend the planting hole generously with compost; mulch heavily; avoid any low spots where water pools after rain; this is one of the trees most likely to struggle in flat, poorly drained clay",
+      "soil": "Hegins red clay requires amendment; dig a generous planting hole, incorporate aged compost, and plant slightly high; the fibrous root system cannot tolerate waterlogging; mulch the full root zone to moderate clay compaction and moisture extremes",
+      "cultivarNotes": "Prioritize 'Appalachian Spring' or 'Cherokee Princess' for white, 'Cherokee Chief' for pink/red. The humid continental climate of central Pennsylvania places this site in the moderate-to-high anthracnose risk category; disease-resistant cultivar selection is the single most important decision for long-term success. 'Appalachian Spring' — selected from wild Pennsylvania populations — is the most regionally appropriate choice for shaded or moist positions.",
+      "designPlacement": "Position at the canopy edge of the food forest or paw paw guild where it receives full sun and benefits from good air movement; avoid the low clay areas prone to waterlogging; plant on a slight rise or slope if possible; plant slightly high in the planting hole given the clay soil; the redbud-then-dogwood bloom sequence will be one of the most visible seasonal anchors on the property; protect aggressively from deer through establishment given active pressure from the eastern wildlife corridor",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "rheum-x-hybridum",
+  "name": {
+    "commonName": [
+      "Garden Rhubarb (Forced)"
+    ],
+    "latinName": "Rheum × hybridum",
+    "family": "Polygonaceae"
+  },
+  "range": {
+    "nativeRange": "Complex hybrid of uncertain origin; Rheum × hybridum is a collective name for the culinary rhubarb hybrids developed in Europe (primarily Britain) from the 18th century onward, drawing on multiple Rheum species from Central and East Asia; no wild population exists — it is entirely a cultivated garden hybrid",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced and grown exclusively in cultivation; does not naturalize or establish wild populations in any US region"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; does not self-seed vigorously in typical garden conditions and spreads only by slow crown expansion; not listed on any state noxious weed lists or the federal noxious weed list; non-invasive and well-behaved across all US growing zones"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8; requires cold winter dormancy to perform well; productivity typically declines above Zone 7 where winters lack sufficient chill hours; heat zone upper limit matters — Zones 8+ often produce weak, thin stalks due to inadequate cold accumulation"
+    }
+  },
+  "description": {
+    "height": "2-3' foliage (leaf blades held 18-24\" above crown); flower stalks reach 4-5' when allowed to bolt; forced stalks (grown in darkness) emerge pale and etiolated, typically 12-18\" tall at harvest",
+    "spread": "3-4' at full maturity",
+    "spacing": "3-4'",
+    "growthRate": "Moderate — establishes slowly in year 1; vigorous and dependable from year 2; crowns suitable for first forcing at year 3 or later when fully established",
+    "timeToMaturity": "Light harvest possible in year 2; full productive harvest from year 3; forcing should only begin on crowns that are at least 3 years old and well-established",
+    "lifespan": "Very long-lived; a well-maintained crown can produce for decades; divide every 5-7 years to maintain vigor; a crown used for forcing will need additional recovery time",
+    "deciduousEvergreen": "Deciduous — dies back completely to the crown in late fall; one of the earliest perennials to push growth in spring, making the forcing window easy to time",
+    "winterInterest": "None — crown is dormant below ground through winter; the early buds beginning to swell in late February to early March are the signal to begin forcing"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but stalk production, color intensity, and crown vigor are best with at least 6 hours of direct sun; forced stalks, by definition, are grown without any light",
+    "water": "Medium; consistent moisture during the growing season improves stalk yield and crown recovery after forcing; do not allow crowns to dry out in summer, especially in the year following forcing",
+    "drainagePreference": {
+      "description": "Prefers well-drained soil; tolerates average clay soils with adequate drainage; prolonged waterlogging around the crown promotes crown rot, which is the most common cause of rhubarb loss in heavy-soil gardens; slightly raised planting or organic matter incorporation helps in any heavy or poorly drained soil",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — rhubarb tolerates clay soils when drainage is adequate, but heavy, waterlogged clay is a serious risk; crown rot sets in quickly when the fleshy crown and storage roots sit in saturated soil for extended periods; deeply incorporating compost, aged manure, or coarse organic matter at planting breaks up clay compaction and improves drainage around the crown; in very heavy clay, planting on a slight mound or in a raised area significantly reduces crown rot risk"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8"
+    },
+    "texturePreference": "Rich, deep, well-drained loam is ideal; tolerates clay soils if drainage is adequate; deeply incorporating compost or aged manure at planting establishes the fertile growing environment that supports long-term productivity and healthy crown reserves for forcing",
+    "rootCharacter": "Thick, fleshy crown with stout storage roots; the crown stores the energy reserves needed for spring regrowth and for recovery after forcing; do not disturb established crowns unnecessarily; forcing draws heavily on these reserves, which is why crown age and rest periods matter"
+  },
+  "bloom": {
+    "bloomTime": "Late spring to early summer (May-June) in year 2+; flower stalks should be removed promptly whenever they appear",
+    "bloomDescription": "Tall hollow flower stalks (to 4-5') topped with large plume-like panicles of tiny cream-white to pale green flowers; botanically distinctive but of no value for edible production — flowering diverts energy from crown reserves and stalk production and should be prevented",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated; not relevant for edible production — flower stalks should be cut at the base as soon as they appear, before any energy is spent on flowering or seed set"
+  },
+  "yield": {
+    "edibleParts": "LEAF STALKS (PETIOLES) ONLY — the thick, tart, fleshy stalks are the sole edible part; in normal production they range from green to deep pink or vivid red depending on cultivar; when forced (grown in darkness), they emerge pale pink to near-white, with a noticeably more tender texture and somewhat sweeter, less acidic flavor than normally grown stalks — this sweetness and tenderness is the primary goal of forcing; classic culinary uses include pies, crumbles, compotes, jams, chutneys, cordials, and the iconic strawberry-rhubarb pairing. WARNING — THE LEAF BLADES ARE TOXIC. See Cautions & Hazards.",
+    "harvestSeason": "Normal outdoor stalks: late spring to early summer (May through June in Zone 6a); stop harvesting by early July and allow remaining stalks to stand through summer to recharge the crown. Forced stalks: harvested in February-March, 2-3 weeks earlier than normal outdoor growth, while still tender and pale; harvest forced stalks when they reach 12-18 inches in height",
+    "medicinalUses": "None significant in modern use; historically, Rheum species roots were used as a laxative (true medicinal rhubarbs such as R. palmatum), but culinary hybrids are not used medicinally",
+    "craftOtherYield": "The large dramatic leaves (to 2' across) are sometimes used as decorative molds for concrete stepping stones; the leaves compost readily and should be added to the compost heap rather than used as livestock fodder (see Cautions)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CRITICAL WARNING — THE LEAF BLADES OF RHUBARB ARE TOXIC AND MUST NOT BE EATEN. The leaves contain very high concentrations of soluble oxalic acid (oxalates), which bind calcium in the body, impair kidney function, and can cause serious harm or death in sufficient quantity. This applies to both forced and normally grown leaves — the forcing process does not change leaf toxicity. ONLY THE STALKS (PETIOLES) ARE EDIBLE. When harvesting, always detach and discard the leaf blade before bringing stalks indoors. Keep this distinction clear, especially with children or new gardeners who may not know it.",
+    "toxicityAnimals": "The toxic leaf blades pose the same oxalate risk to livestock and pets; do not feed rhubarb leaves (forced or otherwise) to chickens, goats, horses, cattle, or other animals. Composting the leaves is safe as oxalates break down; feeding them raw to animals is not. The stalks do not pose a concern for incidental animal contact.",
+    "allelopathy": "None known",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (herbaceous perennial layer)"
+    },
+    "roles": [
+      "Perennial Food Crop (stalks, including forced early harvest)",
+      "Ornamental Groundcover (dramatic large leaves provide strong weed suppression and visual structure through summer)",
+      "Anchor Perennial (long-lived, reliable, low-maintenance food plant with multi-season interest)",
+      "Extended Season Crop (forcing extends the fresh harvest window into late winter / very early spring — a valuable gap-fill in the annual food calendar before other spring crops are available)"
+    ],
+    "companionPlants": [
+      "Strawberries (classic pairing — same approximate harvest window; complementary in the garden and on the plate)",
+      "garlic and alliums (compatible perennial neighbors)",
+      "comfrey (mineral accumulator; excellent guild neighbor; keeps surrounding soil fertile)",
+      "currants and gooseberries (compatible perennial shrub layer neighbors with similar cultural needs)"
+    ],
+    "antagonists": [
+      "Does not compete well with aggressive spreaders; keep grass and weedy perennials cleared away from crowns; avoid planting in significant shade",
+      "which reduces stalk color and productivity; do not crowd the crown — it needs space to expand over years"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators visit the flowers if they are allowed to open, but flowering diverts energy from edible production and is not recommended; minimal wildlife value overall relative to native plants",
+    "hostPlantFor": "Not a known host for native Lepidoptera in eastern North America (Asian hybrid origin; native insects have not adopted it)",
+    "nestingHabitat": "The large basal leaf canopy provides ground-level cover and moisture retention for ground beetles and other beneficial invertebrates during the growing season"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — rhubarb is generally avoided by deer; the coarse foliage texture and high acidity make it unappealing; not guaranteed deer-proof, but one of the more reliably deer-resistant perennial food plants; young crowns in their first season may benefit from temporary fencing until established"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside conditions or salt spray; plant away from salted roads and driveways where possible"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established crowns tolerate short dry periods but stalk yield drops noticeably without consistent moisture; particularly important to maintain soil moisture in the summer after a forcing season, as the crown is recovering from added stress"
+    },
+    "other": "Cold-hardiness is exceptional (Zone 3); the crown requires hard-freeze dormancy each winter — this is a feature in cold zones, not a limitation; crown rot from prolonged waterlogging is the primary risk in heavy-soil gardens; good air circulation reduces foliar disease pressure in humid climates"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to very low for standard growing; slightly elevated in years when forcing is practiced, as the crown needs active monitoring, a rest period the following season, and additional soil fertility to recover fully",
+    "pruningNotes": "Remove flower stalks immediately when they emerge (cut at the base) — this is the most important maintenance task and must not be skipped; flowering exhausts the crown and sharply reduces subsequent stalk production. In late fall, cut away or leave the collapsed dead foliage as it falls — either approach works. Do not harvest any stalks after early July in normal years (or after the forced harvest ends in March if forcing was done); the remainder of the growing season is needed for the crown to rebuild energy reserves.",
+    "propagationMethods": [
+      "Crown division (strongly preferred — divide established crowns every 5-7 years in early spring before growth begins, or in early fall; each division must include at least one strong bud/eye and a substantial root portion; replant at the same depth immediately; do not divide a crown that was forced the same year — wait a full recovery season)",
+      "seed (possible but slow and variable; seedlings do not reliably match parent cultivar; not recommended for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "Rheum × hybridum is the accepted name for the complex interspecific hybrids that make up virtually all culinary garden rhubarb in cultivation — most plants sold simply as \"rhubarb\" belong here, not to the pure-species Rheum rhabarbarum. Named cultivars are strongly preferred over seed-grown plants for consistent stalk color, flavor, and suitability for forcing.\n**Zones 3–5 (Cold Northern US):** Rhubarb thrives in these zones; strong winter dormancy drives vigorous spring regrowth. All major cultivars perform well. 'Canada Red' and 'Valentine' are popular for their deep red stalks and reliable cold hardiness. 'Timperley Early' is the premier forcing cultivar and excels where winters are long and cold — the extended dormancy period makes forcing especially productive. 'Victoria' is a proven heritage choice, extremely long-lived, and widely available.\n**Zones 6–7 (Mid-Atlantic, Upper South, Pacific NW):** Excellent rhubarb territory; winters provide sufficient chill hours for strong performance. All cultivars listed below are suitable. Forcing is very successful in this range. 'Canada Red' and 'Valentine' produce excellent red-stalked harvests. 'Glaskin's Perpetual' is notable for year-1 harvestability from seed but may not match named cultivars in forcing vigor until year 3+.\n**Zone 8+ (Deep South, Gulf Coast, Low Desert):** Rhubarb struggles where winters are mild; insufficient chill hours lead to weak, thin stalks and short-lived crowns. 'Victoria' is sometimes the best performer in marginal zones due to its adaptability, but expectations should be tempered. Forcing is generally impractical where winter dormancy is incomplete. Gardeners in Zones 8–9 may treat rhubarb as an annual or seek out heat-adapted selections where available.\n**Key cultivars across all zones:**\n**'Timperley Early'** — The premier forcing cultivar; bred specifically to respond vigorously to forcing conditions; produces pale, tender stalks exceptionally early; widely used in commercial forcing operations in Yorkshire, UK (the historic center of forced rhubarb production); the strongest recommendation if forcing is a priority.\n**'Victoria'** — Heritage cultivar (19th century); large greenish-red stalks with mild, reliable flavor; extremely long-lived and dependable; widely available; responds well to forcing; a good choice for a proven, old-fashioned performer with dual-purpose capability.\n**'Canada Red' / 'Crimson Red'** — Deep red stalks with sweeter, more complex flavor than green-stalked types; red-stalked varieties are generally considered superior in flavor for fresh eating; widely available; responds to forcing, though not as specialized as 'Timperley Early'; excellent dual-purpose cultivar (forced and normal harvest).\n**'Valentine'** — Very deep red stalks; reliable and attractive; good flavor; a strong ornamental and culinary choice; also responds well to forcing.\n**'Glaskin's Perpetual'** — Notable for being harvestable in year 1 from seed (unusual among rhubarbs); produces adequate, if not exceptional, stalks; a practical choice for speed, though crowns may not be robust enough for forcing until year 3 regardless of the variety's early-harvest reputation.\nNote on red vs. green stalks: redness in rhubarb stalks is associated with anthocyanin pigments and correlates with somewhat sweeter, milder flavor; green-stalked cultivars tend to be more tart. For dessert use, red-stalked cultivars ('Canada Red', 'Valentine', 'Crimson Red') are generally preferred. For forcing specifically, 'Timperley Early' is the historic and horticultural standard.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated perennial food bed",
+      "kitchen garden",
+      "productive border planting; particularly valuable as an extended-season crop capable of providing fresh stalks in late winter / very early spring via forcing — a gap-fill in the food calendar before other crops are available"
+    ],
+    "designPlacement": "Perennial border or dedicated rhubarb patch in a sunny, well-drained position. Forcing can be done on established crowns (3+ years old) by placing a large terracotta pot, bucket, or forcing jar over the crown in late winter (Feb-March); the excluded crown produces pale, tender, sweet stalks 2-3 weeks earlier than normal. Do not force the same crown every year — alternate crowns or allow a full recovery year. Plant at least two crowns 3-4' apart to allow alternating forcing without exhausting either crown. Position near the kitchen or in a frequently visited area for convenient harvest monitoring. See also the companion Rheum rhabarbarum profile for the standard (non-forced) rhubarb growing approach.",
+    "acquisitionStatus": "Not yet on site"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhubarb",
+    "inaturalist": "https://www.inaturalist.org/taxa/480750",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=292979"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of North America; an introduced garden hybrid grown exclusively in cultivation",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "The red clay at Hegins is workable for rhubarb but requires preparation; deeply incorporate compost or aged manure into the planting area before setting crowns; choose the best-draining spot available in Section B and avoid any low point where water pools after rain; a slightly raised planting position (even 3-4 inches above grade) provides meaningful insurance against crown rot in this soil",
+      "soil": "The Hegins red clay should be amended with generous compost and aged manure before planting; in-ground planting is viable with preparation — raised beds are not required but would eliminate drainage risk entirely; if planting in-ground, work organic matter deeply (12-18\") to create a well-drained root zone within the clay",
+      "cultivarNotes": "'Timperley Early' is the top recommendation if forcing is the primary goal; 'Canada Red' or 'Valentine' are excellent dual-purpose choices for combined forced and normal harvests; the reliably cold Hegins winters are an asset — they ensure deep dormancy and vigorous spring regrowth, which is the foundation of successful forcing.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent) is the natural fit — productive, accessible from the kitchen, permanent planting that will not be disturbed by seasonal bed rotation. Two crowns planted 3-4' apart allows alternating forcing without exhausting either crown. Choose the best-draining spot in Section B, away from any low point.",
+      "siteObservations": "Zone 6a Hegins is excellent rhubarb country — the reliably cold winters ensure strong dormancy and vigorous spring regrowth, which is the foundation of both normal productivity and successful forcing. The site's clay soil warrants bed preparation with compost or aged manure before planting. Crown rot from waterlogging is the primary site risk; plant in the best-draining part of Section B and avoid low spots. Deer pressure from the east wildlife corridor is unlikely to be a problem — rhubarb's coarse, acidic foliage is reliably avoided — but temporary protection for newly planted crowns in year 1 is prudent. If forcing is the goal, establish at least two crowns so one can recover while the other is forced. Plant in spring, establish without harvest in year 1, harvest lightly in year 2, force for the first time no earlier than year 3."
+    }
+  }
+}

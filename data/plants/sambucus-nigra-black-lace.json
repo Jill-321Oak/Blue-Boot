@@ -1,0 +1,161 @@
+{
+  "id": "sambucus-nigra-black-lace",
+  "name": {
+    "commonName": [
+      "Black Lace Elderberry"
+    ],
+    "latinName": "Sambucus nigra 'Black Lace' (syn. 'Eva')",
+    "family": "Adoxaceae"
+  },
+  "range": {
+    "nativeRange": "Europe (species); 'Black Lace' is a cultivar developed in the UK",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. The European species S. nigra is occasionally planted as an ornamental and has naturalized in scattered locations in the northeastern and Pacific Northwest states, but it is not widespread. The native North American elderberry is S. canadensis (eastern US) and S. cerulea (western US)."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive anywhere in the lower 48. S. nigra naturalizes occasionally in the Northeast and Pacific NW but is not listed on any state noxious weed list. The cultivar 'Black Lace' is unlikely to naturalize — its ornamental selection traits reduce competitive vigor compared to wild-type S. nigra. Not a concern for any US region."
+    },
+    "zone": {
+      "min": 4,
+      "max": 7,
+      "description": "4-7"
+    }
+  },
+  "description": {
+    "height": "6-8 ft unmanaged; easily maintained at 4-5 ft with annual pruning",
+    "spread": "4-6 ft",
+    "spacing": "5-6 ft",
+    "growthRate": "Fast",
+    "timeToMaturity": "2-3 years",
+    "lifespan": "Long-lived; 20+ years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "Low — bare stems; attractive branching structure visible in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; foliage color is deepest and most dramatic in full sun",
+    "water": "Medium to moist; prefers consistent moisture",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates moist to wet soils — one of the more waterlogging-tolerant shrubs. Performs well in poorly drained areas where many ornamental shrubs fail. Ideal drainage is moist but not standing water; however, temporary flooding is tolerated.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Elderberry is well-adapted to heavy clay soils and tolerates the poor drainage and compaction that come with them. Clay's moisture retention actually suits this plant's preference for consistent moisture. No amendments strictly required for establishment in clay, though incorporating organic matter at planting improves root establishment speed. One of the safer shrub choices for unimproved clay sites."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5-6.5"
+    },
+    "texturePreference": "Prefers rich moist loam but is genuinely adaptable. Performs well in clay, sandy loam, and silty soils provided moisture is adequate. Avoid very dry sandy soils — the plant will struggle without consistent moisture regardless of texture.",
+    "rootCharacter": "Fibrous, spreading; produces root suckers — remove if spread is unwanted in a formal bed"
+  },
+  "bloom": {
+    "bloomTime": "June",
+    "bloomDescription": "Flat-topped corymbs of small pink flowers — a striking contrast against the near-black foliage; later-blooming than many elderberries",
+    "fragrance": "Lightly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; planting near another Sambucus (S. canadensis or S. nigra) significantly improves berry yield"
+  },
+  "yield": {
+    "edibleParts": "Flowers (raw — used in fritters, cordial, tea); berries (cooked only — see Cautions)",
+    "harvestSeason": "Flowers June; berries September-October",
+    "medicinalUses": "Elderberry syrup/extract is well-documented for immune support; high in antioxidants and flavonoids; flowers used traditionally for colds and fever",
+    "craftOtherYield": "Natural dye (berries yield purple-blue); elderflower wine and cordial; elderberry wine"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Raw berries, leaves, bark, and roots contain cyanogenic glycosides — can cause nausea and vomiting. Berries must be cooked before eating. Flowers are safe raw. Important consideration if children are in the garden.",
+    "toxicityAnimals": "Toxic to dogs, cats, and horses — leaves and raw berries especially. A meaningful concern given fallen berry and leaf drop in autumn.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub (large shrub / small multi-stem tree)"
+    },
+    "roles": [
+      "Food (flowers, cooked berries)",
+      "Medicinal",
+      "Insect Attractor",
+      "Wildlife Food",
+      "Chop-and-Drop (fast biomass producer)",
+      "Nurse Plant"
+    ],
+    "companionPlants": [
+      "Comfrey (bio-accumulator beneath)",
+      "white clover (ground cover)",
+      "yarrow",
+      "native asters"
+    ],
+    "antagonists": [
+      "None well-documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Native bees (good pollen and nectar source), butterflies, over 50 bird species eat the berries — cedar waxwings, catbirds, and robins are particularly enthusiastic",
+    "hostPlantFor": "Several native moth and butterfly species; Sambucus is a noted wildlife plant with high ecological value",
+    "nestingHabitat": "Dense multi-stem structure provides good nesting cover and shelter for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor. Deer browse elderberry readily, especially young growth and new shoots. Protection with fencing or caging is strongly recommended for the first 2-3 years in any area with moderate to heavy deer pressure. Established plants can tolerate light browse but will be repeatedly defoliated under heavy pressure, reducing both ornamental value and fruit set. No chemical deterrent compounds in the foliage — deer find it palatable."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light spray. Not suited for direct roadside planting or coastal salt spray."
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low — will struggle without consistent moisture in any climate zone. In the arid West and hot South (Zone 8+), supplemental irrigation is essential. Even in the humid East, extended summer dry spells will cause leaf scorch and poor performance."
+    },
+    "other": "Tolerates wet soils, clay, part shade, urban conditions, and air pollution. Wind-tolerant but can be leggy in exposed sites without pruning."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — requires annual pruning to maintain height and best foliage effect",
+    "pruningNotes": "Hard prune to 12-18\" in late winter/early spring. The most dramatic foliage and the darkest color appear on new growth — this pruning is a feature, not just a constraint. Without it the plant becomes leggy and can reach 8-10 ft. A one-third annual removal is an alternative for a less formal result.",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter — very high success rate; one of the easiest shrubs to propagate)",
+      "softwood cuttings (early summer)",
+      "division of suckers (spring or fall)"
+    ]
+  },
+  "cultivarNotes": "'Black Lace' and 'Eva' are the same cultivar under different trade names. The deeply dissected, near-black foliage with pink flowers is the defining ornamental feature — no other elderberry cultivar matches it for drama. 'Black Beauty' is similar but with less finely cut foliage — less dramatic but slightly more compact. For fruit production over ornament, native S. canadensis cultivars are superior: 'Bob Gordon', 'Adams', and 'Johns' are the standard fruiting selections. 'Black Lace' does produce berries, just less abundantly than dedicated fruiting cultivars. Zone 3-5: 'Black Lace' is fully hardy; the annual hard-prune habit means winter dieback is irrelevant. Zone 6-7: Peak performance range — best foliage color, reliable bloom and fruit set. Zone 8+: Can struggle with heat; afternoon shade recommended in Zone 8 and south. S. nigra cultivars are generally better adapted to heat than S. canadensis but still prefer cooler conditions.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Specimen",
+      "border back zone",
+      "food forest shrub layer",
+      "wildlife garden"
+    ],
+    "designPlacement": "Best used as a focal-point specimen or placed at the back of a mixed border where its height (managed or unmanaged) anchors the planting. The near-black foliage creates exceptional contrast against yellow, chartreuse, or pink neighbors — pair with golden-leaved shrubs, yellow roses, or light-colored perennials. Can serve as informal hedge or screen when planted in groups at 5-6 ft spacing. Needs room for its 4-6 ft spread; avoid crowding against walls or fences. In food forest design, occupies the large shrub layer and provides fast biomass for chop-and-drop mulching.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sambucus_nigra",
+    "inaturalist": "https://www.inaturalist.org/taxa/1665961-Sambucus-nigra",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Black Lace / Eva cultivar",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=262947"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No. S. nigra is European. The native elderberry in Pennsylvania is S. canadensis, which is common statewide in hedgerows, forest edges, and stream banks. 'Black Lace' is an introduced ornamental cultivar.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list.",
+      "drainage": "The red clay at Hegins is a good match for elderberry — the moisture retention suits its needs and it will not suffer root rot the way drought-adapted shrubs would. In-ground planting is fine without raised beds. Amending the planting hole with compost will help initial root establishment in compacted construction-disturbed soil, but the plant will naturalize into the surrounding clay readily.",
+      "soil": "The red clay at Hegins falls within the acceptable range. No special soil preparation beyond standard compost amendment at planting. The naturally acidic to slightly acidic pH of central PA soils is well-suited.",
+      "cultivarNotes": "'Black Lace' is an excellent fit. Cross-pollination with a nearby S. canadensis (e.g., in the kitchen garden strip or food forest) will improve berry yield and provide a native companion. For maximum ornamental impact, 'Black Lace' is the top choice; for maximum fruit, pair it with S. canadensis 'Bob Gordon'.",
+      "designPlacement": "North-facing front bed (Section A) stairway flanking candidate — foliage contrast with yellow climbing rose is exceptional. Also suitable for Section B (kitchen garden strip) where no height limit applies and proximity to the kitchen makes harvest convenient. If used in Section A, annual hard pruning to maintain the 5 ft height limit is essential.",
+      "siteObservations": "Deer pressure from the east corridor is a real concern for elderberry — cage or fence new plantings for the first 2-3 seasons. The north-facing front bed is not ideal for deepest foliage color (part shade lightens the black to dark purple), but the ornamental effect is still strong. Not a good match for the dry south bed (Section C) — consistent moisture needs conflict with that microclimate."
+    }
+  }
+}

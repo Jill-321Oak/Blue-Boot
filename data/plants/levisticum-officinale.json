@@ -1,0 +1,159 @@
+{
+  "id": "levisticum-officinale",
+  "name": {
+    "commonName": [
+      "Lovage"
+    ],
+    "latinName": "Levisticum officinale",
+    "family": "Apiaceae (Umbelliferae)"
+  },
+  "range": {
+    "nativeRange": "Southwestern Asia (Iran region); widely cultivated and naturalized in Europe and North America for centuries",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely naturalized across the northern and eastern states where it persists around old homesteads, herb gardens, and disturbed ground. Occasionally found escaped in the Northeast, Mid-Atlantic, and Upper Midwest but never in dense wild populations."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed on any state noxious weed list or federal invasive species list. Self-seeds moderately but is not aggressive; seedlings are easy to remove and the plant does not spread by runners or rhizomes. No invasive concerns in any region of the lower 48."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "4-6' in full growth; striking bold presence in the herb garden",
+    "spread": "24-36\" per plant",
+    "spacing": "24-36\"",
+    "growthRate": "Fast; establishes rapidly from division or transplant; emerges very early in spring",
+    "timeToMaturity": "Leaves harvestable from year 1; full production by year 2",
+    "lifespan": "Long-lived perennial; essentially permanent once established",
+    "deciduousEvergreen": "Deciduous — large glossy compound leaves die back in frost; often among the first herbs to emerge in late winter/early spring (February-March in Zone 6-7; later in colder zones)",
+    "winterInterest": "None — dies back completely; mark position to avoid digging up crowns"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than most culinary herbs. In Zone 8+ or hot southern climates, afternoon shade improves leaf quality and prevents bolting. In Zone 4-6, full sun produces the best growth.",
+    "water": "Medium; drought tolerant once established; deep taproot accesses subsoil moisture. In arid western climates, supplemental irrigation is needed during dry summers; in the humid East and Midwest, natural rainfall is generally sufficient after establishment.",
+    "drainagePreference": {
+      "description": "Average to well-drained; adaptable to a range of soil conditions. Tolerates heavier soils better than most Mediterranean herbs but will not survive waterlogged or perpetually saturated conditions — crown rot is the primary risk in poorly drained sites. Adequate drainage around the crown is more important than perfect soil structure throughout the root zone, since the deep taproot naturally reaches below the worst drainage problems.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. More tolerant of clay than most culinary herbs due to the robust taproot that penetrates compacted layers. In heavy clay, amend the planting hole with compost to improve drainage around the crown during the first year; once the taproot is established, it pushes through dense subsoil effectively. The main risk in unamended clay is crown rot from standing water in winter — raised planting (even 4-6\" of mounded amended soil) eliminates this. Clay gardeners across the eastern US, Midwest, and Pacific NW can grow lovage successfully with minimal amendment."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Rich, moist loam preferred; deep soil preferred for the large taproot. Performs acceptably in clay, sandy loam, and most garden soils provided the crown area is reasonably well-drained. Avoid thin, rocky, or hardpan soils where the taproot cannot penetrate.",
+    "rootCharacter": "Deep thick taproot that penetrates well into the subsoil; does not spread laterally; single crown produces the entire plant mass"
+  },
+  "bloom": {
+    "bloomTime": "June-July",
+    "bloomDescription": "Compound umbels of small yellow-green flowers on tall branching stems; typical Apiaceae structure — flat-topped clusters attractive to beneficial insects; flowers rising well above the foliage",
+    "fragrance": "Strongly aromatic foliage — intense celery-like scent with complex herbal undertones (more complex and refined than simple celery); one of the most aromatic culinary herbs",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent insectary plant — the open Apiaceae flower structure is accessible to a very wide range of beneficial insects including parasitic wasps, hoverflies, ground beetles, and many other predatory and parasitic insects"
+  },
+  "yield": {
+    "edibleParts": "Leaves (fresh or dried — celery substitute and flavoring; use in soups, stews, stocks, salads; very strong flavor, use sparingly); stems (hollow, can be used as \"straws\" for bloody mary — a traditional use; also cooked like celery); seeds (dried — strong flavor, used as a spice similar to celery seed); roots (edible but very strongly flavored; used in traditional European cooking)",
+    "harvestSeason": "Leaves spring through fall; stems before flowering; seeds in late summer; roots in fall of the second year",
+    "medicinalUses": "Traditionally used as a diuretic, digestive, and carminative herb; used for urinary tract support and as a general tonic; aromatic compounds have antibacterial properties; one of the important European medicinal herbs",
+    "craftOtherYield": "Dried seeds as a spice; aromatic dried leaves"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally safe as a culinary herb; CAUTION: contains furanocoumarins that can cause photosensitivity (phototoxic reaction) in sensitive individuals — skin contact with the sap followed by sun exposure may cause burns or blistering; wear gloves when handling in bright sunlight. Do not use medicinally during pregnancy — has traditional use as an emmenagogue. Not recommended for people with kidney disease (diuretic effect).",
+    "toxicityAnimals": "Generally safe; large quantities should be avoided; the phototoxic compounds present a theoretical concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Food (culinary herb and vegetable substitute — all parts used)",
+      "Insectary Plant (excellent — Apiaceae flowers attract parasitic wasps and beneficial insects critical for pest control)",
+      "Dynamic Accumulator",
+      "Medicinal",
+      "Bio-accumulator (deep taproot mines subsoil minerals similar to comfrey)"
+    ],
+    "companionPlants": [
+      "Comfrey (complementary mineral accumulators with different root depths)",
+      "elderberry",
+      "fruit trees; excellent insectary companion throughout the food forest and kitchen garden"
+    ],
+    "antagonists": [
+      "None documented for typical garden companions"
+    ],
+    "coppiceable": "Cut to the ground 2-3 times per season for fresh leaf production; regrows from the crown vigorously; cutting before flowering directs energy to leaf production"
+  },
+  "wildlife": {
+    "attracts": "Wide range of beneficial insects — parasitic wasps (key pest predators), hoverflies, soldier beetles, ground beetles; the Apiaceae flower structure provides pollen and nectar accessible to many insects that cannot access flowers with long tubes",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) caterpillars feed on Apiaceae family plants including lovage — a bonus habitat value",
+    "nestingHabitat": "Tall hollow stems provide overwintering habitat for solitary insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the strong aromatic scent generally deters deer; not a primary browse target. Young transplants may be sampled opportunistically in areas with heavy deer pressure; protect new plantings with temporary caging or deer netting for the first season until established and strongly aromatic. Established plants are rarely damaged."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and light salt spray but not ideal for heavily salted roadside plantings"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — deep taproot accesses subsoil moisture; newly planted specimens need consistent water through the first growing season"
+    },
+    "other": "Tolerates part shade; tolerates clay; cold hardy to Zone 4; tolerates wind (strong stems); tolerates humidity well — no significant fungal issues in humid eastern climates; one of the most robust and self-sufficient perennial herbs"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established",
+    "pruningNotes": "Cut flowering stems before they fully bloom if you want to extend the leaf harvest (flowering slightly diminishes leaf quality). If allowing to flower for insectary value, allow seed heads to mature for bird use and some self-seeding, then cut to the ground in late fall. Divide crowns every 5-7 years if plants become crowded. Cut back new spring growth as needed to control height if the 4-6' mature size is too large for the space.",
+    "propagationMethods": [
+      "Seed (direct sow in fall or cold-stratify for spring; germinates readily)",
+      "division of crowns in spring (careful — tap-rooted, so divide the crown rather than root sections)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars are widely grown — the straight species is the standard across all zones and regions. The species is consistent and reliable regardless of climate. One significant related plant is \"Scottish Lovage\" (Ligusticum scoticum) — a different species of similar flavor native to the North Atlantic coast — but Levisticum officinale is the standard culinary lovage for all lower-48 gardeners.\nZone 3-5: The straight species performs exceptionally well in cold climates; its Zone 4 hardiness and early spring emergence make it one of the first fresh herbs available.\nZone 6-7: Ideal growing range; strong growth, reliable overwintering, long harvest season.\nZone 8+: May struggle with heat; provide afternoon shade and consistent moisture. Leaf quality declines in extreme summer heat. Southern gardeners in Zone 9+ should treat it as a cool-season herb or site it where it receives morning sun only.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "food forest",
+      "kitchen garden",
+      "permaculture guild understory",
+      "insectary planting"
+    ],
+    "designPlacement": "Position at the back of herb plantings or borders where its 4-6' mature height won't shade shorter plants. Kitchen-adjacent placement maximizes culinary convenience — lovage is one of the most frequently used perennial herbs (celery substitute in soups, stocks, and stews). Its shade tolerance makes it suitable for north-facing, partially shaded positions where many other culinary herbs fail. The tall stature provides vertical structure in herb gardens and food forest understory. Excellent insectary value justifies placement near vegetable gardens and fruit trees for biological pest control.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Levisticum_officinale",
+    "inaturalist": "https://www.inaturalist.org/taxa/59432-Levisticum-officinale",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275995"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced European/Asian herb, not native to Pennsylvania",
+      "paInvasiveStatus": "Not regulated in PA. Not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list.",
+      "drainage": "Hegins red clay is manageable for lovage without raised beds. Amend the planting hole generously with compost (50/50 mix in the top 12\") to give the crown good drainage through the first winter. Once the taproot is established, it penetrates the compacted red clay well. The seasonal drainage issues at the site are less concerning for lovage than for shallow-rooted herbs because the taproot draws from deep subsoil moisture. In-ground planting in Section B is appropriate.",
+      "soil": "The Hegins red clay is workable for lovage with compost amendment in the planting hole. The naturally slightly acidic pH of central PA clay soils (typically 6.0-6.5) is within lovage's preferred range. No pH correction needed.",
+      "cultivarNotes": "The straight species is the only form needed. Excellent performance expected; no cultivar selection required.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent herb area). Lovage is ideal here: the kitchen proximity makes frequent harvesting practical, it tolerates the north-facing partial shade that will increase as the food forest matures, and its 4-6' height is acceptable with no height limit in this strip. Position at the back of the strip where its height doesn't shade smaller herbs. Its outstanding insectary value supports pest management across the nearby food forest and vegetable beds.",
+      "siteObservations": "The north-facing, increasingly shaded conditions in Section B are well within lovage's tolerance range — it is one of the few culinary herbs that genuinely performs in part shade. Deer pressure from the east wildlife corridor is a low concern given lovage's strong aromatic deterrence; temporary protection for new transplants is prudent but established plants should be unbothered. The red clay soil at the site needs compost amendment in the planting hole but does not require raised beds for this species. Early spring emergence (February-March in Hegins) means lovage will be one of the first fresh herbs available each season."
+    }
+  }
+}

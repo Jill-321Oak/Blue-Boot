@@ -1,0 +1,163 @@
+{
+  "id": "cucumis-sativus",
+  "name": {
+    "commonName": [
+      "Cucumber",
+      "Garden Cucumber"
+    ],
+    "latinName": "Cucumis sativus",
+    "family": "Cucurbitaceae"
+  },
+  "range": {
+    "nativeRange": "South Asia — widely considered to originate in India or the broader Indian subcontinent; cultivated for at least 3,000 years and now grown across all temperate and tropical agricultural zones worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; no wild populations; entirely a cultivated crop"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — a tender annual that dies at frost and does not self-seed into wild areas; no invasive concern in any US state; not listed on any state or federal noxious weed registry"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "Annual; grown as a warm-season annual across Zones 3-11 in the lower 48; not cold-hardy at any life stage; frost kills at germination, seedling, and mature vine stages alike"
+    }
+  },
+  "description": {
+    "height": "Vining types trail or climb to 4-8' on a trellis; bush types remain compact at 18-24\"; the plant's footprint is almost entirely horizontal unless trained vertically",
+    "spread": "Vining types spread 4-8' on the ground if not trellised; on a vertical trellis, lateral spread is contained to 2-3'; bush types spread 2-3'",
+    "spacing": "Vining types: 12-18\" apart along a trellis, or 24-36\" in hills on the ground; bush types: 18-24\"; rows 4-5' apart for ground culture, 18-24\" apart at the base of a shared trellis",
+    "growthRate": "Very fast once warm soil temperatures (above 60°F) are established; germination in 3-10 days, first female flowers in 35-55 days from direct sow, first fruit 50-70 days from sow depending on variety",
+    "timeToMaturity": "Direct sow: harvest begins 50-70 days from seed; transplant: 45-65 days from transplant; the productive window runs from first harvest until vine decline from disease or frost — typically 6-10 weeks in Zone 6a; shorter in northern zones, longer in Zones 7-9",
+    "lifespan": "Tender annual — the entire life cycle (seed to harvest to vine death) occurs within a single frost-free growing season; plants do not overwinter in any zone; each season requires replanting from seed",
+    "deciduousEvergreen": "Annual — not applicable",
+    "winterInterest": "None — the plant is dead by first frost"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6-8 hours minimum; 8+ hours strongly preferred; cucumbers are heat-demanding and light-demanding; reduced sun produces slower growth, lower yields, and increased disease pressure; do not plant where afternoon shade from structures or trees is likely",
+    "water": "High; cucumbers are approximately 95% water and require consistent, even moisture throughout the growing season — drought stress at any stage causes bitterness (cucurbitacin concentration increases under stress), misshapen fruit, and accelerated vine collapse; aim for 1-1.5\" per week; drip irrigation at the base is ideal; overhead watering promotes foliar disease; mulch heavily to retain soil moisture and reduce watering frequency",
+    "drainagePreference": {
+      "description": "WELL-DRAINED — non-negotiable; cucumbers are extremely sensitive to waterlogged soil; standing water or persistently wet crowns cause rapid crown rot and vine death within days; in-ground planting in heavy or poorly drained soils is high-risk across all regions; raised beds with loose, amended, well-draining soil are the single most important cultural practice for reliable production",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to very poor in unammended clay; roots need oxygen and the crown cannot tolerate persistent wetness; compacted or clay-heavy soils cause stunted growth, disease, and often vine failure before harvest; where native soil is clay, raised beds with 8-12\" of quality loam-compost mix are the standard corrective approach; in-ground culture in clay soils can succeed only with substantial organic matter incorporation and mounded or raised planting positions"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral preferred; good availability of nutrients across this range; pH below 6.0 reduces uptake and increases stress"
+    },
+    "texturePreference": "Loose, well-amended, fertile, organically rich soil — loam or sandy loam is ideal; cucumbers will not thrive in compacted or clay-heavy soils; the roots need oxygen and the crown cannot tolerate wetness; heavy clay soils cause stunted growth, disease, and often vine failure before harvest; sandy soils drain well but require frequent irrigation and organic matter supplementation to retain nutrients and moisture",
+    "rootCharacter": "Fibrous, moderately deep root system with a shallow lateral spread; the taproot is present at germination and is the primary reason transplanting is sensitive — disturbing the taproot at transplant causes severe setback; direct sowing avoids this entirely; roots extend 12-24\" deep in loose soil; do not cultivate near the base of established plants"
+  },
+  "bloom": {
+    "bloomTime": "June-September (continuously as long as the vine is actively growing and temperatures remain warm); timing shifts by zone — earlier in Zones 7-9, later first fruit in Zone 4-5 from direct sow",
+    "bloomDescription": "Yellow, five-petaled trumpet-shaped flowers, 1-2\" across, borne in the leaf axils; male flowers appear first — often 1-2 weeks before female flowers — and this early period of male-only bloom is normal; female flowers are distinguished by the small immature fruit (ovary) visible at the base of the flower; male flowers sit on a plain stem; once female flowers open, fruiting begins quickly with successful pollination",
+    "fragrance": "Mild, faintly sweet; not significant",
+    "flowerSex": "Monoecious — separate male and female flowers borne on the same plant; this is the standard condition for most open-pollinated cucumber varieties; do not be alarmed when the first flush of flowers sets no fruit — those are males; female flowers follow within 1-2 weeks. Gynoecious hybrid varieties produce predominantly or exclusively female flowers, resulting in dramatically higher early yields; these hybrids require a pollinator variety (typically a few seeds of an open-pollinated type are included in the seed packet — plant them). Parthenocarpic varieties (Diva, most English/greenhouse types) set fruit without pollination — useful in greenhouses or low-pollinator conditions, but not necessary outdoors with good bee activity.",
+    "pollination": "Requires insect pollination in standard (monoecious) and gynoecious varieties — primarily bumblebees and honey bees; cucumbers are highly attractive to native bees when in bloom; adequate pollinator activity is essential for fruit set and prevents misshapen or aborted fruit; parthenocarpic types are self-sufficient but outdoor-grown parthenocarpic cucumbers will still be pollinated naturally without issue"
+  },
+  "yield": {
+    "edibleParts": "The fruit — botanically a pepo (a berry with a hardened outer rind), harvested immature before seeds harden; the entire fruit is edible including the skin on thin-skinned varieties; seeds of mature fruit are edible but the goal is always to harvest young; flowers are edible as a garnish or stuffed and fried",
+    "harvestSeason": "Timing varies by zone and sow date; in Zone 6a, late June through September from a late May direct sow; in Zones 7-9, harvest may begin in late May or early June from an earlier sow; in Zones 4-5, harvest runs July through August; harvest begins when fruit reaches the size appropriate to the variety — slicers typically at 6-8\", picklers at 2-4\" for cornichons or 4-5\" for dills; harvest every 1-2 days at peak season without fail; a single cucumber left to over-ripen and yellow sends a chemical signal to the vine to slow or stop fruit production — the plant believes it has successfully reproduced and shifts energy away from flowering; consistent, frequent harvest is the most important practice for sustained productivity; yellow or swollen cucumbers should be removed and discarded immediately even if not eaten",
+    "medicinalUses": "Mild; cucumber juice is a traditional topical remedy for sunburn and skin inflammation; high silica content is associated with connective tissue and skin health in folk medicine; cucurbitacin compounds (responsible for bitterness) have been researched for anti-inflammatory and anticancer properties in laboratory contexts; not a primary medicinal plant",
+    "craftOtherYield": "Luffa (Luffa aegyptiaca) is a related cucurbit — true cucumber (Cucumis sativus) has no significant craft yield; dried mature cucumber seeds are viable for replanting from open-pollinated varieties; fermented cucumber brine has culinary uses"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — cucumbers are fully safe; bitterness in cucumber fruit is caused by cucurbitacins, which in very high concentrations can cause gastric upset, but cultivated varieties have been selected for low cucurbitacin content; a very bitter cucumber should not be eaten in quantity, but normal harvested fruit is entirely safe; cucurbit poisoning from commercially grown or garden cucumbers is extremely rare",
+    "toxicityAnimals": "Generally safe for dogs and cats in moderate amounts; seeds and rind in large quantities may cause mild gastric upset in pets; not a significant toxicity concern; keep pets out of the cucumber bed to prevent vine damage rather than out of toxicity concern",
+    "allelopathy": "None significant; cucumbers are good companion plants for many vegetables without chemical interference",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Ground layer / low herbaceous layer; vining types cover the ground or climb a vertical support; not a canopy or shrub-layer plant"
+    },
+    "roles": [
+      "Annual Vegetable (primary — one of the highest-yielding annual vegetables per square foot when grown on a trellis)",
+      "High-Water-Content Seasonal Food",
+      "Rapid Ground Cover (vining types suppress weeds when sprawling)",
+      "Bee Forage (the abundant yellow flowers are heavily worked by native bees during summer bloom)",
+      "Nitrogen Responder (cucumbers respond well to nitrogen-rich soil amendments and compost — integrate with comfrey chop-and-drop)"
+    ],
+    "companionPlants": [
+      "Dill (Anethum graveolens) — an excellent companion; attracts parasitic wasps and predatory insects that suppress cucumber beetles and aphids; plant dill nearby but not so close that it shades the cucumbers; Nasturtium (Tropaeolum majus) — traditional trap crop for aphids; aphids colonize nasturtium preferentially",
+      "keeping pressure off cucumbers; sacrificial planting at the bed edge; Radish — repels cucumber beetles when interplanted; fast-maturing and harvested before cucumbers need the full space; Beans — fix nitrogen and coexist well without competition; Sunflowers — provide structural windbreak and attract pollinators; Comfrey at the bed edge (chop-and-drop mulch provides potassium and moisture retention); Marigolds (Tagetes) — general pest deterrent"
+    ],
+    "antagonists": [
+      "Sage (Salvia officinalis) and strongly aromatic herbs — traditionally noted as growth-inhibiting to cucumbers and other cucurbits; keep herb gardens separated from cucumber beds; Potatoes — heavy feeders that compete for nutrients and may share late blight (not a direct concern but avoid close interplanting); Fennel — generally antagonistic to most vegetables; do not plant fennel within the vegetable garden"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Native bees (bumblebees, sweat bees, squash bees — cucurbits are among the most bee-attractive annual vegetables; the large yellow flowers provide abundant pollen and nectar); butterflies and beneficial wasps visit the flowers",
+    "hostPlantFor": "Cucumber beetle (striped: Acalymma vittatum; spotted: Diabrotica undecimpunctata) — the most significant insect pest across the lower 48; larvae feed on roots, adults feed on foliage and flowers and are vectors for bacterial wilt (Erwinia tracheiphila); squash vine borer does not attack cucumbers (a cucurbit pest specific to squash and pumpkins); aphids of several species colonize cucumber foliage",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — cucumber vines are palatable to deer, particularly when young; the bristly texture of mature leaves and stems provides some deterrence once the plant is established, but young transplants and seedlings are highly vulnerable wherever deer pressure exists; row cover used for cucumber beetle control (see Maintenance) serves double duty as deer deterrent during the establishment window; once vines are large and on a trellis, deer pressure is less destructive but still a concern at bed edges"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — cucumbers are salt-sensitive; avoid road salt runoff near cucumber beds; a concern for any site with proximity to heavily salted winter roads"
+    },
+    "drought": {
+      "rating": "very-poor",
+      "description": "Very poor — cucumbers are among the most drought-intolerant annual vegetables; even brief water stress causes bitterness, poor fruit set, and accelerated vine decline; consistent irrigation is mandatory in dry periods; mulching is essential across all regions"
+    },
+    "other": "Frost-intolerant at all stages — a light frost kills young plants outright and damages or kills mature vines; cold soil (below 60°F) dramatically slows germination and establishment; chilling injury can occur below 50°F even without frost; do not rush planting before soil has warmed; cucumbers require genuine summer warmth and are not a cool-season crop in any sense"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — cucumbers are productive but require consistent attention: regular watering, frequent harvest, pest monitoring, trellis management, and disease scouting; the harvest window requires checking the bed every 1-2 days; neglect during peak season results in over-ripe fruit, reduced yield, and vine decline; the season is short and intense rather than demanding sustained effort over months",
+    "pruningNotes": "Vertical trellis culture: train the main vine upward by tying it to the trellis; lateral side shoots can be left (they also produce fruit) or trimmed to 1-2 leaves beyond a female flower to concentrate energy on the main vine — this is optional but improves air circulation and reduces powdery mildew; remove yellow, diseased, or dead leaves promptly to slow disease spread; do not remove healthy leaves indiscriminately as the plant needs foliage for photosynthesis. Row cover management: install floating row cover (Agribon-19 or equivalent) at sowing or transplant to exclude cucumber beetles — the primary disease vector for bacterial wilt; remove the row cover when female flowers begin to open (typically 3-4 weeks after planting) to allow pollinator access; once bacterial wilt is in the garden, infected vines cannot be saved — prevention via row cover is far more effective than any treatment. If growing parthenocarpic varieties in a greenhouse, row cover can remain on indefinitely.",
+    "propagationMethods": [
+      "Direct sow (strongly preferred): sow seeds 1\" deep",
+      "2-3 seeds per position",
+      "thin to 1 after germination; sow only after last frost when soil is consistently above 60°F — timing varies by zone: Zone 4-5 early June",
+      "Zone 6 mid-to-late May",
+      "Zone 7 late April to early May",
+      "Zones 8-9 March-April; germination is rapid (5-10 days) in warm soil. Transplant (use with caution): start seeds indoors in 3\" or 4\" pots",
+      "no more than 3 weeks before planned transplant date — cucumber seedlings become root-bound and transplant-shocked quickly; do not start more than 3 weeks early; use biodegradable pots (peat or coir) that can be planted whole to minimize root disturbance; transplant after last frost when soil is warm; handle with extreme care and do not disturb the root ball; this method gives 2-3 weeks lead time but the advantage diminishes if transplant shock sets the seedlings back. Note: there is rarely a meaningful yield advantage to transplanting over direct sowing in Zones 5-8 given the long",
+      "warm summers available; transplanting is most beneficial in Zones 3-4 where the frost-free season is short."
+    ]
+  },
+  "cultivarNotes": "Cucumber variety selection has significant practical consequences — type, disease resistance, and days to maturity all matter. For the lower 48, prioritize days-to-maturity appropriate for your zone: Zone 4-5 gardeners should target 50-60 days to ensure full production before frost; Zone 6 gardeners have flexibility from 50-70 days; Zones 7-9 can use the full range and may succession-sow for extended harvests.\n**Slicing cucumbers** are the familiar fresh-eating type: large (6-9\"), thin-skinned, mild-flavored, best eaten fresh. The skin is thin enough to eat. **'Straight Eight'** is the classic American slicer — heirloom, reliable, good flavor, widely available; not particularly disease-resistant but produces well in good conditions. **'Marketmore 76'** is the benchmark disease-resistant slicer for home gardens: resistant to scab, mosaic virus, and tolerant of powdery mildew; sets fruit prolifically; 67 days; reliable from Zone 4 through Zone 9. **'Diva'** is an All-America Selections winner and one of the best modern slicers: thin-skinned, seedless, burpless, parthenocarpic (sets without pollination), excellent flavor, compact vine, very disease-resistant; 58 days; performs well across the lower 48 and is especially recommended for first-time growers or anyone who finds cucumbers bitter or indigestible.\n**Pickling cucumbers** are shorter (3-5\"), thicker-skinned, with drier flesh and smaller seed cavities — designed to be brined whole or sliced; the thicker skin withstands the pickling process. **'National Pickling'** is the standard reliable pickler — compact vines, prolific production, 52 days; suitable across all zones in the lower 48. **'Boston Pickling'** is an older heirloom pickler with excellent flavor and good production; 58 days. Pickling types can be eaten fresh but are less pleasant than slicers due to tougher skin and drier texture.\n**English / seedless cucumbers** (also called European, telegraph, or burpless): long (10-14\"), very thin-skinned, virtually seedless, mild and sweet with no bitterness; nearly always parthenocarpic. **'Telegraph'** is the classic English type. These require a trellis (the long fruit will curl on the ground), are more disease-susceptible than American types, and benefit from greenhouse conditions but produce well outdoors in good summers across Zones 5-9. Best choice for those who find standard cucumbers bitter or hard to digest.\n**Gynoecious hybrids** to consider: **'Calypso'** (pickling, gynoecious, multiple disease resistances, high yield) and **'Spacemaster'** (compact bush type, good for small beds or containers in any zone). For Zones 4-5, prioritize varieties with days-to-maturity of 50-60 days. For Zones 6-7, 50-70 days works well. For Zones 8-9, days-to-maturity is less critical and succession sowing is more valuable.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable bed (primary)",
+      "vertical trellis system",
+      "kitchen garden"
+    ],
+    "designPlacement": "Plant in the sunniest, warmest bed or garden position available; south-facing exposure or an open, unshaded site maximizes the heat cucumbers need. A trellis or cattle-panel arch along the north edge of a raised bed allows cucumbers to climb without shading shorter plants; alternatively, a dedicated trellis bed with cucumbers on the south-facing side and shade-tolerant herbs on the north works well. In-ground planting is viable in loamy or sandy soils with good natural drainage; in clay-heavy soils, raised beds are strongly recommended. Row cover for cucumber beetle control doubles as deer and pest protection during the establishment window. Succession sowing (every 3 weeks) extends harvest in Zones 5-8; a single late-May sowing is sufficient in Zone 6 for continuous harvest through mid-September.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations: Cucumbers are well-suited to the Hegins growing context despite some site challenges. The raised beds solve the clay/drainage problem definitively. The warm summers (Zone 6a) provide adequate heat for full-season production from a late May sow. The primary management challenges are: (1) cucumber beetle pressure — use row cover from sowing to first female flower open, then remove; monitor for bacterial wilt (wilting that does not recover overnight is the diagnostic sign; cut the stem and look for bacterial ooze); remove and bag infected vines immediately; (2) powdery mildew — nearly universal by late August in humid Pennsylvania summers; improve air circulation by trellising vertically and spacing plants adequately; choose resistant varieties (Marketmore 76, Diva); treat with dilute neem oil or potassium bicarbonate spray at first sign; mildew rarely kills vines outright but reduces late-season production; (3) consistent watering — the most common cause of bitter cucumbers and poor yield in home gardens; mulch the bed deeply (3-4\" of straw or wood chips) and water deeply 2-3x per week or use drip irrigation on a timer. Deer protection during the first 2-3 weeks after transplant or emergence is the primary site-specific concern — low wire hoops over the bed or temporary fencing is sufficient until plants are established."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cucumis_sativus",
+    "inaturalist": "https://www.inaturalist.org/taxa/54919-Cucumis-sativus",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279567&isprofile=1&basic=cucumber"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Hegins red clay is compacted and drains poorly after rain; in-ground cucumber culture is high-risk; raised beds with quality loam-compost mix are the correct permanent solution for this site",
+      "soil": "Hegins native soil is red clay, compacted; not suitable for in-ground cucumbers without significant amendment; raised beds built with loam-compost mix solve this definitively",
+      "cultivarNotes": "Prioritize varieties with 50-70 days-to-maturity for full production before fall disease pressure peaks in September. **Marketmore 76** (primary slicer) + **National Pickling** (if pickling is desired) is a proven, low-risk combination for Zone 6a. Add **Diva** for a burpless, low-maintenance alternative with strong powdery mildew resistance suited to humid PA summers. All three are well within the Zone 6a summer window.",
+      "designPlacement": "Cucumbers are the quintessential summer raised-bed vegetable for this site. The clay subsoil makes in-ground culture unreliable — raised beds with quality loam-compost mix are the correct permanent solution, which is already the site approach. Given the deer pressure from the east corridor, the row cover used for cucumber beetle control provides dual protection during establishment; once vines are large and on a trellis, the bristly texture is a partial deterrent. Do not plant cucumbers in the ground without soil amendment — the red clay will cause crown rot and failure. One sowing in late May typically produces through mid-September before disease and vine decline end the season naturally; succession sowing is optional.",
+      "siteObservations": null
+    }
+  }
+}

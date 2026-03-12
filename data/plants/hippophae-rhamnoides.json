@@ -1,0 +1,166 @@
+{
+  "id": "hippophae-rhamnoides",
+  "name": {
+    "commonName": [
+      "Sea Buckthorn",
+      "Seaberry"
+    ],
+    "latinName": "Hippophae rhamnoides",
+    "family": "Elaeagnaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and Asia — cold-temperate regions from the Atlantic coast to the Pacific; widely distributed across dry, rocky, and coastal habitats from Scandinavia through central Asia to western China; naturalized in some coastal and disturbed areas of North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Eurasia. Naturalized in scattered locations, primarily in the northern tier states and northeastern coastal areas. Not widely established in the wild across the lower 48; most US populations are escaped plantings or deliberate restoration installations rather than aggressive naturalization"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive at the federal level (USDA PLANTS). Not on any state noxious weed list in the lower 48 as of current records. Does spread by root suckering and can form dense thickets in suitable conditions (sandy, well-drained soils), but spread is self-limiting in heavy soils. Some land managers in coastal New England have flagged localized thicket formation, but it is not classified as a regulated invasive species in any US state. Monitor suckering in managed settings and remove unwanted suckers annually to prevent colony expansion beyond intended bounds"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8 — exceptionally cold-hardy; among the most cold-tolerant fruiting shrubs available; performs well across nearly all lower-48 climate zones, though fruit quality may decline in the hottest Zone 8 sites where summer heat stress is sustained"
+    }
+  },
+  "description": {
+    "height": "8-15' as a large shrub or small tree; can be managed shorter with pruning but the thicket/multi-stem habit makes formal size control difficult",
+    "spread": "10-15' or more; spreads actively by root suckers and will expand over time into a thicket colony — plan space accordingly",
+    "spacing": "8-12' for specimen planting; 4-6' for hedgerow; allow for suckering spread beyond the original crown footprint",
+    "growthRate": "Moderate to fast — 2-3' per year under good conditions; faster on lean, well-drained soil",
+    "timeToMaturity": "Begins fruiting year 3-4 from planting; full production by year 5-7; nitrogen fixation begins from year 1",
+    "lifespan": "Long-lived; 30-50+ years; the suckering colony persists and expands indefinitely",
+    "deciduousEvergreen": "Deciduous — narrow, willow-like silver-green leaves are attractive all season; the foliage has a distinctive silvery appearance typical of the Elaeagnaceae family",
+    "winterInterest": "High — the densely packed, bright orange berries persist on branches well into winter; the thorny structure is dramatic against snow; one of the most visually striking winter fruiting shrubs available"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — requires full sun for maximum fruit production; tolerates very light partial shade but yields drop significantly; not a shade plant",
+    "water": "Low to moderate — excellent drought tolerance once established; the native habitat includes dry, rocky slopes and sandy coastal dunes; in the humid eastern US, natural rainfall is generally sufficient after establishment; in arid western regions (Mountain West, Great Basin, interior Southwest), supplemental irrigation may be needed during the first 2-3 years and during extended summer drought",
+    "drainagePreference": {
+      "description": "Well-drained to dry; excellent in sandy and gravelly soils; does not tolerate wet feet or waterlogged conditions. Poor drainage is the single most common cause of failure with this species — root rot and decline follow quickly in saturated soil. Ideal conditions are slopes, raised beds, berms, or any site with rapid water movement away from the root zone. On flat ground, ensure internal drainage before planting.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate — Sea Buckthorn is fundamentally a plant of sandy, gravelly, and well-drained substrates. Heavy clay restricts root development, holds excess moisture, and creates the waterlogged conditions this species cannot tolerate. In clay soils (common across the eastern US, Midwest, and Pacific Northwest), success requires significant amendment: incorporate coarse sand, gravel, or expanded shale into the planting area, or plant on a mound or berm to elevate the root zone above the clay water table. Raised beds or slope positions eliminate the clay drainage problem entirely. Unmodified heavy clay is likely to kill the plant within 2-3 years."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates a wide range; does not require rich soil and actually performs better on lean soils where nitrogen fixation is more active"
+    },
+    "texturePreference": "Sandy, gravelly, and poor soils are ideal; tolerates loam with good drainage; a classic pioneer plant for difficult, nutrient-poor sites. The preference for lean, well-drained substrates is strong — rich, heavy soils suppress nitrogen fixation and promote excessive vegetative growth at the expense of fruiting.",
+    "rootCharacter": "Extensive lateral root system with actinorrhizal nitrogen-fixing nodules (Frankia bacteria — the same genus that fixes nitrogen in Alnus and Elaeagnus); produces abundant root suckers that spread the colony; the root system is an active soil-builder in poor conditions"
+  },
+  "bloom": {
+    "bloomTime": "March-April — before leaf emergence; one of the earliest woody plants to flower; bloom timing varies by zone (as early as late February in Zone 8, as late as mid-April in Zone 3-4)",
+    "bloomDescription": "Non-showy; small yellow-green flowers; female plants produce tiny flowers in short racemes; male plants produce catkins; the flowers are wind-pollinated and not ornamentally significant — the show is in the fall fruit",
+    "fragrance": "None significant",
+    "flowerSex": "Dioecious — male and female flowers on separate plants; BOTH sexes required for fruit production",
+    "pollination": "Wind-pollinated; no bees or pollinators required; plant at least 1 male per 6-8 females; the male does not fruit; proximity matters — within 200' is generally cited as effective range; source male and female plants from the same nursery when possible to ensure bloom-time overlap"
+  },
+  "yield": {
+    "edibleParts": "Fruit — tiny (0.25-0.5\"), bright orange berries, densely clustered along every stem; the fruit load is extraordinary — stems can be completely encased in berries; intensely tart and sour; rarely eaten fresh; typically processed into juice, syrup, jam, jelly, oil, or blended with sweeter fruits; an acquired taste but nutritionally among the most extraordinary fruits in the temperate world",
+    "harvestSeason": "September-October; the berries are very juicy, fragile, and tightly clustered — individual picking is impractical; the recommended harvest method is to cut whole fruiting branches and freeze them; the frozen berries then shake or strip off easily; branch-harvesting is efficient and does not significantly harm the plant",
+    "medicinalUses": "Extraordinary nutritional and medicinal profile — extremely high in vitamin C (10x the concentration of orange by weight), vitamin E, carotenoids (the orange color is beta-carotene), and flavonoids; sea buckthorn is the only significant plant source of omega-7 fatty acids (palmitoleic acid), which are of significant interest in skin health, mucosal healing, and metabolic research; the berry oil (extracted from pulp and seed) is used in cosmetics, wound healing, and nutritional supplements; this is one of the most nutritionally dense fruits available from a temperate climate plant",
+    "craftOtherYield": "Nitrogen-rich biomass from pruned suckers (chop-and-drop mulch); the dense thorny thicket is a wildlife asset in its own right; oil extraction is possible at small scale with appropriate equipment; dye from the orange berries"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — fruit is safe; the extreme tartness makes overconsumption self-limiting",
+    "toxicityAnimals": "None documented; the fruit is consumed by birds and mammals without issue",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub / Canopy (large shrub or small tree)"
+    },
+    "roles": [
+      "Nitrogen Fixer (actinorrhizal — Frankia; fixes atmospheric nitrogen; one of the most productive nitrogen-fixing fruiting shrubs available — unusual in that it combines high-value fruit production with soil-building function)",
+      "Food (exceptional nutritional value — among the best fruiting shrubs for nutrient density)",
+      "Windbreak (dense, thorny, multi-stem habit is excellent for wind protection)",
+      "Erosion Control (deep lateral root system stabilizes slopes and banks; a classic use in its native range)",
+      "Pioneer Species (thrives in poor, disturbed, and nutrient-depleted soils where other plants fail)",
+      "Wildlife Habitat (see Wildlife section)",
+      "Barrier Plant (the thorny thicket is an effective physical barrier — deer deterrent, hedgerow, property line planting)"
+    ],
+    "companionPlants": [
+      "Comfrey (mineral accumulator complement)",
+      "fruit trees (Sea Buckthorn as nitrogen-fixing understory companion or windbreak for apples, pears, paw paw)",
+      "red clover (ground layer nitrogen-fixer)",
+      "other Elaeagnaceae; compatible with most food forest guild plants due to nitrogen contribution; avoid placing directly adjacent to plants that resent high-nitrogen conditions"
+    ],
+    "antagonists": [
+      "None well-documented; the suckering habit can crowd neighboring plants over time — manage sucker spread around specimen plantings"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Birds (the persistent orange berries are a critical late-season and winter food source; cedar waxwings, American robins, and other fruit-eating birds feed heavily on the berries; the fruit remains available through hard frosts and into winter when other food sources are gone), bees (minor — the early bloom provides some early-season pollen)",
+    "hostPlantFor": "Not a significant Lepidoptera host in North America; research on native host relationships is limited given its introduced status",
+    "nestingHabitat": "Excellent — the dense, thorny thicket is among the best nesting cover available for small birds; the thorns and branch density provide protection from predators; comparable to hawthorn as a nesting habitat plant; a high-value wildlife hedgerow component"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the dense, stiff thorns make Sea Buckthorn one of the most deer-resistant shrubs available; established thickets are essentially impenetrable to deer browse; the thorny hedgerow habit is itself a deer deterrent for adjacent plantings. Young plants should still be protected with caging or fencing until the thorn structure is well-developed (typically 2-3 years). Once established, no deer protection is needed."
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most salt-tolerant woody plants known; native to coastal dunes and salt-spray environments; used extensively in coastal restoration and roadside plantings; tolerates both soil salt and aerial salt spray; recovers readily from incidental road salt exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — deeply drought-tolerant once established; native to dry, rocky, and sandy habitats; thrives on neglect; does not require irrigation in humid climates after the establishment period; in arid western climates, occasional deep watering during the first 2-3 summers accelerates establishment"
+    },
+    "other": "Wind-tolerant (excellent — one of the best windbreak shrubs available); tolerates poor and infertile soils (where nitrogen fixation provides competitive advantage); tolerates sand, gravel, and disturbed sites; moderate heat tolerance (performs best below Zone 8 extremes); not suited to heavy wet clay without drainage modification"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — once established, very little intervention required; the main ongoing task is sucker management",
+    "pruningNotes": "The primary maintenance task is controlling sucker spread — suckers can be mowed, cut, or dug and transplanted (or composted as nitrogen-rich biomass) to keep the colony within bounds. Harvest is done by branch-cutting (see Yield section) — this doubles as pruning. Avoid heavy pruning in the first 2-3 years while the plant establishes. Wear heavy gloves and long sleeves for all pruning work. The thorns are serious. Thin interior branches every few years to maintain airflow and access. No annual pruning regime is strictly required — Sea Buckthorn manages itself reasonably well if given adequate space.",
+    "propagationMethods": [
+      "Hardwood cuttings (most reliable for named female cultivars — this is the only way to guarantee sex of the plant)",
+      "seed (easy but sex is unknown until flowering — plants from seed will be ~50% male; not practical for production planting)",
+      "division of root suckers (simple — dig and transplant; but sex of suckers is the same as the parent plant, which is useful for propagating known females)",
+      "layering"
+    ]
+  },
+  "cultivarNotes": "Sea Buckthorn cultivars matter more than with many shrubs because sex determination is critical — you must know whether you are buying a male or female plant. Always purchase named cultivars from a reputable nursery that guarantees sex. Unnamed seedlings are unreliable for production planting.\n**Female cultivars (fruiting):**\n- **'Titan'** — the most widely recommended female cultivar in North America; Zone 3-8; large berries relative to the species; heavy production; widely available from specialty nurseries. Performs well across the full hardiness range and is the safest default choice for any US grower.\n- **'Leikora'** — German selection; one of the heaviest-fruiting females; widely grown in Europe; good availability from specialty nurseries in North America. Excellent in Zone 4-7; may underperform in Zone 8 heat.\n- **'Askola'** — reliable female selection; good production; Zone 5-7; a solid choice where 'Titan' is unavailable. Best suited to northern-tier and mid-latitude growers.\n- **'Hergo'** — German cultivar; good fruit quality; Zone 4-7; somewhat smaller plant habit; useful where a slightly more compact female is desired.\n**Male cultivars (non-fruiting; required for pollination):**\n- **'Pollmix'** — the standard male selection for paired planting; widely sold alongside female cultivars; reliable pollen source. Compatible with 'Titan', 'Leikora', 'Askola', and 'Hergo'.\n- Unnamed male selections from the same nursery as the female cultivars are also acceptable — bloom time compatibility is the key factor; source male and female from the same supplier.\n**Regional considerations:**\n- **Zone 3-5 (northern tier):** All listed cultivars perform well. Cold hardiness is not a limiting factor. Select based on availability.\n- **Zone 6-7 (mid-latitude):** Peak performance zone for Sea Buckthorn. 'Titan' and 'Leikora' are the top choices. Fruit quality and yield are generally highest in this range.\n- **Zone 8+ (southern tier, Gulf states):** Sea Buckthorn can struggle with sustained summer heat and humidity. If attempting in Zone 8, choose 'Titan' for its broad adaptability and ensure excellent drainage. Not recommended for Zone 9+.\nPlant 1 male per 6-8 females. The male contributes nothing to harvest but is essential for fruit set. For a small planting (2-4 female plants), 1 male is sufficient.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest perimeter",
+      "windbreak",
+      "nitrogen-fixing hedgerow",
+      "slope and erosion control",
+      "wildlife habitat planting",
+      "natural barrier/deer deterrent"
+    ],
+    "designPlacement": "Sea Buckthorn is a perimeter and structural plant — not suited to interior beds, small contained spaces, or formal garden settings due to the suckering habit, thorns, and eventual size. Place on property edges, slopes, windbreak lines, hedgerows, or anywhere a dense, thorny, nitrogen-fixing thicket is an asset rather than a management problem. Ideal positions include: windward property edges (windbreak function), slopes and banks (erosion control with nitrogen fixation), wildlife corridor boundaries (thorny barrier that doubles as habitat and food), and food forest perimeter (nitrogen-fixing windbreak that shelters interior plantings). Ensure the suckering zone has room to expand without encroaching on managed beds. Allow a 10-15' buffer between the intended planting center and any area where suckers would be unwelcome.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippophae_rhamnoides",
+    "inaturalist": "https://www.inaturalist.org/taxa/163812-Hippophae-rhamnoides",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279923"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from Eurasia; not native to Pennsylvania or eastern North America",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list, not flagged by PA DCNR or PA Dept. of Agriculture invasive species lists. Same as general Invasive field — not regulated in PA. The suckering habit warrants monitoring in garden settings but does not constitute invasive behavior in the mid-Atlantic region",
+      "drainage": "The compacted red clay at Hegins with documented drainage issues is a poor match for Sea Buckthorn without intervention. In-ground planting must be on a slope, mound, or berm — never in a flat, low-lying area where water pools after rain. Amend the planting hole generously with coarse material (gravel, sand, bark) and mound the planting site 6-12\" above grade to ensure rapid drainage. The nitrogen-fixing root system will improve soil structure over time, but the plant must survive establishment first, and clay waterlogging is the primary risk.",
+      "soil": "The red clay at Hegins requires amendment for in-ground planting. Mix coarse sand, gravel, and organic matter into the planting area to improve texture and drainage. Alternatively, place on a naturally draining slope or rocky area of the property where native soil is less clay-dominant. The clay will not limit the plant if drainage is addressed.",
+      "cultivarNotes": "'Titan' (female) paired with 'Pollmix' (male) is the default recommendation. This combination is widely available from specialty nurseries and proven in Zone 6a conditions. 'Leikora' is an equally strong alternative female if sourced from a reliable supplier.",
+      "designPlacement": "Best placement is on the east wildlife corridor edge where deer pressure originates — the thorny thicket would serve as a living barrier while producing fruit and providing wildlife habitat. Also excellent on any slope or drainage swale edge where erosion control is needed, or as a windbreak component on the north/northwest perimeter (primary wind direction). Not appropriate for Section A, B, or C beds due to size, thorns, and suckering habit. The clay drainage concern at Hegins requires slope placement or mounding (see Drainage and Soil sections). The nitrogen-fixing function will actively improve surrounding soil over time, benefiting neighboring food forest plantings (apple, paw paw, mulberry guilds).",
+      "siteObservations": "The compacted red clay with drainage issues is the primary site challenge for this species — placement on a slope or mounded position is essential, not optional. The active deer pressure from the east wildlife corridor makes the thorny thicket habit especially valuable here; a Sea Buckthorn hedgerow along that corridor edge would serve triple duty as deer barrier, fruit production, and wildlife habitat. The NW/W wind exposure on the property is another opportunity — Sea Buckthorn's windbreak capacity is among the best available. Salt tolerance is excellent but not a factor at this site given the 50' setback from the salted road. Sucker management will be the main ongoing task once established."
+    }
+  }
+}

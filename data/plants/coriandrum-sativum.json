@@ -1,0 +1,165 @@
+{
+  "id": "coriandrum-sativum",
+  "name": {
+    "commonName": [
+      "Cilantro",
+      "Coriander",
+      "Chinese Parsley"
+    ],
+    "latinName": "Coriandrum sativum",
+    "family": "Apiaceae (Carrot family)"
+  },
+  "range": {
+    "nativeRange": "Southern Europe and western Asia (likely originating in the eastern Mediterranean and Middle East); one of the world's oldest cultivated herbs, with archaeological evidence of cultivation dating back at least 7,000 years; now grown and naturalized on every inhabited continent",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; occasionally escapes cultivation along roadsides and in disturbed ground across the lower 48, but does not persist or spread aggressively in most regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state; self-seeds in the garden, which is entirely desirable; does not escape in an ecologically disruptive way; populations are annual and easily managed; no state invasive listings for the lower 48\nPennsylvania:\nNative to Site: No — not native to Pennsylvania or eastern North America\nPA Invasive Status: Not listed as invasive in Pennsylvania"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Annual in all zones across the lower 48; grown as a cool-season annual; does not overwinter as a plant; self-seeding volunteers provide effective season extension and perpetuation; timing of productive seasons shifts significantly by region — cool-season spring/fall herb in the South and Southwest, spring/fall or even summer herb in the Pacific Northwest and upper Midwest"
+    }
+  },
+  "description": {
+    "height": "12-24\" before bolting; bolt stalks reach 24-36\" when flowering; a distinctly upright and open plant once it begins to bolt",
+    "spread": "6-12\" per plant depending on spacing and growing conditions",
+    "spacing": "6\" for leaf production (dense sowing); 8-12\" for seed production (to allow full plant development and air circulation)",
+    "growthRate": "Fast — germinates in 7-14 days depending on soil temperature; baby leaves harvestable in 3-4 weeks; full leaf production in 45-60 days; bolts rapidly once temperatures climb above 75-80°F or days lengthen significantly",
+    "timeToMaturity": "First leaf harvest in 3-4 weeks from sowing; prime leaf production window lasts 4-6 weeks before bolting begins; seed harvest follows 90-110 days from sowing as plants complete their life cycle",
+    "lifespan": "Annual — completes its full life cycle (germinate, leaf, bolt, flower, seed) in a single season; however, plants allowed to set seed produce prolific self-seeding volunteers that emerge in fall and the following spring, creating a semi-permanent self-renewing population that requires no replanting after the first establishment year",
+    "deciduousEvergreen": "Annual — no persistent structure; dies completely after setting seed; self-sown seedlings take its place in subsequent seasons",
+    "winterInterest": "None structurally; fall-sown seedlings may remain as small rosettes into early winter in many US climates; in mild-winter regions (Zone 7+), fall-sown plants can persist through winter and bolt in early spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun is optimal in cool weather; afternoon shade is actively beneficial as temperatures rise in spring — it delays bolting meaningfully and can extend the leaf harvest window by a week or two in the critical shoulder season; in warm-summer climates across the lower 48, afternoon shade placement for spring plantings is a strategy, not a compromise; in the Pacific Northwest and similar cool-summer regions, full sun is appropriate through most of the growing season",
+    "water": "Medium — consistent moisture produces fuller, more flavorful leaves and modestly delays bolting; drought stress accelerates bolting dramatically; keep the soil evenly moist, particularly during spring dry spells when temperatures are also rising; fall crops benefit from naturally more consistent autumn moisture conditions",
+    "drainagePreference": {
+      "description": "Average; tolerates a range of drainage conditions when direct-sown; the taproot handles moderate soil variation reasonably well; avoid waterlogged conditions, which encourage damping off and root rot, particularly in cool spring weather",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderately tolerant when direct-sown — the taproot navigates heavier soils better than most Mediterranean annual herbs; surface compost worked in before sowing markedly improves germination and early growth; not recommended for transplanting into clay as root disturbance triggers bolting; avoid compacted or waterlogged clay without amendment"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.2,
+      "max": 6.8,
+      "description": "6.2-6.8; moderately adaptable; prefers slightly acidic to neutral conditions"
+    },
+    "texturePreference": "Fertile, well-amended, moist loam is ideal for maximum leaf production and pre-bolt longevity; however, cilantro is genuinely adaptable to heavier soils when direct-sown — it is not as clay-sensitive as many Mediterranean herbs because it is grown as a cool-season annual in moist conditions rather than a drought-adapted perennial; a surface layer of compost worked in before sowing markedly improves germination and early growth",
+    "rootCharacter": "Taproot — a single straight primary root that makes direct sowing strongly preferable to transplanting; cilantro resents transplanting at any stage and will bolt immediately if its taproot is disturbed; always sow in place; the taproot also gives it moderate heavy-soil tolerance for an annual herb"
+  },
+  "bloom": {
+    "bloomTime": "Varies by region and season of sowing; spring sowings bolt as days lengthen and temperatures climb above 75-80°F; fall sowings bolt the following spring; in warm southern climates, spring-sown plants may bolt within 3-4 weeks of germination; in cool-summer Pacific Northwest conditions, spring-sown plants may hold leaves for 8-12 weeks before bolting",
+    "bloomDescription": "Delicate compound umbels 1-3\" wide composed of tiny white to pale pink flowers; individual flowers are small and lacy, with the outer petals of each flower enlarged slightly — giving the umbel a fringed, airy quality; the flowers are pretty in a refined, unshowy way; the bolt stalk is upright and branched, rising quickly above the foliage; the flowers smell faintly of cilantro but not unpleasantly so; the entire flowering plant has an architectural openness that is not unattractive even though bolting ends the leaf harvest",
+    "fragrance": "The foliage is strongly aromatic — the distinctive cilantro scent is produced by a complex mix of aldehydes, primarily (E)-2-decenal and other C10 aldehydes; the scent is fresh, citrusy, and herbal to most people, though a subset of the population (see Cautions) perceives it as soapy; the seeds have a completely different aromatic profile — warm, spicy, slightly citrusy, reminiscent of orange peel and cumin — produced by different volatile compounds than the leaves; flowers carry a mild version of the leaf scent",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female reproductive parts",
+    "pollination": "Self-fertile; also strongly visited by beneficial insects including small native bees, honeybees, hoverflies, and parasitic wasps; the open umbel flower structure (characteristic of the entire Apiaceae family) is accessible to the widest range of beneficial insects; cilantro in flower is a minor but genuine insectary asset, particularly in early summer when few other Apiaceae are yet blooming"
+  },
+  "yield": {
+    "edibleParts": "Leaves (primary fresh herb yield — the \"cilantro\" of Mexican, Southeast Asian, and Indian cuisines), roots (used in Thai cooking as an aromatic base for curry pastes and soups — stronger flavor than the leaves, earthy and concentrated), seeds (the \"coriander\" of Indian, Middle Eastern, and European cooking — a completely different culinary identity from the leaves), flowers (edible as garnish, mildly flavored, delicate). The most important thing to understand about cilantro's yield is that it is simultaneously two entirely different herbs depending on what stage of growth is harvested. The fresh leaves — sold as \"cilantro\" — are bright, citrusy, and intensely aromatic; they are the defining herb of Mexican salsas, guacamole, pico de gallo, Vietnamese pho, Thai green curry, and Indian chutneys. The dried or whole seeds — sold as \"coriander\" — taste almost nothing like the leaves; they are warm, spicy, slightly sweet, and reminiscent of citrus peel; they are a foundational spice in garam masala, Indian spice blends, Middle Eastern baharat, European pickling spices, and Belgian witbier. Green coriander seeds — harvested when the seed heads have formed but before the seeds dry — are an underused intermediate stage: they have an intense, concentrated flavor combining elements of both the leaf and the dry seed, and can be used whole in cooking, pickled, or ground fresh.",
+    "harvestSeason": "Leaf harvest (cilantro): begin harvesting outer leaves once plants are 4-6\" tall, cutting stems just above a leaf node; continue harvesting frequently — regular harvest slightly delays bolting by reducing the plant's above-ground biomass; the leaf harvest window varies considerably by region. In hot-summer climates (Zones 7-9, South and interior Southwest), the spring window may be only 2-4 weeks — fall crops are the primary production season. In cool-summer climates (Pacific Northwest, upper Midwest, high elevations), the spring and even summer windows may extend to 8-12 weeks. Green seed harvest: harvest when seeds are plump and green but before they begin to pale and dry. Dry seed (coriander spice) harvest: when seed heads turn tan to light brown and seeds begin to shatter; cut whole heads and dry in paper bags to catch falling seeds.",
+    "medicinalUses": "Traditionally used as a digestive herb — seeds are carminative (relieve gas and bloating), antispasmodic, and mildly anti-inflammatory; coriander seed tea has a long history in traditional medicine across multiple cultures for digestive complaints; the volatile oils have documented antibacterial properties; used in Ayurvedic medicine as a cooling herb and digestive aid; leaf extracts have been studied for cholesterol-modulating effects; not a primary medicinal plant in western herbalism but with a robust history in traditional Asian and Middle Eastern medicine",
+    "craftOtherYield": "Dried coriander seed (excellent homegrown spice with notably better flavor than commercial coriander when freshly ground); cut foliage can be dried though it loses significant flavor compared to fresh — freeze-drying retains more; seed heads have minor dried-flower interest"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic and safe for all ages in culinary quantities; however, cilantro is notable for one of the most discussed flavor perception phenomena in botany: the aldehydes that give cilantro its characteristic scent are perceived as intensely soapy or metallic by people who carry the OR6A2 gene variant (located on chromosome 11, near a cluster of olfactory receptor genes); estimates of prevalence range from 4-14% of the population depending on the study and ethnic background; this is not an acquired taste issue or a psychological aversion — it is a genuine, hard-wired genetic difference in olfactory receptor function; people with this variant are not tasting cilantro differently because they haven't tried it enough, but because they literally smell it differently; the perception can range from mildly unpleasant soapy overtones to overwhelming revulsion",
+    "toxicityAnimals": "Cilantro is generally considered safe for dogs and cats in small culinary amounts; coriander seed is similarly non-toxic; not a significant hazard for animals",
+    "allelopathy": "None well-documented for cilantro itself; however, fennel (Foeniculum vulgare) is strongly allelopathic toward cilantro and most of the vegetable garden — keep cilantro well away from any fennel plantings",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / ground layer — a low, fast-cycling cool-season annual that fills a specific short seasonal niche"
+    },
+    "roles": [
+      "Food (primary — one of the most-used fresh herbs in global cooking; leaf yield is the primary function)",
+      "Spice Production (coriander seed — a completely separate yield from the same plant, produced after the leaf harvest window closes)",
+      "Insectary Plant (secondary — flowering plants attract beneficial parasitic wasps and hoverflies to the kitchen garden in early summer)",
+      "Self-Seeding Annual (after the first year, a managed self-seeding population eliminates replanting effort in a permanent kitchen garden bed)",
+      "Cool-Season Gap Filler (produces during the shoulder seasons when most of the vegetable bed is empty)"
+    ],
+    "companionPlants": [
+      "Dill (the natural cilantro companion — both are Apiaceae, both bolt at similar times, both attract the same beneficial insects, and a mixed planting of cilantro and dill in the kitchen herb bed creates a more effective insectary than either alone); tomatoes (cilantro provides insectary value in the spring before tomatoes go in, then is cleared as warm-season crops establish — a natural succession planting); beans and peas (cool-season companions that share the spring window); brassicas (cilantro attracts parasitic wasps that prey on cabbage worms and aphids); chives and garlic (traditional herb companions with no documented negative interactions)"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare) — strongly allelopathic and cross-competitive; never plant cilantro near fennel; keep 20+ feet apart in the garden; fennel is broadly antagonistic to most kitchen garden plants and should be isolated from the main growing areas"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Small native bees, honeybees, hoverflies, and parasitic wasps — the flat open Apiaceae umbels are among the most accessible flower structures for the widest range of beneficial insects; parasitic wasps (Braconidae, Ichneumonidae) that use cilantro flowers as an adult nectar source are key predators of aphids, caterpillars, and other garden pests; this insectary value is modest compared to a large perennial Apiaceae planting but meaningful in a kitchen garden context; cilantro that is allowed to bolt and flower contributes more insectary value than cilantro harvested entirely before bloom; allowing a proportion of each succession sowing to flower is the best approach for balancing harvest and beneficial insect support; birds are attracted to the mature seeds (goldfinches, sparrows, and other seed-eating species will work the dry seed heads)",
+    "hostPlantFor": "Black swallowtail butterfly (Papilio polyxenes) — swallowtail caterpillars (bright green, black-banded, with yellow spots) feed on Apiaceae including cilantro, dill, parsley, and fennel; finding a swallowtail caterpillar on bolting cilantro is a pleasure and a mark of a healthy garden ecosystem; the caterpillars consume individual plants but do not devastate a productive planting; in a succession-sown kitchen garden this is not a meaningful production problem, and the butterflies that result are a significant wildlife benefit; range of Papilio polyxenes covers all of the lower 48 states east of the Rockies, with related western swallowtail species using the same host plants further west",
+    "nestingHabitat": "None significant — an annual without persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low-moderate",
+      "description": "Low to moderate browse risk — the strongly pungent foliage is less palatable to deer than many herbs; pungent aromatics do provide some deterrence; however, tender young seedlings before they develop full aromatic intensity are vulnerable; established plants with mature foliage are less frequently browsed than non-aromatic greens; deer pressure is unlikely to be a serious management problem for cilantro compared to lettuces or arugula, but browse protection may be warranted in high-pressure areas during seedling establishment"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate tolerance; avoid placement within consistent road salt drift zones; not a concern for most garden positions set back from heavily salted roads"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low — drought stress is the single most reliable bolt trigger for cilantro; even a few days of soil drought during warm weather will send plants rapidly into bolting mode; consistent moisture is essential for extending the leaf harvest window; this is the primary irrigation consideration for spring crops across all regions; fall crops benefit from naturally more consistent autumn rainfall"
+    },
+    "other": "Cold-tolerant as a seedling — cilantro seedlings survive light frosts (28-32°F) without significant damage; this cold hardiness makes it possible to direct-sow 3-4 weeks before the last frost date in most US zones; mature plants are similarly frost-tolerant and fall crops continue producing well past the first light frosts; can be covered with floating row cover to extend the fall season"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low overall — but requires strategic succession sowing and attention to timing to succeed; a single planting produces a single short harvest window and then bolts; sustained production requires succession sowing every 2-3 weeks through the cool seasons; after the self-seeding population is established in its second year, maintenance drops further",
+    "pruningNotes": "Harvest outer leaves frequently — cut stems above a leaf node rather than pulling individual leaves; regular harvest is both the way to use cilantro and the way to modestly extend its pre-bolt window; when the bolt stalk appears (an unmistakable central upright stem rising above the feathery foliage), two choices exist: pull the plant and use it entirely fresh (the entire bolting plant, including roots, stems, and remaining leaves, is edible and flavorful), or leave it to flower and set seed for insectary value and seed harvest. For seed harvest: when seed heads turn from green to tan, cut the entire stalk and place it upside down in a paper bag; the seeds continue to ripen and fall into the bag over 1-2 weeks; thresh and clean, then store dry. For self-seeding perpetuation: allow a portion of each planting to set seed completely and shatter naturally onto the soil surface; fall-sown volunteers will emerge in spring, and spring-sown volunteers will emerge in fall, creating a low-maintenance cycle once established.",
+    "propagationMethods": [
+      "Direct sow exclusively — cilantro does not transplant; its taproot and general sensitivity to root disturbance means that transplanting at any stage triggers immediate bolting and severely compromises the leaf harvest; always sow seeds directly in the bed where they will grow. Sow 1/4\" deep",
+      "1\" apart in bands or blocks",
+      "then thin to 6\" spacing for leaf production. Seeds germinate in 7-14 days depending on soil temperature; germination is optimal at 55-68°F soil temperature — cooler than warm-season crops; warm soil above 75°F significantly slows or prevents germination. Sowing schedule varies by region and climate: in Zone 6a",
+      "sow outdoors from mid-April through mid-May for the spring crop and early August through mid-September for the fall crop — the fall sowings are typically the most productive; in Zones 8-9",
+      "spring sowing is compressed (February-March) and fall is the main season (September-November); in Zones 4-5",
+      "the spring window extends later and the fall season may be limited. Self-seeding: allow 3-4 plants per bed to set and shatter seed each season; after the first year",
+      "volunteers will emerge spontaneously in spring and fall and can be thinned to the desired stand without any additional sowing effort."
+    ]
+  },
+  "cultivarNotes": "Standard species-type cilantro sold without a cultivar name performs acceptably across the lower 48, but several named cultivars specifically bred for slower bolting are worth seeking out — bolt management is the central challenge regardless of climate zone, though the intensity of that challenge increases significantly in hotter, longer-day summer climates. 'Slow Bolt' (also sold as 'Long Standing') is the most widely available bolt-resistant selection and should be the default choice for spring plantings throughout the South, Mid-Atlantic, and Midwest — it does not prevent bolting in true summer heat, but it extends the spring harvest window by approximately 1-2 weeks compared to unselected types. In Zones 8-9 (Deep South, Southwest), even slow-bolt varieties have very short spring windows; fall and winter production is the productive strategy in those climates. 'Leisure' is a vigorous slow-bolt variety with good leaf mass; well-suited to both spring and fall production across a wide range of zones. 'Calypso' is a slow-bolt variety bred specifically for extended leaf production; widely used in commercial production for its protracted harvest window; particularly valuable in Zones 6-7 where the spring window is moderate. 'Santo' is a standard-type widely available across the US, reliable for both leaf use and seed (coriander spice) production — useful if both yields are priorities in the same planting. In the Pacific Northwest and upper Midwest (Zones 4-6 with cool summers), standard varieties perform well through much of the summer; bolt-resistant cultivars are still beneficial but less critical than in warmer zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen herb bed (primary)",
+      "raised bed annual herb rotation",
+      "succession-sown cool-season crop",
+      "self-seeding annual for maintained kitchen garden",
+      "green coriander seed production",
+      "dry coriander spice production"
+    ],
+    "designPlacement": "Cilantro belongs in the kitchen herb area — ideally positioned for easy harvest access. The key design insight is that cilantro is a fall crop first and a spring crop second in most of the eastern and central US, despite the conventional framing of it as a spring herb; fall plantings (sown 6-8 weeks before first frost) consistently outperform spring plantings in both yield and duration because cooling fall temperatures actively delay bolting. In the South and Southwest (Zones 7-10), cilantro is primarily a fall through early spring herb, often grown through winter. In the Pacific Northwest and areas with cool summers, spring through early summer production is viable and reliable. Companion planting with dill in the same bed is recommended across all regions — both are Apiaceae, both bolt at comparable rates (though dill tolerates heat better), and a mixed planting creates a more continuous insectary bloom than either alone. Plant cilantro on the east or north side of taller plantings where it will receive afternoon shade during the spring shoulder season — even one to two hours of afternoon shade can meaningfully extend the spring harvest window in most US climates. Once a self-seeding population is established, maintain it by allowing a few plants each season to complete their seed cycle; thin spring and fall volunteers to the desired stand without additional sowing.",
+    "acquisitionStatus": "To source — seed is widely available and inexpensive; single-variety packets sufficient for a season's worth of succession sowing are available from Johnny's Selected Seeds (excellent slow-bolt variety selection), Baker Creek, High Mowing Organic Seeds, or any garden center; a $3-5 packet contains far more seed than needed for one season; purchase fresh seed each year as cilantro seed viability drops noticeably after 2-3 years\nPennsylvania — Hegins Site Observations:\nThe Zone 6a climate at Hegins makes cilantro management straightforward once the seasonal strategy is understood: stop fighting the bolt and schedule around it. The spring window is short — plan for 4-6 weeks of leaf production, succession-sow every 2-3 weeks starting mid-April, use slow-bolt varieties, and accept the transition to seed harvest as a feature rather than a failure. The fall window is longer and more productive — prioritize the August sowing and harvest through October; fall-sown plants will often self-sow, and the volunteers that emerge in early spring will give a jump-start on the following year's production before any deliberate sowing is possible. Active deer pressure from the east wildlife corridor is a factor during seedling establishment — young cilantro before full aromatic intensity develops is more vulnerable than mature plants; temporary row cover over new sowings is a low-effort precaution. Red clay soil is manageable for direct-sown cilantro with compost amendment; raised beds in Section B eliminate clay concerns entirely and are the preferred setup for kitchen herb production at this site."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Coriander",
+    "inaturalist": "https://www.inaturalist.org/taxa/67759-Coriandrum-sativum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275984"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Red clay at Hegins is manageable for direct-sown cilantro with compost amendment; raised beds eliminate clay concerns entirely and are recommended for kitchen herb production; waterlogged low spots should be avoided for spring sowings",
+      "soil": "Red clay at Hegins performs adequately for direct-sown cilantro when amended with surface compost; raised beds with loamy mix eliminate clay limitations and are the preferred production method in the Section B kitchen herb strip",
+      "cultivarNotes": "Use 'Slow Bolt' or 'Leisure' for spring plantings where every extra day of pre-bolt leaf production matters; use 'Santo' or unselected types for fall plantings (where cool temperatures do more to delay bolting than any cultivar selection) and for dedicated seed production plantings.",
+      "designPlacement": "Section B (kitchen herb strip) is the ideal placement — kitchen-adjacent and productivity-focused. Section B's north-facing orientation, while limiting for some plants, is an asset for cilantro in spring because it reduces direct afternoon sun and heat load. Position cilantro toward the south end of Section B where it receives the most available light while still benefiting from afternoon shade. Allow a self-seeding population to establish in the bed; manage deer pressure during seedling establishment with temporary row cover or cage protection. The August sowing is the anchor planting; treat spring as a bonus season managed with slow-bolt varieties.",
+      "siteObservations": null
+    }
+  }
+}

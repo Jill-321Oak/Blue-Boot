@@ -1,0 +1,160 @@
+{
+  "id": "cucurbita-pepo",
+  "name": {
+    "commonName": [
+      "Summer Squash",
+      "Zucchini",
+      "Pumpkin",
+      "Acorn Squash",
+      "Spaghetti Squash",
+      "Delicata Squash",
+      "Pattypan",
+      "Yellow Crookneck"
+    ],
+    "latinName": "Cucurbita pepo",
+    "family": "Cucurbitaceae"
+  },
+  "range": {
+    "nativeRange": "Mexico and Central America — domesticated from wild Cucurbita pepo ssp. fraterna and related subspecies; evidence of cultivation dates to 8,000–10,000 years ago in the Oaxaca Valley; one of the oldest domesticated food plants in the Americas",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US in any cultivated form; wild progenitors are Mexican and Central American; a cultivated agricultural species with no wild-native US populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — C. pepo is not invasive in any US state; seeds may volunteer in compost areas from discarded fruits but are frost-tender annuals that die completely each fall and do not naturalize; no invasive listing at state or federal level in any lower 48 state; ornamental gourd relatives can escape in warmer climates but culinary C. pepo does not persist"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "3-11 (grown as a warm-season annual throughout; frost-sensitive)"
+    }
+  },
+  "description": {
+    "height": "Bush types: 2-3' tall; vining types trail along the ground with the central stem rarely exceeding 18\" in height but sprawling considerably",
+    "spread": "Bush types: 3-4' across; vining types (acorn, spaghetti, pumpkins): 6-10'+ along the vine run; this is one of the most space-hungry annual vegetables in common cultivation",
+    "spacing": "Bush types: 3-4' between plants; vining types: 6-8' between hills; for intensive raised beds, one bush plant per 9-12 sq ft minimum; do not crowd — poor air circulation directly increases powdery mildew severity",
+    "growthRate": "Very fast — among the fastest-growing annual vegetables; seeds germinate in 5-7 days in warm soil (65°F+); plants reach flowering size in 50-60 days from direct sowing; summer squash can be harvested within 50-60 days of transplanting or 60-70 days from direct seed",
+    "timeToMaturity": "Summer squash (zucchini, pattypan, crookneck): harvest begins 50-60 days after transplant or 60-70 days from direct seed; fruits must be harvested at immature stage (4-8\" for zucchini) before skin hardens. Winter squash within C. pepo (acorn, delicata, spaghetti, sugar pumpkins): 75-110 days to full maturity depending on type; these are harvested only when the rind is fully hardened and the vine at the stem connection begins to dry and cork over",
+    "lifespan": "Annual — one growing season only; frost-killed in fall; no perennial rootstock; plan on direct sowing or starting fresh transplants every year",
+    "deciduousEvergreen": "Annual — not applicable; the plant completes its full life cycle from germination to frost kill within a single growing season",
+    "winterInterest": "None — the plant is completely killed by the first hard frost; remove dead vines promptly as they can harbor overwintering squash bug eggs and disease spores"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 8 hours minimum; non-negotiable for strong production; reduced light causes weak vines, poor fruit set, and increased disease; do not attempt in partial shade",
+    "water": "Medium to high; consistently moist soil is important — fluctuating soil moisture causes blossom drop, poor fruit set, and in cucumbers (closely related) contributes to bitterness; squash is more drought-tolerant than cucumbers once established but performs best with 1-1.5\" per week; water at the base, never overhead — wet foliage dramatically accelerates powdery mildew; drip irrigation or soaker hose is strongly preferred",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive — squash does not tolerate standing water or waterlogged soil, which causes crown and root rot; however, it tolerates heavier amended clay better than cucumbers or melons; raised beds are strongly preferred on clay-dominant soils; the clay subsoil common across much of the eastern US holds moisture during dry spells, which can be an advantage if drainage has been improved in the top 12\"",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Tolerates heavier soils better than most cucurbits when amended; in native clay, root rot is a risk; amend beds with 4-6\" of compost and raise grade to improve drainage; once organic matter is adequate, squash performs reliably even on clay-derived soils; better adapted to amended clay than cucumbers or melons"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8; slightly acidic preferred; very forgiving within this range; lime if below 5.8"
+    },
+    "texturePreference": "Rich, deeply worked, moisture-retentive but well-drained loam; squash is a heavy feeder and a heavy drinker — organic matter content is the key variable; amend beds generously with compost (4-6\" worked in) before planting; plants growing in lean soil will produce but yield decreases sharply and powdery mildew arrives sooner",
+    "rootCharacter": "Fibrous, moderately deep root system with a taproot that descends 18-24\" in loose soil; surface feeder roots spread widely under the mulch layer; sensitive to root disturbance — transplanting must be done carefully with minimal root disruption, which is why many growers prefer direct sowing; do not cultivate close to the stem once plants are established"
+  },
+  "bloom": {
+    "bloomTime": "June-September; flowering begins approximately 5-6 weeks after transplanting and continues until frost kill; timing varies by zone — earlier in Zones 8-10, later start in Zone 4-5",
+    "bloomDescription": "Large, showy, trumpet-shaped flowers in bright golden yellow — among the most striking flowers in the vegetable garden; individual blooms are 3-4\" across and open in the morning, closing by afternoon; both male and female flowers are produced on the same plant (monoecious); male flowers appear first, on straight stems, typically a week or two before the females; female flowers are identifiable by the tiny immature fruit (ovary) visible at the base of the petal tube; the flowers are structurally excellent for large bees and are among the most important vegetable garden bee attractants; edible flowers — male blooms can be harvested freely (they produce pollen but no fruit) and are a prized culinary ingredient, used stuffed with ricotta and fried, added to quesadillas, tossed into pasta, or battered and sautéed",
+    "fragrance": "Mild, faintly sweet and vegetal; pleasant at close range but not significantly fragrant at a distance",
+    "flowerSex": "Monoecious — separate male and female flowers on the same plant; male flowers appear on straight, slender stems; female flowers sit on top of the swelling ovary that becomes the fruit; early-season male-only flowering is normal and not a cause for concern — female flowers follow within 1-2 weeks; this is important to understand because gardeners often worry unnecessarily when early flowers fail to set fruit",
+    "pollination": "Requires insect pollination — specifically large bees capable of entering the deep flower tube; bumblebees are the primary effective pollinator and squash flowers are one of the most important bumblebee food sources in the summer garden; honey bees also pollinate effectively; in the absence of pollinators (cold mornings, rain, or very early season), hand pollination with a soft brush or by rubbing a male flower directly against the female stigma is effective; row covers used to exclude squash vine borer moth MUST be removed once female flowers appear to allow pollination — this is the central timing challenge in pest management across Zones 5-7"
+  },
+  "yield": {
+    "edibleParts": "SUMMER SQUASH TYPES (harvest immature, before seeds harden and skin toughens) — Zucchini (green, yellow, striped): harvest at 4-8\" for best flavor and texture; smaller fruits are more tender and flavorful; a zucchini left on the vine for a week becomes a woody club; check plants daily at peak season; Yellow crookneck and straightneck: harvest at 4-6\"; excellent sautéed or grilled; Pattypan / scallop: harvest at 2-3\" diameter — small patties are tender and nutty; Cousa-type: Lebanese-style short zucchini; excellent stuffed. WINTER SQUASH TYPES WITHIN C. PEPO (harvest fully mature, hard rind, cured for storage) — Acorn squash (Cucurbita pepo var. turbinata): the classic ribbed dark green acorn-shaped squash; harvest when rind resists fingernail puncture and the ground spot turns orange; Delicata (Cucurbita pepo): cream-colored with green stripes; thin, edible skin; the best \"thin-skinned\" winter squash for easy prep; harvest at 75-90 days; Spaghetti squash (Cucurbita pepo): stringy flesh that separates into \"noodles\"; harvest when fully yellow and rind is hard; needs full 90-100 days; Sugar Pie pumpkin: small, sweet, dense flesh; the classic pie pumpkin; harvest at 90-100 days after rind is fully orange; Jack-o-lantern types (Connecticut Field, Howden, etc.): grown for size and appearance; edible but bland; flesh is thinner than pie types. NOTE: Cucurbita maxima (Blue Hubbard, Buttercup, Atlantic Giant, Kabocha) and Cucurbita moschata (Waltham Butternut, Long Island Cheese, Seminole) are distinct species covered in separate profiles. FLOWERS: Male squash blossoms are a valued edible — pick in the morning before they close; only harvest male flowers (no bump at the base), leaving the females to set fruit; zucchini flowers are the standard culinary choice but all C. pepo flowers are equally edible",
+    "harvestSeason": "Summer squash: June through frost (continuous harvest — pick every 2-3 days at minimum; missed fruits grow quickly and signal the plant to slow production; regular harvest is the key to sustained yield); Winter squash and pumpkins: September-October in Zones 5-6; timing shifts earlier in northern zones and later in Zone 7+; harvest before hard frost (28°F or below); cure acorn and spaghetti squash at room temperature for 1-2 weeks before storage; delicata stores 3-4 months; acorn 2-3 months; spaghetti squash 2-3 months; sugar pumpkins 2-3 months at 50-55°F",
+    "medicinalUses": "Seeds (pepitas) of all C. pepo types contain cucurbitacins and are a traditional anthelmintic (intestinal worm treatment); pumpkin seed oil is used in modern phytomedicine for benign prostatic hyperplasia (BPH) and bladder health; the seed flesh is zinc-rich and nutrient-dense; not a primary medicinal plant but the seeds are a legitimate functional food",
+    "craftOtherYield": "Dried ornamental gourds (some C. pepo varieties); dried pumpkin shells for decoration; carved Jack-o-lanterns; seed saving is straightforward for open-pollinated varieties but note that C. pepo crosses freely within the species — isolate by 500'+ or hand-pollinate and bag for pure seed"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Standard cultivated C. pepo fruits are non-toxic; however, cucurbit fruits can occasionally become bitter due to elevated cucurbitacins — this can occur from stress (heat, drought, erratic watering) or from cross-pollination with ornamental gourds; bitter squash should not be eaten in quantity as cucurbitacins cause severe gastric distress; if a zucchini or squash tastes markedly bitter, discard it — this is rare in commercial and home-saved seed of standard varieties but is a known phenomenon",
+    "toxicityAnimals": "Plain cooked squash flesh is non-toxic and often used as a digestive remedy in dogs; seeds and peel in large quantities may cause gastric upset; not a significant toxicity concern",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Herbaceous layer (ground cover function via sprawling leaf canopy — the large leaves shade the soil intensively, suppressing weeds and retaining moisture; this is a functional ground-covering annual)"
+    },
+    "roles": [
+      "Annual Vegetable (primary — one of the most productive annual food crops in temperate gardens by weight)",
+      "Pollinator Support (excellent — large, accessible, abundant flowers are premium bee forage from June through September)",
+      "Ground Cover / Living Mulch (seasonal — the broad leaf canopy shades out weeds effectively once established)",
+      "Soil Fertility Builder (large quantities of biomass returned to beds at season end)"
+    ],
+    "companionPlants": [
+      "Corn and beans (the classic Three Sisters guild — squash is the traditional third sister, its ground-covering leaves shading the soil, reducing moisture loss and weed competition; corn provides physical support for beans; beans fix nitrogen; this guild works best with vining squash types given the scale); Nasturtium (said to repel squash bugs and aphids; flowers attract pollinators; a useful interplant in the squash bed edge); Marigolds (Tagetes — especially French marigolds planted at bed perimeter; nematode suppression and general pest deterrence; also attract beneficial insects); Borage (traditional companion in the brassica and cucurbit guild; attracts pollinators and is said to deter hornworms; flowers are edible); Radish (quick interplant between squash transplants early in the season — harvested before squash canopy closes over them; said to deter cucumber beetles)"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare) — the standard antagonist for most vegetables; keep fennel away from squash beds; Potatoes — traditional antagonist; avoid interplanting directly; other heavy-vine cucurbits in the same bed (pumpkins and winter squash will compete and cross-pollinate with zucchini — manage separation if saving seeds)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (Bombus spp. — primary and most effective pollinators; squash flowers are sized for large bees and bumblebees work them more efficiently than honey bees), Honey bees (Apis mellifera — important secondary pollinator; very attracted to squash flowers), Native solitary bees (squash bees — Peponapis pruinosa and Xenoglossa spp. — specialist squash-flower bees that are native to North America and have co-evolved with Cucurbita; if present on your site, they are morning-only foragers that often sleep inside closed squash flowers at night), Beneficial predatory wasps (attracted by nectar)",
+    "hostPlantFor": "Squash vine borer moth (Melittia cucurbitae) uses C. pepo as a primary host — the moth is a clearwing moth that mimics a wasp and lays reddish-brown, flat eggs singly at the base of the stem; larvae bore into the stem and feed internally, causing sudden wilt and death; C. pepo is highly susceptible (much more than C. moschata, which has a harder stem); SVB pressure is highest in Zones 4-7 and diminishes somewhat in the Deep South; Squash bug (Anasa tristis) also uses C. pepo as primary host across most of the lower 48; Striped cucumber beetle (Acalymma vittatum) feeds on flowers and foliage and vectors bacterial wilt",
+    "nestingHabitat": "Squash bees (Peponapis pruinosa) nest in the ground directly beneath or near squash plants — avoid deep soil disturbance in squash beds to protect these specialist native bee nests; the large leaf canopy provides daytime shelter for ground beetles and other beneficial predators"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer readily browse squash foliage, flowers, and developing fruit; young transplants are especially vulnerable; deer damage can be severe enough to kill plants before they establish; deer fencing around vegetable beds is strongly recommended in any region with moderate to high deer pressure; once plants are large and well-established (past the 3-4 leaf stage), browsing on the outer leaves is less catastrophic but still reduces yield; do not rely on the spiny stems as a deterrent — deer will eat through them"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; no particular salt tolerance; avoid use near road salt applications"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — the deep taproot accesses subsoil moisture, but consistent drought causes blossom drop, poor fruit set, and accelerated powdery mildew; yields drop significantly without adequate moisture; mulch heavily (3-4\" of straw or wood chips) to conserve soil moisture during dry spells"
+    },
+    "other": "Cold-sensitive — seeds will not germinate in soil below 60°F (65-70°F optimal); transplants are killed by any frost; do not rush planting; time transplanting and direct sowing to 1-2 weeks after last frost date for your zone, with soil adequately warmed; Cucurbit yellow vine disease (phytoplasma, transmitted by squash bugs) can cause sudden wilt similar to vine borer — check stems for borer frass (orange-brown sawdust at stem base) to distinguish; Heat-loving — grows best in hot summer conditions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — not a plant-and-forget crop; requires consistent harvesting (every 2-3 days for summer squash), active pest monitoring (squash vine borer, squash bug), and timely management decisions around row covers and pollination; the pest pressure across Zones 5-7 makes this a moderately demanding crop relative to its reputation as \"easy\"",
+    "pruningNotes": "Summer squash: no pruning required, but removing older yellowing lower leaves improves airflow and reduces powdery mildew pressure; this is especially valuable in late July and August when powdery mildew becomes established; do not remove healthy leaves. Vining winter squash and pumpkins: vines can be pinched at the tip in mid-August (approximately 4-6 weeks before first fall frost) to redirect plant energy into sizing and maturing the existing fruits rather than setting new ones — this is a useful technique for getting good-sized fruits before frost. SQUASH VINE BORER MANAGEMENT (critical skill in Zones 4-7): The SVB moth (which resembles a wasp) flies June through August and lays eggs at stem bases. Strategy 1 — Row cover: cover plants with floating row cover immediately after transplanting or germination; this excludes the moth from laying eggs; remove covers as soon as female flowers appear (identifiable by the small fruit bump behind the petals) to allow bee pollination; monitor the uncovered period intensively. Strategy 2 — Succession sowing: direct sow a second round of summer squash 3-4 weeks after the first planting; the SVB moth flight peaks in June-July; a mid-July planting often escapes the worst egg-laying and produces a clean late-season crop after the first planting is killed; this is one of the most practical strategies for Zones 5-7. Strategy 3 — Stem wrapping and burial: if eggs are visible at stem base (flat, reddish-brown, coin-sized), remove by hand; wrap the lower 12\" of stem in aluminum foil or row cover; mound soil over the base of the stem — C. pepo will root from buried stem nodes and can partially compensate for internal vine borer damage. Strategy 4 — Surgical extraction: if sudden wilt occurs, locate the entry hole (look for wet frass), slit the stem longitudinally with a knife, extract the larva, and bury the damaged stem section under moist soil — success rate is moderate but worth attempting on established plants. SQUASH BUG MANAGEMENT: Inspect the undersides of leaves weekly from transplant onward; the bronze-brown eggs are laid in precise geometric clusters; remove by hand or crush in place; egg removal is far easier than controlling nymphs or adults; trap boards (flat pieces of wood left near plant bases overnight) attract adults to shelter beneath — check and destroy each morning.",
+    "propagationMethods": [
+      "Direct sowing (preferred for both summer and winter squash — seeds germinate quickly in warm soil and transplant shock is avoided; sow 1\" deep, 2-3 seeds per hill, thin to the strongest after germination; soil must be above 65°F); Transplanting (useful for getting a head start in shorter-season zones — start 3-4 weeks before last frost date; use large cells or 4\" pots; peat or coir pots that can be planted whole minimize root disturbance; harden off for 7-10 days before transplanting; do not start more than 4 weeks early as pot-bound squash transplants struggle); Seed saving (straightforward for open-pollinated varieties; dry seeds thoroughly before storage; 4-5 year viability; C. pepo crosses freely with other C. pepo varieties — isolate by 500' or hand-pollinate if saving pure seed; does NOT cross with C. maxima or C. moschata under normal garden conditions)"
+    ]
+  },
+  "cultivarNotes": "C. pepo is one of the most diverse species in cultivation — it encompasses vegetables of radically different appearance and use, all sharing the same species and capable of crossing with each other. The choices below are suited to a broad range of conditions across the lower 48. For short-season zones (4-5), prioritize earliest days-to-maturity; for long-season zones (7-9), late-maturing types are viable with room to spare. Powdery mildew resistance (PMR) is universally valuable across all climates. Squash vine borer pressure is highest in Zones 4-7 and warrants active management; it is less severe in the Deep South and Pacific Coast regions.\n**ZUCCHINI (bush type, summer squash):**\n'Black Beauty' — the classic dark green zucchini; widely available, reliable, productive; an heirloom standard suited to all zones\n'Costata Romanesco' — Italian heirloom; ribbed, nutty flavor; slower and less productive than modern hybrids but superior flavor; the best choice if flavor is the priority; open-pollinated; performs well in Zones 5-8\n'Dunja' F1 — excellent powdery mildew resistance; productive; good flavor; one of the best disease-resistant zucchini hybrids currently available; recommended for humid climates in Zones 4-7\n'Astia' — bush zucchini developed for container growing; compact habit; good for small raised beds across all zones\n'Yellow Patio Choice' / 'Golden Delight' — bush yellow zucchini types; productive and compact; widely adapted\n**YELLOW CROOKNECK / STRAIGHTNECK:**\n'Early Prolific Straightneck' — American heirloom; productive and reliable; a standard for good reason; suited to Zones 3-10\n'Sundance' — straightneck type; early, productive, good disease tolerance\n'Multipik' — straightneck hybrid; very early; multiple fruit per node; excellent for short-season production in Zones 4-6\n**PATTYPAN / SCALLOP:**\n'Sunburst' — golden yellow pattypan; striking appearance; pick at 2-3\" for best quality; productive and ornamental across all zones\n'Benning's Green Tint' — pale green scallop; classic heirloom; mild flavor; beautiful when picked small\n**ACORN SQUASH:**\n'Table Queen' / 'Table Ace' — the standard acorn type; dark green with orange flesh; excellent storage; Table Ace is the semi-bush version preferred for smaller gardens; 85-90 days; reliable in Zones 4-8\n'Honey Bear' F1 — smaller personal-size acorn squash; high carotenoid orange flesh; All-America Selections winner; excellent powdery mildew resistance; bush habit; 85 days; well-suited to Zones 4-7 humid conditions\n**DELICATA:**\n'Honeyboat' — elongated version of delicata; exceptional sweetness; 95 days; the best flavor in the C. pepo winter squash category; reliable in Zones 5-8\n'Cornell's Bush Delicata' — compact bush habit; easier for raised beds; 90 days; good productivity; developed at Cornell specifically for northeastern growing conditions; suited to Zones 4-7\n**SPAGHETTI SQUASH:**\n'Tivoli' — bush spaghetti squash; compact habit suited to raised beds; All-America Selections winner; 85 days; the recommended choice for limited-space gardens across Zones 4-9\n**SUGAR PIE PUMPKIN:**\n'New England Pie' — classic 6-8 lb sugar pie pumpkin; excellent flesh quality for baking; 100-105 days; reliable in Zones 4-7; needs full season in short-season zones — start indoors\n'Baby Bear' — smaller 1.5-2 lb pumpkins; great for individual servings; semi-hull-less seeds; ornamental; 105 days; All-America Selections winner; well-adapted across Zones 4-8\n**ORNAMENTAL / JACK-O-LANTERN:**\n'Howden' — the standard carving pumpkin; 15-25 lbs; 115 days; requires a long growing season — best suited to Zones 5-8; marginal in Zone 4 without early indoor start; start indoors or direct sow promptly after last frost\n'Connecticut Field' — the heritage carving pumpkin; 15-25 lbs; classic orange; open-pollinated; 110 days; suited to Zones 4-8\n**DISEASE RESISTANCE NOTE:** Powdery mildew (Podosphaera xanthii) is essentially inevitable in humid regions (most of the eastern US) by late summer; selecting PMR (powdery mildew resistant) varieties is the single most impactful cultural choice for extending productivity regardless of zone; 'Dunja', 'Honey Bear', and 'Cornell's Bush Delicata' all carry meaningful PM resistance ratings.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated raised vegetable bed; kitchen garden annual; Three Sisters guild (with corn and beans); succession planting strategy for extended harvest window; not suitable for ornamental beds — the scale",
+      "pest issues",
+      "and harvest frequency make squash strictly a vegetable bed plant"
+    ],
+    "designPlacement": "Squash belongs in dedicated raised vegetable beds, not in ornamental strips or foundation plantings. The scale alone (bush types at 3-4' spread, viners at 6-10') and the active harvest requirement exclude it from design-focused beds. For summer squash, bush zucchini and pattypan are the most practical choice for raised beds — one or two plants are typically sufficient for a family (zucchini are notorious overproducers; a single healthy plant will produce faster than most households can consume). For winter squash within C. pepo, acorn and delicata are the most space-efficient — both can be grown on compact or semi-bush plants. A vertical trellis system for acorn squash is feasible (support individual fruits in slings made from old pantyhose) and dramatically reduces footprint. Spaghetti squash 'Tivoli' (bush habit) is the most bed-friendly winter type. Full-size pumpkins (Howden, Connecticut Field) require 8-10' vine runs and are best grown outside the main raised bed system — along a fence, in an open ground area, or in a dedicated pumpkin patch. SVB pest management strategy should be decided before planting: if using row covers, plan the timing carefully around the transplant window and the June SVB moth flight; succession sowing in early July of a second zucchini planting is strongly recommended as insurance in Zones 5-7. Deer fencing around vegetable beds is essential wherever deer pressure is moderate to high — squash is highly palatable and will be browsed without protection.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations:\nSquash is one of the highest-priority annual vegetables for the Hegins garden — productive, versatile, and well-suited to the Zone 6a climate. The main site-specific challenges are: (1) deer pressure requiring solid fencing before planting; (2) squash vine borer, which is severe in central Pennsylvania and requires a deliberate management strategy (row cover timing + succession sowing); (3) powdery mildew arriving by August in the humid continental climate — choose PMR varieties and improve airflow through spacing. The clay subsoil at Hegins is a secondary concern — raised beds with 12\"+ of compost-amended growing medium resolve this, and squash actually tolerates heavier amended soils better than cucumbers or melons. Start with two or three bush zucchini plants (try 'Dunja' for PMR) and one or two acorn squash or delicata plants for winter storage. Resist the temptation to plant more zucchini than needed — two healthy plants will produce abundantly."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cucurbita_pepo",
+    "inaturalist": "https://www.inaturalist.org/taxa/1599236-Cucurbita-pepo",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279566&isprofile=1&basic=cucurbita+pepo"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America in any cultivated form; not naturalized or invasive in Pennsylvania",
+      "paInvasiveStatus": "Not listed by the Pennsylvania Invasive Species Council (PISC); no invasive designation at any level in PA",
+      "drainage": "Hegins red clay is compacted and slow-draining; raised beds with 12\"+ of compost-amended growing medium are the correct approach; the clay subsoil retains moisture during dry spells — an advantage once drainage is resolved in the root zone; do not plant directly into unamended native clay",
+      "soil": "Hegins clay soil requires raised bed growing with substantial compost amendment; direct in-ground planting into unamended clay is not recommended — the combination of compaction, poor drainage, and low organic matter results in stunted plants and high disease pressure; 12\" of amended growing medium over native clay is the practical minimum",
+      "cultivarNotes": "All varieties above perform reliably in central PA with appropriate timing. Prioritize PMR varieties for the humid continental climate. SVB is severe in this region — plan row cover timing and succession sowing before planting. For days-to-maturity, 115-day types (large pumpkins) are marginal; direct sow by May 15 at the latest or start indoors. Winter squash types at 85-100 days are comfortable in the Zone 6a growing window (last frost ~May 1, first frost ~October 10 = approximately 160 frost-free days).",
+      "designPlacement": "Squash belongs in the dedicated raised vegetable beds at the Hegins site, not in Sections A, B, or C. Raised beds with 12\"+ of amended growing medium over the native red clay are required. SVB pressure is severe in central Pennsylvania — plan row cover timing carefully around the late-May/early-June transplant window and the June SVB moth flight; succession sowing in early July is strongly recommended as a second-crop insurance strategy. Deer fencing around vegetable beds is required given the active east corridor pressure. Start with two or three bush zucchini plants and one or two acorn squash or delicata plants for winter storage — resist the temptation to plant more zucchini than needed.",
+      "siteObservations": null
+    }
+  }
+}

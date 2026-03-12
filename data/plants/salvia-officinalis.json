@@ -1,0 +1,174 @@
+{
+  "id": "salvia-officinalis",
+  "name": {
+    "commonName": [
+      "Culinary Sage",
+      "Common Sage",
+      "Garden Sage"
+    ],
+    "latinName": "Salvia officinalis",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region — northern Mediterranean coast from Spain east to the Balkans and Turkey; widely cultivated globally since antiquity",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced and widely cultivated across all regions but does not naturalize significantly; not established as a wild population in any US state"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; cultivated herb that does not naturalize or spread aggressively anywhere in the lower 48; not listed on any state noxious weed list or the federal noxious weed list; well-behaved in the garden across all US climate zones where it is grown"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8; the woody stems may die back significantly in hard winters at the cold end of the range but the plant typically survives; drainage is more critical to winter survival than cold hardiness — well-drained soil is non-negotiable"
+    }
+  },
+  "description": {
+    "height": "18-30\" (variable by cultivar; 'Berggarten' stays more compact; plants may be shorter in cold zones after winter dieback)",
+    "spread": "18-30\"; mounding, woody-based subshrub that widens gradually each year",
+    "spacing": "18-24\"",
+    "growthRate": "Moderate; establishes in year 1, reaches full productive size by year 2-3",
+    "timeToMaturity": "Harvest lightly in year 1; fully productive from year 2; the woody framework builds over several years",
+    "lifespan": "Long-lived woody perennial; 10-15+ years with good drainage; replace every 5-7 years if the plant becomes excessively woody and open at the center",
+    "deciduousEvergreen": "Semi-evergreen; leaves persist through mild winters in Zone 6-7; in hard winters at Zone 4-6, significant dieback is normal — cut dead wood in spring after new growth confirms what survived",
+    "winterInterest": "Low to moderate; the gray-green foliage and woody structure are visible in winter but not ornamentally significant; some years the plant looks rough after a hard winter — this is expected in Zone 6 and colder"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; 6+ hours for best flavor and oil concentration; tolerates part shade but aromatic intensity and harvest yield drop noticeably; a sunny, south-facing or west-facing position is ideal in all regions",
+    "water": "Low once established; drought tolerant; do not overwater — consistent moisture reduces aromatic oil concentration and increases disease risk; water deeply and infrequently; established plants in the humid East often need no supplemental water except in severe drought; in arid western climates, occasional deep watering during extended dry spells maintains leaf quality",
+    "drainagePreference": {
+      "description": "Excellent drainage is the single most important cultural requirement; root rot in wet or poorly-drained soil is the primary cause of failure — both in-season and over winter; raised beds, berms, or heavily amended soil with sharp drainage grit are strongly recommended wherever heavy soil exists; sage absolutely cannot tolerate wet feet through winter in any climate",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; heavy clay is the worst possible soil type for sage — waterlogging causes root rot and winter kill far more reliably than cold temperatures; if clay soil is all that is available, raised beds, berms, or aggressive amendment with coarse sand, gravel, and organic matter to create a sharply draining root zone are non-negotiable; even amended clay requires monitoring — do not let sage sit in saturated soil during dormancy"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; tolerates slightly alkaline conditions; lean to average fertility; excess fertility and rich soil produce lush but less aromatic and flavorful foliage"
+    },
+    "texturePreference": "Sandy loam, well-amended loam, or gravelly/rocky soil; lean conditions concentrate essential oils; heavy clay must be amended or avoided entirely; sage is a Mediterranean plant that thrives in mineral soils with low organic matter",
+    "rootCharacter": "Woody taproot with lateral fibrous roots; does not spread by rhizome; stays in place — one plant, one location"
+  },
+  "bloom": {
+    "bloomTime": "Late spring through early summer; typically late May through June in Zone 6; earlier in Zone 7-8, later in Zone 4-5",
+    "bloomDescription": "Upright spikes of two-lipped, tubular flowers in shades of violet-blue to lavender; arranged in whorls along the stem; individually beautiful up close; the entire plant in bloom is a soft purple haze above the gray-green mound; one of the most ornamentally attractive herbs in the garden while in flower",
+    "fragrance": "The foliage is strongly and distinctively aromatic — earthy, camphor-like, resinous, slightly bitter; the characteristic sage scent from a complex of volatile oils including thujone, camphor, and rosmarinic acid; flowers are mildly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Excellent pollinator plant — bees work the flowers intensely during bloom; bumblebees are especially attracted; the two-lipped flower structure is well-suited to bee pollination"
+  },
+  "yield": {
+    "edibleParts": "Leaves (fresh or dried); one of the most essential and widely used culinary herbs in Western cooking; fresh leaves used in stuffings (sage and onion stuffing is traditional with turkey and pork), sausages, pasta, and charcuterie; sage brown butter is a classic preparation — leaves fried in butter until crisp; pairs exceptionally with pork, turkey, duck, butternut squash, white beans, and gnocchi; dried sage is standard in holiday seasoning blends, poultry seasoning, and Italian sausage; the flavor is earthy, slightly bitter, camphor-like, and complex — unlike any other herb; flowers are edible and make a beautiful garnish",
+    "harvestSeason": "Leaves available year-round from established plants in mild climates; harvest most heavily in late spring before flowering for best flavor and drying quality; harvest lightly through the growing season; avoid heavy harvest in late summer and fall to allow the plant to harden off for winter — this is especially important in Zone 6 and colder",
+    "medicinalUses": "One of the most historically significant medicinal herbs in European tradition; the name officinalis reflects its long history as an officially recognized medicinal plant. Rosmarinic acid and other phenolic compounds contribute documented antimicrobial and anti-inflammatory effects. Sage tea has demonstrated effects on memory, cognitive function, and alertness in clinical studies — one of the few herbs with human trial evidence for cognitive enhancement. Traditional uses include sore throat relief (gargle), reduction of excessive sweating and hot flashes (particularly in menopausal women — one of the best-documented traditional uses), digestive aid, and oral health (antiseptic mouthwash). One of the oldest continuously used medicinal plants in European herbalism; the medieval saying \"Why should a man die who grows sage in his garden?\" reflects its deep traditional status.",
+    "craftOtherYield": "Dried herb (outstanding shelf life when dried properly); smudge sticks (note: white sage/Salvia apiana is the traditional smudging herb, but culinary sage is sometimes used); dried flower stems for arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe in all normal culinary and medicinal tea quantities. Large doses contain thujone, which is neurotoxic in extreme excess — this is not a concern with cooking or normal herbal tea use, but concentrated sage essential oil should not be taken internally. Pregnant women should avoid large medicinal doses (sage has traditional emmenagogue properties and has been used historically to stimulate menstruation); culinary use during pregnancy is safe.",
+    "toxicityAnimals": "Sage contains thujone which can be problematic for cats and dogs in large amounts; culinary amounts used in cooking are generally not a concern; keep pets from grazing extensively on the plant; essential oil should not be used on or near pets",
+    "allelopathy": "Mild allelopathic effects from volatile oils reported; space appropriately from fine-seeded annuals; not a significant concern in established perennial plantings",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herb / Shrub (low)"
+    },
+    "roles": [
+      "Food (premier culinary herb)",
+      "Medicinal (antimicrobial, cognitive, diaphoretic, anti-inflammatory)",
+      "Insect Attractor (excellent bee plant in bloom)",
+      "Pest Confuser (strongly aromatic foliage deters many pest insects and browsing animals)",
+      "Deer Barrier (use as border planting near vulnerable plants)",
+      "Ground Cover (mounding form suppresses weeds within its footprint)"
+    ],
+    "companionPlants": [
+      "Rosemary (identical cultural requirements; natural companions)",
+      "thyme (same drainage needs)",
+      "oregano",
+      "lavender (in well-drained sunny positions)",
+      "brassicas (traditional sage companion said to deter cabbage moths and aphids)",
+      "carrots",
+      "tomatoes",
+      "strawberries; excellent throughout herb guilds and kitchen garden beds; a cornerstone plant in any Mediterranean herb bed"
+    ],
+    "antagonists": [
+      "Avoid planting in close proximity to plants requiring consistently moist",
+      "rich soil — sage's preferred dry",
+      "lean",
+      "well-drained conditions are incompatible with moisture-loving neighbors; do not plant near cucumbers (traditional antagonism reported); keep away from wet areas and any site with drainage problems"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (excellent — bumblebees especially work the flowers hard during bloom), native bees, honeybees, butterflies and skippers; the bloom period is one of the most intensely bee-worked events in the herb garden",
+    "hostPlantFor": "Some native Lepidoptera may use Salvia species; not a primary host for eastern North American species",
+    "nestingHabitat": "The woody mounding structure provides minimal ground-level shelter; not significant for nesting"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the strongly aromatic, resinous foliage is reliably avoided by deer; one of the most dependably deer-resistant herbs available; a good choice as a border planting near more vulnerable plants; far more reliably avoided than many \"deer-resistant\" perennials; young transplants may still be sampled or trampled, so light protection in the first season is advisable in high-pressure areas"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates occasional road salt or maritime salt spray exposure; recovers from incidental contact"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; naturally adapted to summer-dry Mediterranean conditions; in the humid eastern US, established plants typically need no supplemental irrigation except in extreme drought; in arid western climates, occasional deep watering maintains leaf quality"
+    },
+    "other": "Tolerates heat, rocky and lean soil, and exposed south-facing positions; dislikes humidity combined with poor drainage; dislikes wet winters above all else; Mediterranean in character — sun, heat, and sharp drainage are its native conditions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "In early spring, wait until new growth is clearly emerging before pruning — this allows you to identify exactly what survived winter and what is dead. Cut dead and winter-killed stems back to live wood. Cut back the overall plant by up to one-third to encourage compact, bushy growth and prevent the plant from becoming an open, sprawling woody mess. Light shearing after the bloom period encourages a flush of fresh growth and improves the plant's appearance through summer. Do not cut back hard in late summer or fall — this stimulates tender new growth that will be damaged in winter. Divide or replace plants that become excessively woody and sparse at the center; sage does not renew from the center the way herbaceous perennials do — eventually the whole plant should be replaced from cuttings.",
+    "propagationMethods": [
+      "Softwood cuttings (easiest and most reliable — take 4-6\" stem tips in late spring or early summer, strip lower leaves, root in moist perlite or potting mix; roots in 3-4 weeks)",
+      "layering (peg a stem to the ground, it roots readily within a season)",
+      "seed (slower and flavor may vary; start indoors 6-8 weeks before last frost; germinates in 10-21 days at 65-70°F; transplant after last frost)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Salvia officinalis) is excellent for culinary use and is the standard across all zones.\n**Zone 3-5 (cold northern US):**\nThe straight species is the strongest choice — fully hardy to Zone 4, vigorous, and the most reliable through harsh winters. 'Berggarten' is also hardy to Zone 5 and performs well. Ornamental cultivars like 'Tricolor' and 'Icterina' are marginal and best treated as annuals or container plants brought indoors for winter.\n**Zone 6-7 (mid-Atlantic, central US, Pacific NW):**\nAll major cultivars perform well in this band with proper drainage. 'Berggarten' is the top recommendation for culinary production — compact (12-18\"), larger and rounder leaves, less inclined to flower heavily, and longer-lived than the species. 'Purpurascens' (Purple Sage) adds deep reddish-purple foliage with full culinary flavor — highly ornamental in borders. 'Tricolor' (purple/white/green foliage) and 'Icterina' (gold-variegated) are attractive but somewhat less vigorous and more susceptible to winter damage; site them with excellent drainage and some wind protection.\n**Zone 8+ (southern US, low desert, coastal California):**\nSage can struggle with summer humidity in the Gulf Coast and Deep South — afternoon shade, excellent air circulation, and sharp drainage help. In dry-summer western climates (California, interior Pacific NW), sage is practically carefree. All cultivars perform well; heat is less of a concern than humidity combined with wet soil.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "kitchen garden",
+      "Mediterranean-style bed",
+      "border front-to-mid",
+      "fragrance garden",
+      "companion planting with brassicas and root vegetables",
+      "pollinator bed (during bloom)",
+      "deer-deterrent border planting"
+    ],
+    "designPlacement": "Place in full sun with the best available drainage; the gray-green mounding foliage and purple flower spikes are both ornamental and functional; use as a mid-border plant in herb beds, as a companion alongside brassicas in kitchen gardens, or as a deer-deterrent border near vulnerable plants; pairs naturally with rosemary, thyme, oregano, and lavender in Mediterranean-style plantings; south-facing and west-facing aspects are ideal in all but the hottest climates; in Zone 8+ humid regions, ensure air circulation and afternoon shade to reduce stress",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvia_officinalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/51738-Salvia-officinalis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281464"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or eastern North America; strictly an Old World introduction",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watchlist; same as general Invasive field — no concerns",
+      "drainage": "The compacted red clay at the Hegins site is a serious challenge for sage; in-ground planting without major amendment is not recommended; raised beds or heavily amended mounds with coarse drainage grit mixed into the top 12\" are the minimum viable approach; the humid continental climate compounds the clay drainage problem through winter — excellent drainage is the difference between a multi-year sage plant and annual replacement",
+      "soil": "The Hegins red clay requires amendment for sage — incorporate coarse sand, fine gravel, and moderate compost to create a fast-draining lean mix; alternatively, plant in raised beds filled with a sandy loam blend; do not plant directly into unamended clay",
+      "cultivarNotes": "Start with 'Berggarten' or the straight species — both are proven performers in the mid-Atlantic climate. Add ornamental cultivars ('Purpurascens', 'Tricolor', 'Icterina') once a well-drained site is established and you have confidence in winter drainage management.",
+      "designPlacement": "An essential plant for Section C (south-facing, warm and dry microclimate, fragrance focus) — the sun, heat, and better drainage of the south-facing strip are ideal for sage; the gray-green mounding foliage and purple flower spikes are beautiful and fragrant at close range from the back porch. Also works in Section B (kitchen-adjacent herb strip) where kitchen access is the priority, though drainage management will be more important on the north-facing side. Raised beds or amended mounds in either location will improve longevity. Given the deer pressure from the east corridor, sage's strong deterrent effect makes it a useful anchor or border plant near more vulnerable herbs or vegetables.",
+      "siteObservations": "The compacted red clay and humid continental winters at this site make drainage the make-or-break factor for sage longevity; expect some winter dieback in hard years — this is normal, not a sign of failure; wait until April new growth confirms what survived before pruning dead wood; the east wildlife corridor deer pressure is not a concern for sage itself (excellent deer resistance), but sage can serve as a protective border near plants that are browsed; Section C's south-facing aspect and naturally warmer/drier microclimate give sage its best odds on this property."
+    }
+  }
+}

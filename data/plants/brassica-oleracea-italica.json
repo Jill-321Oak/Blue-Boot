@@ -1,0 +1,156 @@
+{
+  "id": "brassica-oleracea-italica",
+  "name": {
+    "commonName": [
+      "Broccoli",
+      "Calabrese Broccoli",
+      "Italian Green Sprouting Broccoli"
+    ],
+    "latinName": "Brassica oleracea var. italica",
+    "family": "Brassicaceae (Mustard family)"
+  },
+  "range": {
+    "nativeRange": "Cultivated origin — developed from wild Brassica oleracea native to coastal Mediterranean Europe (Italy, Greece, southern Balkans); has been cultivated in Italy since Roman antiquity; not found in the wild as a distinct variety; the cultivated form was developed over centuries from coastal European wild cabbage",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced crop vegetable with no wild-type population in the US; no naturalization tendency anywhere in the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in any US state; broccoli does not persist or spread outside cultivation anywhere in the lower 48; it is a biennial grown as an annual and does not self-seed under normal garden conditions; no regional invasive listings apply to Brassica oleracea var. italica"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "Annual cool-season vegetable; grown as a spring or fall crop in Zones 3-10 across the lower 48; not zone-limited in the way perennial plants are; cold-hardiness of established transplants is good to approximately 25°F; see Cultivar Notes for zone-band timing guidance"
+    }
+  },
+  "description": {
+    "height": "18-36\" depending on variety and growing conditions; compact modern hybrids tend toward 18-24\"; heirloom sprouting types (DiCicco, Calabrese) can reach 24-36\" by the end of the season as side shoots continue to grow",
+    "spread": "18-24\" per plant",
+    "spacing": "18\" between plants, 24-36\" between rows; closer spacing (12\") in raised beds is workable but reduces head size; wider spacing improves air circulation and reduces disease pressure",
+    "growthRate": "Fast — from transplant to harvest of the main head is typically 50-80 days depending on variety; side shoot production continues for weeks after main head harvest; spring crops must race the heat before bolting",
+    "timeToMaturity": "Spring crop transplanted 4-6 weeks before last frost: main head harvest 50-80 days from transplant. Fall crop transplanted 12-14 weeks before first frost: harvest in cool autumn weather. Side shoots from both crops continue producing for 4-6 weeks after central head harvest.",
+    "lifespan": "Annual (grown as an annual in temperate climates); technically biennial — if left unharvested it would overwinter and bolt/flower in its second year, but this is not a practical garden use",
+    "deciduousEvergreen": "Not applicable — annual vegetable",
+    "winterInterest": "None; plants are harvested and removed in fall; however, fall-grown plants can withstand multiple light frosts and may persist into late fall across much of Zones 5-7, providing late-season production when few other vegetables remain"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required — 6-8 hours minimum; reduced light leads to loose, weak heads and drawn, leggy stems; broccoli is not a shade vegetable under any circumstances",
+    "water": "Medium to medium-high; consistent, even moisture produces the best head development; water stress during head formation causes loose, uneven, or prematurely opening heads; aim for 1-1.5\" per week; overhead watering is acceptable but morning watering is preferred to reduce fungal disease; raised beds may need more frequent watering than in-ground beds",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive; broccoli tolerates heavier soils better than most vegetables — the firm anchorage of a denser soil actually benefits the large, top-heavy plant; however, prolonged waterlogging causes root rot and stunts growth",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Performs well in well-amended clay loam; the moisture-retentive and firm character of clay suits broccoli better than it suits most vegetables; incorporate compost to improve drainage and fertility before planting; avoid unamended clay that holds standing water after rain"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; broccoli performs best in a slightly acidic to neutral range; a pH of 6.5 is ideal; slightly higher pH (toward 7.0) is acceptable and has the advantage of suppressing clubroot (Plasmodiophora brassicae), the most serious soil-borne disease of the brassica family — slightly alkaline conditions inhibit clubroot spore germination; liming a planting bed to pH 7.0 before planting can serve double duty as pH management and disease prevention"
+    },
+    "texturePreference": "Tolerant of a range of soils including clay — this is one of broccoli's practical advantages over more demanding vegetables; the firm, moist conditions of a well-amended clay loam suit it well; avoid loose, sandy soils that drain too quickly and fail to provide anchorage; incorporate compost before planting to improve both drainage and fertility in heavy clay beds",
+    "rootCharacter": "Fibrous, moderately shallow root system; roots do not penetrate deeply but spread broadly; the plant is a heavy feeder and will exhaust nutrients in a localized area; add a balanced fertilizer or side-dress with compost at transplanting and again 3-4 weeks later; do not disturb soil around established plants — shallow roots are easily damaged by cultivation"
+  },
+  "bloom": {
+    "bloomTime": "If the central head is not harvested promptly, or if the plant bolts under heat stress, it will flower quickly; the yellow flowers appear within days of head maturity once temperatures rise; side shoots that are not harvested will also flower; under normal growing conditions with timely harvest, broccoli is not allowed to flower",
+    "bloomDescription": "Small, bright yellow four-petaled flowers in loose racemes — typical of the Brassicaceae family; the edible broccoli head is technically a dense cluster of tightly packed, immature flower buds (florets); once individual yellow flowers begin to show, the head is past optimal harvest; the transition from tight green head to open yellow flowers is rapid and must be monitored closely in warm weather",
+    "fragrance": "Mild, slightly sulfurous when cooking; the raw plant and flowers have a faint mustard-family scent; not ornamentally fragrant",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Insect-pollinated (primarily bees); cross-pollination between Brassica oleracea varieties is possible and relevant to seed-savers (broccoli will cross with cabbage, kale, kohlrabi, Brussels sprouts, and cauliflower — isolate by 300+ feet if saving seed); not relevant to the edible vegetable harvest since the plant is harvested before flowering"
+  },
+  "yield": {
+    "edibleParts": "The immature flower head (central head plus side shoots), composed of tightly clustered green or purple-green florets on thick, fleshy stems; stems are fully edible — the stems of side shoots are often sweeter and more tender than the heads themselves; small leaves on the stem are also edible, with a mild kale-like flavor. The entire above-ground plant is technically edible at various stages, but the primary harvest is the dense floral head before any flowers open.",
+    "harvestSeason": "Spring crop: main head harvest 50-80 days from transplant, typically late spring depending on zone and planting date. Fall crop: harvest in the cool weeks leading up to and through first frost; timing varies by zone. Main head: cut with a sharp knife at a 45° angle when the head is full and dense, with tight green florets showing no yellow whatsoever — typically 4-8\" in diameter depending on variety. After main head harvest, side shoots emerge from leaf axils and continue producing smaller but equally flavorful florets for 4-6 weeks; harvest side shoots when they are 3-6\" in size and still tight. Light frosts do not harm established heads and convert starches to sugars, improving sweetness — the plant is frost-hardier at harvest stage than at transplant stage.",
+    "medicinalUses": "Broccoli has among the highest nutritional and phytochemical profiles of any commonly grown vegetable. It is exceptionally rich in sulforaphane — an isothiocyanate compound with extensively studied cancer-preventive and anti-inflammatory properties, particularly associated with reduced risk of colorectal, lung, and breast cancers. Also high in vitamin C (100g raw broccoli supplies roughly 90% of the RDA), vitamin K (essential for blood clotting and bone metabolism), folate (critical for cell division; especially important during pregnancy), potassium, and fiber. Sulforaphane content is highest in raw or lightly steamed broccoli — overcooking destroys both the compound and its precursor enzyme (myrosinase); brief steaming or stir-frying preserves the most nutritional value. Broccoli sprouts contain 20-100x the sulforaphane of mature heads and have been the subject of serious clinical research.",
+    "craftOtherYield": "None significant; spent plants make acceptable compost but should not be left on the bed surface, as brassica debris can harbor disease spores and pest pupae — remove and compost in a hot pile or discard"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; broccoli is safe for all ages; individuals on blood-thinning medications (warfarin/Coumadin) should maintain consistent (not excessive) intake of vitamin K-rich vegetables including broccoli, as sudden changes in intake can affect medication efficacy — this is a medication interaction note, not a toxicity concern",
+    "toxicityAnimals": "Broccoli is mildly toxic to dogs and cats in large quantities — the isothiocyanates that give broccoli its health-promoting properties can cause gastric irritation and gas in dogs if fed in excess (more than ~10% of diet); small quantities are generally harmless; not a concern for incidental exposure in the garden",
+    "allelopathy": "None known; brassicas generally do not suppress neighbors through allelopathy, though they may compete aggressively for nitrogen",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual vegetable layer)"
+    },
+    "roles": [
+      "Annual Food Crop (primary)",
+      "Nitrogen Consumer (heavy feeder — plan for soil fertility management and rotation)",
+      "Cool-Season Slot Filler (occupies raised bed space during spring and fall when warm-season crops are not yet established or have been harvested — ideal for maximizing bed productivity)",
+      "Companion Planting Anchor (strongly benefits from companion planting for pest management)"
+    ],
+    "companionPlants": [
+      "Dill (attracts parasitic wasps that prey on cabbage worms and aphids — one of the most effective functional companions for brassicas; allow dill to flower nearby)",
+      "Marigolds (Tagetes — general pest deterrence and aphid distraction; plant at bed edges)",
+      "Nasturtiums (aphid trap crop — aphids preferentially infest nasturtiums, drawing them away from broccoli; sacrifice-plant planting strategy)",
+      "Onions and garlic (traditional companion for brassicas; may deter some pests; no documented antagonism with broccoli)",
+      "Celery (traditional companion; said to deter white cabbage butterfly)",
+      "Clover (living mulch between rows — fixes nitrogen, suppresses weeds, provides ground cover for beneficial insects)",
+      "Comfrey (at bed edge as a biomass contributor and beneficial insect habitat; do not plant inside the bed where it would compete and spread)"
+    ],
+    "antagonists": [
+      "Strawberries (traditionally considered poor companions for brassicas; not rigorously documented but worth noting)",
+      "other brassica family members in the same bed (increases shared pest and disease pressure — rotate the entire brassica family together, not individual species)",
+      "Fennel (allelopathic to most vegetables including brassicas; keep fennel away from the vegetable garden generally)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "When allowed to flower (i.e., bolted plants or intentionally left end-of-season plants), broccoli flowers attract small native bees, hoverflies (Syrphidae — important aphid predators as larvae), and parasitic wasps; allowing a few plants to fully bolt at season's end is a meaningful contribution to beneficial insect habitat. The dense leafy canopy provides shelter for ground beetles (Carabidae) that prey on soil pests.",
+    "hostPlantFor": "Pieris rapae (Imported Cabbage Worm / Cabbage White butterfly) — this European introduction uses all Brassica oleracea varieties as its primary larval host plant in North America; the white butterfly with black wing-tip spots is the adult form; larvae are velvety green caterpillars that blend into the foliage; hand-picking and Bt spray are the primary controls. Trichoplusia ni (Cabbage Looper) — a native moth whose larvae loop across foliage; also feeds on broccoli. Brevicoryne brassicae (Cabbage Aphid) — a waxy, blue-grey aphid that colonizes the undersides of leaves and developing heads, especially in fall.",
+    "nestingHabitat": "The dense rosette of large leaves provides ground-level cover for beneficial ground beetles and other predatory invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — broccoli is highly palatable to deer and will be stripped to the stem overnight; this is not a crop that can be grown in areas with active deer pressure without physical protection. Row cover (lightweight floating row cover such as Agribon AG-19) serves dual purpose: deer exclusion during early establishment and physical barrier to cabbage white butterfly egg-laying, preventing the primary pest from reaching the plant at all. A simple low cage of chicken wire or hardware cloth is a minimal alternative. In any garden with confirmed deer activity, physical protection should be considered non-negotiable for this crop."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not salt-tolerant; avoid sites near road salt runoff"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low; broccoli does not tolerate drought well, especially during head formation; inconsistent moisture causes premature bolting in spring and loose, uneven heads in fall; raised beds must be monitored and watered regularly through dry spells"
+    },
+    "other": "Cold tolerance is a genuine strength — established transplants handle light frost (to 25°F) without damage; fall-grown plants tolerate repeated light frosts and improve in flavor after them; however, young transplants (first 2 weeks after planting out) are more vulnerable and should be protected from hard frost. Heat intolerance is the critical vulnerability: temperatures consistently above 75-80°F during head formation cause bolting, loose heads, and bitter flavor; this is why spring planting requires careful timing and fall planting is often more reliable across most of the lower 48."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — broccoli requires active attention to pest scouting, watering, timing, and harvest; it is not a plant that can be ignored; the reward for attentiveness is a crop that produces over a long harvest window (main head plus weeks of side shoots); the penalty for inattention is bolted, pest-riddled, or prematurely-yellowing heads",
+    "pruningNotes": "No traditional pruning; harvest IS management — cutting the central head promptly at peak maturity (before any yellow shows) triggers vigorous side shoot production; leaving the main head too long reduces side shoot vigor as the plant redirects energy into flowering and seed set. After central head harvest, monitor side shoots every 2-3 days during warm weather; they develop quickly. Remove any yellowing outer leaves to improve airflow and reduce disease. At season end, remove all brassica debris from the bed entirely — do not till under; remove and compost in a hot pile or dispose of off-site to break pest and disease cycles.",
+    "propagationMethods": [
+      "Seed (the standard method — broccoli is direct-seeded or started from transplants; never vegetatively propagated). Spring crop: start seeds indoors under lights 6-8 weeks before last frost for your zone; transplant outdoors 3-4 weeks before last frost under row cover for frost protection; direct seeding outdoors is possible but risky in zones with narrow spring windows. Fall crop (recommended for Zone 6a and similar zones for quality): start seeds indoors 12-14 weeks before first frost; transplant to the garden 8-10 weeks before first frost; this timing allows plants to establish in summer warmth while ensuring heads mature in the cool temperatures of autumn; seed can be direct-sown outdoors in a shaded nursery bed and transplanted after. Harden transplants for 7-10 days before setting out. Seed viability: 3-5 years when stored cool and dry."
+    ]
+  },
+  "cultivarNotes": "Variety selection across the lower 48 should prioritize bolt resistance for spring planting and cold hardiness / flavor for fall planting. The fall crop is consistently more reliable in Zones 5-7, where spring windows are narrow and heat arrives quickly; in Zones 8-10, fall and winter crops dominate and spring planting is often impractical. In Zones 3-4, the spring crop is the primary season and fall crops may not have enough time to mature before hard frost — choose fast-maturing varieties (under 60 days) for fall attempts in those zones.\n**'Calabrese'** — The original Italian market broccoli and the type from which modern cultivars descend; large central head followed by prolific side shoot production; excellent flavor; longer season than modern hybrids; an heirloom variety worth growing for its generous side shoot harvest; best for fall crop where the longer season is not a liability; suited to Zones 4-9.\n**'Belstar'** — A modern hybrid widely regarded as one of the best all-around varieties for the home garden; excellent bolt resistance makes it more forgiving in spring; outstanding flavor (sweet, dense heads); produces well in both spring and fall; the default recommendation for bolt-prone spring planting across Zones 5-8. Widely available from Johnny's Selected Seeds and similar suppliers.\n**'Waltham 29'** — Cold-hardy heirloom developed in Massachusetts specifically for northeastern growing conditions; exceptionally winter-hardy; excellent for late-fall crops in Zones 5-7; slower to mature than modern hybrids; excellent flavor after frost exposure; a reliable heritage variety for cold-climate gardeners.\n**'DiCicco'** — Italian heirloom; smaller central heads but exceptional side shoot production — the quintessential \"cutting broccoli\" type; prolific over a long season; excellent for small-space gardeners who want continuous harvest over weeks rather than a single large head; good flavor; suited to fall crop in Zones 5-8 and spring crop in Zones 3-5.\n**'Romanesco'** — Technically classified as Brassica oleracea var. botrytis (the same variety as cauliflower) rather than var. italica; included here for practical cross-reference, as it is commonly grouped with broccoli in seed catalogs and gardens. Produces stunning spiraling, fractal-patterned lime-green heads with a nutty, mild flavor; slower to mature and less cold-hardy than true broccoli; best as a fall crop in Zones 5-7; start early enough to allow full maturity before hard frost; suited to Zones 5-9.\n**'Green Magic'** — A well-regarded modern hybrid with good bolt resistance and attractive, domed heads; uniform maturity; good for spring crop in Zones 5-7; widely available from major seed suppliers.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable bed annual; cool-season rotation crop; spring and fall slot crop that vacates bed space for warm-season vegetables in summer; best grown in a dedicated or rotating vegetable bed with 3-4 year brassica family rotation"
+    ],
+    "designPlacement": "Broccoli belongs in the raised vegetable beds as a rotation crop — it does not belong in ornamental beds, perennial herb sections, or tree guilds. The critical planning constraint is crop rotation: the entire brassica family (broccoli, cabbage, kale, Brussels sprouts, cauliflower, kohlrabi) must be rotated as a unit, not returning to the same bed for 3-4 years minimum. This is necessary to interrupt the clubroot disease cycle (Plasmodiophora brassicae), which produces persistent resting spores that remain viable in the soil for up to 20 years. With raised beds, a 3-4 bed rotation system accommodates this: brassicas in one bed this year, move to the next bed next year, cycling through the available beds. Plan the rotation before purchasing transplants each season — note which bed last had brassicas and how many years ago. Physical access and deer protection are the other key design constraints: the bed must be protectable with row cover or fencing, and the layout should allow easy daily access for harvest scouting (side shoots and main heads both require monitoring every few days during harvest season). Row cover supported on hoops is the most practical multi-purpose solution: it provides frost protection for spring transplants, deters cabbage white butterflies throughout the season, and can be used as deer deterrence through the most vulnerable early establishment period.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations:\nZone 6a Hegins is well-suited to broccoli — the humid continental climate with distinct cool springs and autumns provides excellent growing windows for both spring and fall crops. The fall crop is strongly recommended as the primary planting: the consistently cool September-October weather in the Hegins valley allows heads to develop slowly at low temperatures, producing dense, sweet, excellent-quality broccoli with the sulforaphane content and flavor that cool maturation brings. Light frosts in early October (well before the typical first hard frost of ~October 10) will not harm fall broccoli and improve sweetness. The spring crop is more weather-dependent and can fail in a year with an early heat spike — choose bolt-resistant varieties (Belstar) and prioritize the fall planting as the reliable harvest. The red clay at Hegins is a minor advantage: broccoli tolerates and benefits from the firm, moisture-retentive quality of a well-amended clay loam; it anchors better in heavier soil than in loose, sandy beds. Amend with compost before each planting; side-dress with a balanced fertilizer or diluted fish emulsion at transplanting and again 3-4 weeks later. Deer pressure at this site is severe enough that physical row cover should be considered standard practice, not optional — the dual benefit (pest exclusion + deer deterrence) makes it the correct default for this crop here. Note: this profile covers Brassica oleracea var. italica (broccoli); companion profiles for Brassica oleracea var. capitata (Cabbage), var. sabellica (Kale), var. gemmifera (Brussels Sprouts), var. botrytis (Cauliflower / Romanesco), and var. gongylodes (Kohlrabi) will cover those varieties and share much of the same rotation, pest management, and site context."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Broccoli",
+    "inaturalist": "https://www.inaturalist.org/taxa/315267-Brassica-oleracea-italica",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "At Hegins, raised beds with compost-amended red clay strike the right balance — moisture retention without prolonged waterlogging; this is a favorable match for the crop",
+      "soil": "The red clay at Hegins is compatible with broccoli; amend each bed with compost before planting; the native clay provides good anchorage for the large, top-heavy plants and retains moisture well through dry autumn stretches",
+      "cultivarNotes": "Fall transplanting (mid-August) is the primary approach — the cool September-October weather in the region allows heads to develop slowly at low temperatures, producing dense, sweet, high-quality broccoli. Use **Belstar** for spring (bolt resistance critical), **Waltham 29** or **DiCicco** for fall (cold hardiness and side-shoot production). Consider growing both a spring and fall crop in the same beds — the spring planting is removed by late June/early July when warm-season crops are peaking, and fall transplants go in to follow.",
+      "designPlacement": "Place broccoli in the raised vegetable beds on a strict brassica-family rotation. The fall crop is the primary planting — transplant in mid-August and harvest October through November. The spring crop is a secondary slot filling the same bed from late March through June. Row cover is the correct default for this site: it addresses both the severe deer pressure and the cabbage white butterfly pressure simultaneously.",
+      "siteObservations": null
+    }
+  }
+}

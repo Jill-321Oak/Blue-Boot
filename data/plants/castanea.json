@@ -1,0 +1,165 @@
+{
+  "id": "castanea",
+  "name": {
+    "commonName": [
+      "Chestnut (Chinese Chestnut",
+      "American Chestnut",
+      "Restoration Chestnut)"
+    ],
+    "latinName": "Castanea spp. — primarily C. mollissima (Chinese Chestnut); see also C. dentata (American Chestnut) and TACF restoration hybrids",
+    "family": "Fagaceae"
+  },
+  "range": {
+    "nativeRange": "C. mollissima — native to China, Taiwan, and Korea; introduced to North America in the 19th century as an ornamental and nut tree and subsequently as rootstock for blight resistance research. C. dentata — native throughout the eastern deciduous forest of North America, from Maine south to Georgia and west to the Mississippi, historically among the most ecologically and economically dominant trees of the Appalachian forest before the chestnut blight catastrophe of the early 20th century.",
+    "usNativeStatus": {
+      "native": null,
+      "description": "C. dentata (American Chestnut) is native to the eastern US, occurring naturally from Maine south through the Appalachians to Alabama and Georgia and west toward the Mississippi River; its range included all of New England, the Mid-Atlantic, and much of the Southeast. C. mollissima is non-native — introduced from eastern Asia. TACF restoration hybrids (15/16 C. dentata genetics with blight-resistance genes from C. mollissima) are treated as native restorations of the American chestnut rather than as introductions."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No. Chestnuts do not self-seed aggressively in managed settings across the lower 48. Nuts are large, heavy, and require animal dispersal; squirrel caching is the primary dispersal vector. C. mollissima has naturalized in some areas of the eastern US but is not listed as invasive by any state or federal authority. Not considered invasive anywhere in the continental US."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "C. mollissima: Zone 4–8. C. dentata and restoration hybrids: Zone 4–8. All three options are fully cold-hardy across most of the lower 48, excluding only the Gulf Coast and Deep South lowlands (Zone 9+). Gardeners in Zones 5–7 have the widest cultivar selection and most reliable performance."
+    }
+  },
+  "description": {
+    "height": "C. mollissima: 30–50' in open conditions; occasionally to 60'; often grows with a lower, broader crown than the American chestnut. Restoration hybrids and C. dentata: 50–75'+ at maturity; the American chestnut was historically a tall, straight forest canopy tree reaching 80–100' under competition; restoration plantings in open conditions will typically be shorter.",
+    "spread": "C. mollissima: 30–50'; broad, rounded, low-branching crown. Restoration hybrids: 30–50' in open conditions.",
+    "spacing": "40–60' between trees for canopy development and maximum nut production; a minimum of two trees of different genetic individuals is required for adequate cross-pollination and meaningful nut yield — plant pairs at minimum; for serious nut production, three or more trees improves yield further.",
+    "growthRate": "Moderate to fast; C. mollissima typically grows 2–3' per year under good conditions once established; restoration hybrids are similar; chestnuts are among the faster-establishing canopy nut trees.",
+    "timeToMaturity": "First nut production commonly in 3–5 years from a grafted or named-cultivar tree; meaningful nut crops in 5–8 years; full production at 15–20+ years; seed-grown trees take somewhat longer to begin producing.",
+    "lifespan": "C. mollissima: typically 100–200 years; shorter than C. dentata (which lived 300–500+ years before blight). Restoration hybrids: unknown in the absence of long-term data; designed to persist as long-lived canopy trees, but blight resistance outcomes vary and are still being evaluated in the field.",
+    "deciduousEvergreen": "Deciduous — simple, oblong-lanceolate leaves with prominent, sharply toothed margins; 4–9\" long; rich green above, paler below; yellow-gold to yellow-brown fall color; reliably showy in autumn.",
+    "winterInterest": "Low to moderate — bare in winter; the silhouette of a mature chestnut with its spreading, rounded crown is handsome; the bark is smooth gray-brown when young, developing shallow ridges with age; the empty spiny burs (husks) often persist on the ground through winter and are distinctive."
+  },
+  "lightAndWater": {
+    "sun": "Full sun — requires a minimum of 6 hours of direct sun for good nut production; does not perform well in shade; avoid planting in locations that will be shaded by taller adjacent canopy trees.",
+    "water": "Medium; moderate drought tolerance once established; prefers consistent moisture in the growing season for maximum nut fill; does not tolerate prolonged flooding or standing water.",
+    "drainagePreference": {
+      "description": "Well-drained to moderately well-drained; chestnuts are notably intolerant of wet, poorly drained soils; root rot is a real risk in persistently saturated conditions. Raised planting on a slight berm is advisable wherever drainage is questionable.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay soils only if drainage is adequate; in heavy, compacted, or poorly drained clay, performance declines sharply and root rot risk increases significantly; amending the planting hole alone is insufficient in problematic clay — address drainage at the site level first."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 6.5,
+      "description": "5.5–6.5; moderately acid preferred; chestnuts perform best in mildly acid soils; avoid alkaline conditions (pH 7+), which will cause chlorosis and poor performance; many soils in the eastern US are naturally within this range."
+    },
+    "texturePreference": "Deep, well-drained, loamy to sandy loam preferred; tolerates clay if drainage is adequate; does not perform well in compacted, waterlogged, or very heavy clay without amendment and drainage management.",
+    "rootCharacter": "Deep taproot when young; lateral roots develop significantly with age; no allelopathic compounds — unlike black walnut, chestnut is compatible with a wide range of companion plants and imposes no chemical constraints on neighboring species; roots are not considered invasive or damaging to structures."
+  },
+  "bloom": {
+    "bloomTime": "June–July — notably late in the season; chestnuts bloom after most other trees, when catkins appear on new growth in early to midsummer.",
+    "bloomDescription": "Monoecious — male and female flowers on the same tree; male flowers are long, creamy-white catkins, 6–8\" in length, borne in clusters along the new season's growth; they are showy, numerous, and highly visible; female flowers are small, inconspicuous, and borne at the base of some male catkins, enclosed in a spiny involucre that will develop into the bur; the catkins have a heavy, somewhat sweet and distinctly musky fragrance — conspicuous but not unpleasant at a distance; the bloom is a significant midsummer flowering event.",
+    "fragrance": "Noticeable — the catkins have a heavy, sweetish-musky scent that carries on the air; distinctive and unmistakable; some find it pleasant, others find it strong; it is brief, lasting a few weeks in June–July.",
+    "flowerSex": "Monoecious — male and female flowers on the same tree",
+    "pollination": "Wind-pollinated; technically capable of some self-pollination but yields are very poor from a single tree; in practice, cross-pollination with at least one other individual (not a clone of the same tree) is required for reliable, productive nut set; plant a minimum of two genetically distinct trees; if purchasing named cultivars, ensure the two trees are different cultivar selections; cross-pollination dramatically improves both nut set and nut size."
+  },
+  "yield": {
+    "edibleParts": "Nut — the chestnut is unique among tree nuts in being high in complex carbohydrates (starch) rather than fat or protein; the nut is approximately 50–60% starch, making it more akin to a grain than an oilseed; it is low in fat compared to other tree nuts; the flavor is sweet, mildly nutty, and deeply satisfying — especially when roasted; unlike black walnut or hickory, the chestnut flavor is mild enough to use in quantity and pairs well with both sweet and savory preparations; harvested nuts must be used promptly or dried/refrigerated — unlike walnuts, fresh chestnuts are high in moisture and will mold within 1–2 weeks at room temperature; uses: roasted whole (scored and roasted over fire or in oven — the classic preparation), boiled and peeled, chestnut soup, stuffings, chestnut flour (ground dried nuts), chestnut purée (a French staple — crème de marrons), confections, cakes, pasta; historically one of the most important staple foods in temperate Europe and Asia in pre-industrial times, where chestnut flour supplemented or replaced grain in mountain regions.",
+    "harvestSeason": "September–October; nuts are ripe when the spiny burs split open and the nuts fall to the ground; collect daily during the harvest window — fallen nuts are eagerly consumed by squirrels, deer, turkeys, and bears within hours; wear thick gloves when handling burs, which are extremely spiny and will penetrate skin; the nuts themselves are smooth and easy to handle; after collection, spread in a single layer and use within 2 weeks or refrigerate (chestnuts keep 2–3 months refrigerated); for longer storage, boil, peel, and freeze.",
+    "medicinalUses": "Limited documented medicinal use; leaves have been used historically in folk medicine as an astringent and for respiratory complaints; not a primary medicinal plant.",
+    "craftOtherYield": "Timber — chestnut wood is light, strong, durable, and notably resistant to rot; historically one of the most widely used timber and fence post woods in eastern North America (the American chestnut's straight, fast-growing form made it ideal for timber); C. mollissima is not grown primarily for timber but produces usable wood; tannin — chestnut wood and bark are high in tannins and were historically a primary source of tannin for leather tanning; still used in tannin extraction in Europe; coppice wood — chestnut coppices vigorously and was historically managed as coppice for poles, posts, and fencing across Europe; tannin-rich leaves and bark."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — the nuts are fully edible and safe; no toxic compounds in any part of the plant for humans; note that horse chestnut (Aesculus hippocastanum) IS toxic and should not be confused with true chestnut (Castanea); they are completely unrelated despite the shared common name; Castanea nuts are safe and edible; Aesculus nuts are toxic and inedible.",
+    "toxicityAnimals": "None — chestnuts are non-toxic and are actively consumed by deer, bears, squirrels, turkeys, and many other animals; the nuts are a valuable wildlife food; again, do not confuse with Aesculus (horse chestnut), which is toxic to horses and dogs.",
+    "allelopathy": "None — chestnuts have no significant allelopathic compounds; compatible with a wide range of companion plants; this is a significant design advantage over black walnut (Juglans nigra) and makes chestnut far easier to integrate into a diverse food forest planting.",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (high-calorie, starchy nut crop — one of the highest-calorie plant foods producible per tree in temperate climates)",
+      "Wildlife Support (exceptional mast producer for a broad range of fauna)",
+      "Dynamic Accumulator (deep taproot mines subsoil minerals; leaf litter breaks down to enrich soil)",
+      "Nitrogen Fixer (No — but can be partnered with nitrogen-fixing companions)",
+      "Shade and Wind Moderation (large canopy at maturity)",
+      "Ecological Restoration (TACF restoration hybrids directly contribute to re-establishing American chestnut as a functional component of eastern forest ecosystems — planting one is a conservation act)",
+      "Coppice Crop (responds well to coppicing for poles and biomass, though not typically coppiced in nut-production contexts)."
+    ],
+    "companionPlants": [
+      "No allelopathy constraints — chestnut companions can be chosen freely by function and ecology; excellent companions include: Alnus glutinosa or A. incana (alder — nitrogen fixers for the canopy layer or nearby)",
+      "Elaeagnus umbellata (autumn olive — nitrogen fixer, early successional layer)",
+      "Comfrey (Symphytum officinale — dynamic accumulator mulch plant under the canopy)",
+      "Allium ursinum or perennial garlic (understory herbs)",
+      "Trifolium repens (white clover — living mulch and nitrogen fixer for the ground layer beneath the canopy)",
+      "Rubus spp. (raspberries and blackberries can be planted in proximity — no juglone conflict)",
+      "Sambucus canadensis (elderberry — edge shrub layer)",
+      "Asimina triloba (pawpaw — compatible understory companion)",
+      "native wildflowers; essentially the full range of food forest species is compatible with chestnut."
+    ],
+    "antagonists": [
+      "No significant allelopathic antagonists; the primary design constraint is the pollination requirement — planting a single tree will produce minimal nuts; ensure a second genetically distinct tree is within 100' for adequate pollen transfer."
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Exceptional — chestnuts are among the most valuable mast-producing trees for wildlife in eastern North America; consumers include: white-tailed deer (major consumers; will be drawn strongly to the nut drop zone in September–October), wild turkeys (scratch and forage for fallen nuts; chestnuts are a high-calorie pre-winter food source), black bears (will travel distances to fruiting chestnuts; a mature tree in heavy production will attract bears reliably in bear country), gray squirrels and fox squirrels (primary caching dispersers; expect significant competition for the nut crop), chipmunks, raccoons, wood ducks, blue jays; the nut ripening in September–October coincides with peak autumn wildlife activity and pre-hibernation feeding pressure — a chestnut in full production is a major wildlife magnet.",
+    "hostPlantFor": "Moderate — Castanea spp. host a range of Lepidoptera in eastern North America, though not at the same ecological richness as native oaks; the American chestnut and its restoration hybrids support more native insect associations than the Chinese chestnut; noted Lepidoptera hosts include several oak-associated species with some Castanea affinity (both are Fagaceae); not in the same ecological tier as Quercus (oak) or Juglans (walnut) as insect hosts, but meaningful; the restoration of American chestnut is expected to recover insect associations that were lost with the original tree's functional extinction.",
+    "nestingHabitat": "Good — the broad, spreading crown provides canopy nesting habitat for many bird species; mature trees with large limbs provide structural nesting support; the dense catkin bloom attracts insectivorous birds in summer."
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — mature trees are not browsed significantly; young saplings in the first 1–3 years are at risk of browse damage to the leader and new growth; deer fencing or tree tubes are strongly recommended for young plantings in areas with active deer pressure; once the trunk exceeds approximately 1.5–2\" diameter and the canopy is above browse height, deer browse risk is low; the strong deer attraction to the nut drop in fall is a feature, not a hazard, for wildlife planting — but plan for competition for the nut harvest."
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — chestnuts are not salt-tolerant; avoid planting within road salt spray zones or where runoff from heavily salted roads will reach the root zone."
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; the taproot provides some drought resilience; young trees in years 1–3 benefit from consistent irrigation during dry spells; established trees handle typical summer drought adequately in most of the lower 48 but nut fill is better with adequate moisture in August–September."
+    },
+    "other": "Chestnut blight (Cryphonectria parasitica) — this fungal pathogen is present throughout the eastern US and is a permanent background threat wherever C. dentata or susceptible species are grown; C. mollissima is resistant but not immune and can develop localized cankers, especially on stressed trees; monitor trunk and major limbs annually for sunken, orange-discolored cankers with cracked margins; cankers on C. mollissima typically remain localized rather than girdling the tree (unlike on C. dentata, where blight kills the above-ground trunk without exception); restoration hybrids carry engineered blight resistance from C. mollissima via backcross breeding and are the most blight-informed planting choice for long-term persistence."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate once established; the most important investments are correct siting, tree protection during establishment, and pairing for cross-pollination.",
+    "pruningNotes": "Prune to establish a strong central leader in the first 2–3 years; remove competing co-dominant stems early; gradually raise the crown by removing lower branches as the tree matures if understory access is desired; chestnuts are not particularly prone to structural failure, but wide-angled branch attachments on C. mollissima (which often grows with a low, spreading form) should be corrected early while limbs are small; prune in late summer or early fall; spring pruning is acceptable but may result in some sap flow; do not prune in wet weather to reduce disease transmission risk. Annual harvest management: scout for bur drop daily during September–October; use heavy leather gloves for collection; inspect trunk and major scaffold limbs annually for canker signs; blight cankers on C. mollissima can sometimes be excised by removing the infected bark back to healthy tissue — consult your state's Cooperative Extension service for current blight management guidance.",
+    "propagationMethods": [
+      "Seed (nuts must be kept moist and cold-stratified; plant fresh in fall 1–2\" deep, or stratify in moist sand in the refrigerator for 60–90 days and plant in spring; protect from squirrels with hardware cloth; direct seeding in place works well and avoids transplant shock from the taproot); grafting (used for named cultivars — grafted trees produce sooner and with predictable characteristics; most commercial nursery trees are grafted); for restoration hybrids",
+      "obtain seeds or seedlings from TACF regional chapters — these are available specifically as conservation plantings and come with provenance documentation."
+    ]
+  },
+  "cultivarNotes": "Blight resistance and species selection are the defining decisions for chestnut planting across the lower 48. Three categories of options exist: C. mollissima (Chinese Chestnut) named cultivars; C. dentata × C. mollissima hybrids (including the Dunstan Chestnut); and TACF restoration hybrids for the eastern US. The right choice depends on zone, goals (nut production vs. restoration), and tolerance for blight risk.\nC. mollissima (Chinese Chestnut) — performs reliably in Zones 4–8 across the lower 48; the most widely adapted and commercially available option for nut production; blight-resistant but not immune; named cultivars include:\n**'Peach'** — one of the most widely recommended for home orchards; large, sweet, high-quality nuts; good disease resistance; the standard recommendation from most nut nurseries for the mid-Atlantic and Midwest.\n**'Dunstan'** — technically a C. mollissima × C. dentata hybrid developed by Robert Dunstan; excellent blight resistance, large nuts, good flavor, very productive; widely available commercially; performs well across Zones 5–8; a practical and well-proven choice.\n**'Colossal'** — a C. mollissima × C. crenata hybrid; very large nuts; productive; moderately blight resistant; common in commercial plantings across Zones 5–8.\n**'AU-Homestead'** — Alabama-developed; sweet, productive, reliable; performs well in the warmer end of the range (Zones 6–8); a good choice for the mid-South and upper South.\nFor cross-pollination, always pair two different named cultivars — clones of the same cultivar will not cross-pollinate each other. Gardeners in Zones 4–5 should prioritize cold-hardiness and confirm cultivar ratings with the nursery; gardeners in Zones 7–8 may benefit from cultivars with Southeast provenance such as 'AU-Homestead'. In Zone 9 and above, chestnut is generally not well-adapted.\nTACF Restoration Chestnuts — available primarily in the eastern US (the historic range of C. dentata); sourced through TACF state chapters; appropriate for any gardener in the Mid-Atlantic, New England, Upper South, or Midwest who wishes to participate in restoration of the American chestnut; blight resistance is improving through successive breeding generations (BC3F3 selections are current leading candidates); not a replacement for C. mollissima as a reliable near-term nut producer, but adds profound ecological and conservation significance; check TACF's website (tacf.org) for your state chapter.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Canopy nut tree — primary food forest canopy layer planting; mast tree for wildlife; ecological restoration planting (TACF hybrids); long-term productive anchor of the food forest system."
+    ],
+    "designPlacement": "Chestnuts are among the most compatible and productive canopy trees for food forest design in Zones 4–8. No allelopathy, exceptional nut yields, tremendous wildlife value, and — for gardeners in the eastern US — deep historical resonance with the native landscape. Site chestnuts in outermost canopy positions with full sun exposure and sufficient spacing (40–60') for crown development. They are fully compatible as canopy neighbors to apple, pawpaw, mulberry, and most food forest species without allelopathic conflict. Avoid placing chestnuts over any walking paths, seating areas, or lawn — the spiny burs on the ground are a real nuisance during harvest season; site them where fallen burs are acceptable (grass not mown during harvest, a mulched area, or a designated nut-collection zone). The nut drop in September–October will attract deer and other wildlife intensely — factor this into placement relative to garden beds and property boundaries.",
+    "acquisitionStatus": "C. mollissima cultivars ('Peach', 'Dunstan') are available from Stark Bro's, Chestnut Hill Outdoors, and ACN (Arbor Day Foundation nurseries); TACF restoration chestnut seeds and seedlings are available from TACF state chapters (tacf.org); in Pennsylvania, check the PA chapter (pachestnut.org) and locally at Bower & Branch or PA native plant nurseries.\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Castanea_mollissima",
+    "inaturalist": "https://www.inaturalist.org/taxa/49192-Castanea-mollissima",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a855\n---\nHISTORICAL NOTE — The American Chestnut Catastrophe:\nCastanea dentata (American Chestnut) was once among the most important trees in North America — constituting an estimated 25% of the canopy in the Appalachian forest from Maine to Georgia. Billions of trees grew across Pennsylvania, with mature specimens commonly reaching 80–100' tall and 6–10' in trunk diameter. The tree provided food for people and wildlife, timber, tannin, and an ecological foundation for the entire Appalachian forest system. In rural Pennsylvania, chestnut was a subsistence crop — families collected and sold the nuts each fall; the wood built barns, fence posts, and railroad ties; the tannin industry was built around chestnut bark. Older residents in rural PA can still remember the trees.\nChestnut blight (Cryphonectria parasitica) arrived in the United States from Asia around 1904, first identified at the New York Zoological Park. The fungus spread through the entire eastern forest in roughly 40 years. American chestnut had no resistance — the blight girdles the bark and kills the above-ground stem without exception; the root system often survives and sends up new sprouts, but the sprouts are killed by blight before they can reproduce. An estimated 3–4 billion American chestnut trees were killed. The ecological and economic loss remains one of the most severe biological disasters in North American history.\nThe American Chestnut Foundation (TACF, founded 1983) has been working for over 40 years to restore C. dentata through backcross breeding. Planting TACF restoration chestnuts anywhere within the historic range of C. dentata — including Zone 6a PA — is a direct, tangible contribution to that effort."
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "C. dentata (American Chestnut) is native to Pennsylvania and historically abundant throughout the state; C. mollissima is not — it is an introduced species from eastern Asia. TACF restoration hybrids are American chestnut in genetic character (15/16 C. dentata) and are treated as native restorations rather than introductions.",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania.",
+      "drainage": "The red clay soils at Hegins require close attention to drainage before planting. Any area with standing water after rain is unsuitable without active drainage improvement (berming, swales, or tile drainage). A raised berm planting of 6–12\" above grade is strongly advisable in clay-heavy sections of the property.",
+      "soil": "Hegins soils are red clay, compacted, and construction-disturbed. This is a challenging baseline for chestnut. Soil improvement — compost incorporation, surface mulching, and berm construction — is recommended before planting. Test pH before planting; adjust toward 6.0 if needed.",
+      "cultivarNotes": "A pair of C. mollissima cultivars ('Peach' + 'Dunstan' or 'Peach' + 'Colossal') provides the most reliable nut production in the near term. Adding a TACF restoration chestnut as a third tree provides the conservation dimension and genetic diversity. All of these options are fully cold-hardy in Zone 6a.",
+      "designPlacement": "Place chestnuts in the outermost food forest canopy positions on the property, where full sun and 40–60' spacing is achievable. A pair of C. mollissima cultivars provides the most reliable nut production in the near term; a TACF restoration chestnut as a third tree adds conservation value. Chestnuts are fully compatible with the existing apple, pawpaw, and mulberry guilds — no allelopathic constraints. Given active deer pressure from the east corridor, tree tubes or wire cages are essential for the first 2–3 years. Avoid any location with poor post-rain drainage; berm planting in heavy clay areas is advisable.",
+      "siteObservations": null
+    }
+  }
+}

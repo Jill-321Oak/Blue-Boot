@@ -1,0 +1,161 @@
+{
+  "id": "echinacea-purpurea",
+  "name": {
+    "commonName": [
+      "Purple Coneflower"
+    ],
+    "latinName": "Echinacea purpurea",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Central to southeastern United States — native across much of the eastern prairie and woodland edge communities, from Kansas and Oklahoma east through the Appalachians and into the mid-Atlantic",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native — broadly native across the eastern and central US; listed as a species of conservation interest in some northern and western states where it is present but uncommon"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US states; spreads mildly by self-seeding but is well-behaved and ecologically appropriate in cultivated settings"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": null
+    }
+  },
+  "description": {
+    "height": "24-36\"; compact cultivars 18-24\"",
+    "spread": "18-24\"",
+    "spacing": "18-24\"",
+    "growthRate": "Moderate",
+    "timeToMaturity": "Blooms well from second season; medicinally productive from year 3+",
+    "lifespan": "Long-lived; 10-20+ years; self-sows to maintain colony",
+    "deciduousEvergreen": "Herbaceous — dies back in winter; seedheads persist",
+    "winterInterest": "Moderate — the spiky bronze seedheads are ornamentally attractive and provide winter bird food; leave standing through winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade (blooms somewhat less heavily, may get slightly leggy)",
+    "water": "Medium; drought tolerant once established — one of the more drought-hardy native perennials",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average; does not like prolonged wet feet",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay soils well once established — evolved on heavy prairie soils; drainage must not be so poor that roots sit in standing water for extended periods; raised planting or amendment on the heaviest sites is beneficial at establishment"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable across the lower 48; tolerates clay, loam, and lean sandy soils — evolved on prairie edges and woodland margins with variable soils; does not require rich soil and can perform poorly (excessive lush growth, floppy stems) if over-amended",
+    "rootCharacter": "Deep fibrous taproot; does not spread aggressively; slowly expands clump; self-seeds moderately"
+  },
+  "bloom": {
+    "bloomTime": "July through September",
+    "bloomDescription": "Pink-purple ray petals (reflexed, drooping slightly) surrounding a prominent orange-bronze central cone; 3-4\" diameter; flowers face outward and upward",
+    "fragrance": "Slight honey fragrance",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; major pollinator plant — attracts bees, butterflies, and specialist native insects"
+  },
+  "yield": {
+    "edibleParts": "Petals (edible fresh or dried for tea); seeds (edible, mild)",
+    "harvestSeason": "Flowers July-September; roots harvestable from year 3+ in fall",
+    "medicinalUses": "One of the most extensively studied herbal immune-support plants; all parts used; root has highest concentration of active compounds (alkylamides, polysaccharides, cichoric acid); used for cold/flu prevention and reduction; also topically for wound healing; long documented use by Indigenous peoples of the Plains",
+    "craftOtherYield": "Dried flowers and seedheads in arrangements; natural dye (roots yield yellow-gold)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal; not recommended for those with autoimmune conditions or ragweed allergies (same family)",
+    "toxicityAnimals": "Generally considered safe; large quantities may cause mild GI upset",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Medicinal (significant)",
+      "Food (petals, seeds)",
+      "Insect Attractor (major)",
+      "Wildlife Food (seedheads)",
+      "Beauty",
+      "Native Plant / Ecosystem Support"
+    ],
+    "companionPlants": [
+      "Geranium 'Rozanne' (complementary bloom time)",
+      "black-eyed Susan (Rudbeckia)",
+      "monarda",
+      "native grasses",
+      "comfrey"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Deadhead spent flowers to extend bloom; leave final flush of flowers to set seed for winter wildlife and self-renewal"
+  },
+  "wildlife": {
+    "attracts": "Bees (especially native bumblebees and sweat bees), butterflies (monarchs, swallowtails), goldfinches and other small birds (seeds through winter — one of the best native seed sources available)",
+    "hostPlantFor": "Host for several specialist native moths and butterflies; member of Asteraceae which supports hundreds of specialist native insects",
+    "nestingHabitat": "Pithy hollow stems provide overwintering habitat for native solitary bees if left standing through winter"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — browsed but not heavily targeted across most of its range; established plants recover well from light browse; in high-pressure deer environments, protection at establishment is advisable"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — deep taproot accesses subsoil moisture"
+    },
+    "other": "Tolerates poor soil, clay, heat, and neglect; very forgiving once established; performs across a wide range of US climate zones (3-9)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Deadhead for extended bloom or leave seedheads for wildlife (the better choice in most cases). Cut back to ground in early spring before new growth emerges. Divide every 4-5 years in spring to maintain vigor if clump becomes crowded, though division is not strictly necessary.",
+    "propagationMethods": [
+      "Seed (self-sows readily; direct sow in fall for spring germination, or cold-stratify 30 days for spring sowing)",
+      "division (spring — every 4-5 years)"
+    ]
+  },
+  "cultivarNotes": "The straight species performs well across zones 3-9 throughout the lower 48. Cultivar selection depends on bed constraints and regional conditions:\n- Compact cultivars (18-24\") suit height-limited beds or the front of any border: 'Kim's Knee High' (18-20\"), 'PowWow Wild Berry' (18-24\", vivid magenta-pink)\n- Mid-size cultivars (24-30\") are the most versatile all-around choice: 'Magnus' (Perennial Plant of the Year 1998 — excellent performance from zone 3 south through zone 8; wide flat petals, does not reflex as strongly as straight species)\n- In hot, humid climates (zones 7-9, Southeast US), look for cultivars with confirmed powdery mildew resistance; Echinacea can struggle with mildew under humid conditions with poor air circulation\n- For medicinal use, straight species or 'Magnus' are preferred over heavily bred ornamental cultivars, which may have lower concentrations of active compounds (alkylamides, polysaccharides)",
+  "gardenUse": {
+    "suggestedUse": [
+      "Border mid-zone",
+      "native plant garden",
+      "medicinal garden",
+      "wildflower meadow"
+    ],
+    "designPlacement": "Versatile across the lower 48 — suited to mid-zone border placement in full sun to part shade; strong vertical interest from spiky seedheads in the off-season; pairs well with ornamental grasses, Rudbeckia, Monarda, and Salvia; appropriate for formal borders, naturalistic meadows, and cottage-style plantings alike",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Echinacea_purpurea",
+    "inaturalist": "https://www.inaturalist.org/taxa/48627-Echinacea-purpurea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c580\nPennsylvania — Hegins Site Observations:\n- None yet"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — native to Pennsylvania plant communities; found in woodland edges, meadows, and disturbed prairies throughout the state",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania\nZone: 3-9",
+      "drainage": "Red clay soils at Hegins are workable for Echinacea with amended planting holes or raised berms; established plants handle compaction better than most; avoid low spots that collect water after rain",
+      "soil": "Red clay loam at Hegins is well within the tolerance range; no aggressive amendment needed; light compost incorporation at planting is sufficient",
+      "cultivarNotes": "Straight species and 'Magnus' are the most reliable performers; 'Kim's Knee High' is a strong choice for Section A's 5' height limit; all three are cold-hardy well beyond zone 6a with no winter protection needed",
+      "designPlacement": "Section A (north-facing front bed, mid-zone — native medicinal anchor with strong winter seedhead interest; tolerates the partial shade and cold microclimate; fits the purple/pink palette); Section C (south-facing back porch, warm/dry — excellent performance in the warmer drier exposure, pairs well with Salvia yangii and Monarda didyma)",
+      "siteObservations": null
+    }
+  }
+}

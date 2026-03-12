@@ -1,0 +1,163 @@
+{
+  "id": "caragana-arborescens",
+  "name": {
+    "commonName": [
+      "Siberian Pea Shrub",
+      "Siberian Pea Tree"
+    ],
+    "latinName": "Caragana arborescens",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Siberia and northern China; widely cultivated across temperate regions as a windbreak and hedge plant",
+    "usNativeStatus": {
+      "native": null,
+      "description": "Non-native; introduced from Central Asia; widely naturalized and cultivated across the northern and central US"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "US-Wide: Can self-seed and naturalize; reported escaping cultivation in portions of the northern Great Plains, upper Midwest, and intermountain West; not federally listed but treated as invasive or watch-listed in some states (e.g., Colorado, Montana); considered a low-to-moderate ecological concern in regions with native shrubland; monitor and manage seeding wherever planted\nPennsylvania:\nNative to Site: No\nPA Invasive Status: Not currently listed on the PA Invasive Species Council watchlist; self-seeding should be monitored and managed, but no significant naturalization concern documented in PA as of 2026"
+    },
+    "zone": {
+      "min": 2,
+      "max": 8,
+      "description": "2-8 — among the most cold-hardy shrubs available; exceptional cold tolerance"
+    }
+  },
+  "description": {
+    "height": "15-20' as a large shrub/small tree; can be maintained much smaller (5-8') with annual coppicing",
+    "spread": "10-15' without management; controllable with annual cutting",
+    "spacing": "8-12' for specimen; 4-6' for hedge",
+    "growthRate": "Fast — one of the fastest-growing shrubs for a nitrogen-fixing windbreak; 3-4' per year under good conditions",
+    "timeToMaturity": "Begins fixing nitrogen from year 1; flowers and fruit from year 2-3",
+    "lifespan": "Long-lived; 50+ years",
+    "deciduousEvergreen": "Deciduous — attractive bright green pinnate compound leaves; turns greenish-yellow in fall",
+    "winterInterest": "Low — bare in winter; the structure is visible but not ornamentally significant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade",
+    "water": "Low — excellent drought tolerance once established; one of the most drought-tolerant shrubs available; thrives in conditions that stress most other plants",
+    "drainagePreference": {
+      "description": "General: Well-drained to dry; tolerates poor, sandy, and gravelly soils; does not tolerate waterlogged conditions; performs in lean, dry soils where other shrubs fail",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay with adequate drainage; struggles in heavy, poorly drained clay that holds standing water; amending with coarse grit or planting on a raised berm improves establishment in clay-dominant soils"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline conditions; fixes nitrogen in all these conditions"
+    },
+    "texturePreference": "General: Very adaptable; lean, sandy, and poor soils are no obstacle; clay is tolerable with drainage",
+    "rootCharacter": "Deep root system with nitrogen-fixing nodules (Rhizobium bacteria); moderately spreading; the root nodules are the primary permaculture value"
+  },
+  "bloom": {
+    "bloomTime": "May (early summer)",
+    "bloomDescription": "Small bright yellow pea-like flowers in clusters along the branches; not dramatic individually but attractive collectively; covered in bloom for 2-3 weeks",
+    "fragrance": "Slightly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees (especially bumblebees — well-suited to the pea flower structure)"
+  },
+  "yield": {
+    "edibleParts": "Seeds (the seed pods contain small peas that are technically edible — protein-rich; used as emergency food in Siberia; the flavor is bland; not a primary culinary plant but a genuine secondary food source); the seeds can be collected and eaten or dried",
+    "harvestSeason": "Seeds in summer after pods dry",
+    "medicinalUses": "None significant",
+    "craftOtherYield": "Nitrogen-rich coppice biomass (chop-and-drop green material is an excellent nitrogen source for composting or mulching); fibers from stems historically used"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Seeds considered edible in modest quantities; leaves and bark not typically consumed; not a known significant toxin; large quantities of most legume seeds may cause GI issues",
+    "toxicityAnimals": "Generally considered safe for livestock; horses and cattle graze it without documented problems",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub / Canopy (large shrub)"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary guild function — one of the most productive nitrogen-fixing shrubs across Zones 2-8)",
+      "Windbreak",
+      "Bio-accumulator",
+      "Food (secondary — seeds)",
+      "Coppice Material (fast-growing, nitrogen-rich biomass)",
+      "Nurse Plant (pioneer species that facilitates the establishment of slower-growing trees and shrubs)"
+    ],
+    "companionPlants": [
+      "Apple trees (classic guild pairing — Caragana planted to windward of the apple fixes nitrogen and provides wind protection)",
+      "comfrey (complementary mineral accumulator)",
+      "fruit trees generally; excellent pioneer plant in any food forest design across temperate North America"
+    ],
+    "antagonists": [
+      "None documented for food forest companions; monitor and manage self-seeding"
+    ],
+    "coppiceable": "Excellent coppice response — cut to 12-18\" every 1-3 years for maximum nitrogen-rich biomass production; regrows to 6-8' in a single season; coppiced biomass is a premium nitrogen mulch source; OR allow to grow as a large shrub/small tree for windbreak and wildlife habitat"
+  },
+  "wildlife": {
+    "attracts": "Bees (good pollen and nectar source in May), birds (seeds eaten by some species), small mammals",
+    "hostPlantFor": "Some native Lepidoptera use Caragana; not a primary host for notable species",
+    "nestingHabitat": "Dense thorny structure provides nesting sites and cover for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the spine tips on the leaf rachis deter deer browsing; established plants are rarely seriously damaged"
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most salt-tolerant shrubs available; used extensively for roadsides and salt-spray situations"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — one of the primary plants for extreme drought tolerance in the northern climate; thrives in conditions fatal to most shrubs"
+    },
+    "other": "Exceptionally cold-hardy to Zone 2; tolerates wind, lean soil, and neglect; a true pioneer and resilience species"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Decide early on the management strategy: (1) Coppice annually or every 2-3 years for maximum nitrogen biomass; cut hard to 12-18\" in spring; regrows to 6-8' by fall. (2) Allow to grow to full size as a windbreak/hedge; thin annually to maintain airflow and shape. (3) Train as a small tree — remove lower branches to create a standard tree form; this is more ornamental. Any of these approaches is valid depending on the guild design. The self-seeding seeds should be monitored — remove unwanted seedlings near the drip line.",
+    "propagationMethods": [
+      "Seed (easy — soak in hot water 24 hours before sowing; germinates readily; grows quickly from seed)",
+      "hardwood cuttings (possible)",
+      "division of sucker shoots"
+    ]
+  },
+  "cultivarNotes": "The straight species is the primary form grown. **'Lorbergii'** is a selection with finely cut, thread-like leaves — more ornamental; same functional properties. **'Walker'** is a weeping form grafted on a standard — ornamental but less productive as a guild nitrogen fixer. For maximum nitrogen fixation and coppice biomass production in any food forest guild across Zones 2-8, the straight species is the correct choice. The cultivars are regionally available but not necessary for the functional role.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest nitrogen fixer",
+      "windbreak",
+      "pioneer species",
+      "coppice plant",
+      "hedge",
+      "erosion control"
+    ],
+    "designPlacement": "In a food forest or guild design, plant Caragana on the windward side of the primary productive tree — the nitrogen fixed in the root zone benefits the companion tree, and the shrub mass provides wind buffering. The direction of prevailing wind at the specific site determines exact placement; in most of the lower 48, prevailing winds arrive from the west or northwest, which puts Caragana to the NW of the apple or other guild center. Can also anchor the upwind edge of a hedge row, serve as a nurse shrub for slower-establishing trees, or function as a northern or western windbreak for any sensitive planting.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caragana_arborescens",
+    "inaturalist": "https://www.inaturalist.org/taxa/159827-Caragana-arborescens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c296"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not currently listed on the PA Invasive Species Council watchlist; self-seeding should be monitored and managed, but no significant naturalization concern documented in PA as of 2026",
+      "drainage": "Hegins red clay is a challenge — plant on a slight grade or raised bed to prevent root saturation after heavy rain; once established the deep root system copes, but the first season is the most vulnerable window",
+      "soil": "Red clay at Hegins is manageable if drainage is addressed at planting; avoid low spots or areas where water pools; the plant will succeed in PA soils but benefits from a planting-hole amendment of coarse material to break up the clay pan in the first 12-18\"",
+      "cultivarNotes": "straight species is fully hardy with no reservations; all three forms are commercially available in the mid-Atlantic nursery trade, but only the straight species should be used in the apple guild at Hegins.",
+      "designPlacement": "Planted to the northwest of the apple trees in the apple guild, consistent with the prevailing NW/W wind. Provides nitrogen-rich coppice biomass and wind protection for the apple. May also serve as a western windbreak for the broader food forest layout as the site develops.",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "craterellus-cornucopioides",
+  "name": {
+    "commonName": [
+      "Black Trumpet",
+      "Horn of Plenty",
+      "Trumpet of the Dead",
+      "Black Chanterelle"
+    ],
+    "latinName": "Craterellus cornucopioides",
+    "family": "Cantharellaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread across North America, Europe, and parts of Asia; native to the temperate deciduous forests of the eastern United States, from the Great Lakes south through the Appalachians and into the Southeast; found throughout the lower 48 wherever mature hardwood forest is present, particularly under oak, beech, and hickory; a common species where habitat is appropriate, though easily overlooked due to its exceptional camouflage",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across much of the eastern lower 48 states; range extends from New England south to Florida and west through the Midwest; less common in the Great Plains and semi-arid West; present in the Pacific Northwest and California in association with western oak and tanoak (Notholithocarpus); absent from areas lacking suitable hardwood forest cover"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48; a native, ecologically beneficial mycorrhizal organism with no documented invasive behavior"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — a fungal species that occurs across a wide climate range wherever suitable hardwood forest is present"
+    }
+  },
+  "description": {
+    "height": "Individual fruiting bodies 1-4\" tall; hollow, funnel-shaped or trumpet-shaped; thin-walled",
+    "spread": "Fruiting bodies are typically scattered to densely clustered in groups; individual bodies 1-3\" wide at the mouth of the funnel; mycelium extends through the soil and duff in association with host tree roots",
+    "spacing": "Not cultivatable; wild harvest only; mycorrhizal obligate",
+    "growthRate": "Fruiting bodies appear relatively quickly after triggering rain events; they are thin-walled and ephemeral but not as fleeting as some species; a flush will persist in good condition for 5-10 days",
+    "timeToMaturity": "Fruiting occurs from established mycorrhizal mycelium; the same locations fruit year after year once identified; no cultivation timeline applies",
+    "lifespan": "The mycorrhizal mycelium is perennial and long-lived, intimately entangled with the root systems of its host trees; individual fruiting bodies are ephemeral (1-2 weeks); productive wild locations remain productive indefinitely as long as the host trees and habitat remain undisturbed",
+    "deciduousEvergreen": "Not applicable; mushroom organism; seasonal fruiting",
+    "winterInterest": "None — fruiting occurs in the warm season; mycelium overwinters in the duff and root zone"
+  },
+  "lightAndWater": {
+    "sun": "Not applicable; the fruiting bodies emerge in the shaded duff of mature deciduous forest; dense canopy shade is the natural and preferred habitat",
+    "water": "Fruiting is triggered by late-summer and fall rainfall combined with moderate temperatures; the mushroom draws on moisture in the leaf litter and duff; consistent summer moisture in the woodland floor promotes fruiting; drought suppresses or delays fruiting",
+    "drainagePreference": {
+      "description": "Moist but well-drained woodland soil in the duff and upper organic layer is the natural habitat; waterlogged or saturated conditions are unfavorable and suppress fruiting; the species tolerates brief wet periods but requires good overall drainage in the root zone of its host trees",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates moderate clay in the host tree root zone provided the woodland floor maintains good duff structure and is not compacted; heavy compacted clay that impedes root development of host trees is unfavorable; the fungus responds to the condition of the host tree root system more than to soil texture directly\nPennsylvania — Hegins: Red clay soil at the site will require attention to woodland floor condition; protect leaf litter layer from compaction; any mature oak or beech stands with good duff accumulation are worth surveying regardless of underlying clay content"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "Not applicable in the cultivation sense; naturally occurs in slightly acidic to neutral woodland soils under oaks, beeches, and hickories — the pH range naturally associated with these host trees (pH 5.5-7.0)"
+    },
+    "texturePreference": "Grows in the duff and upper organic layer of mature deciduous forest floor; associated with abundant leaf litter and a rich fungal community in the soil; soil texture of the mineral layer is less critical than the condition of the overlying organic duff layer\nPennsylvania — Hegins: Red clay underlies the site; black trumpet is indifferent to clay texture as long as the duff layer is intact and host trees are healthy; compaction is the primary threat in clay-heavy soils — avoid foot traffic through candidate woodland areas",
+    "rootCharacter": "Mycorrhizal — the mycelium of C. cornucopioides forms obligate mycorrhizal associations with the roots of oak (Quercus), beech (Fagus), and hickory (Carya), and occasionally other hardwoods; it cannot grow independently of its host trees and cannot be cultivated on logs, straw, or wood chips; this is the same fundamental constraint as chanterelles (Cantharellus) and truffles"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: July-October across the eastern lower 48; timing varies by region — earlier in the South (June-July), August-September peak in the mid-Atlantic and Midwest, September-November in cooler northern areas and at elevation; often fruits slightly later in the season than chanterelles; occasionally continues into early November in warm years",
+    "bloomDescription": "Fruiting bodies are small, hollow, funnel- or trumpet-shaped structures with a wide, flaring mouth at the top tapering to a narrow, hollow stem; the outer surface (which faces upward and outward) is dark gray to black, occasionally with brownish tones, and smooth to very finely scaly or wrinkled; there are no true gills or ridges on the outer surface — it is smooth to faintly veined, which immediately distinguishes black trumpet from gilled mushrooms; the inner surface of the funnel is gray to dark gray; the entire fruiting body is thin-walled and somewhat fragile; they grow in scattered to very dense clusters directly from the leaf litter on the forest floor; the fruiting bodies blend so perfectly with dark wet leaves and duff that they are extraordinarily difficult to see despite sometimes being extremely abundant",
+    "fragrance": "Distinctive, pleasant, earthy-fruity fragrance; aromatic and somewhat sweet when fresh; the scent deepens dramatically when dried or cooked, developing a complex, truffle-like, smoky character",
+    "flowerSex": "Not applicable — sporing organism; pale gray to lilac-gray spores released from the smooth outer surface of the funnel",
+    "pollination": "Not applicable; spore dispersal by wind"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (entire hollow trumpet) — one of the most intensely and complexly flavored edible mushrooms in the temperate world; the flavor is deep, earthy, smoky, and truffle-like, with a richness that far exceeds its modest size; a small quantity of black trumpets transforms a dish in a way that few other ingredients can; considered among the finest wild mushrooms available in eastern North America; nutritionally good — B vitamins, vitamin D (especially after sun exposure), potassium, fiber; the hollow fruiting body has excellent texture that holds up well in cooking and drying",
+    "harvestSeason": "July-October (region-dependent; see Bloom Time for regional timing); harvest when fruiting bodies are fully developed and firm, before they become waterlogged and begin to deteriorate; cut or pinch at the base; the thin walls mean they are more fragile than meatier fungi — handle gently and process promptly; a basket or paper bag is better than a plastic bag which accelerates deterioration; because of their camouflage, once you find the first fruiting body, stop and search carefully on your hands and knees — you are almost certainly surrounded by dozens or hundreds more; they are always found in groups and are typically abundant where they occur at all",
+    "medicinalUses": "Modest — C. cornucopioides contains B vitamins (B1, B2, B3, B12 in small amounts), vitamin D, potassium, and trace minerals; like most edible fungi, it contains beta-glucans with general immune-supporting properties; not a primary medicinal species; the culinary value of black trumpet far exceeds its medicinal value and is the primary reason to seek it out; regular inclusion of diverse wild mushrooms in the diet — including black trumpet — is a sound nutritional and health practice",
+    "craftOtherYield": "Dried black trumpet (slice vertically or leave whole for small specimens; dry at low heat 95-115°F until completely crisp; the drying process concentrates and transforms the flavor dramatically — dried black trumpets are significantly more aromatic and intense than fresh); black trumpet powder (grind thoroughly dried fruiting bodies in a spice grinder to a fine, dark, almost black powder; this is an extraordinary culinary spice — add a teaspoon to sauces, gravies, cream sauces, pasta, risotto, soups, or compound butter; the powder stores in an airtight jar for a year or more and is arguably the highest-value culinary product per ounce available from wild harvest in the eastern US); black trumpet oil or butter (infuse dried powder into cream, butter, or neutral oil for concentrated flavor)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered very safe and well-tolerated; C. cornucopioides has a long history of safe consumption in both North America and Europe with no documented serious toxicity; as with all wild mushrooms, thorough cooking is recommended; a small number of individuals may have GI sensitivity; IDENTIFICATION: black trumpet is one of the most beginner-friendly wild edibles — it has no truly dangerous lookalikes in eastern North America; the hollow, smooth-surfaced, dark funnel shape is distinctive; the related Craterellus fallax (slightly more orange-brown in the spore deposit) is similarly edible and may be present alongside it; no dangerous species closely resembles a black trumpet",
+    "toxicityAnimals": "Generally considered safe; the same identification precaution applies",
+    "allelopathy": "Not applicable; the mycorrhizal relationship is mutualistic — it benefits host trees by extending their root surface area and mineral uptake capacity; not allelopathic in any meaningful sense",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (premium gourmet wild edible — exceptional flavor intensity, highly regarded by professional chefs and foragers alike)",
+      "Culinary Spice Production (dried powder is a practical, storable, high-value product)",
+      "Mycorrhizal Partner (forms mutualistic relationships with oak, beech, and hickory — contributes to the health and productivity of the host tree guild by extending root access to water and minerals)",
+      "Indicator Species (presence indicates mature, undisturbed hardwood forest with a healthy soil fungal community — a sign of ecological quality in the woodland)"
+    ],
+    "companionPlants": [
+      "Quercus species (red oak, white oak, chestnut oak, and regional equivalents — primary hosts across the lower 48; mature oaks are required habitat throughout the range); Fagus grandifolia (American beech — a key host wherever present; beech groves are classic black trumpet habitat in the East); Carya species (hickory — another confirmed host; hickory-oak-beech mix is prime black trumpet territory in the Midwest and Appalachians); Notholithocarpus densiflorus (tanoak — primary western host in California and the Pacific Northwest); Cantharellus cibarius and C. lateritius (golden and smooth chanterelles — frequently found in the same habitat and fruiting season; black trumpet and chanterelle patches often overlap; a productive chanterelle spot is worth searching for black trumpets as well); Grifola frondosa (hen of the woods / maitake — shares the mature oak association; the oak guild supports multiple high-value edible fungi simultaneously)"
+    ],
+    "antagonists": [
+      "Habitat disturbance (the single greatest threat to black trumpet productivity is disturbance of the woodland floor — raking, mowing, compaction, or removal of the leaf litter layer destroys the duff environment and mycorrhizal network on which the species depends); logging or removal of host trees (eliminates the mycorrhizal partner); excessive foot traffic through fruiting areas (compacts soil and damages mycelium)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles and flies are associated with decomposing fungal fruiting bodies); small mammals (squirrels and chipmunks occasionally consume fruiting bodies, though this is less significant than for meatier species like maitake); slugs can be a significant local consumer of fruiting bodies in wet conditions",
+    "hostPlantFor": "Various invertebrates associated with the woodland duff environment and decomposing fungal material",
+    "nestingHabitat": "The mature hardwood forest environment required by black trumpet provides extensive wildlife habitat in its own right; the undisturbed leaf litter layer — which must be maintained for black trumpet productivity — is critical nesting and overwintering habitat for ground-nesting birds, salamanders, invertebrates, and small mammals"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not a significant concern; deer do not meaningfully browse fungal fruiting bodies"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable; road salt is not relevant to woodland habitat; avoid planting host trees in roadside locations with heavy salt exposure"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting significantly suppressed by drought; dry July-September will delay or prevent fruiting in a given year regardless of region; the mycorrhizal mycelium persists and fruiting resumes in years with adequate summer moisture; known locations should be checked every year regardless"
+    },
+    "other": "Cannot be cultivated — black trumpet is an obligate mycorrhizal species; it requires living host tree roots and cannot be grown on logs, straw, sawdust, or in beds; wild harvest from undisturbed woodland is the only source; this is a wild harvesting and habitat stewardship species, not a cultivation species"
+  },
+  "maintenance": {
+    "maintenanceLevel": "None for wild harvest; stewardship of habitat (leave woodland undisturbed)",
+    "pruningNotes": "Harvest fruiting bodies by pinching or cutting cleanly at the base, leaving the base undisturbed; do not rake or disturb the surrounding leaf litter — this is the habitat on which next year's fruiting depends; mark every productive location precisely (GPS point, photograph, physical marker) — these sites are valuable permanent assets; return annually during peak fruiting window for your region; because black trumpets are so difficult to spot, develop a deliberate search technique: move slowly through suitable habitat (shaded, moist forest floor under mature oaks, beeches, and hickories), scanning at a low angle with your gaze skimming across the leaf litter surface rather than looking straight down; the hollow funnel shape catches light differently than leaves when viewed at the right angle; once the search image is acquired through experience, finding them becomes progressively easier",
+    "propagationMethods": [
+      "Cannot be propagated or cultivated. Encouraged by: (1) maintaining undisturbed",
+      "moist",
+      "mature deciduous woodland with large oaks",
+      "beeches",
+      "and hickories (or regional equivalents); (2) leaving the leaf litter layer intact — never raking woodland floors; (3) protecting existing root systems from soil compaction; (4) protecting host trees from logging or damage; (5) scouting systematically — survey all mature hardwood stands in the area",
+      "starting at the beginning of the regional fruiting window; the first discovery of a productive location is the most important event; once found",
+      "that site will produce for decades if the habitat is protected"
+    ]
+  },
+  "cultivarNotes": "No named cultivars exist and none are possible — cultivation is not achievable for this species. Two closely related species may be encountered alongside C. cornucopioides across the eastern lower 48: Craterellus fallax (very similar; distinguished primarily by a salmon-pink to orange-brown spore deposit rather than the white to pale gray spore deposit of C. cornucopioides; similarly edible and equally prized; the two are often grouped together by foragers as \"black trumpets\") and Craterellus foetidus (similar but with more developed forking ridges on the outer surface; also edible; less common). In California and the Pacific Northwest, Craterellus calicornucopioides is the regional equivalent and is similarly prized. In practice, all regional black trumpet species are harvested and used interchangeably. No dangerous species resembles a black trumpet anywhere in the lower 48 — this is a beginner-appropriate identification target once the search image is acquired.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wild harvest from mature deciduous woodland on or adjacent to the property; habitat stewardship — maintain undisturbed hardwood stands to encourage naturalized fruiting; annual wild harvest monitoring program"
+    ],
+    "designPlacement": "This species is not placed in the garden — it is encouraged in the woodland. Survey all mature hardwood woodland on and bordering the property beginning at the start of the regional fruiting window (early August in most of the eastern US; earlier in the South; later at elevation or in the North); focus on shaded areas with dense leaf litter under large oaks, beeches, and hickories (or tanoak in the West); look especially for moist, slightly sloped areas where moisture collects in the duff; establish a monitoring map noting each productive location found; once a site is identified, protect the surrounding habitat from disturbance absolutely. Long-term food forest design should include mature oaks wherever site conditions permit — the oak guild creates the conditions for black trumpet (as well as maitake and chanterelles) as it matures over decades. The black trumpet is a species to find and steward, not to plant.",
+    "acquisitionStatus": "Wild harvest — scout existing woodland (no acquisition needed or possible)\nPennsylvania — Hegins Site Observations:\nSurvey all shaded deciduous woodland on and adjacent to the property beginning in August; check areas with dense leaf litter under mature oaks, beeches, and hickories; scan slowly at low angle across the forest floor; the first find establishes the location as a reliable annual harvest site. The red clay soil at Hegins is not a barrier to fruiting as long as the leaf litter duff layer is intact and host trees are healthy and uncompacted. Deer pressure at the site does not affect this species — deer do not browse fungal fruiting bodies. Mark all productive locations with GPS; return annually."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Craterellus_cornucopioides",
+    "inaturalist": "https://www.inaturalist.org/taxa/48607-Craterellus-cornucopioides",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Craterellus species are native to Pennsylvania; found in deciduous woodland throughout the state; likely present in or adjacent to any mature hardwood forest",
+      "paInvasiveStatus": "Not listed; not a concern",
+      "drainage": null,
+      "soil": null,
+      "cultivarNotes": null,
+      "designPlacement": "Survey all shaded deciduous woodland on and adjacent to the property beginning in August; check areas with dense leaf litter under mature oaks, beeches, and hickories; scan slowly at low angle across the forest floor; the first find establishes the location as a reliable annual harvest site; the red clay soil underlying the site is not a barrier if duff structure is intact and host trees are healthy.",
+      "siteObservations": null
+    }
+  }
+}

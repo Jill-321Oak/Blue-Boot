@@ -1,0 +1,177 @@
+{
+  "id": "juglans-cinerea",
+  "name": {
+    "commonName": [
+      "Butternut",
+      "White Walnut"
+    ],
+    "latinName": "Juglans cinerea",
+    "family": "Juglandaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from New Brunswick and southern Quebec west to Minnesota, south to Georgia and Arkansas; historically common in rich woodland soils, moist bottomlands, and limestone slopes throughout the eastern hardwood forest region",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US from the Great Lakes and upper Midwest south through the Appalachians and mid-Atlantic to northern Georgia and Arkansas; present in roughly 25 states east of the Great Plains; now critically threatened throughout its range due to butternut canker (Ophiognomonia clavigignenti-juglandacearum), which has killed an estimated 80%+ of the original population; planting canker-resistant stock anywhere within the native range is a genuine conservation act"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; the species is in severe decline and is a conservation priority rather than a spread concern; no state lists it as noxious or regulated"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7"
+    }
+  },
+  "description": {
+    "height": "40-60' at maturity; occasionally to 70'; broad, open crown",
+    "spread": "35-50'; wide-spreading with large compound leaves; requires generous space",
+    "spacing": "40-50'; treat siting distance the same as black walnut due to juglone production; keep well away from juglone-sensitive plantings",
+    "growthRate": "Moderate — faster than black walnut; typically 12-24\" per year once established",
+    "timeToMaturity": "First nuts in 4-8 years on grafted trees; full production in 10-15 years; seedling-grown trees may take longer",
+    "lifespan": "Moderate — butternuts are not as long-lived as black walnut; typically 75-100 years; the butternut canker crisis has dramatically shortened the lifespan of most wild trees; healthy specimens are increasingly precious",
+    "deciduousEvergreen": "Deciduous — large, pinnately compound leaves (similar to black walnut but slightly larger leaflets); golden-yellow fall color",
+    "winterInterest": "Low — bare in winter; attractive broad crown silhouette; the distinctive elongated, sticky, clustered nuts persist on the tree briefly before dropping"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade; best nut production in full sun; in Zone 8+ areas at the southern edge of its range, light afternoon shade may reduce heat stress",
+    "water": "Medium; prefers moist, well-drained soils; more tolerant of dry limestone soils than black walnut; established trees are reasonably drought-tolerant; in the humid East, supplemental irrigation is typically needed only during establishment (years 1-3) and extended summer droughts; in drier Midwest regions, deeper mulching and occasional summer watering improve performance",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to both bottomland alluvial soils and drier limestone slopes; tolerates periodic wet feet better than many nut trees but does not thrive in chronically waterlogged soil; standing water during the growing season promotes root rot and increases canker susceptibility",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — butternuts tolerate clay-loam soils better than many trees, particularly on limestone-derived clays common across the eastern US and Midwest; heavy, poorly drained clay increases canker susceptibility by stressing roots; where clay drainage is poor, plant on a slight slope or mound to ensure water moves away from the root crown; deep organic mulch (wood chips, 4-6\") over the root zone improves clay structure over time without the need for excavation; do not amend the planting hole excessively — backfill with native soil to avoid creating a bathtub effect in clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates slightly alkaline soils better than black walnut; performs well on limestone-derived soils common across the eastern US and upper Midwest; slightly acidic to neutral soils are ideal"
+    },
+    "texturePreference": "Rich, moist, fertile loam preferred; tolerates clay-loam and limestone upland soils; deep organic matter significantly improves establishment on heavy or compacted soils; avoid pure sand or excessively rocky ground with no moisture retention",
+    "rootCharacter": "Deep taproot; transplant as a young bare-root or potted tree and do not disturb the taproot; produces juglone from roots, hulls, and leaf litter — keep sensitive plants well away from the root zone"
+  },
+  "bloom": {
+    "bloomTime": "April-May; blooms as leaves emerge",
+    "bloomDescription": "Monoecious — male catkins are long (2-5\"), drooping, yellow-green; female flowers are small clusters at branch tips; wind-pollinated; flowers are not ornamental",
+    "fragrance": "Foliage is aromatic (similar to black walnut) when crushed; flowers have no significant fragrance",
+    "flowerSex": "Monoecious — separate male and female flowers on the same tree",
+    "pollination": "Wind-pollinated; generally self-fertile but nut set is improved with a second tree nearby; plant two or more trees from different genetic sources for best yields and to maximize genetic diversity of any canker-resistant planting"
+  },
+  "yield": {
+    "edibleParts": "Nut (the butternut is elongated and pointed, with a very sticky, aromatic green husk that stains hands and clothing — wear gloves when processing; the shell is deeply ridged and hard but thinner than black walnut; the kernel is oily, rich, and sweet with a distinctly buttery, mild flavor that is less astringent than black walnut; excellent eaten fresh, in baked goods, cookies, cakes, and confections; historically one of the most important native nut foods in eastern North America — Indigenous peoples consumed butternuts extensively and rendered the oily nuts into a fat for cooking; early European settlers prized them similarly); Sap (the sap can be tapped in late winter like sugar maple — lower sugar content but usable; historically noted but not commonly practiced today)",
+    "harvestSeason": "September-October; nuts fall when ripe; collect promptly to beat squirrels; hulls stain — glove up; hull by driving over the nuts or using a mechanical huller, then rinse and dry the shelled nuts; store in a cool, dry place or freeze",
+    "medicinalUses": "The inner bark has a long, well-documented history as a laxative and gentle cathartic — one of the most widely used Native American medicinal plants in eastern North America for this purpose; used by multiple Indigenous nations for constipation, liver support, and as a digestive tonic; preparations from the bark were documented during the Civil War as a field remedy for constipation among soldiers; the husks contain juglone with the same antimicrobial and antiparasitic properties as black walnut hull tincture; used in herbal medicine for intestinal parasites and fungal conditions; the bark and husks should be used with caution and not in large doses — the cathartic effect can be strong",
+    "craftOtherYield": "The husks yield a strong yellow-brown to khaki dye — one of the traditional dye plants of eastern North America (the dye gave Confederate soldiers' homespun cloth the butternut-colored uniforms that earned them the nickname \"butternuts\"); the wood is lightweight, straight-grained, and easily worked — valued for furniture, carving, and interior woodwork; less commercially harvested than black walnut due to the canker crisis, which makes standing healthy trees worth preserving rather than cutting"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Nuts are safe and nutritious; husks and bark contain juglone and other compounds — handle husks with gloves to avoid skin staining; do not ingest large quantities of bark preparations",
+    "toxicityAnimals": "Juglone-containing hulls and leaves are toxic to horses (laminitis risk — do not use wood shavings or leaves near horses); dogs may be sensitive to the nuts (especially moldy nuts); the allelopathic effect on plants is the primary practical concern in a garden setting",
+    "allelopathy": "Yes — J. cinerea produces juglone (5-hydroxy-1,4-naphthoquinone), the same allelopathic chemical as black walnut (J. nigra), though generally considered slightly less potent; juglone is toxic to many garden plants including tomatoes, peppers, apples, blueberries, rhododendrons, azaleas, and peonies; juglone leaches from roots, decomposing leaves, hulls, and bark; keep all juglone-sensitive plantings well outside the drip line (and then some — juglone can travel well beyond the canopy edge); plant companions that are known juglone-tolerant species",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (high-quality native nut crop)",
+      "Medicinal",
+      "Wildlife Support",
+      "Native Plant Conservation (one of the most threatened native trees in the eastern US — every healthy butternut planted from canker-resistant stock is a conservation contribution)",
+      "Dye Plant",
+      "Wood Crop (long-term)"
+    ],
+    "companionPlants": [
+      "Juglone-tolerant species only — Asimina triloba (pawpaw — juglone tolerant and a natural ecological neighbor in eastern woodland communities)",
+      "Sambucus canadensis (elderberry — juglone tolerant)",
+      "Matteuccia struthiopteris (ostrich fern — juglone tolerant; native woodland companion)",
+      "Athyrium filix-femina (lady fern — tolerant)",
+      "Andropogon gerardii and most native grasses (tolerant)",
+      "Echinacea purpurea (tolerant)",
+      "Monarda spp. (tolerant)",
+      "Lonicera sempervirens (coral honeysuckle — tolerant vine)",
+      "Allium tricoccum (ramps — tolerant native ground cover)",
+      "clover and most nitrogen-fixing ground covers (generally tolerant)"
+    ],
+    "antagonists": [
+      "Juglone-sensitive species must be kept well away: Malus spp. (apples — highly sensitive)",
+      "Vaccinium spp. (blueberries — sensitive)",
+      "Prunus spp. (stone fruits — generally sensitive)",
+      "Lycopersicon (tomatoes — extremely sensitive)",
+      "Rhododendron/Azalea (very sensitive)",
+      "Syringa (lilac — sensitive)",
+      "Paeonia (peony — sensitive)",
+      "Alfalfa (sensitive); when in doubt",
+      "test before planting within the juglone radius"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Squirrels (primary nut consumers and dispersers — gray and fox squirrels cache butternuts extensively; this is the primary dispersal mechanism), wild turkey (consume fallen nuts in autumn — an important mast crop for turkeys), white-tailed deer (browse on young foliage and twigs), black bears (consume fallen nuts), wood ducks, and numerous small mammals; an important native mast tree with high ecological value",
+    "hostPlantFor": "Walnut caterpillar (Datana integerrima — a native defoliator that can partially defoliate the tree; rarely fatal to healthy trees), various other native moths and caterpillars that use Juglandaceae as larval hosts; the tree supports a native food web",
+    "nestingHabitat": "Mature trees provide cavity nesting opportunities; the broad canopy provides songbird nesting sites"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Low-Moderate — young trees are browsed by white-tailed deer; protect with tree tubes or fencing for the first 3-5 years until the trunk is too large for rubbing damage and the canopy is above browse height; established trees outgrow the most vulnerable browse zone; deer pressure on young nut trees is a concern across the entire eastern US and Midwest"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt; site away from road spray and salt runoff zones"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates drier conditions better than its reputation suggests, especially on limestone soils; consistent moisture in years 1-3 is important for establishment; mature trees handle moderate summer drought reasonably well across their range"
+    },
+    "other": "Very cold-hardy (Zone 3); late spring frosts can damage expanding leaves and flowers — a significant risk across much of the northern range where April frosts are common; siting on a north-facing slope or with slightly delayed sun exposure can reduce frost damage risk by delaying bloom; butternut canker (Ophiognomonia clavigignenti-juglandacearum) is the overwhelming threat to this species — see Cultivar Notes"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established — the primary concerns are canker monitoring and deer protection in youth",
+    "pruningNotes": "Prune in late summer or fall (not spring or early summer when sap flow and fungal spore counts are highest) to minimize canker infection risk; remove any branches showing canker symptoms immediately — cankers appear as elongated, sunken, dark, dead areas on the bark, often with a sooty residue; disinfect tools between cuts with 10% bleach solution; do not leave pruning wounds unattended in high-spore seasons; some growers apply wound sealant to large cuts though this practice is debated; maintain tree vigor through soil health — healthy, non-stressed trees show more resistance",
+    "propagationMethods": [
+      "Seed (collect fresh, hull immediately, cold-stratify for 90-120 days, and plant in fall outdoors or stratify in the refrigerator and plant in spring; germinates readily; plant where it will grow — butternuts resent transplanting after the taproot develops; seedlings are genetically variable and may not inherit canker resistance from the parent)",
+      "grafting (the preferred method to propagate known canker-resistant selections — top-work onto established rootstock or use whip-and-tongue graft in late winter)"
+    ]
+  },
+  "cultivarNotes": "The butternut canker crisis means that sourcing matters enormously for any grower in the lower 48 — purchasing a tree of unknown provenance from a generic nursery is planting into a likely-fatal disease environment regardless of location. Seek out trees propagated from confirmed canker-resistant individuals. Key sources and selections by region:\n**Zone 3-5 (Upper Midwest, northern New England, Great Lakes):** The **University of Vermont Butternut Project** has identified resistant individuals throughout the Northeast and is a primary source for cold-hardy, canker-resistant genetics; **Badgersett Research Corporation** (MN) has worked with disease-resistant Juglans selections suited to the upper Midwest; contact your state forestry department for regionally appropriate sources — many northern states have active butternut recovery programs.\n**Zone 5-7 (Mid-Atlantic, central Appalachians, lower Midwest, Ohio Valley):** This is the heart of the species' historic range and the epicenter of canker devastation; the **USDA Forest Service** and the **Walnut Council** have ongoing programs identifying and propagating canker-resistant trees; named selections to look for: **'Chamberlin'** (a widely propagated resistant selection), **'Kenworthy'** (another named resistant line); several small specialty nurseries propagate from identified resistant mother trees — search \"canker-resistant butternut\" and verify provenance before purchasing; prioritize trees from nurseries that explicitly state their stock is propagated from wild survivors in heavily infected zones, as surviving trees in these areas have demonstrated meaningful resistance.\n**Zone 7-8 (upper South, Piedmont, Ozarks):** Butternut reaches the southern edge of its natural range here; heat stress compounds canker pressure; source from southern Appalachian or Ozark survivor populations when possible for best regional adaptation; avoid northern-provenance stock that may suffer from insufficient winter chill or summer heat stress.\nAcross all zones, plant at least two trees from different genetic sources to maximize genetic diversity.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "native woodland planting",
+      "nut orchard",
+      "conservation planting; a natural pair with pawpaw in an eastern hardwood food forest — both are native",
+      "edible",
+      "and ecologically complementary (pawpaw is juglone-tolerant)"
+    ],
+    "designPlacement": "Canopy layer — requires the same generous siting distance as black walnut; 40-50' from juglone-sensitive plantings; best placed at the far perimeter of a food forest where the juglone radius does not overlap apple guilds, blueberry plantings, or stone fruit trees; the pawpaw guild is a natural neighbor since pawpaw is juglone-tolerant; the conservation imperative for this species is high across its entire native range — any large food forest within the eastern US should seriously consider including at least one butternut from confirmed canker-resistant stock; contact your state forestry agency or cooperative extension for sourcing guidance",
+    "acquisitionStatus": "To source — canker-resistant stock only; do not purchase without confirmed provenance"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juglans_cinerea",
+    "inaturalist": "https://www.inaturalist.org/taxa/54792-Juglans-cinerea",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a874"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — J. cinerea is native throughout Pennsylvania and was formerly widespread across the state on rich slopes, bottomlands, and limestone-derived soils; now critically threatened in PA due to butternut canker; planting a healthy, canker-resistant butternut in PA is a direct conservation contribution",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania; the species is a conservation concern, not a spread concern",
+      "drainage": "The compacted red clay at the Hegins site is workable for butternut if sited on a slope or slightly elevated ground where drainage is adequate; do not plant in low spots where water pools after rain; a 6\" wood chip mulch ring extending to the drip line will improve soil structure over time; the deep taproot will eventually penetrate the clay, but establishment years benefit from loosened soil in the top 18\"; raised beds are not relevant — this is a canopy tree that goes in the ground",
+      "soil": "The red clay at Hegins is acceptable for butternut — the species tolerates clay-loam naturally; amend with compost at planting to improve the immediate root zone, and maintain deep wood chip mulch to build organic matter in the topsoil over time; the limestone-derived subsoil chemistry in much of central PA is actually favorable for this species",
+      "cultivarNotes": "Contact Penn State Extension or the PA DCNR Bureau of Forestry for regionally appropriate canker-resistant sources; PA is in the heart of the canker crisis zone, so provenance is not optional; 'Chamberlin' and 'Kenworthy' are both well-suited to the PA climate; source from mid-Atlantic or central Appalachian survivor lines for best local adaptation.",
+      "designPlacement": "Place at the far perimeter of the food forest, well away from the planned apple pair and any blueberry plantings; the juglone radius (40-50') must not overlap juglone-sensitive guilds; the pawpaw pair is the natural neighbor; site on a slight slope or elevated ground to ensure adequate drainage in the clay soil; protect with tree tubes for the first 3-5 years against deer browse from the east wildlife corridor; this tree does not belong in Sections A, B, or C (canopy tree, far exceeds height limits); provenance is critical — source canker-resistant stock only through Penn State Extension or PA DCNR",
+      "siteObservations": "The Hegins site's red clay is workable for butternut if sited on sloped or elevated ground — avoid the low spots where water pools after rain; deer pressure from the east wildlife corridor is a real concern for a young tree and will require tree tubes or fencing for 3-5 years; late April frosts are common in the Hegins valley and can damage emerging flowers and leaves — siting on the north-facing slope side of the property may slightly delay bloom and reduce frost risk; the compacted, construction-disturbed soil near the house is not an issue since this tree belongs in the outer food forest, not the foundation beds; every healthy butternut planted in PA from canker-resistant stock is a genuine conservation contribution given the species' catastrophic decline in the state"
+    }
+  }
+}

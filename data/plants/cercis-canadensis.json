@@ -1,0 +1,166 @@
+{
+  "id": "cercis-canadensis",
+  "name": {
+    "commonName": [
+      "Eastern Redbud"
+    ],
+    "latinName": "Cercis canadensis",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — southern Ontario south to northern Florida and west to Nebraska and Texas; native throughout much of the eastern and central US; a characteristic understory tree of eastern deciduous woodlands, woodland edges, slopes, and disturbed areas",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native — C. canadensis is native to the eastern and central US, ranging from New Jersey and southern Pennsylvania south through the Appalachians to Florida, and west through the Midwest to Nebraska and Texas; native range overlaps with hardiness zones 4-9; broadly native across the southeastern and midwestern US; not native to the Pacific Coast states, Pacific Northwest, or northern New England"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; a well-behaved native tree with no documented escape from cultivation; widely used in landscaping across its native range and beyond without ecological concern"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "20-30'",
+    "spread": "25-35'; often wider than tall at maturity; develops a graceful, irregular, flat-topped crown",
+    "spacing": "15-20' from other trees; 8-10' from large shrubs",
+    "growthRate": "Moderate; establishes readily and begins blooming within 3-5 years of planting",
+    "timeToMaturity": "First bloom years 3-5; full flowering display by years 7-10",
+    "lifespan": "Short-lived for a tree — typically 20-30 years; not a long-rotation plant; plan for succession; begins declining around 25-30 years but produces abundantly throughout its life",
+    "deciduousEvergreen": "Deciduous — large, heart-shaped medium-green leaves through summer; good yellow fall color; foliage is attractive and distinctive through the growing season",
+    "winterInterest": "Low — bare in winter; the branching structure is interesting but not ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates significant shade as befits its understory origins; best flowering in full sun or bright dappled light; in deep shade, flowering is reduced but the plant remains healthy and ornamental; well-suited to the edge of a food forest canopy where it receives morning sun and afternoon dapple",
+    "water": "Low to medium; drought tolerant once established; native to well-drained slopes and edges; does not want wet feet; tolerates the occasional dry period without stress once roots are established",
+    "drainagePreference": {
+      "description": "Well-drained; will not thrive in consistently wet or waterlogged conditions; raised beds or sloped sites ideal in heavy clay",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates average clay-loam; performs well in typical heavy clay soils of the eastern US if drainage is not severely impeded; the deep taproot helps it penetrate compacted layers over time; avoid low spots or sites where water pools after rain"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 7.5,
+      "description": "4.5-7.5; broadly adaptable"
+    },
+    "texturePreference": "Adaptable; prefers well-drained loam or clay-loam with good organic matter; performs in average disturbed soils — this is a pioneer and edge species that handles difficult conditions",
+    "rootCharacter": "Deep taproot with lateral spreading roots; nitrogen-fixing root nodules (Rhizobium symbiosis); moderately deep; does not sucker aggressively; non-invasive"
+  },
+  "bloom": {
+    "bloomTime": "Early to mid-spring, before leaves emerge; timing varies by zone — Zone 6 typically mid-April, Zone 7-8 late March to early April, Zone 4-5 late April to early May; flowers emerge on bare wood",
+    "bloomDescription": "Dense clusters of tiny pea-like magenta-pink flowers, 0.5\" wide, emerging directly from bare branches, twigs, and even old trunk wood (cauliflorous flowering habit — the flowers erupt from any woody surface, including main limbs and trunk). The effect in full bloom is extraordinary: the entire tree appears coated in vivid rose-pink before a single leaf has opened. One of the most striking ornamental displays of any eastern native plant. Flowers are edible — mildly sweet with a slight floral-acidic note; excellent raw in salads, folded into pancake batter, or used as a garnish",
+    "fragrance": "Minimal; flowers are not strongly scented",
+    "flowerSex": "Hermaphrodite — flowers are bisexual",
+    "pollination": "Self-fertile; pollinated primarily by native bees and long-tongued bumblebees; an important early-season pollen and nectar source before most trees have leafed out"
+  },
+  "yield": {
+    "edibleParts": "Flowers (the primary edible yield — harvest fresh when fully open in spring; eat raw in salads, pancakes, fritters, or as a garnish; mildly sweet with a pleasant floral-acidic flavor; one of the few native trees with genuinely useful and delicious edible flowers); young seed pods (edible when very young and tender in late spring, similar in use to snow peas; less commonly harvested but documented and worth experimenting with; harvest before the pods toughen and the seeds develop)",
+    "harvestSeason": "Flowers early to mid-spring (zone-dependent); young pods late spring to early summer",
+    "medicinalUses": "Inner bark used historically by Native Americans for fever treatment and as an astringent; not a primary medicinal plant in current use; the nitrogen-fixing root system is the more significant ecosystem service",
+    "craftOtherYield": "The wood has attractive streaky reddish-brown grain; used historically for decorative woodworking; not a significant craft yield at the scale of a garden tree"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; flowers and young pods are edible; no documented toxicity",
+    "toxicityAnimals": "Leaves and bark reported as potentially mildly toxic to horses in very large quantities; not a realistic concern in a garden setting; no documented issues with dogs or cats",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Understory tree (canopy edge / shrub layer boundary); fits the understory / tall shrub layer of a food forest design; can function as a small canopy tree in a multi-layer edge guild"
+    },
+    "roles": [
+      "Nitrogen Fixation (root nodules fix atmospheric nitrogen — a rare trait in an ornamental native tree; feeds adjacent plants through root exudates and leaf litter decomposition)",
+      "Food (edible flowers — genuine yield, not token; edible young pods — secondary)",
+      "Insect Attractor (critical early-season pollinator support)",
+      "Wildlife Support (see below)",
+      "Beauty (one of the most spectacular spring-flowering native trees in eastern NA — high aesthetic value in the food forest)",
+      "Native Plant Contribution",
+      "Canopy Edge Structure"
+    ],
+    "companionPlants": [
+      "Asimina triloba (pawpaw — the classic native understory pairing; redbud fixes nitrogen that benefits the pawpaw; both bloom in spring and share understory ecology)",
+      "Lindera benzoin (spicebush — a natural understory trio with redbud in eastern woodland ecology)",
+      "Cephalanthus occidentalis (buttonbush — moisture-tolerant edge companion)",
+      "Aquilegia canadensis (wild columbine — blooms at the same time, same pollinator guild)",
+      "native ferns as groundcover",
+      "Asarum canadense (wild ginger)"
+    ],
+    "antagonists": [
+      "None documented; broadly compatible"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Native bees and bumblebees (critical early spring nectar and pollen — the early bloom when almost nothing else is flowering makes redbud an outsized contributor to the early-season pollinator food web); early emerging butterflies (eastern tiger swallowtail and others visit the flowers); birds (the seeds are eaten by bobwhite quail, songbirds, and small mammals)",
+    "hostPlantFor": "Henry's Elfin butterfly (Callophrys henrici) — Eastern Redbud is the primary larval host plant for this small, handsome native butterfly; Henry's Elfin is a spring-flying species whose caterpillars feed specifically on redbud flowers and developing pods; planting redbud is one of the most direct ways to support this species in the eastern US",
+    "nestingHabitat": "Moderate — the branching structure provides some nest sites for small birds; not as dense as a multi-stemmed shrub but contributes to habitat structure at the woodland edge"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse young saplings and occasionally feed on flowers; protect newly planted trees with a simple wire cage for the first 2-3 years until the trunk hardens and the tree grows above easy browse height; established trees are generally not heavily damaged"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt; do not plant near heavily salted roads or driveways; the species' natural habitat is well away from salt sources"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established; native to dry rocky slopes and woodland edges; handles summer drought with minimal stress after the first 2-3 establishment years; drought tolerance increases significantly once the taproot is established"
+    },
+    "other": "Tolerates part shade well (understory-adapted); tolerates clay-loam soils; susceptible to a few canker diseases (Botryosphaeria canker, Verticillium wilt) — these are the primary causes of early decline; good air circulation reduces disease pressure; avoid wounding the trunk; zone 4-9 hardy"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; some deer protection needed at planting",
+    "pruningNotes": "Minimal pruning required. Remove dead, crossing, or rubbing branches in late winter before bloom. Do not prune in late summer or fall — redbud sets flower buds on old wood and heavy fall pruning removes the following spring's display. Raise the canopy by removing lower branches if an upright tree form is desired; or leave lower branches for a more spreading, multi-stemmed form at the food forest edge. Cankers or dieback should be pruned out promptly to prevent spread; sterilize pruning tools between cuts when dealing with canker.",
+    "propagationMethods": [
+      "Seed (soak in hot water for 24 hours then cold stratify 60-90 days; germinates readily after scarification; fast-growing seedlings; this is the most reliable method for the straight species)",
+      "softwood cuttings (summer — moderate success)",
+      "hardwood cuttings (less reliable than seed)",
+      "grafting (used commercially for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "The straight species is excellent for ecological planting and food forest use — it will be the most vigorous and longest-lived option, and is the best choice wherever native provenance matters. Named cultivars offer specific design advantages across the lower 48:\n'Ace of Hearts' — compact form, 10-12' tall and wide; ideal for smaller gardens or constrained spaces in any zone within 4-9; retains full ornamental and ecological value of the species; reliable across the entire hardiness range.\n'Forest Pansy' — striking deep burgundy-red heart-shaped leaves through summer; outstanding ornamental effect in any zone; note that foliage color fades to greenish-bronze in midsummer heat — more pronounced in hotter climates (Zones 7-9); perform best where summer highs are moderate; worth using in a prominent visible spot where foliage color is the design goal.\n'Alba' — white flowers; beautiful and distinctive but loses the characteristic hot-pink spring impact; less common in the trade; available across the hardiness range.\n'Appalachian Red' — deeper magenta-red flowers than the species; recommended wherever maximum color intensity is the goal; available and reliable through Zones 5-9.\n'Rising Sun' — foliage emerges apricot-orange in spring, transitions through yellow-gold to green; primarily ornamental; performs across Zones 5-9; more widely available in the southern US trade.\nFor food forest and pollinator value, the straight species or 'Appalachian Red' are the top recommendations across the lower 48. 'Ace of Hearts' is the best choice where space is constrained.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory/edge tree",
+      "native woodland garden",
+      "pollinator garden anchor",
+      "specimen tree for spring bloom display",
+      "nitrogen-fixing guild member"
+    ],
+    "designPlacement": "Understory or canopy edge of a food forest; redbud is one of the highest-value additions to any food forest edge in the eastern and central US — it fixes nitrogen, blooms before almost anything else (critical pollinator support when little else is available), produces edible flowers, and hosts Henry's Elfin butterfly. The natural pairing is with pawpaw — plant redbud at the sunnier edge of a pawpaw guild where it receives direct light. Its early bloom overlaps with pawpaw's bloom period, supporting the same early pollinator community. The nitrogen-fixing root system directly benefits adjacent pawpaw, spicebush, and other guild members. A single tree makes a spectacular focal point; two or three along a woodland edge create a breathtaking spring display. Plant in a spot visible from a key viewpoint — this is the tree that will stop visitors in their tracks in early spring.",
+    "acquisitionStatus": "To source (native plant nursery; straight species or 'Appalachian Red' preferred for food forest use; 'Ace of Hearts' if space is constrained; seek PA or mid-Atlantic provenance where available)\nPennsylvania — Hegins Site Observations:\n- Zone 6a, humid continental climate; bloom expected mid-April, ahead of leaf emergence; one of the first trees to flower in the spring sequence\n- Red clay soil at Hegins is within tolerance; site on a grade or the upper edge of the planting area to avoid drainage problems; amend planting hole with compost\n- Active deer pressure from the east wildlife corridor — wire cage protection mandatory for the first 2-3 years; redbud saplings are a known browse target\n- Eastern Redbud is native to Pennsylvania and commonly found in the southern and western parts of the state; native provenance plants from a PA or mid-Atlantic nursery are preferred for maximum ecological fit\n- Henry's Elfin butterfly (Callophrys henrici) should be present in the region and may colonize once redbud is established; this is a meaningful conservation contribution at the Hegins site\n- The April bloom is one of the most spectacular spring events in the eastern US garden; position the tree where it can be seen from inside the house or from the primary garden path for maximum enjoyment"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cercis_canadensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/48502-Cercis-canadensis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h550"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. canadensis is native to Pennsylvania; commonly found as an understory tree on rocky wooded slopes, woodland edges, and stream margins throughout the state; most common in the southern and western parts of the state; one of the most recognizable native small trees of the eastern US",
+      "paInvasiveStatus": "Not listed — not on the Pennsylvania Invasive Species List; no restrictions on planting",
+      "drainage": "Clay soils as at Hegins are workable — plant on a slight grade or in a raised area to ensure adequate drainage; the native red clay of central PA is within tolerance; amend planting hole with compost but do not create a \"bathtub\" effect in dense clay",
+      "soil": "Central PA red clay is manageable for redbud; plant in native soil with compost amendment; avoid pure clay fill or severely compacted subsoil at the planting site; organic mulch ring (3-4\" deep, kept away from the trunk) will improve soil biology and moisture retention through establishment",
+      "cultivarNotes": "The straight species, 'Appalachian Red', and 'Ace of Hearts' are all fully reliable at Hegins. 'Forest Pansy' will perform but expect summer foliage fade in warmer years. Source from a PA or mid-Atlantic native plant nursery where possible to ensure regional provenance.",
+      "designPlacement": "Site at the sunnier edge of the food forest, ideally where it is visible from the main garden path or house. The pawpaw guild edge is the natural location — redbud and pawpaw are a classic eastern woodland pairing. Deer wire cage required for the first 2-3 years given active pressure from the east wildlife corridor. Avoid the lowest, wettest spots given the clay drainage issues. A position on a slight grade or the upper edge of the pawpaw area will serve both the plant's drainage needs and the design goal of visibility during its April bloom.",
+      "siteObservations": null
+    }
+  }
+}

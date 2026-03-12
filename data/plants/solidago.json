@@ -1,0 +1,165 @@
+{
+  "id": "solidago",
+  "name": {
+    "commonName": [
+      "Goldenrod"
+    ],
+    "latinName": "Solidago spp.",
+    "family": "Asteraceae"
+  },
+  "range": {
+    "nativeRange": "Primarily North America; ~100 species across meadows, prairies, savannas, roadsides, and forest edges; center of diversity in eastern North America",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout most of the contiguous US; the genus is overwhelmingly North American in origin. S. canadensis, S. rugosa, S. odora, S. speciosa, and S. caesia are all native to the eastern US from Maine to Florida and west to the Great Plains. Several western species (S. californica, S. velutina) extend the genus into the Pacific states and Southwest. Solidago is present in every US state as either native species or naturalized garden escapes."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 US — this is a native genus throughout its range. S. canadensis can be aggressively rhizomatous and dominate disturbed ground within garden settings, but this is vigorous native behavior, not invasiveness. Outside North America, S. canadensis and S. gigantea have become seriously invasive in Europe, Asia, and parts of South America where they lack natural controls."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 (species-dependent; most common garden species are hardy across this full range)"
+    }
+  },
+  "description": {
+    "height": "2-6' depending on species — S. rugosa 'Fireworks' 3-3.5'; S. odora 2-4'; S. canadensis 3-6'",
+    "spread": "2-4'; S. canadensis spreads aggressively by rhizome and can colonize widely if not managed",
+    "spacing": "24-36\" for well-behaved species; allow more room for S. canadensis in a meadow context",
+    "growthRate": "Fast — can reach full height in the first or second season",
+    "timeToMaturity": "Blooms from first or second year; ecologically productive immediately",
+    "lifespan": "Long-lived; forms persistent colonies; indefinitely self-sustaining in favorable sites",
+    "deciduousEvergreen": "Herbaceous — dies back completely in winter; seedheads persist",
+    "winterInterest": "Moderate — tawny seedheads persist through winter and provide critical bird food; upright stems carry structure in the dormant garden; leave standing until early spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; tolerates part shade but bloom density decreases; S. caesia and S. flexicaulis are shade-tolerant alternatives within the genus",
+    "water": "Medium; tolerates both dry and moderately moist conditions once established; S. rugosa tolerates wet sites better than most species",
+    "drainagePreference": {
+      "description": "Adaptable — most species tolerate average to slightly poor drainage; performs well in a range from moderately dry to moderately wet conditions. Poor drainage alone does not kill goldenrod, but prolonged standing water will thin colonies over time. S. rugosa is the most flood-tolerant common species.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent. Goldenrod evolved on disturbed, compacted, and marginal ground across eastern North America — heavy clay is well within its tolerance range. S. canadensis and S. rugosa handle unamended clay readily; S. odora prefers slightly better-drained clay but still performs well. No amendments are required for most species. Excess fertility in clay (over-amended beds) encourages floppy, weak-stemmed growth in S. canadensis."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Highly adaptable; tolerates clay, loam, sandy, and poor soils. Evolved on disturbed and edge habitats — thrives where other plants struggle. Does not require amended or fertile soil; excess fertility encourages rank, floppy growth in rhizomatous species.",
+    "rootCharacter": "S. canadensis spreads by vigorous underground rhizomes — the primary mechanism of its aggressive spread; S. rugosa 'Fireworks' is clump-forming and far better behaved; S. odora is clump-forming with a woody base; fibrous roots throughout"
+  },
+  "bloom": {
+    "bloomTime": "August through October (species-dependent; S. rugosa 'Fireworks' peaks September-October — among the latest-blooming)",
+    "bloomDescription": "Dense, arching or plume-like panicles of small, bright golden-yellow composite flowers; S. rugosa 'Fireworks' produces spectacular arching wands of bloom that radiate outward like a fireworks burst; S. odora bears narrower, one-sided plumes; all species produce the characteristic rich golden-yellow that defines the genus",
+    "fragrance": "S. odora (Sweet Goldenrod) has distinctly anise-scented foliage and flowers — one of the most pleasant fragrances among native perennials; other species have mild grassy scent",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated — pollen is heavy, sticky, and carried exclusively by insects (primarily bees); NOT windborne; goldenrod does not cause hay fever (see Cautions); self-fertile; attracts an exceptional diversity of pollinators"
+  },
+  "yield": {
+    "edibleParts": "S. odora — leaves and flowers used fresh or dried for an excellent anise-flavored tea; flowers of all species are edible and can be used as a garnish or steeped for tea; young leaves of S. canadensis used historically as a cooked green",
+    "harvestSeason": "Flowers August-October; leaves of S. odora best harvested before full bloom when fragrance is strongest",
+    "medicinalUses": "Solidago has a well-documented history in both Indigenous and European herbal traditions. Primary uses: urinary tract support (diuretic, anti-inflammatory — used for cystitis, urinary infections, and kidney stone prevention), wound healing (topical poultice), and respiratory support. S. virgaurea is the primary species in European clinical herbal medicine with the strongest research backing; North American species (S. canadensis, S. odora, S. rugosa) share closely related phytochemistry (saponins, flavonoids, phenolic acids) and are used interchangeably in traditional North American practice. Haudenosaunee (Iroquois) and Cherokee use is extensive — recorded uses include fever reduction, respiratory infection, wounds, and kidney complaints. Standard preparation: standard infusion of dried aerial parts (leaves and flowers); tincture in 40-60% alcohol.",
+    "craftOtherYield": "Natural dye (flowers yield a warm golden-yellow to greenish-gold depending on mordant); dried stems and seedheads in arrangements; Thomas Edison famously investigated goldenrod as a domestic rubber source — the plants naturally contain latex"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal; as with any diuretic herb, use with caution if on pharmaceutical diuretics or with known kidney disease; S. odora is in the safest category of culinary herbs",
+    "toxicityAnimals": "Generally considered safe; no significant toxicity reported",
+    "allelopathy": "S. canadensis is documented to produce allelopathic compounds that suppress germination and growth of competing plants — a key mechanism of its meadow-dominance strategy; factor this in when planting near desirable companions in a garden setting\nMYTH — Goldenrod and Hay Fever: Goldenrod is almost universally and incorrectly blamed for hay fever. It is not the cause. Goldenrod pollen is heavy, sticky, and insect-carried — it does not become airborne. The actual culprit is ragweed (Ambrosia spp.), which blooms at exactly the same time, produces enormous quantities of windborne pollen, and is far less visible than the showy goldenrod growing nearby. Goldenrod is completely safe for allergy sufferers to grow, handle, and use as a cut flower. This persistent misconception has unfairly suppressed one of the most ecologically important native plants in eastern North America.",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Wildflower"
+    },
+    "roles": [
+      "Insect Attractor (exceptional — one of the highest-value pollinator plants in North America)",
+      "Wildlife Food (seeds, nectar, pollen)",
+      "Native Plant / Ecosystem Support (keystone genus)",
+      "Medicinal",
+      "Edible (S. odora primarily)",
+      "Groundcover / Erosion Control (S. canadensis in appropriate meadow settings)",
+      "Habitat Structure"
+    ],
+    "companionPlants": [
+      "Aster (Symphyotrichum) spp. — the classic and ecologically essential pairing; late asters and goldenrod together provide the complete fall pollinator resource base; also companions with native grasses (Schizachyrium, Panicum)",
+      "Echinacea purpurea",
+      "rudbeckia",
+      "ironweed (Vernonia)",
+      "Joe-Pye weed (Eutrochium)"
+    ],
+    "antagonists": [
+      "S. canadensis can outcompete smaller",
+      "less vigorous plants through both rhizome spread and allelopathy — keep away from choice small perennials; not suitable as a companion in a tightly managed border unless the more restrained cultivars are used"
+    ],
+    "coppiceable": "Cut back to ground in early spring before new growth; can cut back by one-third in June (Chelsea chop) to reduce final height and delay bloom slightly; leave seedheads standing through winter"
+  },
+  "wildlife": {
+    "attracts": "Over 100 species of native bees rely on goldenrod for late-season nectar and pollen — it is one of the single most important late-season resources in eastern North American pollinator ecology; migrating monarch butterflies use goldenrod as a primary fuel source; swallowtails, fritillaries, skippers; goldfinches, chickadees, and sparrows harvest the seeds through winter; the bloom window (August-October) fills a critical gap when nearly all other major nectar sources have finished",
+    "hostPlantFor": "115 species of Lepidoptera (butterfly and moth) larvae — one of the highest host plant ratings of any native perennial genus; notable hosts include the gold moth (Basilodes pepita), several specialist Eupithecia moths, and the goldenrod gall fly (Eurosta solidaginis) whose galls in turn feed downy woodpeckers in winter; numerous native bee species including specialist pollen bees (Andrena, Colletes) that depend on Solidago pollen as their sole or primary resource",
+    "nestingHabitat": "Pithy and hollow stems provide essential overwintering habitat for native cavity-nesting solitary bees and beneficial wasps; leave stems standing at 12-18\" through winter and cut in late April to allow emergence; the goldenrod gall fly larva overwinters inside stem galls — woodpeckers probe these galls in winter, making goldenrod a multi-season food source"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — occasionally browsed but rarely heavily targeted; established colonies recover readily. The coarse, somewhat bitter foliage is not among preferred browse plants for white-tailed deer. Young transplants may need temporary protection (cage or netting) in areas with heavy deer pressure until established; once growing vigorously, goldenrod recovers quickly from browsing and is not significantly set back."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure and recovers. S. sempervirens (Seaside Goldenrod) has exceptional salt tolerance — the best choice for coastal gardens, roadsides with heavy winter salting, or any site with salt spray exposure."
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — evolved on disturbed, often dry ground; deep fibrous root systems sustain plants through dry spells. S. odora is particularly drought-tolerant. Newly planted divisions need regular water for the first season only."
+    },
+    "other": "Excellent clay and compaction tolerance; tolerates poor fertility (does not need amended soil — excess fertility encourages floppiness in S. canadensis); tolerates periodic flooding (S. rugosa especially); very heat tolerant through Zone 9; handles wind exposure without staking in most species; no significant disease or pest problems"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low (S. rugosa 'Fireworks', S. odora) to Medium (S. canadensis — requires boundary management)",
+    "pruningNotes": "Cut back to ground in early spring before new growth emerges. Leave seedheads standing all winter for wildlife value — this is strongly preferable to fall cutback. For S. canadensis: divide or pull rhizome runners annually in spring to maintain boundaries; this is non-negotiable in a garden setting. For S. rugosa 'Fireworks': divide clumps every 3-4 years in spring to maintain vigor; minimal other attention needed. Chelsea chop (cut back by one-third in early June) reduces final height and delays bloom by 2-3 weeks if desired — useful for S. canadensis to reduce flopping.",
+    "propagationMethods": [
+      "Division (spring — the easiest and most reliable method; clumps divide readily); seed (direct sow in fall for spring germination, or cold-stratify 60-90 days for indoor sowing; species vary in germination rate); S. canadensis also propagates freely from rhizome sections — almost too freely"
+    ]
+  },
+  "cultivarNotes": "The species choice matters enormously with Solidago. S. canadensis is the plant most people picture when they think \"goldenrod\" — it is ecologically superb but genuinely aggressive in a garden setting, spreading by rhizome to fill large areas. Reserve it for meadow, naturalized edge, or large-scale planting where spread is welcome. This applies across all zones.\nFor garden use in Zones 4-8, S. rugosa 'Fireworks' is the gold standard — native to the eastern US, clump-forming rather than rhizomatous, spectacular arching bloom panicles that give the cultivar its name, 3-3.5' tall, outstanding fall interest. This is the goldenrod to plant first in any managed garden. Performs reliably from Zone 4 through Zone 8; in Zone 9+ heat, provide afternoon shade or use S. odora instead.\nS. odora (Sweet Goldenrod) is the choice when fragrance and edibility matter — anise-scented foliage and flowers, excellent as a tea herb, attractive but less showy than 'Fireworks'; clump-forming; 2-4' tall. Native range extends from Zone 5 through Zone 9; best in the eastern half of the US. Particularly valuable for southern gardens (Zone 7-9) where its heat and drought tolerance shine.\nS. speciosa (Showy Goldenrod) is another well-behaved native species — upright, less rhizomatous, outstanding red fall foliage color; excellent for the naturalistic border. Hardy Zones 3-8.\nS. caesia (Bluestem Goldenrod) is the shade-tolerant species — the only one that performs well in part to dappled shade; 2-3'; native throughout the eastern US; excellent for woodland edge in any zone within its range (4-8).\nFor northern gardeners (Zones 3-5), all of the above are fully hardy; S. speciosa and 'Fireworks' are particularly reliable. For southern gardeners (Zones 8-9), S. odora and S. sempervirens handle heat best. Avoid unnamed nursery stock labeled only \"Solidago\" anywhere — species identity matters for behavior. Buy named species or cultivars from reputable native plant nurseries.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Meadow garden",
+      "wildflower border",
+      "food forest edge",
+      "wildlife garden",
+      "naturalized area",
+      "medicinal/herb garden (S. odora)",
+      "pollinator garden anchor"
+    ],
+    "designPlacement": "Fall pollinator anchor — even one or two clumps of goldenrod provide more late-season pollinator value than most other plants combined. Place in full sun for maximum bloom; site where the golden-yellow August-October display is visible and appreciated. Pair with late-blooming asters (Symphyotrichum) for the definitive native fall planting combination. S. canadensis belongs in large-scale naturalized areas where rhizome spread is welcome — meadow edges, back boundaries, erosion slopes. S. rugosa 'Fireworks' and S. odora are appropriate for managed borders and herb gardens. S. caesia is the woodland edge and shade garden species. Keep rhizomatous species away from small, choice perennials.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Solidago",
+    "inaturalist": "https://www.inaturalist.org/taxa/67808-Solidago-canadensis (S. canadensis — most common PA species)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m400 (S. rugosa 'Fireworks')"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — multiple Solidago species are native to Pennsylvania; S. canadensis is ubiquitous in meadows, roadsides, and old fields throughout the state; S. rugosa and S. odora are likewise PA natives; S. caesia is native to PA woodlands",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania. No Solidago species appear on PA noxious weed or DCNR invasive lists. S. canadensis is aggressive but native — its spread is natural meadow behavior, not an invasive concern.",
+      "drainage": "Hegins red clay is no obstacle for any Solidago species. Plant directly in unamended ground — goldenrod is one of the easiest native perennials to establish in heavy clay. S. rugosa 'Fireworks' and S. odora will both perform well in the compacted clay foundation beds without raised beds or amendment. If anything, lean soil keeps growth more compact and upright.",
+      "soil": "Hegins red clay is ideal goldenrod habitat — no amendment needed. The low fertility and heavy texture actually favor compact, sturdy growth. Plant directly into existing soil.",
+      "cultivarNotes": "S. rugosa 'Fireworks' is the top recommendation — native to PA, fully hardy, clump-forming, spectacular fall bloom. S. odora is the second choice for fragrance and culinary use. Both are available from PA native plant nurseries (Redbud Native Plant Nursery, Ernst Conservation Seeds, Edge of the Woods).",
+      "designPlacement": "S. rugosa 'Fireworks' or S. odora suit the herb/wildflower layer at food forest edges or in the wildflower strip. S. canadensis is best reserved for any naturalized back boundary or meadow area where spread is acceptable. Keep out of tight Section A or C border planting unless 'Fireworks' is used and monitored. Section B (kitchen-adjacent) is a strong candidate for S. odora — the anise fragrance near the kitchen, harvestable for tea, and manageable size are all appropriate to that zone.",
+      "siteObservations": "Deer pressure from the east corridor is not a significant concern for goldenrod — it is not a preferred browse plant and recovers readily if nibbled. The compacted red clay soil is a non-issue; goldenrod thrives in exactly this kind of disturbed, heavy ground without amendment. S. canadensis is almost certainly already present on or near the property edges given its ubiquity in Hegins-area roadsides and old fields."
+    }
+  }
+}

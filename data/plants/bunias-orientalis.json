@@ -1,0 +1,158 @@
+{
+  "id": "bunias-orientalis",
+  "name": {
+    "commonName": [
+      "Turkish Rocket",
+      "Hill Mustard",
+      "Warty Cabbage"
+    ],
+    "latinName": "Bunias orientalis",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Middle East, Turkey, and central Asia; widely naturalized across temperate Europe and eastern North America",
+    "usNativeStatus": {
+      "native": null,
+      "description": "Non-native (Eurasian origin); naturalized in disturbed areas across the northeastern and north-central US, with documented occurrences in New England, the Mid-Atlantic states, the Great Lakes region, and scattered locations in the Upper Midwest. Occurrences are most concentrated in the Northeast. Documented in the Invasive Plant Atlas of the United States."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed on the federal noxious weed list. Not formally regulated in most US states. Bunias orientalis has documented invasive potential in the northeastern and north-central US — it colonizes disturbed ground, roadsides, field margins, and waste areas readily through prolific self-seeding. Its deep taproot makes established plants very difficult to eradicate. In regions where it has naturalized (particularly New England, the Mid-Atlantic, and the Great Lakes), it can form persistent colonies in disturbed habitats and may displace native vegetation over time. Gardeners in these regions should prevent unwanted seed spread by deadheading before pod maturity. It is not known to invade intact native plant communities and is not considered a high-priority invasive in most of its US range. In drier, colder, or hotter regions of the lower 48 (Great Plains, the South, the arid West) it is unlikely to naturalize significantly outside of cultivation.\nPennsylvania:\nNative to Site: No; introduced from Eurasia; naturalized in disturbed areas across eastern North America including Pennsylvania.\nPA Invasive Status: Not listed by the Pennsylvania Department of Agriculture as a noxious weed. Not on the Pennsylvania DCNR invasive plant list. Self-seeds readily in disturbed ground — monitor flower heads and remove before seed set if spread beyond the intended planting area is a concern. Manageable with attentiveness; not considered a high-risk invasive in PA garden settings."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "5-8"
+    }
+  },
+  "description": {
+    "height": "3-5' in bloom; basal rosette foliage 18-24\"",
+    "spread": "24-36\" per established plant; spreads by self-seeding, not by runners",
+    "spacing": "24-36\"",
+    "growthRate": "Fast once established; slow to establish in year one as the taproot develops",
+    "timeToMaturity": "Modest harvest possible year one; full productive output by year 2-3 when the taproot is deep and the plant reaches full vigor",
+    "lifespan": "Essentially permanent — the very deep taproot persists indefinitely; once established, Turkish Rocket is not going anywhere; this permanence is the central permaculture virtue of this plant",
+    "deciduousEvergreen": "Deciduous — dies back completely in hard frost; one of the earliest plants to emerge and be harvestable in spring",
+    "winterInterest": "None — dies back to the ground"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive in full sun; tolerates half-day shade without major loss of productivity",
+    "water": "Low to medium; very drought tolerant once the taproot is established; no supplemental irrigation needed after the first season in most temperate conditions",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates poor drainage and clay soils well; the deep taproot can penetrate compacted and clay-heavy ground — well suited to difficult spots",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Performs well in clay — the taproot penetrates heavy clay over time and actually improves drainage and structure through root channels and organic matter from leaf fall. One of the more clay-tolerant productive perennials available. Does not require raised beds or amendment to thrive; merely tolerates better soil if it is available."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5"
+    },
+    "texturePreference": "Highly adaptable; performs well in poor, disturbed, rocky, and clay soils; does not require fertile conditions and may actually be less vigorous in highly amended beds (like comfrey)",
+    "rootCharacter": "Very deep taproot — the central permaculture feature of this plant; the taproot mines deep soil nutrients and makes them available through leaf fall and chop-and-drop; also confers exceptional drought tolerance and frost hardiness; root makes established plants essentially impossible to eradicate — place intentionally"
+  },
+  "bloom": {
+    "bloomTime": "April-June; one of the earliest brassicas to bloom in spring",
+    "bloomDescription": "Small, bright yellow four-petaled flowers in dense raceme clusters held above the foliage; cheerful and prolific; characteristic Brassicaceae flower form; flowers are followed by small warty seed pods (the source of the \"warty cabbage\" common name)",
+    "fragrance": "Mild; slightly pungent brassica scent",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; generalist pollinators — bees, hoverflies, small butterflies; an early spring nectar and pollen source when few other plants are blooming"
+  },
+  "yield": {
+    "edibleParts": "Young leaves (primary harvest — mild, slightly mustardy brassica flavor when young; best raw in salads or lightly cooked as greens), flower buds (harvested in tight bud like broccoli raab — excellent lightly sautéed or steamed; one of the very first spring vegetables available), flowers (edible, mild mustard flavor, good as garnish or salad addition), seeds (edible, mustard-like flavor, can be used as a condiment or ground as a mustard substitute). Flavor intensifies and becomes more bitter/pungent as the plant matures and in summer heat — harvest young and harvest early.",
+    "harvestSeason": "Young leaves from first emergence in early spring through late spring before heat and flowering; flower buds before they open; flowers as they open through bloom period. A second flush of young leaves may emerge after summer dormancy in early fall. In Zone 6a, first emergence is typically March-April; adjust expectations by roughly 2 weeks earlier per zone warmer, 2 weeks later per zone cooler.",
+    "medicinalUses": "None documented; this is a food plant, not a medicinal herb",
+    "craftOtherYield": "Chop-and-drop biomass for mulch and compost; leaves break down readily and contribute to soil nutrient cycling; liquid fertilizer potential (same principle as comfrey — steep leaves in water)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; all parts are edible; flavor of mature leaves is strong and pungent but not toxic",
+    "toxicityAnimals": "No documented toxicity; brassica family plants can cause digestive upset in livestock if consumed in very large quantities, but not a meaningful concern at garden scale",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (ground layer to lower herb layer)"
+    },
+    "roles": [
+      "Dynamic Mineral Accumulator (deep taproot mines subsoil nutrients and returns them to the surface via leaf fall and chop-and-drop — the same functional role as comfrey)",
+      "Perennial Vegetable (highly productive spring green; one of the most productive perennial brassicas for temperate permaculture)",
+      "Early Spring Food (among the first edible harvests of the year, alongside Egyptian walking onions and overwintered greens)",
+      "Bee Forage (early spring nectar/pollen source)",
+      "Soil Builder",
+      "Drought-Tolerant Ground Layer"
+    ],
+    "companionPlants": [
+      "Fruit trees and large shrubs (excellent guild understory plant — dynamic accumulator role mirrors comfrey; particularly well-suited to apple, paw paw, and mulberry guilds)",
+      "comfrey (pairing Turkish Rocket with comfrey creates a highly functional nutrient-cycling ground layer; the two species occupy slightly different niches and complement each other well)",
+      "nitrogen fixers (Caragana, clover, alder — the combination of nitrogen fixation plus deep mineral accumulation covers most soil fertility needs)"
+    ],
+    "antagonists": [
+      "None specific; avoid planting with brassica crops (cabbage, kale, broccoli) in the same bed if clubroot or other brassica diseases are a concern — all Brassicaceae share disease susceptibility. Does not spread by runners but self-seeds enough to require monitoring."
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Bees (early spring pollen and nectar — valuable when little else is blooming), hoverflies, small native bees, butterflies; the early bloom period makes it a meaningful early-season pollinator resource",
+    "hostPlantFor": "Not a significant host plant for North American Lepidoptera; Pieris butterflies (cabbage whites) may use it as a host plant — a trade-off to consider near brassica crops",
+    "nestingHabitat": "Dense basal rosette provides ground-level cover for beetles and soil invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the pungent brassica chemistry is generally unappealing to deer; more deer-resistant than most leafy greens; not a primary browse target even under active deer pressure"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — the very deep taproot accesses subsoil moisture; among the most drought-tolerant perennial vegetables available for temperate gardens"
+    },
+    "other": "Tolerates poor soil, clay, compaction, and disturbed ground exceptionally well; one of the most site-tolerant productive perennials available; thrives in conditions where more refined plants struggle"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established",
+    "pruningNotes": "Remove flower heads before seed set to prevent unwanted self-seeding beyond the intended planting area — this is the primary maintenance task. Alternatively, let a few plants go to seed deliberately to maintain or expand the colony, then remove remaining heads. Cut foliage back hard in late spring when it becomes rank and tough — this can stimulate a second flush of tender young growth. Cut to the ground in late fall or leave standing; either approach is fine. Do not attempt to remove established plants by digging — the deep taproot is impractical to extract and any root fragment will regenerate; placement must be intentional from the start.",
+    "propagationMethods": [
+      "Seed (primary method — direct sow in fall for spring germination, or start indoors 6-8 weeks before last frost; cold stratification improves germination); root division (less common but possible in early spring); not widely vegetatively propagated. Seed available from Horizon Herbs",
+      "Richters Herbs",
+      "and specialty permaculture seed sources — not typically found at mainstream garden centers."
+    ]
+  },
+  "cultivarNotes": "No named cultivars exist — the straight species (Bunias orientalis) is always grown. All plants available from seed are the species. Select seed from reputable permaculture/herb seed sources to ensure correct species identification. Rated Zone 5-8, making it suitable across most of the lower 48 except the southernmost tier (Zone 9+, including southern Florida, southern Texas, southern Louisiana, and coastal southern California) and marginally cold regions of Zone 4 in the northern plains. In the warm South (Zones 7b-8), Turkish Rocket may behave more as a cool-season annual or short-lived perennial, declining in summer heat and re-establishing from seed in fall; the taproot's permanence is most expressed in Zones 5-7. In the arid West, supplemental water will be needed regardless of taproot depth.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest guild understory",
+      "fruit tree guild ground layer",
+      "perennial vegetable bed",
+      "productive edge planting",
+      "challenging or poor-soil areas where other plants underperform"
+    ],
+    "designPlacement": "Strong candidate for fruit tree guilds (apple, paw paw, mulberry, and similar) as a dynamic accumulator and spring vegetable in the ground layer — mirrors the comfrey role but adds direct food yield. At 3-5' in bloom, it suits open guilds and productivity-focused strips well. Not an ideal fit for ornamental or fragrance-focused beds where its rank summer appearance would be out of place. Where height limits under 5' apply, note that bloom stalks can reach that limit and may need trimming or siting to the back of a bed.",
+    "acquisitionStatus": "Not yet acquired; seed available from Horizon Herbs, Richters Herbs, and specialty permaculture seed sources\nPennsylvania — Hegins Site Observations:\nAn excellent functional complement to the existing comfrey on site — the two species together create a robust nutrient-cycling and early-spring-harvest ground layer beneath fruit trees. The Hegins site's red clay, compacted soil, and challenging construction-disturbed beds are exactly the conditions Turkish Rocket tolerates best. The active deer pressure at Hegins is not a significant concern for this plant given its pungent brassica chemistry. Start with a small planting to evaluate site fit before establishing a large colony — monitor for self-seeding and deadhead consistently in early years."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bunias_orientalis",
+    "inaturalist": "https://www.inaturalist.org/taxa/159601-Bunias-orientalis",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; introduced from Eurasia; naturalized in disturbed areas across eastern North America including Pennsylvania.",
+      "paInvasiveStatus": "Not listed by the Pennsylvania Department of Agriculture as a noxious weed. Not on the Pennsylvania DCNR invasive plant list. Self-seeds readily in disturbed ground — monitor flower heads and remove before seed set if spread beyond the intended planting area is a concern.",
+      "drainage": "Hegins red clay and compacted construction-disturbed soil are within this plant's comfort zone. Raised beds are not required; direct planting into clay ground is fine. Expect slower establishment in year one as the taproot works into compacted layers, with markedly stronger growth from year two onward.",
+      "soil": "Red clay and compacted, construction-disturbed ground at Hegins are squarely within this plant's native tolerance range. No amendment required. Avoid planting in richly amended raised beds where the plant may grow rank and tall without proportional increase in edible quality.",
+      "cultivarNotes": "fully within the optimal performance band — expect the full perennial taproot permanence and the longest spring harvest window.",
+      "designPlacement": "Strong candidate for the fruit tree guilds (apple pair, paw paw, mulberry) as a dynamic accumulator and spring vegetable in the ground layer. Also well-suited to Section B (garage strip, productivity-focused) where its spring harvest can be easily accessed from the kitchen and its height (3-5') is not a limiting factor. Do not place in Sections A or C without a management plan — at 3-5' in bloom it approaches the 5' height limit, and its rank summer appearance is not a good fit for the beauty-first and fragrance-focused beds.",
+      "siteObservations": null
+    }
+  }
+}

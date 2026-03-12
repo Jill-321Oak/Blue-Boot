@@ -1,0 +1,164 @@
+{
+  "id": "valerianella-locusta",
+  "name": {
+    "commonName": [
+      "Mâche",
+      "Corn Salad",
+      "Lamb's Lettuce"
+    ],
+    "latinName": "Valerianella locusta",
+    "family": "Caprifoliaceae (formerly Valerianaceae)"
+  },
+  "range": {
+    "nativeRange": "Europe, western Asia, and North Africa; widely naturalized across temperate regions worldwide; historically a common weed of grain fields (hence \"corn salad\" — \"corn\" in the old European sense of grain)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; naturalized in scattered locations across the eastern US, particularly in disturbed ground, old fields, and roadsides from New England south through the mid-Atlantic and into the upper South; occasionally reported in the Pacific Northwest; not established as a persistent wild population in most of the country"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive anywhere in the lower 48 US states; not listed on any state noxious weed list or the federal noxious weed list; plants are small, shallow-rooted, and easily managed; self-sowing is mild and generally a benefit in a food garden context; does not naturalize aggressively enough to threaten native plant communities"
+    },
+    "zone": {
+      "min": 5,
+      "max": 7,
+      "description": "Annual hardy across all zones; reliably overwinters in Zone 5–7 under snow; heat zone upper limit is roughly Zone 7–8 — bolts rapidly when temperatures exceed 65–70°F, making it impractical as a spring crop in the Deep South but excellent as a fall/winter crop anywhere; sow in fall for cold-season harvest"
+    }
+  },
+  "description": {
+    "height": "4-8\" in rosette; 12-18\" when bolting to flower",
+    "spread": "4-6\" per rosette",
+    "spacing": "4-6\" for dense ground cover; broadcast sow and thin to 4\" for a continuous carpet",
+    "growthRate": "Moderate for a cool-season annual; slow through deep winter, picks up again in late February-March",
+    "timeToMaturity": "50-70 days from sowing to first harvest; fall-sown plants begin harvest in October-November, resume in February-March after winter",
+    "lifespan": "Cool-season annual; completes its life cycle from fall sow to spring bolt in one growing season; self-seeds to perpetuate the colony",
+    "deciduousEvergreen": "Annual; the rosette remains green through winter under snow in Zones 5–7 — one of the very few greens that does so without any protection",
+    "winterInterest": "Yes — the low green rosettes remain visible and harvestable through mild winter spells and resume growth vigorously in late winter; functionally evergreen under snow cover"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates quite low light — one of the most shade-tolerant salad greens; performs well in dappled shade or under deciduous canopy in fall/early spring before leaf-out; a good choice for any north-facing bed or food forest understory gap in autumn",
+    "water": "Low to moderate; cool weather reduces water demands substantially; do not overwater — mâche prefers slightly lean, cool, and moist-but-not-saturated conditions; very drought-tolerant under snow; in humid-summer climates east of the Rockies, supplemental watering is rarely needed for fall-sown plants",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates heavier soils than most salad greens and does not require perfect drainage; standing water or prolonged saturation will rot the shallow roots, but brief wet periods are tolerated without issue",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — one of the more clay-tolerant salad greens; the shallow root system avoids the deep compaction zone that kills deeper-rooted crops in heavy clay; performs acceptably in unamended clay provided drainage is not severely impeded; in heavy clay with poor drainage, a light top-dressing of compost or leaf mold improves germination and early growth without deep amendment"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; tolerates slightly alkaline soils"
+    },
+    "texturePreference": "Adaptable; performs in average to heavy soils; does not require rich, amended soil — performs well in lean conditions; ideal is a moderately fertile loam, but clay, sandy loam, and silty soils all work",
+    "rootCharacter": "Shallow fibrous taproot; does not disturb companion plants; extremely easy to direct sow and harvest without soil disruption"
+  },
+  "bloom": {
+    "bloomTime": "Spring — April-May in Zone 6–7; earlier in Zone 8+; bolting triggered by warming temperatures and lengthening days",
+    "bloomDescription": "Tiny, pale lavender-blue to white flowers in small rounded clusters (corymbs); individually insignificant but collectively delicate and attractive; the whole bolting plant has a light, airy quality before it dies back",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; small flowers attract small native bees, hoverflies, and beneficial insects when in bloom; pollinator value modest but present during the lean early-spring period"
+  },
+  "yield": {
+    "edibleParts": "Leaves (the entire rosette — young leaves are the primary harvest; tender, mild, slightly nutty flavor; often described as milder and more delicate than spinach; one of the most prized winter salad greens in European cuisine, particularly French); seeds (edible but not typically harvested for food)",
+    "harvestSeason": "October-November (fall); February-April (late winter through spring, as growth resumes); harvest outer leaves continuously or cut the whole rosette at the base; best before the plant bolts in warming weather; in Zone 6–7, the harvest window is October-November and again February-April — two seasons per sowing; in Zone 8+, harvest extends through most of winter without dormancy",
+    "medicinalUses": "Historically used as a mild tonic green in European herbal traditions; high in vitamin C (historically valued as an anti-scurvy winter green), vitamin B6, iron, and omega-3 fatty acids relative to its size; not a primary medicinal herb but nutritionally exceptional for a winter salad green",
+    "craftOtherYield": "None significant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; widely eaten as a salad green across Europe for centuries; one of the safest edible plants available",
+    "toxicityAnimals": "Non-toxic; safe for chickens, rabbits, and most livestock — often grown as supplemental poultry forage",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (annual ground cover)"
+    },
+    "roles": [
+      "Food (high-quality winter salad green — fills the hungry gap from October through April when almost no other greens are available outdoors)",
+      "Ground Cover (dense rosettes suppress weeds in fall and late winter)",
+      "Nitrogen Accumulator (minor — leaf litter returns nutrients on decomposition)",
+      "Gap Filler (occupies bare ground between perennials in fall and winter)",
+      "Self-Seeding Annual (establishes self-renewing colony with minimal input)"
+    ],
+    "companionPlants": [
+      "Garlic (classic fall companion — mâche fills ground between garlic rows and is harvested before garlic shades it out)",
+      "onions",
+      "leeks",
+      "brassicas",
+      "and any tall cool-season crop that leaves ground space open in fall; excellent under deciduous fruit trees in fall/spring before canopy leafs out; works well interplanted with Egyptian walking onions and perennial garlic in guild or kitchen garden settings"
+    ],
+    "antagonists": [
+      "None significant; avoid planting where summer crops will be transplanted immediately",
+      "as self-sowing plants may compete briefly — but they are so shallow-rooted and small that this is easily managed by hand-pulling"
+    ],
+    "coppiceable": "No; harvest by cutting the whole rosette or picking outer leaves; allow a few plants to bolt and set seed each spring to maintain the self-seeding colony"
+  },
+  "wildlife": {
+    "attracts": "Small native bees and hoverflies during spring bloom (modest but useful during the lean early-spring nectar gap); beneficial insects generally",
+    "hostPlantFor": "Not a significant Lepidoptera host plant",
+    "nestingHabitat": "The dense rosette mats provide minimal cover but do create microhabitat for ground-dwelling invertebrates in winter"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer will eat mâche readily; the soft, tender leaves offer no resistance (no aromatics, spines, or toxins); protect young plantings with row cover, wire hoops, or temporary deer netting during active growth periods; once established under snow cover, deer pressure diminishes naturally as the rosettes become inaccessible; in areas with heavy deer pressure, fall-sown mâche is most vulnerable in October-November before consistent snow cover arrives"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — not notably salt-tolerant; tolerates incidental road salt exposure but not direct spray or heavy salt accumulation in soil; site away from direct salt splash zones where possible"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates dry spells during dormancy under snow; does best with consistent moisture during active growth; clay and loam soils help retain moisture for fall-sown plants; in arid western climates, supplemental irrigation during active growth is necessary"
+    },
+    "other": "Excellent cold tolerance — survives temperatures to 5°F (-15°C) unprotected; reliably overwinters in Zone 5–7 under snow cover; does not tolerate summer heat — bolts rapidly when temperatures rise above 65–70°F; poor heat tolerance is the primary limitation in Zone 8+ where it must be grown strictly as a fall/winter annual"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low; one of the most low-maintenance salad greens available; sow in fall and harvest through winter and spring with essentially no further input required",
+    "pruningNotes": "No pruning required; harvest by cutting rosettes at the base or picking outer leaves; to maintain a self-seeding colony, allow several plants per area to flower and set seed in spring before they die back; the following fall, seedlings will appear in place",
+    "propagationMethods": [
+      "Seed only; direct sow in place in September in Zone 6–7 (fall sowing is the primary method); seeds germinate best with a light chilling period — fall sowing leverages this naturally; also direct sow in early spring (February-March in Zone 6–7) as soon as soil is workable for an April-May harvest; in Zone 8+",
+      "sow October-November for winter harvest; do not transplant — mâche dislikes root disturbance and is best direct-sown; broadcast sowing and light raking in is sufficient"
+    ]
+  },
+  "cultivarNotes": "Cultivar selection matters more than it might appear — seed size, vigor, and bolt-resistance vary significantly between varieties.\n**Zone 3–5 (short season, deep cold):** Choose the most cold-hardy, vigorous varieties. 'Vit' and 'D'Etampes' both overwinter reliably under consistent snow cover. Fall sowing timing is earlier — late August to early September — to allow rosettes to size up before hard freeze.\n**Zone 6–7 (core mâche zone):** All standard cultivars perform well. 'Vit' is the best all-around choice — large leaves, vigorous growth, slower to bolt than most varieties. 'D'Etampes' (large-seeded) is practical for broadcast sowing and easy to handle. 'Cavallo' is vigorous, large-leaved, and a reliable self-seeder. Sow September for overwintering harvest.\n**Zone 8+ (mild winters, early heat):** Bolt resistance becomes the priority; heat arrives early and ends the harvest abruptly. 'Vit' is the best choice for its slower bolting. Sow October-November for winter-through-early-spring harvest; skip spring sowing entirely as plants will bolt before reaching harvestable size.\n**General note on seed size:** Large-seeded varieties (such as 'D'Etampes') are generally easier to establish and manage than small-seeded heirloom types; for a first planting, choose a large-seeded variety. Seeds germinate best with natural chilling — fall direct sowing is the most reliable method and requires no special preparation.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden ground cover",
+      "fall/winter salad crop",
+      "gap filler between perennials",
+      "companion to garlic and alliums",
+      "food forest understory annual"
+    ],
+    "designPlacement": "Sow direct in fall for overwintering harvest — one of the most cold-hardy salad greens available. Place in any gap between taller crops or under deciduous trees where autumn light reaches the ground. Excellent broadcast-sown between garlic rows, under fruit trees, or in any bed that would otherwise sit bare from October through April. Works well in raised beds or in-ground. Self-seeds reliably once established, creating a self-renewing winter ground cover with essentially no input. Also useful as a spring-sown crop (early spring sowing for April-May harvest before bolting), though fall sowing is the primary and more productive method.",
+    "acquisitionStatus": "To source (inexpensive from seed; look for 'Vit' or 'D'Etampes'; widely available from Baker Creek, Johnny's Selected Seeds, or Strictly Medicinal Seeds)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Corn_salad",
+    "inaturalist": "https://www.inaturalist.org/taxa/55752",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287435"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to Pennsylvania; occasionally naturalized in disturbed areas of eastern PA but not a component of native plant communities",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; same as general Invasive field — not a concern",
+      "drainage": "Red clay at the Hegins site is workable for mâche without raised beds; a 1–2\" top-dressing of compost raked into the surface before fall sowing improves seed-to-soil contact and early root establishment; drainage issues after heavy rain are less critical here because mâche is actively growing during the cooler, drier months when clay drainage is least problematic",
+      "soil": "Red clay at Hegins is acceptable without amendment for established self-seeding colonies; for first-year sowings, a light surface amendment of compost or leaf mold improves germination rates in the compacted clay",
+      "cultivarNotes": "'Vit' is the first choice for Hegins — vigorous, bolt-resistant, and widely available; 'D'Etampes' is a strong alternative for broadcast sowing in clay soil where larger seeds make better soil contact. Sow mid-September.",
+      "designPlacement": "Best placed in Section B (garage herb strip) between garlic rows and walking onions — it fills the bare ground from October through April, exactly the season when Section B would otherwise be empty. Also useful broadcast-sown under the apple guild trees in fall, where it will self-seed annually in the leaf litter zone.",
+      "siteObservations": "Clay soil at Hegins is unusual among salad greens — mâche tolerates it better than most. Deer pressure from the east corridor is the primary concern; fall-sown plants are most vulnerable before snow arrives in October-November. Row cover or wire hoops during that window are worth using if deer browsing is observed. Once under snow, the plants are largely inaccessible to deer and will resume growth in late February-March without intervention. The front beds (~50 ft from the road) are far enough from salt spray to be a non-issue for mâche."
+    }
+  }
+}

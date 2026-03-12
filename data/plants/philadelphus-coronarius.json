@@ -1,0 +1,153 @@
+{
+  "id": "philadelphus-coronarius",
+  "name": {
+    "commonName": [
+      "Mock Orange",
+      "Sweet Mock Orange"
+    ],
+    "latinName": "Philadelphus coronarius",
+    "family": "Hydrangeaceae"
+  },
+  "range": {
+    "nativeRange": "Southern Europe (Italy, Austria, Hungary, Balkans) — naturalized and widely cultivated across the temperate world",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Extensively naturalized across the eastern US from New England through the mid-Atlantic and upper South, and sporadically in the Pacific Northwest and Great Lakes region. Commonly persists near old homesites and along woodland edges where it was historically planted."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in any US state. While it naturalizes locally via suckering, it does not spread aggressively by seed and is not listed on any state noxious weed list or the federal USDA invasive species database. It lacks the rapid seed dispersal and habitat-displacement traits that characterize true invasive shrubs."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "8-12' in full growth; can be maintained at 5-6' with regular coppicing",
+    "spread": "6-10'",
+    "spacing": "5-8' from other shrubs",
+    "growthRate": "Moderate to fast; vigorous once established",
+    "timeToMaturity": "Full bloom from year 2-3",
+    "lifespan": "Very long-lived; 30-50+ years; essentially permanent once established",
+    "deciduousEvergreen": "Deciduous — simple oval leaves; modest fall color; bare in winter",
+    "winterInterest": "Low — bare architectural branching; no significant winter ornament"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; blooms best in full sun but tolerates significant shade — one of the more shade-tolerant flowering shrubs; works in north-facing conditions. In Zone 8+ or the Deep South, afternoon shade reduces heat stress and extends bloom.",
+    "water": "Medium; moderately drought tolerant once established. In the arid West or Zone 8+ heat, supplemental summer irrigation improves performance and extends bloom.",
+    "drainagePreference": {
+      "description": "Needs average to well-drained soil; does not tolerate waterlogged or standing-water conditions. Poor drainage leads to root rot, especially in winter when the plant is dormant and wet soil stays cold. Performs best in moderately drained loam but adapts to a wide range of drainage conditions short of true bog.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates heavy clay better than most flowering shrubs, provided the clay is not perpetually waterlogged. In clay soils, the fibrous root system establishes adequately but benefits from organic matter amendment at planting to improve drainage in the root zone. Raised planting (setting the root ball 1-2\" above grade) helps in the heaviest clays. Once established, performs reliably in clay-loam across the eastern US, Midwest, and Pacific Northwest."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable across the typical range of eastern and western US soils"
+    },
+    "texturePreference": "Adaptable; performs in average garden soil including clay-loam, sandy loam, and amended clay. Ideal is a moderately fertile, well-drained loam. Avoids only pure sand with no organic matter and waterlogged heavy clay.",
+    "rootCharacter": "Fibrous spreading root system; forms multiple suckering stems from the base over time"
+  },
+  "bloom": {
+    "bloomTime": "Late May to June — approximately 2 weeks of peak bloom",
+    "bloomDescription": "Single, semi-double, or double (cultivar-dependent) white flowers, 1-1.5\" wide, borne in racemes along the previous year's arching branches; the entire shrub is covered in bloom at peak; white flowers contrast beautifully against the dark green foliage",
+    "fragrance": "One of the most intensely fragrant of all flowering shrubs — sweet, heady, orange-blossom-like perfume; the common name \"mock orange\" refers to this fragrance similarity; fragrance carries strongly for 20-30 feet from the plant; one of the great fragrance experiences in the early summer garden",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees and other insects work the flowers; good early summer pollinator plant"
+  },
+  "yield": {
+    "edibleParts": "Flowers (edible — mild flavor; can be used as garnish or in salads; flavor does not match the extraordinary fragrance); not a primary food plant",
+    "harvestSeason": "June",
+    "medicinalUses": "None significant",
+    "craftOtherYield": "Cut flower branches (excellent — the fragrant bloom is one of the finest cut-flower experiences from a shrub; last well in a vase)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic; not commonly eaten",
+    "toxicityAnimals": "Generally considered non-toxic",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Beauty (primary — one of the great fragrance plants of the temperate garden)",
+      "Insect Attractor",
+      "Structure / Screening",
+      "Coppice Material"
+    ],
+    "companionPlants": [
+      "Compatible with most garden shrubs and perennials; pairs well with other fragrance-focused plants (lavender, jasmine, dianthus); effective as a back-of-border screen or informal hedge alongside other medium-to-tall shrubs; underplant with shade-tolerant ground covers once canopy fills in"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Excellent coppice response — cut to the ground every 5-7 years to completely rejuvenate; regrows vigorously to full flowering size within 2-3 years; or remove one-third of the oldest canes annually for continuous renewal"
+  },
+  "wildlife": {
+    "attracts": "Bees (good nectar source during bloom), butterflies, beneficial insects",
+    "hostPlantFor": "Not a significant host plant for North American Lepidoptera",
+    "nestingHabitat": "Dense multi-stemmed shrub provides nesting sites for small birds; catbirds and thrushes occasionally nest in mock orange"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally not heavily browsed; not a preferred deer browse plant due to lack of palatability. Young plants may be nibbled opportunistically, especially in winter when browse options are limited, but established plants are rarely damaged. Temporary fencing or repellent spray is advisable for the first 1-2 years in high-deer areas; once established and woody, browsing pressure drops significantly."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and survives near moderately salted roads; not suitable for direct salt spray zones or coastal front-line planting"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established"
+    },
+    "other": "Tolerates shade and urban conditions; highly adaptable; one of the most forgiving flowering shrubs; performs in a wide range of difficult conditions including clay, shade, compacted soil, and moderate wind exposure"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Blooms on previous year's wood — prune immediately after flowering (June). Remove old woody canes at the base to keep the plant vigorous; a shrub with a mix of young and old canes blooms better than one with all old canes. Deadwood and crossing branches can be removed anytime. For height control, remove the tallest canes at the base rather than topping — topping destroys the naturally arching habit. The coppice-every-5-7-years approach produces the most vigorous plants.",
+    "propagationMethods": [
+      "Hardwood cuttings (very easy — one of the most reliable shrubs to root from cuttings; take 8-10\" sections in fall, stick in moist soil; excellent strike rate)",
+      "softwood cuttings in summer",
+      "division of suckers"
+    ]
+  },
+  "cultivarNotes": "The straight species (P. coronarius) is the most fragrant form and is widely considered the best for fragrance-focused use. Named cultivars often sacrifice some fragrance for other traits. **By zone band:** **Zone 3-5 (cold North, upper Midwest):** **'Minnesota Snowflake'** is the top choice — double flowers, extremely cold-hardy (Zone 3-7), reliable bloom even after harsh winters; one of the best doubles available. **'Blizzard'** is another cold-hardy compact option (4-5'). **Zone 6-7 (mid-Atlantic, lower Midwest, Pacific NW):** The straight species performs beautifully here and is the first choice for maximum fragrance. **'Belle Etoile'** (single, pink-flushed center, very fragrant, compact 4-5') is ideal where space is limited. **'Minnesota Snowflake'** also excels in this range. **Zone 8+ (Deep South, Gulf Coast, low-elevation Southwest):** Mock orange needs adequate winter chill; marginal in Zone 9+. Choose the straight species for best heat adaptation; 'Aureus' (golden-yellow foliage) adds ornamental interest but needs afternoon shade in hot climates. **Other cultivars of note:** **'Aureus'** (golden-yellow foliage, very ornamental — somewhat less fragrant); **'Variegatus'** (cream-edged leaves, compact — less fragrant); **'Manteau d'Hermine'** (very compact 3-4', double, some fragrance, Zone 4-8 — good for tight spaces in any region).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Mixed shrub border",
+      "fragrance garden",
+      "informal hedge",
+      "screen",
+      "specimen"
+    ],
+    "designPlacement": "Best sited where its 2-week fragrance event can be experienced up close — near porches, patios, windows, or garden seating areas. Place in the back or mid-border given its mature height (8-12'); compact cultivars can move forward. Pairs well with other early-summer bloomers. Full sun maximizes bloom density; part shade is tolerable but reduces flowering. Works as an informal screen or hedge when planted 5-6' apart. In height-restricted settings, use compact cultivars ('Belle Etoile' at 4-5', 'Manteau d'Hermine' at 3-4') rather than fighting the species' natural size with heavy pruning.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philadelphus_coronarius",
+    "inaturalist": "https://www.inaturalist.org/taxa/52468-Philadelphus-coronarius",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced European species. Commonly naturalized across Pennsylvania near old homesteads and garden remnants; frequently encountered in hedgerows and woodland edges in central PA counties.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not listed by PA Dept. of Agriculture or DCNR as invasive or noxious.",
+      "drainage": "Hegins red clay is workable for mock orange without raised beds, but amend the planting hole generously with compost and coarse organic matter to break up compaction and improve winter drainage. Avoid low spots where water pools after rain. The construction-disturbed soil near foundation beds may actually drain better than the undisturbed clay farther out.",
+      "soil": "Hegins red clay should be amended with compost at planting. No ongoing soil modification needed once established — the plant adapts to clay-loam well. Mulch annually to build organic matter in the topsoil layer.",
+      "cultivarNotes": "The straight species or 'Minnesota Snowflake' are the first choices — both thrive in Zone 6a with reliable winter cold and humid summers. For the 5' height-limited beds, use 'Belle Etoile' (4-5') or 'Manteau d'Hermine' (3-4') instead.",
+      "designPlacement": "Section C (south-facing, fragrance focus) is the primary placement — back-border shrub providing intense early summer fragrance near the porch. The 5' height limit in Section C means the straight species will require regular coppicing or selective cane removal; 'Belle Etoile' (4-5') is the better fit for the height restriction while retaining excellent fragrance. Section B (garage strip, north-facing) is a secondary option — mock orange tolerates the shade and could serve as a structural anchor, though bloom will be reduced. Not ideal for Section A (beauty-first, purple/pink/yellow color palette — mock orange's white flowers and coarse texture don't match the aesthetic).",
+      "siteObservations": "Deer pressure from the east corridor is unlikely to be a significant problem — mock orange is not a preferred browse species — but protect any newly planted shrub with temporary fencing for the first winter. The south-facing Section C microclimate (warm, dry) suits mock orange well. Road salt from the north border is not a concern at Section C's distance. Red clay drainage issues are manageable with amended planting holes; avoid the lowest spots in Section C where water may pool after heavy rain."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "symphytum-officinale",
+  "name": {
+    "commonName": [
+      "Comfrey",
+      "Common Comfrey",
+      "Knitbone"
+    ],
+    "latinName": "Symphytum officinale",
+    "family": "Boraginaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; widely naturalized in North America, particularly in the eastern US and Pacific Northwest",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Naturalized throughout much of the eastern US, Midwest, and Pacific Northwest; found in disturbed sites, roadsides, and streambanks from Maine to Georgia and west to the Great Plains. Established populations exist in most states east of the Rockies and in scattered western locations."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as a noxious weed at the federal level. Not considered invasive in most states — its spread is primarily vegetative (root fragments) rather than by seed, which limits its ability to colonize wildlands. The straight species does self-seed moderately, but it rarely escapes into intact native ecosystems. Some states note it as a plant of concern in riparian areas. The sterile cultivar Bocking 14 eliminates seed-based spread entirely. Overall, comfrey is persistent where planted (any root fragment will regenerate) but is not an aggressive wildland invader."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "3-5' when in bloom; foliage rosette 24-36\"",
+    "spread": "24-36\" per plant; does not spread laterally by runners but self-seeds moderately",
+    "spacing": "24-36\"",
+    "growthRate": "Very fast — one of the most vigorous perennials in the garden; multiple large harvests possible per season",
+    "timeToMaturity": "Productive from first year; full production by year 2",
+    "lifespan": "Essentially permanent — roots can survive indefinitely; once planted, difficult to remove (this is a feature and a caution)",
+    "deciduousEvergreen": "Deciduous — large rough-textured basal leaves die back in frost; often one of the first plants to emerge in spring",
+    "winterInterest": "None — dies back completely"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; productive in a wide range of light conditions",
+    "water": "Medium; very deep tap root accesses subsoil moisture; drought tolerant once established",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates moist, average, and even poorly drained soils well. The deep taproot penetrates hardpan and compacted subsoils, which means comfrey is less affected by surface drainage issues than most perennials. Waterlogged soil is tolerated short-term but not ideal long-term — persistent standing water can slow growth. Well-drained to moderately drained soils produce the best biomass.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent. Comfrey is one of the best perennials for heavy clay — the powerful taproot physically breaks through compacted clay layers, improving soil structure over time. Clay's moisture retention is not a problem for comfrey; the plant actually thrives in the consistent moisture that clay provides. No amendments are required for establishment in clay. Comfrey is often deliberately planted in heavy clay as a soil-improvement pioneer."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Highly adaptable; grows in clay, loam, and poor soils. Actually performs better in average or poor soil than in highly fertile conditions — overly rich soil can produce excessive soft growth. Sandy soils are acceptable if moisture is adequate.",
+    "rootCharacter": "VERY deep taproot — can reach 6-8' into the subsoil; this is the source of its exceptional bio-accumulation ability; the deep root mines minerals from the subsoil and concentrates them in the leaves"
+  },
+  "bloom": {
+    "bloomTime": "May-July; may rebloom if cut back",
+    "bloomDescription": "Clusters of small pendulous bell-shaped flowers in pink-purple to cream-white; flowers hang in curved scorpioid cymes (a characteristic of the Boraginaceae family); attractive but not the primary ornamental feature",
+    "fragrance": "Mild; not significant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bumblebees (primary — the tubular flowers fit large bees); bumblebees often bite holes in the base of flowers to steal nectar without pollinating"
+  },
+  "yield": {
+    "edibleParts": "CAUTION — internal use is controversial; young leaves have been eaten historically (fritters, cooked greens) but contain pyrrolizidine alkaloids (PAs) — hepatotoxic compounds with cumulative effects; internal consumption is no longer recommended; the Bocking 14 cultivar was bred for lower PA content. External uses are safe and well-supported. Flowers are very mildly edible as garnish.",
+    "harvestSeason": "Leaves for external use or mulch/compost year-round; 3-5 cuts per season possible",
+    "medicinalUses": "EXTERNAL only — exceptional wound-healing herb; allantoin (the primary active compound) stimulates cell proliferation and accelerates healing; comfrey poultice or infused oil/salve is one of the best botanical remedies for bruises, sprains, minor wounds, and burns; the traditional name \"knitbone\" reflects use for fractures. Do NOT use on deep or puncture wounds (may close skin over infection). NOT for internal use.",
+    "craftOtherYield": "Liquid fertilizer — comfrey leaves steeped in water for 4-6 weeks produce a highly concentrated plant feed (high in potassium and other minerals); excellent for tomatoes, fruiting plants, and garden beds as a liquid feed. Chop-and-drop mulch — leaves cut and laid on the soil surface decompose rapidly (high nitrogen content) and feed the soil ecosystem."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Pyrrolizidine alkaloids in leaves and especially roots are hepatotoxic with cumulative effects; do NOT consume internally in quantity; occasional consumption historically has occurred, but sustained use risks liver damage; medicinal teas and internal preparations are no longer recommended by herbalists; external use is safe",
+    "toxicityAnimals": "Same hepatotoxic risk as for people — do not allow livestock or pets to graze on comfrey in quantity; horses, cattle, and pigs are at risk from large consumption; the smell deters most animals anyway",
+    "allelopathy": "The leaves contain allelopathic compounds that slow germination of seeds when used as a surface mulch — a minor effect that doesn't persist long as leaves break down quickly",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Dynamic Mineral Accumulator (primary — one of the best in temperate permaculture; deep root mines potassium, calcium, silica, and iron from subsoil)",
+      "Chop-and-Drop Mulch (excellent; leaves decompose rapidly)",
+      "Bio-accumulator",
+      "Medicinal (external)",
+      "Nitrogen Cycle",
+      "Insect Attractor",
+      "Companion Plant"
+    ],
+    "companionPlants": [
+      "Fruit trees (excellent guild plant — mines nutrients and returns them via chop-and-drop; a cornerstone of fruit tree guilds)",
+      "nitrogen fixers (comfrey and nitrogen fixers together cover most mineral cycling needs)",
+      "elderberry",
+      "almost any garden plant benefits from comfrey as a companion"
+    ],
+    "antagonists": [
+      "Comfrey is vigorously competitive for space — give enough room and do not plant next to small or delicate plants. The persistent tap root means comfrey is essentially permanent — do not place where removal will be needed."
+    ],
+    "coppiceable": "Excellent coppice plant — cut to the ground 3-5 times per season for maximum biomass production; regrows vigorously from the root each time; each cut produces a fresh flush of large leaves for mulch, compost, or liquid fertilizer"
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (primary — heavily worked throughout the bloom period); honeybees; beneficial insects; bats attracted to the dense foliage for hunting",
+    "hostPlantFor": "Not a significant host plant in North America (European species; native Lepidoptera do not use it as a primary host)",
+    "nestingHabitat": "Dense basal rosette provides ground-level cover for beetles and other invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the bristly hairy leaves and medicinal scent are generally avoided by deer; not a primary browse target. Young spring growth may occasionally be nibbled but established plants are reliably left alone. No fencing or deterrents typically needed for established comfrey."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure and recovers from light salt spray; not suited to highly saline soils or direct salt application"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — deep taproot accesses subsoil moisture well below the drying surface layer; supplemental water improves biomass production but is not required for survival"
+    },
+    "other": "Tolerates heavy clay, compacted soil, partial shade, wind exposure, and general neglect. Heat tolerant through Zone 9. Humidity is not a concern."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — essentially self-maintaining",
+    "pruningNotes": "Cut to the ground whenever leaves are harvested for mulch or liquid fertilizer — 3-5 times per season. Remove any seeding flower spikes if self-seeding is a concern (Bocking 14 is largely sterile and doesn't self-seed). Cut to the ground in late fall or leave standing for winter wildlife cover — either approach works. Root pieces left in the soil will regenerate, so don't try to relocate by digging — cut off the root fragments and they will regrow. Manage spread by removing seedlings (for seeding types) and preventing root fragmentation from spreading.",
+    "propagationMethods": [
+      "Root cuttings (extremely easy — any root piece 2-3\" long will regenerate; transplant in spring or fall)",
+      "seed (for seeding varieties)"
+    ]
+  },
+  "cultivarNotes": "**Bocking 14** is strongly preferred for most garden and permaculture uses across all zones — it is a sterile cultivar (does not set viable seed, so will not self-seed throughout the garden), bred specifically for high allantoin content, lower pyrrolizidine alkaloids, and maximum biomass production. The straight S. officinale can self-seed prolifically and become weedy in garden beds — Bocking 14 prevents this issue while maximizing utility. Bocking 14 is only available as root cuttings (not from seed). Other species: Symphytum × uplandicum (Russian comfrey — a hybrid of S. officinale and S. asperum) is also vigorous with similar uses and is often sold as Bocking 14. **Zone 3–5:** Comfrey is fully hardy; Bocking 14 performs well with no special considerations. **Zone 6–7:** Optimal performance range; Bocking 14 produces maximum biomass with 3-5 cuts per season. **Zone 8–9:** Still productive but may go semi-dormant in peak summer heat; afternoon shade improves performance in hot climates.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest guild plant",
+      "orchard understory",
+      "herb garden",
+      "compost activator",
+      "liquid fertilizer plant",
+      "woodland edge"
+    ],
+    "designPlacement": "Best positioned as a fruit tree guild component or along the edges of garden beds where its deep-root mining and chop-and-drop mulch contributions benefit neighboring plants. Give comfrey permanent positions — its deep taproot makes removal extremely difficult once established. Space 24-36\" from the trunks of young trees; closer plantings work around mature trees. Avoid planting adjacent to small or delicate perennials that cannot compete with comfrey's vigor. Works well at the drip line of fruit trees, along fence lines, and in transitional zones between cultivated and wild areas.",
+    "acquisitionStatus": "Already on site (Symphytum confirmed in existing plants list)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Symphytum_officinale",
+    "inaturalist": "https://www.inaturalist.org/taxa/55724-Symphytum-officinale",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b472"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania. Naturalized throughout the state in disturbed ground, roadsides, and old homesteads; common in the eastern half of PA.",
+      "paInvasiveStatus": "Not on Pennsylvania's noxious weed list or DCNR invasive species list. Not regulated in PA. Persistent where planted but not classified as invasive in the state.",
+      "drainage": "The compacted red clay at Hegins is no obstacle — comfrey's taproot will penetrate it readily. No raised bed needed; plant directly in-ground. The clay's moisture retention suits comfrey well. Existing comfrey on site confirms successful establishment in these exact conditions.",
+      "soil": "Red clay at Hegins is well within comfrey's range; no amendment or special preparation needed for in-ground planting. The existing comfrey on site is thriving in unamended clay.",
+      "cultivarNotes": "Bocking 14 is the clear recommendation — performs excellently in this climate with full-season productivity. Verify whether existing plants on site are Bocking 14 or the seeding species; if seeding, replace with Bocking 14 root cuttings.",
+      "designPlacement": "The kitchen garden strip (Section B) is the logical managed location; also excellent as a guild plant beneath the apple trees, paw paw, and mulberry where its deep root mining and chop-and-drop contributions are most valuable. If growing in multiple guild positions, confirm Bocking 14 to prevent unwanted spread.",
+      "siteObservations": "Already established on site — verify whether the existing plants are Bocking 14 (sterile) or the seeding species; if seeding, consider replacing with Bocking 14 root cuttings for better garden management. Tolerates the compacted red clay and deer pressure at this property without issue. The existing comfrey confirms this species is fully viable in site conditions."
+    }
+  }
+}

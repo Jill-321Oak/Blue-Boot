@@ -1,0 +1,158 @@
+{
+  "id": "atriplex-hortensis",
+  "name": {
+    "commonName": [
+      "Orache",
+      "Mountain Spinach"
+    ],
+    "latinName": "Atriplex hortensis",
+    "family": "Amaranthaceae (formerly Chenopodiaceae)"
+  },
+  "range": {
+    "nativeRange": "Central Asia (likely originated in western and central Asia — Iran, Afghanistan, Siberia region); cultivated across Europe and Asia for millennia; naturalized widely in temperate North America as a garden escape",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States. Introduced from central Asia via European cultivation; naturalized in disturbed habitats, roadsides, waste areas, and garden margins across much of the lower 48, particularly in cooler temperate regions of the Northeast, Pacific Northwest, and upper Midwest. It is not native to any US region."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not classified as invasive in any US state. A. hortensis self-seeds prolifically and can colonize disturbed ground near plantings, but it does not aggressively displace native vegetation and is not listed on any state noxious weed list or the USDA Federal Noxious Weed list. The primary management concern is uncontrolled self-seeding in a kitchen garden context — manageable by deadheading before seed set and allowing only designated plants to complete their seed cycle. Gardeners in states with sensitive native riparian or disturbed-land ecosystems should monitor populations as a precaution, but no regulatory concern currently applies anywhere in the lower 48."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "Annual; frost-hardy seedlings tolerate light frost — suitable for Zones 3–9; direct sow outdoors well before last frost date; in Zone 6a, sow 4–6 weeks before last frost"
+    }
+  },
+  "description": {
+    "height": "3–6 ft (90–180 cm); can reach 6 ft when bolting; typically 3–4 ft if harvested regularly",
+    "spread": "12–18\" per plant; upright habit, not especially spreading",
+    "spacing": "12–18\" in rows; 9–12\" acceptable if harvesting as cut-and-come-again",
+    "growthRate": "Very fast — germinates in 7–14 days; reaches harvest size in 40–50 days; bolts and sets seed by midsummer",
+    "timeToMaturity": "First harvest of young leaves 5–6 weeks from direct sow; productive from late spring through early summer before bolting",
+    "lifespan": "Annual; self-sows reliably if a few plants are allowed to go to seed — effectively self-perpetuating once established",
+    "deciduousEvergreen": "Annual — killed by hard frost; frost-hardy seedlings can persist through light fall frosts",
+    "winterInterest": "None; frost-killed; dried seed stalks may persist briefly but are not ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade (3–4 hours direct sun); shade reduces height and bolting speed, which can actually extend the harvest season in warmer climates or during hot spells",
+    "water": "Low to moderate; drought tolerant once established; prefers evenly moist soil during germination and early growth; tolerates lean, dry conditions better than spinach; in arid western states, supplemental irrigation will be needed through the growing season",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates clay and temporarily poor drainage better than most cool-season greens; average to well-drained soil is preferred but not required; prolonged waterlogging will stress plants but short wet periods are well tolerated",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — one of the most clay-tolerant annual vegetables available. The taproot penetrates heavy clay without the compaction damage that affects shallower-rooted greens; plants establish and grow well in unammended clay loam. Waterlogged clay during establishment is the primary risk — if drainage is severely impaired, direct sow into a slightly raised row or add a modest layer of compost to improve surface tilth. No amendment is required purely for clay tolerance."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0–8.0; notably tolerant of slightly alkaline soil; tolerates moderately saline conditions"
+    },
+    "texturePreference": "Adaptable; grows well in heavy clay, average loam, or sandy soils; ideal texture is a well-drained loam but the plant performs across a wide range; one of its clearest strengths is tolerance of difficult, compacted, or clay-dominant soils that would limit most other leafy greens",
+    "rootCharacter": "Taproot with fibrous laterals; somewhat deep-rooted for an annual; does not transplant well after germination — direct sow in place"
+  },
+  "bloom": {
+    "bloomTime": "Midsummer (July–August in Zone 6a); triggered by long days and heat; blooming signals the end of the primary harvest period",
+    "bloomDescription": "Tiny, inconspicuous flowers borne on tall terminal spikes; flowers are not ornamental; red/purple forms produce attractive burgundy seed bracts that are mildly ornamental on the stalk before shattering",
+    "fragrance": "None",
+    "flowerSex": "Monoecious — separate male and female flowers on the same plant; male flowers are small clusters; female flowers form the seed-bearing bracts",
+    "pollination": "Wind-pollinated; no pollinators required; self-fertile"
+  },
+  "yield": {
+    "edibleParts": "Leaves (primary harvest — young leaves used raw in salads or cooked like spinach; flavor is mild, slightly earthy-salty, spinach-like; red/purple forms contain betalain pigments giving them a mild beet-like quality; leaves toughen and become more bitter as the plant ages); seeds (edible and nutritious — similar to quinoa, a close relative; can be cooked whole or ground into flour); young shoots; the red leaf forms make a striking addition to salads and grain bowls",
+    "harvestSeason": "Main leaf harvest: late spring to early summer (May–June in Zone 6a); harvest young leaves continuously before the plant bolts; once bolting begins, flavor declines; seeds ripen in late summer and can be harvested if plants are allowed to go to seed",
+    "medicinalUses": "Historically used in folk medicine — leaves applied as a poultice for gout and skin irritation; seeds used as an emetic in traditional European herbalism; not a primary medicinal plant",
+    "craftOtherYield": "Red/purple forms used as a natural dye (betalain pigments); dried seed stalks occasionally used in dried arrangements; seeds edible as a pseudo-grain (similar use to quinoa)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered safe and edible; like many Amaranthaceae/Chenopodiaceae (spinach, beet, chard), contains oxalates — moderate consumption is fine, but very high intake of raw leaves over time is inadvisable for those prone to kidney stones; cooking reduces oxalate content",
+    "toxicityAnimals": "Low concern at typical exposure; oxalate content present (as with spinach and chard); not considered a significant livestock hazard at normal browse levels",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer (annual)"
+    },
+    "roles": [
+      "Food (leafy green and pseudo-grain)",
+      "Ground Cover (fast-growing annual fills bare ground quickly)",
+      "Chop-and-Drop (large leafy biomass can be cut and left as mulch)",
+      "Dynamic Accumulator (deep taproot mines subsoil minerals; biomass is high in nitrogen and minerals)",
+      "Nurse Plant (provides temporary canopy and weed suppression while perennials establish)",
+      "Thermal Buffer (dense foliage shades soil and reduces moisture loss)"
+    ],
+    "companionPlants": [
+      "Excellent with brassicas (provides light shade that can reduce aphid pressure from direct sun); compatible with most vegetables; useful as a temporary backdrop or screen while perennial food plants establish; good nurse companion for establishing perennial guilds in their first season"
+    ],
+    "antagonists": [
+      "None well-documented; avoid dense planting in high-humidity",
+      "low-airflow areas to reduce fungal pressure; may compete with young seedlings if self-sown too densely — thin or weed out excess self-sown plants"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Seed-eating birds (finches and sparrows are attracted to the seed stalks in late summer and fall — allow a few plants to stand for late-season bird forage); beneficial insects use the flowers minimally (wind-pollinated, low nectar value)",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera; some aphid species may colonize it — these in turn attract aphid predators (ladybirds, hoverflies)",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer may browse, especially on tender young growth; however, the plant is fast-growing and produces abundantly, so browsing rarely eliminates a planting; the self-seeding habit means deer pressure does not threaten long-term establishment; not a high-priority browse target compared to more palatable vegetables; in areas with heavy deer pressure, row cover or low fencing during the seedling stage is a prudent precaution"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — notably salt-tolerant; the genus Atriplex is famous for halophyte members; A. hortensis is not a true halophyte but tolerates moderately saline soils well above typical garden standards; tolerates incidental road salt exposure without significant damage"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — once established, tolerates dry spells better than spinach; deep taproot accesses subsoil moisture; consistent moisture improves leaf quality and delays bolting"
+    },
+    "other": "Frost-hardy seedlings (tolerates light frost in spring and fall); excellent heat tolerance relative to spinach (does not bolt as rapidly under summer heat, though long days will eventually trigger bolting regardless of temperature); tolerates clay soil and poor fertility"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low",
+    "pruningNotes": "Harvest young leaves regularly from the top to delay bolting; once the plant sends up a tall central flower spike, the harvest window is essentially over; at that point, either pull the plant and compost it (leaving a few plants to set seed) or cut it to the ground as chop-and-drop mulch; no formal pruning required",
+    "propagationMethods": [
+      "Seed (direct sow in place as soon as soil can be worked in early spring — 4–6 weeks before last frost is appropriate in Zone 6a; cold-stratification not required; germinates readily in cool, moist soil at 40–65°F; does not transplant well after germination; self-sows prolifically if any plants are allowed to complete their seed cycle)"
+    ]
+  },
+  "cultivarNotes": "Three main selections are worth growing across the lower 48. **'Red Plume'** (red/purple leaves throughout the season — the most ornamental form; leaves carry a slightly earthy, beet-like quality from betalain pigments; striking in salads and as a structural backdrop plant; recommended wherever ornamental-edible value is a priority). **'Gold'** (yellow-green leaves — unusual coloring; milder flavor; effective as a contrast plant in mixed plantings). **Standard green** (most vigorous and productive; largest leaves; the workhorse form for maximum edible yield). All three are open-pollinated and self-sow true to type if grown in isolation; mixed plantings will cross and produce variable offspring in subsequent generations. All selections perform similarly across Zones 3–9 — cultivar choice is driven by intended use (ornamental vs. yield) rather than climate zone. In hot-summer climates (Zone 7–9), afternoon shade extends the harvest window for all forms, as bolting is triggered by both heat and day length.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen garden annual",
+      "temporary nurse plant during food forest establishment",
+      "cut-and-come-again leafy green",
+      "ornamental-edible backdrop (especially Red Plume form); useful as a pioneer plant to cover bare ground in a new planting zone while perennials establish"
+    ],
+    "designPlacement": "Direct sow in early spring into full-sun or part-shade positions. Tall enough (3–6 ft) to serve as a temporary visual screen or backdrop behind lower plants. Pairs well with brassicas, root vegetables, and establishing perennial guilds. Allow a few plants to self-seed each year to maintain a self-sustaining population. Red/purple forms add structural color to the kitchen garden or food forest edge. Avoid siting where uncontrolled self-seeding into sensitive areas (native plant zones, naturalized meadows) is a concern.",
+    "acquisitionStatus": "To source (inexpensive annual from seed; 'Red Plume' widely available from seed suppliers)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Atriplex_hortensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/62340",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279153"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; naturalized in disturbed habitats across North America but not native to Pennsylvania or the broader mid-Atlantic region",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list, the PA Department of Agriculture invasive species list, or flagged by PA DCNR. Same as general Invasive field — no regulatory concern in Pennsylvania.",
+      "drainage": "Hegins red clay is a good match for this species. Plants can be direct-sown in-ground with no amendment and perform well. If surface compaction is severe, a light compost incorporation (1–2\") improves germination contact. Raised beds are an option but are not necessary — this is one of the few annual vegetables that genuinely does not need them at this site.",
+      "soil": "Hegins red clay is within this plant's comfort zone — no special soil preparation required for in-ground planting. A light compost top-dress (1\") may improve germination speed on crusted clay surfaces but is not agronomically necessary. Direct sow directly into the bed.",
+      "cultivarNotes": "'Red Plume' is the primary recommendation — it combines strong ornamental value (deep burgundy foliage) with full edibility and the same easy cultivation as the green type. Growing a mix of Red Plume and standard green maximizes both visual interest and yield. All forms are equally well-suited to the Hegins site and Zone 6a timing.",
+      "designPlacement": "Best placed in the kitchen vegetable area or as a nurse plant along the edges of the tree guilds during establishment. The clay tolerance means it can be direct-sown in-ground anywhere on the property without raised bed infrastructure. Section B (kitchen herb strip) is a natural fit if bed space is available; food forest guild edges are the other key use. Not suited to Section A (ornamental front) or Section C (fragrance strip) in their current design roles.",
+      "siteObservations": "Well-suited to Hegins site conditions — clay tolerance and drought tolerance address the two main site limitations directly. Most useful in the kitchen garden or food forest understory during establishment years. The self-seeding habit makes it a low-effort annual that can establish a self-sustaining population with one initial sowing. Primary value is as a cool-season leafy green that bridges the gap between spring and summer, providing fresh greens when spinach bolts. Deer pressure at the site is active — seedlings are the most vulnerable stage; row cover or a temporary wire cage during the first 4–6 weeks after germination is advisable in the open food forest zone. Once plants are 12\"+ and growing vigorously, browsing damage is rarely fatal given the speed of regrowth."
+    }
+  }
+}

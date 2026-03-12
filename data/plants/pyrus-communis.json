@@ -1,0 +1,165 @@
+{
+  "id": "pyrus-communis",
+  "name": {
+    "commonName": [
+      "European Pear",
+      "Common Pear"
+    ],
+    "latinName": "Pyrus communis",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Southern Europe, southwestern Asia (Caucasus region, Turkey, Iran); cultivated for over 4,000 years; naturalized across much of the eastern United States in abandoned fields, fencerows, and open woodland edges",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely naturalized in the eastern United States from New England south to Georgia and west to the Mississippi Valley; established primarily in abandoned farmsteads, fencerows, old orchards, and open woodland edges. Wild-type seedlings are common throughout the mid-Atlantic and upper South. Not naturalized in the arid West except where irrigated."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive on any US federal noxious weed list. Wild seedlings can naturalize in disturbed areas and woodland margins, particularly in the humid East and mid-Atlantic, but cultivated grafted trees do not spread aggressively. Not considered a significant invasive threat in any US state. Should not be confused with Pyrus calleryana (Callery pear), which is aggressively invasive across much of the eastern US and is banned or regulated in several states."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8 (species); most named cultivars suitable for Zone 4-8"
+    }
+  },
+  "description": {
+    "height": "Standard — 25-30' (occasionally to 60' in old specimens); semi-dwarf (on quince or OHxF rootstock) — 10-15'; dwarf — 8-10'. Semi-dwarf is recommended for home food forest scale.",
+    "spread": "Standard — 15-20'; semi-dwarf — 10-15'",
+    "spacing": "Semi-dwarf — 12-15' apart; always plant at least two compatible cultivars for cross-pollination",
+    "growthRate": "Moderate; begins fruiting years 4-6; slightly slower to bear than apple",
+    "timeToMaturity": "First fruit years 4-6; full production years 8-12",
+    "lifespan": "Long-lived — 50-75 years for semi-dwarf; standard trees 100+ years; pear trees are among the most enduring of the temperate fruit trees",
+    "deciduousEvergreen": "Deciduous — upright, somewhat pyramidal form; attractive white spring bloom; glossy green summer foliage; good orange-red fall color; distinctive silvery-brown bark in winter",
+    "winterInterest": "Moderate — strongly upright branching habit is architecturally attractive in winter; old pear trees have significant structural character"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6 hours, 8+ preferred; fruit quality and disease resistance both decline significantly in shade",
+    "water": "Medium; consistent moisture during fruit development (July-September); established trees have moderate drought tolerance but fruit size and quality suffer in dry seasons; avoid waterlogged conditions",
+    "drainagePreference": {
+      "description": "Well-drained preferred; pears tolerate heavier soils better than apples and adapt well to clay-loam, but standing water is damaging to roots and promotes root rot. OHxF rootstocks are notably more tolerant of heavy or wet soils than quince rootstocks. Avoid planting in low spots where water pools after rain.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — pears are among the most clay-tolerant of the common temperate fruit trees. They adapt well to clay-loam and even moderately heavy clay when drainage is adequate. OHxF rootstocks perform significantly better in clay than quince rootstocks, which may suffer poor anchorage and graft union issues in heavy soil. Amend the planting hole generously with compost to improve structure, and avoid compacting soil around the root zone. In very heavy clay, planting slightly elevated (on a low mound) improves drainage around the crown."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Loam preferred; adapts to clay-loam better than most fruit trees; amend heavy clay with compost at planting; avoid highly sandy or extremely compacted soils",
+    "rootCharacter": "Deep taproot with wide-spreading lateral roots; standard trees are well-anchored and drought-tolerant; semi-dwarf trees on OHxF rootstocks are better anchored than those on quince rootstock (which may need staking); roots are not considered invasive"
+  },
+  "bloom": {
+    "bloomTime": "Early to mid-spring — among the earliest-blooming of the common fruit trees; earlier than apple and quince; late frost is a meaningful risk to the crop in Zones 4-7",
+    "bloomDescription": "Dense corymbs of creamy white, 5-petaled flowers, each about 1\" wide; bloom is profuse and showy — one of the most beautiful spring-flowering fruit trees; flowers appear before or simultaneously with leaf emergence, making the display particularly striking",
+    "fragrance": "Flowers fragrant; slightly sweet and musky — pleasant but less refined than apple blossom; distinctive",
+    "flowerSex": "Hermaphrodite; but most cultivars are not self-fertile and require a cross-pollinator",
+    "pollination": "Requires a pollination partner in most cases — plant at least two different, bloom-compatible cultivars within 50-100' for reliable fruit set; bees are the primary pollinators; early bloom timing can be a limiting factor if bees are not yet active in cold springs; pear pollen is relatively unpalatable to bees, so a strong local bee population helps"
+  },
+  "yield": {
+    "edibleParts": "Fruit — fresh eating, canning, drying, poaching, perry (pear cider/wine); the fruit is best picked slightly underripe and ripened off the tree at room temperature (most cultivars); pear flavor ranges from sweet-buttery (Bartlett, Bosc) to gritty-mild (Kieffer) depending on cultivar",
+    "harvestSeason": "Late July (early cultivars) through October (late cultivars) depending on variety; most Zone 5-7 cultivars ripen August-October; Bartlett — mid-August; Bosc and Anjou — September-October; Kieffer — October; Harrow Sweet — late August",
+    "medicinalUses": "High in fiber (pectin and sorbitol — traditional mild laxative); anti-inflammatory flavonoids; vitamin C; pear juice has traditional use for kidney and urinary health; sorbitol content makes pears effective for digestive regularity",
+    "craftOtherYield": "Perry (pear wine/cider); pear brandy; pear wood is dense, fine-grained, and excellent for carving, musical instruments, and smoking meat; prunings make excellent firewood and smoking wood"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; seeds contain trace amygdalin (cyanogenic glycoside) as with all Rosaceae — do not eat large quantities of seeds; the fruit is entirely safe and widely consumed",
+    "toxicityAnimals": "Fruit safe for dogs and horses in moderate amounts; seeds are a concern only in very large quantities; do not allow animals to gorge on fallen fermented fruit",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy (standard); Canopy/Tall Shrub (semi-dwarf)"
+    },
+    "roles": [
+      "Food (fruit — primary canopy crop)",
+      "Wildlife Support",
+      "Timber/Wood (prunings; eventually the tree)",
+      "Habitat Structure",
+      "Aesthetic (spring bloom is exceptional)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base — most important guild companion)",
+      "chives and garlic (pest deterrent)",
+      "nasturtium (aphid diversion trap crop)",
+      "white clover (nitrogen fixer in understory)",
+      "yarrow (insectary)",
+      "daffodils and alliums (deer deterrent ring)",
+      "low ground covers (alpine strawberry, creeping thyme); standard food forest guild companions apply"
+    ],
+    "antagonists": [
+      "Fire blight (Erwinia amylovora) — the dominant disease threat for pear in the humid eastern US; unlike apple",
+      "pear has very few truly resistant varieties; choose only cultivars with documented fire blight resistance (see Cultivar Notes); do not plant near walnut (Juglans) — juglone toxicity risk; avoid excessive nitrogen fertilization",
+      "which promotes lush",
+      "highly susceptible new growth. Cedar-apple rust (Gymnosporangium) also affects pear — Eastern red cedars (Juniperus virginiana) are common alternate hosts throughout the eastern US; choose rust-resistant cultivars and avoid planting near cedars if possible."
+    ],
+    "coppiceable": "No; trained as an open-center or central-leader tree; responds well to formative pruning; espalier training possible against a south-facing wall for space efficiency and microclimate advantage"
+  },
+  "wildlife": {
+    "attracts": "Bees (important early-season bloom when forage is limited, though bees find pear pollen less attractive than apple); birds consume fruit (especially late-hanging or fallen fruit); beneficial insects attracted to nectar",
+    "hostPlantFor": "Pyrus species host numerous native Lepidoptera including the Promethea moth, Viceroy butterfly (Limenitis archippus), and several other moths and butterflies; host plant value is moderate — less than apple but meaningful",
+    "nestingHabitat": "Mature pear trees provide nesting and roosting structure for birds; dense, upright canopy used by a variety of species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate to poor — deer readily browse young pear trees, particularly in spring and fall. Young trees must be protected with wire cages or tree tubes during establishment (first 3-5 years). Mature trees with established bark are more resistant but terminal growth may still be browsed. Plant guild deterrents (alliums, daffodils) around the drip line. Deer pressure is a concern throughout the eastern US and upper Midwest wherever deer populations are high."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure; not suited for direct salt spray or roadside planting within the splash zone"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established; fruit quality declines significantly in drought years; consistent water during fruit swell (July-August) is important for good yield"
+    },
+    "other": "Early bloom is the key frost vulnerability — siting on slightly elevated ground or a north-facing slope delays bloom by a few days and reduces the risk of late frost crop loss; this is one of the most important site selection criteria for pear in Zones 4-7. In the humid eastern US, fire blight is the overriding disease concern and cultivar selection must prioritize resistance (see Cultivar Notes and Antagonists)."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — annual pruning, fire blight monitoring, and harvest management required; more disease-management attentive than quince but comparable to apple",
+    "pruningNotes": "Annual late-winter pruning (late February-March in Zones 5-7, before bud break) is critical. Train to an open-center (vase) or modified central leader form — open center is preferred for airflow, which reduces fire blight risk. Remove crossing branches, watersprouts (vigorous vertical shoots from scaffold branches), and any dead or diseased wood. Thin to maintain open canopy with good light and airflow throughout. In June, thin fruit clusters to one fruit per cluster spaced 4-6\" apart to improve fruit size and reduce biennial bearing. Fire blight management is paramount in humid climates: monitor for the characteristic \"shepherd's crook\" wilting of shoot tips (especially after warm, wet spring weather); cut out infected material immediately, cutting 12-18\" below the last visibly infected tissue; sterilize pruning tools between every cut with a 10% bleach or 70% alcohol solution. Do not compost fire blighted wood — bag and dispose. Avoid heavy nitrogen fertilization — it promotes succulent growth that is highly susceptible to fire blight.",
+    "propagationMethods": [
+      "Grafting onto rootstock (the only reliable method for named cultivars; rootstock determines ultimate tree size and site adaptability — see Cultivar Notes); budding; seeds produce variable seedlings not true to cultivar"
+    ]
+  },
+  "cultivarNotes": "**Fire blight resistance is the most critical selection criterion in the humid eastern US** (Zones 5-8, east of the Mississippi). In drier western climates (Pacific Northwest, Mountain West, arid Southwest), fire blight pressure is significantly lower and a wider range of cultivars performs well. Standard sweet dessert pears (Bosc, Comice, d'Anjou) have poor to moderate fire blight resistance and require careful management in humid conditions but are reliable producers in dry-summer climates like the Pacific Northwest.\n**Zones 3-5 (northern tier):**\nCold-hardiness becomes the primary constraint. 'Flemish Beauty' (Zone 3-7, moderate fire blight resistance, good fresh eating), 'Luscious' (Zone 3-7, excellent cold hardiness, small sweet fruit), and 'Ure' (Zone 3, very cold-hardy, small cooking pear) are options for the coldest sites. 'Harrow Delight' and 'Harrow Sweet' are reliable to Zone 5.\n**Zones 5-7 (mid-range, humid East and Midwest):**\nFire blight resistance is paramount. Recommended cultivars:\n**'Harrow Sweet'** (Ontario, Canada breeding program; released 1981; mid-late August harvest; excellent fire blight resistance — among the best available; juicy, sweet, butterscotch flavor; arguably the top recommendation for eastern humid climates; Zone 5-9)\n**'Kieffer'** (American hybrid — Pyrus communis x Pyrus pyrifolia; heirloom; October harvest; excellent fire blight resistance; gritty texture — not a fresh-eating pear but excellent for canning, cooking, and perry; very tough and reliable; widely available; Zone 4-9)\n**'Harrow Delight'** (Ontario breeding program; mid-August harvest; good fire blight resistance; Bartlett-type flavor; good for fresh eating; Zone 4-9)\n**'Moonglow'** (USDA release; August harvest; moderate fire blight resistance; mild, soft, juicy flesh; good fresh-eating quality; widely available; Zone 5-8)\n**'Seckel'** (American heirloom; September harvest; small, intensely sweet \"sugar pear\"; moderate-good fire blight resistance; excellent flavor and a classic; cross-pollination note: Seckel is incompatible with Bartlett — do not use as a pollination pair)\n**'Bartlett' ('Williams')**: Classic dessert pear; August; excellent flavor; widely available — but poor fire blight resistance; only plant in well-sited, well-managed situations in the humid East; performs much better in the dry-summer Pacific Northwest where it is a commercial staple.\n**Zones 8-9 (southern tier and Gulf Coast):**\nLow chill accumulation limits many cultivars. 'Kieffer' and 'Orient' are reliable in the Deep South. 'Hood' and 'Baldwin' are specifically bred for low-chill southern conditions (Zone 8-9). Fire blight is severe in the warm, humid South — resistance is essential.\n**Pollination pairing:** Best combinations are Harrow Sweet + Harrow Delight (both resistant, both August, excellent fresh quality), or Harrow Sweet + Kieffer (resistant pair, extended harvest season from August through October, excellent for dual-use fresh/canning guild). Seckel is incompatible with Bartlett.\n**Rootstock notes**: OHxF (Old Home x Farmingdale) rootstocks are strongly preferred for the eastern US — they carry fire blight resistance in the rootstock itself, provide better anchorage than quince, and tolerate heavier soils. OHxF 97 (semi-dwarf, 60-70% of standard), OHxF 333 (semi-dwarf, 50-60%), and OHxF 87 (semi-dwarf to standard) are excellent choices. Quince rootstocks produce compact, productive trees but are less fire blight resistant at the graft union, may need staking in clay, and are somewhat less cold-hardy. In the Pacific Northwest and dry-summer West, quince rootstocks perform well and produce earlier-bearing, more compact trees.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy",
+      "home orchard",
+      "permaculture guild anchor",
+      "edible landscape specimen (excellent spring bloom)"
+    ],
+    "designPlacement": "Plant as a canopy layer pair in a food forest or home orchard, with two compatible cultivars spaced 12-15' apart (semi-dwarf on OHxF rootstock). Site selection is critical: choose the highest available ground or a gentle north-facing slope to delay bloom by several days and reduce late frost crop loss. Full sun is non-negotiable. Avoid low-lying frost pockets and areas with poor drainage. Site away from Eastern red cedars (Gymnosporangium rust alternate host) and away from walnut (juglone). The pear guild anchor companions (comfrey, alliums, clover, yarrow, daffodils) should be established in the first planting season around the drip line. Protect young trees from deer with wire cages for the first 3-5 years. Pairs well with quince, gooseberry, currants, and comfrey in the mid and ground layers.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyrus_communis",
+    "inaturalist": "https://www.inaturalist.org/taxa/63951-Pyrus-communis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286400&isprofile=0&bt=4"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or DCNR invasive species list. Naturalized seedlings are common in PA hedgerows and old fields but are not regulated. Same as general Invasive field — not regulated in PA.",
+      "drainage": "Hegins red clay is workable for pear if drainage is addressed at planting — dig wide rather than deep, backfill with compost-amended native soil, and plant on a slight mound to shed water away from the crown. OHxF rootstocks are strongly preferred here because of their superior clay tolerance and anchorage compared to quince. Do not plant in low areas of the property where water stands after rain.",
+      "soil": "Hegins red clay should be amended with compost at planting — dig a wide hole (3x root ball width), mix compost 50/50 with native soil for backfill. Raised beds are not practical for tree planting; in-ground with amendment is the correct approach. The naturally slightly acidic pH of the local clay (typically 5.8-6.5) is within acceptable range but a soil test before planting is worthwhile to confirm.",
+      "cultivarNotes": "Choose Harrow Sweet + Harrow Delight as the primary pair for the best combination of fire blight resistance, fresh eating quality, and climate suitability. Add Kieffer for a late-season canning/perry pear if space allows. OHxF rootstocks are non-negotiable given the clay soil and humid climate. Source from eastern nurseries accustomed to fire blight pressure (Cummins Nursery, Stark Bro's, Adams County Nursery).",
+      "designPlacement": "Place as a canopy pair in the food forest area — not suited for Sections A, B, or C due to size. Site on the highest available ground on the property to minimize late frost risk to early bloom. Two semi-dwarf trees on OHxF rootstock spaced 12-15' apart. Surround with guild companions: comfrey at the base, alliums and daffodils in a deer deterrent ring at the drip line, white clover understory. Wire cage protection for young trees is essential given active deer pressure from the east wildlife corridor.",
+      "siteObservations": "Deer pressure from the east corridor is the primary establishment challenge — wire cages mandatory for years 1-5. The compacted red clay requires generous compost amendment at planting and mounded planting to improve crown drainage. Early bloom (early to mid-April in Zone 6a) makes frost pocket avoidance critical when choosing the planting location on the property. Eastern red cedars are common in PA hedgerows — survey the property perimeter for cedars and site the pear pair as far from them as practical to reduce Gymnosporangium rust pressure."
+    }
+  }
+}

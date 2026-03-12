@@ -1,0 +1,168 @@
+{
+  "id": "cornus-mas",
+  "name": {
+    "commonName": [
+      "Cornelian Cherry",
+      "Cornelian Cherry Dogwood",
+      "European Cornel"
+    ],
+    "latinName": "Cornus mas",
+    "family": "Cornaceae"
+  },
+  "range": {
+    "nativeRange": "Central and southern Europe east through the Caucasus and into southwestern Asia (Turkey, Iran); widely naturalized and cultivated throughout Europe and western Asia for centuries; a long-domesticated fruit plant with documented cultivation dating back to ancient Greece and Rome",
+    "usNativeStatus": {
+      "native": null,
+      "description": "Non-native — introduced from Eurasia; not native to North America"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in any US state; does not naturalize aggressively in wild areas and has no documented invasive behavior across the lower 48; widely grown without ecological concern"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "15-25'; typically reaches 15-20' in cultivation; old specimens can exceed 25' over many decades",
+    "spread": "12-20'; naturally multi-stemmed with a dense, rounded to oval crown; can be trained to a single-trunk small tree form with early pruning",
+    "spacing": "12-15' from other large shrubs or trees; can be planted closer (8-10') in a food forest hedge or shrub layer if regular thinning is acceptable",
+    "growthRate": "Slow to moderate; patient in the first few years; long-lived once established",
+    "timeToMaturity": "First fruit in years 3-5; meaningful production from year 5-7; full mature yield from year 10+; improves substantially with age",
+    "lifespan": "Exceptionally long-lived — documented specimens 100+ years old; effectively a permanent landscape plant; plan placement accordingly",
+    "deciduousEvergreen": "Deciduous — medium green leaves through summer; fall color is variable, yellow-red tones, not its primary season of interest; the exceptional seasons are late winter (bloom) and late summer (fruit)",
+    "winterInterest": "Outstanding — one of the most remarkable winter-interest woody plants available; clusters of tiny bright yellow flowers emerge on bare stems in February-March, often while snow is still possible; the floral display coats the bare branches in a warm yellow haze weeks before any other woody plant blooms; the visual effect in the late-winter landscape is genuinely striking"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best fruit production in full sun; tolerates significant shade better than most fruiting trees; genuinely adaptable — one of the few edible fruiting plants that performs acceptably in part shade conditions",
+    "water": "Low to moderate; very drought tolerant once established; performs well in average to dry conditions; does not require supplemental irrigation after the first two seasons",
+    "drainagePreference": {
+      "description": "Adaptable — tolerates clay, compacted soil, and moderately poor drainage better than most fruiting shrubs and trees; performs in conditions that would stress or kill apples, pears, and most Prunus species; also tolerates well-drained sites without complaint",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "One of the most clay-tolerant fruiting woody plants available; does not require amendment or raised beds to succeed in heavy clay; suitable for drainage-challenged sites across the lower 48 where standard fruit trees routinely fail"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5-7.5; broadly adaptable across a wide pH range"
+    },
+    "texturePreference": "Tolerant of most textures including clay-loam; prefers reasonable drainage but is among the most clay-tolerant fruiting woody plants in the temperate palette; well-suited to heavy or compacted soils that would exclude most other fruiting species",
+    "rootCharacter": "Spreading, fibrous root system; not notably shallow or aggressive; does not produce problematic surface roots; some suckering in older specimens but not aggressively colonial"
+  },
+  "bloom": {
+    "bloomTime": "February-March — one of the very first woody plants to bloom in the eastern US; flowers appear on bare stems before leaf-out, often as early as late February in Zone 6a; bloom can overlap with late snow events; the early timing is a defining characteristic and a primary reason to grow this plant",
+    "bloomDescription": "Dense clusters of 15-20 tiny (0.1\") bright yellow flowers carried directly on the bare stems; the flowers appear as tight golden-yellow clusters along every branch and twig, coating the plant in color; the overall effect from a distance is a warm yellow haze or cloud against the late-winter sky; not fragrant at distance but provides exceptional visual impact; bloom lasts 3-4 weeks, well ahead of forsythia and witch hazel's later bloom window",
+    "fragrance": "Faint, sweet; noticeable only up close; not a fragrance plant in the way that Lindera or Calycanthus are",
+    "flowerSex": "Hermaphrodite — individual flowers contain both male and female parts; plants are self-fertile",
+    "pollination": "Self-fertile — a single plant will produce fruit; cross-pollination with a second plant meaningfully improves yields and is recommended if space allows; pollinated primarily by early-emerging native bees (queen bumblebees, mining bees) and flies that are active in late winter; because almost nothing else is blooming when Cornus mas flowers, it provides a critical and essentially irreplaceable early-season pollen and nectar resource"
+  },
+  "yield": {
+    "edibleParts": "Fruit — olive-shaped drupes, 0.5-0.75\" long, bright glossy red (occasionally yellow or white in some cultivars); flesh is tart, cherry-like, and astringent when not fully ripe; fruit must be fully ripe (soft, deeply colored, nearly falling from the stem) for best raw eating — underripe fruit is strongly astringent; at peak ripeness, flavor is tart-sweet, complex, reminiscent of sour cherry with a hint of cranberry; extremely high in vitamin C (reportedly 3-4x higher than oranges) and anthocyanins; widely used across Eastern European and Middle Eastern cuisines for jams, jellies, syrups, fruit leather, sauces, and liqueurs (the Georgian and Azerbaijani cornelian cherry syrup is a classic; the Turkish and Polish traditions of cornelian preserves are well-established); makes excellent fruit wine and brandy",
+    "harvestSeason": "Late August through September; fruit does not all ripen at once; harvest over 2-4 weeks; fruit drops when fully ripe — spreading a tarp beneath the plant and shaking branches is the easiest harvest method for processing quantities",
+    "medicinalUses": "Historically used across its native range for fever, diarrhea, and digestive complaints; high vitamin C and antioxidant content well-documented; the fruit has been used in traditional medicine throughout Eastern Europe and the Middle East; astringent tannins in underripe fruit have traditional use as a digestive tonic",
+    "craftOtherYield": "Wood is extremely hard and dense — one of the hardest European hardwoods; historically used for tool handles, wooden gears, spear shafts (Homer references it), and carving; not a primary craft yield at this scale, but the wood of pruned branches is notably hard and durable"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Fruit is non-toxic; underripe fruit is strongly astringent but not dangerous; seeds (pits) should not be eaten — standard stone fruit precaution",
+    "toxicityAnimals": "Fruit is generally considered non-toxic to dogs and cats in normal quantities; no significant documented toxicity concern; standard stone fruit pit precaution applies",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Shrub layer / Understory tree layer — functions effectively at both scales depending on training and spacing; in a food forest context, occupies the large shrub to small tree niche (canopy layer edge or mid-story)"
+    },
+    "roles": [
+      "Food (high-value fruit for processing; one of the best fruiting shrubs for Zone 4-8 food forests)",
+      "Pollinator Support (exceptional — one of the highest-value early-spring pollinator plants in the entire food forest palette; essentially irreplaceable for February-March pollinator nutrition)",
+      "Wildlife (fruit consumed by birds in late summer)",
+      "Windbreak / Screen (dense branching habit; effective as a hedge or screen)",
+      "Long-term Structure (100+ year lifespan; permanent landscape anchor)",
+      "Soil Adaptability (performs in clay and difficult sites where other fruiting plants fail)"
+    ],
+    "companionPlants": [
+      "Amelanchier (serviceberry — blooms slightly later; complementary early spring sequence)",
+      "Asimina triloba (paw paw — shade contrast; different bloom season)",
+      "Ribes (currants — same shrub layer; early fruit sequence)",
+      "Allium (garlic, chives — ground layer companions)",
+      "Symphytum (comfrey — dynamic accumulator mulch beneath)",
+      "native spring ephemerals (bloom in the same late-winter to early-spring window)"
+    ],
+    "antagonists": [
+      "None well-documented; no known serious allelopathic interactions"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Early bees (queen bumblebees emerging in late winter are primary pollinators; solitary mining bees and other early native bees depend heavily on Cornus mas when almost nothing else is blooming), flies (various early-season flies supplement pollination), birds (robins, catbirds, cedar waxwings, and other frugivorous birds consume the fruit heavily in late summer; the bright red fruit is visually attractive to birds and is taken quickly once ripe)",
+    "hostPlantFor": "No documented specialist lepidopteran host relationships in North America (non-native plant); provides generalist insect value through nectar and pollen at the critical late-winter gap",
+    "nestingHabitat": "Dense multi-stemmed form provides good nesting structure for small birds; catbirds and robins may use established specimens"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — deer generally do not prefer Cornus mas; the bark and foliage are not a favored browse; rated deer-resistant by most sources; significantly more deer-resistant than most fruiting plants; a practical advantage wherever deer pressure is a concern"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates some urban stress; not a primary salt-tolerant plant but not highly sensitive"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant fruiting shrubs/trees available once established; performs well in dry summers without supplemental irrigation; substantially more drought-tolerant than apples, pears, or cherries"
+    },
+    "other": "Tolerates clay soil, compacted soil, air pollution, and urban conditions; cold-hardy to Zone 4 (-30°F); heat-tolerant through Zone 8; adapts to part shade; one of the most site-adaptable edible woody plants for temperate gardens; essentially no significant pest or disease problems in North America — dogwood anthracnose (Discula destructiva) does not affect Cornus mas; no susceptibility to dogwood borer at the level seen in native dogwoods; among the lowest-maintenance edible fruiting plants available"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the most maintenance-free fruiting plants available; once established, requires essentially no routine care",
+    "pruningNotes": "Minimal pruning needed. In the first 3-5 years, selective pruning to shape the plant as either a multi-stemmed shrub or a single-trunk small tree is the main task — decide on the form early and remove competing stems accordingly. On an established plant, remove dead, damaged, or crossing branches in late winter after flowering. Do NOT prune heavily in fall or early winter — flower buds are set on the current season's growth and will be removed. If renovation is needed, remove the oldest, thickest stems at the base in early spring on a 3-year rotation rather than cutting the whole plant hard. This maintains production while slowly renewing the framework.",
+    "propagationMethods": [
+      "Seed (requires double dormancy — warm stratification followed by cold stratification; slow; 18+ months to germination; not practical for most gardeners)",
+      "softwood cuttings (June-July; moderate success with rooting hormone)",
+      "hardwood cuttings (fall; lower success rate than softwood)",
+      "grafting (named cultivars are typically grafted onto seedling rootstock; this is how nursery plants are produced)",
+      "layering (ground layering in spring; reliable but slow)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly preferred over seedling-grown plants for food forest use — seedlings show significant variation in fruit size, flavor, and yield. The following cultivars are suitable across Zones 4-8 throughout the lower 48; all perform reliably in the cold winters of the northern tier and the summer heat of Zone 7-8 gardens:\n'Golden Glory' — The most widely available cultivar in North American nurseries; upright, somewhat columnar habit (15-20' tall, narrower spread than the species); heavy and reliable fruit production; selected for landscape use as well as fruit yield; the best all-around choice for most food forest plantings across the entire zone range; readily available from mail-order nurseries.\n'Pioneer' — Selected specifically for improved fruit size and flavor; larger fruit than the straight species; somewhat lower in astringency; a good choice if raw eating is a priority rather than just processing; less commonly available than 'Golden Glory' but worth seeking.\n'Redstone' — Selected for fruit quality; deep red fruit color; good flavor when fully ripe; available from specialty fruit nurseries.\n'Jolico' — Central European selection; among the largest-fruited cultivars; fruit up to 1\" long; selected for fresh eating as well as processing; originally from Germany; available from some specialty nurseries in North America; worth seeking if fruit yield is the primary goal.\nNote: All named cultivars are self-fertile, but pairing two different cultivars improves cross-pollination and total yield. Planting 'Golden Glory' + 'Pioneer' or 'Golden Glory' + 'Jolico' is a practical two-plant combination across all zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub or understory tree layer",
+      "woodland garden edge",
+      "wildlife garden",
+      "edible hedge or screen",
+      "pollinator garden anchor (especially for late-winter pollinator support)"
+    ],
+    "designPlacement": "Strong candidate as a food forest anchor plant across Zones 4-8 — place in the large shrub to small understory tree layer where its early bloom, summer fruit, deer resistance, and site adaptability can be fully utilized. The February-March bloom makes it one of the single highest-value plants for early pollinator support in the temperate food forest palette — essentially no other woody plant fills the late-winter pollinator gap as effectively. Situate where the yellow winter bloom is visible from the house or a frequently used path — the late-winter display is genuinely striking and rewards proximity to living areas. Site-adaptability is a significant design advantage: clay soil, occasional drought stress, and active deer pressure are all handled with minimal concern, making this a reliable choice for challenging sites throughout the lower 48 where most fruiting trees would struggle.",
+    "acquisitionStatus": "To source — available from specialty fruit nurseries and some mail-order native/edible plant nurseries; 'Golden Glory' is the most widely stocked cultivar and should be available from multiple sources; bare-root plants in late winter/early spring are the most economical acquisition method\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cornus_mas",
+    "inaturalist": "https://www.inaturalist.org/taxa/55858-Cornus-mas",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c290"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or North America",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; not on the PA Invasive Species Council list",
+      "drainage": "Performs well in the red clay, compacted, drainage-variable soils typical of central PA sites; no amendment required for establishment; a standout option for difficult clay sites in the region",
+      "soil": "An excellent match for the red clay conditions common to disturbed and agricultural sites across Pennsylvania; no special soil preparation required",
+      "cultivarNotes": "All four cultivars listed above perform well in Zone 6a; 'Golden Glory' is the most practical first choice given its wide nursery availability and consistent performance. Bloom timing (late February to mid-March) aligns well with the central PA climate; late frost events are possible but rarely damage the flowers severely given the plant's multi-week bloom window.",
+      "designPlacement": "Well-suited to the Hegins site conditions — red clay, drought stress in summer, and east-corridor deer pressure are all handled without special management. Not appropriate for Sections A or C (exceeds the 5' height limit; would require aggressive and repeated pruning to contain — this is not a plant to fight with a hedge trimmer). Best sited in the food forest or as a standalone in a larger open zone.",
+      "siteObservations": null
+    }
+  }
+}

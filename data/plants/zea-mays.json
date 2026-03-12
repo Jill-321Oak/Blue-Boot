@@ -1,0 +1,149 @@
+{
+  "id": "zea-mays",
+  "name": {
+    "commonName": [
+      "Sweet Corn"
+    ],
+    "latinName": "Zea mays var. saccharata",
+    "family": "Poaceae"
+  },
+  "range": {
+    "nativeRange": "Domesticated from teosinte (Zea mays ssp. parviglumis) in southwestern Mexico approximately 9,000 years ago; cultivated throughout the Americas by indigenous peoples before European contact; now one of the most widely grown crops in the world",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — Zea mays is a fully domesticated cereal grass originating in Mesoamerica; it does not occur as a wild plant anywhere in the lower 48 states; while field corn is cultivated on massive acreage across the Midwest, Great Plains, and eastern US, it is an agricultural crop, not a naturalized species; dropped seed occasionally germinates as a volunteer but does not establish self-sustaining populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — corn cannot survive or reproduce without human cultivation; it lacks any mechanism for seed dispersal, does not form persistent seed banks, and volunteer seedlings are not competitive with established vegetation; not listed on any state noxious weed list or the USDA Federal Noxious Weed List; no invasive concern anywhere in the lower 48"
+    },
+    "zone": {
+      "min": 65,
+      "max": 95,
+      "description": "Warm-season annual grown in all zones with sufficient frost-free days; requires a minimum of 65–95 frost-free days depending on variety; most sweet corn types need at least 70–80 days; Zones 3–5 require short-season varieties (65–75 days) and careful timing; Zones 6–7 accommodate the full range of su, se, and sh2 types; Zones 8–10 can plant earlier and may get two successive crops in a single season"
+    }
+  },
+  "description": {
+    "height": "5–8 ft depending on variety; sweet corn types typically 5–7 ft; nitrogen-rich soil produces noticeably taller plants",
+    "spread": "12–18 in per plant; block plantings create a dense canopy above 4 ft that shades out most weeds once established",
+    "spacing": "9–12 in between plants within rows; rows 24–30 in apart; plant in a grid block — not in single rows — for adequate wind pollination (see Pollination)",
+    "growthRate": "Fast — germinates in 7–10 days in warm soil (60°F+); rapid stalk elongation through vegetative stages; tassels emerge 55–70 days after germination",
+    "timeToMaturity": "65–95 days from direct sow to harvest depending on type and variety; 70–80-day SE types are the most reliable for Zones 5–7; harvest window is 18–24 days after silk emergence",
+    "lifespan": "Strict annual — one growing season; killed by the first hard frost; must be replanted from seed each year",
+    "deciduousEvergreen": "Annual (not applicable)",
+    "winterInterest": "None — dried stalks can be left standing as autumn decoration or overwintering habitat for beneficial insects, but clear before spring to prevent corn stalk borer overwintering"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 8 hours direct sun daily; less than full sun delays tasseling, reduces ear size, and increases incidence of blank (unfilled) ears",
+    "water": "Moderate to high — 1–1.5 in per week; most critical at two stages: (1) during rapid stalk elongation in June–July, and (2) during silking and ear fill, when drought causes silk desiccation and incomplete pollination; a 2–3 in layer of mulch around plants significantly reduces soil moisture loss; in arid western climates, drip irrigation is essential and water needs may exceed 2 in per week during ear fill",
+    "drainagePreference": {
+      "description": "Moderate — tolerates average drainage but not prolonged waterlogging; standing water causes root suffocation and stalk rot; ideal is well-drained soil that retains moisture without staying saturated; raised beds or mounded rows improve drainage in heavy soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — corn can be grown successfully in clay soil if drainage is adequate and the soil is loosened before planting; heavy clay causes slow root penetration, delayed warming in spring (critical for germination timing), and waterlogging risk during wet periods; amending with 3–4 in of compost before planting and avoiding compaction around the root zone significantly improves performance; raised beds or deeply loosened in-ground beds remove the drainage constraint"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0–6.8 (slightly acid to near-neutral)"
+    },
+    "texturePreference": "Fertile, loose, well-drained loam; corn is a heavy nitrogen consumer and performs best in organically rich soil with good structure; amending with 2–4 in of compost before planting improves all soil types; a nitrogen side-dress at knee height with blood meal, fish emulsion, or feather meal boosts yield significantly in any soil",
+    "rootCharacter": "Deep, fibrous root system that can reach 3–5 ft in loose soil; also produces above-ground brace roots from lower stalk nodes that anchor the plant against wind — do not disturb or bury them; avoid deep cultivation near established plants"
+  },
+  "bloom": {
+    "bloomTime": "July–August in Zone 6a; June–July in Zones 8–10; tassels (male) emerge first and shed pollen for approximately one week; silks (female) emerge from the ear a few days after tassels appear",
+    "bloomDescription": "Tassel — branched terminal plume at the top of the stalk; sheds large quantities of yellow pollen over 5–10 days; silk — long, sticky stigmas emerging from the tip of the developing ear husk; each individual silk is attached to one kernel position on the cob; every silk must receive pollen for that kernel to form; an ear with 400 kernels requires 400 successful pollen-silk contacts",
+    "fragrance": "Mild, green, grassy during tasseling; silks have a faint sweet-milky scent; not a fragrance-garden plant",
+    "flowerSex": "Monoecious — separate male (tassel) and female (silk/ear) flowers on the same plant",
+    "pollination": "Wind-pollinated exclusively; pollen falls from tassels above onto silks below; must be planted in blocks (minimum 4×4 arrangement, 16+ plants) rather than single rows — in a block, pollen sheds from many tassels simultaneously and drifts down onto silks from all directions; single rows produce sparse, patchy ears because most pollen blows away unused; block planting is the single non-negotiable spatial requirement for growing corn"
+  },
+  "yield": {
+    "edibleParts": "Ears (kernels) — eaten fresh, boiled, grilled, or roasted at the milk stage; young ears can be eaten whole (baby corn); dried kernels can be ground or stored (popcorn, cornmeal); corn silk has herbal uses; husks used for cooking and crafts",
+    "harvestSeason": "Timing depends on zone and variety: Zone 6a late-May sow produces harvestable ears mid-August through early September for 70–80-day SE varieties; Zone 8+ spring sow can harvest by July; harvest when silk is brown and dry and kernels exude milky fluid when punctured; use or refrigerate immediately — sugar-to-starch conversion begins within hours for SU types; SE and sh2 types hold 3–7 days",
+    "medicinalUses": "Corn silk (Stigma maydis) — traditional diuretic used for urinary tract support, kidney inflammation, and edema; contains flavonoids, tannins, and plant sterols; infuse dried silk as a tea; secondary use of a crop being grown anyway; not a substitute for medical care",
+    "craftOtherYield": "Husks — dried for tamales, corn husk dolls, and basket weaving; stalks — chipped for compost, used as heavy carbon mulch, or bundled for fall decoration; dried cobs — fire starters, crafts; colorful open-pollinated varieties (Glass Gem, Dakota Black) are genuinely ornamental in harvest displays"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — sweet corn is safe for human consumption at all growth stages",
+    "toxicityAnimals": "Corn cobs are a serious intestinal obstruction hazard for dogs — keep cobs away from dogs after harvest; corn kernels and plant material are not toxic to dogs, cats, or livestock; deer and raccoons find corn highly palatable and will actively seek it out (see Tolerances)",
+    "allelopathy": "None significant; corn is not allelopathic to its neighbors; the Three Sisters combination specifically leverages corn's physical structure without allelopathic conflict",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Herbaceous layer (tall annual) — functions as a temporary canopy-level element at 5–8 ft within the annual vegetable garden; provides vertical structure for climbing companions"
+    },
+    "roles": [
+      "Annual staple food crop (primary); vertical structure provider for climbing beans in the Three Sisters guild; nitrogen consumer (heavy feeder, balanced in Three Sisters by companion bean fixation); biomass and compost source (large quantities of carbon-rich stover at season end); habitat structure for insectivorous birds and overwintering beneficial insects"
+    ],
+    "companionPlants": [
+      "Pole beans (fix nitrogen, climb the stalk — plant 2 weeks after corn is established so corn gains a height lead before beans begin to climb); winter squash or pumpkin (ground cover, weed suppression, moisture retention — plant simultaneously with beans in the outer ring of the corn block); sunflowers at the perimeter (wind break, beneficial insect support); borage (deters corn earworm moths, attracts predatory wasps); marigolds at bed edges (nematode suppression)"
+    ],
+    "antagonists": [
+      "Other corn types tasseling simultaneously — cross-pollination between sh2 supersweet and SU/SE types ruins both crops; fennel (broadly allelopathic to most vegetables, keep separated); tomatoes (poor bed companions — shared pests including corn earworm/tomato fruitworm, and competition for nitrogen)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Goldfinches and sparrows feed on dried kernels; red-winged blackbirds are attracted to ripening ears and will damage them; the dense canopy provides ground-level cover for small birds; corn tassels support pollen-gathering native bees",
+    "hostPlantFor": "Corn earworm moth (Helicoverpa zea) — primary ear pest; larvae bore into ear tip via fresh silks; European corn borer (Ostrinia nubilalis) — larvae bore into stalks and ears; fall armyworm (Spodoptera frugiperda) — periodic outbreak pest targeting young plant whorls; various aphid species on leaves and tassels",
+    "nestingHabitat": "Dried stalks left standing through autumn provide cavity-like overwintering habitat for beneficial insects; ground-level cover within the block shelters ground-feeding birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — deer find corn highly attractive at every growth stage; young seedlings are browsed to the soil; developing ears are a primary target and can be stripped overnight; physical exclusion (8 ft deer fence or electrified fence) is non-negotiable anywhere deer are present; repellent sprays are ineffective once ears begin to fill; raccoons are an equally serious threat — they locate ripe ears by scent and can strip an entire block in one night; an electric fence with peanut butter bait on the wire is the most effective combined deer/raccoon deterrent"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — corn is salt-sensitive; foliage shows tip burn and yield drops at even moderate salt exposure; not suited for roadside planting or coastal salt spray zones"
+    },
+    "drought": {
+      "rating": "low",
+      "description": "Low at critical periods — tolerates brief dry spells during vegetative growth via deep roots; highly sensitive to drought during silking (silk desiccation causes catastrophic ear fill failure) and during stalk elongation; keep soil consistently moist from silking through harvest"
+    },
+    "other": "Frost-tender — do not sow before soil consistently exceeds 60°F; in northern zones (3–6), this means waiting well past the last frost date; cold wet soil causes seed rot and erratic germination; wind lodging risk — brace roots anchor the plant, and block planting allows plants to support each other; do not cultivate deeply near established plants; high humidity increases risk of foliar diseases (northern corn leaf blight, gray leaf spot) — good air circulation within the block helps"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Moderate — not high in daily labor, but has specific non-negotiable requirements: block planting, fencing, timing-critical harvest, and pest monitoring; failure at any one produces crop failure",
+    "pruningNotes": "No pruning required; do not remove suckers (tillers) at the base — research shows removal does not improve yield and may reduce plant stability; do not disturb or bury brace roots; cut stalks at the soil surface at season end and compost or shred; the root system can be left to decompose in place",
+    "propagationMethods": [
+      "Direct seed only — corn does not transplant reliably; sow 1–1.5 in deep into prepared soil after the last frost date and when soil temperature consistently exceeds 60°F; plant in a grid block at 9–12 in spacing; germination in 7–10 days; succession plant a second block 2–3 weeks later for an extended harvest; if growing multiple types (e.g., sweet corn + popcorn)",
+      "stagger plantings by at least 2–3 weeks or separate by 400+ ft to prevent cross-pollination during tasseling; open-pollinated varieties breed true from saved seed; F1 hybrids do not"
+    ]
+  },
+  "cultivarNotes": "Sweet corn genetics fall into three main categories — selecting the right type is more important than selecting a specific named variety:\nSugary (su) types — Traditional sweet corn with a narrow harvest window of 1–3 days; sugar converts to starch rapidly after harvest; best eaten within hours of picking; most forgiving in cool soils, making them the safest choice for short-season gardens in Zones 3–5. Silver Queen (92 days, white, classic flavor) is an iconic su type but requires a long season — only reliable in Zones 6+ with early sowing. Peaches and Cream (83 days, bicolor, su/se blend) is widely adapted and reliable across Zones 5–8.\nSugary Enhanced (se) types — Higher sugar content, slower starch conversion; holds peak quality 3–5 days post-harvest; no isolation requirement from other corn types; the best all-around choice for most home gardeners in Zones 5–8. Bodacious (75 days, yellow, excellent flavor, strong performer in the mid-Atlantic and Midwest); Honey Select (79 days, yellow, AAS winner, exceptional sweetness, widely adapted); Ambrosia (75 days, bicolor, consistently excellent across regions). SE types are the recommended starting point for gardeners who have not grown corn before.\nSupersweet (sh2) types — Very high sugar, very slow starch conversion; holds quality 7+ days; crunchier texture; more sensitive to cold soil germination (requires 65°F+); MUST be isolated by 400+ ft or 10–14 days in planting time from su/se corn, popcorn, or field corn to prevent cross-pollination — cross-pollination makes sh2 kernels starchy and ruins the harvest of both types. Best suited to Zones 7+ where soil warms quickly, or northern zones with pre-warmed raised beds. How Sweet It Is (87 days), Illini Xtra Sweet (85 days).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated annual vegetable bed; Three Sisters polyculture with pole beans and winter squash; block planting within a fenced vegetable enclosure; succession planting for extended harvest"
+    ],
+    "designPlacement": "Requires a dedicated block of at least 4 rows (minimum 4×4, 16 plants) for adequate wind pollination — this is the single non-negotiable spatial constraint. Place on the north or west side of the vegetable garden so its 5–8 ft height does not shade shorter crops. Needs full sun, open exposure, and protection from strong wind (corn lodges in exposed sites). Keep away from other corn types unless isolation distance or timing separation is maintained. Not suitable for small raised beds, narrow borders, or interplanting with low crops that need full sun.",
+    "acquisitionStatus": "Not yet acquired — seed widely available annually from Johnny's Selected Seeds, Fedco, Baker Creek, Burpee, and Territorial Seed Co.; Bodacious, Honey Select, Peaches and Cream, and Silver Queen are all standard catalog offerings; do not save seed from F1 hybrid cultivars"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maize",
+    "inaturalist": "https://www.inaturalist.org/taxa/48448-Zea-mays",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285225"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — a fully domesticated cereal grass with no wild populations in Pennsylvania; does not naturalize",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field",
+      "drainage": "Hegins red clay is cold and slow-draining in spring, which delays the safe sowing window; raised vegetable beds are strongly recommended — they warm faster, drain freely, and allow the loose root run corn needs; in-ground planting requires deep compost amendment (4+ in worked into the top 12 in) and patience to wait for soil to warm past 60°F, which may not happen until late May",
+      "soil": "Hegins red clay is naturally acidite and compacted; raised beds filled with compost-amended loam are the practical solution; if planting in-ground, deep compost incorporation and a nitrogen side-dress at knee height are non-negotiable for acceptable yield",
+      "cultivarNotes": "SE types are the clear first choice — Bodacious or Honey Select for yellow, Ambrosia for bicolor. All three mature reliably within the ~165-day growing season with a late-May sow. Try Silver Queen once block-planting and fencing infrastructure is proven. Avoid sh2 types unless using raised beds that warm quickly past 65°F.",
+      "designPlacement": "Vegetable garden raised beds in the full-sun area; place on the north side of the bed layout to avoid shading other crops; fence the entire block for deer and raccoon exclusion.",
+      "siteObservations": "Three critical success factors at Hegins in priority order: (1) fence for deer and raccoons — without it, the crop will not survive to harvest; raccoons locate ripe ears by scent and can strip an entire block overnight on the eve of harvest — an electric fence with peanut butter bait is the most effective deterrent; (2) block planting — minimum 4×4, 16 plants; (3) soil temperature — do not sow into cold clay; wait until late May when soil exceeds 60°F. The Three Sisters guild (corn, beans, squash) is the most appropriate permaculture framing for this site: pole beans fix nitrogen for the corn, squash provides living mulch and weed suppression, and the corn provides vertical structure for the beans. Start with a 4×4 block of Bodacious, fenced, with pole beans and squash — prove the system works before expanding. Salt from Route 25 is not a concern given the distance of the vegetable beds from the road."
+    }
+  }
+}

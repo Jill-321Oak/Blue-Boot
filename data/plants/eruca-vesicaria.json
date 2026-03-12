@@ -1,0 +1,170 @@
+{
+  "id": "eruca-vesicaria",
+  "name": {
+    "commonName": [
+      "Arugula",
+      "Rocket",
+      "Garden Rocket",
+      "Roquette",
+      "Rucola"
+    ],
+    "latinName": "Eruca vesicaria (syn. Eruca sativa)",
+    "family": "Brassicaceae (Mustard family)"
+  },
+  "range": {
+    "nativeRange": "Mediterranean basin and western Asia — from Morocco and Portugal east through southern Europe, Turkey, and into the Middle East; long cultivated throughout the Old World and now widely naturalized in disturbed ground on multiple continents",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; introduced and widely naturalized in disturbed ground, roadsides, waste areas, and agricultural margins across much of the continental US"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states; not listed on any state invasive species list; self-seeds freely in disturbed ground but populations are annual and easily managed; no documented displacement of native vegetation; self-seeding in the kitchen garden is a desirable trait, not a spread concern\nPennsylvania:\nNative to Site: No — not native to Pennsylvania or eastern North America; naturalized in waste ground and roadsides statewide\nPA Invasive Status: Not listed — Pennsylvania's Invasive Species Council does not list Eruca vesicaria; no restrictions on cultivation or sale"
+    },
+    "zone": {
+      "min": 3,
+      "max": 11,
+      "description": "Annual; grows in zones 3–11 as a cool-season crop; perennial only in frost-free climates (Zone 10–11); in most of the lower 48 treated as a spring and fall annual with reliable self-seeding bridging the seasons; in zones 9–10 (coastal California, Gulf Coast, low-desert Southwest) can be grown as a winter annual producing through the cool season with no frost protection needed\nZone 6a Pennsylvania: Treated as a spring and fall annual with reliable self-seeding; fall crop is the primary production window; spring crop is a secondary bonus planting"
+    }
+  },
+  "description": {
+    "height": "12–24\" before bolting; bolt stalks can reach 36–40\" when flowering",
+    "spread": "8–12\" per plant",
+    "spacing": "6\" for baby leaf / cut-and-come-again production; 9–12\" for full-sized plants",
+    "growthRate": "Very fast — germinates in 5–7 days; baby leaves ready in 21–30 days; mature leaves in 35–45 days; one of the fastest-cycling salad crops in the garden",
+    "timeToMaturity": "21 days to first baby leaf harvest; 40 days to full leaf maturity; bolts 50–70 days from sowing depending on temperature and day length — cool conditions significantly extend this window",
+    "lifespan": "Annual; completes its life cycle in one season; however, in practice arugula behaves as a self-perpetuating presence in the garden once established, with volunteer seedlings germinating in fall from summer-set seed and in spring from fall-set seed — after the first year, it essentially perpetuates itself without any reseeding effort",
+    "deciduousEvergreen": "Annual — no persistent structure; dies after flowering and setting seed; fall-sown seedlings can overwinter as small rosettes under mulch or row cover in zones 5–7 and resume growth in early spring, often providing the first fresh greens of the season",
+    "winterInterest": "None structurally; fall-sown seedlings may remain as small green rosettes into early winter under mild conditions in zones 6 and warmer"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun is fine in cool weather (spring and fall); afternoon shade is actively beneficial as temperatures rise in spring — it delays bolting meaningfully and extends the harvest window; partial shade placement is a legitimate design strategy for spring crops, not a compromise; in zones 8–10 where winters are the growing season, full sun is ideal throughout",
+    "water": "Medium; consistent moisture produces the most tender, mildly flavored leaves; drought stress accelerates bolting and intensifies bitterness; arugula in dry soil will bolt faster and taste sharper than well-watered plants; regular irrigation during dry spring and fall stretches pays dividends in leaf quality",
+    "drainagePreference": {
+      "description": "Average; adaptable to a wide range of drainage conditions; the taproot handles heavier soils better than most salad greens; avoid waterlogged conditions but does not require exceptionally well-drained soil",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Better than most salad greens; the taproot penetrates compacted and clay soils effectively and arugula will establish and produce where lettuces and spinach struggle; raised beds or loosened in-ground beds improve yield and ease of harvest but are not required; waterlogged clay is the primary risk, not clay texture itself"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0; tolerates a fairly wide range; not pH-sensitive in the way that some brassicas are"
+    },
+    "texturePreference": "Rich, moist, fertile soil produces the most tender, mild leaves and the longest pre-bolt window; however, arugula is one of the most adaptable salad greens — it performs in clay, in disturbed ground, in raised beds, and in marginal soils where lettuces struggle; this adaptability is a core reason it is valued as a self-sowing kitchen garden staple",
+    "rootCharacter": "Taproot — a single, straight primary root that penetrates through compacted and clay soils effectively; the taproot is the key to arugula's clay tolerance and broad soil adaptability; it also makes direct sowing strongly preferable to transplanting — tap-rooted plants do not transplant as cleanly as fibrous-rooted ones and transplant shock accelerates bolting"
+  },
+  "bloom": {
+    "bloomTime": "Varies by sowing date and temperatures; spring sowings typically bolt May–June in zones 5–7; in warmer zones (8–9), spring sowings may bolt as early as April; fall sowings in most zones may bolt the following spring; in zones 9–10, winter sowings bloom in early spring",
+    "bloomDescription": "Flowers are white to pale cream with four petals and distinctive dark purple veins — attractive in a spare, brassica way; held on tall branching stalks above the rosette; fully edible and retain the peppery, mildly spicy arugula flavor in a more delicate form; excellent scattered over salads, used as a garnish, or floated on cheese plates; the flowers mark the end of the primary leaf harvest but open a secondary edible phase",
+    "fragrance": "Mild; a faint peppery, cruciferous scent when blooming; not fragrant in any ornamental sense",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts; self-fertile",
+    "pollination": "Self-fertile; also visited by small bees, hoverflies, and beneficial insects; cross-pollination between plants occurs readily; plants allowed to bolt and flower are a minor but genuine insectary resource in the kitchen garden, especially as an early-season bloom in the cool shoulder seasons when fewer flowers are available"
+  },
+  "yield": {
+    "edibleParts": "Leaves (primary yield), flowers (secondary), immature seed pods (tertiary), seeds (can be pressed for taramira oil). The leaves are the defining yield: intensely peppery, nutty, and slightly bitter with a distinctive mustardy heat that no other common salad green replicates. Young baby leaves (under 2–3\" long) are the most tender and balanced — the pepper is lively without being harsh, and the nuttiness is pronounced. As leaves mature and especially as the plant approaches bolting, flavor intensifies dramatically — the pepper sharpens into genuine heat, bitterness rises, and the leaves become tougher. This flavor escalation is the primary reason harvest timing and bolt management are so important; arugula harvested at the right stage is a refined, complex salad green, while arugula harvested post-bolt can be nearly unpalatable raw (though still usable in cooked applications). Flowers are edible and worth using — mildly peppery, delicate, and visually striking scattered over a salad or cheese course. Immature seed pods (harvested while still green and tender, before the seeds harden) are edible raw or lightly cooked and have a bright, peppery crunch similar to radish pods. Mature seeds can be cold-pressed to produce taramira oil (also called jamba oil or tara oil), a pungent, distinctly flavored cooking oil traditionally used in northern Indian and Pakistani cuisine — not a typical home garden yield, but an interesting deeper use worth knowing.",
+    "harvestSeason": "Season timing varies by zone. In zones 5–7 (most of the Northeast, Midwest, and Mid-Atlantic): sow 4–6 weeks before last frost for spring crop; sow 6–8 weeks before first fall frost for the fall crop, which is typically the more productive and enjoyable of the two. In zones 8–9 (upper South, Pacific Northwest lowlands): spring and fall crops both viable; summer is too hot; in mild-winter areas a fall sowing can produce through winter into early spring. In zones 9b–10 (coastal California, Gulf Coast, low desert): primarily a winter annual — sow October through February for production through the cool season. The fall crop is generally superior in zones 5–7: cooling temperatures slow the plant's urgency to bolt, flavor is more balanced and nuanced, and the harvest window is longer. Fall plants sown in late summer may produce into late fall with light row cover protection, and seedlings started in early fall often overwinter as small rosettes under mulch or a cold frame, providing the season's first fresh greens the following late winter. This is one of arugula's most compelling traits across zones 5–7: a fall planting that is mulched or cold-framed will often be the first harvestable green of the following spring, emerging well before the last frost date.",
+    "medicinalUses": "Traditionally used as a digestive stimulant and mild diuretic; seeds historically pressed for medicinal oil in South Asian traditional medicine; contains glucosinolates (as with all brassicas) with documented antioxidant properties; not a primary medicinal plant in western herbalism",
+    "craftOtherYield": "Dried seed pods and branched bolt stalks have minor dried-flower interest; seeds pressed for taramira oil in South Asian culinary and traditional medicine contexts"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; safe for all ages in normal culinary quantities; the glucosinolate compounds that give arugula its peppery bite are the same class found throughout the brassica family and are considered health-supportive at culinary levels; individuals on blood-thinning medications should note that arugula contains Vitamin K, as do all dark leafy greens, and should maintain consistent consumption rather than dramatically varying intake",
+    "toxicityAnimals": "Brassica family plants are generally safe for dogs and cats in small quantities; the peppery heat compounds mean most animals self-limit; not a significant toxicity concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / ground layer — a low, fast-cycling annual that occupies a distinct niche as a self-renewing cool-season ground cover between other plantings"
+    },
+    "roles": [
+      "Food (primary culinary yield — one of the most distinctive flavors available from an annual kitchen garden planting)",
+      "Self-Seeding Annual (after the first establishment year, arugula essentially perpetuates itself in the garden without intervention — it sets seed prolifically in late spring and early summer, seeds germinate in fall and the following spring from the seed bank, and the cycle continues; this makes it function more like a managed perennial presence than a traditional annual that must be replanted each year)",
+      "Cool-Season Gap Filler (produces during the shoulder seasons when most vegetable beds are empty — spring before summer crops establish, and fall after summer crops are cleared)",
+      "Minor Insectary Plant (flowers in the cool seasons when beneficial insect food is scarce)",
+      "Ground Cover (dense rosettes suppress weeds in their footprint during cool seasons)"
+    ],
+    "companionPlants": [
+      "Tomatoes and other warm-season crops (arugula fills the bed in spring before warm-season transplants go in, then is pulled and cleared — a natural succession planting)",
+      "Lettuce and other salad greens (direct companions in the cool-season salad bed — harvest them together)",
+      "Radishes (classic row companions — both cool-season, both fast-cycling; radishes help break compacted soil and may deter flea beetles to some degree)",
+      "Carrots (taproot neighbors that occupy similar soil horizons without competing; carrots grow on after arugula is cleared)",
+      "Nasturtiums (trap crop for aphids; attract aphid predators to the garden)",
+      "Comfrey at bed edges (mineral cycling; does not compete with shallow-rooted annual arugula)"
+    ],
+    "antagonists": [
+      "None well-documented; avoid planting in heavy shade where insufficient light will produce pale",
+      "weak plants with poor flavor; avoid succession-planting in the same spot as other brassicas without rotating — shared soil pathogens and pest populations (flea beetles) can build up"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Small bees (especially small native bees and honeybees), hoverflies, and beneficial parasitic wasps; the cool-season bloom timing is a genuine value — arugula flowers in spring and again in fall when few other garden plants are flowering, providing pollen and nectar during shoulder-season gaps; hoverflies attracted to arugula flowers are important aphid predators",
+    "hostPlantFor": "Flea beetles (Phyllotreta species) use arugula and other brassicas as a feeding host — not a desirable relationship; see Maintenance notes; small white butterfly (Pieris rapae) and cabbage white caterpillars will feed on leaves, though arugula's rapid cycling usually limits the damage window",
+    "nestingHabitat": "None significant — an annual without persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "low",
+      "description": "Low — arugula is palatable and actively browsed by deer; the peppery flavor that makes it distinctive to humans does not deter deer meaningfully; seedlings and young plants are particularly vulnerable; row cover or fencing is essential for reliable production in the early seedling stage in deer-active areas; arugula's self-seeding habit provides a degree of resilience that a single planting does not — when volunteer seedlings emerge in multiple locations throughout the garden (raised beds, disturbed ground, bed edges), deer pressure is distributed and some plants will evade notice or reach a more established size before being found; a self-seeding population distributed across the property is inherently more deer-resilient than a single concentrated planting"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; road salt is not a concern for beds set back from road margins; salt air in coastal gardens is similarly unlikely to be an issue at the scale of a kitchen garden planting"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — drought stress rapidly accelerates bolting and intensifies bitterness; arugula is not drought-tolerant in the way that Mediterranean herbs are; consistent moisture is a meaningful quality factor; the fall crop typically benefits from naturally cooler and moister conditions that reduce drought stress compared to spring"
+    },
+    "other": "Excellent frost tolerance for a salad green — arugula survives light frosts (28–30°F) without protection and is hardy to harder freezes (25°F or below) under row cover or cold frame; this cold tolerance is the foundation of its value as an overwintering crop across zones 5–7; fall-sown plants mulched with straw or covered with a cold frame or floating row cover (Reemay / Agribon) can survive zone 5–7 winters and resume growth in late winter or early spring, making arugula one of the first fresh garden greens of the new growing season"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the lowest-maintenance food plants available; once self-seeding is established, it requires essentially no active intervention beyond harvest and occasional thinning of volunteer seedlings",
+    "pruningNotes": "Cut-and-come-again harvesting is the primary management technique: using scissors or a sharp knife, cut all leaves 1–2\" above the soil line, leaving the growing crown intact; the plant regrows from the crown and produces a second and often third flush of baby leaves before bolting energy takes over; this approach dramatically extends the harvest window compared to picking individual outer leaves. Remove outer flower stalks promptly if extending the leaf harvest is the goal — cutting the first bolt stalk sometimes delays full bolting by 1–2 weeks, though in warm weather this is a temporary measure at best. For self-seeding management: allow a few plants to bolt fully and set seed each season — these will provide the next generation of volunteers; if self-seeding becomes excessive, simply pull unwanted volunteers when small; the seedlings have a recognizable shape and pull easily. Flea beetle management: row cover (Agribon AG-19 or equivalent floating row cover) placed immediately after sowing is the most effective preventive measure — flea beetles cannot reach covered plants; established plants with good leaf mass tolerate moderate flea beetle puncture damage without significant impact on harvest; companion planting with trap crops (radishes, mustard greens) can draw flea beetles away from arugula.",
+    "propagationMethods": [
+      "Direct sow exclusively — arugula does not transplant reliably due to its taproot; transplanting causes transplant shock that accelerates bolting; sow seed directly in the bed where it will grow",
+      "shallowly (1/4\" deep or simply pressed into moist soil surface)",
+      "and thin to final spacing; sow thickly for cut-and-come-again production (scatter-sow in blocks rather than rows); seed germinates in 5–7 days in cool soil (45–65°F); cooler germination is fine — arugula is one of the earliest seeds that can be direct-sown",
+      "often 6–8 weeks before last frost when soil is still cold. Self-seeding: the most effortless propagation method after the first year; allow a plant or two to bolt and set seed fully; seeds scatter naturally and germinate in fall and the following spring; once established in a bed or disturbed area",
+      "arugula essentially reseeds itself indefinitely with no further input."
+    ]
+  },
+  "cultivarNotes": "Arugula is most commonly grown as the straight species (Eruca vesicaria, syn. E. sativa) without named cultivars, and the species itself is excellent — for most kitchen garden purposes, simply purchasing \"arugula\" or \"rocket\" seed from any reputable source is sufficient. A few selections and distinctions are worth knowing across the lower 48. 'Astro' is a widely available, fast-growing open-pollinated selection noted for its mild flavor compared to wild-type arugula and excellent cut-and-come-again regrowth — a good choice for those who find standard arugula too sharp, and suitable from zones 3–9. 'Runway' and 'Grazia' are slow-bolting Italian commercial selections that extend the harvest window in spring; worth seeking out anywhere bolt resistance is the primary goal, particularly useful in zones 6–8 where spring temperatures can rise quickly. In zones 8–10, where arugula is grown as a winter or fall-through-spring crop, the slower-bolting selections offer less advantage since cool temperatures naturally limit bolting; in these zones, grow any quality open-pollinated variety and enjoy the extended natural harvest window. 'Sylvetta' (also sold as \"wild arugula\") is actually Diplotaxis tenuifolia — a different genus and species entirely, though often sold alongside arugula interchangeably. Wild arugula / Sylvetta is a true perennial (not an annual), with deeply lobed, smaller leaves, yellow flowers (not white), a much more intense and distinctly peppery flavor, and substantially slower bolting behavior even in summer heat — it can be grown as a cut-and-come-again crop through much of the summer when true arugula has long since bolted out. In zones 5–7 it functions as a reliably returning perennial and is a genuine multi-season companion to the annual arugula cycle. In zones 8–9 it may be semi-evergreen; in zones 3–4 it may need overwintering protection. The flavor difference is significant: Diplotaxis is more consistently sharp and peppery regardless of maturity, while Eruca vesicaria baby leaves are notably milder and nuttier. Both are worth growing — they occupy the same culinary niche but with different production windows and flavor intensities. Consider growing both: standard arugula as the primary spring and fall self-seeding crop, and wild arugula / Diplotaxis as a semi-permanent perennial patch for summer production across much of the lower 48.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised bed salad production (primary)",
+      "in-ground kitchen garden bed",
+      "cold frame or row cover overwintering",
+      "self-seeding annual ground cover in disturbed or marginal areas",
+      "gap filler between permanent plantings"
+    ],
+    "designPlacement": "Arugula's clay tolerance, taproot, and self-seeding habit make it one of the most practical and lowest-effort salad greens available to gardeners across the lower 48. In-ground or raised bed growing are both viable — raised beds with amended soil produce the highest-quality baby leaf yields and allow the earliest spring sowings. In kitchen garden designs, plant arugula close to the house or harvest path where cut-and-come-again harvesting can be done on the way to or from the kitchen. Allow one or two plants per bed to bolt and set seed each season — after the first year, volunteer seedlings will appear at bed edges and in surrounding disturbed soil, creating a low-maintenance self-renewing population that fills the cool-season gap with no replanting effort. The self-seeding habit also means arugula will colonize any disturbed ground on the property — consider intentionally scattering seed in in-ground growing areas in both spring and fall to establish a volunteer population. For deer management across any deer-active site: row cover during the vulnerable seedling stage is essential, but the distributed, self-seeding nature of an established arugula population gives it resilience that a single bed does not. A cold frame or low tunnel over a dedicated bed allows overwintering arugula rosettes to provide the first spring harvest of each year — one of the most rewarding cool-season crops for zones 5–7.",
+    "acquisitionStatus": "To source — seed widely available; purchase from Johnny's Selected Seeds, Baker Creek, High Mowing, or any reputable vegetable seed supplier; price per packet is minimal; a single packet of seed is sufficient to establish a self-seeding population\nPennsylvania — Hegins Site Observations:\nFlea beetle pressure should be anticipated — row cover from day one of sowing is the most reliable preventive strategy; remove cover only to harvest, then replace. Fall crops consistently outperform spring crops in Zone 6a — prioritize fall sowing (late August to mid-September) as the primary production window and treat spring as a bonus early-season crop. Allow bolting plants to set seed every season to maintain the self-seeding population. Wild arugula (Diplotaxis tenuifolia) is worth adding as a companion permanent planting for summer production — purchase as transplants or seed separately. Active deer pressure at this site makes row cover non-optional for the seedling stage; once plants are well-established, browsing pressure is easier to manage and the distributed self-seeding population provides resilience."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eruca_vesicaria",
+    "inaturalist": "https://www.inaturalist.org/taxa/77058-Eruca-vesicaria",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278075&isprofile=1&basic=arugula"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; naturalized in waste ground and roadsides statewide",
+      "paInvasiveStatus": "Not listed by PA Invasive Species Council; no restrictions on cultivation or sale",
+      "drainage": "Performs well in the red clay soils common to central and eastern PA; raised beds eliminate drainage concerns entirely; in-ground plantings in compacted red clay will still produce but benefit from a layer of compost worked into the top few inches; the taproot handles the underlying clay without issue",
+      "soil": "Performs well in both raised beds and in-ground beds amended with compost; the red clay base soil at Hegins is manageable with surface compost incorporation; raised beds with mixed compost/topsoil produce the most consistent baby leaf yields and allow the earliest spring sowings (raised bed soil warms faster than in-ground)",
+      "cultivarNotes": "Fall crop (sow late August to mid-September) is the primary production window; spring crop (sow 4–6 weeks before last frost, mid-March to early April) is a worthwhile secondary planting but will bolt by late May in most years; 'Runway' or 'Grazia' are good spring selections; any open-pollinated variety is excellent for fall; Diplotaxis tenuifolia is worth establishing as a permanent perennial patch for summer gap coverage",
+      "designPlacement": "Section B (kitchen-adjacent herb strip) is the natural home for the primary arugula planting — its productivity-over-beauty character fits the kitchen garden philosophy of that zone, and proximity to the kitchen makes cut-and-come-again harvesting practical as a daily or weekly habit. Grow it in the raised beds under row cover for spring and fall production with full flea beetle and deer protection. A cold frame or low tunnel over a Section B bed position would allow overwintering arugula rosettes to provide the first spring harvest of each year. The self-seeding habit means arugula will also colonize disturbed ground elsewhere on the property — allow it to naturalize in working areas and between permanent guild plantings where it fills the cool-season ground layer.",
+      "siteObservations": null
+    }
+  }
+}

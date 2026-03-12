@@ -1,0 +1,160 @@
+{
+  "id": "ribes-aureum",
+  "name": {
+    "commonName": [
+      "Golden Currant"
+    ],
+    "latinName": "Ribes aureum",
+    "family": "Grossulariaceae"
+  },
+  "range": {
+    "nativeRange": "Western and central North America — native from the Great Plains westward through the Rocky Mountains to the Pacific coast, and south into the Desert Southwest. Widely naturalized across much of eastern North America.",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the western and central US — Great Plains, Rocky Mountain states, Pacific Northwest, Southwest, and parts of the upper Midwest. Naturalized across much of the eastern US but not native there."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No. Not listed as invasive in any US state. Spreads modestly by root suckers but is not aggressive and does not escape cultivation into wild habitats in a problematic way. Not on any state noxious weed list."
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8"
+    }
+  },
+  "description": {
+    "height": "3-7 ft",
+    "spread": "2-6 ft",
+    "spacing": "4-5 ft",
+    "growthRate": "Moderate",
+    "timeToMaturity": "2-3 years to first significant fruit",
+    "lifespan": "Long-lived; 20+ years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "Low — bare stems; some yellow fall color before leaf drop"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade",
+    "water": "Medium; drought tolerant once established",
+    "drainagePreference": {
+      "description": "Prefers well-drained to average soils. Tolerates a wide range of drainage conditions including moderately heavy soils, but prolonged waterlogging can cause root rot. Performs best with consistent moisture during establishment, then handles dry spells well.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates clay soils better than most Ribes species. The fibrous root system handles compacted soils reasonably well, though heavy waterlogged clay in winter can stress roots. Amending clay with compost at planting time improves establishment. In unamended heavy clay, growth may be slower but the plant typically survives and fruits."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Highly adaptable — performs well in sandy, loamy, and clay soils. Prefers loam but is one of the more forgiving shrubs regarding soil texture. Avoid only the heaviest, permanently saturated clays.",
+    "rootCharacter": "Fibrous, spreading; produces root suckers that can slowly form colonies — remove suckers if spread is unwanted"
+  },
+  "bloom": {
+    "bloomTime": "April to May",
+    "bloomDescription": "Small yellow-orange tubular flowers in pendant clusters; among the earliest shrubs to bloom",
+    "fragrance": "Strong spicy-sweet (clove-like); one of the most fragrant native shrubs in bloom",
+    "flowerSex": "Hermaphrodite (perfect flowers)",
+    "pollination": "Self-fertile; cross-pollination improves yield; pollinated by native bees and hummingbirds"
+  },
+  "yield": {
+    "edibleParts": "Berries (raw or cooked); flowers (edible, fresh in salads or as garnish)",
+    "harvestSeason": "Berries ripen July-August; color varies by plant — yellow, red, or black when fully ripe",
+    "medicinalUses": "Berries high in Vitamin C and antioxidants; bark used traditionally as a laxative (Native American)",
+    "craftOtherYield": "Yellow dye from bark and berries"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None known; berries and flowers are edible",
+    "toxicityAnimals": "Generally considered non-toxic",
+    "allelopathy": "None documented",
+    "notes": "Ribes species are alternate hosts for white pine blister rust (Cronartium ribicola). Some states and counties have or have had planting restrictions near white pines. Check local regulations before planting near five-needle pines."
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (berries, flowers)",
+      "Insect Attractor (critical early-spring nectar source)",
+      "Beauty",
+      "Nurse Plant (light dappled shade beneath for seedlings)"
+    ],
+    "companionPlants": [
+      "Apple (early pollinator support at bloom time)",
+      "comfrey",
+      "borage",
+      "garlic chives"
+    ],
+    "antagonists": [
+      "None well-documented"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Hummingbirds (among the first spring nectar sources), native bees, butterflies, cedar waxwings, robins, mockingbirds",
+    "hostPlantFor": "Some native Lepidoptera; alternate host for white pine blister rust (see Cautions)",
+    "nestingHabitat": "Dense branching provides low cover and nesting sites for small songbirds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — not a preferred browse but will be eaten under high deer pressure. Young plants should be protected with caging or fencing until well established. Established plants typically sustain light browse without significant damage, but sustained heavy pressure can reduce fruiting and stunt growth. Deer deterrent sprays on new growth in spring help during the vulnerable flush period."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not appropriate for road-adjacent or coastal planting. Does not recover well from repeated salt spray exposure."
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — western prairie origins give this species genuine drought tolerance. Mulch and consistent water during the first two growing seasons, then irrigation is typically unnecessary in the eastern US except during extreme drought."
+    },
+    "other": "Good wind tolerance, moderate frost tolerance (late frost can damage early blooms and reduce fruit set in a given year), tolerates urban pollution, handles clay and compacted soil better than most fruiting shrubs"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Remove oldest canes (3+ years) at ground level in late winter to encourage vigorous new growth and sustained fruit production. Hard prune the whole shrub every 4-5 years to rejuvenate if needed.",
+    "propagationMethods": [
+      "Division of suckers (easiest — spring or fall)",
+      "hardwood cuttings (fall/winter — very reliable)",
+      "softwood cuttings (early summer)",
+      "seed (requires 90-day cold stratification)"
+    ]
+  },
+  "cultivarNotes": "Typically grown as straight species rather than named cultivars. Ribes odoratum (buffalo currant) is closely related, very similar in appearance and use, and sometimes sold under the same common name — both are excellent choices. In Zones 3-5, the straight species is extremely cold-hardy and performs well without cultivar selection. In Zones 6-7, either species or selected forms work well; some nurseries offer selections with larger berries — ask specifically if fruit size is a priority. In Zones 8+, provide afternoon shade and consistent moisture; golden currant tolerates heat better than most Ribes but may underperform in the Deep South.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Hedge",
+      "food forest shrub layer",
+      "wildlife garden",
+      "border back zone"
+    ],
+    "designPlacement": "Works well in shrub layer of food forests, as an informal hedge, or mid-border in mixed plantings. Best positioned where its early spring fragrance can be appreciated — near paths, entries, or seating areas. Tolerates north-facing exposures and partial shade, making it versatile for less-than-ideal spots. Plant behind lower perennials and in front of taller trees. Pairs well with early-blooming fruit trees (provides pollinator support). Allow room for suckering spread or plan to manage suckers.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ribes_aureum",
+    "inaturalist": "https://www.inaturalist.org/taxa/55544-Ribes-aureum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=286902"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to Pennsylvania. Native range is western/central North America. Naturalized across much of the eastern US including PA but not part of the original native flora.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "The red clay at Hegins is workable for golden currant without raised beds. Amend the planting hole generously with compost to improve drainage and root establishment in the compacted, construction-disturbed clay. Mulch well to moderate moisture swings. The plant should perform well in-ground once established.",
+      "soil": "The red clay at Hegins is acceptable with compost amendment at planting. No raised bed required. Work compost into the planting hole and top-dress annually to gradually improve soil structure around the root zone.",
+      "cultivarNotes": "Either R. aureum or R. odoratum will perform well. Straight species is the most available and reliable choice; no special cultivar needed for this zone.",
+      "designPlacement": "North-facing front bed (Section A) stairway flanking candidate; north-facing herb strip (Section B) mid-zone; apple guild shrub layer. The fragrance makes it especially appealing near the front stairway where visitors pass in spring.",
+      "siteObservations": "Deer pressure from the east corridor is a concern for young plants — cage until established. The north-facing exposures in Sections A and B suit this species well since it tolerates partial shade. White pine blister rust is not a concern unless white pines are present on or adjacent to the property. Root suckering should be monitored in the foundation beds to prevent spread into unwanted areas."
+    }
+  }
+}

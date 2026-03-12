@@ -1,0 +1,175 @@
+{
+  "id": "betula-nigra",
+  "name": {
+    "commonName": [
+      "River Birch",
+      "Black Birch"
+    ],
+    "latinName": "Betula nigra",
+    "family": "Betulaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Massachusetts south to northern Florida, west to Kansas and Nebraska; one of the most common and ecologically important native riparian trees in the eastern US; found naturally along stream banks, river floodplains, and wet woodland margins",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across a large portion of the eastern and central US; naturally present in approximately 26 states from New England south through Florida and west to Kansas, Nebraska, and Minnesota; native throughout the mid-Atlantic, Southeast, and lower Midwest; absent from the arid West, Pacific Coast, and upper Great Plains; within its native range it is the ecologically correct birch choice and the most broadly available native birch at nurseries"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No known invasive status in any US state; not a documented ecological concern anywhere in the lower 48; an ecologically beneficial native where it naturally occurs, and a non-invasive landscape addition where it is planted outside its native range (primarily the upper Midwest, Great Plains, and Pacific states)"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": null
+    }
+  },
+  "description": {
+    "height": "40-70'; typically 40-50' in cultivation; multi-stem clump forms often remain at the lower end of this range; 'Little King' tops out at 12-15'",
+    "spread": "25-45'; broad, irregular canopy with gracefully arching branches; multi-stem clumps spread slightly wider relative to height",
+    "spacing": "20-30' from other trees (single-trunk form); multi-stem clumps can be planted 15-20' apart in naturalistic groupings",
+    "growthRate": "Medium to fast — one of the faster-growing native trees for wet sites; 1.5-2' per year under good conditions",
+    "timeToMaturity": "Bark interest begins immediately; sap harvest possible from year 3-5 once trunk diameter is sufficient; first catkin seed production from year 5-8; significant wildlife value from year 3 onward",
+    "lifespan": "40-75 years — shorter-lived than oaks and maples, but perfectly adequate for a landscape or food forest context; multi-stem clumps tend to persist longer as individual stems decline and are replaced",
+    "deciduousEvergreen": "Deciduous — medium green leaves throughout summer; yellow fall color (attractive but not outstanding); bare in winter; the exfoliating bark carries the ornamental interest year-round",
+    "winterInterest": "Outstanding — the exfoliating, multi-toned bark (salmon-pink, cream, and cinnamon-brown) is spectacular against snow and winter light; the persistent catkins provide wildlife food value through winter; one of the finest native trees for winter ornament in the eastern US"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade; performs best with at least 6 hours direct sun; full sun maximizes bark character and catkin production",
+    "water": "Medium to high; prefers consistently moist conditions; native to stream banks and floodplains; tolerates periodic flooding and seasonal inundation; one of the best large trees for reliably wet sites; established trees also handle moderate dry periods once root system is established",
+    "drainagePreference": {
+      "description": "Moist to wet; the premier choice for poorly-drained sites where other large trees fail; tolerates standing water in winter and spring; also adaptable to average garden conditions once established — more site-flexible than its native habitat suggests",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the few canopy trees that genuinely thrives in heavy clay; native to alluvial bottomlands and clay-heavy riparian soils; the combination of clay moisture retention and the tree's high water demand makes this a well-matched pairing; performs well in compacted clay as long as some surface moisture is present; avoids the chlorosis and root stress that afflict most other large trees in clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6.5,
+      "description": "4.5-6.5; strongly prefers acidic soils; performs poorly in alkaline conditions (chlorosis common in high-pH soils); one of the few cultural notes requiring attention"
+    },
+    "texturePreference": "Moist loam to clay-loam; excellent performer in heavy clay soils as long as moisture is available; native to alluvial, organically rich bottomland soils",
+    "rootCharacter": "Fibrous, wide-spreading shallow root system typical of riparian trees; roots spread broadly rather than deeply; not a deep taproot; does not typically cause issues with pavement or structures if given adequate space"
+  },
+  "bloom": {
+    "bloomTime": "March-April (before leaves emerge); one of the earliest-flowering native trees; catkins open when the understory is still largely bare",
+    "bloomDescription": "Monoecious — separate male and female catkins on the same tree. Male catkins are long, drooping, yellowish-brown, 2-3\" long; formed the previous fall and elongating in spring; release pollen before leaves emerge. Female catkins are smaller, erect, green; develop into the characteristic upright seed catkins (strobiles) through summer; mature catkins disintegrate and release tiny winged nutlets (seeds) in late spring through summer; the persistence of old catkins through winter provides seed for small birds",
+    "fragrance": "Subtle, clean, slightly resinous; leaves have a light birch scent when crushed; not significantly fragrant",
+    "flowerSex": "Monoecious — male and female catkins on the same tree; wind-pollinated; self-fertile",
+    "pollination": "Wind-pollinated; single trees produce fertile seed; no partner required; one of the exceptions to the \"plant multiples\" rule for native trees"
+  },
+  "yield": {
+    "edibleParts": "Birch sap (tapped in late winter — late February through March in Zone 6a — when daytime temperatures rise above freezing and nights remain below; the sap runs clear and watery with a mild, subtly sweet, slightly wintergreen flavor; pleasant as a fresh drink; can be boiled into syrup but requires approximately 100-150 gallons of sap per gallon of syrup — far less efficient than maple, but a genuine yield; can be fermented into birch beer or used as a mildly flavored brewing water); inner bark (cambium layer — edible as a survival or traditional food; can be dried and ground into a flour extender; a traditional use of birch across many northern cultures; not a significant caloric yield in a garden context but worth knowing); young leaves (can be eaten as a spring green — mild flavor; not commonly harvested but edible)",
+    "harvestSeason": "Sap: late February-March (short window, weather-dependent); inner bark: spring through early summer; leaves: spring",
+    "medicinalUses": "Birch sap and leaf preparations have traditional uses as a diuretic and anti-inflammatory; birch bark extracts contain betulin and betulinic acid — compounds with documented anti-tumor, anti-inflammatory, and antiviral properties; primarily of interest as the host for Piptoporus betulinus (Birch Polypore — see cross-reference below), which is the far more significant medicinal yield associated with birch trees; less emphasis on direct medicinal use of the tree compared to the associated fungus",
+    "craftOtherYield": "Birch sap syrup; birch beer (fermented sap); bark (attractive material for crafts, tinder, fire-starting); the wood, though not outstanding for timber, is moderately hard and used for furniture, cabinetry, and turning; small branches excellent for kindling; host for Birch Polypore fungus (medicinal and craft yield — see [[Piptoporus betulinus]])"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "No toxicity concerns; sap, inner bark, and young leaves are all edible; no documented toxic compounds in normal use",
+    "toxicityAnimals": "No significant toxicity concerns; birch sap and leaves are generally considered safe for livestock and pets; not a documented concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Wildlife Support (outstanding — one of the most wildlife-productive native trees for the mid-Atlantic; see Wildlife section)",
+      "Habitat Creation (host for Birch Polypore fungus — a rare and valuable medicinal fungus; creates snag habitat as trees age)",
+      "Water Management (excellent for wet, poorly-drained sites; native to floodplains; use where drainage is a persistent problem)",
+      "Food (birch sap; inner bark; minor but genuine yields)",
+      "Beauty and Ornament (exfoliating bark — year-round visual interest; exceptional winter character)",
+      "Native Plant Contribution (one of the most ecologically important native riparian trees in eastern North America)",
+      "Nitrogen-adjacent (not a nitrogen-fixer, but the leaf litter and bark decomposition contribute significantly to soil organic matter buildup)"
+    ],
+    "companionPlants": [
+      "Piptoporus betulinus / Fomitopsis betulina (Birch Polypore — the most important companion organism; the medicinal fungus that specifically associates with birch; planting river birch creates long-term habitat for this species)",
+      "Lindera benzoin (spicebush — a natural native companion of moist woodland edges and stream corridors; shares the same ecological community)",
+      "Matteuccia struthiopteris (ostrich fern — a classic companion of riparian zones; excellent ground layer under river birch)",
+      "Asarum canadense (wild ginger — shade-tolerant native ground cover beneath the canopy)",
+      "Lobelia cardinalis (cardinal flower — riparian companion; hummingbird attractor)",
+      "Chelone glabra (turtlehead — classic stream-bank companion)",
+      "Carex species (native sedges — ground layer for wet conditions)",
+      "Sambucus canadensis (native elderberry — tolerates moist soils; fruit production guild companion)"
+    ],
+    "antagonists": [
+      "None documented; highly compatible with other riparian natives; avoid planting in alkaline soil or in dry",
+      "exposed",
+      "compacted sites — these are cultural limitations",
+      "not allelopathic"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pine siskins, common redpolls, American goldfinches, chickadees (seed consumers — the tiny winged nutlets released from catkins are a primary cold-season food for small finch-family birds; catkins often persist through winter, providing a reliable and abundant seed source when other food is scarce; river birch is one of the most important native seed trees for small birds in the mid-Atlantic winter), hummingbirds (sap wells drilled by yellow-bellied sapsuckers attract hummingbirds in migration), bees (early spring pollen source before leaves emerge — valuable early-season resource when pollen is scarce), yellow-bellied sapsuckers (drill sap wells in the bark in early spring; the flow attracts a cascade of other wildlife), wood ducks and other cavity nesters (mature trees develop cavities; dead snags are prime nesting sites)",
+    "hostPlantFor": "Numerous native Lepidoptera — river birch is one of the most important native host trees in eastern North America; larval host for Dreamy Duskywing skipper (Erynnis icelus), Eastern Tiger Swallowtail (Papilio glaucus — birch is one of several hosts), Mourning Cloak butterfly (Nymphalis antiopa), Compton Tortoiseshell (Nymphalis l-album), various moth species including Luna moth (Actias luna — birch is among the accepted hosts); the canopy supports a significant community of native caterpillars which in turn support nesting songbirds feeding nestlings; host plant value ranks very high among native trees. Also the specific host for Piptoporus betulinus (Birch Polypore — see [[Piptoporus betulinus]]) — aging and dying river birch trees are prime habitat for this historically important medicinal fungus.",
+    "nestingHabitat": "Moderate to good; the multi-stem form provides structure for nesting small birds; mature trees develop cavities used by cavity nesters; standing dead birch snags are premium cavity-nesting habitat and should be left standing wherever safe; the loose, papery exfoliating bark provides nesting material gathered by chickadees and other small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer will browse young seedlings and new growth; established trees with bark above browse height are largely unaffected; the exfoliating bark can attract deer antler rubbing, which can damage young single-stem trees; multi-stem clumps are more resilient; protect young trees for the first 2-3 seasons"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt and soil salt contamination; do not plant in salt-spray zones or adjacent to heavily salted roads"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — prefers moisture; extended drought causes stress and dieback in tops; established trees recover; not suitable as a dry-site tree; use 'Dura Heat' cultivar for marginally drier conditions"
+    },
+    "other": "THE HEAT-TOLERANT BIRCH — the single most important cultural note for Zone 6 and warmer: river birch is the correct birch for the mid-Atlantic, Southeast, and lower Midwest; European white birch (Betula pendula) and paper birch (B. papyrifera) struggle and frequently die in Zone 6a heat and humidity, and are highly susceptible to bronze birch borer (Agrilus anxius), which kills stressed trees; river birch is highly resistant to bronze birch borer and thrives in exactly the heat and humidity that kills other birch species; do not plant B. pendula or B. papyrifera in Zone 6a or warmer — plant B. nigra instead; also: river birch prefers acidic soil; watch for iron chlorosis (yellowing leaves with green veins) in alkaline or high-pH soils; amend with acidifying fertilizer or sulfur if needed"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; essentially a plant-and-ignore tree in appropriate conditions",
+    "pruningNotes": "Minimal pruning needed on established trees. Remove dead, crossing, or storm-damaged branches in late summer or fall — do NOT prune in late winter or early spring, as birch \"bleeds\" (loses sap) heavily if pruned when sap is running (February-April); late dormant season or summer pruning is preferred. For multi-stem clumps, remove the oldest, most congested stems at the base every 10-15 years to maintain vigor and improve air circulation. The exfoliating bark requires no management — it peels naturally and continuously; do not attempt to strip or remove bark. Suckers from the base of multi-stem forms can be removed or retained to expand the clump as desired. For sap tapping: drill a small (5/16\" or 7/16\") tap hole at a slight upward angle, 1.5\" deep, on the south or southwest side of the trunk; use a standard maple spout and bucket or tubing; tap when daytime temps reach 40-45°F and nights remain below freezing; the flow is more dilute than maple and the window shorter; plug the tap hole with a wooden plug or allow it to seal naturally; tapping does not significantly harm an established tree when done correctly.",
+    "propagationMethods": [
+      "Seed (harvest catkins just before they fully disintegrate in late spring; sow immediately or stratify for 60-90 days at 34-40°F; direct sow in fall for natural stratification; seed viability is short — use fresh seed; germination is reliable with fresh, stratified seed)",
+      "softwood cuttings (June-July; moderate success; treat with rooting hormone; keep under mist)",
+      "hardwood cuttings (less reliable than softwood)",
+      "transplanting containerized nursery stock (easiest and most reliable for home gardeners; plant in early spring or fall; ensure consistent moisture for the first two seasons)"
+    ]
+  },
+  "cultivarNotes": "Three cultivars cover essentially all garden needs across most of the lower 48 states. Selection should be guided by site conditions (drainage, soil pH, available space) and zone.\n**'Heritage'** (syn. 'Cully') — The standard cultivar and by far the most widely planted river birch. Selected for superior exfoliating bark (brighter salmon-cream color than the straight species), mildew resistance, and excellent adaptability. Reaches 40-50' in full development; also commonly grown as a 3-stem clump. The default choice for most landscape uses across Zones 4-9. Very widely available at nurseries throughout its range. MBG PlantFinder page available.\n**'Dura Heat'** — Selected for enhanced heat and drought tolerance; somewhat more tolerant of alkaline soil than 'Heritage'; slightly more compact (35-45'). The preferred choice in Zone 7 and warmer, or anywhere the site is marginally drier or the soil pH is not ideal. Excellent bark character comparable to 'Heritage'. Particularly recommended in the mid-South and lower Midwest where summer heat is intense.\n**'Little King'** (trade name FOX VALLEY) — Compact selection; 12-15' tall and wide; a true dwarf form that retains all the outstanding bark character of the species in a shrub-scale plant. Excellent for smaller gardens, rain gardens, or locations where the full-sized tree is impractical — applicable across the full Zone 4-9 range. Makes the birch experience accessible on any property regardless of size. Widely available. MBG PlantFinder page available.\nNote on multi-stem vs. single-trunk: multi-stem clumps (typically sold as 3-stem or 5-stem specimens) display the exfoliating bark on multiple trunks simultaneously — generally considered more ornamental than single-trunk forms; also more structurally resilient. Single-trunk forms are available and appropriate for formal or constrained settings.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wet or poorly-drained areas",
+      "rain garden anchor",
+      "stream-side or pond-side planting",
+      "wildlife garden",
+      "food forest canopy (in moist sites)",
+      "native plant garden",
+      "winter ornament",
+      "birch sap harvesting"
+    ],
+    "designPlacement": "River birch is a canopy-scale tree suited to any moist, wet, or poorly-drained location. It excels as a rain garden anchor, a stream-side or pond-side specimen, a wildlife garden centerpiece, or a food forest canopy tree on moist sites. Its outstanding winter bark character makes it valuable as a focal tree in any open lawn or naturalistic setting. Plant it where persistent drainage problems discourage other trees — it will thrive in the conditions that defeat most canopy species. Multi-stem clump forms are preferred for maximum ornamental impact; single-trunk forms suit more formal placements. 'Little King' makes the species viable on smaller properties or in constrained spaces where the standard-sized tree would be overwhelming. In regions outside its native range (upper Midwest, Plains, Pacific states), it performs well as a non-native ornamental and ecological planting with no invasive concerns.",
+    "acquisitionStatus": "To source — available at most native plant nurseries and many mainstream garden centers throughout the eastern and central US; 'Heritage' and multi-stem clump forms are particularly easy to find; 'Little King' is widely available at specialty nurseries; buy containerized stock rather than bareroot for easiest establishment\nPennsylvania — Hegins Site Observations:\nNo river birch currently noted on the property. The low-lying areas of the Hegins property and any wet corners or drainage channels are the target sites. Survey the surrounding landscape (stream banks, roadside ditches) for naturally occurring B. nigra, which would confirm site suitability and provide a local ecotype reference. Deer pressure at Hegins is active — protect young planted trees for the first 2-3 seasons with tree tubes or wire caging to prevent browse damage and antler rubbing on young stems; established trees above browse height are largely self-sufficient."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Betula_nigra",
+    "inaturalist": "https://www.inaturalist.org/taxa/117429-Betula-nigra",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=277830"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — B. nigra is native to Pennsylvania; naturally present along streams and rivers throughout Schuylkill County and the surrounding region; one of the most important native trees for wet and riparian sites in the mid-Atlantic; the most appropriate birch species for Zone 6a and warmer",
+      "paInvasiveStatus": "Not invasive; no listing by the Pennsylvania Department of Agriculture or the Pennsylvania Invasive Species Council\nZone: 4-9",
+      "drainage": "The red clay at Hegins is close to the river birch's native soil profile; wet spots and drainage problem areas on the property are ideal placement targets; the tree's high water demand will make productive use of clay's moisture-holding tendency rather than fighting it; no soil amendment required for this species",
+      "soil": "Hegins red clay is within the acceptable texture range; no amendment needed for soil texture; focus instead on pH — test if chlorosis appears; the compaction typical of construction-disturbed clay may slow initial root establishment but will not prevent it; mulching the root zone deeply at planting will accelerate establishment in compacted clay",
+      "cultivarNotes": "'Heritage' (multi-stem clump) is the primary recommendation — it is the most widely available form, performs reliably in Zone 6a humid continental conditions, and delivers the best bark display. 'Dura Heat' is a useful alternative if the planting site is on the drier or more alkaline end. 'Little King' is the correct choice for any placement where the full-sized tree is too large — it is equally cold-hardy and delivers the same bark character at a fraction of the footprint; ideal for a wet corner, rain garden, or smaller property section.",
+      "designPlacement": "River birch does not fit the existing Section A, B, or C beds (all have height limits or are small-scale). Its appropriate placement on the Hegins property is as a standalone canopy specimen in any low, wet, or poorly-drained area — particularly in low spots where water pools after heavy rain, or along any drainage channel or swale. A multi-stem clump of 'Heritage' positioned to anchor a rain garden or wet corner delivers ornamental bark year-round, outstanding winter finch activity, and long-term habitat for Birch Polypore fungus as the trees mature. 'Little King' is an alternative if full-tree scale is impractical. Cross-reference: planting river birch is the primary design action for creating Piptoporus betulinus habitat on the property — see that profile for details on the fungal relationship.",
+      "siteObservations": null
+    }
+  }
+}

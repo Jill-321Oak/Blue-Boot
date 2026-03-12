@@ -1,0 +1,171 @@
+{
+  "id": "vitis-labrusca",
+  "name": {
+    "commonName": [
+      "Fox Grape",
+      "Concord Grape",
+      "Northern Fox Grape"
+    ],
+    "latinName": "Vitis labrusca (and derived cultivars including 'Concord' and 'Niagara')",
+    "family": "Vitaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — New England to Georgia, west to Indiana; one of the most widespread native grape species in the eastern US, found throughout Appalachian and piedmont woodlands, river bottoms, and forest margins",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US from New England south to Georgia and west to the Great Lakes and Indiana; one of the foundational native grape species in eastern hardwood forests; absent from the western US except where planted as a cultivar"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — native throughout its eastern US range and well-behaved; climbs on support structures but does not form invasive monocultures or displace native vegetation; not listed on any state noxious weed list"
+    },
+    "zone": {
+      "min": 4,
+      "max": 7,
+      "description": "4-7 (performs best in Zones 5-7; heat zone upper limit approximately Zone 7 for best fruit quality — hot-summer regions see reduced fruit set and increased disease pressure)"
+    }
+  },
+  "description": {
+    "height": "20-80' in the wild when climbing trees; typically trained to 6-10' on a trellis or arbor; very vigorous vine",
+    "spread": "Wide; covers a large surface area; requires strong, permanent support",
+    "spacing": "8-10' between vines on a trellis; provide substantial horizontal trellis space",
+    "growthRate": "Fast once established; vigorous annual growth",
+    "timeToMaturity": "First light crop years 2-3; full production from years 4-5 (vines need several years to establish a productive crown and root system)",
+    "lifespan": "Very long-lived; decades to over a century; well-established grape vines are permanent installations",
+    "deciduousEvergreen": "Deciduous — attractive large lobed leaves through summer; excellent fall color (red-orange-purple); spectacular in autumn; bare in winter revealing the gnarled permanent framework",
+    "winterInterest": "Moderate — the gnarled, twisted permanent vine framework is architecturally interesting in winter; dried grape clusters may persist briefly"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential for fruit quality and disease control; minimum 6-8 hours; grapes are one of the most sun-demanding fruiting plants; in hot-summer regions (Zone 8+), light afternoon shade may reduce heat stress on fruit but generally full sun is preferred everywhere",
+    "water": "Low to medium once established; drought tolerant; consistent moisture during fruit development improves berry size and quality; avoid overhead watering (promotes fungal disease); in arid western climates, irrigation is essential during fruit development",
+    "drainagePreference": {
+      "description": "Well-drained; grapes do not tolerate waterlogged conditions; good drainage is critical for disease management and root health; slope planting is ideal for both drainage and air circulation; raised beds or mounded rows recommended in any area with heavy or poorly drained soil",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — grapes can grow in clay soil if drainage is aggressively improved, but heavy unamended clay causes waterlogging, root rot, and dramatically increased fungal disease pressure; deep amendment with coarse compost, gravel, and organic matter to at least 18\" depth is essential; raised mounds or berms strongly preferred in clay; the deep root system will eventually penetrate clay subsoil but the crown and feeder roots must not sit in saturated conditions"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; adaptable; grapes tolerate a broad pH range and are not pH-sensitive in most garden soils"
+    },
+    "texturePreference": "Well-drained loam is ideal; sandy loam is excellent; amend clay with coarse compost and gravel to ensure drainage; excellent drainage is more important than fertility — grapes actually produce better fruit in moderately lean soil",
+    "rootCharacter": "Deep, extensive root system; once established, the roots access deep subsoil moisture; grapes are one of the most deep-rooting of all fruiting plants"
+  },
+  "bloom": {
+    "bloomTime": "May-June (inconspicuous bloom)",
+    "bloomDescription": "Small, fragrant, inconspicuous green flowers in pendant clusters; not ornamentally significant but the fragrance is sweet and pleasant on a still day",
+    "fragrance": "Flowers sweetly fragrant; very pleasant subtle scent during brief bloom",
+    "flowerSex": "Hermaphrodite; self-fertile — 'Concord' and 'Niagara' are both reliably self-fertile and do not require a pollination partner",
+    "pollination": "Wind and insects; self-fertile varieties do not require cross-pollination"
+  },
+  "yield": {
+    "edibleParts": "Fruit (grapes — 'Concord': deep blue-black, sweet-tart, strong \"foxy\" flavor; the classic American grape; excellent for juice, jelly, jam, and fresh eating; 'Niagara': amber-green, sweet, mild, excellent fresh eating and white juice; one of the finest American table grapes); leaves (young grape leaves edible — used to wrap dolmades; harvest in spring when tender); seeds and skin (high in antioxidants)",
+    "harvestSeason": "September-October; harvest the entire cluster when most berries are fully ripe; Concord ripens earlier (September), Niagara slightly later",
+    "medicinalUses": "Grape polyphenols (resveratrol, proanthocyanidins from seeds and skin) have extensive documented cardiovascular and antioxidant benefits; grape juice has documented anti-platelet effects; one of the most clinically studied fruits for health benefits; grape leaf traditionally used in Mediterranean medicine as an anti-inflammatory",
+    "craftOtherYield": "Grape jelly and jam (Concord grape jelly is one of the all-time classic American preserves); grape juice; wine; grape vinegar; dried raisins; grapevine wreaths (the vines are excellent for wreath-making after pruning)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; widely consumed",
+    "toxicityAnimals": "TOXIC to dogs and cats — grape consumption (and raisins) causes acute kidney failure in dogs with no clear dose-response relationship — even small amounts can be fatal in some dogs; cats are also affected; this is a well-documented and serious veterinary concern; site grape vines with pet access in mind; do not allow dogs near fallen fruit",
+    "allelopathy": "None documented; grapes and the associated soil fungi (mycorrhizae) can be complex in interaction with other plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Vine / Canopy"
+    },
+    "roles": [
+      "Food (fruit — primary yield; one of the most productive fruits per unit of trellis area)",
+      "Wildlife Support (exceptional)",
+      "Native Plant Contribution (V. labrusca is native)",
+      "Vertical Canopy (utilizes trellis space efficiently)",
+      "Nitrogen Cycle (pruning biomass)"
+    ],
+    "companionPlants": [
+      "Mulberry (guild companion — grapes in the vine layer of the mulberry guild; both are heavy producers that feed wildlife)",
+      "comfrey (at the base)",
+      "nasturtium (pest trap — aphids flock to nasturtium instead of grapes)",
+      "yarrow (insectary)",
+      "clematis or hops (complementary vine layer)"
+    ],
+    "antagonists": [
+      "Black rot (Guignardia bidwellii)",
+      "downy mildew (Plasmopara viticola)",
+      "and powdery mildew (Erysiphe necator) are the primary disease concerns for grapes in humid climates throughout the eastern US and Midwest; good airflow",
+      "sun exposure",
+      "and resistant cultivars are the management tools; overhead watering must be avoided; choose disease-resistant cultivars for lower spray maintenance"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Outstanding wildlife value — grapes are among the most important wildlife food plants in eastern North America; 93 bird species have been recorded consuming grape fruit or grape products; raccoons, foxes, bears, deer, and small mammals all consume fallen fruit; the vine structure provides major habitat value; catbirds, robins, cedar waxwings, thrushes, and many others time their fall migration to coincide with grape ripening",
+    "hostPlantFor": "Numerous native Lepidoptera including the wild grape sphinx moth (Darapsa myron), grapevine epimenis (Psychomorpha epimenis), and the stunning Pandorus sphinx moth (Eumorpha pandorus); the host plant value is exceptional — Vitis is one of the most important larval host plants in eastern North America",
+    "nestingHabitat": "Dense vine growth provides excellent nesting sites; catbirds, yellow warblers, and other birds commonly nest in grape vines; the shredded bark is used as nesting material by many birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer browse grape vines and consume the fruit; protect young vines with wire cages or fencing during establishment (first 2-3 years); once vines are established on a high trellis (5'+), deer browsing is less damaging as foliage is out of reach; the fruit is targeted in fall — netting may be needed where deer pressure is heavy"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt exposure; recovers from light spray; not suited for direct roadside or maritime salt-spray conditions"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — grapes are one of the most drought-tolerant fruiting plants; deep roots access subsoil moisture; young vines need consistent watering during the first two growing seasons"
+    },
+    "other": "Disease management is the primary maintenance challenge in humid climates throughout the eastern US and Midwest; choose resistant cultivars and ensure maximum sun and airflow; grapes tolerate wind well and benefit from air movement (reduces fungal pressure); moderate cold hardiness — V. labrusca types are among the hardiest grape species"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — annual pruning is the critical maintenance task",
+    "pruningNotes": "Annual dormant pruning (late February-March) is the most important grape management practice. For most home gardens, the cane pruning method is preferred for V. labrusca types: select 1-2 strong canes from the previous year's growth; cut each to 10-15 buds; secure to the trellis wire; remove all other canes; retain 2-4 short renewal spurs (2 buds each) to grow next year's replacement canes. Without annual pruning, the vine produces excessive foliage and poor quality fruit; the fruit also becomes increasingly shaded and disease-prone.",
+    "propagationMethods": [
+      "Hardwood cuttings (dormant season — very easy; cut 8-12\" sections, stick in moist soil; grapes root very readily)",
+      "layering (peg canes to the ground until rooted)"
+    ]
+  },
+  "cultivarNotes": "**'Concord'** (the classic — Zone 4-7; deep blue-black; sweet-tart \"foxy\" flavor; excellent for jelly, juice, and fresh eating; the defining American grape; very disease-resistant for a V. labrusca type; performs well across the entire Zone 4-7 range). **'Niagara'** (white/amber; sweet, mild, excellent fresh eating and white juice; Zone 4-7; the white counterpart to Concord; slightly less disease-resistant than Concord). **'Catawba'** (pinkish-red, late season, good for wine and fresh eating, Zone 5-7; best in Zones 5-6 where the long season allows full ripening without excessive heat). For **Zone 3-5** gardeners in the northern tier, cold-hardy wine grape crosses (Marquette, La Crescent, Frontenac — Zone 3-7) offer very good disease resistance and reliable cropping even in short seasons; these are primarily wine grapes. For **Zone 6-7** gardeners in the mid-Atlantic, Midwest, and similar climates, 'Concord' and 'Niagara' are the classic pairing — both are well-proven, productive, and reasonably disease-resistant. For **Zone 8+** gardeners in the Deep South and Gulf Coast, muscadine grapes (Vitis rotundifolia) are generally a better choice than V. labrusca types, which suffer in sustained heat and humidity.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "arbor/pergola feature",
+      "trellis planting",
+      "wildlife garden",
+      "edible landscape"
+    ],
+    "designPlacement": "Train on a strong permanent trellis or arbor in the sunniest available location; grapes need full sun and good air circulation more than almost any other fruiting plant; ideal as the vine layer in a tree guild — the combined fruit production of a canopy tree and a grape vine layer provides sustained wildlife food across multiple months; pair with nitrogen-fixing ground covers and insectary plants at the base; provide a very strong permanent trellis — established grape vines are heavy and long-lived; orient trellis rows north-south where possible to maximize sun exposure on both sides",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vitis_labrusca",
+    "inaturalist": "https://www.inaturalist.org/taxa/68053-Vitis-labrusca",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Concord",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=255762"
+      },
+      {
+        "label": "Niagara",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=272059"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — V. labrusca is native to Pennsylvania; commonly found in woodland edges, fencerows, thickets, and disturbed areas throughout the state; likely present in hedgerows near the Hegins property",
+      "paInvasiveStatus": "Same as general Invasive field — not regulated in PA; native species with no invasive concerns",
+      "drainage": "The red clay at Hegins is challenging for grapes without significant amendment; plant on the highest, best-drained ground available; a raised mound or berm with deep compost amendment is strongly recommended; avoid any low-lying area where water pools after rain; the food forest slope (if available) would be ideal for air drainage and soil drainage simultaneously",
+      "soil": "Red clay at Hegins requires deep amendment (compost, gravel, aged bark) before planting grapes in-ground; alternatively, plant on a raised mound to keep the root crown above the clay drainage line; avoid heavy mulch directly against the vine trunk (promotes crown rot in wet clay conditions)",
+      "cultivarNotes": "'Concord' and 'Niagara' are the top recommendations — both are proven performers across Pennsylvania; growing both on the same trellis provides red and white fruit options and extends the harvest season through September-October.",
+      "designPlacement": "Mulberry guild vine layer — trained on a trellis or arbor adjacent to the mulberry tree; the combined fruit production of mulberry (June-August) and grape (September-October) provides a sustained wildlife food source across most of the summer and fall; both are native or native-derived plants with exceptional wildlife host plant value; the vine and tree layers complement each other well; site on the best-drained ground in the food forest area",
+      "siteObservations": "Disease management is the primary ongoing challenge at this humid site — choose resistant cultivars (Concord is the most disease-resistant V. labrusca type) and ensure maximum sun and airflow; deer will browse young vines and target fruit in fall — wire cage protection essential during establishment, netting may be needed at fruiting time given the active deer corridor from the east; the red clay soil requires significant amendment or raised mound planting for adequate drainage; avoid any low spot on the property"
+    }
+  }
+}

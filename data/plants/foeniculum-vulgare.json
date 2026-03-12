@@ -1,0 +1,163 @@
+{
+  "id": "foeniculum-vulgare",
+  "name": {
+    "commonName": [
+      "Fennel"
+    ],
+    "latinName": "Foeniculum vulgare",
+    "family": "Apiaceae (Umbelliferae)"
+  },
+  "range": {
+    "nativeRange": "Mediterranean basin — southern Europe, coastal North Africa, western Asia; widely naturalized across temperate regions worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Extensively naturalized in much of the lower 48 — particularly along roadsides, disturbed ground, and coastal areas. Most thoroughly established in California, the Gulf Coast, and the Southeast; scattered populations throughout the mid-Atlantic, Midwest, and Pacific Northwest. Behaves as a casual escape rather than a dominant invader in most eastern states."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Invasive in California, where it forms dense monocultures in coastal grasslands, displacing native vegetation — listed on the Cal-IPC invasive plant inventory. Also listed or flagged as invasive in Hawaii, parts of the Southwest, and scattered coastal areas of the Southeast. The primary invasion mechanism is prolific self-seeding combined with allelopathic suppression of neighboring plants. In the humid eastern US, fennel self-seeds freely but does not typically form the aggressive monocultures seen in Mediterranean-climate regions. Gardeners in California, coastal Oregon, and Gulf Coast states should avoid planting fennel in open ground near wildlands. In states where fennel is not regulated, manage seed heads to prevent unwanted spread."
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9; may die back to the ground in Zone 5-6a winters and re-emerge from the crown in spring; often grown as a biennial in cold climates where the crown does not reliably overwinter"
+    }
+  },
+  "description": {
+    "height": "4-6'; upright and feathery; a bold, architectural presence in the garden",
+    "spread": "18-24\"",
+    "spacing": "18-24\"",
+    "growthRate": "Fast from transplant or established crown; reaches full height by midsummer",
+    "timeToMaturity": "Leaves and stems harvestable from year 1; seed harvest in year 1 if planted early; pollen harvest at peak bloom",
+    "lifespan": "Short-lived perennial to biennial; crown overwintering reliability depends on zone, drainage, and microclimate — most reliable in Zones 7-9, variable in Zones 5-6; plan to allow some self-seeding to maintain the planting regardless of zone",
+    "deciduousEvergreen": "Deciduous — fine feathery foliage dies back completely with hard frost; mark the crown position to avoid disturbing it in early spring",
+    "winterInterest": "None — dies back fully; dried seed heads may persist briefly and have modest structure"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — essential; fennel performs poorly in shade and will lean and produce sparse foliage without at least 6-8 hours of direct sun",
+    "water": "Low to medium; drought tolerant once established; prefers soil that dries between waterings; consistent waterlogging will rot the root. In the humid eastern US, supplemental water is rarely needed once established. In arid western climates, occasional deep watering during extended drought improves foliage quality.",
+    "drainagePreference": {
+      "description": "Well-drained to dry; tolerates poor, rocky, or sandy soils; one of the most drought-tolerant culinary herbs; does not tolerate wet feet — crown rot is the primary cause of loss in heavy soils",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate. Fennel's Mediterranean origin means it strongly prefers loose, fast-draining soil. In heavy clay, the taproot struggles with compaction and the crown is vulnerable to rot during wet periods. Clay gardeners can succeed by planting into a raised mound or heavily amended pocket (generous coarse sand, gravel, and compost worked 12-18\" deep to break clay structure). Raised beds eliminate the problem entirely. Avoid planting fennel into unamended clay in regions with wet winters or poorly drained sites."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0; highly adaptable"
+    },
+    "texturePreference": "Well-drained loam to sandy soil preferred; tolerates poor soil and lean conditions; does not require rich amended soil — excessive fertility produces lush but less flavorful foliage. Thrives in rocky, gravelly, or sandy ground that would stress most garden plants.",
+    "rootCharacter": "Stout taproot; not deeply penetrating like lovage or comfrey but anchors firmly; does not spread laterally by root"
+  },
+  "bloom": {
+    "bloomTime": "July-August in Zones 6-7; may begin in June in Zones 8-9; extends into September in cool summers",
+    "bloomDescription": "Large compound umbels (flat-topped clusters) of small bright yellow flowers on tall branching stems — a classic Apiaceae structure; individual umbels can be 3-6\" across; the visual effect from a distance is a haze of gold above the feathery blue-green foliage; extremely showy in mass and from a distance",
+    "fragrance": "Intensely anise/licorice scented throughout — foliage, stems, flowers, seeds, and roots all carry the same distinctive fragrance; one of the most aromatic plants in the garden; the scent carries noticeably on warm days",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; outstanding insectary plant — the wide, open umbel structure is one of the most accessible flower types for beneficial insects; attracts an exceptional diversity of parasitic wasps, hoverflies, soldier beetles, and native pollinators"
+  },
+  "yield": {
+    "edibleParts": "Fronds / Leaves: Feathery, bright-green, intensely anise-flavored; used fresh as an herb throughout the growing season; excellent with fish (the classic pairing — fennel and salmon, fennel-stuffed whole fish), in green salads, chopped into dressings and vinaigrettes, stirred into yogurt, and as a garnish; one of the most versatile fresh culinary herbs available from a perennial planting\nStems: Hollow, crisp, anise-flavored; sliced raw into salads; used as an aromatic bed when grilling or roasting fish; dried stems can be used as a skewer or aromatic fuel for grilling\nSeeds: Harvested when fully ripe and dry (late summer to early fall); one of the most widely used spices globally — used in Italian sausage, Indian cuisine (panch phoron, saunf), bread, pickles, liqueurs (absinthe, sambuca, anise spirits); sweet, warm, licorice flavor; easy to harvest and dry; highly productive per plant\nPollen: The most prized and expensive part of the plant; harvested at peak bloom by shaking the flower heads over a bag or bowl; intensely flavored and aromatic; used in gourmet cooking as a finishing spice on seafood, pasta, pork, and vegetables; fennel pollen commands very high prices ($20-30+ per ounce) when purchased — growing your own is a genuine advantage\nRoot: Edible but rarely used; starchy with anise flavor; not a primary harvest target in the herb form\nIMPORTANT DISTINCTION — Bulbing Fennel: Foeniculum vulgare var. azoricum (Florence Fennel / Finocchio) is a distinct cultivar group grown as an annual specifically for its swollen bulb base — a crisp, sweet vegetable eaten raw (shaved thin in salads) or roasted, braised, or grilled. The perennial herb form (F. vulgare) does not produce a significant bulb. If growing fennel for the bulb, source annual Florence Fennel varieties ('Romanesco', 'Orion', 'Zefa Fino') and treat them as cool-season annuals, similar to growing celery.",
+    "harvestSeason": "Fronds spring through fall; pollen at peak bloom (July-August in Zones 6-7); seeds late summer through early fall; roots fall",
+    "medicinalUses": "Seeds and essential oil well-documented for digestive benefits — a reliable carminative and antispasmodic; fennel seed tea widely used to relieve bloating, gas, and cramping; traditionally used for colic in infants (fennel tea — mild infusion of seeds); nursing mothers have traditionally used fennel to support milk production (galactagogue); used in Ayurvedic and Chinese traditional medicine systems. CAUTION: Fennel essential oil should not be used internally during pregnancy (potential emmenagogue effect at therapeutic doses); culinary use of seeds and fresh herb in food quantities is considered safe during pregnancy.",
+    "craftOtherYield": "Dried seed heads as cut/dried decoration; dried stems as aromatic kindling or grilling fuel; seeds for herbal teas and tinctures"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe for culinary use at normal quantities. CAUTION: Contains furanocoumarins (as with most Apiaceae) — prolonged skin contact with the sap followed by sun exposure can cause photosensitivity reactions (phototoxic dermatitis) in sensitive individuals; wear gloves when handling large quantities in strong sunlight. Fennel essential oil is NOT safe for internal use during pregnancy — avoid medicinal-dose preparations. Culinary use of the fresh herb, seeds, and fronds is safe.",
+    "toxicityAnimals": "Generally considered safe for dogs and cats in small quantities; not a known concern at garden exposure levels. Large quantities of seeds may cause GI upset in small animals.",
+    "allelopathy": "SIGNIFICANT — fennel is strongly allelopathic. Allelopathic compounds are released from the root system and suppress the growth of a wide range of neighboring plants. This is the primary design constraint for fennel. Do NOT plant fennel near: tomatoes, peppers, eggplant, basil, kohlrabi, caraway, or most annual vegetables — documented suppression and reduced yields. The allelopathic effect extends roughly 3-5' from the plant depending on soil and root spread. Fennel is best sited in an isolated position away from the main vegetable and annual herb garden. It can coexist with other tough perennials, ornamentals, and plants in the grass/weed layer that are not sensitive to its compounds.",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer; in its native or naturalized context it occupies disturbed, open ground — roadsides, field margins, scrubby areas; in the designed garden it fits best as a stand-alone specimen or small colony in an isolated sunny position"
+    },
+    "roles": [
+      "Food (multi-part culinary harvest — fronds, stems, seeds, pollen, root)",
+      "Insectary Plant (outstanding — one of the best insectary herbs available; umbel flowers attract an exceptional diversity of beneficial insects)",
+      "Medicinal",
+      "Aromatic / Fragrance",
+      "Wildlife Support (butterfly host plant, pollinator resource)"
+    ],
+    "companionPlants": [
+      "Extremely limited due to allelopathy — fennel is a poor companion plant for most garden species. Best companions are allelopathy-tolerant plants: dill (though cross-pollination can hybridize flavor)",
+      "other tough Mediterranean perennials at a distance",
+      "ornamental grasses",
+      "and plants in the grass/ground layer. Some sources note that fennel can be grown near roses without issue. Place fennel where its insectary value benefits the broader garden from a distance — it does not need to be physically adjacent to garden beds to attract beneficials."
+    ],
+    "antagonists": [
+      "Tomatoes",
+      "peppers",
+      "eggplant",
+      "basil",
+      "kohlrabi",
+      "caraway",
+      "and most annual vegetables — fennel suppresses these. Keep fennel physically separated from the productive annual garden. Do not interplant with other herbs in a mixed kitchen herb bed."
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Exceptional diversity of beneficial insects — parasitic wasps (key pest predators; the flat open umbels are among the most efficient nectar sources for tiny parasitic wasps), hoverflies (larvae prey on aphids), soldier beetles, native bees, honey bees, bumble bees; one of the top-ranked insectary plants for supporting biological pest control in the garden; attracts beneficial insects from a significant distance",
+    "hostPlantFor": "Black Swallowtail (Papilio polyxenes) — one of the most common Apiaceae-feeding butterflies across the eastern and central US; caterpillars feed on fennel foliage readily. Eastern Giant Swallowtail (Papilio cresphontes) — the largest butterfly in North America; primarily a Rutaceae feeder but also uses Apiaceae including fennel; expanding its range northward. Anise Swallowtail (Papilio zelicaon) in the western US also uses fennel extensively. Growing fennel as a host plant is a notable butterfly habitat contribution in any region.",
+    "nestingHabitat": "Hollow dried stems provide potential overwintering sites for small solitary insects; dried seed heads provide winter seed for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the intensely aromatic anise/licorice scent is a strong deterrent; fennel is generally avoided by deer; reliable in deer-pressured settings across the eastern US and beyond. Young transplants may be sampled opportunistically but are typically rejected after a single bite. Established plants are rarely browsed."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates coastal and roadside salt exposure (widely naturalized in these habitats along both US coasts)"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant culinary herbs; Mediterranean origin; established plants handle extended dry periods with no supplemental water"
+    },
+    "other": "Tolerates poor, lean, and rocky soils; tolerates alkaline soil; thrives in conditions that would stress most culinary herbs. Cold hardiness variable in Zones 5-6 — crown overwintering improves with excellent drainage, south-facing aspect, and light winter mulch. Heat tolerant through Zone 9; in Zone 10+ and high humidity, foliage quality may decline in peak summer."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the main ongoing task is seed head management to control self-seeding",
+    "pruningNotes": "Deadhead spent flower heads before seed fully ripens if you want to control spread — fennel self-seeds prolifically and seedlings can pop up widely. If collecting seed for culinary use or saving, allow a few umbels to fully ripen, then cut and bag to capture seed before it disperses. Cut the whole plant to the ground after hard frost in fall. In Zones 5-6, mulch the crown lightly with straw after the ground cools to improve overwintering survival; remove mulch in early spring. In Zones 7+, winter mulching is generally unnecessary. Cutting back in midsummer after a first flush of growth encourages fresh tender foliage for harvest.",
+    "propagationMethods": [
+      "Seed (direct sow in fall for spring germination, or sow directly in early spring; does not require stratification; germinates readily at cool temperatures; transplant as young seedlings — does not like root disturbance once established)",
+      "division of crowns in spring (less reliable than seed due to taproot; divide only established multi-crown clumps)"
+    ]
+  },
+  "cultivarNotes": "Two categories of fennel cultivars serve distinct purposes and should not be confused:\nOrnamental / Herb Cultivars (perennial or treated as perennial; grown for foliage, fronds, seeds, and pollen):\n'Purpureum' / 'Smoky' / 'Bronze' — Bronze-purple to dark copper foliage throughout the season; the most ornamentally striking fennel; all culinary uses identical to the green species; highly attractive paired with silver-leaved plants or as a contrast specimen; genuinely one of the most beautiful perennial herbs available; strongly recommended for any planting where aesthetics matter. Performs well across Zones 5-9 with no significant regional variation. Note: 'Purpureum' and 'Smoky'/'Smokey' are very similar selections; both are widely available.\nBulbing / Florence Fennel Cultivars (grown as cool-season annuals; grown for the swollen bulb base):\n'Romanesco' — classic Italian heirloom; reliable bulb formation; sweet and tender; performs best in mild climates with long cool seasons (coastal California, Pacific NW, upper South in fall)\n'Orion' — F1 hybrid; very reliable, slow to bolt; the best choice for gardeners in Zones 5-7 where spring heats up quickly; also excellent for fall planting in Zones 7-9\n'Zefa Fino' — reliable European heirloom; good bolt resistance; performs well across a wide range of climates\nGrow Florence Fennel as a cool-season annual; in Zones 3-6 direct sow in early spring or start indoors for transplant; in Zones 7-9 a fall planting often produces better bulbs than spring because of the longer cool period. These varieties are distinct from the perennial herb form and do not produce a significant perennial crown.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Isolated specimen or small colony in a sunny",
+      "well-drained site away from the vegetable garden; insectary planting; culinary herb garden (stand-alone position, not interplanted with other herbs); ornamental herb border (especially the bronze form); wildlife habitat planting; butterfly garden"
+    ],
+    "designPlacement": "Fennel's allelopathy makes placement the critical design decision. Site fennel at least 4-5' from any sensitive crops or herbs — ideally in a physically separated bed or along a fence line, path edge, or property boundary where its insectary value benefits the broader garden from a distance. Full sun is non-negotiable. South- or west-facing exposures are ideal, especially in Zones 5-6 where winter crown survival depends on warmth and drainage. Avoid low spots, swales, or heavy-soil areas where water pools. The 4-6' height means fennel works as a background plant or vertical accent — do not place where it will shade sun-dependent neighbors. The bronze form ('Purpureum'/'Smoky') is ornamentally striking enough to anchor a sunny border on its own.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Foeniculum_vulgare",
+    "inaturalist": "https://www.inaturalist.org/taxa/53052-Foeniculum-vulgare",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275990"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed as invasive or noxious in Pennsylvania. Self-seeds freely and may naturalize along roadsides and disturbed ground, but does not form the dense invasive stands seen in western states. Manage seed heads to prevent unwanted spread.",
+      "drainage": "The compacted red clay at Hegins is a poor match for fennel in-ground without significant amendment. A raised mound of sandy loam/gravel mix or a raised bed is strongly recommended. If planting in-ground in Section C, excavate and replace the clay in a 2' diameter pocket with a fast-draining mix. The south-facing aspect of Section C helps — warmth and faster drying reduce rot risk — but drainage must still be addressed mechanically.",
+      "soil": "Red clay at the Hegins site requires amendment for fennel — see Drainage Preference > Pennsylvania for approach. The native clay pH is likely within fennel's broad range, but structure is the limiting factor, not chemistry.",
+      "cultivarNotes": "For the perennial herb form, 'Purpureum'/'Smoky' is the top recommendation — bronze foliage is ornamentally outstanding and all culinary uses are identical to the green species. For bulbing fennel, 'Orion' is the most reliable choice for the short, unpredictable spring in Zone 6a PA; direct sow as early as soil can be worked or start indoors 4-6 weeks before last frost.",
+      "designPlacement": "Section C (south-facing back porch strip) is the strongest candidate — the warm, dry microclimate suits fennel's Mediterranean preferences, and the fragrance focus of that bed aligns with fennel's exceptional scent. Place at one end of the strip to isolate from sensitive neighbors. The 4-6' height exceeds Section C's 5' limit — choose a position where it can stand tall without blocking sightlines, or plan to cut back if height becomes an issue. The bronze form would be visually outstanding here. Section B is NOT recommended if annual vegetables or sensitive herbs (basil, tomatoes, peppers) are planned nearby — allelopathic suppression would work against productive neighbors. Section A's north-facing aspect and partial shade are poor fits for fennel. An alternative is a standalone position along a fence or at the property edge where insectary value benefits the whole garden without allelopathic conflict.",
+      "siteObservations": "Crown overwintering is variable in Zone 6a at this site — the south-facing aspect of Section C improves survival odds, but the compacted red clay works against fennel's drainage needs. A raised mound or amended pocket is essential for in-ground planting (see Drainage Preference > Pennsylvania). Mulch the crown lightly with straw after ground cools in fall; remove in early spring. Allow some self-seeding as insurance against crown loss — fennel seedlings establish quickly and can replace a lost parent plant. Deer pressure from the east wildlife corridor is not a significant concern — fennel's intense anise scent is a reliable deterrent; established plants are rarely browsed. Wind exposure from NW/W is not problematic for fennel, which is flexible-stemmed and tolerates open, windy sites in its native Mediterranean habitat."
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "trifolium-repens",
+  "name": {
+    "commonName": [
+      "White Clover",
+      "Dutch Clover",
+      "Ladino Clover"
+    ],
+    "latinName": "Trifolium repens",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and Central Asia; one of the most widely naturalized plants in the world; present on all inhabited continents",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe and now naturalized throughout all 50 states and every US territory; one of the most common non-native plants in North America, found in lawns, pastures, roadsides, meadows, and disturbed ground from coast to coast"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive in the lower 48 US states; not listed on any state noxious weed list; while non-native and highly persistent, white clover is broadly regarded as beneficial (nitrogen fixation, pollinator forage) and is intentionally planted in agricultural, horticultural, and ecological restoration contexts; it does not displace native plant communities in intact habitats"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "3-10"
+    }
+  },
+  "description": {
+    "height": "4-12\" (highly variable); creeping and spreading",
+    "spread": "Spreads indefinitely by creeping stolons (runners) that root at nodes; forms a continuous mat; managed by mowing",
+    "spacing": "Broadcast seed at 1-2 lbs per 1,000 sq ft for a lawn mix; for guild understory, broadcast or scatter seed; no spacing needed",
+    "growthRate": "Fast; germinates readily and spreads rapidly",
+    "timeToMaturity": "Flowers in first season; fixing nitrogen from germination",
+    "lifespan": "Short-lived perennial (2-5 years individual plants); self-seeds and runner-propagates to create a permanent stand",
+    "deciduousEvergreen": "Semi-evergreen — foliage often persists through mild winters; one of the first green plants in spring",
+    "winterInterest": "Low — some foliage may be visible through winter as a small-scale ground cover"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; tolerates more shade than most ground covers while still fixing nitrogen; particularly good in the dappled shade under fruit trees",
+    "water": "Low to medium; drought tolerant once established; grows in average conditions",
+    "drainagePreference": {
+      "description": "Adaptable to a wide range of drainage conditions; thrives in average, well-drained to moderately moist soils; tolerates periodic wet conditions but avoids consistently waterlogged or saturated areas where root rot can develop; performs well in imperfect drainage that would stress many other ground covers",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — white clover is one of the best-adapted ground covers for heavy clay soils; the shallow, fibrous root system and stoloniferous growth habit mean it does not need deep root penetration to establish; tolerates compaction well and actually helps improve clay over time through organic matter addition and nitrogen fixation; root nodule bacteria (Rhizobium) function normally in clay; no amendments required for establishment in clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; adaptable to a broader range (5.5-7.5) but performs best near neutral"
+    },
+    "texturePreference": "Very adaptable; thrives in average garden soil including clay-loam, sandy loam, and heavy clay; does not require fertile soil (it creates its own nitrogen); performs adequately even in poor, compacted soils",
+    "rootCharacter": "Shallow fibrous root system with creeping stolons; nitrogen-fixing root nodules (Rhizobium bacteria); the root nodules are visible as small white or pink beads on the root system"
+  },
+  "bloom": {
+    "bloomTime": "April through October — essentially the entire growing season; continuous bloom is one of its primary ecological contributions",
+    "bloomDescription": "Small white (occasionally pink-tinged) spherical flower heads 0.75-1\" wide; individually modest but produced continuously throughout the season; the nearly year-round bloom provides exceptional continuous pollinator support",
+    "fragrance": "Mildly sweet and honey-like; pleasant up close",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding pollinator plant — the continuous bloom from spring to fall provides a nearly unbroken nectar and pollen source; honeybees depend heavily on white clover as a primary forage plant (much of the world's honey has a significant clover component); bumblebees and native bees also work clover intensively; white clover is arguably the most ecologically important single forage plant for managed honeybees in the eastern US"
+  },
+  "yield": {
+    "edibleParts": "Flowers (edible — dried for tea; mild, slightly sweet flavor); young leaves (edible raw or cooked — mild flavor; high in protein; used in salads and as cooked greens; best young; can be tough when mature); seeds (edible; sprout-able)",
+    "harvestSeason": "Flowers throughout the season; young leaves spring and summer",
+    "medicinalUses": "Traditional use as an anti-inflammatory and alterative (blood-purifying) herb; flower tea used for coughs and respiratory support; contains isoflavones (phytoestrogens) — relevant for some medicinal applications; primarily an ecological plant rather than a primary medicinal",
+    "craftOtherYield": "Honey (clover honey is the most common commercial honey type in North America — the plant is the primary bee forage plant); nitrogen-fixing green manure (mow or till in for a nitrogen contribution to the soil)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible; widely consumed; the isoflavones are not a practical concern at culinary use levels",
+    "toxicityAnimals": "Generally safe for dogs and cats; toxic to sheep and cattle in large quantities (bloat — a digestive issue specific to ruminant livestock); the concern for a garden context is negligible",
+    "allelopathy": "Clover has mild allelopathic effects on some plants; there is evidence that clover root exudates inhibit the germination of some seeds (autotoxicity in dense stands); overall the nitrogen-fixing and pollinator contributions far outweigh any minor allelopathic effects in a food garden context",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary — fixes 100-200 lbs of nitrogen per acre per year through root nodules; as a living mulch under fruit trees, this is a continuous, passive nitrogen input)",
+      "Pollinator Support (outstanding — one of the most important continuous bee forage plants available)",
+      "Food (secondary — edible flowers and leaves)",
+      "Living Mulch (suppresses weeds, retains moisture, covers bare soil)",
+      "Soil Builder (root biomass adds organic matter)"
+    ],
+    "companionPlants": [
+      "All fruit trees (guild ground cover)",
+      "apple and other tree guilds",
+      "vegetable garden paths; particularly valuable under fruit trees where the nitrogen contribution is immediately used by the tree; pairs with yarrow and dill for a complete insectary/nitrogen-fixing living mulch system"
+    ],
+    "antagonists": [
+      "Alliums (avoid planting dense clover directly adjacent to garlic, chives, or other alliums — there is evidence of mild competitive interactions); competition with desired seedlings in formal beds (clover will outcompete newly planted seedlings — manage in beds)"
+    ],
+    "coppiceable": "Mow regularly to maintain at desired height; mowing encourages dense re-growth and stimulates nitrogen release as root nodules are disrupted; no true coppicing needed"
+  },
+  "wildlife": {
+    "attracts": "Honeybees (primary forage plant), bumblebees (excellent), native bees, butterflies (especially small skippers and blues), beneficial insects of all types; one of the most wildlife-productive plants per unit area in a garden",
+    "hostPlantFor": "Several Lepidoptera species use Trifolium as larval hosts including the eastern tailed-blue butterfly (Cupido comyntas) and clouded sulphur (Colias philodice) — the yellow butterfly commonly seen flying over lawns",
+    "nestingHabitat": "Dense mat provides ground-level cover and nesting sites for ground-nesting bees (some native bees are ground nesters); important nesting habitat if areas are not excessively disturbed"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer graze clover avidly; the plant regrows rapidly from stolons after grazing, so deer damage is rarely fatal to a stand, but clover is not a deer deterrent and may attract deer to an area; in high deer-pressure regions (most of the eastern US and Midwest), consider this when designing guild ground covers; young fruit trees with clover understory may receive more deer visits than bare-ground trees; however, the nitrogen-fixing and pollinator benefits generally outweigh this risk in a food forest context"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — reasonable salt tolerance; commonly found in roadside disturbed areas and tolerates incidental road salt exposure; recovers from moderate splash-zone salt contact"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; established stands are reasonably drought tolerant but growth slows noticeably in severe drought; in hot-summer regions (Zone 8+), may go semi-dormant in midsummer without irrigation"
+    },
+    "other": "Tolerates mowing, foot traffic, and grazing; extremely resilient and self-repairing; will naturalize through any disturbed area; essentially permanent once established; tolerates heat, humidity, and moderate soil compaction"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — essentially self-maintaining",
+    "pruningNotes": "Mow or cut to 2-3\" as needed to maintain height in managed areas; the plant regrows from the stolons; mowing stimulates nitrogen release and dense re-growth. In guild understories, mow occasionally to prevent the clover from becoming too competitive with other guild plants. No other management needed for a naturalized stand.",
+    "propagationMethods": [
+      "Seed (easy — broadcast; does not need covering; needs good seed-to-soil contact; widely available in lawn seed mixes, pasture mixes, and as pure species seed)",
+      "stolons (the runners root naturally wherever they contact soil)"
+    ]
+  },
+  "cultivarNotes": "Named varieties include **'Ladino'** (large-leafed, very productive for forage and nitrogen fixing — performs well across Zones 4-9; the standard choice for serious nitrogen-fixing applications), **'Pipolina'** (dwarf, compact — good for limited space; performs across Zones 4-8), and **'Miniclover'** (very low-growing, reduced mowing — marketed for lawn use; Zones 4-9; same nitrogen-fixing properties as the species). For guild and food forest use across all zones, the straight species is the standard — no improvements needed beyond what the species already provides. Southern gardeners (Zone 8+) may find clover goes semi-dormant in midsummer heat; 'Ladino' tends to be more heat-persistent than the species type. Northern gardeners (Zones 3-5) can use any variety with confidence.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest living mulch",
+      "orchard understory",
+      "pollinator meadow",
+      "nitrogen-fixing guild companion",
+      "naturalized lawn alternative",
+      "vegetable garden path cover",
+      "green manure"
+    ],
+    "designPlacement": "Use as the ground-level living mulch layer in any tree guild or food forest system; plant under fruit trees, nut trees, and berry shrubs where it will continuously fix nitrogen and feed the overstory; mow occasionally to prevent competition with other guild plants but allow a permanent stand to establish; incorporate in lawn areas, orchard aisles, and garden paths to support pollinators and provide continuous nitrogen input; pairs well with other guild ground covers like yarrow, dill, and comfrey; keep dense stands away from newly seeded beds where clover can outcompete seedlings",
+    "acquisitionStatus": "To source (may already be present on site; inexpensive to seed)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trifolium_repens",
+    "inaturalist": "https://www.inaturalist.org/taxa/55745-Trifolium-repens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m650"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania; however, it is thoroughly naturalized statewide and extremely common in lawns, fields, pastures, roadsides, and disturbed areas throughout the commonwealth — almost certainly already present on or near the Hegins site",
+      "paInvasiveStatus": "Not listed as invasive or noxious in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; same as general Invasive field — not regulated in PA",
+      "drainage": "Hegins red clay is no obstacle for white clover; it will establish readily in compacted, unamended clay soil without raised beds or special preparation; in fact, broadcasting clover seed into existing lawn or bare ground at the Hegins site is one of the easiest and most beneficial first steps for soil improvement",
+      "soil": "Hegins red clay is well within the acceptable range; no amendment needed for clover establishment; the plant will actively improve the clay over time through nitrogen fixation and organic matter from root and stolon turnover",
+      "cultivarNotes": "The straight species or 'Ladino' are both excellent choices; no cultivar selection issues at this site.",
+      "designPlacement": "All three tree guilds (apple, paw paw, mulberry) — white clover is the ground-level living mulch in the guild understory; also incorporate in lawn areas near the tree guilds; may already be present on the site as a naturalized plant in existing lawn areas — this is beneficial and can be intentionally reinforced by overseeding",
+      "siteObservations": "Check existing lawn areas — white clover may already be present and can be encouraged rather than sourced new. Deer pressure from the east wildlife corridor means deer may graze clover stands near the tree guilds; this is not catastrophic since the plant regrows rapidly, but it may increase deer traffic in guild areas — factor this into guild design and consider whether deer presence near young fruit trees is acceptable. The red clay soil at the site is not an issue for clover establishment."
+    }
+  }
+}

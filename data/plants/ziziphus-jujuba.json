@@ -1,0 +1,160 @@
+{
+  "id": "ziziphus-jujuba",
+  "name": {
+    "commonName": [
+      "Jujube",
+      "Chinese Date",
+      "Red Date"
+    ],
+    "latinName": "Ziziphus jujuba",
+    "family": "Rhamnaceae (Buckthorn family)"
+  },
+  "range": {
+    "nativeRange": "Eastern Asia — China, Korea, Japan; cultivated in Asia for over 4,000 years; naturalized across southern Europe, the Middle East, and South Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced from Asia. Naturalized in scattered locations across the southern US (Texas, the Gulf Coast, and parts of the Southwest) where it has escaped cultivation in warm, dry climates. Not naturalized in the Northeast or Mid-Atlantic."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed as invasive at the federal level or on any state noxious weed list in the lower 48. In parts of the arid Southwest and southern Great Plains, jujube can sucker and spread in disturbed ground, but it is not considered a significant invasive threat in the temperate eastern US. Well-behaved in most garden settings; suckering is the primary management consideration rather than invasive escape."
+    },
+    "zone": {
+      "min": 6,
+      "max": 9,
+      "description": "Zone 6-9 (some sources cite Zone 5 with careful siting and establishment care); blooms late enough to avoid all spring frost risk in Zone 6"
+    }
+  },
+  "description": {
+    "height": "15-30' at maturity; typically reaches 20-25' in the temperate Mid-Atlantic; can be kept smaller through pruning",
+    "spread": "10-20'; naturally somewhat open and upright with pendulous, zig-zag branching",
+    "spacing": "15-20' apart; plant at least two cultivars for best cross-pollination and yield ('Li' + 'Lang' is the classic pairing)",
+    "growthRate": "Moderate to fast once established — slow in the establishment year (root focus), then accelerates; 1-2' per year typical",
+    "timeToMaturity": "First fruit in 3-5 years; full production by years 7-10",
+    "lifespan": "Long-lived; 50-100+ years; some cultivated trees in China are centuries old",
+    "deciduousEvergreen": "Deciduous — late to leaf out in spring (often not until May); one of the last trees to break dormancy, which contributes to its frost resilience",
+    "winterInterest": "Moderate — the zig-zag, slightly contorted branch structure is attractive in winter silhouette; thorns add texture"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required — 6 hours minimum, 8+ preferred; fruit quality and sweetness are significantly reduced in partial shade",
+    "water": "Low to moderate; extremely drought-tolerant once established (one of the most drought-tolerant fruiting trees available for the temperate zone); consistent moisture in the establishment year is beneficial but the tree is very self-sufficient thereafter; tolerates dry, rocky, or poor soils where other fruit trees fail; in the humid eastern US, established trees rarely need supplemental irrigation; in the arid West, occasional deep watering during prolonged drought improves fruit size",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates a wide range including clay-heavy and poor soils far better than most fruit trees; avoid prolonged waterlogging (standing water), which can cause root rot in any soil type; otherwise very adaptable to less-than-ideal drainage conditions",
+      "claySoilPerformance": {
+        "rating": "good-excellent",
+        "description": "Good to excellent — one of the most clay-tolerant fruiting trees available. The deep taproot penetrates heavy soil more effectively than the shallow fibrous roots of many fruit trees. Tolerates compacted and heavy clay soils where apple, pear, and stone fruit would struggle. Amendment is beneficial but not strictly required; incorporating coarse organic matter at planting improves establishment in dense clay. Avoid planting in clay depressions where water pools after rain."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0 — notably wide tolerance; performs in slightly acidic to moderately alkaline soils; one of the most pH-adaptable fruiting trees"
+    },
+    "texturePreference": "Adaptable to clay, loam, or sandy soils; thrives in poor, lean soils that would challenge other fruit trees; heavy amendment is not required at planting, though a modest compost addition is always beneficial",
+    "rootCharacter": "Deep taproot with spreading lateral roots; drought tolerance is largely due to the deep tap root system; does not spread aggressively; the root system is generally not competitive or invasive"
+  },
+  "bloom": {
+    "bloomTime": "June to July — one of the latest-blooming fruiting trees in the temperate garden; blooms occur well after all spring frost risk has passed in Zones 5-7",
+    "bloomDescription": "Small (3/16\" diameter), five-petaled, white to yellowish-green flowers borne in clusters in the leaf axils; individually inconspicuous but produced in large numbers along the branches; the midsummer bloom period is unusual and distinctive among fruiting trees",
+    "fragrance": "Mildly fragrant — sweet, honey-like; not strongly scented but pleasant up close",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Self-fertile — a single tree will set some fruit; however, cross-pollination with a second cultivar (especially the classic 'Li' + 'Lang' pairing) significantly increases fruit set and yield; bees and other small insects are the primary pollinators; the midsummer bloom coincides well with active bee populations"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the primary yield); fruit is a drupe ranging from cherry- to date-sized depending on cultivar; two distinct eating stages — (1) fresh/green-to-red stage: crisp, apple-like texture, mildly sweet, thin skin, very refreshing; (2) dried/wrinkled-brown stage: chewy, very sweet, caramel and date-like flavor — this is the classic \"Chinese date\" of Asian cuisine and traditional medicine; extraordinarily high Vitamin C content (fresh jujube contains 20x the Vitamin C of citrus by some measures)",
+    "harvestSeason": "August through October depending on cultivar and location; fruit can be harvested at the fresh-crisp stage (green-to-red) or left to ripen fully and dry partially on the tree to the wrinkled, date-like stage; the extended harvest window is an advantage",
+    "medicinalUses": "Extensively used in Traditional Chinese Medicine (TCM) — suan zao ren (jujube seed) is used to calm the spirit, treat insomnia, and nourish the heart and liver; the fruit itself is considered a tonic, used to support digestive health and reduce fatigue; rich in saponins, flavonoids, polysaccharides, and antioxidants; in modern research, jujube has been studied for anxiolytic, sedative, immunomodulatory, and hepatoprotective effects; dried fruit is consumed as a tea and tonic food across China, Korea, and Japan",
+    "craftOtherYield": "Dried fruit (stores well for months at room temperature; excellent pantry staple); jujube tea (dried fruit simmered with ginger and honey — a classic warming winter drink); jujube paste used in Korean and Chinese pastries and confections; jujube wine; the dense wood has traditional use in woodworking and carving; thorny branches can be used in hedging"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "None — fruit, flesh, and dried fruit are all non-toxic; seeds/pits are not typically eaten; no toxicity concerns",
+    "toxicityAnimals": "Fruit is generally considered non-toxic to dogs and cats; the pit (stone) is a choking hazard if consumed whole; no significant toxicity reported",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy to tall understory — at 15-30', jujube occupies the lower canopy or upper understory layer in a food forest; fits well below taller canopy trees or as the primary canopy on a dry, hot, or challenging site"
+    },
+    "roles": [
+      "Food (fruit — primary yield, fresh and dried)",
+      "Medicinal Plant",
+      "Wildlife Support (fruit and nesting cover)",
+      "Wind and Erosion Buffer",
+      "Difficult-Site Pioneer (thrives where other fruit trees fail)",
+      "Deer Deterrent (structural thorns)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator — excellent at the base)",
+      "yarrow (insectary)",
+      "white clover (nitrogen fixer in understory)",
+      "chives or garlic (pest deterrent)",
+      "native wildflowers (pollinator support during the midsummer bloom window — plants that bloom in June-July such as bee balm, mountain mint, and coneflower are ideal companions timed to the jujube flower period); shallow-rooted ground covers can be planted beneath without competition"
+    ],
+    "antagonists": [
+      "No specific antagonists documented; avoid planting in waterlogged depressions; not known to be affected by juglone (black walnut) to the same degree as Rosaceae species",
+      "though proximity to black walnut should still be evaluated"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects during the midsummer bloom (the June-July bloom period is a valuable nectar bridge when many other trees have finished flowering); birds (many species consume the ripe and dried fruit, including robins, mockingbirds, starlings, and cedar waxwings); the dried fruit that persists into autumn and early winter on unpicked branches can serve as a late-season food source for birds",
+    "hostPlantFor": "Limited documented native Lepidoptera association in North America — jujube is not a primary native host plant; its value to native insects is primarily as a nectar source rather than a larval host",
+    "nestingHabitat": "Excellent — the thorny branching structure provides highly protective nesting habitat for songbirds; thorny shrubs and trees are among the most valuable nesting cover for species like gray catbird, northern mockingbird, brown thrasher, and various sparrows; a jujube tree or hedge offers refuge from predators that a smooth-barked tree cannot"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "High — the paired thorns on younger growth are a significant physical deterrent; deer do not typically browse jujube the way they target apple, pear, or serviceberry; one of the better deer-resistant fruiting trees available for Zones 6-9. Young trees may need temporary protection (caging or fencing) until branching becomes established and the thorn structure is dense enough to deter browsing; mature trees are generally left alone."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates some road salt and salt spray; no strong sensitivity documented; recovers from incidental exposure without significant dieback"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-tolerant fruiting trees for the temperate zone; established trees routinely thrive with no supplemental irrigation in the humid East; the deep taproot accesses subsoil moisture; explicitly recommended for hot, dry, or south-facing slopes and difficult sites where other fruit trees would fail"
+    },
+    "other": "Heat-tolerant; tolerates reflected heat (south-facing walls, paved surfaces); tolerates poor and compacted soils; notably disease-resistant — very few fungal or bacterial disease problems are documented in North America; no equivalent to the fire blight, cedar-apple rust, and scab pressures faced by apple; one of the lowest-maintenance fruiting trees in this regard; tolerates wind exposure well once established"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the least demanding fruiting trees once established; no spray program required; disease and pest pressure is minimal; the primary maintenance tasks are establishment watering and annual light pruning",
+    "pruningNotes": "Prune in late winter (late February to March) before bud break; the goal is to maintain an open structure with good light penetration and airflow; remove crossing branches, crowded growth, and any dead wood; jujube fruits on new growth each year (unlike apple, which fruits on spurs), so some light heading back of long shoots can encourage branching and more fruiting wood; heavy pruning is generally not required; wear gloves and use long-handled tools when working around the thorns",
+    "propagationMethods": [
+      "Root suckers (jujube produces root suckers readily — these can be dug and transplanted; suckers from named cultivars may or may not be true to the cultivar depending on whether the tree is own-rooted or grafted); grafting (named cultivars are typically grafted; purchase grafted trees from a reputable nursery to ensure true-to-name fruit); hardwood cuttings (possible but less commonly practiced); seed (does not produce true to named cultivar; useful only for rootstock production)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars vary significantly in fruit size, flavor profile, best use (fresh vs. dried), and thorniness. For most of the lower 48, the following are well-established and widely available:\n**'Li'**: The most commonly recommended large-fruited cultivar for fresh eating; fruit is round to slightly oblong, among the largest available (golf-ball sized); flavor is sweet and mild with very crisp flesh at the fresh stage; excellent eaten fresh; Zone 6-9; one of the most widely planted cultivars in North America; pairs well with 'Lang' for cross-pollination.\n**'Lang'**: Elongated, pear-shaped fruit; somewhat smaller than 'Li'; the classic cultivar for drying — the flavor concentrates beautifully and becomes very sweet with caramel notes when dried; also excellent fresh; Zone 6-9; plant together with 'Li' for the classic cross-pollination pair and to cover both fresh and dried use in one planting.\n**'Sherwood'**: Large, sweet fruit with excellent flavor; reported to be vigorous and productive in southeastern and mid-Atlantic conditions; Zone 6-9; a good alternative or addition where space permits a third tree.\n**'Chico'**: Smaller tree habit; fruit is highly regarded for fresh-eating flavor — considered by many to have the best fresh flavor of the standard cultivars; good choice for a tighter space or as a third variety in a larger planting.\n**Zone 8-9 (southern US):** Gardeners in the Deep South and Gulf Coast have additional cultivar options including 'Sugar Cane' (very sweet, smaller fruit, vigorous in heat) and 'Honey Jar' (small, extremely sweet fruit favored for fresh eating). These may not ripen reliably in shorter-season northern climates.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest canopy or understory; hot and dry slope planting; difficult-site fruit tree where conventional fruit trees have failed; deer-resistant orchard component; productive thorny hedgerow; Asian cuisine and medicinal herb garden anchor"
+    ],
+    "designPlacement": "Plant in full sun with freely-draining soil; jujube's exceptional drought tolerance and deer resistance make it a strong candidate for exposed, hot, or challenging positions — south-facing slopes, dry edges, windswept locations, or any area where deer pressure has made other fruit trees difficult. The late bloom (June-July) eliminates spring frost damage to flowers, which is a major advantage over early-blooming stone fruits and apples in frost-prone areas. Plant as a pair (two cultivars for cross-pollination) spaced 15-20' apart. Can serve as a stand-alone specimen, an orchard component, or a structural element in a food forest. Avoid low-lying spots with poor drainage.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jujube",
+    "inaturalist": "https://www.inaturalist.org/taxa/428365-Ziziphus-jujuba",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d475"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced from Asia",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA noxious weed list or DCNR invasive species list. Same as general Invasive field; no PA-specific concerns.",
+      "drainage": "The red clay at Hegins is well within jujube's tolerance range — this is one of the few fruiting trees that can be planted directly in the site's compacted clay without raised beds or heavy amendment. A generous planting hole with compost worked into the backfill is sufficient. Avoid any low-lying area with standing water after rain; choose a freely-draining slope or elevated ground.",
+      "soil": "The red clay at Hegins is acceptable as-is for jujube — no raised bed or major soil replacement needed. Work compost into the planting hole to improve drainage and root establishment in the first year. The naturally slightly acidic pH of the site's clay is well within range.",
+      "cultivarNotes": "'Li' + 'Lang' is the recommended pairing — covers both fresh-eating and drying purposes, provides proven cross-pollination synergy, and both are well-suited to Zone 6a. Source from a reputable specialty nursery (Cliff England's Nursery in KY and Just Fruits and Exotics in FL are frequently cited sources for named jujube cultivars in the eastern US).",
+      "designPlacement": "Well-suited to any full-sun, freely-draining location on the property. The late bloom is a significant advantage for this frost-prone valley. Not assigned to a specific bed section — siting should prioritize maximum sun exposure and good drainage; the tree guild will be positioned when the property map is developed. The thorny structure provides a useful deer barrier on the east side of a planting if positioned strategically relative to the wildlife corridor.",
+      "siteObservations": "The compacted red clay at this site is within jujube's tolerance — one of the few fruiting trees that can go directly into the ground here without raised beds. Deer pressure from the east corridor is less of a concern for jujube than for apple or pear due to the thorns, but young trees should still be caged until the branch structure fills in. The late leaf-out (May) means the tree will look bare longer than neighbors in spring — site accordingly if aesthetics matter for a visible location."
+    }
+  }
+}

@@ -1,0 +1,150 @@
+---
+import Base from '../layouts/Base.astro';
+import { getAllPlants, getUniqueLayers } from '../lib/plants';
+
+const plants = getAllPlants();
+const layers = getUniqueLayers();
+
+const layerLabels: Record<string, string> = {
+  canopy: 'Canopy', understory: 'Understory', shrub: 'Shrub',
+  herbaceous: 'Herbaceous', groundCover: 'Ground Cover', vine: 'Vine',
+  root: 'Root', fungal: 'Fungal',
+};
+
+const layerCounts = new Map<string, number>();
+for (const p of plants) {
+  const layer = p.permaculture?.layer?.primary ?? 'other';
+  layerCounts.set(layer, (layerCounts.get(layer) ?? 0) + 1);
+}
+
+const familyCounts = new Map<string, number>();
+for (const p of plants) {
+  const fam = p.name.family;
+  if (fam) familyCounts.set(fam, (familyCounts.get(fam) ?? 0) + 1);
+}
+const topFamilies = [...familyCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+
+const recentPlants = plants.slice(0, 6);
+---
+
+<Base title="Plant Database — Permaculture Garden Planning">
+
+  <div class="hero">
+    <h1>Plant Database</h1>
+    <p>{plants.length} plant profiles for permaculture garden planning</p>
+    <a href="/browse" class="cta">Browse All Plants &rarr;</a>
+  </div>
+
+  <h2>By Permaculture Layer</h2>
+  <div class="layer-grid">
+    {layers.map(layer => (
+      <a href={`/browse?layer=${layer}`} class="layer-card">
+        <span class="layer-name">{layerLabels[layer] ?? layer}</span>
+        <span class="layer-count">{layerCounts.get(layer) ?? 0}</span>
+      </a>
+    ))}
+  </div>
+
+  <h2>Top Families</h2>
+  <div class="family-grid">
+    {topFamilies.map(([fam, count]) => (
+      <a href={`/browse?family=${fam}`} class="family-card">
+        <span>{fam}</span>
+        <span class="family-count">{count}</span>
+      </a>
+    ))}
+  </div>
+
+  <h2>Sample Profiles</h2>
+  <div class="sample-grid">
+    {recentPlants.map(p => (
+      <a href={`/plants/${p.id}`} class="sample-card">
+        <span class="common-name">{p.name.commonName[0]}</span>
+        <span class="latin-name">{p.name.latinName}</span>
+      </a>
+    ))}
+  </div>
+
+</Base>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: 3rem 0 2rem;
+  }
+  .hero p {
+    color: var(--color-muted);
+    font-size: 1.1rem;
+    margin: 0.5rem 0 1.5rem;
+  }
+  .cta {
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    background: var(--color-accent);
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .cta:hover { opacity: 0.9; color: white; }
+
+  .layer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  .layer-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s;
+  }
+  .layer-card:hover { border-color: var(--color-accent); }
+  .layer-name { font-weight: 600; font-size: 0.95rem; }
+  .layer-count { color: var(--color-accent); font-size: 1.25rem; font-weight: 700; margin-top: 0.25rem; }
+
+  .family-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .family-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0.75rem;
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.9rem;
+  }
+  .family-card:hover { border-color: var(--color-accent); }
+  .family-count { color: var(--color-accent); font-weight: 600; }
+
+  .sample-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.75rem;
+  }
+  .sample-card {
+    display: block;
+    padding: 0.75rem 1rem;
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .sample-card:hover { border-color: var(--color-accent); }
+  .common-name { display: block; font-weight: 600; }
+  .latin-name { display: block; font-style: italic; font-size: 0.85rem; color: var(--color-muted); margin-top: 0.15rem; }
+</style>

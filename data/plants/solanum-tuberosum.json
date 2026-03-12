@@ -1,0 +1,162 @@
+{
+  "id": "solanum-tuberosum",
+  "name": {
+    "commonName": [
+      "Potato",
+      "Irish Potato",
+      "Common Potato"
+    ],
+    "latinName": "Solanum tuberosum",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Andean South America — domesticated in the highlands of present-day Peru and Bolivia by indigenous peoples at least 8,000 years ago; introduced to Europe in the late 16th century and now the world's fourth-largest food crop",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from South America via Europe in the 17th–18th centuries; now the most widely grown vegetable crop in the US but does not naturalize or persist outside cultivation; volunteers from missed tubers may sprout the following year but do not form self-sustaining populations"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48 US states; not listed on any state noxious weed list; spent tubers may sprout as volunteers the following season, but the plant does not naturalize or spread on its own; volunteers are easily pulled and do not persist beyond a single season without human cultivation"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 as an annual; grown as a cool-season annual crop in all zones"
+    }
+  },
+  "description": {
+    "height": "1.5-2.5' for bush-type varieties; vining types may sprawl to 3-4'; typically measured to the top of the leafy canopy before hilling; plants are low and spreading rather than upright",
+    "spread": "1.5-2.5' per plant; rows are typically spaced 2.5-3' apart for cultivation and hilling access",
+    "spacing": "Seed potato pieces 12\" apart within rows; rows 2.5-3' apart; fingerling types can be planted at 10\"",
+    "growthRate": "Fast once soil warms — emergence in 10-21 days; full canopy in 6-8 weeks; early varieties begin tuber bulking rapidly after flowering",
+    "timeToMaturity": "Highly variable by type: EARLY/NEW POTATOES — 60-70 days (flower stage signals harvest readiness); MIDSEASON — 70-90 days; LATE/STORAGE — 90-120 days (harvest after tops die back naturally); timing shifts with zone — in Zone 6a, early potatoes come in June to early July; in Zone 8+, spring-planted crops may mature before summer heat",
+    "lifespan": "Annual crop, replanted each year from seed potato pieces; the species itself is a tender perennial in frost-free climates but grown strictly as an annual in Zones 2-10",
+    "deciduousEvergreen": "Annual — tops die back completely after flowering and maturity or are killed by hard frost",
+    "winterInterest": "None; plants are gone by fall; storage tubers are kept indoors"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6-8 hours minimum; adequate light drives vigorous canopy growth and, through photosynthesis, fuels tuber bulking; do not plant where shade from structures or trees will reduce afternoon sun",
+    "water": "Medium to medium-high; consistent, even moisture is critical from tuber set through harvest; irregular watering (wet-dry cycles) causes knobby, misshapen tubers, hollow heart, and cracking; water deeply once or twice a week rather than lightly and frequently; reduce watering significantly once foliage yellows and begins to die back (the curing phase); in arid western climates, drip irrigation on a timer is strongly recommended to maintain even soil moisture",
+    "drainagePreference": {
+      "description": "WELL-DRAINED — essential; potatoes in waterlogged or poorly drained soil develop rot at the seed piece and tuber stage, and standing water dramatically increases late blight risk; raised beds or mounded rows are the standard solution in any heavy soil; in sandy soils, drainage is rarely a concern but moisture retention may be",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — clay soil is one of the primary constraints for potato production across the eastern US, Midwest, and Pacific Northwest; clay causes misshapen tubers as they cannot expand freely, increases scab incidence, warms slowly in spring delaying planting, and holds excess moisture that promotes rot and blight; raised beds with deeply amended soil are strongly preferred; if growing in-ground in clay, the bed must be deeply dug and heavily amended with compost and coarse sand before planting; hilling with loose compost or straw rather than native clay soil is essential"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.8,
+      "max": 6,
+      "description": "4.8-6.0; slightly acidic is preferred and important — soil pH above 6.5 significantly increases the incidence of common scab (Streptomyces scabies); do not lime a potato bed; if liming for other crops in rotation, do so well before the potato year; monitor pH carefully in any bed planned for potatoes, especially where soil amendment is ongoing"
+    },
+    "texturePreference": "Loose, light, well-drained, deeply prepared soil — this is the single most important physical requirement; tubers must be able to expand freely in all directions; compacted or clay-heavy soil causes misshapen, stunted, and scabby tubers; sandy loam is ideal; hilling with loose compost, straw, or a compost-soil mix is an effective way to give tubers a loose medium to expand into above the native soil line",
+    "rootCharacter": "Fibrous root system in the top 12-18\" of soil; stolons (underground stems) grow horizontally from the main stem and produce tubers at their tips; tubers develop between the soil surface and approximately 6-8\" deep, which is why hilling is so important — it extends the productive zone upward and prevents tubers from emerging into light"
+  },
+  "bloom": {
+    "bloomTime": "8-10 weeks after planting; timing varies by zone — June-July in Zone 6a, May-June in Zone 8+, July-August in Zones 3-4; bloom signals that tuber formation is underway; early potato types can be carefully harvested around the time of flowering",
+    "bloomDescription": "Small, star-shaped flowers with five fused white, pink, purple, or lavender petals and prominent yellow anthers; quite beautiful up close; flowers resemble tomato flowers (they are closely related); some varieties produce small, round green fruits after flowering — these are true potato seeds, not tubers, and are toxic (do not confuse with edible tubers)",
+    "fragrance": "Mild to none",
+    "flowerSex": "Hermaphrodite — perfect flowers with both stamens and pistil; self-fertile",
+    "pollination": "Self-fertile; bees will visit flowers but cross-pollination is not required for tuber production; tubers are vegetative structures produced regardless of pollination status"
+  },
+  "yield": {
+    "edibleParts": "Tubers — the primary and almost exclusive edible part; a properly grown crop yields 8-10 lbs of tubers per linear foot of row, or roughly 50 lbs from 2 lbs of seed potato planted; flesh color varies by variety (white, yellow, purple, red-tinged); cooked by boiling, roasting, baking, frying, mashing, steaming; young leaves are sometimes consumed in traditional Andean preparations but the foliage is generally considered toxic and should not be eaten in quantity (see Cautions)",
+    "harvestSeason": "TWO APPROACHES — (1) NEW/EARLY harvest: reach into the hill with fingers at flowering time and pull a few small \"new potatoes\" while leaving the plant to continue growing; thin-skinned, cannot be stored, eat immediately; (2) FULL harvest: wait until the tops yellow and die back completely, then dig the entire hill; allow tubers to cure in a cool, dark, humid location (50-60°F, high humidity) for 2 weeks to harden skins before long storage; properly cured storage types keep 4-6 months in a cool dark root cellar or basement",
+    "medicinalUses": "Traditionally used topically — raw potato slices applied to burns, inflammations, and headaches in folk medicine; high in vitamin C, potassium, and B6; the skin contains significant fiber and nutrients; not a primary medicinal plant in western herbalism",
+    "craftOtherYield": "None significant; spent vines are composted (do not compost any blighted material)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "SIGNIFICANT — the entire plant above ground (foliage, stems, flowers, unripe green fruits) contains solanine and chaconine, toxic glycoalkaloids that cause vomiting, diarrhea, and neurological symptoms in sufficient quantities; foliage should never be consumed. TUBER GREENING: tubers exposed to light turn green — the green color itself is chlorophyll, but it signals the accumulation of solanine in the flesh beneath; green-tinged potato flesh should be cut away generously before cooking; heavily greened tubers should be discarded entirely; never eat green potatoes; even small amounts of solanine can cause illness; store all harvested tubers in complete darkness to prevent greening; this is the most practically important safety note for home growers",
+    "toxicityAnimals": "All green parts and green-tinged tubers are toxic to dogs, cats, and horses via the same solanine mechanism; raw potato is poorly digested by dogs; cooked potato without green is generally safe; keep pets away from the potato patch and composting vines",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual crop)"
+    },
+    "roles": [
+      "Annual Staple Food Crop (primary — one of the most calorie-dense and productive annual vegetables per square foot)",
+      "Caloric Staple",
+      "Soil Loosening (the hilling and digging process opens and aerates compacted ground over time)",
+      "Cultural and Heritage Food Crop"
+    ],
+    "companionPlants": [
+      "Horseradish (traditional — planted at the corners of the potato patch; said to deter Colorado potato beetle and improve disease resistance)",
+      "Beans (fix nitrogen; intercrop between rows)",
+      "Marigolds (Tagetes — nematode suppression, pest deterrence; plant at row edges)",
+      "Nasturtiums (trap crop for aphids; draws aphids away from potatoes)",
+      "Chamomile (traditional companion; said to improve flavor)",
+      "Comfrey (excellent chop-and-drop mulch source for hilling; do not plant inside the potato bed but use as a nearby biomass donor)",
+      "Cilantro and dill (attract beneficial predatory wasps that prey on Colorado potato beetle larvae)"
+    ],
+    "antagonists": [
+      "Tomatoes",
+      "peppers",
+      "and eggplant (all Solanaceae — share diseases including late blight and early blight; never follow these crops in rotation and do not grow adjacent; 4-year minimum rotation between any Solanaceae); Fennel (broadly antagonistic to many vegetables, including potatoes); Sunflowers (said to inhibit potato growth if planted closely); Raspberries (share some viral diseases — keep spatial separation)"
+    ],
+    "coppiceable": "No; annual crop"
+  },
+  "wildlife": {
+    "attracts": "Bees visit the flowers (modest pollinator value); Colorado potato beetle (a significant pest — see Maintenance); beneficial predatory insects (ground beetles, parasitic wasps) if the bed is managed without broad-spectrum insecticides",
+    "hostPlantFor": "Colorado potato beetle (Leptinotarsa decemlineata) — the potato is the primary host plant for this major agricultural pest in North America; both the orange-and-black striped adults and the orange grub-like larvae defoliate plants aggressively",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — deer will browse potato foliage and can significantly damage or destroy a planting; the leafy, conspicuous mounds created by hilling are attractive to browsing deer; fencing or row cover is advisable in any area with active deer pressure, especially when plants are young and leafy; deer pressure is a concern across the eastern US, Midwest, and increasingly in suburban gardens nationwide"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — potatoes are sensitive to sodium; avoid planting near salted roads or pathways; even moderate salt exposure reduces yield and damages foliage"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — consistent moisture is essential for proper tuber development; drought causes small, misshapen, cracked tubers and hollow heart; raised beds dry out faster than in-ground plantings and may require more frequent irrigation during dry spells; deep mulching between hills with straw or shredded leaves dramatically reduces watering needs and keeps soil cool"
+    },
+    "other": "FROST TOLERANCE: moderate — the growing plant tolerates light frost (foliage may be nipped but recovers); hard frost kills the tops; seed potatoes can be planted 2-4 weeks before last frost when soil is workable; tubers themselves are not damaged by frost in the ground, but sustained freezing will rot stored tubers. COOL SOIL: potatoes actually prefer cool soil (60-70°F) for tuber set; hot summers push the plant toward dormancy early, which is why early varieties are often preferred in Zones 7+ with hot summers. HEAT: prolonged temperatures above 85°F reduce tuber set and promote early dormancy; southern growers (Zone 8+) should plant early varieties in late winter for spring harvest before summer heat"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — potatoes are among the more labor-intensive annual vegetables due to the hilling requirement, vigilant pest monitoring, and the critical rotation discipline; not a set-it-and-forget-it crop, but the harvest reward is substantial",
+    "pruningNotes": "SEED POTATO PREPARATION: Plant only certified disease-free seed potatoes purchased from reputable garden suppliers — do not use grocery store potatoes, which may be treated with sprout inhibitors and often carry disease. CHITTING (PRE-SPROUTING): 2-4 weeks before planting, set seed potatoes in a single layer in a cool, bright room (not direct sun) at 50-65°F; short, stubby green sprouts (chits) will develop; chitted seed potatoes establish faster and yield more than unchitted ones; cut large seed potatoes into pieces 1.5-2 oz each, each with 1-2 eyes (sprouts); cure cut pieces for 24-48 hours before planting to form a callus that resists rot. PLANTING: plant 2-4 weeks before last frost when soil is workable; plant 4\" deep, 12\" apart; do not plant deeper — deep planting in cold, wet spring soil encourages seed piece rot. HILLING — CRITICAL: when plants reach 6-8\" tall, mound loose soil, compost, or straw up around the stems leaving only 2-3\" of the top visible; repeat 2-3 more times through the season as stems grow, ultimately building a hill 8-12\" tall; this is the most important cultural technique for potatoes — it dramatically increases yield by giving stolons more room to set tubers, and it prevents tubers from poking up into light and greening; do not neglect hilling. PEST MONITORING: inspect plants every few days for Colorado potato beetle eggs (orange oval clusters on leaf undersides), larvae (orange grubs), and adults (yellow-and-black striped beetles); hand-pick all life stages into soapy water at every visit; for severe infestations, Bt var. tenebrionis (Btk for beetles) is an organic spray effective against young larvae; neem oil provides some deterrence; pyrethrin is a last resort organic option. DISEASE MANAGEMENT: late blight (Phytophthora infestans) is the most serious disease risk — a fast-moving pathogen that can destroy a planting in days under cool, wet conditions; symptoms are water-soaked dark lesions on leaves with a white fuzzy margin on the underside in humid weather; if you see late blight, remove and bag all affected material immediately (do not compost), do not save tubers from blighted plants, and notify neighbors who grow potatoes; prevention is key: plant certified disease-free seed, choose resistant varieties, avoid wetting foliage when watering, and ensure good air circulation; early blight (Alternaria) is a common fungal issue that causes concentric rings on lower leaves — less catastrophic than late blight but still reduces yield; rotate crops, clear all debris. HARVEST AND CURING: dig carefully with a fork rather than a spade to avoid slicing tubers; dig a full foot away from the stem and lever up gently; lay tubers out to dry in a shaded, ventilated area for a few hours to dry the skin, then move to curing conditions (50-60°F, dark, humid) for 2 weeks before long-term storage; store in complete darkness in a cool (35-40°F), slightly humid location.",
+    "propagationMethods": [
+      "Certified seed potato pieces (standard and strongly recommended — the only reliable method for disease-free, true-to-variety plants); true seed (botanical seed — available from specialty sources; used for breeding; not practical for food production as it requires a full extra year and does not produce true-to-type plants); volunteers from missed tubers (common but risky — carry-over tubers may harbor disease; remove volunteers from rotation beds and replant deliberately with certified seed)"
+    ]
+  },
+  "cultivarNotes": "Variety selection in potatoes is genuinely important — different types have fundamentally different uses, maturity dates, disease resistance profiles, and storage characteristics. Performance varies significantly by climate zone and regional disease pressure.\n**EARLY VARIETIES (60-70 days):** Best for new potatoes; harvested when plants flower; thin-skinned and not for storage. **'Red Norland'** — red-skinned, white-fleshed, waxy; the classic early red; excellent for boiling and potato salad; widely available; reliable across Zones 3-8. **'Caribe'** — purple-skinned, white flesh; stunning appearance; early, productive, waxy texture; unique at the table. **'Red Pontiac'** — red skin, white flesh; widely adapted across the US; good heat tolerance for southern growers (Zone 7-8).\n**MIDSEASON (70-90 days): 'Yukon Gold'** — the gold standard all-purpose yellow-fleshed potato; buttery flavor even without much butter; excellent fresh, roasted, boiled, or mashed; moderate storage; the single best variety for a small garden that wants one all-purpose potato; widely available as certified seed; performs well in Zones 3-8. **'Kennebec'** — white-fleshed, tan skin; one of the most reliable, disease-resistant storage potatoes for the eastern US; good late blight resistance (better than most); excellent for baking, frying, and all-purpose use; strong performer in humid continental climates. **'Elba'** — white-fleshed; bred specifically for resistance to late blight and golden nematode; excellent choice for gardens with blight history; best in Zones 4-7 where blight pressure is meaningful.\n**LATE/STORAGE (90-120 days): 'Russet Burbank'** — the quintessential baking potato; high starch, fluffy interior; the classic Idaho-style russet; requires longer season and loose deep soil; not the easiest for clay soil gardens but worthwhile in raised beds; long storage life; performs best in Zones 4-7 with longer, cooler growing seasons. **'Defender'** — white-fleshed; exceptional late blight resistance; developed by Cornell; excellent storage; one of the top recommendations for gardens in humid climates where blight pressure is high.\n**FINGERLINGS: 'Russian Banana'** — small, banana-shaped, yellow-fleshed; waxy, firm, nutty flavor; excellent roasted whole; gourmet potato; 70-90 days; widely adapted. **'Purple Peruvian'** — dark purple skin and flesh; striking on the plate; waxy, earthy flavor; excellent roasted; contains high anthocyanins.\n**PURPLE/HIGH ANTIOXIDANT: 'Purple Majesty'** — deep purple flesh and skin; very high in anthocyanins and antioxidants; all-purpose; stunning color when roasted or in salads.\n**REGIONAL NOTES:** Southern growers (Zone 8+) should favor early varieties planted in late winter for spring harvest before summer heat shuts down tuber production; 'Red Pontiac' and 'Yukon Gold' handle warmer conditions better than late-season types. Northern growers (Zones 3-5) have the luxury of growing late storage types to full maturity — 'Kennebec' and 'Russet Burbank' excel with long cool seasons. Humid eastern gardens (Zones 5-7) should prioritize blight-resistant varieties: 'Kennebec', 'Defender', and 'Elba'. Arid western growers face less blight pressure and can grow any variety with confidence if irrigation is consistent.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated annual vegetable bed (raised bed strongly preferred)",
+      "in-ground deeply amended vegetable row"
+    ],
+    "designPlacement": "Potatoes are best grown in a dedicated raised vegetable bed or heavily amended in-ground row — they are not ornamental plants and have no role in perennial borders, foundation plantings, or ornamental sections. A bed of 4' x 8' or 4' x 12' can accommodate a full planting of 12-16 seed pieces and yield 50-80 lbs of potatoes — meaningful household production from a small footprint. Key site requirements: full sun (6+ hours), excellent drainage, loose deep soil (raised beds meet all three criteria), and practical access for repeated hilling throughout the season. The hilling process means the bed will look dramatic and visually busy by midsummer — factor this into design decisions if the bed is visible from living areas. Keep potatoes out of any bed where tomatoes, peppers, or eggplant were grown in the previous 4 years. In areas with active deer pressure, fencing around the vegetable garden is strongly advisable — potato foliage is palatable and an unprotected bed is a meaningful deer attractant through summer.",
+    "acquisitionStatus": "Not yet acquired; certified seed potatoes are available from local farm stores (Southern States, TSC) in late February-March and from mail-order suppliers (Wood Prairie Farm, Fedco Seeds, Irish Eyes Garden Seeds, Keene Organics) with much wider variety selection"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Solanum_tuberosum",
+    "inaturalist": "https://www.inaturalist.org/taxa/53858-Solanum-tuberosum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287175&isprofile=1&basic=potato"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of North America; strictly a cultivated crop",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — no concerns",
+      "drainage": "At Hegins, the red clay subsoil creates serious drainage challenges for potatoes; raised beds with deeply prepared, amended soil are not just preferable but essentially required for a quality crop on this site; do not attempt in-ground planting without raising the growing zone 8-12\" above native grade with deeply amended soil",
+      "soil": "At Hegins, the red clay subsoil makes raised beds with deeply amended soil the strongly recommended approach; hilling with compost or straw rather than native clay is essential for tuber quality; even in raised beds, ensure the fill mix is light and friable — do not use heavy garden soil or clay-based topsoil",
+      "cultivarNotes": "Plant Kennebec and Yukon Gold side by side — they cover all bases for this climate. Kennebec offers the best combination of disease resistance, storage quality, and all-purpose use for the humid continental climate with late blight risk. Defender is an excellent addition if blight has been an issue. Mid-April planting with ~May 1 last frost gives a long, productive season.",
+      "designPlacement": "Raised vegetable beds only — not for Sections A, B, or C. Given the red clay at Hegins, do not attempt in-ground planting without raising the growing zone 8-12\" above native grade with deeply amended soil; even then, a true raised bed is strongly preferred. Deer fencing around the vegetable garden area is strongly advisable given the east corridor pressure.",
+      "siteObservations": "Potatoes are an excellent high-yield annual crop for the Hegins raised vegetable beds but demand site preparation discipline. The three primary challenges for this site are: (1) CLAY — the raised bed format resolves this entirely; do not compromise on this; (2) BLIGHT — humid continental climate with warm humid summers creates late blight pressure; choose Kennebec or Defender as the primary variety and plant only certified disease-free seed; (3) DEER — the leafy mounds are conspicuous; fencing is practical insurance. On the positive side, the Zone 6a spring is ideal for potatoes — cool, moist springs promote excellent tuber set; the ~May 1 last frost allows mid-April planting with a long, productive growing season before summer heat. A 4x8 raised bed planted with Yukon Gold and Kennebec, hilled diligently, will produce a winter's worth of storage potatoes from a single season's investment."
+    }
+  }
+}

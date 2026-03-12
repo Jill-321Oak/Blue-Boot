@@ -1,0 +1,165 @@
+{
+  "id": "crataegus",
+  "name": {
+    "commonName": [
+      "Hawthorn — Washington Hawthorn (C. phaenopyrum)",
+      "Winter King Hawthorn (C. viridis 'Winter King')",
+      "English Hawthorn (C. laevigata",
+      "C. monogyna)"
+    ],
+    "latinName": "Crataegus spp. — primary species: C. phaenopyrum, C. viridis 'Winter King', C. laevigata / C. monogyna",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Crataegus is a large, complex genus of 100–200+ species distributed across the temperate Northern Hemisphere; the center of diversity in eastern North America is among the richest in the world. C. phaenopyrum (Washington Hawthorn) is native to the southeastern and mid-Atlantic United States — Virginia south to Georgia and west to Missouri — and has naturalized widely throughout the northeastern US including Pennsylvania. C. viridis (Green Hawthorn) is native to the central and southeastern US. C. laevigata and C. monogyna are European species widely naturalized in eastern North America.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Crataegus as a genus is broadly native across the lower 48 states, with different species native to different regions. C. phaenopyrum is native to the mid-Atlantic and southeastern US; C. viridis to the central and southeastern US; C. crus-galli, C. mollis, and C. punctata are among the widespread native species across the eastern and midwestern US. The Pacific Northwest and Great Basin have their own native Crataegus species (e.g., C. douglasii). No single species is native everywhere, but hawthorn as a genus has native representation in nearly every region of the lower 48. C. laevigata and C. monogyna are European introductions — naturalized but not native to the US."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "C. monogyna (Common Hawthorn) is invasive or regulated in multiple US states, including parts of the Pacific Northwest (WA, OR, CA), several northeastern states, and portions of the upper Midwest — check your state's invasive species list before planting. C. laevigata is similarly a concern in some regions. C. phaenopyrum is not considered invasive in the US. C. viridis 'Winter King' is a sterile triploid and sets very little viable seed — no invasive concern. For native-garden use, always default to the native Crataegus species appropriate to your region."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8 (varies by species — C. phaenopyrum Zone 3-8; C. viridis 'Winter King' Zone 3-7; C. laevigata/monogyna Zone 4-8); coverage spans the full lower 48 across species selections"
+    }
+  },
+  "description": {
+    "height": "15-30' depending on species and management; C. phaenopyrum typically 25-30'; C. viridis 'Winter King' 20-25'; C. laevigata/monogyna 15-25'; all can be kept smaller with pruning; grown as a hedge, height is typically 8-15'",
+    "spread": "15-25'; often as wide as tall; rounded to broadly oval crown; multi-stemmed when grown as a shrub/hedge",
+    "spacing": "8-15' for specimen trees; 3-5' for a formal hedge; 6-8' for an informal food forest hedge/edge planting",
+    "growthRate": "Slow to moderate — 12-18\" per year once established; patient but very long-lived; hawthorns are among the most long-lived small trees in the temperate world, with some European specimens confirmed to several hundred years old",
+    "timeToMaturity": "First significant berry crop years 4-7; full production from year 8-10; berry crops improve steadily with age",
+    "lifespan": "Extremely long-lived — 100-400+ years; a true permanent plant in the food forest",
+    "deciduousEvergreen": "Deciduous — excellent multi-season interest: spring flowers, summer greenery and thorny structure, outstanding red-orange-purple fall foliage (especially C. phaenopyrum and C. viridis 'Winter King'), and persistent red haws through winter",
+    "winterInterest": "Exceptional — the persistent red to orange-red haws cling through winter into early spring, providing outstanding ornamental interest and critical winter wildlife food; the thorny branch structure is architecturally striking in snow; 'Winter King' is particularly prized for winter haw persistence"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best fruit production in full sun (6+ hours); tolerates significant shade but fruit yield declines; adaptable to a wide range of light conditions — one of the more shade-tolerant fruiting trees; the thorny structure and wildlife value persist even in shadier positions",
+    "water": "Low to medium; hawthorns are notably drought tolerant once established; prefer average moisture; tolerates short wet periods but not prolonged waterlogging; C. phaenopyrum is more tolerant of wet soils than most hawthorns",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates clay and periodic poor drainage far better than most fruit trees — an important practical advantage on heavy or compacted soils",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good to very good — C. phaenopyrum and C. viridis are both documented as clay-tolerant; among the most clay-adapted fruiting trees available for temperate North America; survives compacted urban soils and heavy agricultural clay that would stress apples, pears, or cherries; short-term wet feet tolerated, but prolonged waterlogging should be avoided"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0; among the most pH-adaptable fruiting trees; performs in alkaline soils where many other fruit trees struggle; well-suited to both acidic eastern soils and alkaline soils of the Midwest and West"
+    },
+    "texturePreference": "Adaptable — clay, loam, sandy loam, rocky; C. phaenopyrum and C. viridis are both notably tolerant of heavy clay soils; this is a key advantage on sites with disturbed, compacted, or unamended soils",
+    "rootCharacter": "Deep, wide-spreading root system; well-anchored; not notably surface-rooting; does not compete aggressively with understory plants once established; some root suckering in older specimens but generally not a management problem"
+  },
+  "bloom": {
+    "bloomTime": "May (Zone 6a) — late spring, after apple bloom; C. phaenopyrum blooms in late May to early June, typically the latest of the common hawthorns; bloom timing shifts 2-3 weeks earlier in Zones 8-9 and 2-3 weeks later in Zones 3-4",
+    "bloomDescription": "Clusters of small white five-petaled flowers, 0.5-0.75\" across, borne in dense flat-topped corymbs; the floral display is prolific — a mature hawthorn in full bloom is smothered in white flowers; the visual effect is similar to apple or pear bloom but held on a thornier, more architectural plant",
+    "fragrance": "Mildly sweet to slightly unpleasant depending on species and individual sensitivity — C. monogyna has a distinctly sweet-musty hawthorn scent that is a signature of the European hedgerow landscape; C. phaenopyrum is lightly fragrant; the scent is not considered a primary ornamental quality",
+    "flowerSex": "Hermaphrodite — perfect flowers with both male and female parts; the same flower produces pollen and receives it",
+    "pollination": "Self-fertile (most species and cultivars); bees are the primary pollinators; cross-pollination between nearby hawthorns improves fruit set; does not require a partner plant but benefits from proximity to other hawthorn specimens or related Rosaceae"
+  },
+  "yield": {
+    "edibleParts": "Haws (the small apple-like fruits, 0.25-0.5\" diameter; red to orange-red at maturity; technically a pome — the same fruit structure as an apple; mildly sweet with a mealy, apple-like texture; each haw contains 1-5 hard seeds called nutlets that make up a large proportion of the fruit volume; palatable fresh but seedy — best processed); young leaves (edible in spring — tender new leaves have a mild nutty flavor and have been eaten as trail nibbles or added to salads in traditional European practice — \"bread and cheese\" is the traditional English country name for the young leaves); flowers (edible raw — mild flavor; used in teas and tinctures); seeds/nutlets (not typically eaten — hard and contain amygdalin; the seeds of all Rosaceae contain trace amygdalin — not a significant concern in normal use but seeds should not be consumed in quantity)",
+    "harvestSeason": "Haws ripen September-November depending on species and region; C. phaenopyrum ripens October-November — among the latest hawthorns; 'Winter King' haws persist on the tree through January or later; young leaves for eating in April-May; flowers May-June for medicinal tincture; harvest timing shifts with zone — earlier in warm zones, later in cool ones",
+    "medicinalUses": "Hawthorn is one of the most clinically validated botanical medicines in the world — an exceptionally well-studied cardiovascular tonic. Preparations from the berries, leaves, and flowers (standardized extracts are typically prepared from berries + leaves + flowers combined) are documented to: support and strengthen cardiac muscle function; improve coronary blood flow; lower blood pressure; reduce angina frequency; improve exercise tolerance in patients with mild-to-moderate congestive heart failure. The active constituents (oligomeric proanthocyanidins, vitexin, hyperoside, and other flavonoids) have been studied in dozens of clinical trials. The German Commission E and European Scientific Cooperative on Phytotherapy (ESCOP) have approved hawthorn preparations for declining cardiac performance. This is not a peripheral ethnobotanical use — hawthorn berry extract is one of the handful of herbal medicines with genuine evidence-based support for a serious clinical application. Harvest berries, flowers (especially the open flowers, not the buds), and young leaves in spring; dry and combine for tincture or tea, or use fresh berries for tincture in fall. Standard preparation: 1:5 tincture in 60% alcohol; or dried berry/leaf/flower tea.",
+    "craftOtherYield": "Hawthorn jelly (the best and most rewarding culinary use of haws — high pectin content makes a beautiful, deeply flavored jelly that sets easily without added pectin; the flavor is mildly tart-sweet with a distinctive hawthorn character); hawthorn berry ketchup (traditional British preparation — spiced hawthorn puree as a condiment); hawthorn fruit leather; hawthorn wine; hawthorn berry syrup; the extremely hard, dense wood is prized for tool handles, mallets, and engraving blocks — one of the hardest woods in the temperate world; living hedges for stockproof fencing; the thorny branches as cut material for protecting young plantings from deer browse"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "The fleshy haw pulp is non-toxic and edible; the seeds (nutlets) contain trace amygdalin as in all Rosaceae — do not consume seeds in quantity; normal culinary use (jelly, syrup) where seeds are strained out is entirely safe. The leaves, flowers, and berries are all used medicinally without toxicity concern at normal doses. Hawthorn preparations are considered very safe even at high doses in clinical use; not known to interact with most medications at culinary doses, but high-dose standardized extracts may potentiate cardiac glycosides — note for anyone on digoxin.",
+    "toxicityAnimals": "The thorns pose a physical injury risk to pets and livestock; the haws themselves are generally non-toxic to dogs and horses in modest quantities; large quantities of any Rosaceae fruit with seeds could theoretically cause cyanide toxicity from amygdalin but this is not a documented practical concern with hawthorn at normal wildlife or incidental consumption levels",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "understory",
+      "description": "Shrub / Small Tree — occupies the shrub layer when maintained as a hedge (6-15'); grows into the sub-canopy / canopy layer when allowed to mature as a specimen (20-30')"
+    },
+    "roles": [
+      "Wildlife Habitat (primary and exceptional — see Wildlife section)",
+      "Food Production (haws for jelly, medicinal extraction, wildlife food)",
+      "Medicinal (cardiovascular tonic — one of the most important medicinal plants that can be grown across the temperate US)",
+      "Security Hedge (the thorny structure creates an impenetrable barrier — genuinely stockproof and deer-excluding when established as a hedge; hawthorn hedges are the traditional European solution for stock-proof field boundaries; a mature hawthorn hedge is more effective than most fencing)",
+      "Nitrogen Fixer (no — Rosaceae, not a nitrogen fixer)",
+      "Windbreak",
+      "Edge Defining",
+      "Soil Stabilization (deep roots; excellent for steep banks and erosion-prone sites)",
+      "Dynamic Accumulator (deep roots mine subsoil minerals; leaf drop contributes calcium and trace minerals)"
+    ],
+    "companionPlants": [
+      "Sambucus canadensis (elderberry — classic hedgerow companion; similar wildlife value; complements the hawthorn canopy with a softer structure; elderberry fills gaps and provides summer fruit while hawthorn provides winter fruit and structure)",
+      "Rosa rugosa or other native roses (companion in the hedgerow layer — similar thorny structure, adds fragrance and rose hips)",
+      "Symphytum officinale (comfrey — excellent guild plant under the drip line; accumulates potassium and minerals; living mulch)",
+      "Trifolium repens (white clover — nitrogen-fixing ground cover in the guild)",
+      "Allium tricoccum (ramps in the understory — eastern US)",
+      "Fragaria vesca (wild strawberry as ground cover)",
+      "native grasses and wildflowers in the hedge base"
+    ],
+    "antagonists": [
+      "None strongly documented; avoid planting near junipers (Juniperus virginiana in the East; other Juniperus spp. in the West) to minimize cedar-hawthorn rust cycling — see Cautions; keep away from apple guild if rust pressure is a concern"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Hawthorn is one of the most important wildlife plants in eastern North America — arguably the single most wildlife-valuable small tree/large shrub in the temperate hedgerow. Pollinators: bees (honey bees, native bumblebees, mason bees, and many solitary bee species work the flowers heavily); hoverflies and other beneficial insects use the flowers. Birds: 150+ bird species documented consuming hawthorn fruits in North America and Europe — this is an extraordinary figure that reflects the unique value of the persistent, abundant haw crop available through winter when few other food sources remain. Primary bird users include: American robin, cedar waxwing (one of the most enthusiastic consumers), hermit thrush, yellow-rumped warbler, eastern bluebird, mockingbird, catbird, dark-eyed junco, white-throated sparrow, red-bellied woodpecker, downy woodpecker, yellow-bellied sapsucker, ring-necked pheasant, ruffed grouse, wild turkey, and many more. The combination of persistent winter fruit and impenetrable thorny nesting structure makes hawthorn more valuable to bird communities than almost any other plant of its size.",
+    "hostPlantFor": "Many Lepidoptera use hawthorn as a larval host — the most notable are the hairstreak butterflies: Striped Hairstreak (Satyrium liparops) and Banded Hairstreak (Satyrium calanus) both use Crataegus as a primary larval host; Gray Hairstreak (Strymon melinus) also uses hawthorn. Red-spotted Purple (Limenitis arthemis) and Viceroy (Limenitis archippus) have also been recorded. Hawthorn is an important host plant for numerous native moth species. In the UK, hawthorn (C. monogyna) supports over 300 insect species — the highest count of any British tree except oak; the North American species, while less studied, are similarly important ecologically.",
+    "nestingHabitat": "Outstanding — the thorny structure of a mature hawthorn or hawthorn hedge creates habitat that predators cannot penetrate; this makes hawthorn one of the most important nesting sites for small birds in the hedgerow landscape. Species that regularly nest in hawthorn across eastern North America include: Gray Catbird (one of the most common hawthorn nesters), Northern Cardinal, Song Sparrow, Yellow Warbler, Indigo Bunting, Brown Thrasher, American Robin. A mature hawthorn hedge or specimen plant can support multiple simultaneous nests. This nesting value is one of the primary reasons to include hawthorn in a wildlife-focused food forest — it provides habitat quality that no non-thorny plant can replicate."
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the thorns make established hawthorn plants highly resistant to deer browse; deer will occasionally take branch tips but cannot browse through a thorny hawthorn the way they can with unarmed plants; young transplants (under 3') may need protection until the thorns become substantial; once established, hawthorn is one of the most deer-resistant fruiting trees available across the temperate US"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — C. phaenopyrum has good salt tolerance and is widely used as a street tree in urban settings; 'Winter King' also has good urban tolerance; tolerates occasional road salt spray better than most fruiting trees"
+    },
+    "drought": {
+      "rating": "good-excellent",
+      "description": "Good to excellent once established — hawthorns are significantly more drought tolerant than apples, pears, or cherries; the deep root system accesses subsoil moisture effectively; established plants handle extended dry periods without significant stress; this adaptability makes hawthorn useful across a wide range of climates from humid East to drier Midwest and West"
+    },
+    "other": "Urban conditions (pollution, compaction, reflected heat); limestone and alkaline soils; clay; exposed and windy sites; slopes and banks; a remarkably tough and adaptable genus for difficult sites across the lower 48"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established — hawthorn is essentially a plant-it-and-leave-it tree once past the establishment phase (first 2-3 years); no spraying, no special soil amendments, no irrigation needed after establishment",
+    "pruningNotes": "Wear leather gloves and long sleeves — the thorns are serious. Prune in late winter (February-March, before bud break) for structural work; light shaping can be done after flowering in June. For specimen trees: remove dead, crossing, or inward-growing branches; maintain an open crown for air circulation (reduces fungal issues). For hedges: shear annually after flowering to maintain density; traditional hedge laying can be done on a 15-25 year rotation to rejuvenate old hedges. Avoid heavy pruning in fall or early winter — the berry crop has wildlife value through winter and early spring; let the birds strip the haws before cutting. Cedar-hawthorn rust galls (orange gelatinous masses on branches in spring) can be pruned out when seen; see note below.",
+    "propagationMethods": [
+      "Seed (requires double dormancy — warm stratification 3-4 months, then cold stratification 3-4 months; extremely slow — seeds may not germinate until the second or third spring after sowing; this is the route for species plants and for rootstocks); hardwood cuttings (fall — moderate success; less reliable than for many shrubs); budding and grafting onto hawthorn rootstock (the standard commercial method; 'Winter King' and named cultivars are grafted); division of root suckers (for suckering species); layering (reliable when branch tips can be pegged to the ground)"
+    ]
+  },
+  "cultivarNotes": "Three hawthorns stand out as broadly useful across the lower 48. Zone ranges given per species — verify against your local zone before selecting.\nCrataegus phaenopyrum (Washington Hawthorn) — Zone 3-8. The primary recommendation for a native-focused food forest or wildlife garden in the eastern and mid-Atlantic US. Abundant small (0.25\") glossy red haws in dense clusters; one of the latest-ripening hawthorns (October-November) and one of the longest-persistent (haws hold through February); outstanding scarlet-orange-purple fall foliage — among the best fall color of any native tree; very dense thorny structure; heavy annual berry crops. Native to the southeastern and mid-Atlantic US; ecologically appropriate and widely available from native plant nurseries in Zones 4-8. Moderately susceptible to cedar-hawthorn rust (see Maintenance). Well-suited to humid eastern climates from the Gulf Coast to New England.\nCrataegus viridis 'Winter King' — Zone 3-7. The best all-around hawthorn for ornamental food forest use anywhere in its range. Larger haws (0.5\") than C. phaenopyrum; bright orange-red; very persistent through winter — often holding into March; silvery exfoliating bark provides winter interest when haws are finally gone; excellent rust resistance compared to most hawthorns — the most rust-resistant of the common hawthorns; slightly fewer thorns than C. phaenopyrum (still thorny — still effective as a hedge). Sterile triploid — sets very little viable seed, so no self-seeding or invasive concern. The outstanding choice if rust is a concern or if ornamental qualities are a priority alongside wildlife value. Available at better general nurseries nationwide.\nCrataegus laevigata / C. monogyna (English/Common Hawthorn) — Zone 4-8. The classic European hedgerow hawthorn; deeply traditional, widely available, extremely adaptable. Excellent for a dense stockproof hedge. Named ornamental selections include 'Paul's Scarlet' (double pink-red flowers, no significant fruit) and 'Crimson Cloud' (single red flowers with white star center; some fruit). C. monogyna is listed as invasive in multiple US states — check your state's invasive species list before planting; better in a managed hedge context than as a free-growing specimen. If a traditional European-style hedgerow aesthetic is the goal and invasive risk is managed, this is the species.\nCedar-Hawthorn Rust Note (Gymnosporangium globosum): Hawthorns in the Rosaceae family are alternate hosts for Gymnosporangium rust fungi, which require both a juniper/cedar host (Juniperus species, especially eastern red cedar, J. virginiana in the East) and a Rosaceae host to complete their life cycle. Cedar-hawthorn rust causes orange-yellow leaf spots and can cause defoliation in severe years; it also affects fruit. It is an aesthetic and vigor issue, not typically fatal. Management: choose resistant varieties ('Winter King' is significantly more resistant); avoid planting hawthorn within 500 feet of eastern red cedar if possible; remove rust galls from cedars in late winter before they release spores; accept some rust as normal in the eastern US and focus on plant vigor and site conditions. This is the same rust family that affects apple (cedar-apple rust, G. juniperi-virginianae) — if you are growing apples, you are already dealing with this pressure.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest perimeter / hedge layer; wildlife garden anchor plant; native plant garden; hedgerow restoration; security hedge; specimen small tree; edible landscape; medicinal herb garden (as a productive source of hawthorn berry medicine)"
+    ],
+    "designPlacement": "The food forest perimeter hedge is the primary use — a hawthorn hedge along the property boundary or food forest edge simultaneously provides: deer exclusion (the thorny hedge is more effective than a fence once established), winter bird feeding station (the persistent haw crop draws birds to the garden all winter), nesting habitat for songbirds throughout the property, a windbreak and microclimate buffer, and a medicinal herb harvest. Washington Hawthorn (C. phaenopyrum) is the recommended choice for eastern US placements — native-appropriate, excellent berry production, outstanding fall color. 'Winter King' is the alternative if rust resistance is a higher priority or if the silvery bark winter interest is appealing. A hedge planting of 3-5 plants at 5' spacing would create a 15-25' stretch of impenetrable thorny hedgerow within 5-7 years. Alternatively, a single specimen hawthorn — allowed to develop its natural rounded form — planted at the food forest edge or wildlife garden corner becomes one of the most multi-functional plants on the property.",
+    "acquisitionStatus": "To source — C. phaenopyrum widely available at native plant nurseries; C. viridis 'Winter King' available at better general nurseries; C. monogyna/laevigata available as bare-root hedge plants from specialty hedging suppliers (check invasive status for your state before ordering)\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crataegus_phaenopyrum",
+    "inaturalist": "https://www.inaturalist.org/taxa/141714-Crataegus-phaenopyrum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a861"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes, with nuance — C. phaenopyrum is native to the eastern US and commonly treated as native to Pennsylvania; it naturalizes readily and is ecologically appropriate as a native hedgerow tree throughout the region. Numerous other Crataegus species are genuinely native to PA (C. crus-galli, C. mollis, C. punctata, etc.). Hawthorns as a genus are deeply embedded in the ecology of Pennsylvania hedgerows and woodland edges. C. laevigata and C. monogyna are European introductions — naturalized but not native.",
+      "paInvasiveStatus": "C. monogyna is on the Pennsylvania Invasive Species list — do not plant in PA. C. phaenopyrum and C. viridis 'Winter King' are not listed as invasive in PA.",
+      "drainage": "Red clay, compacted construction-disturbed soils at Hegins are within the plant's documented tolerance; no drainage amendment required before planting; top-dress with wood chip mulch to improve surface infiltration over time",
+      "soil": "The red clay, compacted, construction-disturbed soils at Hegins are well within documented tolerance; no special soil preparation required; one of the most site-appropriate fruiting trees available for this soil type",
+      "cultivarNotes": "All three primary species perform excellently in Zone 6a. C. phaenopyrum is the native-first choice — appropriate to the mid-Atlantic ecology, high wildlife value, outstanding fall color, widely available from PA-based native plant nurseries. 'Winter King' is the ornamental-first alternative with superior rust resistance — a practical advantage in rural PA where eastern red cedar is ubiquitous in hedgerows. Avoid C. monogyna — it is on the PA invasive species list.",
+      "designPlacement": "The food forest perimeter or Section A/B boundary hedge is the primary placement — hawthorn provides deer exclusion, winter wildlife food, and nesting habitat simultaneously. C. phaenopyrum is the first choice; ecologically native to the region, high wildlife value, and its October-November ripening extends the food forest harvest season into late fall. A hedge of 3-5 plants at 5' spacing along the east property boundary (the active deer corridor) would be a high-impact placement. Cedar-hawthorn rust pressure is real in Hegins given the prevalence of eastern red cedar in PA hedgerows — 'Winter King' is a reasonable rust-resistant alternative if rust becomes a management concern. Source from Octoraro Native Plant Nursery, Ernst Conservation Seeds, or similar PA-based native plant sources for C. phaenopyrum; 'Winter King' available at better general nurseries in spring.",
+      "siteObservations": null
+    }
+  }
+}

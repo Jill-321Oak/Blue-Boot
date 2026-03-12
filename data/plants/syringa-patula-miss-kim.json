@@ -1,0 +1,158 @@
+{
+  "id": "syringa-patula-miss-kim",
+  "name": {
+    "commonName": [
+      "Miss Kim Lilac",
+      "Manchurian Lilac",
+      "Dwarf Korean Lilac"
+    ],
+    "latinName": "Syringa pubescens subsp. patula 'Miss Kim' (syn. Syringa patula 'Miss Kim'; sometimes listed as Syringa meyeri — taxonomy has been revised)",
+    "family": "Oleaceae"
+  },
+  "range": {
+    "nativeRange": "Korea, Manchuria (northeastern China) — parent species is native to this region",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Introduced ornamental from East Asia; does not naturalize significantly in wild areas."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No. Not listed on any US state noxious weed list and does not escape cultivation. Unlike common lilac (Syringa vulgaris), which can spread by suckering into old homestead sites and field edges in New England and the upper Midwest, 'Miss Kim' suckers minimally and sets limited viable seed. Not a concern in any region of the lower 48."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "4-6' at maturity; very slow growing — typically 3-4' after 5 years; well-suited to a 5' height limit without aggressive pruning",
+    "spread": "5-7'",
+    "spacing": "4-5' from other shrubs",
+    "growthRate": "Slow — one of the slower-growing lilacs; patience required but the compact size is the reward",
+    "timeToMaturity": "Full bloom from year 3-4; modest bloom in years 1-2",
+    "lifespan": "Very long-lived; 50+ years",
+    "deciduousEvergreen": "Deciduous — excellent reddish-purple fall color, one of the better fall-coloring lilacs",
+    "winterInterest": "Low — attractive branching structure visible; clean deciduous form"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred (6+ hours); tolerates light shade but with reduced bloom — more sun = more flowers",
+    "water": "Medium; moderately drought tolerant once established; consistent moisture during establishment period",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average garden soil; does not do well in waterlogged or consistently wet conditions. Poor drainage leads to root rot and decline — ensure the planting site does not hold standing water after rain.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Tolerates clay if drainage is adequate — the fibrous root system can work through moderately heavy soil, but poorly drained clay that stays saturated will cause root rot and dieback. In heavy clay, amend the planting hole generously with comite or coarse organic matter to improve drainage, and plant slightly high (crown 1-2\" above grade) so the root flare is never sitting in pooled water. Established plants in amended clay perform well; the issue is always waterlogging, not texture per se."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates slightly alkaline soil"
+    },
+    "texturePreference": "Loam preferred; tolerates clay if drainage is adequate; does not perform well in heavy, poorly-drained clay. Sandy soils are acceptable but may require more frequent watering during establishment.",
+    "rootCharacter": "Fibrous spreading root system; does not sucker as aggressively as common lilac (Syringa vulgaris) — this is a significant advantage for garden use"
+  },
+  "bloom": {
+    "bloomTime": "Late May to mid-June — typically 2 weeks after common lilac; this extends the lilac bloom season considerably",
+    "bloomDescription": "Dense panicles of tiny icy-lavender to soft purple florets; flowers open pale violet-pink from dark purple buds; clusters are more refined and compact than S. vulgaris; covers the plant in bloom",
+    "fragrance": "Intensely fragrant — sweet, classic lilac scent; arguably as fragrant as common lilac in a more compact package; fragrance carries well on warm still days",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bees (primary visitors); butterflies also work the flowers"
+  },
+  "yield": {
+    "edibleParts": "Flowers edible (can be used as a flavoring or garnish); not a primary food plant",
+    "harvestSeason": "Late May-June",
+    "medicinalUses": "Traditional uses in some cultures but not significant in Western herbalism",
+    "craftOtherYield": "Cut flower branches (fragrant); dried flower clusters for potpourri"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Mildly toxic if consumed in quantity; not a practical concern for normal garden exposure",
+    "toxicityAnimals": "Generally considered mildly toxic to dogs and cats if large amounts ingested — can cause digestive upset; not typically a serious concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Beauty (primary — one of the great fragrance plants of the garden)",
+      "Insect Attractor (spring bloom for bees and butterflies)",
+      "Boundary/Structure"
+    ],
+    "companionPlants": [
+      "Ajuga reptans 'Black Scallop' as understory ground cover (same shade/moisture requirements); tulips and crocus beneath for spring bulb display; Geranium 'Rozanne' as neighboring mid-zone perennial"
+    ],
+    "antagonists": [
+      "None documented for typical garden companions. Ensure good air circulation to reduce powdery mildew risk — do not plant too closely against walls."
+    ],
+    "coppiceable": "Do not coppice. Lilacs bloom on previous year's wood — cutting back hard will eliminate the next year's bloom. Prune selectively (remove older canes at the base, thin crossing branches) immediately after bloom."
+  },
+  "wildlife": {
+    "attracts": "Bees and bumblebees (good early summer source), butterflies (excellent nectar plant — attracts swallowtails, fritillaries, skippers)",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera (introduced species from Asia)",
+    "nestingHabitat": "Dense shrub provides protective nesting structure for small birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — not heavily targeted; not a preferred browse plant due to low palatability of foliage. Young plants may still be damaged by deer in high-pressure areas during winter when food is scarce; protect with netting or cages for the first 2-3 years. Established plants are rarely bothered."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates incidental road salt spray and winter runoff exposure; recovers from light salt damage in spring. Not suited for direct roadside planting within the splash zone but performs well at typical residential setback distances."
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — can handle 2-3 week dry spells in summer without supplemental irrigation in the humid East; will need watering during extended drought in arid western climates"
+    },
+    "other": "Notably better mildew resistance than common lilac (Syringa vulgaris) — this is one of its primary advantages. Fall color is better than most lilacs. Very cold hardy to Zone 3. Does not sucker aggressively. Tolerates urban pollution and compacted urban soils better than many shrubs."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the most carefree shrubs once established",
+    "pruningNotes": "Prune immediately after bloom (never in fall or winter — you will cut off next year's flower buds). Remove oldest and thickest canes at the base to encourage new growth from the center. Deadhead spent flower clusters if you can reach them — this redirects energy from seed set. Do NOT shear into a tight formal shape. Remove suckers if they appear (less common than with S. vulgaris). In gardens with a strict height limit, trim any shoots exceeding the limit in summer after bloom.",
+    "propagationMethods": [
+      "Softwood cuttings (June-July — root reasonably well)",
+      "layering",
+      "division of suckers if any appear"
+    ]
+  },
+  "cultivarNotes": "'Miss Kim' is widely agreed to be the best compact lilac for general garden use across Zones 3-8. No other dwarf lilac matches its combination of fragrance, disease resistance, compact habit, and fall color. **Zone 3-5 (cold climates):** 'Miss Kim' excels here — extremely cold hardy, and the late bloom (2 weeks after common lilac) means flowers often dodge late spring frosts that can damage earlier-blooming varieties. **Zone 6-7 (temperate):** The sweet spot for 'Miss Kim' — reliable bloom, strong fall color, and low mildew pressure. **Zone 8+ (warm climates):** Performance declines — lilacs in general need winter chill to bloom well, and Zone 8+ gardeners may see reduced bloom; consider 'Lavender Lady' (specifically bred for low-chill climates, Zones 5-9) as an alternative. Across all zones, 'Palibin' (Syringa meyeri 'Palibin') is a close comparison — also excellent, slightly more rounded form, slightly smaller panicles. For reblooming, 'Josée' (Zones 3-8, 4-6') offers a unique summer rebloom but with less intense fragrance. In a purple/yellow color scheme, 'Miss Kim's' lavender-purple flowers work beautifully.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Foundation planting",
+      "mixed shrub border",
+      "specimen",
+      "fragrance garden",
+      "front-of-house anchor shrub"
+    ],
+    "designPlacement": "Place in full sun where fragrance can be appreciated — near entries, porches, walkways, or seating areas. Its compact 4-6' stature makes it ideal for foundation plantings and areas with height restrictions. Use as a structural anchor in mixed borders; its rounded form pairs well with lower perennials and ground covers in front and taller background plantings behind. Space 4-5' from neighboring shrubs for good air circulation (mildew prevention). Underplant with shade-tolerant ground covers (Ajuga, Vinca) and spring bulbs that bloom before the lilac leafs out.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Syringa_pubescens",
+    "inaturalist": "https://www.inaturalist.org/taxa/429454-Syringa-meyeri (parent species; 'Miss Kim' is now classified as S. pubescens subsp. patula)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=260601"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on PA Dept. of Agriculture or DCNR invasive lists.",
+      "drainage": "Hegins red clay requires amendment before planting — work in coarse compost and gravel to a depth of 18\" to break up compaction and improve drainage. Planting on a slight mound or berm within the bed is advisable. Once established in amended clay at this site, 'Miss Kim' should perform well; the primary risk is the first two winters if drainage is not corrected at planting time.",
+      "soil": "Hegins red clay needs amendment — incorporate compost and coarse organic matter into the planting area. The native pH of the site (typically slightly acidic) is within the acceptable range and should not require correction.",
+      "cultivarNotes": "'Miss Kim' is the top pick — fully in its performance sweet spot, with reliable bloom, excellent fall color, and minimal mildew risk in this climate.",
+      "designPlacement": "Section A — outer anchor positions flanking the stairway; symmetrically placed on each side of the central axis. Provides the structural shrub mass and the fragrance layer for the front bed. Its naturally compact habit (4-6') sits within the 5' height limit. Underplanted with Ajuga reptans 'Black Scallop' and spring bulbs (tulips and crocus) threading beneath.",
+      "siteObservations": "North-facing front bed receives partial shade — enough summer sun for good bloom but winter cold microclimate means slower spring warm-up. Deer pressure from east corridor is present but 'Miss Kim' is not a preferred browse; monitor young plants for the first two winters and cage if needed. The red clay requires amendment at planting time (see Drainage and Soil notes above). Once established, this should be a very low-maintenance anchor shrub at this site."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "liriodendron-tulipifera",
+  "name": {
+    "commonName": [
+      "Tulip Poplar",
+      "Tulip Tree",
+      "Yellow Poplar"
+    ],
+    "latinName": "Liriodendron tulipifera",
+    "family": "Magnoliaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — native from southern New England and New York south through the Appalachians to northern Florida and west to the Mississippi Valley; one of the tallest native hardwoods of the eastern deciduous forest, and the tallest broadleaf tree in eastern North America; state tree of Kentucky, Tennessee, and Indiana",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern United States from southern New England through the mid-Atlantic, Southeast, and Gulf Coast states west to the Mississippi Valley; present natively in roughly 30 eastern states; not native to any western US state; widely planted as an ornamental and shade tree outside its native range, including parts of the Pacific Northwest and California, but does not naturalize significantly beyond its natural distribution"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; produces abundant winged seeds that disperse by wind and can regenerate readily in disturbed soil, but it does not escape cultivation or displace native vegetation outside its range; not listed on any state noxious weed list or the federal noxious weed list; an ecologically important native component of eastern forest succession within its range"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "60-90' at maturity in open conditions; frequently reaches 100-120' in favorable forest sites; in its native range it can top 150' — it is the tallest eastern hardwood and one of the most architecturally impressive native trees",
+    "spread": "30-50'; distinctly pyramidal and column-like when young, broadening to a more rounded crown with age; the main trunk remains impressively straight and tall relative to the crown spread",
+    "spacing": "40-50' minimum from structures and other canopy trees; 20-30' from the drip line of a house is the minimum safe distance given surface root development with age; do not plant within reach of foundations, driveways, or septic fields",
+    "growthRate": "Very fast — one of the fastest-growing native hardwood trees in eastern North America; commonly adds 3-5' or more per year under good conditions in youth; this growth rate is exceptional and should be taken seriously when siting the tree; a sapling planted today can be a 40' tree in a decade",
+    "timeToMaturity": "First flowers typically in 10-15 years from seed; grafted or nursery-grown trees may flower in 7-10 years; once flowering begins, the tree blooms reliably each year; ecological maturity (full canopy contribution, significant insect host value, large bee forage crop) in 15-25 years",
+    "lifespan": "Long-lived; 200-300+ years in forest conditions; open-grown landscape specimens commonly reach 150+ years; old-growth individuals in the southern Appalachians have exceeded 500 years",
+    "deciduousEvergreen": "Deciduous — the leaves are unmistakable: large (4-8\" across), four-lobed, with a distinctive truncated or notched apex that gives them a tulip- or lily-pad-like outline; bright glossy green in summer; the leaves turn a clean, clear golden yellow in autumn — not the fiery red of black gum or sugar maple, but a warm, saturated butter-gold that is luminous in fall light; the tree sometimes drops inner and older leaves in mid-summer drought stress, which can look alarming but is entirely normal self-pruning behavior",
+    "winterInterest": "Moderate — the long, straight, gray-barked trunk is architecturally striking; the persistent brown cone-like seed clusters (samaras) cling to branch tips through winter and are distinctive at close range; the branching pattern, while not as sculptural as black gum, has an open, architectural quality"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; produces best growth, most abundant flowering, and fullest canopy form in at least 6 hours of direct sun; tolerates part shade, especially when young and in a naturalistic planting, but becomes increasingly sun-demanding with age and shades out quickly in a food forest context once it reaches the canopy",
+    "water": "Medium; prefers consistent moisture, especially in the first 3-5 years of establishment; once established, handles average moisture reasonably well but is sensitive to prolonged drought — expect summer leaf drop (inner foliage) as a drought stress response; does not tolerate waterlogged or chronically wet soils; in arid western states outside its native range, supplemental irrigation is essential through the life of the tree",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to rich cove soils and fertile bottomlands with good internal drainage; does not tolerate standing water or chronically saturated root zones, which promote root rot; conversely, excessively fast-draining sandy soils dry out too quickly for this moisture-loving species — amend sandy soils with organic matter to improve water retention",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay better than many large trees, but heavy unamended clay presents two risks: waterlogging in low spots (which can kill roots) and compaction (which restricts the lateral root system this tree depends on at maturity); in clay soils, plant on a slight grade or mound rather than in a depression; incorporate organic matter into and around the planting hole to improve drainage and root penetration; avoid creating a \"bathtub effect\" where a planting hole in clay fills with water; once established, clay's moisture retention is actually beneficial during summer dry spells"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6.5,
+      "description": "4.5-6.5; prefers slightly acidic to acidic soils; well-suited to naturally acidic woodland soils common across much of the eastern US; avoid strongly alkaline soils — chlorosis can develop in pH above 7.0"
+    },
+    "texturePreference": "Moist, organically rich, well-drained loam to loam-clay; native to deep, fertile cove soils; tolerates clay but benefits from organic matter amendment; tolerates sandy loam if moisture is adequate; the ideal is a deep, fertile soil with good structure — the kind of soil that holds moisture without staying saturated",
+    "rootCharacter": "Deep taproot when young, which transitions over time to a broader, shallower lateral root system as the tree matures; older specimens become notably surface-rooted, with large roots radiating from the base — this is the key caution for siting; do not plant near driveways, foundations, walkways, or septic systems; the roots are sensitive to soil compaction, which is the primary reason tulip poplars struggle in urban street-tree situations"
+  },
+  "bloom": {
+    "bloomTime": "May-June; blooms after leaf emergence; timing varies by latitude — late April in Zone 8-9 (Deep South), mid-to-late May in Zone 6-7 (mid-Atlantic), early June in Zone 4-5 (northern limit)",
+    "bloomDescription": "The flowers are among the most beautiful of any native North American tree — large (2-3\" wide), goblet-shaped, and composed of six tepals in a pale yellow-green to soft yellow, each with a bold orange band near the base; the overall effect is of a tulip or water lily flower held upright at the branch tips; unfortunately, on mature tall trees the flowers are often too high to see at eye level, though they are spectacular viewed from above (a second-story window, hillside, or drone) or on lower branches of younger trees; the flowers are produced in great numbers on mature trees and are intensely attractive to bees and hummingbirds; individual blooms last about a week, with the full flowering period spanning 2-3 weeks",
+    "fragrance": "Faintly sweet when very close; not strongly fragrant to humans but clearly attractive to pollinators",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts; monoecious in the sense that all flowers on a given tree are perfect",
+    "pollination": "Self-fertile; does not require a second tree for seed set; primarily pollinated by native bees and hummingbirds, which are the primary visitors; also attracts bumble bees and large carpenter bees; an outstanding pollinator plant"
+  },
+  "yield": {
+    "edibleParts": "No significant edible yield for humans; the inner bark was used by some Native American peoples, and the seeds are eaten by wildlife, but there is no meaningful human food yield; this tree is not a food producer and should not be selected for food forest use on that basis — its value lies entirely in ecological support roles",
+    "harvestSeason": "Not applicable for human harvest; seed samaras mature and disperse September-October",
+    "medicinalUses": "The bark has a history of use in Appalachian folk medicine and by Native American peoples — a bark tea or tincture was used as a fever remedy, stimulant tonic, and treatment for rheumatism; the bark contains tulipiferine (a cardiac glycoside-like alkaloid) and various bitter compounds; not a primary medicinal plant in modern herbalism and not recommended for casual self-treatment given the biologically active compounds",
+    "craftOtherYield": "Timber — the wood, sold commercially as \"yellow poplar\" despite not being a true poplar, is a straight-grained, light-colored, fine-textured hardwood that was historically one of the most important timber trees in eastern North America; used extensively for furniture framing, interior paneling, cabinet interiors, veneer, musical instruments, and historically for dugout canoes (Native Americans and early settlers both prized the straight, large trunks); the timber is light, easy to work, and takes paint and stain well; a landscape specimen represents a meaningful timber asset over decades"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The bark contains tulipiferine and other alkaloids that are medicinally active; not considered a casual edible; no toxicity concern from normal landscape contact or handling",
+    "toxicityAnimals": "Not documented as a significant toxin concern for dogs, cats, or livestock; deer do not favor it as a forage plant once established",
+    "allelopathy": "Mild allelopathic properties have been noted in some literature — leaf litter decomposition may have some inhibitory effect on certain understory plants, but this is minor and not a significant design constraint; not in the same category as black walnut; can be interplanted with most companions without concern",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy — this is a tall canopy tree and should be treated as such in design; it will shade everything beneath it within 10-15 years given its growth rate"
+    },
+    "roles": [
+      "Pollinator Support (outstanding nectar source — one of the most important honey plants in eastern North America; the large flowers produce abundant nectar and pollen for bees and hummingbirds)",
+      "Insect Host (lepidoptera host, especially tiger swallowtail)",
+      "Wildlife Support (food and habitat for many species)",
+      "Canopy Shade and Shelter",
+      "Timber / Long-Term Asset (straight, workable wood)",
+      "Dynamic Accumulator (deep taproot in youth mines subsoil minerals; leaf litter is moderately nutrient-rich)",
+      "Nitrogen-fixing: No"
+    ],
+    "companionPlants": [
+      "Works well above shade-tolerant understory plants — Asimina triloba (paw paw — excellent companion directly beneath or at the canopy edge; the paw paw naturally grows under tall canopy trees)",
+      "Lindera benzoin (spicebush — classic eastern understory shrub for the woodland edge zone)",
+      "Amelanchier spp. (serviceberry — edge planting just outside the canopy drip line)",
+      "Symphytum officinale (comfrey — dynamic accumulator well-suited as a ground layer companion)",
+      "Asarum canadense (wild ginger — shade-tolerant ground layer)",
+      "Matteuccia struthiopteris (ostrich fern — excellent shade-tolerant companion for moist conditions)",
+      "native woodland wildflowers generally"
+    ],
+    "antagonists": [
+      "No documented chemical antagonisms; the main practical antagonist is its own shade — given the fast growth rate",
+      "anything requiring full sun planted in its projected canopy zone will be shaded out within a decade; plan the canopy shadow carefully; also sensitive to soil compaction from foot traffic or equipment",
+      "which will stress and eventually kill surface roots"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Hummingbirds (the flowers are a major hummingbird nectar source in May-June — one of the most important native hummingbird plants in the eastern US; the timing coincides with ruby-throated hummingbird migration northward through Zone 5-7), bees of many species (bumble bees, honey bees, native solitary bees — the nectar is produced in extraordinary abundance and this tree is regarded as one of the finest honey trees in North America; beekeepers in areas with many tulip poplars consistently report exceptional honey yields from this tree alone), and small birds and mammals that consume the winged seeds in fall and winter; the persistent seed cones provide winter foraging for birds including goldfinches and chickadees",
+    "hostPlantFor": "Eastern tiger swallowtail butterfly (Papilio glaucus) — the tulip poplar is the single most important larval host plant for the tiger swallowtail, which is one of the most recognizable and beloved butterflies of eastern North America; in much of the mid-Atlantic and Southeast, this butterfly's range is essentially coextensive with tulip poplar's range; also hosts several other Lepidoptera species including the tulip-tree silkmoth (Callosamia angulifera) and various other moths",
+    "nestingHabitat": "Large mature specimens with dead branches and cavities provide excellent cavity nesting habitat; the relatively open canopy structure also supports open-cup nesters; pileated woodpeckers excavate cavities in mature trunks that are subsequently used by wood ducks, barred owls, and many other cavity-nesting species"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — mature trees are not significantly browsed; the bark of large trees is beyond reach and the foliage has some deterrent quality; young saplings (first 2-3 years) may have leader tips browsed, which can be a problem given the importance of maintaining a strong central leader; protect young trees with a deer tube or wire cage for the first 2-3 years in areas with active deer pressure"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — not salt-tolerant; avoid locations with road salt spray or coastal salt exposure; not a roadside or coastal planting"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate — established trees handle normal summer dry spells but will drop inner leaves as a stress response during prolonged drought; this leaf drop is cosmetically alarming but not fatal to a healthy tree; newly planted trees in the first 2-3 years need consistent watering through dry periods; clay soils help by retaining moisture between rain events; in arid western climates, consistent supplemental irrigation is required"
+    },
+    "other": "Sensitive to soil compaction — keep the root zone free from heavy foot traffic, vehicle parking, or construction activity; excellent cold hardiness for Zone 4-9; tolerates clay soils better than many large trees; tolerates proximity to black walnut (juglone-tolerant), which is a notable advantage in eastern landscapes where black walnut is common"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the primary maintenance demands are in the early years — watering through dry spells, protecting from deer, and maintaining a strong central leader; after year 5, the tree is largely self-sufficient",
+    "pruningNotes": "Central leader training is the critical task in years 1-5: select the strongest upright shoot as the leader and remove competing co-dominant stems early; tulip poplar naturally wants to develop a strong single trunk and generally needs minimal intervention if deer damage is prevented; remove dead or crossing branches as needed; prune in late winter before bud break for structural work; avoid heavy pruning in summer; large wounds heal slowly — keep cuts clean and small; do not top this tree under any circumstances; its fast growth means a topped tree will rapidly produce multiple competing leaders that create a structurally compromised crown",
+    "propagationMethods": [
+      "Seed (fresh seed sown in fall or cold-stratified (60-90 days) and sown in spring; germination can be irregular; direct sowing in fall mimics natural conditions; the tap-rooted seedlings establish well if not disturbed; viability of commercial seed batches varies — purchase from reputable native seed suppliers)",
+      "softwood cuttings (summer; moderately difficult; rooting hormone required; not the standard propagation method)",
+      "bare-root nursery stock (excellent option; plant small specimens and let them grow rather than planting large container stock which can be root-bound and slow to establish)",
+      "grafting (used for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "The straight species is outstanding for ecological and food forest use and is strongly preferred over cultivars for most permaculture and wildlife-focused plantings. However, several named cultivars offer useful attributes for specific situations:\n'Arnold' — a fastigiate (columnar) form reaching 70-90' tall but only 15-20' wide; useful where canopy height is desired but spread must be limited; performs well across Zone 5-8; less wildlife habitat value than the broad-crowned species but ecologically functional; the columnar form also means reduced shading of adjacent plants, which may be an advantage in a food forest edge planting or urban lot.\n'Majestic Beauty' (Aureo-marginatum) — a variegated cultivar with yellow-margined leaves; ornamental accent use; hardy to Zone 5; not recommended for ecological or food forest plantings — ecological value is reduced and variegated plants are generally weaker growers.\n'Little Volunteer' — a dwarf selection reaching 25-35' tall and 15' wide; useful for smaller properties or suburban lots where the full species would be overwhelming; performs well in Zone 5-8; retains the species' ecological value (flowers, pollinator support) in a more manageable size.\nFor southern growers (Zone 8-9), the straight species from regional provenance is ideal — select Gulf Coast or Piedmont-sourced stock. For northern-limit growers (Zone 4-5), choose nursery stock from northern provenance (Great Lakes, New England sources) to ensure cold hardiness. Across the mid-range (Zone 6-7), the species is broadly adapted and provenance is less critical, though local-source stock is always preferred.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Tall canopy anchor",
+      "food forest outer canopy layer",
+      "ecological support planting",
+      "bee forage tree",
+      "hummingbird garden",
+      "timber investment",
+      "wildlife habitat"
+    ],
+    "designPlacement": "Liriodendron tulipifera is not a food producer and should not anchor a guild in the way a fruit or nut tree does — but as a tall canopy support tree for ecological function, it has very few equals within its native range. Its exceptional value to bees (nectar), hummingbirds, and tiger swallowtail butterflies makes it a high-priority ecological investment. Given its extraordinary growth rate, site it as an outer canopy tree at the far edge of a food forest or property perimeter, where it will not shade fruit tree guilds or production plantings as it matures. A north or northeast placement relative to production zones, where its eventual 60-80' canopy shades less valuable areas (property boundaries, road edges, utility corridors) rather than food-producing guilds, is ideal. Do not plant within 40-50' of house foundations given the eventual surface root development. On smaller properties, consider the columnar cultivar 'Arnold' or the smaller 'Little Volunteer' to capture ecological value in reduced space.",
+    "acquisitionStatus": "To source (native plant nursery; bare-root or small container stock preferred; straight species from PA or mid-Atlantic provenance; avoid big-box nursery stock of unknown origin)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liriodendron_tulipifera",
+    "inaturalist": "https://www.inaturalist.org/taxa/53582-Liriodendron-tulipifera",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a878"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — L. tulipifera is native to Pennsylvania; common in rich, moist woodland soils, cove forests, hollow bottoms, and disturbed forest edges throughout the state; a familiar roadside and woodland-edge tree across central and eastern PA; the large, distinctively lobed leaves and tulip-shaped flowers make it immediately recognizable to anyone who learns it",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed on the PA Department of Agriculture noxious weed list or flagged by DCNR; same as general Invasive field — not regulated in PA",
+      "drainage": "The red clay at the Hegins site is workable for tulip poplar — plant on a slight grade or mound rather than in a low point; incorporate compost into the planting hole to improve initial root establishment; the compacted, construction-disturbed clay near structures should be avoided (the tree should be sited well away from structures anyway given its mature size); clay's moisture retention is an advantage for this species between rain events",
+      "soil": "The red clay at the Hegins site is acceptable for tulip poplar, particularly if organic matter is incorporated into the planting area and the tree is not sited in a drainage low point; no raised bed needed (this is a full-size canopy tree); amend at planting time and let the tree's own leaf litter build soil quality over years",
+      "cultivarNotes": "The straight species from PA or mid-Atlantic provenance is the best choice for ecological and food forest planting. Source from a reputable native plant nursery — consider Ernst Conservation Seeds, Pinelands Nursery, or a PA native plant society sale for provenance-appropriate stock.",
+      "designPlacement": "Site as an outer canopy tree at the far edge of the food forest or property perimeter; a north or northeast placement where its eventual canopy shades undesirable views (neighbor, road) rather than the apple, paw paw, or mulberry guilds is ideal. Do not plant within 40-50' of the house foundation. Not suitable for Sections A, B, or C (height limits and proximity to structure). Best used as one or two perimeter canopy trees where they can grow to full size and serve as the ecological backbone of the property's insect and bird habitat.",
+      "siteObservations": "Protect young trees with a deer tube or wire cage for the first 3 years given the active deer pressure from the eastern wildlife corridor — leader tip browsing in the first few years can compromise the central leader and permanently degrade the tree's form. The red clay at Hegins will hold moisture reasonably well between rain events, which benefits this moisture-loving species. The tree tolerates proximity to black walnut (juglone-tolerant), which is a plus given the likelihood of black walnut on or near the property."
+    }
+  }
+}

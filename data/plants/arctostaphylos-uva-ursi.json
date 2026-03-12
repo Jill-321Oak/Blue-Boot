@@ -1,0 +1,170 @@
+{
+  "id": "arctostaphylos-uva-ursi",
+  "name": {
+    "commonName": [
+      "Bearberry",
+      "Kinnikinnick"
+    ],
+    "latinName": "Arctostaphylos uva-ursi",
+    "family": "Ericaceae"
+  },
+  "range": {
+    "nativeRange": "Circumpolar — boreal and alpine zones of North America, Europe, and Asia; in North America, ranges from Alaska and northern Canada south through the mountains and northern regions to Virginia, Illinois, South Dakota, New Mexico, and central California; found primarily in sandy, rocky, or gravelly acidic soils at higher elevations and latitudes",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across a broad range of the US — native to the northern tier states from New England across the Great Lakes and northern plains to the Pacific NW; also native at high elevation in the Appalachian Mountains south to Virginia, in the Rockies south to New Mexico, and in the Pacific states; not native to the lower South, Gulf states, or much of the Midwest south of the Great Lakes; a native ground cover for a wide range of US climates"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 2,
+      "max": 6,
+      "description": "2-6"
+    }
+  },
+  "description": {
+    "height": "4-8\" (prostrate mat; woody at the base; stems trail along the ground)",
+    "spread": "3-6' wide over time; slow-spreading but forms a dense, permanent mat",
+    "spacing": "18-24\" for ground cover planting; will fill in over 3-5 years",
+    "growthRate": "Slow — this is one of the most patience-requiring plants in the garden; establishment takes 2-3 years; do not disturb once established",
+    "timeToMaturity": "3-5 years to a full, dense mat; berries produced once plant is established",
+    "lifespan": "Very long-lived once established; essentially permanent in the right conditions",
+    "deciduousEvergreen": "Evergreen — one of the finest native evergreen ground covers; small, rounded, leathery, glossy dark green leaves are attractive year-round; foliage turns attractive reddish-bronze to burgundy in winter, then greens up again in spring; the winter color change is a positive ornamental feature, not stress",
+    "winterInterest": "Excellent — persistent reddish-bronze foliage through winter; bright red berries persist on the plant through fall and winter, providing color and wildlife value simultaneously; one of the most attractive native plants in the winter landscape"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best flowering, fruiting, and density in full sun; tolerates light shade but becomes open and less productive; in Zone 6a at the southern edge of range, afternoon shade or north/northeast exposure may improve heat tolerance and longevity",
+    "water": "Low once established; extremely drought-tolerant; prefers dry to moderate moisture; does not tolerate wet conditions; supplemental water during the first 1-2 years aids establishment, but the established plant should be treated as a dry-site plant",
+    "drainagePreference": {
+      "description": "Excellent drainage required — this is non-negotiable; will not tolerate clay, compacted soils, or any site with seasonal wetness; performs best in sandy, gravelly, or rocky soils that drain rapidly; root rot in poorly drained sites is the primary cause of failure",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor; Arctostaphylos uva-ursi requires excellent drainage and lean, acidic soil; heavy clay is incompatible with its native sandy/rocky/lean habitat requirements; clay causes root rot and pH conflicts; raised beds with acidic sandy mix or rocky slope planting are required in heavy-clay gardens"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6,
+      "description": "4.5-6.0 — strongly acidic required; like blueberry, azalea, and wintergreen; will decline and eventually fail in neutral or alkaline soil; amend planting site with sulfur if needed; do not plant in unamended clay or limestone-influenced soil"
+    },
+    "texturePreference": "Sandy, gravelly, rocky, or coarse loam; open texture and low fertility are assets, not liabilities; thrives in infertile, well-drained acidic soils where most plants struggle; will not tolerate clay",
+    "rootCharacter": "Shallow, spreading root system; roots at stem nodes where they contact soil (layering); forms a network of surface roots that bind soil effectively; do not cultivate around established plants"
+  },
+  "bloom": {
+    "bloomTime": "April-May",
+    "bloomDescription": "Small, urn-shaped (urceolate) flowers, white to pale pink, 0.2\" long, in terminal clusters; flowers are typical of the Ericaceae — the same lantern-like form seen in blueberry and heather; delicate and attractive up close; nectar-rich and well-used by early-season bees",
+    "fragrance": "Faint, mild honey-like fragrance",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Cross-pollination by bees preferred; bumblebees are primary pollinators; self-fertile but better fruit set with cross-pollination; plant multiple plants or a large colony for best berry production"
+  },
+  "yield": {
+    "edibleParts": "Berries (fruit); leaves (medicinal)",
+    "harvestSeason": "Berries ripen August-September and persist on the plant through winter; leaves can be harvested year-round from established plants",
+    "medicinalUses": "One of the most important urinary tract herbs in both traditional and modern Western herbalism. The leaves contain arbutin, a glycoside that is converted in the body to hydroquinone — a documented antibacterial agent with specific activity against E. coli and other common urinary pathogens. Used for urinary tract infections (UTIs), cystitis, urethritis, and kidney inflammation. Approved by the German Commission E for use in urinary tract infections — one of the few traditional herbs to receive this formal recognition. Effective primarily in alkaline urine — best results when dietary pH is alkaline during treatment (reduce meat and acidic foods; increase vegetables). CAUTION: Not for long-term or continuous use (hydroquinone can be toxic in excess); not for use during pregnancy or breastfeeding; not suitable for children under 12; do not use for more than 1-2 weeks without medical guidance; should not be combined with substances that acidify urine. The berries are edible — small, bright red, mealy in texture, dry, and astringent; not palatable as a fresh fruit but historically consumed by many Indigenous peoples, particularly mixed with fat and meat (pemmican), and used as a famine food. Bears, grouse, deer, and other wildlife consume the berries heavily in winter (hence the common name \"Bearberry\").",
+    "craftOtherYield": "Kinnikinnick — the name derives from an Algonquian word meaning \"smoking mixture\"; the dried leaves were a traditional and ceremonial smoking component for many Native American nations, often mixed with tobacco, red osier dogwood inner bark, or used alone; historically one of the most widely used plants in Native North American ceremonial practice; the tannin-rich leaves were also used in traditional leather tanning"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Berries are edible but dry and astringent in large quantities; the medicinal preparation of leaves carries real risk if misused — see Medicinal Uses for full cautions; hydroquinone toxicity is possible with prolonged or excessive use of leaf preparations; do not consume leaf preparations long-term without guidance",
+    "toxicityAnimals": "Berries and leaves are consumed by bears, deer, grouse, and other wildlife without harm; generally considered safe for dogs and cats in the amounts they would naturally consume; not a known pet toxin",
+    "allelopathy": "No significant allelopathy documented; the dense mat suppresses weeds mechanically rather than chemically",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (primary — dense evergreen mat is highly effective at suppressing weeds once established)",
+      "Erosion Control (excellent on slopes — roots at nodes bind sandy or gravelly soil; one of the best native plants for slope stabilization on dry, acidic sites)",
+      "Medicinal Herb (significant — documented and Commission E-approved)",
+      "Wildlife Forage (berries are critical winter wildlife food — bears, grouse, fox, deer)",
+      "Living Mulch (evergreen mat maintains soil moisture and temperature)",
+      "Ethnobotanical / Cultural Plant (deep historical significance)"
+    ],
+    "companionPlants": [
+      "Vaccinium angustifolium (lowbush blueberry — same acidic, sandy, dry conditions; complementary height and fruiting)",
+      "Comptonia peregrina (sweetfern — another native for dry acidic sites; excellent companion)",
+      "Pinus strobus (white pine — naturally co-occurs; provides filtered shade)",
+      "Betula populifolia (gray birch — light canopy companion on sandy sites)",
+      "Gaultheria procumbens (wintergreen — same layer, same conditions; complementary evergreen ground covers)",
+      "Andropogon scoparius (little bluestem — adjacent dry acidic meadow planting)"
+    ],
+    "antagonists": [
+      "Clay soil (fatal); wet or poorly drained sites (fatal); alkaline soil (decline and death); heavy shade; nutrient-rich amended garden beds (promotes lush growth that is less cold-hardy and short-lived); do not plant adjacent to areas that receive lawn fertilizer or lime"
+    ],
+    "coppiceable": "No; do not cut back hard; light tip-pruning is tolerated but heavy pruning into old wood risks killing the plant; leave it undisturbed once established"
+  },
+  "wildlife": {
+    "attracts": "Bumblebees and native bees (flowers — important early-season nectar source); bears (berries — a primary fall and winter food source, especially important for pre-hibernation foraging); ruffed grouse (berries — heavily consumed in winter); wild turkey (berries); white-tailed deer (browse and berries); fox (berries); songbirds including thrushes and robins (berries)",
+    "hostPlantFor": "Elfin butterflies — the Brown Elfin (Callophrys augustinus) uses Arctostaphylos as a larval host plant; Hoary Elfin (Callophrys polios) also uses it; both are specialist butterflies with limited host plant options; including bearberry in a garden is one of the few ways to support elfin butterflies in the mid-Atlantic region",
+    "nestingHabitat": "Dense prostrate mat provides ground-level cover for small mammals and ground-nesting birds; the woody stems create microhabitat structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — one of the more reliably deer-resistant native ground covers; the leathery, astringent leaves are not palatable; deer will occasionally sample it but do not browse it significantly; much more reliable than many other ground covers under deer pressure"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt spray and coastal salt; native to exposed coastal and alpine sites with wind and salt stress"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most drought-resistant native plants available; once established (2-3 years), requires no supplemental irrigation; thrives in conditions that stress or kill most other plants; the primary plant for dry, sunny, acidic, sandy sites"
+    },
+    "other": "Tolerates poor, infertile soil (prefers it); tolerates wind and exposed sites; tolerates cold down to Zone 2; tolerates compacted sandy or gravelly soils (not clay); does not tolerate heat and humidity combined with poor drainage — this is the primary challenge at the Zone 6a southern edge of range"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established — this is a plant that rewards patience during establishment and then essentially takes care of itself; the primary work is in proper siting, soil preparation, and irrigation during the establishment period",
+    "pruningNotes": "Minimal pruning needed; trim trailing stems at the perimeter to keep the mat within bounds; light tip pruning after bloom can improve density; do not cut into old woody stems; avoid disturbing established plants; the mat is self-maintaining once dense",
+    "propagationMethods": [
+      "Cuttings (semi-hardwood cuttings in summer — reasonably successful with mist and rooting hormone; the preferred method for named cultivars)",
+      "Layering (natural — stems root at nodes where they contact soil; pin a stem section to the soil and it will root in a season; the easiest method)",
+      "Division (can divide established mats carefully in early spring)",
+      "Seed (possible but very slow and requires scarification and cold stratification; not practical for garden use; purchase established plants)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are strongly recommended over straight species for garden use — they are more predictable, more vigorous, and often better suited to specific regional conditions. **'Massachusetts'** is the most widely recommended for Zone 6a and the northeastern US — compact, exceptionally cold-hardy, dense mat, reliable performance, widely available at native plant nurseries; the best default choice for the mid-Atlantic and northeastern regions. **'Vancouver Jade'** is a vigorous, fast-spreading selection with excellent ground cover performance; good for covering larger areas quickly; slightly less cold-hardy than 'Massachusetts' but within Zone 6a range; more common in Pacific Northwest cultivation. **'Point Reyes'** is a Pacific Coast ecotype — excellent for western US gardens in coastal California and the Pacific NW; not recommended for Zone 6a eastern conditions; stick to eastern or cold-hardy selections for the eastern US. **'Emerald Carpet'** is another Pacific NW selection with dense, bright green foliage; well-suited to the West Coast but not reliably hardy in the continental East.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dry slope erosion control",
+      "sandy or gravelly bank stabilization",
+      "woodland edge on sandy acidic soil",
+      "native plant garden",
+      "medicinal herb garden",
+      "rock garden",
+      "dry garden",
+      "wildlife planting for grouse and bear habitat",
+      "elfin butterfly support planting"
+    ],
+    "designPlacement": "Native ground cover for lean, sandy, acidic soils; slope stabilization; rocky garden; eastern and western US native plant gardens",
+    "acquisitionStatus": "To source — seek 'Massachusetts' from a native plant nursery; Bowman's Hill Wildflower Preserve (New Hope, PA), Ernst Conservation Seeds, or online native nurseries (Monrovia, North Creek Nurseries) are likely sources"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctostaphylos_uva-ursi",
+    "inaturalist": "https://www.inaturalist.org/taxa/68049-Arctostaphylos-uva-ursi",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=279933"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Native to PA at higher elevations and in the northern tier; less common in the Hegins Valley area (central Schuylkill County is at the southern edge of its typical PA range); not guaranteed to be locally native but native to the state",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: not suitable for in-ground planting without significant amendment; raised bed with sandy, acidic mix or rocky slope microsite required; this is a challenging plant to establish at Hegins given the clay soil",
+      "soil": "Hegins red clay is incompatible; acidic sandy/rocky mix in raised position is required",
+      "cultivarNotes": "'Massachusetts' is the most cold-hardy and compact cultivar; best choice for Zone 6a conditions; requires acidic, well-drained soil regardless of cultivar",
+      "designPlacement": "Challenging at Hegins due to clay soil; if planted, requires a dedicated acidic sandy raised position; Section C south-facing warm slope with lean, gritty amendment is the best available microsite",
+      "siteObservations": null
+    }
+  }
+}

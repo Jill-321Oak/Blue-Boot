@@ -1,0 +1,176 @@
+{
+  "id": "gaultheria-procumbens",
+  "name": {
+    "commonName": [
+      "Wintergreen",
+      "Teaberry",
+      "Checkerberry",
+      "Eastern Teaberry"
+    ],
+    "latinName": "Gaultheria procumbens",
+    "family": "Ericaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from Newfoundland and Labrador south through the Appalachians to Georgia and Alabama, west to Manitoba and Minnesota; naturally found in cool, acidic woodlands, heath communities, and pine barrens throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — broadly distributed from New England through the mid-Atlantic, Southeast (mountain regions), and upper Midwest; characteristic of acidic woodland understory communities from Maine to Georgia and west to Minnesota; not native to the western US, Great Plains, Gulf Coast lowlands, or Southwest; does not naturalize outside its native range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not invasive anywhere in the lower 48; spreads slowly and non-aggressively by underground rhizomes; forms colonies over many years but never becomes a management problem; not listed on any state noxious weed list or USDA invasive species database"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8; cold-hardy throughout the northern US; heat tolerance limits it in the Deep South below Zone 8; no heat zone concerns in Zones 3-7"
+    }
+  },
+  "description": {
+    "height": "3-6\" — a low, prostrate creeping subshrub; one of the lowest-growing evergreen ground covers in the eastern native flora",
+    "spread": "12-24\" per plant over time; spreads gradually by underground rhizomes to form a low colony; fills in slowly over several seasons",
+    "spacing": "12\" for faster coverage; 18\" if budget is a consideration — the colony will fill in within 3-5 seasons",
+    "growthRate": "Slow; this is not a plant for instant ground cover effect; plan for patience; once established in appropriate acidic soil it is essentially permanent and self-sustaining",
+    "timeToMaturity": "Berries produced from the first or second season after establishment; ground cover effect develops over 3-5 years",
+    "lifespan": "Very long-lived; the clonal colony can persist and expand indefinitely; existing colonies in undisturbed woodlands may be decades old",
+    "deciduousEvergreen": "Evergreen — one of the defining qualities of this plant; the glossy, dark green leaves persist through winter; foliage takes on attractive reddish-bronze tints in cold weather; provides year-round ground cover and visual interest",
+    "winterInterest": "High — the combination of persistent glossy evergreen foliage (reddening in cold) and bright red berries that persist from fall through winter makes this one of the most visually rewarding ground covers in the winter landscape; the berries remain on the plant through February and March if not consumed by wildlife"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full shade; ideally the dappled shade of an open woodland or the filtered light beneath pines, oaks, or blueberry plantings; tolerates deep shade but may produce fewer berries in very low light; does not thrive in full sun without consistent moisture; in Zone 8 and the southern end of its range, afternoon shade is essential; in Zones 3-6, tolerates more light if soil moisture is adequate",
+    "water": "Low to medium; once established in appropriate soil, surprisingly drought-tolerant for a woodland plant; in the humid eastern US, supplemental water is rarely needed after the first season; in drier climates (upper Midwest summer droughts, rain shadow areas), mulch heavily and monitor during extended dry spells; requires consistent moisture during establishment (first season)",
+    "drainagePreference": {
+      "description": "Moist, well-drained to moderately moist; native to cool, well-drained acidic woodland soils; does not tolerate waterlogged or anaerobic conditions; avoid low spots where water pools; the combination of consistent moisture and good aeration is critical — saturated soil kills the ericoid mycorrhizal fungi this plant depends on",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate — heavy clay presents two problems for wintergreen: waterlogging (which destroys the ericoid mycorrhizal partnership) and pH buffering (most clay soils are neutral to alkaline, which is incompatible with this strongly acid-dependent plant). In heavy clay, wintergreen should not be planted directly into unamended ground. Success in clay regions requires building up an acidic organic layer above the clay surface: a 6-8\" raised bed or mounded planting area filled with pine bark fines, composted oak leaves, peat moss, and acidic compost. This approach works in any clay-soil region — mid-Atlantic red clay, Midwest glacial clay, Pacific NW clay loam. The key is avoiding direct root contact with dense, wet, alkaline clay while maintaining the acidic pH and fungal partnerships wintergreen requires."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 5.5,
+      "description": "4.5-5.5 — THIS IS THE MOST CRITICAL CULTURAL REQUIREMENT, shared with blueberry (Vaccinium corymbosum) and all ericaceous plants. Wintergreen is a member of the Ericaceae and has an absolute dependence on low pH. In soil above pH 5.5, wintergreen will survive briefly but will not thrive, spread, or persist long-term; symptoms of pH failure include pale, chlorotic foliage, failure to produce new growth, and gradual decline. Test soil pH before planting. Lower pH with elemental sulfur (applied months in advance), acidic organic matter (pine bark, pine needles, oak leaf mold, peat moss), and ongoing acidic mulch topdressings. NEVER use limestone, wood ash, or any alkaline amendment in the planting area."
+    },
+    "texturePreference": "Well-drained, humus-rich, acidic woodland soil; sandy loam to loamy with high organic matter; a top-dressing of pine bark fines or composted oak leaves is ideal; the plant thrives in the loose, spongy organic layer that accumulates naturally beneath oaks and conifers; heavy clay or compacted mineral soil must be amended or the planting area built up with acidic organic matter before use",
+    "rootCharacter": "Fine, fibrous rhizomatous root system; spreads laterally by slender underground rhizomes that send up new shoots; mycorrhizal associations (ericoid mycorrhizae — the same specialized fungal partnership used by blueberries) are essential to nutrient uptake; this is part of why acidic soil is mandatory — the mycorrhizal partnership functions only in acidic conditions; mulch heavily to protect shallow roots and maintain soil moisture"
+  },
+  "bloom": {
+    "bloomTime": "July-August — late summer bloomer; flowers after most spring-flowering ground covers have finished",
+    "bloomDescription": "Small (0.25\"), white to pale pink, nodding, urn-shaped (urceolate) bell flowers; produced singly or in small clusters from the leaf axils; delicate and charming at close range; the same elegant bell-flower form characteristic of the Ericaceae family (blueberry, mountain laurel, rhododendron); flowers develop into the red berries of fall and winter",
+    "fragrance": "Mild, sweet wintergreen fragrance from the foliage when brushed or bruised; the flowers themselves are not strongly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Bumblebees and other native bees visit the flowers; self-fertile but cross-pollination improves berry set; modest pollinator value as a late-summer nectar source"
+  },
+  "yield": {
+    "edibleParts": "Berries (primary edible) and leaves (secondary edible). The small red berries (0.25-0.5\") ripen in fall and persist through winter — they are the classic teaberry of old-fashioned candy and chewing gum; flavor is mild, sweet, and distinctly wintergreen; pleasant eaten fresh as a woodland nibble directly off the plant; can be used in baked goods, jellies, teas, or infused into vinegar; not produced in sufficient quantity from a small planting for large-scale food use, but a reliable seasonal nibble and a valuable forage component. The leaves are also edible — brewed into a mild wintergreen tea (simmer a small handful of fresh leaves gently; do not boil, which drives off the volatile oil); the tea has been traditionally used as a pleasant warming beverage with medicinal overlap",
+    "harvestSeason": "Berries ripen September-October and persist on the plant through winter into early spring — one of the few edible fruits available in the winter garden; leaves can be harvested for tea year-round (evergreen)",
+    "medicinalUses": "Significant. Both the leaves and berries contain methyl salicylate — the compound responsible for the characteristic wintergreen scent and flavor, and the active constituent in topical analgesic products (BenGay, Tiger Balm, Icy Hot). Methyl salicylate is closely related to salicylic acid (the active compound in aspirin) and has analgesic, anti-inflammatory, and rubefacient (warming, stimulating local circulation) properties when applied topically. Traditional uses include: topical relief of muscle aches, joint pain, headache (pressed leaves on the forehead), and general pain relief in the same category as willow bark medicine. Wintergreen essential oil — a highly concentrated steam distillation of the leaves — is a legitimate and potent analgesic for external use. Wintergreen tea from the leaves provides mild systemic salicylate activity similar to a weak aspirin equivalent. A genuine medicinal plant with well-documented and practically useful properties.",
+    "craftOtherYield": "The bright red berries and glossy evergreen foliage make excellent winter arrangements and holiday decorations; the persistent berries add color to wreaths and seasonal displays; the plant is occasionally distilled commercially for the essential oil (food-grade wintergreen flavoring in candies, gum, mouthwash, and toothpaste)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The culinary use of the berries (fresh eating, tea) is safe. The essential oil is a different matter — pure wintergreen essential oil is almost entirely methyl salicylate, which is highly toxic if ingested in quantity; as little as a teaspoon of pure wintergreen oil can be fatal to a child and dangerous to adults; the oil should never be taken internally and should be kept away from children. Topical use of the essential oil should be on intact skin only, at appropriate dilution, and not over large body areas; absorption through the skin is significant. People with aspirin sensitivity (salicylate sensitivity) should avoid large doses of wintergreen products including concentrated tea and topical oil. Normal culinary use — a handful of berries, occasional tea from fresh leaves — is safe.",
+    "toxicityAnimals": "Methyl salicylate is toxic to cats and dogs in concentrated form; cats are particularly sensitive to salicylates. Topical wintergreen oil preparations should not be applied to pets and should be kept out of reach. The plant growing in the garden, with berries available to wildlife and domestic animals, is generally considered low risk at the quantities likely to be consumed casually; however, do not allow pets to consume large quantities of berries and do not apply wintergreen oil products to animals.",
+    "allelopathy": "None documented; grows compatibly with blueberry, ferns, and woodland companions",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Ground Cover (lowest layer — subshrub ground cover, 3-6\")"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (evergreen mat suppresses weeds and covers bare soil year-round)",
+      "Food (edible berries and leaves — woodland nibble and tea)",
+      "Medicinal (methyl salicylate — topical analgesic, wintergreen tea)",
+      "Native Plant (supports the full ecological network of the ericaceous woodland community)",
+      "Soil Cover (prevents erosion, retains moisture, maintains cool soil temperature beneath woodland plantings)",
+      "Wildlife Support (persistent winter berries are an important food source for birds during the lean season)",
+      "Aesthetic (the finest evergreen ground cover for acidic shade environments — attractive in all four seasons)"
+    ],
+    "companionPlants": [
+      "Vaccinium corymbosum (highbush blueberry — the ideal companion; same acidic soil requirements, same native ericaceous community; wintergreen fills the ground layer beneath blueberries naturally)",
+      "Vaccinium angustifolium (lowbush blueberry — similar ecological niche; the two can coexist in an acidic ground layer)",
+      "Quercus spp. (oaks — provide the canopy and leaf litter mulch that creates and sustains the acidic woodland environment; oak leaf mold is an excellent mulch for wintergreen)",
+      "Pinus strobus / Pinus rigida (white pine, pitch pine — pine needle mulch acidifies the soil over time and mirrors the native habitat)",
+      "Asarum canadense (wild ginger — complementary woodland ground cover at the same layer; wild ginger prefers slightly less acid soil but the two can coexist at the margins)",
+      "Kalmia latifolia (mountain laurel — the classic native ericaceous shrub companion)",
+      "Comptonia peregrina (sweetfern — native nitrogen-fixer for acidic soils; excellent guild companion)"
+    ],
+    "antagonists": [
+      "Any alkaline amendment or alkaline soil; lime",
+      "wood ash",
+      "concrete (lime leaching)",
+      "marl — all are fatal to establishing wintergreen; avoid proximity to any concrete foundations",
+      "paths",
+      "or masonry where lime leaching may elevate pH; avoid plants that require neutral or alkaline soil in the same bed"
+    ],
+    "coppiceable": "No; not applicable to this plant form"
+  },
+  "wildlife": {
+    "attracts": "Excellent winter wildlife value; the persistent red berries are consumed by a wide range of birds during the fall and winter months — American robin, eastern bluebird, cedar waxwing, gray catbird, ruffed grouse, wild turkey, white-throated sparrow, and others rely on persistent winter fruit when other food sources are scarce; the evergreen mat provides ground-level cover for small birds and mammals; native bees visit the late-summer flowers",
+    "hostPlantFor": "Documented host plant for the Brown Elfin butterfly (Callophrys augustinus) — a specialist of ericaceous plants; also used by several other native Lepidoptera associated with the Ericaceae community; as a true native understory plant, it supports the full suite of native insects associated with the ericaceous woodland community",
+    "nestingHabitat": "The low evergreen mat provides year-round ground-level cover and microhabitat; ground-feeding birds forage through the colonies; the dense rhizomatous root system creates stable, undisturbed ground cover that supports overwintering invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — better deer resistance than most ground covers; the strong, pervasive methyl salicylate aroma in the foliage deters browsing; deer generally avoid plants with strong medicinal chemistry; not completely deer-proof, but meaningfully more resistant than palatable alternatives like pachysandra or hostas; young transplants may need temporary protection (wire cloches or deer netting) until established, but once the colony fills in, browsing is rarely a significant issue"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — sensitive as a woodland plant; avoid placement adjacent to heavily salted winter roads or paths; does not tolerate consistent salt spray; incidental exposure from nearby salted surfaces may cause leaf edge burn but is unlikely to kill established plants"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established in appropriate acidic, humus-rich soil; the mulch layer is important for moisture retention; not as drought-sensitive as blueberry but still prefers consistent cool, moist conditions; in regions with regular summer drought (upper Midwest, rain shadow areas), heavy mulch and site selection in the coolest available microclimate are essential"
+    },
+    "other": "Excellent cold tolerance (Zone 3); handles severe winters without any protection; the evergreen foliage may become temporarily bronzed or reddish in hard freezes but recovers fully in spring; tolerates the cool temperatures and moisture fluctuations typical of shaded woodland sites; moderate humidity tolerance — performs well in the humid eastern US but is not suited to hot, humid Deep South lowlands below Zone 8"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established in correctly prepared acidic soil; the primary investment is soil preparation before planting; established colonies require essentially no maintenance",
+    "pruningNotes": "No pruning needed or beneficial; the plant self-maintains at 3-6\" without any intervention; if the colony spreads beyond a desired boundary, simply dig and remove sections (and replant or share them); the rhizome sections are easily transplanted",
+    "propagationMethods": [
+      "Division (most practical — dig sections of the colony in early spring or fall, ensuring each division has rhizome and roots; transplant immediately into prepared acidic soil; keep moist through the first season)",
+      "stem cuttings (semi-hardwood cuttings in late summer under humidity dome — moderately difficult; requires acidic rooting medium)",
+      "seed (possible but slow — seeds require stratification and the germination process can take months; not the practical route for garden propagation)",
+      "layering (pin a stem section to the soil surface in moist acidic medium; roots develop at the nodes)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Gaultheria procumbens) is the correct and preferable choice for native plant gardens and permaculture systems across its range — it represents the actual wild ecotype and provides full wildlife value, full medicinal value, and full ecological function. Named cultivars exist but are primarily selected for ornamental purposes (berry size, density, compactness) and are less commonly available than the straight species. **Zones 3-5 (northern tier):** The straight species is fully cold-hardy and performs well; source from regional native plant nurseries for best local adaptation. No cultivar advantage over the straight species in cold climates. **Zones 6-7 (mid-range):** Both the straight species and cultivars perform well; this is the core of the plant's natural range and where the widest selection is available. **'Very Berry'** is a cultivar selected for heavy berry production — a reasonable choice if maximum edible yield is the priority; it maintains the species' native ecological function. **'Cherry Berries'** is another heavy-fruiting selection with compact habit. **Zone 8 (southern limit):** Wintergreen reaches its heat tolerance limit; source the straight species from a southern Appalachian provenance if possible; ensure afternoon shade and consistent moisture; cultivar performance data is limited at the warm edge of the range. For food forest and native woodland gardens in any zone, the straight species from a regional native plant nursery is generally the best acquisition.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native evergreen ground cover for acidic woodland gardens",
+      "beneath blueberry plantings",
+      "under oaks and pines",
+      "native food forest understory",
+      "medicinal plant collection",
+      "wildlife winter garden"
+    ],
+    "designPlacement": "Place wintergreen in the ground layer of any acidic-soil planting — beneath blueberries, under oaks, in pine woodland edges, or in dedicated ericaceous beds. It is the natural ground layer companion for a blueberry guild, filling the lowest stratum beneath blueberry shrubs exactly as it does in nature. A mass planting of wintergreen beneath and around blueberry creates a coherent, self-sustaining ericaceous plant community: blueberry in the shrub layer, wintergreen in the ground layer, with oak leaf mulch or pine bark fines as the surface mulch. This combination requires a single shared acidic soil preparation and delivers food yield (blueberries and wintergreen berries), medicinal yield (wintergreen), native wildlife support, and year-round evergreen beauty from two complementary layers. Wintergreen is also an excellent underplanting beneath oaks or established pines — any area where acidic leaf litter has already accumulated is a candidate site. Avoid mixing wintergreen with general garden perennials that require neutral or alkaline soil; the pH requirement makes it impractical to integrate into mixed ornamental beds without dedicated soil preparation. Keep away from concrete foundations, paths, and masonry where lime leaching raises pH.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaultheria_procumbens",
+    "inaturalist": "https://www.inaturalist.org/taxa/62376-Gaultheria-procumbens",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=279938"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — G. procumbens is native to Pennsylvania and very common throughout the state; found in the understory of acidic-soil woodlands dominated by oak, pitch pine, and hemlock; a characteristic plant of the ericaceous understory community alongside blueberries, mountain laurel, and huckleberries; native to this exact landscape type in the central Pennsylvania mountains",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR as invasive or noxious",
+      "drainage": "The compacted red clay at the Hegins site is unsuitable for direct planting — it is dense, poorly drained after rain, and likely neutral to slightly acidic (not acidic enough without amendment). Wintergreen here requires a built-up acidic planting zone above the clay: a dedicated bed of pine bark fines, composted oak leaves, and acidic organic matter at least 6\" deep, placed on top of the existing grade rather than dug into the clay. This mirrors the approach needed for blueberry at this site and the two plants should share the same prepared zone.",
+      "soil": "The native red clay at the Hegins site will require pH testing and likely amendment before wintergreen will establish successfully. The practical approach is to build a dedicated acidic planting zone on top of the existing clay using pine bark fines, composted oak leaves, peat moss, and elemental sulfur — the same preparation required for blueberry. Do not attempt to amend the clay in place; build up rather than dig down.",
+      "cultivarNotes": "The straight species sourced from a Pennsylvania or mid-Atlantic native plant nursery is the ideal choice for the Hegins site — it represents the local ecotype and is best adapted to the regional climate and growing season.",
+      "designPlacement": "The correct placement at this site is the acidic-soil zone developed for blueberries — wintergreen as the ground layer beneath the blueberry planting, sharing the same built-up acidic bed. Wintergreen is also a candidate for underplanting beneath oaks or pines elsewhere on the property where acidic leaf litter has accumulated. Sections A and C are not appropriate placements (pH requirements are incompatible with the general bed preparation planned for those areas, and the strong pH requirement makes mixing wintergreen with the purple/pink/yellow ornamental palette in Section A or the fragrance plants in Section C impractical without a dedicated acidic sub-zone). Section B is not a natural fit either — the kitchen herb focus and proximity to the garage foundation (lime leaching risk) make it unsuitable. This is a plant for a dedicated acidic zone outside the named bed sections.",
+      "siteObservations": "The compacted red clay at this site requires a built-up acidic planting zone rather than in-ground planting — the same infrastructure needed for blueberry. Active deer pressure from the eastern wildlife corridor is a consideration, but wintergreen's methyl salicylate chemistry provides meaningful deterrence; young transplants should be protected with wire cloches during the first season until the colony establishes. The evergreen foliage will bronze and redden through Pennsylvania winters but recovers fully in spring — a feature, not a problem. The site's cold winters (Zone 6a) are well within this plant's tolerance. Any placement should be well away from the house foundation and any concrete walks to avoid pH contamination from lime leaching."
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "hibiscus-moscheutos",
+  "name": {
+    "commonName": [
+      "Rose Mallow",
+      "Swamp Rose Mallow",
+      "Hardy Hibiscus",
+      "Crimson-Eyed Rose Mallow"
+    ],
+    "latinName": "Hibiscus moscheutos",
+    "family": "Malvaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Ontario and Massachusetts south through the mid-Atlantic and southeast to Alabama and Florida; west to Indiana and Ohio; found naturally in freshwater marshes, pond margins, wet meadows, and tidal marshes throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to much of the eastern US — from the Atlantic coast west to the Great Lakes, Great Plains margins, and Gulf Coast; present from Massachusetts and southern Ontario south through the mid-Atlantic, southeast, and Gulf states to Texas; absent from the northern Great Plains, Rocky Mountain states, and Pacific coast as a native species, though occasionally cultivated there"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the lower 48; does not naturalize aggressively outside its native range; self-sows modestly in suitable wet habitats but is not a management concern; not listed on any state noxious weed list or the federal noxious weed list"
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "3-7' (species and large cultivars); compact cultivars 2-3'; height varies significantly by cultivar",
+    "spread": "2-4'",
+    "spacing": "3-4' for species and large cultivars; 2-3' for compact cultivars",
+    "growthRate": "Fast once established; slow to emerge in spring — do not mistake the late emergence for death",
+    "timeToMaturity": "Blooms first or second year from seed; transplants typically bloom the first summer; full size by year 2-3",
+    "lifespan": "Long-lived perennial; woody crown persists for decades; essentially permanent once established",
+    "deciduousEvergreen": "Herbaceous perennial — dies fully to the ground each winter; the crown is woody and persistent but dormant; re-emerges late in spring (often not until late May in Zone 6, later May or early June in Zone 5 and colder; earlier in Zone 7+); this very late emergence is one of the most commonly misunderstood traits of this plant — do not disturb the crown or dig the plant thinking it has died; it always returns",
+    "winterInterest": "None — fully dormant; dried seed capsules are modest but interesting; mark the crown location in fall to avoid damaging it during spring cleanup"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but bloom quantity is reduced; maximum flower production in 6+ hours of direct sun; in Zone 8+ and the deep South, light afternoon shade can be beneficial to reduce heat stress on flowers",
+    "water": "High — requires consistent moisture to moist-wet conditions; this is a plant of marshes and pond edges; performs best with reliably moist to wet soil; does not tolerate drought; an excellent rain garden plant precisely because it thrives where water accumulates; in arid western climates (Zone 7-9 West), supplemental irrigation is essential and siting near water features or in irrigated beds is non-negotiable",
+    "drainagePreference": {
+      "description": "Moist to wet; tolerates standing water for short periods; does not perform well in dry or average garden conditions without supplemental irrigation; the ideal is consistently moist soil that does not dry out between rains — boggy edges, rain gardens, and low spots are perfect",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — clay is an asset for this plant, not a liability; heavy clay soils retain the consistent moisture that rose mallow demands; clay gardeners across the eastern US, Midwest, and Pacific Northwest will find this one of the easiest large perennials to establish in unamended clay, provided the site stays moist; the only risk is if clay creates a truly anaerobic waterlogged condition for weeks on end during winter dormancy, which can rot the crown — but in practice, the plant's marsh-edge origins make it highly tolerant of seasonal saturation; no amendment is needed in most clay soils"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; performs well in clay, clay-loam, loam, and average garden soil provided moisture is consistent; clay soils are actively beneficial because they hold moisture; sandy soils require more frequent irrigation or siting near a water source; organic-rich muck soils (typical of natural marsh edges) are ideal",
+    "rootCharacter": "Deep, woody taproot-like crown; not a spreading rhizomatous plant; stays in a clump; the crown enlarges slowly over years but does not run"
+  },
+  "bloom": {
+    "bloomTime": "July-September",
+    "bloomDescription": "Enormous, dinner-plate flowers 8-12\" in diameter — the largest flowers of any native herbaceous perennial in temperate North America; five broad, overlapping petals in white, pink, red, bicolor, or white with a deep crimson-purple central eye; the effect is tropical and extravagant, almost implausible on a cold-hardy native plant; each individual flower lasts only one day, but the plant produces dozens of blooms in continuous succession over the full season; a single mature plant in peak bloom is one of the most spectacular sights in the summer native garden; rivaled by nothing in terms of sheer flower scale among hardy perennials",
+    "fragrance": "Faint, pleasant scent; not a primary fragrance plant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Requires pollinators for seed set; visited primarily by large native bees (bumblebees are the most effective — they are large enough to reach the nectar and make contact with the reproductive structures); also visited by hummingbirds and specialist hibiscus bees (Ptilothrix bombiformis, a specialist bee with a strong association with native Hibiscus species); one of the outstanding hummingbird-attracting native perennials in eastern North America"
+  },
+  "yield": {
+    "edibleParts": "All parts are edible — this is consistent with the broader Malvaceae family (mallows, okra, marshmallow). Young leaves and shoots can be eaten raw or cooked; mucilaginous in texture, similar to okra. Seeds are edible. Flowers are edible, beautiful, and excellent as a salad garnish or as a colorful addition to summer dishes. The root is edible and mucilaginous — similar to its close relative marshmallow (Althaea officinalis); has been used as a food source by Indigenous peoples",
+    "harvestSeason": "Young leaves in spring through early summer; flowers throughout the bloom season (July-September); roots in fall after the plant goes dormant",
+    "medicinalUses": "The mucilaginous root contains compounds similar to those of true marshmallow (Althaea officinalis) — used traditionally to soothe throat, digestive, and urinary inflammations; the same class of polysaccharide mucilage that makes marshmallow root a respected herbal remedy is present here, though in somewhat lower concentration; a useful plant medicine for anyone already cultivating it for ornamental or food use; internally as a tea or decoction for soothing inflamed mucous membranes",
+    "craftOtherYield": "The large flowers make exceptional cut flowers (though they last only one day); bast fiber has historically been extracted from the stems — the plant was used as a fiber source by Indigenous peoples; dried seed capsules are ornamentally interesting"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; fully edible; safe",
+    "toxicityAnimals": "Non-toxic; not a known concern for dogs, cats, or livestock",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (large herbaceous perennial)"
+    },
+    "roles": [
+      "Beauty (primary — the flower spectacle is among the finest available in temperate perennial gardening)",
+      "Insect Attractor (outstanding — hummingbirds, bumblebees, specialist Hibiscus bees)",
+      "Food (leaves, flowers, seeds, root)",
+      "Medicinal",
+      "Water Management (rain garden, bioswale planting, wet zone stabilization)",
+      "Wildlife Support"
+    ],
+    "companionPlants": [
+      "Ostrich fern (Matteuccia struthiopteris — classic companion; both thrive in moist conditions; the fern's tall arching fronds contrast beautifully with the bold hibiscus blooms)",
+      "Joe-Pye Weed (Eutrochium — shares the moist habitat and extended bloom overlap)",
+      "Blue Vervain (Verbena hastata — native companion of wet meadows)",
+      "Cardinal Flower (Lobelia cardinalis — shares the hummingbird guild)",
+      "swamp milkweed (Asclepias incarnata)",
+      "ironweed (Vernonia)"
+    ],
+    "antagonists": [
+      "Drought is the primary antagonist — do not place this plant in dry locations; Japanese beetle pressure (see Maintenance); deer browsing pressure on young plants"
+    ],
+    "coppiceable": "Cut the fully dead stems to the ground in late fall or early spring before new growth; the woody crown is permanent; no division needed (unlike rhizomatous perennials)"
+  },
+  "wildlife": {
+    "attracts": "Ruby-throated hummingbird (excellent — the scale of the flowers and color range make this a top hummingbird resource; hummingbirds return reliably to established plants each season), bumblebees (the large bumblebee species are primary pollinators — the flowers are physically sized for their body), specialist Hibiscus bee (Ptilothrix bombiformis — an oligolectic bee that collects pollen almost exclusively from native Hibiscus; planting H. moscheutos directly supports this specialist), butterflies, and other large native bees",
+    "hostPlantFor": "Hibiscus specialist bee (Ptilothrix bombiformis) depends on the pollen; Gray Hairstreak butterfly (Strymon melinus) larvae feed on the developing seeds; Painted Lady butterfly (Vanessa cardui) also uses Malvaceae species",
+    "nestingHabitat": "Dense summer growth provides shelter for ground-dwelling invertebrates; the large, accessible flowers are a foraging landmark for pollinators in the landscape"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — deer browse Hibiscus moscheutos readily; young transplants are particularly vulnerable and should be protected with fencing or repellent spray until established; mature plants with a woody crown will regrow from browsing but repeated pressure reduces bloom; in high deer-pressure areas across the eastern US and Midwest, plan for physical protection in the first two seasons; once established, the rapid summer growth rate helps the plant outpace moderate browse damage, but persistent heavy pressure will limit performance"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — this is a genuine wetland plant; drought tolerance is minimal; do not site in dry conditions"
+    },
+    "other": "Japanese beetle (Popillia japonica) is the primary pest concern across much of the eastern US and Midwest — beetles skeletonize the leaves and shred the flowers in July, precisely when the plant is at peak bloom; monitor daily during beetle season (typically July-August) and remove beetles by hand into soapy water in the morning when they are sluggish; this is the most important ongoing maintenance task for this plant in beetle-prone regions; gardeners in the western US and deep South may experience less Japanese beetle pressure but should watch for other Malvaceae pests including hibiscus sawfly and whitefly"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — the primary tasks are Japanese beetle management in summer (where applicable) and cutting back dead stems in fall or spring",
+    "pruningNotes": "Cut all stems to the ground in late fall after frost or in early spring before new growth. Do not cut back prematurely in fall if you wish to leave seed heads for birds. The crown emerges very late in spring — often not until late May in Zones 5-6, and somewhat earlier in Zone 7+; resist the urge to disturb it or assume it has died; mark the crown location clearly in fall. No division is needed or particularly useful — the plant stays in a clump and the crown simply enlarges over years. If stems are left standing through winter, they must be fully removed before the basal rosette pushes up in late spring.",
+    "propagationMethods": [
+      "Seed (direct sow or start indoors 8-10 weeks before last frost; scarify seed or soak in warm water overnight to improve germination; species comes true from seed; cultivars do not)",
+      "stem cuttings (softwood cuttings in early summer)",
+      "division of the woody crown (difficult — the deep crown does not divide easily; not recommended as a routine method)"
+    ]
+  },
+  "cultivarNotes": "The straight species (Hibiscus moscheutos) is fully excellent and should be the first choice for naturalistic plantings, rain gardens, and wildlife-focused designs — it has the fullest wildlife value, particularly for the specialist Hibiscus bee (Ptilothrix bombiformis) which has co-evolved with the native species. However, the cultivar selection is outstanding and offers options across all climate zones in the lower 48.\n**Zones 4-5 (Upper Midwest, northern New England, northern Great Plains):** Choose vigorous, proven-hardy cultivars. 'Lord Baltimore' (deep crimson-red, 4-6', blooms to 10-12\") is cold-hardy and reliable; the 'Luna' series (compact 2-3', very large flowers in red, pink, white, rose) is widely available and performs well at the cold end of the range. Late emergence is most pronounced here — crowns may not appear until early June; patience is essential.\n**Zones 6-7 (Mid-Atlantic, upper South, Midwest, Pacific Northwest):** The full cultivar palette is available. 'Lord Baltimore' is the classic large-scale cultivar — deep red flowers are exceptional for hummingbirds and bumblebees, vigorous and long-proven. 'Kopper King' (copper-bronze foliage, pink flowers with red eye, 3-4') is outstanding as a foliage contrast plant. 'Luna' series and 'Disco Belle' series (compact 18-24\", flowers to 9\") are excellent for tighter spaces and container plantings. The species itself is the top choice for wildlife gardens and rain gardens.\n**Zones 8-9 (Deep South, Gulf Coast, desert Southwest, Southern California):** Rose mallow performs well in the warm end of its range with adequate moisture; light afternoon shade is beneficial in Zone 9 to prevent flower wilting. In arid western Zone 8-9 climates, consistent irrigation is non-negotiable. The 'Summerific' series offers improved heat tolerance and branching. 'Vintage Wine' and 'Plum Crazy' handle southern heat well. Japanese beetle pressure is typically lower in the deep South, but whitefly and hibiscus sawfly may be more significant.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Rain garden (excellent — one of the finest large natives for consistent wet spots)",
+      "pond edge",
+      "wet meadow",
+      "food forest moist zones",
+      "native wildlife garden",
+      "hummingbird garden",
+      "summer focal point"
+    ],
+    "designPlacement": "This plant demands a site with consistent moisture — the first and non-negotiable criterion. The scale of the flowers (8-12\" diameter) makes it a natural focal point; position it where the blooms can be seen from a primary vantage point — a porch, a garden path, or a view across a pond edge. It is not a subtle background plant. Pair with ostrich fern for a classic native wet-meadow combination. The late emergence (late May to early June depending on zone) means early-season companions — spring bulbs, ferns — can fill the visual gap before the hibiscus takes over in summer. In arid western climates, site near water features or irrigated beds. In all regions, full sun is strongly preferred for maximum bloom.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hibiscus_moscheutos",
+    "inaturalist": "https://www.inaturalist.org/taxa/82317-Hibiscus-moscheutos",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=282590"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Hibiscus moscheutos is native to Pennsylvania; found in wet habitats statewide including freshwater marshes, pond margins, and wet meadows; a true regional native",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or the DCNR invasive species list; no regulatory concerns",
+      "drainage": "The Hegins red clay is a strong match for this plant; the compacted clay with drainage issues after rain creates exactly the kind of moist-to-wet conditions rose mallow prefers; in-ground planting is appropriate without raised beds; no clay amendment is needed — the moisture retention of the red clay is a benefit here, not a problem; site in any low spot or area where water pools after rain",
+      "soil": "Hegins red clay is well-suited for rose mallow without amendment; the moisture-retentive character of the clay matches the plant's wetland origins; if planting in a drier area of the property, incorporate organic matter to improve water retention rather than to improve drainage",
+      "cultivarNotes": "'Lord Baltimore' is the premier recommendation — the deep red flowers are exceptional for hummingbirds and bumblebees and the plant is vigorous and proven in the region; for compact spaces, 'Luna' series is the best available option at most regional garden centers. The straight species is ideal for any rain garden or naturalistic wet planting.",
+      "designPlacement": "Best suited to any consistently moist low point or rain garden zone on the property; would not be appropriate for the dry south-facing strip (Section C) without substantial irrigation infrastructure, nor for the north-facing street bed (Section A) where the 5' height limit and partial shade would both be problematic for large cultivars. The best placement is a moist area with full sun exposure and room for a 3-5' wide specimen — a low spot that collects water after rain is ideal given the clay drainage patterns on this property. If placed near the food forest zone, pair with ostrich fern and Joe-Pye weed for a native wet-meadow combination.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a significant concern for young transplants — plan for physical fencing or caging in the first two seasons until the woody crown is established and capable of regrowing from browse. Japanese beetle pressure will be heavy in July-August; daily hand-removal during beetle season is the primary maintenance task. The late emergence (typically late May in Zone 6a at this site) means the crown should be clearly marked in fall to prevent accidental disturbance during spring cleanup. The red clay soil with its drainage issues is actually advantageous for this species — the moisture retention matches the plant's wetland origins. Site in any low area where water pools after rain for best results without supplemental irrigation."
+    }
+  }
+}

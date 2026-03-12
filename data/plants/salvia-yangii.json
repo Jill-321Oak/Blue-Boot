@@ -1,0 +1,159 @@
+{
+  "id": "salvia-yangii",
+  "name": {
+    "commonName": [
+      "Russian Sage"
+    ],
+    "latinName": "Salvia yangii (syn. Perovskia atriplicifolia — the name still widely used in trade; reclassified into Salvia by molecular phylogenetics ca. 2017)",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Central Asia — Afghanistan, Pakistan, western Himalayas; not Russia despite the common name",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely cultivated as an ornamental across all lower 48 states; does not naturalize aggressively or escape cultivation in most regions."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Russian sage stays where planted and does not self-sow aggressively or spread by runners. Not listed on any state noxious weed list or the federal noxious weed list. Occasionally self-sows in ideal (dry, gravelly) conditions but seedlings are easily managed and rarely a concern."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "3-5' in bloom; woody base 12-18\"",
+    "spread": "2-4'; clump-forming, slightly spreading at the base over time",
+    "spacing": "24-36\"",
+    "growthRate": "Moderate; slow in year 1 while root system establishes; vigorous from year 2",
+    "timeToMaturity": "Full size and bloom by year 2-3",
+    "lifespan": "Long-lived; 10-20+ years; essentially permanent if sited correctly",
+    "deciduousEvergreen": "Herbaceous above ground but with a persistent woody base; stems die back partially in winter; the silver-white woody stems are persistent and ornamental through winter",
+    "winterInterest": "Good — the white, ghostly persistent woody stems are a distinctive winter feature; the entire plant framework is visible as a silver-white structure through winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 6-8+ hours; will not perform in shade; a defining requirement",
+    "water": "Low; excellent drought tolerance once established; one of the most drought-tolerant perennials for the northern garden. In the humid East, supplemental watering is rarely needed after establishment; in arid western climates, occasional deep watering during extreme drought is sufficient.",
+    "drainagePreference": {
+      "description": "Well-drained to dry; excellent drainage is critical — susceptible to crown rot and root rot in poorly-drained, wet, or waterlogged conditions. This is the primary siting constraint across all regions. Raised beds, berms, or slope plantings are strongly recommended in any garden with heavy or slow-draining soil.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor. Heavy clay with poor drainage is the single most common cause of Russian sage failure. Clay holds moisture around the crown and roots, promoting fatal root and crown rot. In clay-dominant soils (common across the eastern US, Midwest, and Pacific NW), amend heavily with coarse grit, perlite, or gravel to improve drainage, or plant on raised mounds/berms. Plants may survive in amended clay but will never thrive the way they do in sandy or gravelly soils. Raised beds with well-drained media are the most reliable approach in clay gardens."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates alkaline soil well; performs acceptably in mildly acidic soils common in the eastern US"
+    },
+    "texturePreference": "Lean to average, well-drained soil; thrives in sandy, gravelly, or rocky soils; tolerates poor, infertile conditions better than rich, moist ones. Does NOT perform in heavy, waterlogged, or compacted soil without amendment.",
+    "rootCharacter": "Woody base with deep fibrous roots; established plants are drought-tolerant because roots access subsoil moisture; non-invasive"
+  },
+  "bloom": {
+    "bloomTime": "July through October — one of the longest-blooming perennials; carries the border through late summer and fall when many other plants have finished",
+    "bloomDescription": "Long wispy panicles of tiny lavender-blue to violet flowers covering the entire plant; the overall effect is a long-lasting, airy cloud of blue-purple; silvery-white stems and leaves provide a high-contrast background for the blue flowers; the combination of silver foliage and blue flowers is one of the most distinctive color combinations in the perennial border",
+    "fragrance": "Strongly aromatic — sage-camphor-herbaceous scent from the foliage; less pleasant than lavender to many people but characteristic and noticeable; a genuine olfactory presence in the garden",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding pollinator plant — bees (especially bumblebees and honeybees) work Russian sage intensively throughout its long bloom season; also butterflies"
+  },
+  "yield": {
+    "edibleParts": "Not used for food",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Traditional use in Central Asian folk medicine as a digestive and fever remedy; not well-studied in Western herbalism; the volatile oils have some documented antimicrobial properties; primarily an ornamental plant in Western gardens",
+    "craftOtherYield": "Dried flower panicles and stems (excellent for dried arrangements — the silver-white stems and dried blue flowers are beautiful)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic; not commonly consumed; the aromatic oils may cause contact dermatitis in sensitive individuals",
+    "toxicityAnimals": "Generally considered safe; not a known toxin",
+    "allelopathy": "The aromatic volatile oils may have mild allelopathic effects on nearby small seedlings — maintain spacing",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover"
+    },
+    "roles": [
+      "Beauty (primary — outstanding long-blooming silver and blue display)",
+      "Insect Attractor (exceptional — extremely high pollinator value throughout its long season)",
+      "Pest Confuser (strongly aromatic foliage)",
+      "Drought Tolerant Ground Cover"
+    ],
+    "companionPlants": [
+      "Lavender (perfect companion — same light, drainage, and drought requirements; silver-blue color palette harmony; both attract pollinators intensely); echinacea; ornamental grasses; Nepeta; Salvia nemorosa; all share sun/drought tolerance"
+    ],
+    "antagonists": [
+      "Wet",
+      "heavy clay soils — incompatible with shaded or poorly-drained positions; unsuitable for moist conditions"
+    ],
+    "coppiceable": "Cut back hard each spring (to 6-12\" from the ground) before new growth emerges; this is the essential annual maintenance task for Russian sage; do NOT leave old stems standing — remove them to the woody base to stimulate vigorous new growth and maintain compact habit"
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional — one of the most bee-worked perennials through late summer; honeybees, bumblebees, and native bees all visit intensively), butterflies (monarchs, swallowtails, skippers, and others), beneficial insects",
+    "hostPlantFor": "Not a significant host plant for North American native Lepidoptera",
+    "nestingHabitat": "Persistent woody stems with hollow centers provide overwintering sites for small solitary bees if left standing through winter"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic; among the most reliably deer-deterrent perennials available; rarely if ever browsed even under heavy deer pressure. The pungent sage-camphor oils make this plant unpalatable to deer across all regions where it is grown."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt and maritime salt spray; recovers from incidental exposure; suitable for plantings within the salt splash zone of roads or coastal areas"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Outstanding — once established, one of the most reliably drought-tolerant perennials for any border; deep fibrous roots access subsoil moisture; thrives on neglect in well-drained soil"
+    },
+    "other": "Heat tolerant; rabbit resistant; wind tolerant (the flexible stems bend rather than break); tolerates poor and infertile soil; essentially the perfect \"plant it and forget it\" perennial when sited correctly in full sun and well-drained soil"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low (with correct siting)",
+    "pruningNotes": "The single most important maintenance task: cut back to 6-12\" from the ground each spring (late March-April in Zone 6; adjust timing by zone — earlier in Zone 8+, later in Zone 4-5) before new growth emerges; this removes old stems, stimulates compact bushy regrowth, and prevents the legginess that develops if old stems are left. Cut with sharp shears or loppers at the woody base. If not cut back, the plant becomes increasingly open and floppy. Note: MBG still lists this plant as Perovskia atriplicifolia — both names remain in common use in horticulture despite the taxonomic reclassification.",
+    "propagationMethods": [
+      "Stem cuttings (softwood or semi-hardwood in summer — root readily)",
+      "division (possible in spring — tap-rooted, so take care)",
+      "seed (slow; named cultivars may not come true)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars offer improvements in height and habit across all zones. **'Blue Spire'** (classic — 4-5', deeply cut leaves, very fine-textured appearance, excellent blue color; the standard choice for mid-border in Zone 4-9). **'Little Spire'** (compact — 2-3', same appearance in a smaller package; excellent for front of border, height-limited beds, and smaller gardens; performs well Zone 4-9). **'Lacey Blue'** (very compact 18-24\", early-blooming, Zone 4-9; ideal where space is tight or for container plantings in warmer zones). **'Blue Steel'** (upright, sturdy — less floppy than 'Blue Spire', good for exposed or windy positions across all zones). **Zone 3-5:** All named cultivars perform; 'Blue Spire' and 'Little Spire' are the most widely proven; cut-back timing is later (mid-April to early May). **Zone 6-7:** The sweet spot for Russian sage — all cultivars thrive; this is where the plant is most vigorous and longest-lived. **Zone 8-9:** Russian sage performs well but may bloom slightly shorter; ensure excellent drainage as summer humidity and rain increase rot risk; 'Lacey Blue' and 'Little Spire' are good choices for their compact habit in heat.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Perennial border (mid to back)",
+      "fragrance garden",
+      "Mediterranean-style planting",
+      "pollinator garden",
+      "drought-tolerant border",
+      "rock garden"
+    ],
+    "designPlacement": "South- or west-facing positions in full sun with excellent drainage. Russian sage is a natural fit for warm, dry microclimates — Mediterranean-style borders, gravel gardens, rock gardens, and sunny slopes. Place mid to back of border depending on cultivar height. Pairs beautifully with lavender, echinacea, ornamental grasses, and other drought-tolerant perennials. The silver-blue foliage and long bloom season (July-October) fill the late-summer gap when many spring and early-summer perennials have finished. Do NOT place in shaded, north-facing, or poorly-drained positions — insufficient sun and drainage will cause failure. The fragrance is best appreciated near seating areas, patios, or paths.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvia_yangii",
+    "inaturalist": "https://www.inaturalist.org/taxa/941713-Salvia-yangii",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e540 (listed as Perovskia atriplicifolia — MBG has not updated to Salvia yangii)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — Central Asian origin; not native to Pennsylvania or any part of North America.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concerns.",
+      "drainage": "The compacted red clay at the Hegins site is a serious constraint for Russian sage. In-ground planting in unamended foundation beds is not recommended — crown rot risk is high, especially after heavy rains when drainage stalls. If planted in-ground in Section C, incorporate a generous gravel/grit layer beneath and around the root zone, and mound the planting slightly above grade to shed water. Raised beds remove the clay constraint entirely and are the safest approach.",
+      "soil": "The red clay at Hegins requires substantial amendment (coarse grit, gravel, perlite) or raised bed planting. Do not plant directly into unamended clay — drainage failure is the primary kill mechanism for this species in clay gardens. Section C's south-facing aspect helps with surface drying but does not fix subsoil drainage.",
+      "cultivarNotes": "For the Hegins south-facing border (Section C) with a 5' height limit, 'Little Spire' or 'Lacey Blue' are preferred for reliable height management and compact habit; 'Blue Spire' may exceed the height limit or need staking in rich conditions.",
+      "designPlacement": "Section C (south-facing, warm/dry microclimate) — this is the ideal section for Russian sage at the Hegins property. The south aspect provides full sun and warm conditions that match the plant's Central Asian origins. Use 'Little Spire' or 'Lacey Blue' to stay within the 5' height limit. Pairs with lavender (also Section C) for a silver-blue fragrance border. Do NOT place in Section A (north-facing, partial shade, insufficient sun and drainage) or Section B (increasingly shaded by food forest).",
+      "siteObservations": "The compacted red clay is the primary challenge for this species at Hegins. Crown rot from poor drainage is the most likely failure mode — amend heavily with grit/gravel or use raised beds. Section C's south-facing aspect provides the necessary sun and warmth but does not fix subsoil clay drainage. The active deer pressure from the east wildlife corridor is not a concern for this plant — Russian sage is among the most reliably deer-proof perennials available. Cut back in late March to early April before new growth emerges."
+    }
+  }
+}

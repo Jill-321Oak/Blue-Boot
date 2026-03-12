@@ -1,0 +1,161 @@
+{
+  "id": "brassica-oleracea-capitata",
+  "name": {
+    "commonName": [
+      "Cabbage",
+      "Garden Cabbage",
+      "Headed Cabbage"
+    ],
+    "latinName": "Brassica oleracea var. capitata (syn. Brassica oleracea Capitata Group)",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Wild progenitors are native to coastal western and southern Europe (Atlantic and Mediterranean coasts); cultivated cabbage has no true wild form — it is a human creation derived from wild Brassica oleracea through centuries of selection; cultivated globally throughout the temperate world for at least 4,000 years",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; no wild or naturalized population; strictly a cultivated annual crop throughout all lower 48 states"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; cultivated annual that does not self-seed aggressively; bolt plants can scatter seed but are not an ecological spread concern in any region; no federal or state invasive listing exists for any lower 48 state"
+    },
+    "zone": {
+      "min": 2,
+      "max": 11,
+      "description": "2-11 as a cool-season annual; performs best where temperatures stay below 75°F during head development; mild-winter climates (Zones 8-11) can grow cabbage as a winter annual; cold-winter zones (2-6) rely on two main windows — spring and fall; warm-summer zones must time crops carefully to avoid summer heat"
+    }
+  },
+  "description": {
+    "height": "1-2' from soil to top of outer leaves; low, compact rosette in vegetative phase; inner leaves curl inward to form the head",
+    "spread": "1.5-2.5' depending on cultivar; large storage types may require 24\" of space",
+    "spacing": "12-18\" in rows 18-24\" apart for standard heads; 12\" spacing produces smaller, earlier heads and is acceptable for spring plantings where space is tight; wider spacing (18\") produces larger, denser heads better suited for storage",
+    "growthRate": "Moderate to fast once transplanted in cool weather; heads develop in 60-105 days from transplant depending on type; spring crops are often faster than fall crops due to juvenility and cooler establishment",
+    "timeToMaturity": "Early types: 60-70 days from transplant; mid-season: 75-85 days; storage/late types: 90-105 days",
+    "lifespan": "Annual in cultivation (biennial by nature — requires vernalization to flower, but grown entirely in the vegetative phase); bolting in the second year is rarely encountered in garden practice",
+    "deciduousEvergreen": "Annual — not applicable in the perennial sense; plants are harvested before any woody or persistent structure develops",
+    "winterInterest": "None; plants are harvested; fall storage types may persist under mulch in the garden into early winter but are a food crop, not an ornamental"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6+ hours required; cabbage will grow in part shade but head formation is significantly slower and heads are looser",
+    "water": "Medium to high — consistent, even moisture is the single most critical cultural requirement for quality heads; drought causes loose, open heads with poor texture; inconsistent watering (drought followed by heavy rain or irrigation) causes head splitting, the most common cabbage failure mode; the mechanism is rapid cell expansion in the inner head that outpaces the tensile capacity of the outer wrapper leaves, which then crack; once a head splits it quickly rots and must be harvested immediately; drip irrigation or consistent watering schedules are strongly preferred over boom-and-bust hand watering",
+    "drainagePreference": {
+      "description": "Well-drained but moisture-retentive; cabbage needs steady moisture without waterlogging; raised beds with good organic matter content are ideal",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Clay soils amended with compost are excellent for cabbage — cabbage is one of the most clay-tolerant brassicas; the firm structure of clay anchors the plant and supports compact head development; the moisture-retention of clay reduces splitting risk compared to fast-draining sandy soils, provided consistent watering is maintained; avoid waterlogged or hardpan clay without amendment or raised beds"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 6.8,
+      "description": "6.5-6.8 preferred; tolerates 6.0-7.5; higher pH (near 7.0-7.2) reduces clubroot (Plasmodiophora brassicae) infection risk, which is the most serious soil-borne disease of the brassica family; if clubroot has been an issue in a bed, lime to raise pH toward 7.0-7.2 and rotate away from brassicas for 3+ years"
+    },
+    "texturePreference": "Rich, loamy, consistently moist, well-drained soil is ideal; firm soil around the roots actively supports head development — loose, excessively sandy soils produce less dense heads; clay soils amended with compost are excellent for cabbage; do not over-till or leave soil excessively airy before transplanting",
+    "rootCharacter": "Shallow, fibrous root system concentrated in the top 12-18\" of soil; roots are extensive horizontally but not deep; shallow roots mean the plant responds quickly to both drought stress and moisture restoration; mulching is important to protect these roots from temperature swings and moisture loss; do not cultivate deeply around established plants"
+  },
+  "bloom": {
+    "bloomTime": "Year 2 (if overwintered and allowed to bolt); in normal annual cultivation the plant never reaches flowering — harvest occurs entirely in the vegetative phase; if a spring plant is left in the ground through summer heat it may bolt and send up a flower stalk in midsummer",
+    "bloomDescription": "Tall branching flower stalks (to 3-4') bearing clusters of typical brassica flowers — four-petaled, bright yellow, in terminal racemes; the classic cross-shaped (cruciferous) flower that gives the family its older name; quite attractive if seen, but not the garden goal",
+    "fragrance": "Slight honey-mustard scent on the flowers; the foliage and heads have the characteristic sulfurous brassica scent when cut or cooked",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated (bees primarily); cross-pollination between varieties is common and relevant if saving seed; not relevant for the edible crop"
+  },
+  "yield": {
+    "edibleParts": "The mature head — the dense, tightly wrapped ball of inner leaves that forms the edible portion; outer wrapper leaves are edible but coarser; young spring leaves before heading can be harvested as loose leaf greens in a pinch; the entire plant above ground is technically edible, but the head is the crop",
+    "harvestSeason": "SPRING CROP: transplanted March-April (adjust for local last frost date), harvest 60-70 days later once heads feel firm and solid when squeezed; harvest promptly once firm, as mature heads will split within days of reaching full size, especially after rain. FALL CROP: transplant approximately 90-100 days before first fall frost; fall-harvested heads benefit from light frost exposure — flavor sweetens as starches convert to sugars below 40°F; fall crops are the better keeper and are preferred for storage and sauerkraut. SPLITTING PREVENTION: when a head is mature but you are not ready to harvest, twist the entire plant a half-turn in the soil to break some feeder roots, or cut a few roots with a spade; this reduces water uptake and slows the surge of cellular expansion that causes splitting; useful for delaying harvest by 1-2 weeks without loss",
+    "medicinalUses": "Historically significant as a winter source of vitamin C — cabbage (especially fermented) prevented scurvy through European winters for centuries before citrus was widely available; raw cabbage juice has a long folk medicine history for stomach ulcers (anti-inflammatory glucosinolate compounds); cooked cabbage loses most vitamin C but retains fiber and minerals; fermented cabbage (sauerkraut, kimchi) has probiotic value and is significantly more bioavailable than raw; not a primary medicinal plant in modern herbalism but historically one of the most important cultivated vegetables for human health",
+    "craftOtherYield": "Sauerkraut and kimchi (lacto-fermented preparations) are among the most important traditional food preservation methods in European and Korean traditions; making sauerkraut from a fall harvest of storage-type cabbage extends the crop's nutritional value through the winter months with minimal equipment; coleslaw, braised cabbage, stuffed cabbage rolls, soups, and stews; storage heads keep 3-5 months in a cool cellar (32-40°F with high humidity) and are a genuine food security crop"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; entirely safe; members of some dietary communities monitor crucifer intake due to goitrogenic compounds (glucosinolates can mildly affect thyroid function in very large quantities), but this is not a concern at normal dietary levels",
+    "toxicityAnimals": "Cabbage is generally non-toxic to dogs and cats in moderate quantities; large amounts can cause gas and digestive upset; not a significant concern for incidental garden access",
+    "allelopathy": "None significant; brassicas produce glucosinolates that may mildly inhibit germination of some seeds in close proximity, but this is not a meaningful concern at garden scale",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (low annual groundcover during the growing season)"
+    },
+    "roles": [
+      "Annual Vegetable Crop (primary)",
+      "Soil Occupier (dense canopy suppresses weeds effectively once established)",
+      "Cool-Season Gap Filler (occupies beds in spring and fall when most summer crops are absent)",
+      "Food Security Crop (storage-type heads, combined with fermentation, provide winter food with no refrigeration)",
+      "Nitrogen Scavenger (shallow roots efficiently mine available nitrogen in the top soil layer)"
+    ],
+    "companionPlants": [
+      "Dill (traditional companion; may deter cabbage worms; avoid mature dill which can inhibit brassicas — use young plants or allow dill to self-seed nearby rather than in the same bed)",
+      "Chamomile (traditional; said to improve flavor)",
+      "Celery and celeriac (compatible neighbors; may confuse pest insects with strong scent)",
+      "Onions and other alliums (strong scent deters some cabbage pests)",
+      "Nasturtiums (trap crop for aphids — plant at the bed edge to draw aphids away from cabbage)",
+      "Thyme and sage (aromatic herbs as perimeter plantings; modest pest deterrence)",
+      "Marigolds (Tagetes — deterrence for some soil pests)",
+      "Comfrey (chop-and-drop mulch at bed edge provides fertility boost without competing)"
+    ],
+    "antagonists": [
+      "Strawberries (traditionally antagonistic to all brassicas — avoid planting together); Pole beans and other tall legumes (shade competition); Fennel (allelopathic to most vegetables; keep fennel well away from vegetable beds generally); do not plant brassicas in the same bed more than once every 3-4 years to prevent soil-borne disease buildup (clubroot, black rot, white rot)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Pollinators visit bolted plants (yellow cruciferous flowers are attractive to bees and small beneficial insects); in practice, garden cabbages are harvested before flowering",
+    "hostPlantFor": "Cabbage white butterfly (Pieris rapae) and imported cabbageworm are strongly associated with all Brassica species; cabbage loopers (Trichoplusia ni) use brassicas as a primary host; diamondback moth (Plutella xylostella) is a secondary pest; these are the primary insect pest complex for this crop; Pieris rapae is a European introduction present throughout all lower 48 states; their presence in any US garden is certain and management is required",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — heavily browsed throughout the lower 48 states; deer will eat cabbage plants to the ground at any stage from seedling through mature head; a single deer visit can eliminate an entire planting; in any region with deer pressure, fencing or row cover is required, not optional; floating row cover supported on hoops is the most efficient solution as it simultaneously excludes deer and cabbage worm moths"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; road salt is not typically a concern for vegetable beds set back from roads"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — drought causes immediate quality decline (loose heads, bitter flavor, bolting in spring heat); shallow root system has limited drought buffering capacity; do not allow to wilt; consistent moisture is non-negotiable for quality production"
+    },
+    "other": "FROST TOLERANCE is a major asset — cabbage tolerates hard frosts down to approximately 20°F (-7°C) once hardened off; young transplants are cold-sensitive until acclimated; mature heads survive repeated light frosts with improved flavor; fall crops can be left in the garden under a light straw mulch well into late fall, extending the fresh harvest window in most lower 48 climates. HEAT SENSITIVITY is the primary limitation — consistent temperatures above 80°F cause bolting, tip burn, and failure to head; spring crops must be timed to complete heading before summer heat arrives; this is a critical planning constraint in Zones 6-8 where summer heat arrives quickly. CLUBROOT (Plasmodiophora brassicae) persists in soil for 20+ years; practice strict 3-4 year brassica crop rotation regardless of region; do not move soil from infected beds"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Moderate — requires attention to watering consistency, pest monitoring, and timely harvest; not difficult but not set-and-forget; the primary failure modes (splitting, cabbage worms, drought stress) are all preventable with active management; spring crops are faster and somewhat easier; fall crops are larger, slower, and often more rewarding for storage",
+    "pruningNotes": "Remove outer leaves that show significant caterpillar damage or disease; this improves air circulation and removes pest eggs before they hatch. Remove any yellow or senescent outer leaves. If bolting occurs (elongating central stalk in spring heat), harvest immediately — a bolting head will not recover. Monitor heads weekly once they begin to feel firm; harvest on schedule rather than waiting for an arbitrary calendar date. If row cover is used (recommended), remove it briefly for monitoring and replace promptly.",
+    "propagationMethods": [
+      "Direct seeding (possible for fall crops — sow seed ¼\" deep directly in the bed approximately 90-100 days before first fall frost; thin to final spacing); Starting from transplants (strongly preferred for spring crops — start indoors 6-8 weeks before transplant date; transplant after hardening off; transplants give a head start over direct-seeded plants); Commercial transplants (widely available at garden centers in early spring — a practical option for small plantings); Seed saving (possible but requires isolation from other Brassica oleracea cultivars to prevent crossing; allow one plant to bolt and set seed in year 2; not commonly practiced in home gardens)"
+    ]
+  },
+  "cultivarNotes": "Cabbage cultivar selection determines head type, days to maturity, and suitability for storage or fresh use. Four main head categories apply across the lower 48 states; zone-specific notes follow each.\n**GREEN SMOOTH CABBAGE** — The standard kitchen cabbage. **'Golden Acre'** is the classic early type (65 days from transplant); small, round, dense 3-4 lb heads; excellent for spring planting in Zones 4-7 where the goal is finishing before summer heat. **'Stonehead'** (AAS winner) is slightly later (67-70 days); very dense, crack-resistant heads; strong disease resistance; reliable across Zones 4-9. **'Copenhagen Market'** is a reliable mid-season open-pollinated heirloom (70-75 days); round, 5-7 lb heads; good flavor; suited to spring or fall planting across most zones. **'Bartolo'** and **'Storage #4'** are late storage types (90-100+ days); very dense, compact heads; bred specifically for cellar storage and sauerkraut; best planted for fall harvest in Zones 4-7.\n**RED CABBAGE** — Higher in anthocyanins; excellent raw in slaws, pickled, or braised; slower to mature than green types. **'Red Acre'** is the standard early red (76 days); small to medium heads; reliable across all major growing zones. **'Kalibos'** is a distinctive oxheart-shaped red variety (85 days); elongated conical head with outstanding flavor and sweetness; excellent both fresh and cooked; a strong choice for fall planting in Zones 5-7. **'Ruby Perfection'** is an F1 hybrid red (80 days); very uniform 3-4 lb heads; crack-resistant; one of the best reds for consistent production in any zone.\n**SAVOY CABBAGE** — Characterized by crinkled, blistered leaves and a looser head structure; milder, more tender, and sweeter than smooth cabbage; the best choice for fresh eating and light cooking; does not store as long as smooth types. **'Savoy Queen'** (85 days) is the benchmark savoy for home gardens — reliable, productive, excellent flavor; cold-hardy with improved frost tolerance; suited to fall planting in Zones 4-7. **'Alcosa'** (72 days) is an earlier savoy well suited to fall planting where the season is shorter.\n**NAPA / CHINESE CABBAGE** — Note: Napa cabbage (Brassica rapa subsp. pekinensis) is a different species entirely and is not a variety of Brassica oleracea; it has its own cultural requirements, is more bolt-prone in spring, and is best grown as a fall crop; it will be profiled separately.\n**ZONE BAND GUIDANCE:**\n- Zones 3-5: Focus on early green types (Golden Acre, Stonehead) for spring; use mid-season types for fall; fall window is shorter — prioritize 70-85 day varieties for fall\n- Zones 6-7: Two reliable windows; spring with early types, fall with mid-season and storage types; widest cultivar selection applies\n- Zones 8-9: Spring window is short and must be very early (February-March transplants); fall/winter crops (October-February) are more reliable; savoy types perform well in mild winters\n- Zones 9-11: Grown primarily as a winter annual (fall through spring); summer growing is not feasible; focus on fall-planted crops maturing December-March",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds for both spring and fall crops; dedicated vegetable bed in full sun with deer exclusion or row cover; in-ground growing where soil drainage is adequate and deer pressure is manageable"
+    ],
+    "designPlacement": "Cabbage belongs in the main vegetable growing area in full sun with deer exclusion in place. Cabbage's low profile (1-2') means it does not shade neighboring plants significantly and can be grown near taller crops without conflict. Do not plant in ornamental borders — the plant is utilitarian in appearance and draws heavy pest pressure. A permanent row cover hoop system over the cabbage bed addresses deer exclusion, cabbage worm prevention, and early spring frost protection simultaneously, and is the single most cost-effective infrastructure investment for this crop.",
+    "acquisitionStatus": "Not yet acquired — seeds or transplants needed\nPennsylvania — Hegins Site Observations: Zone 6a Hegins is excellent cabbage country — the climate provides two reliable growing windows, and fall frosts arrive before truly hard freezes, allowing the classic late-October to November harvest window that produces the best storage heads. The clay soil is a genuine asset for cabbage (unlike many vegetables): firm clay subsoil supports root anchorage and head development, and the moisture-retention of clay reduces splitting risk compared to fast-draining sandy soils, provided consistent watering is maintained. Amend raised beds with compost for fertility and drainage balance. The deer pressure at this site makes row cover or fencing non-negotiable — cabbage is one of the most heavily browsed vegetables and will be lost entirely without protection. Purchase seed in late January for February indoor starts (spring crop) and again in June for the fall succession. A 4' x 8' bed can produce 8-12 spring heads and 6-8 fall heads per season — more than sufficient for fresh eating, fermentation, and short-term storage for a household."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cabbage",
+    "inaturalist": "https://www.inaturalist.org/taxa/54516-Brassica-oleracea (parent species — Brassica oleracea; iNaturalist tracks wild taxa, not cultivar groups)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261916&isprofile=1&basic=Brassica+oleracea"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; not naturalized or invasive",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; no PNDI or PA-DCNR concern",
+      "drainage": "Hegins red clay is a genuine asset for cabbage once amended; raised vegetable beds filled with compost-amended soil are the preferred setup; native clay subsoil supports root anchorage beneath beds; do not plant directly into unamended compacted clay — head formation and root development will be poor",
+      "soil": "Hegins red clay is compacted and construction-disturbed; grow cabbage in raised beds with compost-enriched fill rather than native soil; amend each season with finished compost to maintain fertility and structure; the native clay beneath the beds improves moisture retention — a benefit for cabbage — but direct in-ground planting in unamended clay is not recommended",
+      "cultivarNotes": "For spring planting, 'Golden Acre' or 'Stonehead' (fast, reliable, ready before summer heat). For fall planting and storage, 'Stonehead', 'Kalibos' (red), or 'Savoy Queen'; add a storage type like 'Storage #4' if sauerkraut production is the goal. Spring transplants go out late March to early April after hardening off; fall transplants go out mid-July for October-November harvest.",
+      "designPlacement": "Raised vegetable beds are the primary placement — cabbage fits well in a 4' raised bed, planted at 15-18\" spacing. The two-crop-per-season model maximizes use of the beds: spring cabbage finishes by June, the bed is refreshed with compost, and fall transplants go in by mid-July. Do NOT place in Section A (north-facing, partial shade, ornamental focus) or Section C (wrong aesthetic context for large-headed brassicas). Section B (garage strip) could accommodate 2-3 plants as a small supplementary planting but is better reserved for herbs and perennial kitchen crops. A permanent row cover hoop structure over the cabbage bed is the recommended infrastructure — it resolves deer exclusion, cabbage worm pressure, and spring frost in a single installation.",
+      "siteObservations": null
+    }
+  }
+}

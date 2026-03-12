@@ -1,0 +1,161 @@
+{
+  "id": "satureja-hortensis",
+  "name": {
+    "commonName": [
+      "Summer Savory"
+    ],
+    "latinName": "Satureja hortensis",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern Mediterranean and western Asia; native to coastal and inland areas of the Balkans, Turkey, and the Caucasus region; cultivated since antiquity throughout Europe and widely naturalized in temperate gardens worldwide",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced as a culinary herb and occasionally naturalized in disturbed ground and garden margins, but not established as a persistent wild population in any US region; treated as an annual garden plant throughout the lower 48"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not listed on any US state noxious weed list or federal invasive species registry; self-seeds modestly and may produce scattered volunteers the following year, but does not establish aggressively, spread beyond the immediate planting area, or form naturalized colonies; easily managed by routine garden cleanup"
+    },
+    "zone": {
+      "min": 3,
+      "max": 5,
+      "description": "Grown as a warm-season annual in all zones; not frost-hardy; sow after last frost when soil has warmed to at least 60°F; in northern zones (3–5), the shorter season means starting indoors is advisable; in zones 6–8, direct sowing after last frost gives a full-season harvest; in zones 9+, can be grown as a cool-season annual sown in fall or early spring"
+    }
+  },
+  "description": {
+    "height": "12-18\"; upright, branching annual herb with a somewhat airy, open structure; taller and less compact than its perennial relative Winter Savory (Satureja montana)",
+    "spread": "8-12\"; moderately branching; does not spread by root",
+    "spacing": "9-12\"",
+    "growthRate": "Fast; germinates quickly in warm soil and reaches harvestable size within 6-8 weeks of sowing; completes its full life cycle — germination through seed set — within a single growing season",
+    "timeToMaturity": "Harvestable from early summer; full productivity within 6-8 weeks of direct sowing; at its best in the weeks just before and during flowering, when essential oil content peaks",
+    "lifespan": "Annual; completes its life cycle in a single season; dies at first hard frost; may self-seed modestly to produce volunteers the following spring, but should not be relied upon for continuity — resow annually",
+    "deciduousEvergreen": "Annual; no winter presence; the plant dies with the first killing frost; harvest and dry the remaining foliage before frost arrives",
+    "winterInterest": "None; annual growth habit means the plant is entirely absent in winter; contrast with Winter Savory (Satureja montana), which is semi-evergreen and maintains a woody presence through the cold season"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; minimum 6 hours; aromatic intensity — like all Mediterranean culinary herbs — is directly tied to sun exposure; plants grown in shade or partial shade produce less essential oil and noticeably weaker flavor; in hot-summer regions (Zone 8+), light afternoon shade is tolerable but not beneficial",
+    "water": "Low to moderate; drought tolerant once established; keep evenly moist during germination and establishment; once growing actively, reduce watering — overwatering dilutes the essential oils and can cause stem rot; does not tolerate consistently wet soil; in arid western climates, moderate supplemental irrigation is needed to sustain production through the season",
+    "drainagePreference": {
+      "description": "Well-drained; as a Mediterranean annual, Summer Savory performs best in fast-draining soil; persistently wet or waterlogged soil causes stem base rot and shortened productive life; in any heavy soil, amend the planting area with sharp sand or perlite, or plant in a raised mound to improve drainage; while more forgiving of brief moisture than the perennial species, standing water is fatal",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate; heavy clay holds too much moisture around the shallow root zone, increasing risk of stem rot and root suffocation; can be grown successfully in amended clay where sharp sand, perlite, or coarse organic matter is incorporated into the top 6\" to break up the clay matrix and improve drainage; raised beds or mounded rows eliminate the clay issue entirely; unamended dense clay is not suitable"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates slightly alkaline conditions but performs best in near-neutral to slightly acidic soil; adaptable across the pH range found in most US garden soils"
+    },
+    "texturePreference": "Lean to average; like all savories, Summer Savory performs best in low-fertility, well-drained soil; excess nitrogen produces lush, watery growth with diluted flavor and reduced essential oil concentration; do not heavily fertilize; a light initial amendment with compost is sufficient; sandy loam is ideal",
+    "rootCharacter": "Fibrous, shallow taproot; does not compete aggressively with neighboring plants; stays within its modest footprint for the season"
+  },
+  "bloom": {
+    "bloomTime": "July-September; begins blooming in midsummer and continues through frost if regularly harvested; harvesting the stem tips delays the onset of heavy flowering and extends the productive leafy harvest window",
+    "bloomDescription": "Small, delicate tubular flowers in white to pale lilac-pink, borne in whorled clusters along the upper portions of the stems; individually tiny, collectively giving the plant a soft, airy appearance when in full bloom; the flowers are attractive at close range and give the plant a refined, herb-garden character during bloom",
+    "fragrance": "Aromatic foliage with a pleasant, peppery-savory scent that is distinctly milder and sweeter than Winter Savory; often described as thyme-like with a gentle pepper note and a slight sweetness; the fragrance is present throughout the growing season but intensifies with heat and at bud/early bloom stage; noticeably less resinous and piney than S. montana — where winter savory is bold and assertive, summer savory is more approachable and delicate",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; actively visited by bees, hoverflies, and small native bees during bloom; the tiny flowers are particularly attractive to smaller bee species and beneficial parasitic wasps; a useful midsummer to late-summer nectar source in the herb garden"
+  },
+  "yield": {
+    "edibleParts": "Leaves and tender stems, used fresh or dried; Summer Savory is the milder, more delicate of the two savory species — its flavor is peppery and herbal with a sweetness that Winter Savory lacks; it is better suited to fresh and finishing uses than the perennial species, which is stronger, more resinous, and more suited to long-cooked dishes; for a bold herb in a slow-cooked stew, reach for S. montana; for a fresh green savory scattered over a salad or stirred into a dish at the end, S. hortensis is the choice; the two complement each other rather than duplicate — growing both provides full seasonal coverage and greater culinary range; the traditional culinary pairing is beans in all forms — green beans, snap beans, dry beans, bean soups — and Summer Savory's association with beans is so well established that the German word for savory is \"Bohnenkraut,\" meaning \"bean herb\"; this pairing is not merely cultural tradition but practical: savory is carminative, reducing the gas-producing effects of legumes; beyond beans, Summer Savory pairs well with lamb, pork, poultry stuffing, eggs, and fresh salads, and is a key herb in herbes de Provence blends alongside thyme, rosemary, oregano, and lavender",
+    "harvestSeason": "Harvest fresh leaves and stem tips throughout the growing season, beginning when plants are 6-8\" tall; harvest most heavily in the period just before and during early flowering, when essential oil content peaks; clip stem tips regularly to delay full flowering and extend the fresh harvest; for drying, cut stems back by half at the bud stage and tie in small bunches to air-dry in a warm, airy location; in cold-winter zones, harvest and dry a substantial quantity in late summer before frost arrives — dried summer savory provides the winter pantry supply",
+    "medicinalUses": "Carminative — Summer Savory has a traditional and practically well-supported role as a digestive herb, reducing flatulence and bloating; the \"bean herb\" designation reflects both culinary tradition and the practical observation that dishes containing savory are better tolerated digestively; contains thymol and carvacrol, the same antimicrobial volatile oils found in thyme, oregano, and Winter Savory, with documented antibacterial and antifungal properties; used traditionally as a digestive tonic, mild antiseptic, and general restorative; milder in medicinal intensity than Winter Savory but still a genuinely useful kitchen medicine; fresh leaves rubbed on insect stings have the same traditional use as with S. montana",
+    "craftOtherYield": "Dried culinary herb — one of the best herbs for air-drying, retaining flavor well; suitable for inclusion in herb blends and sachets; the dried stems can be used in small quantities in herb wreaths or craft arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; fully safe as a culinary herb in all normal quantities; concentrated essential oil should be used diluted and is not intended for internal use in pure form",
+    "toxicityAnimals": "Generally safe in culinary quantities; large amounts may cause mild gastrointestinal upset in dogs and cats; concentrated essential oil should not be applied to or used around animals",
+    "allelopathy": "Mild; the volatile oils present in the foliage may have minor inhibitory effects on germinating seeds in immediate contact with the plant; space seedlings appropriately; no meaningful allelopathic concern with established neighboring plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer; annual"
+    },
+    "roles": [
+      "Food (culinary herb — primary, \"bean herb\")",
+      "Medicinal (carminative, digestive, antimicrobial)",
+      "Insect Attractor (midsummer to fall pollinator resource, especially for small bees and beneficial wasps)",
+      "Pest Confuser (aromatic foliage deters browsing insects and deer)",
+      "Bean Companion (traditional intercrop — may deter bean beetles; carminative benefit in the dish reinforces the culinary-garden integration)",
+      "Dynamic Accumulator (minor; shallow roots; modest organic matter contribution at season's end as the plant dies back)"
+    ],
+    "companionPlants": [
+      "Beans in all forms — this is the primary",
+      "defining companion relationship for Summer Savory; interplant directly in bean rows or around bean beds; also compatible with the broader Mediterranean herb guild: thyme",
+      "oregano",
+      "rosemary",
+      "lavender; onion family plants are good neighbors; compatible with most annual vegetables in the kitchen garden; good alongside tomatoes",
+      "brassicas",
+      "and squash"
+    ],
+    "antagonists": [
+      "No strong antagonists; avoid pairing with moisture-loving plants whose cultural requirements (wet soil, heavy fertility) conflict with savory's lean-and-dry preferences"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (particularly smaller native bees and honeybees during bloom), hoverflies, beneficial parasitic wasps, butterflies; a useful late-season nectar source as the plant continues blooming into September and beyond if regularly harvested",
+    "hostPlantFor": "No documented primary Lepidoptera host in the eastern US",
+    "nestingHabitat": "Minimal; the upright annual habit provides little structural value for nesting; the plant's value to wildlife is almost entirely through its flowers as a nectar source"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent; strongly aromatic foliage is reliably avoided by deer; the pungent volatile oils that make savory valuable in the kitchen also deter deer browsing consistently; as with the other aromatic Mediterranean herbs (oregano, thyme, Winter Savory), deer pose minimal risk; Summer Savory is among the more deer-safe annuals one can grow in a deer-pressured site"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt spray but is not a salt-adapted species; not typically planted in high-salt-exposure areas; recovers from light exposure without lasting damage"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established; more tolerant of brief dry spells than moisture-loving annuals; the Mediterranean character of the genus supports reasonable drought performance, though unlike perennial Winter Savory it is not as deeply drought-hardened; water during extended dry periods in summer to maintain production"
+    },
+    "other": "Tolerates lean, low-fertility soil well; heat tolerant — warm summer temperatures concentrate the essential oils and intensify flavor; does not tolerate frost; performs acceptably in humid climates but benefits from good air circulation to prevent fungal issues in high-humidity regions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low; Summer Savory is among the easiest kitchen herbs to grow; sow, water during establishment, harvest regularly, and dry before frost — those four tasks cover the full annual cycle",
+    "pruningNotes": "No formal pruning; tip-harvest regularly from midsummer onward to encourage branching and delay flowering; once flowering begins heavily, flavor remains acceptable but is at its peak at the bud stage; allow a few stems to go to seed at the end of the season if you want to encourage self-seeding for volunteer plants the following spring, though volunteers are unpredictable and resowing is more reliable; remove and compost all plant material after frost kills it — leaving dead stems in place offers no benefit",
+    "propagationMethods": [
+      "Seed only; direct sow in place after last frost when soil has warmed to at least 60°F; press seeds lightly into the soil surface — they need light to germinate; germination in 10-14 days in warm conditions; alternatively",
+      "start indoors 4-6 weeks before last frost in small cells; transplant after danger of frost has passed",
+      "hardening off for one week before planting out; direct sowing is generally simpler and very reliable given the fast growth rate; seed is inexpensive and widely available"
+    ]
+  },
+  "cultivarNotes": "Summer Savory is almost universally grown as the straight species — named cultivars are rare and not widely available in commerce. The standard Satureja hortensis found in any herb seed catalog is the appropriate choice across all zones. Seed quality and freshness matter more than cultivar selection; use fresh seed from a reputable source. Some suppliers offer \"compact\" or \"dwarf\" selections reaching 10-12\", which are marginally useful in tight spaces or containers but do not offer significant culinary advantage. In Zones 3-5, where the growing season is short, starting seed indoors is more important than cultivar selection — look for \"early\" or \"quick-maturing\" strains if available, though differences are marginal. In Zones 6-7, direct sowing the standard species after last frost gives a full, productive season with no cultivar-specific concerns. In Zones 8-10, Summer Savory can be grown as a cool-season annual sown in fall or late winter; heat-stressed plants bolt quickly, so timing matters more than cultivar choice. The key selection decision for any garden is not cultivar choice but species choice: Summer Savory (S. hortensis, annual) versus Winter Savory (S. montana, perennial). Both are profiled in this library. Summer Savory is the better fresh herb; Winter Savory is the better year-round garden investment. Growing both provides the full spectrum of culinary savory use across all seasons.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Kitchen herb garden",
+      "bean bed companion",
+      "annual herb border",
+      "container growing",
+      "fresh-use culinary herb",
+      "drying herb for winter pantry stock"
+    ],
+    "designPlacement": "Site in the sunniest available position in the kitchen herb zone or annual vegetable garden; aromatic intensity tracks directly with sun exposure, so avoid shaded positions. Excellent interplanted directly in bean rows as a traditional companion — the culinary and ecological logic of the pairing supports integration beyond a dedicated herb area. Does not compete with or crowd out established perennial herbs; its annual nature means it fills seasonal gaps without displacing permanent plantings. Works well in containers, raised beds, or in-ground plantings with adequate drainage. In heavy clay regions, prepare the planting area with sharp sand or perlite worked into the top 4-6\" before sowing, or use raised beds.",
+    "acquisitionStatus": "To source — seed is widely available from herb seed suppliers (Richters, Baker Creek, High Mowing, Johnny's, Strictly Medicinal); inexpensive and easy to find"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satureja_hortensis",
+    "inaturalist": "https://www.inaturalist.org/taxa/58460-Satureja-hortensis",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; non-native culinary annual; not naturalized in Pennsylvania woodlands, hedgerows, or disturbed ground",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — no concerns",
+      "drainage": "The red clay at Hegins requires amendment before direct sowing — work sharp sand or perlite into the top 4-6\" of the planting area to improve drainage; alternatively, plant in the raised vegetable beds where clay is not a factor; in-ground planting in Section B is workable with preparation but the raised beds are the path of least resistance for this annual",
+      "soil": "The native red clay soil at Hegins is workable with modest amendment — incorporate sand or perlite to lighten the texture; avoid over-amending with rich compost, which pushes growth at the expense of flavor; the raised vegetable beds offer ideal texture without modification",
+      "cultivarNotes": "The straight species direct-sown after mid-May is the standard and best approach for the Hegins site; no cultivar selection needed.",
+      "designPlacement": "Section B (garage kitchen strip) is the natural home — kitchen-adjacent, in the culinary herb zone with oregano, chives, lovage, lemon balm, comfrey, and the other productive herbs already planned or established there. Site in the sunniest portion of Section B available. Resow each spring as part of the annual herb garden reset. Consider growing alongside the bean plantings elsewhere on the property as a traditional intercrop companion.",
+      "siteObservations": "The red clay soil in Section B requires drainage amendment before direct sowing — sharp sand or perlite into the top 4-6\"; alternatively, sow into the raised vegetable beds where clay is not a factor. Deer pressure from the east wildlife corridor is not a concern for this plant — the aromatic foliage is reliably deer-resistant. The north-facing aspect of Section B means positioning toward the sunniest end of the strip is important to maximize essential oil production and flavor. The late-summer bulk harvest and drying session is an important annual task at this site — once frost arrives (typically mid-October in Zone 6a at this elevation), the plant is gone, and dried summer savory must supply the winter pantry."
+    }
+  }
+}

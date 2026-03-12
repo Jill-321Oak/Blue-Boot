@@ -1,0 +1,170 @@
+{
+  "id": "lavandula-phenomenal",
+  "name": {
+    "commonName": [
+      "Lavender ('Phenomenal' and 'Hidcote' cultivars)"
+    ],
+    "latinName": "Lavandula x intermedia 'Phenomenal' (lavandin — hybrid of L. angustifolia × L. latifolia); Lavandula angustifolia 'Hidcote' (English lavender)",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean region (parent species native to dry rocky hills of southern Europe)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely cultivated across all lower-48 states but does not naturalize significantly — lavender is not aggressive and rarely self-sows outside of cultivation. Established garden populations persist but do not spread into wild areas."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48. Not listed on any state noxious weed list or the USDA Federal Noxious Weed List. Lavender lacks the seed dispersal mechanisms and competitive growth habit that drive invasiveness; it requires well-drained, lean soil and does not colonize disturbed ground."
+    },
+    "zone": {
+      "min": 5,
+      "max": 8,
+      "description": "'Phenomenal' — Zone 5-8; 'Hidcote' — Zone 5-8 (one of the hardier English lavenders)"
+    }
+  },
+  "description": {
+    "height": "'Phenomenal' — 24-30\"; 'Hidcote' — 12-15\"",
+    "spread": "'Phenomenal' — 24-30\"; 'Hidcote' — 12-18\"",
+    "spacing": "18-24\" apart",
+    "growthRate": "Moderate; slow in first year as root system establishes",
+    "timeToMaturity": "Blooms first or second year; full size by year 3",
+    "lifespan": "5-10 years; woody plants that decline with age; best replaced every 8-10 years or rejuvenated by hard pruning before plants become too woody",
+    "deciduousEvergreen": "Semi-evergreen to evergreen; silver-grey foliage persists through winter in milder zones; some dieback in hard winters (Zone 5-6)",
+    "winterInterest": "Good — silver-grey foliage visible through winter; attractive low mound"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6 hours, 8+ preferred; will not thrive in shade or partial shade",
+    "water": "Low; drought tolerant once established; overwatering is a primary cause of failure",
+    "drainagePreference": {
+      "description": "Excellent drainage essential — lavender is highly susceptible to root rot and crown rot in poorly-drained soil. This is the single most important siting factor. Lavender requires sharp, well-drained soil and does NOT tolerate waterlogged conditions. Raised beds, mounded plantings, or gravel-amended soil are standard solutions in heavy-soil regions. South-facing slopes and warm microclimates are ideal.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to none. Heavy clay is the most common cause of lavender failure across the eastern US, Midwest, and Pacific Northwest. Clay holds moisture against the crown, promoting fatal root and crown rot — especially during cool, wet shoulder seasons (spring and fall). Lavender cannot be grown successfully in unamended clay. Required amendments: mix 50% coarse gravel or pea gravel into the planting area to a depth of 12-18\"; alternatively, build a raised bed with a fast-draining mix (equal parts coarse sand, gravel, and lean compost). Mounding the planting area 6-8\" above grade also improves survival. Even with amendment, clay-soil gardeners should expect shorter plant lifespans than those growing in naturally sandy or rocky soil."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 8,
+      "description": "6.5-8.0; tolerates alkaline soil; performs well in lean, low-fertility conditions"
+    },
+    "texturePreference": "Sandy loam, gritty/rocky soil preferred. Lavender thrives in lean, mineral soils with low organic matter. In any heavy soil (clay, silt-clay), heavy amendment with gravel and coarse sand is essential. Raised beds with a fast-draining mix are the most reliable approach for gardeners without naturally sandy or rocky ground.",
+    "rootCharacter": "Woody taproot with fibrous laterals; does not transplant well once established — site correctly from the start"
+  },
+  "bloom": {
+    "bloomTime": "'Phenomenal' — June-August (earlier and longer than many lavandins); 'Hidcote' — June-July",
+    "bloomDescription": "Densely-packed spikes of tiny violet-purple florets on upright stems rising 8-12\" above the foliage mound; 'Phenomenal' has very large, long spikes; 'Hidcote' has compact deep-violet spikes",
+    "fragrance": "Intensely fragrant — the definitive fragrance plant of temperate gardens; camphoraceous-sweet scent from both flowers and foliage; 'Phenomenal' has classic lavandin fragrance (stronger and slightly more camphoraceous than English lavender); 'Hidcote' has classic sweet English lavender fragrance",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Exceptional pollinator plant — one of the top plants for bees of all species; also butterflies; one of the most wildlife-productive plants per square foot in the border"
+  },
+  "yield": {
+    "edibleParts": "Flowers (culinary — lavender shortbread, lavender honey, lavender lemonade; use sparingly as flavor is intense); 'Hidcote' preferred for culinary use over lavandin cultivars",
+    "harvestSeason": "Harvest flower spikes just as buds begin to open for best fragrance and culinary quality",
+    "medicinalUses": "Anxiolytic and relaxing (aromatherapy, lavender pillows, lavender tea); topical antiseptic and burn treatment; lavender essential oil is one of the most widely used medicinal essential oils; well-documented for sleep support",
+    "craftOtherYield": "Essential oil (commercial lavender oil industry uses primarily lavandin — L. x intermedia types — for higher yield); dried flower bundles; sachets; potpourri; floral arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal",
+    "toxicityAnimals": "Generally safe; essential oil is concentrated and should not be applied directly to pets; ingestion of large quantities may cause GI upset in cats and dogs",
+    "allelopathy": "Some evidence of mild allelopathic effects on neighboring plants — maintain spacing as recommended",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground Cover / Herb"
+    },
+    "roles": [
+      "Beauty (primary)",
+      "Medicinal",
+      "Food (flowers)",
+      "Insect Attractor (outstanding pollinator plant)",
+      "Pest Confuser (aromatic foliage deters some pests)",
+      "Fragrance (primary fragrance plant for south-facing borders)"
+    ],
+    "companionPlants": [
+      "Salvia yangii (Russian sage) for complementary fragrance",
+      "late color",
+      "and similar growing conditions; Thymus serpyllum at path edge; roses (classic pairing — both need full sun and good drainage); Echinacea purpurea for summer color"
+    ],
+    "antagonists": [
+      "Wet",
+      "clay",
+      "or shaded conditions — these are not companions but site conditions that will kill lavender. Incompatible with north-facing",
+      "shaded",
+      "or poorly-drained positions. Does not perform well near high-nitrogen plants — lavender prefers lean soils."
+    ],
+    "coppiceable": "Shear lightly by one-third after bloom each year to maintain compact form. Do NOT cut into old woody stems — lavender does not regenerate from old wood. Annual light shearing is the key to longevity; neglected lavender becomes woody and open in the center."
+  },
+  "wildlife": {
+    "attracts": "Bees (exceptional — one of the most heavily worked plants in any garden; honeybees, bumblebees, and native bees all visit intensively), butterflies (excellent), beneficial insects",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera",
+    "nestingHabitat": "Dense mound provides some ground-level cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic; among the most reliably deer-deterrent perennials available; rarely browsed even under heavy pressure. Young transplants may occasionally be nibbled or trampled but established plants are consistently avoided. No fencing or deterrent sprays typically needed."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates coastal salt spray conditions; moderate road salt tolerance; recovers from incidental winter salt exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established"
+    },
+    "other": "Heat tolerant; performs best in warm, sunny, dry sites; excellent for south-facing exposures. Tolerates wind well. Humidity is a greater enemy than cold — high humidity combined with poor air circulation promotes fungal disease; ensure adequate spacing in humid-summer regions (Southeast, Gulf Coast, mid-Atlantic)."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low with correct siting; will fail without correct drainage and sun",
+    "pruningNotes": "Shear lightly by one-third immediately after bloom (late July/August). Do not cut below the green foliage into old grey woody stems — lavender cannot regenerate from old wood. An annual light shear extends the plant's life significantly. Cut back to 6-8\" in early spring if significant winter dieback occurred. Replace plants when they become too woody and open (every 7-10 years).",
+    "propagationMethods": [
+      "Stem cuttings (semi-hardwood in summer — root readily in well-drained medium)",
+      "division (difficult — taprooted; stem cuttings are far easier)",
+      "seed (variable; named cultivars do not come true from seed)"
+    ]
+  },
+  "cultivarNotes": "**'Phenomenal'** (Lavandula x intermedia): the most cold-hardy lavandin commercially available; rated Zone 5 without protection; exceptional longevity (7-10+ years reported); very large, long flower spikes; vigorous grower with excellent heat and humidity tolerance compared to other lavandins. First choice for gardeners in Zone 5-7 who want a large, reliable lavender with maximum winter hardiness. Also performs well in Zone 8 where humidity is not extreme. **'Hidcote'** (Lavandula angustifolia): compact (12-15\"), deep violet, sweet fragrance; the classic English lavender; Zone 5-8; preferred for culinary use and smaller spaces; best where a tidy, low plant is needed at border edges or along paths. English lavenders generally tolerate humidity less well than lavandins — southern and Gulf Coast gardeners (Zone 8+) should favor 'Phenomenal' or other lavandin types over English cultivars. **'Munstead'** (Lavandula angustifolia): another compact English lavender (Zone 4-8) — slightly hardier than 'Hidcote', slightly less deep violet; a good choice for Zone 4-5 gardeners who want an English lavender and need maximum cold hardiness. **'Grosso'** (Lavandula x intermedia): the commercial oil-production standard; very vigorous and fragrant; Zone 5-8; larger than 'Phenomenal' and less tidy — better for mass plantings and cutting gardens than formal borders. **Zone 3-5:** 'Munstead' for English lavender; 'Phenomenal' for lavandin. Both are reliable without winter protection in Zone 5; in Zone 3-4, only 'Munstead' is proven, and even then site in the warmest, most protected microclimate available. **Zone 6-7:** Full range of cultivars available; 'Phenomenal' + 'Hidcote' combination gives the best layered effect. **Zone 8+:** Favor lavandins ('Phenomenal', 'Grosso') over English types for humidity tolerance; in the arid West (Zone 8-9, low humidity), all cultivars perform well.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Fragrance border (primary)",
+      "pollinator garden",
+      "herb garden",
+      "Mediterranean-style bed",
+      "path edging",
+      "cutting garden"
+    ],
+    "designPlacement": "Site in the warmest, sunniest, best-drained position available — a south- or southwest-facing exposure is ideal. Place at the front or middle of borders where it receives unobstructed sun. Pair with other Mediterranean-climate plants that share its drainage and fertility requirements: Russian sage, echinacea, catmint, thyme, ornamental grasses. Do NOT place in north-facing, partially shaded, or poorly-drained positions — lavender will fail. In regions with heavy soil, raised beds or mounded plantings are essential. Allow good air circulation between plants to reduce fungal pressure in humid climates.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lavandula_angustifolia",
+    "inaturalist": "https://www.inaturalist.org/taxa/133395-Lavandula-angustifolia (parent species for 'Hidcote'; 'Phenomenal' is L. x intermedia — a hybrid)",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Phenomenal",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=364524"
+      },
+      {
+        "label": "Hidcote",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q830"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list.",
+      "drainage": "The Hegins site's red clay with compaction and drainage issues makes in-ground lavender planting high-risk without significant intervention. Recommended approach: build a raised mound or use a raised bed with a gravel-heavy, lean mix in Section C. Alternatively, excavate the planting hole to 18\" depth and backfill with a 50/50 gravel-sand mix. Avoid planting flush with the existing clay grade — crown rot is near-certain in wet springs. The south-facing aspect of Section C provides the warm, dry microclimate that partially compensates for the clay challenges.",
+      "soil": "The Hegins red clay requires full soil replacement in the planting zone — do not attempt to grow lavender in native soil even with amendment. Use a raised bed or mounded planting filled with a mix of coarse sand, pea gravel, and minimal compost (no more than 20% organic matter by volume). This mirrors the lean, rocky Mediterranean soils lavender evolved in.",
+      "cultivarNotes": "'Phenomenal' is the first choice for mass and height — its cold hardiness and humidity tolerance are ideal for the mid-Atlantic climate. Pair with 'Hidcote' at the border edge for a layered fragrance planting. Both are fully hardy in Zone 6a without winter protection.",
+      "designPlacement": "Section C (south-facing back porch border) — this is the correct and only suitable location for lavender at this site. The south-facing aspect provides the warm, dry microclimate lavender requires. Place at the front of the Section C border where full sun is maximized, alongside Russian sage and echinacea for a long-blooming summer display. Do NOT place in Section A (north-facing, partial shade, cold microclimate — lavender will fail there). Use raised mound or amended planting pocket to address clay drainage. Within the 5' height limit, 'Phenomenal' (24-30\") and 'Hidcote' (12-15\") both fit comfortably. The fragrance focus of Section C makes lavender a centerpiece species.",
+      "siteObservations": "The south-facing Section C microclimate is substantially warmer and drier than the north-facing Section A — this difference is critical for lavender survival at this site. The red clay soil requires full drainage intervention (raised mound or gravel-amended planting pocket); do not plant flush with existing grade. Deer pressure from the east wildlife corridor is not a concern for lavender — it is among the most reliably deer-proof perennials and can serve as a deterrent border plant near more vulnerable species. The semi-evergreen silver-grey foliage provides winter interest along the back porch, visible from the SE driveway approach. Monitor for crown rot during wet spring seasons — the clay subsoil may wick moisture upward even in amended planting pockets."
+    }
+  }
+}

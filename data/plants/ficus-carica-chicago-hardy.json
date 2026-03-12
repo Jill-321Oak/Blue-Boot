@@ -1,0 +1,159 @@
+{
+  "id": "ficus-carica-chicago-hardy",
+  "name": {
+    "commonName": [
+      "Hardy Fig",
+      "'Chicago Hardy' Fig"
+    ],
+    "latinName": "Ficus carica 'Chicago Hardy'",
+    "family": "Moraceae"
+  },
+  "range": {
+    "nativeRange": "Mediterranean and western Asia (parent species); 'Chicago Hardy' selected in the Chicago, IL area for exceptional cold hardiness",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Ficus carica is widely cultivated and occasionally naturalizes in warm-climate states (California, Gulf Coast, Southeast) but does not form wild populations in most of the country."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the lower 48. Ficus carica can self-sow in mild-winter areas (Zone 8+, particularly coastal California and the Gulf South), but it is not listed on any state noxious weed list and does not form monocultures or displace native vegetation. No regulatory concern anywhere in the US."
+    },
+    "zone": {
+      "min": 5,
+      "max": 6,
+      "description": "5b-10 with protection; 'Chicago Hardy' is widely considered the most reliably hardy fig for Zone 5-6 gardens; in Zone 8+ it grows as a permanent small tree with no winter protection needed"
+    }
+  },
+  "description": {
+    "height": "10-15' in warm climates (Zone 8+); in Zone 6-7, typically 6-10' or dies back to near the ground and regrows; in Zone 5, treat as a dieback perennial reaching 4-6' per season; with good winter protection in marginal zones, can maintain multi-year top growth to 8-10'",
+    "spread": "8-12'; wide-spreading habit",
+    "spacing": "8-10' from other plants",
+    "growthRate": "Fast (from root zone) — figs die back and resprout very rapidly from the roots after cold winters; in warm zones, steady moderate growth on permanent wood",
+    "timeToMaturity": "With top growth maintenance: first light crop in years 2-3; heavy production from year 4-5. If dying back to the ground each year: fruiting possible on first-year wood (breba crop limited; main crop reliable after established root system exists).",
+    "lifespan": "Essentially permanent — the root system is extremely cold-hardy; even if the top is killed, the roots survive and regenerate; once the root mass is established (3-5 years), the plant is reliable",
+    "deciduousEvergreen": "Deciduous — deeply lobed dramatic leaves; spectacular large tropical-looking foliage through summer; bare in winter",
+    "winterInterest": "Low — bare; the bold branching structure is somewhat ornamental in zones where top growth persists"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours; maximum sun and heat for fruit ripening; south-facing or west-facing exposure ideal in Zone 7 and colder; in Zone 9-10, tolerates light afternoon shade",
+    "water": "Medium; drought tolerant once established; reduce watering in late summer to encourage fruit ripening (water stress slightly improves sugar concentration in fruit); in arid western climates, regular deep watering is necessary during fruit development",
+    "drainagePreference": {
+      "description": "Well-drained preferred; figs tolerate average soil but are intolerant of waterlogged conditions, which cause root rot — this is the primary killer of fig trees in heavy-soil regions. Raised planting or slope siting helps in areas with slow-draining soil.",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate. Figs can grow in clay soil if drainage is improved, but unamended heavy clay with standing water will cause root rot, especially during winter dormancy when roots sit in cold saturated soil. In clay-soil regions (eastern US, Midwest, Pacific NW), amend the planting hole generously with coarse organic matter and gravel to break compaction and improve drainage. Raised mounds or bermed planting are effective. Once roots establish into surrounding clay, the plant tolerates it better — the critical period is years 1-3."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; tolerates slightly alkaline soil; in acidic clay regions, figs perform fine at pH 5.5-6.0 without amendment"
+    },
+    "texturePreference": "Adaptable; performs in average to lean soil; excess fertility reduces fruiting and promotes vegetative growth. Ideal is a well-drained loam or sandy loam. Heavy clay is workable with amendment. Sandy soils are excellent — figs are Mediterranean plants that naturally grow in rocky, well-drained substrate.",
+    "rootCharacter": "Extensive, aggressive root system that eventually spreads widely; do not plant near foundations, water pipes, or septic systems; roots can penetrate infrastructure"
+  },
+  "bloom": {
+    "bloomTime": "Not visible externally — figs have a unique reproductive structure (syconium) where tiny flowers bloom inside what becomes the fruit; essentially no traditional \"bloom\" display",
+    "bloomDescription": "The \"fig\" is botanically an inverted flower structure (syconium); pollination in the US is not required for 'Chicago Hardy' — it sets fruit parthenocarpically (without pollination); the specialized fig wasp (Blastophaga psenes) required by some Mediterranean figs is not needed",
+    "fragrance": "The foliage has a distinctive strong fig-leaf scent when crushed; fresh ripe figs are fragrant; the milky sap is strongly scented",
+    "flowerSex": "Technically the flowers are enclosed within the syconium; 'Chicago Hardy' is functionally parthenocarpic",
+    "pollination": "Parthenocarpic — sets fruit without pollination; no partner plant needed"
+  },
+  "yield": {
+    "edibleParts": "Fruit (the fig — fresh or dried; 'Chicago Hardy' produces medium-large brown-to-violet figs with sweet, rich, honey-like flavor; excellent fresh, dried, preserved, or cooked)",
+    "harvestSeason": "August-September for the main crop (on current-year wood); a limited breba crop possible in June on overwintered second-year wood; in Zone 9-10, harvest extends into October",
+    "medicinalUses": "Traditional uses include digestive support (figs are a gentle laxative), respiratory support, and wound healing (fig latex used topically in folk medicine); high in fiber, calcium, and potassium; fig leaf extract has been studied for blood sugar management",
+    "craftOtherYield": "Dried figs (excellent long storage); fig jam and preserves; fig vinegar; fig leaf is used in some culinary traditions for wrapping and flavoring food"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The milky sap (latex) from cut stems and unripe fruit can cause severe skin irritation and phototoxic reactions (contact followed by sun = burns) — wear gloves when pruning; wash hands thoroughly. Ripe figs and dried figs are non-toxic.",
+    "toxicityAnimals": "Fig leaves and sap are toxic to dogs and cats — can cause GI upset, skin irritation, and drooling; ripe fruit is generally safe in small amounts; the plant is not a primary toxicity concern but latex exposure should be avoided",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy / Shrub"
+    },
+    "roles": [
+      "Food (fresh and dried fruit — high caloric and nutritional density)",
+      "Medicinal (minor)",
+      "Beauty",
+      "Nurse Plant (large foliage provides shade and microclimate modification)"
+    ],
+    "companionPlants": [
+      "Comfrey at the base (dynamic accumulator)",
+      "chives/garlic as pest deterrents",
+      "low ground covers that tolerate root competition; the aggressive root system means companions should be robust"
+    ],
+    "antagonists": [
+      "Do not plant near building foundations or utilities — the root system can cause infrastructure damage over decades"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Birds (fruit is consumed by a wide range of birds when ripe and when overripe or fallen), wasps (attracted to ripe and fermenting fruit), squirrels and raccoons (fruit theft is common)",
+    "hostPlantFor": "Not a host plant for North American Lepidoptera; an introduced Mediterranean species",
+    "nestingHabitat": "Dense large-leafed structure provides summer nesting cover for birds"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the milky sap is generally unpalatable; fig is not a primary deer browse target; the latex scent deters casual browsing. Young plants may be sampled but are rarely seriously damaged. In areas with heavy deer pressure, protect new transplants with temporary fencing for the first season until the plant is large enough to withstand minor browsing."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt spray and coastal salt air; Mediterranean origin gives natural salt tolerance"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — Mediterranean origin; fig thrives in hot, dry conditions with good sun; in the arid West, deep infrequent watering is better than frequent shallow irrigation"
+    },
+    "other": "Root hardiness is the key feature of 'Chicago Hardy' — roots survive to Zone 5b (-15°F); the top is more tender and may die back to the ground in severe winters in Zone 5-7; this is normal and expected; the plant regrows from the roots vigorously. Heat tolerance is excellent — fig performs well through Zone 10."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low in Zone 8+; Medium in Zone 6-7 (winter protection is the primary task); High in Zone 5 (annual wrapping or burial needed)",
+    "pruningNotes": "Winter protection strategy depends on zone and goals: **Option 1 (protect top growth — Zone 5-7):** After leaf drop, tie canes together, wrap with burlap and insulating material, and mulch the root zone heavily (12-18\" of leaves/straw); this protects the top wood and allows breba crop fruiting plus main crop. Unwrap in spring when forsythia blooms. **Option 2 (cut back annually — Zone 5-7):** Cut to 12-18\" in late fall; mulch the root zone heavily; allow regrowth each spring; plant grows to 6-8' each season and fruits reliably on current-year wood; lower yield but minimal work. **Option 3 (no protection — Zone 7b+):** In a sheltered location, top growth survives most winters; minimal pruning for shape and size management. **Zone 8+ permanent tree management:** Prune for shape and airflow in late winter; thin interior wood; remove crossing branches.",
+    "propagationMethods": [
+      "Hardwood cuttings (extremely easy — cut 6-10\" sections of dormant wood, stick in moist potting mix; root readily with warmth); air layering; rooted suckers from the base"
+    ]
+  },
+  "cultivarNotes": "'Chicago Hardy' is the gold standard for cold-climate fig culture in the US and the most widely available cold-hardy cultivar. Its performance varies by zone band:\n**Zone 5-6 (northern limit):** 'Chicago Hardy' is the top recommendation. It reliably regrows from roots even after severe winters. Alternatives: **'Celeste'** (Zone 6-9, small sweet fruit, comparable hardiness but smaller size and less vigorous regrowth); **'Hardy Chicago'** is the same cultivar sold under another name. **'Brown Turkey'** is widely available but less cold-hardy — it struggles below Zone 7 without heavy protection.\n**Zone 7:** 'Chicago Hardy' performs well and often retains top growth through winter without protection in sheltered spots. Broader cultivar selection opens up: **'Brown Turkey'** (reliable, large fruit), **'Celeste'** (extremely sweet, smaller fruit), **'Marseilles'** (yellow/green fruit, heavy producer).\n**Zone 8-10 (fig country):** Almost any fig cultivar thrives. 'Chicago Hardy' grows well but is not specially needed — its main advantage (root hardiness) is irrelevant in warm zones. Gardeners here can choose from the full range: **'Black Mission'**, **'Kadota'**, **'Adriatic'**, **'Desert King'** (Pacific NW), **'Tiger/Panache'** (ornamental striped fruit), **'Violette de Bordeaux'** (intense flavor, compact size for containers).",
+  "gardenUse": {
+    "suggestedUse": [
+      "Specimen tree",
+      "south-facing wall espalier",
+      "kitchen garden",
+      "food forest",
+      "edible landscape",
+      "container culture (in cold zones, containers can be moved to unheated garage or basement for winter)"
+    ],
+    "designPlacement": "Site in the warmest available microclimate — south-facing or southwest-facing walls, slopes, and reflective surfaces (stone, brick) all improve heat accumulation and extend the fruiting season. Train against a wall as an espalier or grow as a free-standing bush. Keep 8-10' from building foundations and utilities because of the aggressive root system. In cold zones (5-7), proximity to a thermal mass wall provides significant winter protection for top wood. Manageable within 5' height with annual cutting back, or allow to grow taller as a managed specimen.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_fig",
+    "inaturalist": "https://www.inaturalist.org/taxa/60218-Ficus-carica",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=364291"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA noxious weed list or DCNR invasive species list. No concern.",
+      "drainage": "The Hegins red clay with its compaction and post-rain drainage issues is a real risk for fig root rot, particularly through winter. Plant on a raised mound (12-18\" above grade) or in a large raised bed against the south-facing wall. Amend heavily with coarse compost, leaf mold, and gravel. Avoid any low spot where water pools. The south-facing Section C bed drains better than the north-facing sections, which helps.",
+      "soil": "The Hegins red clay needs amendment for fig — mix in coarse compost, aged bark, and gravel at planting. A raised mound or berm is the most practical approach for in-ground planting. Alternatively, a large container (half-barrel size) allows full soil control and can be moved to shelter for winter.",
+      "cultivarNotes": "'Chicago Hardy' is the correct and only reliable choice for in-ground culture. With winter protection (wrapping or heavy mulch), it produces a dependable August-September crop. No other commonly available fig cultivar matches its performance at this zone boundary.",
+      "designPlacement": "South-facing Section C bed is the ideal and only suitable location — the warm, dry south-facing microclimate provides the extra heat accumulation needed for fruit ripening in Zone 6a and offers some passive winter protection for top wood. Train against the south-facing wall or fence as an espalier or free-standing bush form. Site 8-10' from the house foundation for root management. HEIGHT NOTE: Manageable within 5' with annual cutting back; or allow to exceed 5' as a managed feature against the back wall if the height limit is less strictly applied to back positions.",
+      "siteObservations": "The Hegins red clay requires raised mound or berm planting for fig — do not plant directly into unamended grade. Heavy mulch over the root zone (12-18\" of leaves/straw in fall) is essential for winter root protection and serves double duty as ongoing clay amendment as it breaks down. The active deer pressure from the east wildlife corridor is a minimal concern for fig — the latex sap makes it unpalatable, though new transplants should be protected for the first season as a precaution. Section C's south-facing aspect and relatively better drainage make it the strongest microclimate on the property for this Mediterranean species. Container culture (half-barrel, overwintered in garage) is a viable alternative if the clay drainage proves unmanageable."
+    }
+  }
+}

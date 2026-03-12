@@ -1,0 +1,171 @@
+{
+  "id": "physocarpus-opulifolius",
+  "name": {
+    "commonName": [
+      "Ninebark",
+      "Common Ninebark"
+    ],
+    "latinName": "Physocarpus opulifolius",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — Quebec and Ontario south to Virginia, Tennessee, and the Ozarks; commonly found on rocky woodland edges, stream banks, ravine slopes, and disturbed areas throughout its range",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US from the Great Lakes and New England south through the mid-Atlantic, Appalachians, and upper South into Tennessee, Missouri, and the Ozarks; not native to the Deep South, Gulf Coast, Great Plains, or western US, though widely planted and occasionally naturalized outside its native range"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed as invasive in any US state; not on any state noxious weed list; no documented escape or naturalization problems; a well-behaved native shrub across its entire cultivated range in the lower 48"
+    },
+    "zone": {
+      "min": 2,
+      "max": 8,
+      "description": "2-8"
+    }
+  },
+  "description": {
+    "height": "5-10' (species); compact cultivars 3-6'",
+    "spread": "6-10'; arching, multi-stemmed habit with layered, fountain-like branch structure",
+    "spacing": "5-8' from other shrubs depending on cultivar",
+    "growthRate": "Moderate to fast; establishes readily and fills in quickly",
+    "timeToMaturity": "Ornamental value begins year 1-2; full shrub structure achieved by year 3-5",
+    "lifespan": "Long-lived; essentially permanent once established in suitable conditions",
+    "deciduousEvergreen": "Deciduous — species has medium-green leaves; the major cultivars carry deep purple-black, burgundy, or golden-orange foliage throughout the season; fall color on purple-leafed cultivars is variable but foliage remains attractive until drop",
+    "winterInterest": "High — the exfoliating, peeling bark is the signature ornamental feature in the winter garden; the multi-layered shredding bark in tones of tan, cinnamon, and gray gives the plant its common name and is genuinely attractive on bare stems; persistent red papery seed capsules add additional winter interest and provide bird food into the cold months"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best foliage color on purple cultivars in full sun; tolerates shade but color intensity drops; in Zone 8+ or the Deep South, afternoon shade prevents leaf scorch on golden-foliaged cultivars; remarkably adaptable across light conditions",
+    "water": "Low to high; one of the widest water tolerance ranges of any native shrub — established plants handle both periodic flooding and summer drought; excellent for wet clay sites as well as dry slopes; in arid western climates where it is grown outside its native range, supplemental irrigation is advisable during establishment",
+    "drainagePreference": {
+      "description": "Broadly adaptable; tolerates wet, poorly drained clay as well as dry, well-drained slopes; performs in conditions that defeat most other shrubs; tolerates seasonal waterlogging without root rot, which is exceptional among ornamental shrubs",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent — one of the best-performing ornamental shrubs in heavy clay across the eastern US and Midwest; fibrous roots tolerate compaction and poor aeration that would kill most shrubs; no amendment required for establishment in clay; actually native to clay-bank and stream-bank habitats where heavy soil is the norm"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 8,
+      "description": "5.5-8.0; very broadly adaptable; tolerates a wider pH range than most shrubs, from acidic woodland soils to alkaline limestone-derived clays"
+    },
+    "texturePreference": "Tolerates clay, loam, or sandy soils; performs well in compacted and disturbed soils where other shrubs struggle; ideal is a moisture-retentive loam but the plant's actual tolerance range is remarkably wide",
+    "rootCharacter": "Fibrous, spreading root system; not aggressively running; multi-stemmed clump form; some suckering at the base"
+  },
+  "bloom": {
+    "bloomTime": "Late May to June",
+    "bloomDescription": "Dense, rounded clusters (corymbs) of small white to pale pink flowers, each cluster 1-2\" across, covering the branch tips; flowers are individually small but massed in quantity; attractive but not dramatically showy — the ornamental foliage upstages the flowers in the purple-leafed cultivars; nonetheless a good pollinator resource in early summer",
+    "fragrance": "None notable",
+    "flowerSex": "Hermaphrodite — perfect flowers; all plants produce fruit",
+    "pollination": "Self-fertile; native bees, bumblebees, and hoverflies are the primary pollinators; no partner plant required"
+  },
+  "yield": {
+    "edibleParts": "None — not a food plant; do not consume",
+    "harvestSeason": "N/A",
+    "medicinalUses": "Some traditional Native American medicinal use of bark and seeds documented — emetic and other preparations recorded in the ethnobotanical literature; these uses are not recommended for general practice; the plant has mild toxicity",
+    "craftOtherYield": "Exfoliating bark is ornamentally valuable in dried arrangements; the winter stem structure with peeling bark is an excellent cut branch material for floral and seasonal decoration"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Mildly toxic — the bark and seeds contain compounds that have historically been used as emetics; not a plant for food use; handle with normal garden care; not a significant hazard but not safe to consume",
+    "toxicityAnimals": "Mildly toxic; avoid planting where pets or livestock regularly browse, though palatability is low and serious incidents are uncommon",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Wildlife Support (excellent — seeds, cover, flowers)",
+      "Insect Attractor (native bee and hoverfly resource)",
+      "Beauty (foliage cultivars are among the most ornamentally outstanding native shrubs in the eastern US palette)",
+      "Native Plant Contribution",
+      "Slope Stabilization (fibrous roots on stream banks and slopes)",
+      "Structural / Backbone Planting (provides four-season structure and anchors mixed borders and guild edges)"
+    ],
+    "companionPlants": [
+      "Cephalanthus occidentalis (buttonbush — wet-tolerant companion for rain garden and stream-side plantings)",
+      "Sambucus canadensis (elderberry — similar ecological niche, complementary habitat value)",
+      "Viburnum dentatum (arrowwood — excellent native shrub companion with similar site tolerances)",
+      "Itea virginica (Virginia sweetspire — lower layer companion with outstanding fall color)",
+      "ornamental grasses",
+      "native ferns",
+      "Rudbeckia",
+      "Echinacea (at the sunny edge)"
+    ],
+    "antagonists": [
+      "None documented; highly compatible with most garden companions"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Native bees and bumblebees (flowers), hoverflies and small native bees (flowers), birds (seed capsules eaten by finches, chickadees, and other small birds through fall and winter); a good all-around native wildlife support shrub with multiple seasonal contributions",
+    "hostPlantFor": "Some Lepidoptera use Physocarpus; not as significant a host plant as Lindera or Sambucus, but contributes to the native insect community as part of a diverse native planting",
+    "nestingHabitat": "Excellent — the dense, arching, multi-stemmed structure provides first-rate nesting habitat for small woodland birds; catbirds, song sparrows, and towhees commonly nest in dense shrubs of this type; among the better structural nesting shrubs in the native palette"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — generally not heavily browsed; the peeling, fibrous bark and dense structure are not preferred browse; one of the more reliably deer-resistant native shrubs in the eastern US; young plants may need temporary protection in areas with very high deer density until established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; better than many shrubs but not a front-line salt-tolerant species; tolerates incidental road salt exposure at moderate distance from treated roads; recovers from light spray damage but heavy direct salt contact can cause branch dieback"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established; tolerates extended dry periods with minimal stress; far more drought-tolerant than its preference for stream banks would suggest"
+    },
+    "other": "Pollution tolerant — performs in urban conditions, compacted soils, and difficult sites; cold-hardy to Zone 2; one of the toughest native shrubs for challenging conditions including wet clay, exposed sites, and disturbed ground; tolerates wind exposure well"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low; one of the easiest native shrubs in cultivation",
+    "pruningNotes": "Minimal required. Remove oldest, woodiest canes to the base every 2-3 years to keep the shrub vigorous and encourage the best foliage color on new growth — this is especially worthwhile for the purple-leaf cultivars, where the richest color appears on current-season wood. Can be cut entirely to the ground in late winter if renewal is needed; it will rebound fully in one season. Deadheading is not necessary and the persistent seed capsules have wildlife and winter ornamental value — leave them on. Avoid heavy fall pruning; thin or rejuvenate in late winter before bud break.",
+    "propagationMethods": [
+      "Softwood cuttings (summer — reliable and widely used commercially)",
+      "hardwood cuttings (fall-winter — good success)",
+      "division of rooted suckers",
+      "seed (requires cold stratification; slower; used less often for named cultivars)"
+    ]
+  },
+  "cultivarNotes": "The cultivar selection for Physocarpus opulifolius is exceptional — the colored-foliage forms are among the most ornamentally valuable native shrubs in American horticulture. Performance is reliable across the plant's full hardiness range (Zones 2-8), with the following considerations by region:\n**Zones 2-5 (northern tier):** All cultivars perform well. The species is at its ecological home in this range. Purple-leaf cultivars hold color better in cooler summers with less heat stress. Full sun is ideal and does not cause scorch.\n**Zones 6-7 (mid-range):** The sweet spot for ornamental performance. All cultivars thrive. Full sun produces the best foliage color on purple forms. Golden cultivars like 'Center Glow' benefit from light afternoon shade in the warmer end of this range to prevent summer leaf scorch.\n**Zone 8 (southern limit):** Still reliable but approaching the heat tolerance edge. Afternoon shade is beneficial for all cultivars, especially golden-foliaged forms. Ensure adequate moisture in summer. Purple cultivars may show some green reversion in extreme heat.\n- 'Diabolo' — The classic and still the standard; deep purple-black foliage that holds its color well through summer heat; 8-10' at maturity; white flowers contrast dramatically against the dark foliage; widely available at nurseries nationwide. The full-size form — best in open shrub borders or food forest edges with space to develop. MBG profile: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a256\n- 'Summer Wine' — Deep burgundy foliage; more compact at 5-6'; good for smaller sites where 'Diabolo' would be too large; same performance and reliability at a friendlier scale. MBG profile: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=262084&isprofile=0\n- 'Little Devil' — Compact 3-4'; purple foliage; proportionate for smaller garden spaces, foundation plantings, or the front of a border where the larger forms would overwhelm; still delivers full ornamental value in a tighter footprint\n- 'Center Glow' — Outstanding color transition: golden-orange to yellow new growth in spring gradually fading to deep purple by summer; the two-toned effect on a single plant is genuinely striking; 6-8'; one of the most ornamentally complex natives in the trade. MBG profile: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=265989&isprofile=1&gen=Physocarpus\n- 'Tiny Wine' — Ultra-compact at 3-5'; deep bronze-maroon foliage; excellent for containers, small gardens, and foundation plantings where even 'Little Devil' might be too large; widely available\n- Species (straight) — The unselected species with green foliage is appropriate for purely wildlife-focused plantings, naturalized edges, and situations where the colored cultivars would look out of place; less ornamentally refined but ecologically equivalent",
+  "gardenUse": {
+    "suggestedUse": [
+      "Shrub border",
+      "food forest edge",
+      "wildlife garden",
+      "rain garden",
+      "stream-side and wet-area planting",
+      "slope stabilization",
+      "mixed native planting",
+      "four-season structural backbone shrub"
+    ],
+    "designPlacement": "One of the most structurally useful native shrubs for anchoring the transition between tree canopy and open garden in food forest and permaculture designs. The dark foliage of purple cultivars provides exceptional color contrast against lighter-foliaged companions and reads well from a distance. Excellent at guild edges where seasonal wet soil or slope transitions need a tough, showy anchor. Compact cultivars ('Little Devil', 'Summer Wine', 'Tiny Wine') fit within height-restricted foundation or border plantings with light maintenance pruning. Full-size forms ('Diabolo', species) need 6-10' of lateral space and suit open borders, hedgerows, and woodland edges. Outstanding rain garden and wet-area edge candidate across its range.",
+    "acquisitionStatus": "To source (widely available at garden centers and native plant nurseries; 'Diabolo' is nearly universally stocked; 'Center Glow' and 'Summer Wine' are common; 'Little Devil' may require a specialty nursery)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Physocarpus_opulifolius",
+    "inaturalist": "https://www.inaturalist.org/taxa/129048-Physocarpus-opulifolius",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=g840"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — P. opulifolius is native throughout Pennsylvania; genuinely wild in the state's woodlands, stream banks, and rocky slopes; one of the most adaptable and tough native shrubs in the eastern US flora",
+      "paInvasiveStatus": "Not invasive or regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list",
+      "drainage": "Thrives in the red clay at the Hegins site without amendment; one of the few ornamentally outstanding native shrubs that actively performs in the site's poorly draining, compacted clay; no raised bed needed — direct in-ground planting is appropriate",
+      "soil": "The compacted red clay at the Hegins site is well within this plant's comfort zone; no soil amendment or texture modification needed for in-ground planting",
+      "cultivarNotes": "All cultivars perform excellently. 'Diabolo' and 'Center Glow' are the top recommendations for maximum ornamental impact in this climate — full sun produces outstanding foliage color without heat stress. 'Summer Wine' or 'Little Devil' where space is limited. No special regional considerations; this plant is at home in Pennsylvania.",
+      "designPlacement": "Well-suited to the wet clay conditions of the Hegins site — one of few ornamentally outstanding native shrubs that actively performs in the site's poorly draining clay. Consider at the outer edge of the apple or paw paw guilds where seasonal wet soil or a slope edge needs a tough, showy anchor. 'Little Devil' or 'Summer Wine' could work within the 5' height limit of Section A or C with light maintenance pruning to keep in bounds, though 'Diabolo' or the species would need more space and belong at guild edges or open borders. Excellent candidate for any rain garden or wet-area edge anywhere on the property.",
+      "siteObservations": "The dense branching structure and generally unpalatable foliage make ninebark one of the more reliable deer-resistant native shrubs for this site's east-corridor deer pressure; young plants should still receive temporary fencing or caging during the first season until established. Salt tolerance is moderate, but the front beds in Section A are approximately 50 ft from the salted road — sufficient distance that road salt is not a concern for this species at this site."
+    }
+  }
+}

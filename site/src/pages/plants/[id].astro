@@ -1,0 +1,326 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getAllPlants, type Plant } from '../../lib/plants';
+
+export function getStaticPaths() {
+  return getAllPlants().map(plant => ({
+    params: { id: plant.id },
+    props: { plant },
+  }));
+}
+
+interface Props { plant: Plant }
+const { plant } = Astro.props;
+
+function ratingBadge(rating: string | undefined): string {
+  if (!rating) return '';
+  const colors: Record<string, string> = {
+    excellent: '#2e7d32', good: '#558b2f', moderate: '#f9a825',
+    poor: '#e65100', none: '#9e9e9e', low: '#ef6c00',
+    'low-moderate': '#f57f17', variable: '#7b1fa2',
+  };
+  return colors[rating] ?? '#757575';
+}
+
+function layerLabel(layer: string): string {
+  const labels: Record<string, string> = {
+    canopy: 'Canopy', understory: 'Understory', shrub: 'Shrub',
+    herbaceous: 'Herbaceous', groundCover: 'Ground Cover', vine: 'Vine',
+    root: 'Root', fungal: 'Fungal',
+  };
+  return labels[layer] ?? layer;
+}
+---
+
+<Base title={`${plant.name.commonName[0]} — Plant Database`} description={`Profile for ${plant.name.latinName}: ${plant.description.height} ${plant.permaculture.layer.primary} layer plant.`}>
+
+  <a href="/browse" class="back">&larr; Browse all plants</a>
+
+  <div class="header">
+    <h1>{plant.name.commonName[0]}</h1>
+    <p class="latin"><em>{plant.name.latinName}</em></p>
+    {plant.name.commonName.length > 1 && (
+      <p class="aliases">Also: {plant.name.commonName.slice(1).join(', ')}</p>
+    )}
+    <div class="tags">
+      <span class="tag family">{plant.name.family}</span>
+      <span class="tag layer">{layerLabel(plant.permaculture.layer.primary)}</span>
+      {plant.range.zone.min != null && (
+        <span class="tag zone">Zone {plant.range.zone.description}</span>
+      )}
+      <span class="tag maintenance">{plant.maintenance.maintenanceLevel} maintenance</span>
+    </div>
+  </div>
+
+  <h2>Description</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Height</span><span>{plant.description.height}</span></div>
+    <div class="info-item"><span class="label">Spread</span><span>{plant.description.spread}</span></div>
+    <div class="info-item"><span class="label">Spacing</span><span>{plant.description.spacing}</span></div>
+    <div class="info-item"><span class="label">Growth Rate</span><span>{plant.description.growthRate}</span></div>
+    <div class="info-item"><span class="label">Time to Maturity</span><span>{plant.description.timeToMaturity}</span></div>
+    <div class="info-item"><span class="label">Lifespan</span><span>{plant.description.lifespan}</span></div>
+    <div class="info-item"><span class="label">Type</span><span>{plant.description.deciduousEvergreen}</span></div>
+    {plant.description.winterInterest && (
+      <div class="info-item"><span class="label">Winter Interest</span><span>{plant.description.winterInterest}</span></div>
+    )}
+  </div>
+
+  <h2>Range & Hardiness</h2>
+  <div class="prose">
+    <p><strong>Native Range:</strong> {plant.range.nativeRange}</p>
+    <p><strong>US Native:</strong> {plant.range.usNativeStatus.native ? 'Yes' : 'No'} — {plant.range.usNativeStatus.description}</p>
+    <p><strong>Invasive:</strong> {plant.range.invasive.invasive ? 'Yes' : 'No'} — {plant.range.invasive.description}</p>
+  </div>
+
+  <h2>Light & Water</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Sun</span><span>{plant.lightAndWater.sun}</span></div>
+    <div class="info-item"><span class="label">Water</span><span>{plant.lightAndWater.water}</span></div>
+    <div class="info-item"><span class="label">Drainage</span><span>{plant.lightAndWater.drainagePreference.description}</span></div>
+    {plant.lightAndWater.drainagePreference.claySoilPerformance && (
+      <div class="info-item">
+        <span class="label">Clay Performance</span>
+        <span>
+          <span class="rating-dot" style={`background: ${ratingBadge(plant.lightAndWater.drainagePreference.claySoilPerformance.rating)}`}></span>
+          {plant.lightAndWater.drainagePreference.claySoilPerformance.description}
+        </span>
+      </div>
+    )}
+  </div>
+
+  <h2>Soil</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">pH</span><span>{plant.soil.phRange.description}</span></div>
+    <div class="info-item"><span class="label">Texture</span><span>{plant.soil.texturePreference}</span></div>
+    <div class="info-item"><span class="label">Root Character</span><span>{plant.soil.rootCharacter}</span></div>
+  </div>
+
+  <h2>Bloom</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Bloom Time</span><span>{plant.bloom.bloomTime}</span></div>
+    <div class="info-item"><span class="label">Description</span><span>{plant.bloom.bloomDescription}</span></div>
+    <div class="info-item"><span class="label">Fragrance</span><span>{plant.bloom.fragrance}</span></div>
+    <div class="info-item"><span class="label">Flower Type</span><span>{plant.bloom.flowerSex}</span></div>
+    <div class="info-item"><span class="label">Pollination</span><span>{plant.bloom.pollination}</span></div>
+  </div>
+
+  <h2>Yield</h2>
+  <div class="info-grid">
+    {plant.yield.edibleParts && <div class="info-item"><span class="label">Edible Parts</span><span>{plant.yield.edibleParts}</span></div>}
+    {plant.yield.harvestSeason && <div class="info-item"><span class="label">Harvest Season</span><span>{plant.yield.harvestSeason}</span></div>}
+    {plant.yield.medicinalUses && <div class="info-item"><span class="label">Medicinal Uses</span><span>{plant.yield.medicinalUses}</span></div>}
+    {plant.yield.craftOtherYield && <div class="info-item"><span class="label">Craft / Other</span><span>{plant.yield.craftOtherYield}</span></div>}
+  </div>
+
+  <h2>Cautions & Hazards</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Thorns/Spines</span><span>{plant.cautionsAndHazards.thornsSpines ? 'Yes' : 'No'}</span></div>
+    {plant.cautionsAndHazards.toxicityPeople && <div class="info-item"><span class="label">Toxicity (People)</span><span>{plant.cautionsAndHazards.toxicityPeople}</span></div>}
+    {plant.cautionsAndHazards.toxicityAnimals && <div class="info-item"><span class="label">Toxicity (Animals)</span><span>{plant.cautionsAndHazards.toxicityAnimals}</span></div>}
+    {plant.cautionsAndHazards.allelopathy && <div class="info-item"><span class="label">Allelopathy</span><span>{plant.cautionsAndHazards.allelopathy}</span></div>}
+    {plant.cautionsAndHazards.notes && <div class="info-item"><span class="label">Notes</span><span>{plant.cautionsAndHazards.notes}</span></div>}
+  </div>
+
+  <h2>Permaculture</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Layer</span><span>{plant.permaculture.layer.description}</span></div>
+    <div class="info-item"><span class="label">Coppiceable</span><span>{plant.permaculture.coppiceable ? 'Yes' : 'No'}</span></div>
+  </div>
+  <h3>Roles</h3>
+  <div class="tag-list">
+    {plant.permaculture.roles.map(r => <span class="tag role">{r}</span>)}
+  </div>
+  {plant.permaculture.companionPlants.length > 0 && (
+    <>
+      <h3>Companion Plants</h3>
+      <div class="tag-list">
+        {plant.permaculture.companionPlants.map(c => <span class="tag companion">{c}</span>)}
+      </div>
+    </>
+  )}
+  {plant.permaculture.antagonists.length > 0 && (
+    <>
+      <h3>Antagonists</h3>
+      <div class="tag-list">
+        {plant.permaculture.antagonists.map(a => <span class="tag antagonist">{a}</span>)}
+      </div>
+    </>
+  )}
+
+  <h2>Wildlife</h2>
+  <div class="info-grid">
+    {plant.wildlife.attracts && <div class="info-item"><span class="label">Attracts</span><span>{plant.wildlife.attracts}</span></div>}
+    {plant.wildlife.hostPlantFor && <div class="info-item"><span class="label">Host Plant For</span><span>{plant.wildlife.hostPlantFor}</span></div>}
+    {plant.wildlife.nestingHabitat && <div class="info-item"><span class="label">Nesting Habitat</span><span>{plant.wildlife.nestingHabitat}</span></div>}
+  </div>
+
+  <h2>Tolerances</h2>
+  <div class="tolerance-grid">
+    <div class="tolerance">
+      <span class="tolerance-label">Deer</span>
+      <span class="rating-dot" style={`background: ${ratingBadge(plant.tolerances.deer?.rating)}`}></span>
+      <span>{plant.tolerances.deer?.description}</span>
+    </div>
+    <div class="tolerance">
+      <span class="tolerance-label">Salt</span>
+      <span class="rating-dot" style={`background: ${ratingBadge(plant.tolerances.salt?.rating)}`}></span>
+      <span>{plant.tolerances.salt?.description}</span>
+    </div>
+    <div class="tolerance">
+      <span class="tolerance-label">Drought</span>
+      <span class="rating-dot" style={`background: ${ratingBadge(plant.tolerances.drought?.rating)}`}></span>
+      <span>{plant.tolerances.drought?.description}</span>
+    </div>
+    {plant.tolerances.other && (
+      <div class="tolerance">
+        <span class="tolerance-label">Other</span>
+        <span>{plant.tolerances.other}</span>
+      </div>
+    )}
+  </div>
+
+  <h2>Maintenance</h2>
+  <div class="info-grid">
+    <div class="info-item"><span class="label">Level</span><span>{plant.maintenance.maintenanceLevel}</span></div>
+    <div class="info-item"><span class="label">Pruning</span><span>{plant.maintenance.pruningNotes}</span></div>
+  </div>
+  {plant.maintenance.propagationMethods.length > 0 && (
+    <>
+      <h3>Propagation Methods</h3>
+      <ul>
+        {plant.maintenance.propagationMethods.map(m => <li>{m}</li>)}
+      </ul>
+    </>
+  )}
+
+  {plant.cultivarNotes && (
+    <>
+      <h2>Cultivar Notes</h2>
+      <div class="prose"><p>{plant.cultivarNotes}</p></div>
+    </>
+  )}
+
+  <h2>Garden Use</h2>
+  <div class="tag-list">
+    {plant.gardenUse.suggestedUse.map(u => <span class="tag use">{u}</span>)}
+  </div>
+  {plant.gardenUse.designPlacement && <p class="prose">{plant.gardenUse.designPlacement}</p>}
+  {plant.gardenUse.acquisitionStatus && <p class="acquisition"><strong>Status:</strong> {plant.gardenUse.acquisitionStatus}</p>}
+
+  <h2>Links</h2>
+  <div class="links">
+    {plant.links.wikipedia && <a href={plant.links.wikipedia} target="_blank" rel="noopener">Wikipedia</a>}
+    {plant.links.inaturalist && <a href={plant.links.inaturalist} target="_blank" rel="noopener">iNaturalist</a>}
+    {plant.links.missouriBotanicalGarden?.map(link => (
+      <a href={link.url} target="_blank" rel="noopener">MBG: {link.label}</a>
+    ))}
+  </div>
+
+</Base>
+
+<style>
+  .back {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+  .back:hover { text-decoration: underline; }
+
+  .header { margin-bottom: 1.5rem; }
+  .latin { font-size: 1.1rem; color: var(--color-muted); }
+  .aliases { font-size: 0.9rem; color: var(--color-muted); margin-top: 0.25rem; }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+  .tag {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  .tag.family { background: #e8eaf6; color: #283593; }
+  .tag.layer { background: var(--color-accent-light); color: var(--color-accent); }
+  .tag.zone { background: #fff3e0; color: #e65100; }
+  .tag.maintenance { background: #f3e5f5; color: #6a1b9a; }
+  .tag.role { background: var(--color-accent-light); color: #2e7d32; }
+  .tag.companion { background: #e0f2f1; color: #00695c; }
+  .tag.antagonist { background: #fce4ec; color: #c62828; }
+  .tag.use { background: #e3f2fd; color: #1565c0; }
+
+  .tag-list { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0; }
+
+  .info-grid {
+    display: grid;
+    gap: 0.75rem;
+  }
+  .info-item {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 0.75rem;
+    font-size: 0.95rem;
+  }
+  .info-item .label {
+    font-weight: 600;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+  }
+
+  .tolerance-grid { display: grid; gap: 0.5rem; }
+  .tolerance {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+  }
+  .tolerance-label {
+    font-weight: 600;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+    min-width: 160px;
+  }
+
+  .rating-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    position: relative;
+    top: 1px;
+  }
+
+  .prose { font-size: 0.95rem; line-height: 1.7; }
+  .prose p { margin: 0.5rem 0; }
+  .acquisition { margin-top: 0.75rem; font-size: 0.95rem; }
+
+  ul {
+    margin: 0.5rem 0 0.5rem 1.5rem;
+    font-size: 0.95rem;
+  }
+  li { margin: 0.25rem 0; }
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+  .links a {
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+  .links a:hover { text-decoration: underline; }
+
+  @media (max-width: 640px) {
+    .info-item {
+      grid-template-columns: 1fr;
+      gap: 0.15rem;
+    }
+    .tolerance {
+      flex-wrap: wrap;
+    }
+    .tolerance-label { min-width: auto; }
+  }
+</style>

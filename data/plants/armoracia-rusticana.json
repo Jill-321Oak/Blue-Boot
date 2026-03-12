@@ -1,0 +1,159 @@
+{
+  "id": "armoracia-rusticana",
+  "name": {
+    "commonName": [
+      "Horseradish"
+    ],
+    "latinName": "Armoracia rusticana",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Southeastern Europe (likely originated in the area of modern Ukraine and Russia); cultivated throughout Europe for millennia; widely naturalized in North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; introduced from Europe; widely naturalized throughout the US, particularly in the eastern US, Midwest, and Pacific Northwest; commonly found in disturbed areas, roadsides, old homesteads, and waste ground; effectively permanent once established"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive but naturalizes aggressively; horseradish is very difficult to eradicate once established due to its deep, persistent root system; roots left in the ground will regenerate; not a regulated species but should be sited where spread can be managed; confine to a dedicated area or container if spread control is important"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9"
+    }
+  },
+  "description": {
+    "height": "2-4' in full leaf; flowering stalks can reach 4-5'",
+    "spread": "Spreads aggressively by root — a single plant will colonize a significant area over several seasons if roots are not harvested annually; individual crowns can spread 3-4' or more",
+    "spacing": "18-24\" for managed beds; allow more space in a naturalized or contained perimeter planting",
+    "growthRate": "Very fast once established; a single root cutting planted in spring will produce a harvestable root by fall and a persistent colony within a few years",
+    "timeToMaturity": "Productive from the first fall after a spring planting",
+    "lifespan": "Essentially permanent — one of the most persistent of all culinary perennials; once established, eradication requires sustained effort over multiple seasons",
+    "deciduousEvergreen": "Deciduous — large coarse leaves die back completely after hard frost",
+    "winterInterest": "None — dies back to the ground; the root survives deep below the frost line"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade but root production decreases in lower light",
+    "water": "Medium; tolerates drought once established due to deep tap root; does not want waterlogged soil",
+    "drainagePreference": {
+      "description": "Adaptable; tolerates clay and compacted soil well; good drainage improves root quality but is not required for survival",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Horseradish in heavy clay — good; horseradish is one of the most clay-tolerant culinary plants available; the thick, fleshy root system pushes through compacted clay; yields are better in loosened soil but horseradish grows in clay that would defeat most other root crops; in-ground planting in clay is generally successful though root shape may be less uniform"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0 preferred; tolerates a wider range"
+    },
+    "texturePreference": "Deep loam produces the largest, cleanest roots, but horseradish thrives in clay and poor soils where most vegetables struggle; a plant that improves with adversity",
+    "rootCharacter": "Large, deep, fleshy taproot — the primary yield; can penetrate several feet into the soil; lateral roots spread widely and regenerate readily from fragments; the root system is one of the most persistent in the temperate garden"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Small white four-petaled flowers in terminal and axillary panicles; individually insignificant but produced in large numbers; typical of the Brassicaceae family",
+    "fragrance": "Mild; the flowers have a faint sweet scent, far less pungent than the root",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insects (bees and flies); self-fertile; seed set is rare in cultivation — most plants are triploid and largely sterile; spreads almost exclusively by root rather than seed"
+  },
+  "yield": {
+    "edibleParts": "ROOT (primary yield) — the large, white, fleshy taproot is harvested in fall (October-November) after frost has concentrated the flavor and starch; grated raw and combined with vinegar or cream to make prepared horseradish — one of the most pungent condiments in the world. The pungency comes from allyl isothiocyanate, a volatile compound released when cell walls are broken during grating; the same compound is responsible for the heat of wasabi and mustard. Pungency is at its peak immediately after grating and dissipates rapidly — process and refrigerate immediately. YOUNG LEAVES — edible; peppery and pungent; usable as a potherb, cooked greens, or (sparingly) in salads; the leaves are large, coarse, and strongly flavored — not palatable to most people in quantity but a legitimate foraged green in early spring.",
+    "harvestSeason": "Fall (October-November) for roots — after the first frost but before hard ground freeze; spring is also possible but fall-harvested roots have superior flavor. Young leaves best in early spring before they toughen.",
+    "medicinalUses": "One of the oldest European medicinal plants with a substantial evidence base. The root contains glucosinolates (sinigrin and related compounds) that hydrolyze to allyl isothiocyanate and related compounds with documented antimicrobial, antibacterial, and expectorant properties. Traditional and modern clinical use: sinus congestion, bronchitis, and upper respiratory infections (the volatile compounds act directly on mucous membranes when inhaled or ingested); urinary tract infections (the compounds are excreted through the kidneys and have demonstrable antibacterial activity in the urinary tract). Used in European phytotherapy as a standardized preparation (Cochlearia armoracia root). External: the grated root has been applied as a poultice for joint pain and minor infections, functioning similarly to a mustard plaster. The medicinal potency is inseparable from the culinary pungency — a highly pungent root is a medicinally active root.",
+    "craftOtherYield": "None significant; the large leaves can be used as a wrap or composted; they decompose readily and add biomass to the compost pile"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Safe for culinary and standard medicinal use. Very large internal doses of the concentrated root or oil can cause gastrointestinal irritation; do not apply undiluted grated root directly to sensitive skin for extended periods (the allyl isothiocyanate is an irritant). Avoid therapeutic internal use during pregnancy.",
+    "toxicityAnimals": "The pungent compounds are irritating to most animals; toxicity at normal exposure levels is low, but large quantities could cause gastrointestinal distress. Practically speaking, most animals strongly avoid it — the pungency is self-limiting.",
+    "allelopathy": "Not documented, but the strong glucosinolate chemistry in the soil around the roots may have mild suppressive effects on some neighboring plants; more study needed. In practice, horseradish's primary competitive advantage is physical — it out-shades weeds with its large leaves.",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb (ground layer to low herbaceous)"
+    },
+    "roles": [
+      "Culinary Perennial (primary)",
+      "Medicinal Plant",
+      "Dynamic Accumulator (moderate — deep roots access subsoil minerals; the large leaves contribute to soil organic matter when they die back)",
+      "Ground Cover (dense leaf canopy shades out weeds effectively when established)",
+      "Pest Deterrent (the strong glucosinolate chemistry has some evidence for deterring certain soil insects and beetles)",
+      "Perimeter/Border Plant",
+      "Companion Plant"
+    ],
+    "companionPlants": [
+      "Potatoes (traditionally paired — some evidence that proximity deters Colorado potato beetle; plant at the corners of potato beds)",
+      "apple trees (traditional companion; the pungent root chemistry may deter some soil pests)",
+      "almost any vegetable garden as a perimeter planting; effective as a border plant for deer deterrence"
+    ],
+    "antagonists": [
+      "Any small or delicate plant that could be overwhelmed by the spreading root system; do not plant adjacent to shallow-rooted perennials or annuals without a root barrier; horseradish will win"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and flies to the flowers in early summer; not a significant wildlife draw compared to native plants",
+    "hostPlantFor": "Some Brassicaceae-specialist Lepidoptera (cabbage whites, etc.) may use the leaves; not a primary host for native species",
+    "nestingHabitat": "The large basal leaf canopy provides ground-level cover for beetles and other invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — deer strongly avoid horseradish; the pungent root chemistry and volatile compounds in the leaves make it one of the most reliably deer-resistant plants available. Can be used strategically as a perimeter or border plant at deer entry points. Unlike many \"deer resistant\" plants that deer will eat when hungry, horseradish is essentially never browsed in practice."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — the deep taproot accesses subsoil moisture; established plants are very hard to stress"
+    },
+    "other": "Excellent in clay soils; tolerates compacted and disturbed ground; thrives in neglected conditions; one of the best choices for difficult, low-input areas"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — essentially self-maintaining once established; the primary maintenance task is harvesting to prevent uncontrolled spread",
+    "pruningNotes": "No pruning required. Annual root harvest is the main form of management — digging the main roots in fall controls spread and restores vigor to the planting. Leave some roots in the ground to regenerate the following year. Remove any volunteer plants that appear outside the intended bed immediately — small seedlings (rare) or root sprouts at the bed edge are easiest to manage when young. Do not rotary till through an established horseradish bed — every root fragment tilled in becomes a new plant.",
+    "propagationMethods": [
+      "Root cuttings (the standard method — plant 6-8\" pencil-width root sections horizontally or at a slight angle, 2-3\" deep, in spring after the last frost; nearly 100% success rate; share root sections cut during the fall harvest); seed (rarely used — most cultivated plants are triploid and produce little viable seed; not recommended)"
+    ]
+  },
+  "cultivarNotes": "Two main horseradish types are commonly available: 'Maliner Kren' (also called 'Common' or 'German') is the standard home garden type — vigorous, widely available, the plant most gardeners have grown for generations; 'Bohemian' types (including 'Bohemian' and 'Big Top Western') are smoother-rooted, somewhat more uniform, and favored for commercial production; 'Big Top Western' produces notably large roots and is a good choice if maximizing yield per plant is a goal. For most home gardeners, the distinction is minor — obtain whatever root cuttings are locally available, as this plant is shared freely at harvest time. Purchase from nurseries, seed companies, or obtain from a neighbor who will give away surplus roots freely.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated contained bed (strongly preferred for most garden contexts)",
+      "perimeter/border planting at deer entry points",
+      "companion at potato beds or apple tree guilds",
+      "low-maintenance corner of a productive garden where permanent establishment is acceptable"
+    ],
+    "designPlacement": "Food forest edge, dedicated horseradish patch, contained herb garden area; site where spread is acceptable",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Horseradish",
+    "inaturalist": "https://www.inaturalist.org/taxa/75566-Armoracia-rusticana",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=250254&isprofile=0&chr=19"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; introduced from Europe; naturalized throughout the state; may be present in old farmstead areas nearby",
+      "paInvasiveStatus": "Not on PA invasive lists but spreads aggressively; site with spread containment in mind",
+      "drainage": "Hegins red clay: in-ground planting is generally fine; no raised bed required; roots will be functional if less elegant than loose-soil specimens; no special amendment needed",
+      "soil": "Hegins red clay is tolerable for horseradish; in-ground planting works",
+      "cultivarNotes": "Both common horseradish types perform excellently in Zone 6a; 'Maliner Kren' is the standard; plant root cuttings in spring; harvest in fall after frost sweetens the root",
+      "designPlacement": "Food forest edge or dedicated patch in the Section B area; spreads but is manageable with annual harvest; plant where containment is not a concern",
+      "siteObservations": "No existing horseradish on site. When introducing, start with a single contained planting to evaluate siting before committing to a permanent perimeter placement. Obtain root cuttings in spring — easily sourced from farmers markets, Amish produce stands (common in Schuylkill County), or home gardeners who will give them away freely at harvest time."
+    }
+  }
+}

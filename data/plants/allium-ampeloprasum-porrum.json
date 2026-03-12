@@ -1,0 +1,157 @@
+{
+  "id": "allium-ampeloprasum-porrum",
+  "name": {
+    "commonName": [
+      "Leek"
+    ],
+    "latinName": "Allium ampeloprasum var. porrum (syn. Allium porrum)",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Allium ampeloprasum in the wild originates from the Mediterranean basin and extends eastward through southwestern Asia — southern Europe, North Africa, and into Turkey, the Caucasus, and Iran. The cultivated leek (var. porrum) has been in continuous cultivation for at least 4,000 years and is now grown worldwide as a vegetable crop; it does not persist in the wild as a self-sustaining population. Note: Allium ampeloprasum is a species aggregate that includes several distinct cultivated forms: var. porrum (leek), var. ampeloprasum (elephant garlic), and kurrat (a Middle Eastern leaf crop). Despite their culinary differences, these are botanical varieties of the same species. Leek is the most widely grown of the group in temperate climates.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; cultivated globally since antiquity; not naturalized in the wild in the US"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; a cultivated annual/biennial that does not establish in the wild"
+    },
+    "zone": {
+      "min": 5,
+      "max": 10,
+      "description": "5-10 as a crop; reliably grown as a biennial managed as an annual in Zone 6a; some overwintering varieties survive to Zone 5 or colder with mulch protection"
+    }
+  },
+  "description": {
+    "height": "18-36\" in active growth; scape (if allowed to bolt in year 2) can reach 36-48\"",
+    "spread": "3-6\" per plant; leeks grow in a tight, upright habit and do not spread laterally",
+    "spacing": "4-6\" in-row for standard production; rows 8-12\" apart; in raised beds, a 6\" grid spacing is ideal. Closer spacing (3-4\") produces more, thinner shanks; wider spacing (6-8\") produces fewer but thicker, more impressive shanks",
+    "growthRate": "Slow to moderate — leeks are one of the slowest-maturing vegetables in the garden; consistent, steady growth throughout a long season is the norm",
+    "timeToMaturity": "75-120 days from transplant depending on variety (summer leeks: 75-90 days; fall/storage leeks: 100-120 days). From seed started indoors in January-February, the total season from sow to harvest is 5-7 months. This makes leek one of the longest-season crops in the vegetable garden — a commitment that rewards planning.",
+    "lifespan": "Biennial grown as an annual in most garden contexts — in year 1, the plant produces the edible shank and foliage; in year 2 (if overwintered), it bolts in spring, sending up a tall scape topped with a large spherical seed head. Overwintering leeks for seed is entirely possible and useful for variety preservation, but for culinary purposes, the harvest focus is entirely on the year-1 shank before any bolt. Some overwintering varieties are intentionally left in the ground through winter and harvested as needed into early spring before they bolt.",
+    "deciduousEvergreen": "Grown as an annual in most contexts — foliage is persistent through the growing season; dies back with hard freezes; some varieties retain green foliage and survive in the ground through mild winters in Zone 6a",
+    "winterInterest": "Minimal as an ornamental; however, leeks left in the ground through winter are a practical, functional presence — they can be harvested through the winter from the ground (dig as needed when soil is not frozen solid), providing fresh food at a season when little else is available in the garden"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — leeks require at least 6-8 hours of direct sun for good shank development and robust growth; they will grow in part shade but will be thinner, slower, and less productive; do not plant in heavily shaded locations",
+    "water": "Medium to medium-high — leeks need consistent moisture throughout their long growing season; irregular watering causes poor shank development and can trigger premature bolting; drip irrigation or soaker hose at the base is preferable to overhead watering; mulching around plants helps retain moisture and moderates soil temperature through the heat of summer",
+    "drainagePreference": {
+      "description": "Well-drained to average; leeks are somewhat more tolerant of heavier soil and imperfect drainage than onions — this is one of their practical advantages — but they still perform best in loose, well-prepared soil that drains freely; waterlogged conditions promote root rot",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate in heavy clay; clay compacts around the developing shaft and limits its length — the white shank, leek's primary edible and culinary asset, develops best in loose, friable soil that can be easily worked and hilled up around the stem; in true clay, the soil resists hilling, drainage is unreliable, and shanks are often short and stunted compared to what the variety is capable of producing; clay can also cause waterlogging at depth that leads to root rot in a long-season crop that sits in the same soil for 5-6 months; raised beds are the practical solution for heavy-soil gardeners wanting good leek production — they bypass the clay constraint entirely and allow the trench or collar blanching technique to work as intended"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral preferred; perform well at 6.5"
+    },
+    "texturePreference": "Loose, deep, well-cultivated soil is strongly preferred. Unlike onions, leeks can tolerate heavier clay-loam better — but the quality of the white shank (the primary edible portion) depends heavily on how easily the soil can be worked and hilled up around the stem. In tight, compacted soil, blanching by mounding becomes difficult, and shanks may be short or stunted. The raised vegetable beds offer the ideal environment: loose, deep, amended growing medium with no compaction. For in-ground beds, incorporate 6-8\" of compost before planting and consider the trenching method (see Maintenance) to maximize shank development. Leeks are heavy feeders and respond strongly to rich, fertile soil — generous compost incorporation is essential.",
+    "rootCharacter": "Fibrous, moderately deep root system — deeper than onions and therefore somewhat more drought and cold tolerant; leek roots extend 12-18\" in ideal conditions; they do not produce a bulb (the \"shank\" is a tightly wrapped stem, not a modified bulb like a true onion); this stem structure is what makes the blanching technique so effective"
+  },
+  "bloom": {
+    "bloomTime": "Year 2 — overwintered leeks bolt in spring (April-May in Zone 6a) and flower June-July; for culinary production, the plant is harvested before it ever blooms",
+    "bloomDescription": "Tall (36-48\") sturdy scape topped with a large (2-3\"), densely packed spherical umbel of white, pale pink, or lilac florets — ornamentally striking and among the most impressive of the allium flower heads; the blooming plant is a dramatic garden presence. Seeds are produced freely and are viable; seed-saved leeks will not come true to variety unless grown in isolation, as they cross-pollinate with other A. ampeloprasum varieties including elephant garlic.",
+    "fragrance": "Mild onion scent from foliage; flowers lightly fragrant and attractive to pollinators",
+    "flowerSex": "Hermaphrodite — each floret contains both male and female parts",
+    "pollination": "Insect-pollinated, primarily bees; leeks are outcrossing and will cross with other Allium ampeloprasum varieties including elephant garlic and kurrat; for seed saving, isolate from other A. ampeloprasum types by at least 1/4 mile or use bagging/caging"
+  },
+  "yield": {
+    "edibleParts": "White shank (the primary edible harvest — the blanched, tightly wrapped stem base; milder and sweeter than onion; used in soups, stocks, quiche, potato-leek soup, braised as a side dish, or raw in salads when young and tender); green and pale yellow leaves (the lower, tender \"flag\" leaves are mild and delicious; the upper dark green leaves are tougher but excellent in stocks and long-cooked dishes — do not discard them); flower (edible — whole flower heads can be eaten or used as an ornamental garnish; florets have a mild onion flavor); bulbils (if produced, edible like small onions). The leek is often called the \"soup onion\" and is one of the foundational flavoring vegetables of French, Belgian, and British cooking. Its flavor is distinctly milder, more delicate, and sweeter than standard onion — it cooks down into a silky texture without the sharp bite of raw Allium cepa.",
+    "harvestSeason": "Summer leeks (King Richard and similar) — harvest July through September at pencil-to-finger thickness (about 3/4\" diameter); fall/storage leeks (Bandit, Lancelot) — harvest September through November and into December; overwintering leeks (Bulgarian Giant, Bleu de Solaize) — harvest October through the following March before bolt. In Zone 6a, leeks left in the ground through winter are harvestable any time the soil is workable (not frozen solid). The entire harvest window — from first summer leek in July to last overwintering leek in March — can span nearly 9 months with variety selection. Harvest by digging with a fork rather than pulling, to avoid breaking the shank.",
+    "medicinalUses": "Shares the medicinal chemistry of the allium family — organosulfur compounds including allicin and related sulfides contribute antimicrobial, anti-inflammatory, and cardiovascular benefits; traditionally used in soups and broths for colds and respiratory illness; leeks are particularly high in the prebiotic fiber inulin, which supports gut microbiome health; contain significant vitamin K, vitamin A (from carotenoids in the green leaves), and folate. Primarily a culinary plant with meaningful nutritional value.",
+    "craftOtherYield": "Leek seed heads, if allowed to develop, make excellent dried arrangements — large, round, and architectural. Leek plants allowed to bolt in year 2 are ornamentally impressive in a kitchen garden or cutting garden setting."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; safe and widely consumed; raw leek can cause digestive discomfort in sensitive individuals due to fructans; people with IBS or FODMAP sensitivities may need to moderate intake of raw or large quantities of cooked leek",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species, including leeks, cause hemolytic anemia (destruction of red blood cells) in dogs and cats; leeks are toxic in both raw and cooked form; never allow pets to eat leek trimmings or cooked dishes containing leek. Toxic to horses as well. Keep leek foliage out of reach of pets and do not add to compost accessible to animals.",
+    "allelopathy": "Mild — root exudates contain sulfur compounds with some suppressive effect on certain soil pathogens; this underlies the classic leek-carrot companion relationship; the same exudates inhibit legume growth and are the basis of the beans-and-peas antagonism shared across the allium family",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Root / Rhizosphere (annual vegetable crop)"
+    },
+    "roles": [
+      "Food (primary role — a major culinary vegetable and one of the most useful long-season crops in the kitchen garden)",
+      "Pest Confuser (allium scent and root exudates deter carrot fly, aphids, and a range of soil-dwelling pests — classic companion planting value)",
+      "Dynamic Accumulator (sulfur compounds concentrated in foliage and shank)",
+      "Nitrogen Cycle Participant (heavy nitrogen feeder — plan nutrient inputs accordingly and follow with nitrogen-fixing crops in rotation)"
+    ],
+    "companionPlants": [
+      "Carrots (the classic leek companion — leek scent deters carrot fly; carrot scent deters leek moth and onion fly; plant in alternating rows or intermingled blocks; one of the most well-documented beneficial pairings in the vegetable garden)",
+      "celery (leeks and celery are traditional companions sharing similar growing conditions and season length)",
+      "lettuce (excellent understory companion beneath tall leeks — uses space efficiently and provides ground cover that conserves moisture)",
+      "brassicas (cabbage, broccoli, kale — allium scent confuses cabbage moths and aphids)",
+      "herbs (parsley, chamomile, thyme)"
+    ],
+    "antagonists": [
+      "Beans and peas — allium root exudates inhibit legume growth; do not plant leeks adjacent to beans or peas",
+      "and avoid following leeks with legumes in the same season in the same bed; rotate leek beds to a different location the following year before planting legumes; also noted in traditional companion planting literature to antagonize with asparagus (avoid planting adjacent to established asparagus beds)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and beneficial insects when in flower (year 2 plants); otherwise, the strong allium scent actively deters most wildlife — this is a feature, not a drawback, for pest management purposes",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera; the allium chemistry discourages most insect herbivores",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — leeks share the Allium family's outstanding deer resistance; the pungent organosulfur chemistry that gives leeks their distinctive flavor is highly effective at deterring deer browsing; leeks are among the safest vegetables to grow in areas with active deer pressure; deer will very rarely browse leek foliage even when more palatable alternatives are absent. This makes leeks an excellent candidate for in-ground vegetable beds outside or at the perimeter of deer fencing — they do not need the protection that most vegetables require. Interplanting leeks throughout vegetable rows adds an additional layer of deterrence for neighboring, more palatable crops."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates average soil salinity; not particularly salt-sensitive under normal growing conditions"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — leeks have deeper roots than onions and tolerate brief dry spells better, but consistent moisture is required throughout their long season for full shank development; mulching is strongly recommended to conserve soil moisture and extend the interval between watering"
+    },
+    "other": "Cold tolerance is a defining leek characteristic and one of its greatest virtues as a garden crop. Most leek varieties tolerate light frost readily; many fall and overwintering varieties tolerate hard freezes to 10-20°F (-12 to -7°C), especially when planted deep or mulched. In Zone 6a, fall-planted leeks commonly survive in the ground through November and December without any protection; overwintering varieties with a heavy mulch layer can persist through January and February, providing fresh harvest when the garden is otherwise dormant. This cold hardiness is exceptional among vegetable crops and is a major reason to grow leeks in a Zone 6a kitchen garden."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — leeks are not difficult but require attention to timing, blanching technique, and consistent fertility; the long season demands sustained management across many months; most of the work is front-loaded (seed starting in January-February) and mid-season (hilling or blanching as plants grow); once established, they are relatively low-maintenance",
+    "pruningNotes": "Transplanting: Trim the roots of transplants to 1-2\" and cut the tops back to 4-6\" at planting time; this is standard leek transplanting practice — it reduces transplant shock, directs energy to root establishment, and the plant quickly produces new foliage. Plant transplants deeply — 4-6\" below the soil surface — to automatically start the blanching process.\nBlanching technique — this is the defining horticultural practice for leeks and should be understood before planting: The white shank (the desirable, mild, edible portion) is created by excluding light from the developing stem. There are two main methods:\nTrench method (traditional, most effective for long shanks): At planting time, excavate a trench 6\" deep and 6\" wide. Set transplants at the bottom, 6\" apart. Water and allow to establish. As plants grow, gradually fill in the trench with loose soil or compost, pulling it up around the stems in stages — never burying the growing tip. By harvest, the trench will be filled flush with the surrounding bed, and the shank will be 6-8\" of pure white stem, well above what surface planting would produce. This is the preferred method for premium shank quality.\nHilling / collar method: For plants grown at grade (not in a trench), hill loose soil, compost, or straw up around the base of each plant as it grows, keeping the growing tip exposed. Alternatively, use cardboard collars, PVC pipe sections, or purchased paper sleeves around the stem to exclude light without burying the leaves. Collar-style blanching keeps the shank clean (soil-free) and is useful in raised beds where trenching is impractical.\nNutrition: Leeks are heavy feeders. Amend the bed generously with compost before planting. Side-dress with a nitrogen-rich amendment (blood meal, fish emulsion, balanced granular fertilizer, or compost tea) once a month throughout the growing season — approximately May, June, July, and August for a summer-to-fall crop. Reduce nitrogen inputs as plants approach harvest maturity in fall; excess late-season nitrogen can compromise storage quality and cold hardiness.\nWeed management: Young leek transplants are slow to establish and compete poorly with weeds; keep the bed weed-free for the first 4-6 weeks after transplanting; once leeks are 8-10\" tall and the hilling has begun, mulching between rows suppresses weeds effectively.",
+    "propagationMethods": [
+      "Seed (primary method — the only way to access named varieties): Sow indoors in January or early February in Zone 6a — this is the earliest indoor seed start of any vegetable in the kitchen garden calendar",
+      "10-14 weeks before the April transplant date. Leeks are among the first seeds to go under the lights each year. Sow in cell trays or flat at 1/4\" depth; germination at 65-75°F in 10-14 days. Grow on under strong light (weak light produces thin, etiolated seedlings that transplant poorly); thin to 1 seedling per cell or sow densely and separate at transplanting. Transplant outdoors after last frost (May 1 in Zone 6a) or in mid-April if cold hardening is thorough — leek transplants tolerate light frost. For summer leeks (King Richard)",
+      "transplanting in late April to early May works well; for fall storage leeks",
+      "a May 1 transplant is ideal.\nBulbils (if produced): Some varieties produce small aerial bulbils in the flower head; these can be harvested and planted like small sets for propagation",
+      "though they are rarely used in standard garden production."
+    ]
+  },
+  "cultivarNotes": "Leek varieties are broadly divided into three categories by maturity and cold hardiness. Variety selection should account for the full season opportunity — starting with summer leeks in July and carrying through overwintering types into the following spring. A mixed planting across all three groups maximizes both the harvest window and variety of culinary uses.\nSummer/early leeks (harvest July-September) — Zones 5-10: These varieties mature in 75-90 days from transplant and are characterized by long, slender shanks, mild flavor, and limited cold hardiness. They will not survive hard freezes and must be harvested before serious frost arrives. Best suited to gardeners who want premium fresh leeks through the summer and early fall.\n'King Richard' — the benchmark summer leek; exceptionally long (10-14\"), slender shank; very mild, sweet flavor; 75 days; excellent for blanching; widely recommended for gardeners who want premium quality leeks for summer and early fall; limited cold hardiness means it must be harvested before serious frost; widely available from Johnny's Selected Seeds, Fedco, and other quality seed houses\n'Lincoln' — similar to King Richard; long, slender, uniform; good for summer harvest\nFall/storage leeks (harvest September-December) — Zones 5-9: These mature in 100-120 days and have shorter, thicker shanks, more intense flavor, and significantly better cold hardiness — typically surviving temperatures down to 10-15°F with some protection. The backbone of a productive leek harvest for most temperate-climate gardeners.\n'Bandit' — a top-rated fall and early winter leek; good cold hardiness; blue-green foliage; thick shank; reliable producer in Zones 5-7; can remain in the ground well into December\n'Lancelot' — versatile fall leek; excellent shank quality; good disease resistance; widely available and reliable across Zones 5-7\n'Tadorna' — another solid fall variety; uniform, consistent producer\nOverwintering leeks (harvest October-March, following spring) — Zones 5-8: The most cold-hardy types, bred for winter survival and spring harvest; some tolerate temperatures below 0°F with mulch protection. These varieties are shorter and stockier, with darker blue-green foliage and often a more robust, pronounced flavor than summer types. Best choice for gardeners who want to harvest fresh leeks from the ground in winter.\n'Bleu de Solaize' (also listed as 'Blue Solaise') — a French heirloom; distinctive blue-gray foliage that intensifies in cold; excellent cold hardiness to Zone 5 and below with mulch; beautiful ornamental quality in a winter garden; one of the finest overwintering leeks available; good flavor\n'Bulgarian Giant' — large, cold-hardy overwintering leek; significant cold tolerance; produces substantial shanks; a good choice if the goal is to leave leeks in the ground for spring harvest\n'Saint Victor' — heirloom overwintering type; violet-tinged leaves; attractive and productive; notable cold hardiness",
+  "gardenUse": {
+    "suggestedUse": [
+      "Raised vegetable beds (primary)",
+      "in-ground vegetable beds (excellent — leeks tolerate heavier soil better than onions and have exceptional deer resistance)",
+      "kitchen garden as a continuous-harvest staple across a 9-month window"
+    ],
+    "designPlacement": "Primary placement is in vegetable beds — leeks are not ornamental plants for landscape use, but their upright blue-green foliage has some structure and presence in a kitchen garden context. The trench or collar blanching technique requires a dedicated bed where consistent hilling can be managed uniformly across a group of plants; leeks work best when block-planted or row-planted rather than scattered. Given their exceptional deer resistance, leeks are strong candidates for in-ground beds in any part of the property with deer pressure — they can be grown as a perimeter or buffer crop alongside more vulnerable vegetables. The classic companion pairing with carrots is highly recommended: alternate rows of leeks and carrots in a single bed for mutual pest deterrence. The long harvest season makes leeks one of the most productive uses of bed space — a single January seed start produces food from July through December or beyond.",
+    "acquisitionStatus": "To source — seed preferred for variety selection; recommended sources: Johnny's Selected Seeds (King Richard, Bandit, Lancelot), Fedco Seeds (excellent leek selection including heirlooms), High Mowing Organic Seeds; start seeds in January-February\nPennsylvania — Hegins Site Observations:\nLeek growing success in Zone 6a is heavily front-loaded — the January seed start is the most critical action. Missing this window by planting too late (March or April) results in immature plants by fall and lost harvest potential from summer varieties entirely. Set a calendar reminder in late December to order seeds and in mid-January to sow. The effort invested in deep planting or trenching at transplant time pays dividends at harvest — do not skip this step. Leeks started in January and transplanted in late April with proper trenching will yield shanks 8-12\" long by fall; the same varieties transplanted without trenching will yield 3-4\" shanks. The difference in culinary value is enormous."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leek",
+    "inaturalist": "https://www.inaturalist.org/taxa/122912-Allium-ampeloprasum (parent species — iNaturalist tracks the wild species Allium ampeloprasum; the cultivated variety porrum is not separately tracked)",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay — raised beds strongly recommended for best production; in-ground beds are possible with deep amendment (6-8\" compost incorporated before planting) but will produce shorter shanks and carry higher drainage risk; the raised vegetable beds at the Hegins site are the highest-priority placement for leeks",
+      "soil": "Hegins raised beds preferred for leek culture; the loose, deep growing medium of a raised bed enables full shank development and makes hilling and blanching straightforward; in-ground culture in Hegins red clay will require deep compost amendment and will still produce shorter shanks",
+      "cultivarNotes": "For Zone 6a, the full three-group planting strategy is practical and rewarding. Start King Richard and Bandit seeds in January-February for the best summer and fall production. King Richard is the top summer pick — harvest July through September before hard frost. Bandit is the reliable fall standard — harvest October through December in the ground without mulch. For a spring leek supply, also start Bleu de Solaize in January; transplant with the others in late April to early May; mulch heavily in November and harvest into February-March of the following year before they bolt. This combination covers July through March — an extraordinary 9-month harvest window from a single annual seed start.",
+      "designPlacement": "Raised beds are the highest-priority placement for leeks at the Hegins site — the loose, deep, well-amended growing medium enables full shank development and makes the hilling process straightforward. The trench method is most easily executed in a newly prepared raised bed at the start of the season. For production volume, dedicate a full row or section to leeks each year. Sow seeds in mid-January; transplant in late April to early May (after last frost, approximately May 1 in Zone 6a). A mixed planting of King Richard (summer), Bandit (fall), and Bleu de Solaize (overwintering) covers July through early spring.",
+      "siteObservations": null
+    }
+  }
+}

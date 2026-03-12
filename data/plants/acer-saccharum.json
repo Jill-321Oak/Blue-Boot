@@ -1,0 +1,170 @@
+{
+  "id": "acer-saccharum",
+  "name": {
+    "commonName": [
+      "Sugar Maple",
+      "Rock Maple"
+    ],
+    "latinName": "Acer saccharum",
+    "family": "Sapindaceae (formerly Aceraceae)"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — from Nova Scotia and southern Quebec west through Ontario to Manitoba, south through New England, the Great Lakes region, Appalachians, and into the upper South; one of the defining canopy trees of the northern hardwood forest; native throughout Pennsylvania and common at mid-elevation in the Appalachian highlands",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the northeastern and north-central United States; range includes New England, New York, Pennsylvania, New Jersey, and the mid-Atlantic states; west through Ohio, Indiana, Michigan, Wisconsin, and Minnesota; south along the Appalachians through West Virginia, Virginia, Tennessee, and into the upper South (Kentucky, North Carolina); the core of its US range is the northern hardwood forest belt; present but less common at range edges in Missouri, Arkansas, and the Deep South uplands; absent from the Great Plains, the West, and most of the Southeast coastal plain"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the United States; seeds (samaras) are wind-dispersed and germinate readily in disturbed soil and forest margins, but seedlings are easily managed; the species is universally regarded as beneficial and ecologically valuable across its entire US range; no state lists it as invasive or of concern"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8; a cool-climate species — performs best in Zones 4-6; Zone 6a is at the warmer edge of its ideal range but is appropriate in Pennsylvania's Appalachian context with adequate moisture and siting"
+    }
+  },
+  "description": {
+    "height": "60-75' at maturity in open conditions; can reach 100'+ in ideal forest conditions; a large, imposing canopy tree",
+    "spread": "40-50'; broadly oval to rounded crown at maturity; requires significant horizontal and vertical space — this is not a small-garden tree",
+    "spacing": "40-50' minimum from other large trees; allow full open space for canopy development; do not crowd — sugar maple is sensitive to competition stress in hot, dry conditions",
+    "growthRate": "Slow to moderate; 12-24\" per year under ideal conditions; slower in dry or compacted soils; patience is required — the long-term returns justify the wait",
+    "timeToMaturity": "Sap can be tapped from trees with a trunk diameter of 10\"+ (roughly 10-15 years of good growth from a young nursery tree); peak sap production at 30-40 years; full ornamental and ecological maturity at 50+ years; this is a multigenerational planting",
+    "lifespan": "Very long-lived; 200-400+ years; mature sugar maples are ecological anchors and are significant community and landscape assets",
+    "deciduousEvergreen": "Deciduous — leaves are the classic 5-lobed maple shape (the Canadian flag leaf); medium to deep green in summer; fall color is legendary: intense orange, red, yellow, and scarlet — one of the most spectacular and consistent fall foliage trees in North America; in the Appalachian region, fall color typically peaks in mid-to-late October",
+    "winterInterest": "Moderate — the strong, upright branching structure is attractive in winter; the gray-brown bark develops shallow fissures with age; persistent samaras may cling briefly before falling; overall a clean, architectural silhouette in winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; best fall color and fullest canopy in full sun; tolerates part shade and naturally grows as both canopy and understory in mature forest; avoid dense shade for long-term productivity",
+    "water": "Medium; prefers consistent soil moisture — this is not a drought-adapted tree; native to mesic upland soils with good moisture retention; requires adequate water especially in the first 3-5 years of establishment and during Zone 6a summer heat events; mulch heavily to retain soil moisture",
+    "drainagePreference": {
+      "description": "Moist, well-drained preferred; native to well-structured upland soils; NOT tolerant of poorly drained, waterlogged, or compacted soils; performs poorly in clay that stays wet; also struggles in dry, shallow, or rocky soils — site carefully for long-term success",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to marginal — sugar maple is one of the more clay-sensitive large native trees; heavy clay creates two compounding problems: drainage is impeded (sugar maple dislikes waterlogged roots) and the soil structure resists root penetration and aeration; in tight, unstructured clay the tree will grow slowly, show stress in dry summers, and is vulnerable to long-term decline; if clay soil must be used, raised siting, deep mulching, and organic amendment at planting are essential; performance improves significantly in clay-loam as opposed to pure clay; well-drained clay on a slope is more workable than flat, wet clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acid to neutral preferred; intolerant of strongly acid soils; avoid lime-deficient, highly leached sites"
+    },
+    "texturePreference": "Deep, moist, fertile loam preferred; well-structured soil with good organic matter and consistent moisture retention; tolerates well-drained clay loam if drainage is good; compacted or structurally degraded soils are a significant stressor — this species does not thrive in disturbed urban soils",
+    "rootCharacter": "Wide-spreading, moderately shallow lateral root system; roots extend well beyond the drip line; very sensitive to soil compaction, paving, and grade changes over the root zone; do not alter grade or compact soil within the drip line of established trees; roots compete aggressively with understory plants within the heavy shade zone"
+  },
+  "bloom": {
+    "bloomTime": "March-April; among the earliest flowering native trees in PA — blooms before or as leaves emerge; an important early pollen source when few other trees are flowering",
+    "bloomDescription": "Monoecious — male and female flowers on the same tree; flowers are small, yellow-green to yellow, borne in pendulous clusters on long slender stalks; individually inconspicuous but numerous; appear before the leaves, giving the tree a soft yellow-green haze in early spring against bare branches; the flowering period is brief but ecologically significant",
+    "fragrance": "Not notably fragrant",
+    "flowerSex": "Monoecious — male and female flowers borne separately on the same tree; occasionally functionally dioecious (some individual trees produce predominantly one sex)",
+    "pollination": "Wind-pollinated and insect-pollinated; the early spring flowers provide an important source of pollen for emerging native bees, early bumblebee queens, and other early insects; a single tree will set viable seed; cross-pollination improves seed set"
+  },
+  "yield": {
+    "edibleParts": "Sap (the primary and remarkable yield — sugar maple sap is the source of maple syrup and maple sugar, the oldest and most culturally significant sweetener of eastern North America); the sap itself can be drunk fresh as a lightly sweet, mineral-rich spring tonic; young leaves are edible raw in small quantities; seeds (samaras) are edible — the winged seeds can be boiled and are mildly sweet",
+    "harvestSeason": "Maple syrup — late February through March; the sap flow is triggered by the freeze-thaw cycle: days must be above freezing (ideally 40-45°F) and nights must drop below freezing (ideally 20-25°F); in Zone 6a PA this window typically opens in late February and closes in late March as nighttime temperatures consistently stay above freezing; the season is short — 4-6 weeks in a good year, sometimes less; watch the weather carefully. When buds begin to swell and the sap turns milky or cloudy, the season is over for that year.",
+    "medicinalUses": "The sap and syrup have mild medicinal uses in traditional Native American practice; the inner bark has been used as a poultice; maple syrup contains trace minerals (manganese, zinc, calcium); primarily a food, not a medicine",
+    "craftOtherYield": "Timber — sugar maple produces some of the finest hardwood in North America; the dense, hard wood is prized for flooring, furniture, butcher blocks, musical instruments (violin backs, guitar necks), and fine woodworking; \"bird's eye maple\" and \"curly maple\" figure patterns are highly prized and occur in sugar maple; a mature tree is a significant timber asset; the wood is also exceptional firewood with a very high BTU output. Maple sugar — when sap is boiled beyond syrup to the crystallization point, it produces maple sugar (granulated) and maple candy; both have long shelf lives. Natural dye — the bark yields a tan to beige dye; leaves yield yellow-gold tones.\n--- MAPLE SYRUP TAPPING NOTES ---\nA single mature sugar maple (10\"+ trunk diameter) can produce 10-20 gallons of sap per season. At a 40:1 reduction ratio, this yields approximately 1/4 to 1/2 gallon (1-2 quarts) of finished syrup per tap. Even a small grove of 3-5 trees provides meaningful home-scale syrup production.\nTapping procedure: Drill a 7/16\" hole 2\" deep into the trunk at about chest height; angle the drill slightly upward to allow sap to drip forward; select the south-facing side of the trunk where possible (warmest microclimate, best flow); insert a clean tap (spile) — wooden, metal, or plastic are all acceptable; hang a covered collection bucket or connect food-grade tubing to a central collection vessel. Collect sap daily when it is flowing; sap is clear and watery (not milky) when fresh and good; do not allow sap to sit more than 24-48 hours before boiling — it will sour. Boil outdoors or in a well-ventilated space — the steam volume is very large and will damage interior walls and ceilings. A simple backyard evaporator (a cinder-block arch with a flat pan) is adequate for home-scale processing. Boil until the syrup reaches 219°F (7°F above the boiling point of water at your elevation) or passes the sheeting test on a spoon. Filter through a felt or orlon filter to remove sugar sand (mineral deposits). Store in sterilized mason jars; hot-pack and seal for shelf stability.\nA single tap per tree of 10-17\" diameter; two taps for trees over 18\"; three for trees over 25\". Never tap a tree under 10\" diameter. Tapping is not harmful to the tree when done correctly — Native peoples tapped the same trees for generations."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None — all edible parts are safe",
+    "toxicityAnimals": "The leaves of red maple (Acer rubrum) are toxic to horses; sugar maple leaves are generally considered safe, but wilted or dried maple leaves of any species should be kept away from horses as a precaution; no significant toxicity concerns for dogs, cats, or livestock from A. saccharum specifically",
+    "allelopathy": "Not significantly allelopathic; the dense canopy and heavy summer shade cast by a mature sugar maple creates a competitive suppression zone through light exclusion — the deep shade is the primary competitive mechanism, not chemical allelopathy; understory plants must be shade-tolerant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Canopy"
+    },
+    "roles": [
+      "Food (maple syrup and maple sugar — a uniquely valuable, seasonal, calorie-dense native food yield)",
+      "Timber / Long-term Asset (exceptional hardwood with high commercial value)",
+      "Wildlife Support (outstanding native ecological value as a pollen source, seed producer, and insect host)",
+      "Dynamic Accumulator (deep leaf litter is nutrient-rich; recycles calcium and other minerals from deep soil)",
+      "Shade and Microclimate Moderator (the dense summer canopy casts very heavy shade — valuable for cooling buildings and adjacent spaces)",
+      "Carbon Sequestration (a mature sugar maple is a substantial long-term carbon store)",
+      "Cultural and Aesthetic Anchor (the fall color alone is a landscape event of the first order)"
+    ],
+    "companionPlants": [
+      "Shade-adapted woodland plants within the canopy zone: Asarum canadense (wild ginger)",
+      "Sanguinaria canadensis (bloodroot)",
+      "Trillium spp.",
+      "Podophyllum peltatum (mayapple)",
+      "Hydrophyllum virginianum (Virginia waterleaf)",
+      "Actaea racemosa (black cohosh)",
+      "Osmorhiza claytonii (sweet cicely)",
+      "Allium tricoccum (ramps/wild leek — an excellent yield plant for the shaded root zone)",
+      "Polystichum acrostichoides (Christmas fern)",
+      "Athyrium filix-femina (lady fern); in the sunny perimeter beyond the canopy: Cornus florida (flowering dogwood)",
+      "Amelanchier spp. (serviceberry)",
+      "Asimina triloba (pawpaw)",
+      "Ribes spp. (currants)",
+      "native wildflowers and grasses"
+    ],
+    "antagonists": [
+      "Not a strong allelopath; the primary antagonism is shade — do not site sun-requiring food plants beneath the canopy; avoid paving",
+      "grade changes",
+      "or soil compaction anywhere near the drip line or root zone; road salt is a serious stressor and will cause decline and death; avoid sites near salted roads or parking areas"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Samaras (winged seeds) are consumed by many bird species including grosbeaks, finches, and nuthatches, and by squirrels, chipmunks, and other small mammals; the spring flowers provide critical early pollen for emerging native bees and bumblebee queens before most other food sources are available; the dense canopy provides nesting cover and foraging habitat for many songbirds; the seeds support significant wildlife during the lean early summer window before other mast crops ripen",
+    "hostPlantFor": "Sugar maple is a significant native Lepidoptera host — supports 200+ species of moths and butterflies in the eastern US according to entomological literature; notable species include the cecropia moth (Hyalophora cecropia — the largest moth in North America, spectacular), the rosy maple moth (Dryocampa rubicunda — vivid pink and yellow, one of the most beautiful native moths), the imperial moth (Eacles imperialis), and many others; as a host plant, A. saccharum is in the upper ecological tier of native trees — comparable to oaks in its support of the insect food web",
+    "nestingHabitat": "Excellent; mature sugar maples with their large canopy and developing trunk cavities support many cavity-nesting bird species as the tree ages; the canopy structure and bark texture provide foraging habitat for creepers, nuthatches, and woodpeckers"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate concern for young trees — seedlings and saplings up to 3-4' tall are browsed, especially when deer pressure is high; protect young trees with tree tubes or wire cages (3' diameter minimum) during the first 3-5 years until the trunk is above browse height; established trees with trunks beyond reach are not significantly damaged by deer"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — one of the more salt-sensitive native trees; road salt spray and salt-contaminated runoff are a well-documented cause of sugar maple decline along roadsides and in urban plantings; do not site within salt spray range of maintained roads; avoid sites where winter salt runoff concentrates; this is a rural or genuine woodland landscape tree"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — A. saccharum is not drought-adapted; summer heat and dry spells in the warmer zones are genuine stressors; established trees will survive typical Zone 6a summers but may show early leaf scorch or premature color in drought years; site in moist, well-drained soil; avoid dry, thin, or south-facing slopes; mulch the root zone to retain moisture; young trees require consistent irrigation through the first 3 summers"
+    },
+    "other": "Not tolerant of soil compaction, construction disturbance, root zone paving, or grade changes; highly sensitive to urban conditions generally — performs poorly as a street tree or in compacted urban soils; intolerant of strongly alkaline soils or high-lime conditions; performs best in rural or woodland landscape settings away from infrastructure stress"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established; the main effort is establishment care (irrigation, mulching, deer protection) in years 1-5; annual syrup tapping from 10-15 years onward is a rewarding seasonal practice rather than a maintenance burden",
+    "pruningNotes": "Minimal pruning needed. In youth, select a strong central leader and remove competing co-dominant stems; this is the primary structural work. Remove dead, damaged, or crossing branches as needed. Sugar maple is susceptible to branch failure with age if tight V-crotches are allowed to develop — prune these out early. For timber quality, gradually remove lower limbs as the tree matures to develop a clear trunk; this is optional for home landscape use. Prune in late summer or early fall — like all maples, A. saccharum bleeds sap heavily if pruned in late winter or spring; this is cosmetically undesirable but not harmful to the tree. Tap maintenance: sterilize and store taps after each season; inspect tap holes — they close over within a season or two; do not retap the same hole; always drill a fresh hole each year, spaced at least 4-6\" from previous holes.",
+    "propagationMethods": [
+      "Seed (the standard method; samaras ripen in late September-October and fall soon after; collect seeds promptly and stratify — the seeds are orthodox and require cold-moist stratification for 90-120 days; plant in containers or in the ground in fall for natural stratification and spring germination; seeds are short-lived and should not be allowed to dry out); grafting (used for named cultivars to ensure predictable fall color and growth characteristics — grafted trees are readily available from nurseries and establish well); transplanting (container-grown nursery stock transplants well in spring or early fall; balled-and-burlapped trees of up to 3-4\" caliper can be successfully moved)"
+    ]
+  },
+  "cultivarNotes": "Named cultivars are selected for improved adaptability to warmer zones, better fall color consistency, and more predictable growth form.\nZones 3-5 (cooler climates — straight species performs well; cultivar selection is optional):\nSeed-grown straight species from local or regional provenance is an excellent choice in Zones 3-5 — fall color is variable but can be exceptional; locally-adapted genetics are valuable for long-term resilience\n'Bonfire' (Zone 4-8; vigorous, upright form; excellent red fall color; very fast-growing for a sugar maple; a good choice where establishment speed matters)\nZones 5-6 (transitional — where improved heat and drought tolerance begins to matter):\n'Green Mountain' (developed at the University of Vermont specifically for adaptability to warmer and drier zones; thick, leathery leaves with better drought tolerance than the species; excellent orange to red-orange fall color; a strong selection for Zone 5-6 situations; widely available)\n'Fall Fiesta' (Bailsta; heat and drought tolerant; outstanding fall color in orange, red, and yellow; one of the more adaptable cultivars for Zone 6 sites)\n'Legacy' (selected specifically for improved heat and drought tolerance relative to the straight species; dense oval form; excellent, consistent orange-red fall color; widely available and a reliable performer in the mid-Atlantic and lower Midwest)\nZones 6b-7 (warmer edge of range — cultivar selection is important):\nAt the warmer edge of A. saccharum's range, the straight species increasingly struggles with summer heat and drought stress; a heat-tolerant cultivar is strongly recommended; 'Legacy' and 'Fall Fiesta' are the best choices for Zone 6b-7 sites",
+  "gardenUse": {
+    "suggestedUse": [
+      "Large canopy anchor; woodland garden overstory; syrup production tree; wildlife support; specimen tree for fall color; long-term timber investment; heritage/legacy planting for future generations"
+    ],
+    "designPlacement": "Sugar maple is a large-site, long-horizon planting — it requires significant open space and a commitment to a permanent siting; allow 40-50' of clearance from other large trees and at least 20-30' from any building foundation given the root spread; the heavy summer shade it casts should be planned for — understory plantings beneath its canopy must be shade-adapted woodland species (ramps, wild ginger, ferns, bloodroot), not food plants requiring sun; ideal placement is at the edge or back of a property where it can anchor a woodland canopy without crowding structures or sun-dependent production zones; keep well away from salted road edges, driveways, or parking areas; the sap tapping yield makes even one well-sited tree a meaningful homestead asset; this is a once-in-a-generation planting — site it carefully and it will serve the land for centuries",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Acer_saccharum",
+    "inaturalist": "https://www.inaturalist.org/taxa/52543-Acer-saccharum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h240"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — A. saccharum is native to Pennsylvania; characteristic of well-drained upland hardwood forests throughout the state; extremely common in the Ridge and Valley province and the Appalachian Plateau; the classic companion to American beech (Fagus grandifolia) and yellow birch (Betula alleghaniensis) in mature mesic upland forest; the Hegins Valley region in Schuylkill County is well within the natural range and historic distribution of this species",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; native and ecologically integral to PA forest communities; no restrictions or concerns",
+      "drainage": "Hegins red clay is a significant challenge for this species; the compacted, construction-disturbed clay on the site is not an ideal medium; if planting a sugar maple at Hegins, choose the site with the best natural drainage (a gentle slope or elevated ground), amend the planting hole generously with compost, mulch the entire root zone to 4\" depth out to the drip line, and plan for supplemental irrigation through the first 3-5 summers; even with best practices, the clay may limit long-term performance compared to a well-drained loam site",
+      "soil": "Hegins red clay is below ideal for this species; if planting at this site, prioritize a location with the best natural drainage, amend the planting area deeply with compost to improve structure and organic content, and commit to a multi-year mulching program; the species is native to this region and will adapt, but it will not reach its potential in severely compacted or waterlogged clay without deliberate soil improvement",
+      "cultivarNotes": "'Legacy' is the top recommendation — selected specifically for heat and drought tolerance, it is the most widely proven performer for mid-Atlantic Zone 6a conditions; 'Green Mountain' is an equally strong alternative with particular merit in drier situations; for a legacy planting with no urgency on fall color consistency, a Pennsylvania-provenance seedling from a local nursery is a sound and ecologically valuable choice",
+      "designPlacement": "At the Hegins property, this tree belongs at the far edge or back of the site where it will have room to develop its full 60-75' canopy without crowding structures, outbuildings, or other plantings; ideal placement is the back or side yard anchoring the woodland canopy edge; keep away from the salted road on the north border and away from the driveway edge; the heavy summer shade it casts should be planned for relative to the food production zones — the apple guild, paw paw pair, and mulberry guild all need sun and should not be placed in its eventual shade envelope; understory plants within its canopy zone should be shade-adapted woodland species: ramps (Allium tricoccum), wild ginger (Asarum canadense), ferns, and bloodroot are all excellent companions already in the plant library\nAcquisition Status:\nPennsylvania — Hegins Site Observations:\nZone 6a is at the warmer edge of this species' ideal range — a heat-tolerant cultivar ('Legacy' or 'Green Mountain') is recommended over the straight species for best long-term performance\nThe Hegins red clay is a meaningful challenge; site selection within the property should prioritize the area with the best natural drainage; raised or sloped ground is preferable to flat, low-lying areas where clay stays wet after rain\nActive deer pressure requires tree tube or wire cage protection for the first 3-5 years until the trunk is above browse height; given the slow early growth rate of sugar maple, this protection period may extend longer than for faster-growing species\nThe back or far side of the property is the appropriate placement zone — this tree will eventually cast significant shade over a large area and should not be positioned where that shade will conflict with the food production zones (apple guild, paw paw pair, mulberry guild)\nThe maple syrup yield is a genuine long-term asset for the Hegins property — even a single well-sited tree tapped from year 15 onward represents a meaningful, culturally significant food yield; the Pennsylvania mountain climate is one of the best in the eastern US for syrup production",
+      "siteObservations": null
+    }
+  }
+}

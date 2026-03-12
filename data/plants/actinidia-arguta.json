@@ -1,0 +1,161 @@
+{
+  "id": "actinidia-arguta",
+  "name": {
+    "commonName": [
+      "Hardy Kiwi",
+      "Bower Kiwi",
+      "Baby Kiwi",
+      "Tara Vine"
+    ],
+    "latinName": "Actinidia arguta",
+    "family": "Actinidiaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern Asia — Japan, Korea, China, Russian Far East",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced from East Asia; not native to any part of North America; naturalization in disturbed woodland edges of the eastern US has been documented in scattered localities"
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "US-wide — Actinidia arguta (hardy kiwi) has invasive potential in the eastern US; it is listed as invasive or a plant of concern in several northeastern states including New Jersey, Maryland, and others where it escapes cultivation and colonizes woodland edges; the vine is extremely vigorous and can smother native understory vegetation once established outside cultivation; this is a different species from Actinidia deliciosa (commercial kiwi), which is not cold-hardy in most of the US; gardeners in the eastern US should site this plant intentionally and manage spread"
+    },
+    "zone": {
+      "min": 4,
+      "max": 8,
+      "description": "4-8 — significantly more cold-hardy than commercial kiwi (Actinidia deliciosa, which is Zone 8-9)"
+    }
+  },
+  "description": {
+    "height": "20-30'+ on support (or more — an extremely vigorous vine); can be contained to 6-10' with annual pruning",
+    "spread": "Wide; can cover a large arbor or fence; plan for significant horizontal spread",
+    "spacing": "10-15' from other plants; one male plant per 3-5 female plants",
+    "growthRate": "Very fast — can grow 8-12' in a single season once established; one of the most vigorous temperate vines",
+    "timeToMaturity": "First fruit years 3-7 (fruiting takes patience); full production from year 7-8 once the vine matures",
+    "lifespan": "Very long-lived; decades; can become a permanent, large-scale feature of the garden",
+    "deciduousEvergreen": "Deciduous — large glossy heart-shaped leaves; vigorous leafy growth all season",
+    "winterInterest": "None — bare in winter; the main structural framework is visible"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; fruiting best in full sun; tolerates shade better than many fruiting vines but fruit set is reduced",
+    "water": "Medium; consistent moisture especially during fruit development; drought stress reduces fruit production significantly",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates a range of conditions; avoids waterlogged soil",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — hardy kiwi can grow in clay-loam but does not thrive in poorly drained heavy clay; waterlogged roots during the growing season cause decline; in heavy clay, raised planting (mounding 6-8\" above grade), generous organic matter incorporation, and avoiding low-lying planting sites is important; clay soils that drain reasonably within 24-48 hours after heavy rain are workable with good site preparation"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "5.0-7.0; slightly acid preferred"
+    },
+    "texturePreference": "Adaptable; well-drained loam preferred; performs in clay-loam with amendment",
+    "rootCharacter": "Extensive, moderately deep root system; provide strong permanent support — mature vines are heavy"
+  },
+  "bloom": {
+    "bloomTime": "May-June",
+    "bloomDescription": "Small, creamy-white flowers, fragrant, appearing on new growth; individually modest but the vine blooms profusely when mature",
+    "fragrance": "Lightly fragrant flowers; a bonus",
+    "flowerSex": "Dioecious — plants are either male or female; only female plants produce fruit; male plants are needed for pollination only; plant 1 male for every 3-5 females for full fruit set",
+    "pollination": "Bees; dioecious — requires male plant nearby; male plants must bloom at the same time as females (this is why purchasing paired cultivars from the same variety series is recommended)"
+  },
+  "yield": {
+    "edibleParts": "Fruit (small, grape-sized kiwis with smooth edible skin — no need to peel unlike commercial kiwi; eat whole; sweet, complex, tropical flavor; high in vitamin C; one of the finest small fruits available)",
+    "harvestSeason": "September-October; fruit falls or can be picked when slightly soft",
+    "medicinalUses": "High in vitamin C and antioxidants; primarily a food plant",
+    "craftOtherYield": "Jam, wine, fruit leather; the fruit dries well"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "Generally safe; some cats are attracted to the vine (similar to catnip effect); protect young vines from cat attention",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Vine / Canopy"
+    },
+    "roles": [
+      "Food (fruit — a premium yield from vertical space)",
+      "Vertical Canopy (utilizes space above shrubs)",
+      "Shade Provider (for those below)",
+      "Wildlife Support"
+    ],
+    "companionPlants": [
+      "Apple trees (classic pairing — kiwi vine trained up the apple tree trunk or on a trellis near the apple guild; the shade of the apple partially tolerates kiwi foliage but the kiwi needs its own light; a trellis structure is better); comfrey at the base; wisteria provides nitrogen from the same trellis structure"
+    ],
+    "antagonists": [
+      "Do not allow the vine to overgrow apple or other fruit trees — the weight and shading will damage them; train carefully on dedicated support"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (flowers), birds (fruit eaten by robins, thrushes, and others), cats (attracted to the foliage of young plants)",
+    "hostPlantFor": "Not a significant host plant for North American native Lepidoptera",
+    "nestingHabitat": "Dense vine growth provides nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — not a preferred browse target; vigorous growth quickly replaces any browsed tips"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; needs consistent moisture for fruit production"
+    },
+    "other": "Late frost is a concern — new growth emerges early and can be damaged by late frost; site in a frost-protected location if possible in colder zones"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — vigorous vine needs annual pruning",
+    "pruningNotes": "Establish a permanent framework (trunk + 2-4 main horizontal cordons) in the first 3-4 years. Once established, prune in late winter (February): shorten all lateral shoots from the permanent cordons to 2-3 buds; these produce the fruiting spurs for the current season. Remove crossing and congested canes. Summer tip-pruning of vigorous new shoots in July reduces the vine's spread and directs energy to fruit development. Train new growth while it is still supple — young kiwi shoots harden quickly and become difficult to redirect.",
+    "propagationMethods": [
+      "Cuttings (semi-hardwood in summer or hardwood in fall — requires rooting hormone; moderate success rate)",
+      "layering",
+      "seed (slow; requires 2 sexes; named cultivars do not come from seed)"
+    ]
+  },
+  "cultivarNotes": "Zone 4-5: 'Meader Male' is among the hardiest males available; 'Ananasnaya' female (Zone 4-9) is proven at northern limits; 'Issai' (self-fertile, Zone 4-8) is an option where space is limited but fruit size is smaller\nZone 6-7 (Mid-Atlantic and similar): 'Ananasnaya' female + 'Meader Male' is a reliable and widely proven pair; 'Dumbarton Oaks' female (selected in Zone 6 Maryland) is specifically adapted to Mid-Atlantic conditions and is a strong choice; 'Ken's Red' (female, red-skinned fruit) is an ornamental option for Zone 5-7 but production can be lower; bloom timing between male and female must overlap — purchase from the same supplier series when possible\nZone 8: Actinidia arguta reaches its warm limit around Zone 8; fruiting may be unreliable where winter chill hours are insufficient; consider Actinidia kolomikta for ornamental use in borderline warm climates\nSelf-Fertile Option (any zone): 'Issai' is self-fertile and compact; can fruit without a male; excellent for small gardens or where planting a pair is not practical; fruit quality is good but size is smaller than named female cultivars",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest vine layer",
+      "arbor",
+      "pergola",
+      "fence cover",
+      "trellis feature",
+      "large-scale garden architecture"
+    ],
+    "designPlacement": "Vigorous vine requiring a very strong permanent support structure — a dedicated heavy-gauge trellis, arbor, or pergola; not suitable for attaching to trees (weight and shading damage the host); requires full to part sun with a male/female pair planted within pollinator flight distance (within 50'); plan for the mature vine weighing several hundred pounds; vertical space utilization makes this an efficient food-producing element where horizontal space is limited",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Actinidia_arguta",
+    "inaturalist": "https://www.inaturalist.org/taxa/158005-Actinidia-arguta",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=r320"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from East Asia; not native to Pennsylvania or any part of North America",
+      "paInvasiveStatus": "Actinidia arguta is not currently on Pennsylvania's official noxious weed list, but it is considered a plant of concern in the broader Mid-Atlantic and northeastern US context due to its aggressive growth and documented escapes from cultivation in woodland edge habitats; Pennsylvania gardeners should monitor for self-seeding and prevent the vine from reaching adjacent natural areas",
+      "drainage": "Hegins red clay is a challenge for this vine; plant on a raised mound or at the top of any slight grade change; incorporate compost deeply at planting; avoid placing it in any area where water stands after rain; the apple guild site should be evaluated for post-rain drainage before finalizing vine placement",
+      "soil": "Hegins red clay requires amendment at planting — incorporate 4-6\" of compost into a wide planting area; do not plant in low spots; the vine is long-lived and establishing it well in the first two years pays dividends for decades",
+      "cultivarNotes": "'Ananasnaya' female + 'Meader Male' is the recommended pair for reliable fruiting at Zone 6a; 'Dumbarton Oaks' female is a strong alternative given its Mid-Atlantic provenance; both males and females should be sourced from cold-tested nursery stock; ensure male blooms at the same time as the chosen female — verify bloom timing with the supplier before purchase",
+      "designPlacement": "Place on the dedicated apple guild trellis or a purpose-built heavy trellis structure in the food forest area; the south-facing or open exposure of the apple guild site is well-suited; Section C (back porch, south-facing, warm-dry) could support a smaller trained specimen if a heavy support structure is built; avoid Section A (ornamental, height-limited) and Section B (too shaded, zone 0 herbs); late-frost risk at Hegins warrants siting against a south-facing structure or in a location with some thermal mass if possible\nAcquisition Status:\nPennsylvania — Hegins Site Observations:\nZone 6a conditions are well within the vine's hardiness range (Zone 4-8); cold hardiness is not a limiting factor\nLate April frosts at Hegins are a real risk — the vine pushes new growth early; the apple guild trellis site should be evaluated for frost pocket vs. frost-draining exposure; avoid placing the vine at the bottom of a slope where cold air pools\nRed clay drainage must be addressed at planting; mounded or raised planting is strongly recommended\nDeer pressure at Hegins is active from the east corridor; young vines should be protected with fencing or wire cage for the first 2-3 seasons until the woody framework hardens; mature vines have good deer tolerance\nThe vine will be a multi-decade permanent feature once established — invest in a very strong trellis structure (4x4 posts minimum, heavy-gauge wire) before planting; retrofitting support on an established kiwi vine is very difficult",
+      "siteObservations": null
+    }
+  }
+}

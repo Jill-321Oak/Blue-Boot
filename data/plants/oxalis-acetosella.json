@@ -1,0 +1,160 @@
+{
+  "id": "oxalis-acetosella",
+  "name": {
+    "commonName": [
+      "Wood Sorrel (European Wood Sorrel)"
+    ],
+    "latinName": "Oxalis acetosella",
+    "family": "Oxalidaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and temperate Asia — widespread across moist, shaded woodlands from Britain and Scandinavia east through Russia and into Japan; found throughout the cool-temperate deciduous and mixed forest zones of the northern hemisphere",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States. Oxalis acetosella is a European species that does not occur naturally in North America. The wood sorrels most commonly encountered in US gardens and wild areas are Oxalis stricta (common yellow wood sorrel, native to eastern North America), O. violacea (violet wood sorrel, native to eastern US), and O. corniculata (creeping wood sorrel, naturalized from the Old World). All share the same trifoliate leaf form and culinary use is interchangeable across the genus. O. acetosella is occasionally grown in US shade gardens as a specialty woodland ground cover but is not widely naturalized."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive in any US state. O. acetosella is a well-behaved perennial ground cover that spreads steadily by rhizomes and self-sowing but does not display aggressive colonizing behavior outside of ideal moist, shaded conditions. It is not on any state noxious weed list or the federal noxious weed list. Not to be confused with O. corniculata, which is considered a common garden weed in warmer states — the two are distinct species with different growth habits."
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "3-6\"",
+    "spread": "Indefinite — spreads slowly but persistently by shallow rhizomes and self-sown seed; forms a continuous low mat over several seasons in ideal shade conditions",
+    "spacing": "6-9\" for ground cover establishment; fills in to a continuous carpet within 2-3 seasons",
+    "growthRate": "Slow to moderate; deliberate rather than aggressive; well-suited to the understory pace of a developing food forest",
+    "timeToMaturity": "Ground cover effect in 2-3 seasons; the foliage is immediately edible at any stage",
+    "lifespan": "Effectively permanent in suitable shaded, moist conditions; the rhizome colony is self-sustaining once established",
+    "deciduousEvergreen": "Deciduous — the trifoliate leaves die back in winter; new growth emerges in early spring from the rhizome network; exhibits nyctinasty (leaf folding at night and in response to direct sun or stress), which is one of its most distinctive behavioral traits",
+    "winterInterest": "None; dormant and below-ground from late fall through early spring"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to deep shade; O. acetosella is a genuine woodland specialist — it thrives in the deep canopy shade beneath established trees where many ground covers fail; performs best with dappled or indirect light; leaves will scorch or close under direct afternoon sun; one of the few edible ground covers suited to the densest shade in a food forest understory",
+    "water": "Medium; prefers consistently moist conditions typical of a woodland floor; tolerates brief drying but performs best with steady soil moisture; a leaf litter mulch layer is the most effective way to maintain the moisture and humus conditions this plant needs",
+    "drainagePreference": {
+      "description": "Moist but well-drained; does not tolerate waterlogged or saturated soil; requires a freely draining soil profile with consistent moisture retention — the distinction between \"moist\" and \"wet\" is critical for this species. Standing water or prolonged saturation causes rhizome rot. The ideal is the spongy, humus-rich drainage profile of a natural woodland floor, where organic matter holds moisture but excess water moves through freely.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor. Heavy clay is problematic for O. acetosella — the shallow rhizome network is vulnerable to waterlogging in compacted clay, and the lack of air spaces in dense clay inhibits the fine root system. Clay soils must be heavily amended with composted leaf litter, fine bark mulch, or other organic matter to build the loose, humus-rich profile this plant requires. A minimum 3-4\" layer of organic amendment worked into the top 6\" of clay, plus ongoing annual leaf litter top-dressing, can create suitable conditions. Raised planting in a mounded humus bed over clay is often more reliable than attempting to amend the clay itself."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6.5,
+      "description": "4.5-6.5; strongly prefers mildly acid conditions; the natural woodland floor humus that develops under established deciduous trees is ideal"
+    },
+    "texturePreference": "Humus-rich, loose, moisture-retentive; thrives in the decomposed leaf litter layer of mature woodlands; tolerates sandy loam if kept moist but performs poorly in heavy, unamended clay or compacted mineral soil; annual leaf litter accumulation or composted leaf mulch is the single most effective soil improvement for this species",
+    "rootCharacter": "Shallow, creeping rhizomes just beneath the soil surface; fine fibrous roots; the mat knits together gently without being invasive; easy to lift, divide, or remove by hand"
+  },
+  "bloom": {
+    "bloomTime": "April-May (spring); may rebloom lightly in fall in cool, moist seasons",
+    "bloomDescription": "Small, solitary, five-petaled flowers on slender stems rising just above the foliage; typically white with fine pink or lilac veining; occasionally pale pink; delicate and charming at close range; flowers close at night and in direct sun (the same nyctinastic response as the leaves); individually unspectacular from a distance but collectively attractive as a ground-level carpet effect in the spring shade garden",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite; also produces cleistogamous (self-fertilizing, closed) flowers at or below soil level later in the season — these produce seed without opening",
+    "pollination": "Small bees, hoverflies, and other early-season insects visit the open flowers; the cleistogamous flowers self-fertilize without pollinators; effectively self-fertile and reliably seed-producing"
+  },
+  "yield": {
+    "edibleParts": "Leaves, stems, and flowers — all edible raw or lightly used in cooking; the flavor is distinctly lemony and sour from oxalic acid, pleasant in small quantities; add fresh leaves to salads for a citrusy bite, use as an edible garnish, steep dried leaves in hot water for a refreshing sour tea, or use to lightly flavor vinegars and cold drinks; the sour flavor is genuine and useful as a wild seasoning; culinary use is the same across O. acetosella, O. stricta, and O. corniculata",
+    "harvestSeason": "Spring through fall whenever foliage is present; young spring leaves are most tender and most flavorful; harvest lightly to maintain ground cover density",
+    "medicinalUses": "Traditional folk use as a cooling, fever-reducing herb and digestive bitter; historically prepared as a cooling drink in summer; not a primary medicinal plant in modern herbalism; the oxalic acid content limits practical internal use",
+    "craftOtherYield": "Leaves historically used to extract oxalic acid (sal acetosella / sorrel salt) for cleaning and stain removal; minor historical craft use; not a significant craft plant in modern garden practice"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — all Oxalis species contain oxalic acid, which in large quantities can inhibit calcium absorption, irritate the kidneys, and contribute to kidney stone formation in susceptible individuals; the amounts consumed in typical culinary use (salad garnish, occasional tea, small handfuls) are well within safe limits for healthy adults; do not eat in large quantities or consume daily as a staple green; individuals prone to kidney stones (particularly calcium oxalate stones), those with kidney disease, rheumatism, or gout, and pregnant women should avoid more than incidental use; the sour taste is a natural deterrent to overconsumption",
+    "toxicityAnimals": "Oxalic acid present in the foliage; toxic to livestock (horses, sheep, cattle) in large quantities if consumed as a significant portion of the diet; low concern in a garden setting; keep grazing animals away from large established colonies; dogs and cats unlikely to consume meaningful amounts but best not encouraged",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Ground Cover (herb layer)"
+    },
+    "roles": [
+      "Shade-Tolerant Edible Ground Cover (primary — one of very few edible ground covers genuinely suited to deep shade; fills the understory floor of the food forest with productive, harvestable foliage)",
+      "Living Mulch (the dense low mat suppresses weeds, retains soil moisture, and reduces erosion on shaded slopes)",
+      "Understory Specialist (thrives in the ecological niche beneath deciduous canopy where sun-loving ground covers fail)",
+      "Early Pollinator Support (spring flowers provide early-season nectar)",
+      "Soil Cover & Microhabitat (shelters ground-dwelling invertebrates year-round)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (pawpaw — the canopy beneath which O. acetosella is ideally suited; deep shade specialist companion)",
+      "Galium odoratum (sweet woodruff — complementary shade-tolerant ground cover; can be interplanted to create a mixed woodland floor matrix)",
+      "Asarum canadense (wild ginger — same shade and moisture niche; the two coexist naturally in the eastern woodland community)",
+      "Matteuccia struthiopteris (ostrich fern — ferns rise above the sorrel mat; complementary height layers in the same shade zone)",
+      "Allium tricoccum (ramps — spring-ephemeral companion; ramps emerge and die back before the sorrel peaks)",
+      "Lindera benzoin (spicebush — same woodland community preference)"
+    ],
+    "antagonists": [
+      "Full sun and dry conditions; unsuitable for open",
+      "exposed",
+      "or south-facing positions; place strictly in shaded understory positions with consistent moisture"
+    ],
+    "coppiceable": "No; the mat is self-maintaining; trim edges annually to manage perimeter spread; no other pruning needed"
+  },
+  "wildlife": {
+    "attracts": "Small native bees, bumblebee queens, hoverflies, and other early-season pollinators visiting the spring flowers; the dense leaf mat provides year-round microhabitat for ground beetles, spiders, and other beneficial invertebrates; seeds are ejected ballistically from ripe capsules (explosive dehiscence), distributing seed up to several feet from the parent plant — an interesting wildlife interaction mechanism",
+    "hostPlantFor": "Not a primary larval host for North American Lepidoptera; a European native without deep native ecological partnerships in the US; pollinator value is primarily through spring nectar",
+    "nestingHabitat": "The low ground mat offers cover and microhabitat for ground-dwelling invertebrates; maintains a cool, moist refugium beneath the leaf canopy in summer"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — Oxalis is generally palatable to deer and is not considered deer-resistant. Tender new spring growth is most vulnerable. In areas with deer pressure, position within dense shrub cover or beneath low-branching canopy trees where deer access is restricted. The plant regenerates from rhizomes even after top growth is consumed, so browsing reduces yield and appearance but rarely kills the colony. Young plantings benefit from temporary fencing or netting until the surrounding guild canopy matures enough to discourage deer access."
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt and salt spray; not suitable for plantings near salted roads or coastal exposures; interior garden and food forest positions only"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — requires consistent moisture; will retreat and thin out in dry conditions; leaf litter mulch is essential to maintain moisture through summer; established colonies under canopy shade are significantly more drought-tolerant than exposed plantings; in arid western climates, supplemental irrigation is mandatory even in shade"
+    },
+    "other": "Cold-hardy to Zone 3; fully winter-hardy without protection across the northern US; intolerant of compacted soil without organic amendment; intolerant of direct afternoon sun; heat tolerance diminishes above Zone 7 — southern US growers should site in the deepest available shade with extra attention to moisture"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low in appropriate shade and moisture conditions; primary task is perimeter management and mulch top-dressing",
+    "pruningNotes": "Trim mat edges with a spade as needed to prevent spread beyond intended areas; the interior colony is entirely self-managing; an annual top-dressing of composted leaves in fall is the single most beneficial maintenance practice, sustaining soil humus levels and winter moisture retention",
+    "propagationMethods": [
+      "Division (most reliable — lift sections of the rhizome mat in early spring or fall; replant in moist, shaded, amended soil; establishes readily)",
+      "self-sowing (plants self-seed freely once established; seedlings can be transplanted or allowed to colonize)",
+      "seed (sow fresh seed in fall in a cold frame; cold stratification improves germination; slower and less reliable than division)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars in common use for edible or ground cover purposes; the straight species is standard across all zone bands. A pink-flowered form (sometimes listed as var. subpurpurascens or simply \"pink form\") is occasionally available from specialty woodland plant nurseries and is ornamentally attractive while being functionally identical to the white-flowered type. Zone 3-5 growers have no cultivar concerns — the species is fully hardy and performs well in cool northern climates with adequate moisture. Zone 6-7 growers likewise use the straight species without issue. Zone 8+ growers in the Southeast or Pacific coast should prioritize the deepest shade placements and may find O. oregana (redwood sorrel, native to the Pacific Northwest) a better-adapted alternative for similar ground cover and edible use.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Understory edible ground cover",
+      "food forest floor layer",
+      "shade garden",
+      "woodland path edging",
+      "edible weed foraging plant"
+    ],
+    "designPlacement": "Best placed in the understory of deciduous tree guilds, particularly beneath pawpaw, persimmon, or other deep-canopy shade trees where most edible ground covers fail. An ideal companion to Galium odoratum (sweet woodruff) in a mixed woodland floor planting — the two can be interplanted to create a continuous shade-tolerant ground layer with both edible and aromatic yield. Also useful beneath large shrubs as food forest canopy develops and shade deepens over time. Avoid south-facing, exposed, or dry positions. In areas with deer pressure, establish under dense shrub cover where deer access is less direct.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oxalis_acetosella",
+    "inaturalist": "https://www.inaturalist.org/taxa/69624-Oxalis-acetosella",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or North America. The native Oxalis species found in Pennsylvania woodlands are O. stricta and O. violacea; O. acetosella is the European species and must be sourced from specialty nurseries.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concerns.",
+      "drainage": "The compacted red clay at the Hegins site is unsuitable for O. acetosella without significant amendment. In-ground planting requires heavy incorporation of composted leaves and fine bark into the top 6-8\" to create a loose, moisture-retentive layer above the clay. Annual fall top-dressing with shredded leaf litter is essential to maintain this amended profile. Planting within established tree guild zones where leaf litter has already begun to accumulate naturally will give the best results.",
+      "soil": "The red clay base at the Hegins site benefits significantly from annual top-dressing with composted leaves; a 2-3\" leaf litter layer maintained each fall mimics the woodland floor and dramatically improves performance. Planting beneath maturing tree guilds where natural leaf fall is building a humus layer will progressively improve conditions without additional amendment effort.",
+      "cultivarNotes": "the straight species is the correct choice; no cultivar selection needed. Source from specialty woodland plant nurseries — this species is not commonly stocked at general garden centers.",
+      "designPlacement": "Best placed in the understory of the pawpaw guild or apple tree guilds, where deep canopy shade makes it difficult to establish most other edible ground covers. Also useful beneath large shrubs in Section B as the food forest canopy develops and shade deepens. Not suitable for Section A (too exposed, beauty-first palette does not align) or Section C (south-facing, warm and dry — conditions are unsuitable). Interplant with Galium odoratum for a mixed woodland floor beneath the pawpaw pair. Given the active deer pressure from the east wildlife corridor, establish under denser shrub cover where deer access is less direct.",
+      "siteObservations": "Deer pressure from the east wildlife corridor is a concern — O. acetosella is palatable and the tender spring growth will be browsed if accessible. Position deep within guild plantings where surrounding shrub structure discourages deer entry rather than at guild edges. The compacted red clay will require significant amendment before planting; prioritize guild zones where leaf litter has begun accumulating naturally. Salt from the road on the north border is not relevant — this plant belongs in interior food forest positions well away from the street."
+    }
+  }
+}

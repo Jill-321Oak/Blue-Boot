@@ -1,0 +1,175 @@
+{
+  "id": "mentha",
+  "name": {
+    "commonName": [
+      "Mint (Peppermint",
+      "Spearmint",
+      "Apple Mint",
+      "Pennyroyal)"
+    ],
+    "latinName": "Mentha spp. — primarily Mentha × piperita, M. spicata, M. suaveolens, M. pulegium",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and Asia; individual species vary across this range; M. × piperita is a sterile hybrid of garden origin (M. aquatica × M. spicata) with no true native range",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Multiple species are widely naturalized across the eastern US, Midwest, and Pacific Northwest, particularly M. spicata and M. × piperita, which have escaped cultivation and established in moist disturbed habitats, stream banks, and roadsides throughout much of the country. M. arvensis (wild mint) is native to northern North America, but the cultivated species covered in this profile are all Old World introductions."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Several Mentha species are classified as invasive or noxious in parts of the US. M. × piperita and M. spicata are listed as invasive plants in some midwestern and western states where they colonize riparian areas and wetland margins, displacing native vegetation. M. pulegium (pennyroyal) is listed as a noxious weed in Oregon. At the garden scale, all mints spread aggressively by underground stolons and will escape and dominate any uncontained planting — they behave invasively in garden settings regardless of regulatory status. Containment is mandatory; see Maintenance."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "Zone 3-9 depending on species; M. × piperita and M. spicata are hardy through Zone 3; M. suaveolens to Zone 5; M. pulegium to Zone 6-7. No meaningful heat zone ceiling — all perform well through Zone 9."
+    }
+  },
+  "description": {
+    "height": "12-36\" depending on species and conditions; peppermint 18-30\"; spearmint 12-24\"; apple mint 18-30\"; pennyroyal 6-12\"",
+    "spread": "Indefinite — spreads aggressively by underground stolons; an uncontained planting will colonize as far as soil allows; this is the defining growth characteristic of the genus",
+    "spacing": "One plant per container or contained bed; in a contained bed, 12-18\" apart",
+    "growthRate": "Fast — vigorous once established",
+    "timeToMaturity": "Harvestable from first year; productive immediately",
+    "lifespan": "Long-lived perennial; an established contained planting is effectively permanent and self-renewing",
+    "deciduousEvergreen": "Deciduous — dies back to the ground after hard frost; regrows vigorously from stolons in spring",
+    "winterInterest": "None above ground; stolons overwinter in the soil and resume growth early in spring"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; most productive in full sun but tolerates significant shade; one of the more shade-adaptable culinary herbs; suitable for north-facing or partially shaded positions. In Zone 8+ and the Deep South, afternoon shade improves summer performance and reduces wilting.",
+    "water": "Medium; prefers consistent moisture; peppermint in particular performs best with regular water; apple mint (M. suaveolens) is the most drought-tolerant of the key species. In the humid eastern US, supplemental irrigation is usually needed only during dry spells; in the arid West, regular irrigation is essential.",
+    "drainagePreference": {
+      "description": "Average; adaptable to a wide range of drainage conditions. Does not require the sharp drainage that Mediterranean herbs demand and tolerates periodically wet soils better than most culinary herbs. Waterlogged soils can promote root rot over extended periods, but brief saturation after heavy rain is well tolerated. Mints generally prefer the moister end of the drainage spectrum.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Mint is one of the more clay-tolerant culinary herbs. Heavy clay soils provide the consistent moisture that mints prefer, and the stolon-based growth habit handles compacted conditions better than deep-taprooted plants. In dense unamended clay, growth may be somewhat slower in the first season as stolons push through heavy soil, but established plants perform well. Amending with compost improves initial establishment but is not strictly required."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0"
+    },
+    "texturePreference": "Adaptable; performs in a wide range of soil textures from sandy loam to clay. Average to moderately fertile soil produces the best balance of growth and aromatic intensity. Excessive fertility produces lush foliage with somewhat diluted essential oil concentration.",
+    "rootCharacter": "Shallow, fibrous roots with extensive horizontal stolons; the stolons are the primary means of spread and the reason containment is non-negotiable; stolons run just below the soil surface and root at nodes, producing new shoots across a wide area"
+  },
+  "bloom": {
+    "bloomTime": "July-September; blooms later if cut back regularly",
+    "bloomDescription": "Small tubular flowers in dense whorled clusters (verticillasters) around the stem or in terminal spikes; lavender to pink-purple, occasionally white; individually small but produced in great quantity; highly attractive to pollinators despite modest visual effect",
+    "fragrance": "Intensely aromatic foliage — menthol-dominant in peppermint; sweeter and milder in spearmint; fruity and apple-like in apple mint; very pungent and camphor-like in pennyroyal; all species release fragrance strongly when leaves are brushed or bruised",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding pollinator plant — mint in bloom is one of the most intensely worked plants in the summer garden; honey bees, bumblebees, and a wide range of native bees work the flowers continuously; many species of beneficial predatory and parasitic wasps also visit; allow at least some plants in a planting to reach bloom each season for pollinator benefit; cut back others to maintain fresh leaf production"
+  },
+  "yield": {
+    "edibleParts": "Leaves (fresh or dried); all key species are edible, with flavor profile varying by species — peppermint for the most intense menthol character; spearmint for classic culinary use; apple mint for drinks and desserts; pennyroyal for flavoring only in very small amounts (see Cautions)",
+    "harvestSeason": "Leaves from late spring through fall; harvest before flowering for peak essential oil content and flavor; cut stems to just above a leaf node; the plant regrows quickly and can be harvested multiple times per season",
+    "medicinalUses": "One of the most widely used and clinically validated medicinal herbs in the world. Peppermint (M. × piperita) is the primary medicinal species: (1) Digestive — carminative; relieves gas, bloating, and digestive cramps; one of the most evidence-supported botanical treatments for Irritable Bowel Syndrome (enteric-coated peppermint oil capsules are used in clinical practice); (2) Analgesic — topical menthol has well-documented analgesic and counterirritant effects; diluted peppermint essential oil applied topically is effective for tension headaches in multiple clinical trials; (3) Antimicrobial — active in vitro against several pathogens; (4) Nausea relief — inhaled peppermint aroma has demonstrated nausea-reducing effects in several settings; (5) Antispasmodic — relaxes smooth muscle, supporting the digestive applications. Among the safest culinary herbs for regular internal use, with an extensive history of use across cultures.",
+    "craftOtherYield": "Dried herb; essential oil (peppermint oil is one of the most commercially important essential oils worldwide); infused honey; natural insect repellent (pennyroyal especially); aromatic sachet"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Culinary mints (peppermint, spearmint, apple mint) are safe for normal culinary and tea use. Caution: peppermint essential oil is highly concentrated and should not be given internally to infants or young children; neat essential oil applied near a young child's face can cause respiratory distress. Pennyroyal (M. pulegium) requires specific caution: the volatile oil (pulegone) is a documented abortifacient and is toxic in significant doses — pennyroyal should NOT be used internally by pregnant women under any circumstances, and pennyroyal essential oil is toxic; leaf tea in small amounts is traditionally used but internal use should be approached with caution, especially during pregnancy.",
+    "toxicityAnimals": "Mint is generally low-toxicity to dogs and cats in culinary amounts; peppermint essential oil can be irritating to pets if applied at high concentration or used in diffusers in confined spaces; pennyroyal is toxic to dogs and cats — pennyroyal products have caused documented deaths in pets; do not use pennyroyal oil or large amounts of pennyroyal herb on or around pets",
+    "allelopathy": "Some evidence of mild allelopathic effects from volatile compounds; not strongly documented; the competitive dominance of mint is primarily mechanical (stolon spread) rather than chemical",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer"
+    },
+    "roles": [
+      "Food (culinary herb — one of the most used herbs in the world kitchen)",
+      "Medicinal (one of the highest-priority medicinal herbs for a home apothecary — safe, effective, and well-documented)",
+      "Insect Attractor (exceptional pollinator and beneficial insect plant when in bloom)",
+      "Pest Confuser / Repellent (aromatic foliage deters aphids, flea beetles, and some other pests; pennyroyal specifically repels fleas and some flies)",
+      "Deer Deterrent (the intense menthol aroma reliably deters deer browsing)"
+    ],
+    "companionPlants": [
+      "Excellent throughout the kitchen garden and food forest herb layer when properly contained; the pollinator and pest-deterrent value benefits neighboring plants; good companion to brassicas",
+      "tomatoes",
+      "and other pest-susceptible vegetables; pairs well with other Lamiaceae herbs in a contained herb strip; good neighbor to comfrey",
+      "alliums",
+      "and garlic in a polyculture herb area — all complement each other's functions"
+    ],
+    "antagonists": [
+      "Mint's primary antagonist relationship is with every other plant in an uncontained bed — it will outcompete and displace them. Contain it and there are no meaningful antagonist relationships. Mint is not known to produce allelopathic compounds at garden-relevant concentrations."
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Honey bees (excellent), bumblebees (excellent), native solitary bees, beneficial predatory and parasitic wasps, hoverflies, butterflies; one of the best all-around beneficial insect plants in the summer herb garden",
+    "hostPlantFor": "Not a significant larval host for native Lepidoptera",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — one of the most reliably deer-resistant herbs in the garden; the intense menthol volatile oils are a consistent deterrent across all regions where deer pressure is a concern. Potted or contained mint placed near more vulnerable plantings provides some aromatic deterrent effect, though the containment requirement limits how broadly it can be deployed as perimeter protection. Young transplants are occasionally sampled but rarely rebrowsed."
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure and recovers from light salt spray; not a candidate for coastal maritime salt exposure"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; peppermint prefers consistent moisture and will show stress in dry periods; spearmint is somewhat more drought-tolerant; apple mint (M. suaveolens) is the most drought-tolerant of the group and the best choice for a drier position or for gardeners in drier climates"
+    },
+    "other": "Cold hardy well below Zone 6 — all key species survive severe winters without protection; tolerates clay soil; tolerates part shade; tolerates periodic flooding better than most culinary herbs; handles humidity well and is not prone to the fungal issues that plague Mediterranean herbs in humid climates"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low for established plants — but CONTAINMENT IS MANDATORY and is the central maintenance commitment with any mint planting",
+    "pruningNotes": "Cut back by half 2-3 times per season to encourage fresh, strongly flavored leaf growth; cutting before flowering maximizes essential oil content in the leaves. Allow some stems to flower for pollinators, then cut back after flowering. Cut to the ground in late fall after frost. Divide contained plantings every 2-3 years to maintain vigor — lift, divide, replant the most vigorous portions, and discard the rest or pot up for sharing.",
+    "propagationMethods": [
+      "Division (the primary and easiest method — lift a clump and replant sections; any piece of stolon with a node will root and grow)",
+      "stem cuttings (root readily in water or moist medium in 1-2 weeks)",
+      "layering (a node placed in moist soil will root on its own). Peppermint (M. × piperita) is a sterile hybrid and CANNOT be grown from seed — propagate only by vegetative means. Spearmint (M. spicata) and apple mint (M. suaveolens) can be grown from seed",
+      "though division is faster and more reliable.\nCONTAINMENT — THE NON-NEGOTIABLE RULE: Never plant mint loose in an open garden bed. Mint spreads by underground stolons that run aggressively through the soil",
+      "surfacing and rooting wherever conditions allow",
+      "and will colonize surrounding beds",
+      "lawns",
+      "and plantings within one to two seasons. The only correct approaches are: (1) Plant in a container above ground (pot, planter, half-barrel — any vessel with drainage); (2) Sink a container into the ground to its rim",
+      "which maintains the convenience of an in-ground appearance while physically blocking stolon escape; (3) Install a solid root barrier (not fabric — stolons penetrate fabric; use solid metal or plastic edging buried at least 12\" deep) around a dedicated mint bed. This applies universally regardless of garden size",
+      "climate zone",
+      "or soil type."
+    ]
+  },
+  "cultivarNotes": "The genus Mentha is large, complex, and taxonomically messy, with many hybrids, varieties, and named cultivars. Key species and cultivars by region and zone:\nMentha × piperita (Peppermint) — the standard medicinal and tea mint; the most intensely menthol-flavored; a sterile hybrid; buy named plants, not seed. Performs well across all lower-48 zones (3-9). 'Chocolate Mint' (M. × piperita f. citrata 'Chocolate') is a popular cultivar with chocolate-mint fragrance; appealing for teas and desserts; performs identically to the species across all zones. 'Black Mitcham' is the traditional high-essential-oil commercial peppermint; excellent for medicinal use; this is the industry standard cultivar grown commercially in the Pacific Northwest (Oregon, Washington) and the upper Midwest.\nMentha spicata (Spearmint) — the classic culinary mint for cooking; milder and sweeter than peppermint; the mint of mojitos, tabbouleh, tzatziki, and Middle Eastern cuisine. Somewhat more heat-tolerant than peppermint, making it the better choice for Zone 8-9 gardens in the Southeast and Gulf Coast where peppermint may flag in midsummer heat. 'Kentucky Colonel' is a popular large-leaved cultivar with excellent flavor for culinary use; widely adapted. 'Moroccan Mint' (sometimes listed as M. spicata var. crispa) is the traditional tea mint of North African cuisine — sweeter and less pungent; excellent for mint tea; performs well in warmer zones.\nMentha suaveolens (Apple Mint / Woolly Mint) — mild, sweet, apple-fruity fragrance; soft woolly leaves with pleasant texture; the most drought-tolerant of the key species, making it the best choice for drier climates in the western US or for gardeners who want a lower-water mint; excellent in drinks, fruit salads, and desserts. Hardy to Zone 5. 'Variegata' (Pineapple Mint) is a cream-variegated cultivar with a fruity pineapple fragrance; ornamental and functional; slightly less vigorous than the species.\nMentha pulegium (Pennyroyal) — low-growing (6-12\"), mat-forming; extremely pungent; historically used as a flea repellent; strong insect-deterrent properties; medicinal and aromatic rather than culinary. Use with caution (see Cautions & Hazards). Hardy to Zone 6-7; not reliably perennial in Zone 5 and colder. Listed as noxious in Oregon — check local regulations before planting in the Pacific Northwest.\nFor most gardeners in Zone 3-5 (northern US, upper Midwest): peppermint and spearmint are the most reliable choices; apple mint may need winter mulch at the cold end of its range. In Zone 6-7 (mid-Atlantic, central Midwest, Pacific NW): all four species perform well. In Zone 8-9 (Southeast, Gulf Coast, Southwest): spearmint and apple mint handle heat best; peppermint benefits from afternoon shade; pennyroyal is well-suited to the warm end of the range.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "tea garden",
+      "apothecary garden",
+      "container planting",
+      "kitchen herb strip",
+      "food forest herb layer (contained)",
+      "pollinator insectary"
+    ],
+    "designPlacement": "Plant in containers or contained beds adjacent to the kitchen or primary gathering area for easy harvest access. Mint's vigorous spreading habit means it should never be integrated into mixed perennial borders or open beds. Sunk containers (a 5-gallon pot buried to its rim) or solid root barriers are the standard containment methods. Peppermint and spearmint each deserve their own contained zone — do not mix species in one container, as stolons intermingle and the more vigorous species dominates. Potted mint placed near vulnerable plantings can provide aromatic deer deterrence. In food forest settings, mint works well in the herb layer only when physically contained within or adjacent to tree guilds. South-facing warm microclimates suit apple mint in containers for fragrance and harvest.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mentha",
+    "inaturalist": "https://www.inaturalist.org/taxa/181525-Mentha-piperita (Mentha × piperita — peppermint, primary species)",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281400"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania. Multiple species are naturalized and have escaped cultivation across the state, particularly along stream banks and moist roadsides.",
+      "paInvasiveStatus": "Not listed on Pennsylvania's noxious weed list or DCNR invasive species list. However, garden-scale behavior is aggressively spreading — containment is non-negotiable regardless of regulatory status.",
+      "drainage": "The red clay at Hegins is acceptable for mint — the moisture retention suits the genus, and the stolon-based spread handles the compacted texture. Since mint will be grown in sunk containers or behind root barriers (see Maintenance), the in-ground clay is largely a moot point — the container or barrier zone can be filled with amended soil. No raised bed required.",
+      "soil": "The Hegins red clay is workable for mint, particularly since contained plantings allow for amended fill within the container or barrier zone. Mixing compost into the contained planting area improves drainage and initial establishment.",
+      "cultivarNotes": "Peppermint and spearmint are the highest-priority pair for a first planting. All four species are fully hardy here. Each should be in its own container or separated contained section — their stolons will intermix and hybridize if planted in the same bed.",
+      "designPlacement": "Section B (garage strip, kitchen-adjacent herb strip) is the natural home for mint — productivity-focused, kitchen-adjacent, and not constrained by the 5' height limit or the symmetry requirements of Section A. Plant in a sunk container or install a solid root barrier around a dedicated mint zone within the strip. Peppermint and spearmint each deserve their own contained zone. A potted apple mint on the back porch (Section C) is also a practical option — the warm south-facing microclimate suits it, containers keep it compliant, and the fragrant foliage contributes to the fragrance focus of that section. Do not plant mint loose in any open bed at the site.",
+      "siteObservations": "The east corridor deer pressure is not a concern for mint — it is one of the most reliably deer-proof herbs available. The compacted red clay is workable since contained plantings allow amended fill within the barrier zone. The north-facing aspect of Section B provides the part shade mint tolerates well, and increasing shade from the food forest will not be a problem — mint is one of the few culinary herbs that remains productive in partial shade. Cold hardiness is a non-issue; all key species overwinter without protection in Zone 6a."
+    }
+  }
+}

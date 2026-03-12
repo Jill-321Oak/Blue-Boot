@@ -1,0 +1,149 @@
+{
+  "id": "calvatia-gigantea",
+  "name": {
+    "commonName": [
+      "Giant Puffball"
+    ],
+    "latinName": "Calvatia gigantea",
+    "family": "Agaricaceae"
+  },
+  "range": {
+    "nativeRange": "North America, Europe, and Asia; widely distributed across temperate regions; one of the most recognizable and widespread large edible fungi in the world",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the lower 48 states; found across all regions except the driest desert zones; particularly common in the eastern half of the country, the Pacific Northwest, and the upper Midwest; absent or rare in arid interior and southwestern desert habitats"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the US; no documented weed, pest, or invasive status in any state"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — occurs across a very wide climate range throughout temperate North America and Eurasia"
+    }
+  },
+  "description": {
+    "height": "Not applicable in the traditional sense; fruiting bodies are roughly spherical and rest on the ground; individual specimens 6-24\" in diameter, occasionally larger; the largest documented specimens exceed 4 feet across",
+    "spread": "Individual fruiting bodies 6-24\"+ across; can appear singly or in small scattered groups; mycelium spreads through soil and organic matter underground",
+    "spacing": "Wild harvest only — not cultivated; no spacing applicable; fruiting locations are opportunistic and unpredictable, though the species often returns to the same general area year after year",
+    "growthRate": "Fruiting bodies grow very rapidly — a basketball-sized specimen can emerge and reach full edible size within several days of appearing above ground",
+    "timeToMaturity": "Harvest window is narrow — fruiting bodies are edible only while the interior is pure white; once the interior begins turning yellow-green, the eating window is closing; fully yellow-green to brown interior means the specimen has converted entirely to spores and is no longer edible",
+    "lifespan": "Individual fruiting bodies are ephemeral — edible window of roughly 3-7 days depending on temperature; the underground mycelium is perennial and may fruit from the same location year after year; mycelium lifespan in a given site is unknown but can span many years",
+    "deciduousEvergreen": "Not applicable; fruiting is seasonal",
+    "winterInterest": "None — fruiting is confined to late summer and fall; dormant underground as mycelium in winter"
+  },
+  "lightAndWater": {
+    "sun": "Open to partially shaded habitat; giant puffballs prefer open areas, meadow edges, and woodland margins rather than deep forest shade; the fruiting bodies are found in full sun to dappled light",
+    "water": "Fruiting is triggered by late-summer and early-fall rainfall; reliable moisture after dry periods is the key driver of fruiting; the mycelium requires organic-rich, moderately moist soil",
+    "drainagePreference": {
+      "description": "Well-drained to moderately moist soil; not found in waterlogged areas; the open, disturbed ground and edge habitats where it fruits typically have moderate drainage",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay soil provided it is not waterlogged; clay soils with incorporated organic matter can support mycelium and fruiting, though drainage must not be impeded; clay hardpan with standing water is unsuitable"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": null,
+      "max": null,
+      "description": "Not well-documented; found across a wide range of soil conditions; prefers organically enriched, somewhat disturbed soils"
+    },
+    "texturePreference": "Not substrate-specific in the way wood-decomposing fungi are; saprotrophic on soil organic matter, decaying plant material, and disturbed ground; thrives in fertile, somewhat open soil with incorporated organic matter — compost areas, old garden beds, and lawn edges near woodlands are classic habitat",
+    "rootCharacter": "White mycelium present in soil and organic matter; not visible under normal conditions; the relationship with soil organic matter is saprotrophic (decomposing organic material) rather than mycorrhizal"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season varies by region; in the mid-Atlantic and Northeast (including PA): August through October; in the upper Midwest and Pacific Northwest: similar timing, July-October; fruiting peaks after significant late-summer or early-fall rainfall",
+    "bloomDescription": "Fruiting body emerges as a pure white sphere from the soil, often attached by a cord-like mycelial strand at the base; smooth, white outer skin (peridium) when young; interior pure white and homogeneous (like firm tofu or marshmallow) when edible; as it matures the interior turns yellow, then yellow-green, then brown as it converts to a dry spore mass (gleba); the mature brown specimen eventually ruptures and disperses trillions of spores in a cloud",
+    "fragrance": "Fresh specimens have a mild, pleasant, clean mushroom scent; overripe specimens develop a strong, unpleasant smell as the spore mass matures — harvest well before this stage",
+    "flowerSex": "Not applicable; spore-dispersing organism",
+    "pollination": "Not applicable; spore dispersal by wind from mature specimens; a single mature giant puffball can contain trillions of spores"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies — but only when the interior is pure white all the way through; slice every specimen in half from top to bottom before eating to verify the interior is solid white with no internal structure visible; a white interior with no outline of a cap, stem, or gills inside confirms it is a true puffball and not a deadly Amanita egg; the flesh has a mild, meaty, excellent flavor that absorbs butter, oil, and seasoning beautifully; texture resembles firm tofu or dense bread; best sliced 0.5-1\" thick and pan-fried in butter or olive oil with salt; also excellent breaded and pan-fried, added to soups, or dried and powdered as a flavor base; one large specimen can easily feed a family for multiple meals — a 10 lb puffball yields an extraordinary quantity of food",
+    "harvestSeason": "Late summer through fall — timing varies by region and annual rainfall patterns; in the eastern US, August-October is the primary window; harvest when the fruiting body is fully emerged and the exterior is clean white; do not harvest specimens that have begun to yellow or show any discoloration — the interior is already past prime; always slice in half before consuming",
+    "medicinalUses": "Minor; the spore mass of mature specimens has been used historically as a wound dressing and styptic — applied directly to cuts and wounds to stop bleeding; this use is documented across multiple traditional cultures; not a primary medicinal species and not a substitute for proper wound care; some research into antitumor compounds (calvacin) in historical literature, but this has not been developed into clinical practice",
+    "craftOtherYield": "Mature spore mass (the brown powder inside overripe specimens) can be deliberately scattered in suitable habitat areas to encourage future fruiting; this is a practical spore-spreading technique used by foragers to seed new areas; dried puffball powder from edible-stage flesh is an excellent culinary addition — mild umami flavor booster"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CRITICAL IDENTIFICATION RULE — slice every puffball completely in half from top to bottom before eating; the interior must be pure white and homogeneous with absolutely no internal structure (no outline of a cap, gills, or stem developing inside); if any internal structure is visible, discard immediately — deadly Amanita species (destroying angel, death cap) begin as underground \"eggs\" that are superficially similar to small puffballs and are lethal; the slice-in-half test is non-negotiable and definitively distinguishes true puffballs from Amanita eggs; giant puffball (Calvatia gigantea) at full size is rarely confused with anything dangerous, but smaller puffballs and earth balls (Scleroderma species, which are toxic) require careful identification; do not eat any puffball without slicing it first, every time, without exception",
+    "toxicityAnimals": "Not well-documented; do not allow pets to consume wild fungi without veterinary guidance; overripe spore-stage specimens should be kept away from pets",
+    "allelopathy": "Not documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Food (gourmet edible — high yield when fruiting)",
+      "Nutrient Cycling (saprotrophic decomposition of soil organic matter contributes to humus formation)",
+      "Soil Builder (mycelial network in organic-rich soil contributes to soil structure and nutrient cycling)"
+    ],
+    "companionPlants": [
+      "Habitat association rather than companion planting; found in proximity to woodland edge species — elder",
+      "wild bergamot",
+      "goldenrod",
+      "and other open-edge plants; compost areas and woodchip mulched beds near woodland edges create suitable habitat; Stropharia rugosoannulata (wine cap) occupies woodchip beds while giant puffball favors open disturbed ground — complementary fungal species in different micro-niches"
+    ],
+    "antagonists": [
+      "Not well-documented; heavy",
+      "compacted soil and deep forest shade are unfavorable; excessive competition from dense sod may reduce fruiting"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles, flies, and other invertebrates feed on and breed in puffball fruiting bodies); small mammals (squirrels, rabbits, and deer will eat giant puffballs — be aware that wildlife may find specimens before you do); birds",
+    "hostPlantFor": "Various invertebrates breed in overripe fruiting bodies and the decomposing spore mass",
+    "nestingHabitat": "Not applicable"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not a tolerance consideration in the conventional sense — deer and other wildlife will consume giant puffballs opportunistically; this represents foraging competition rather than a browsing pressure issue; there is no way to protect fruiting bodies from wildlife short of immediate harvest upon discovery"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting suppressed by drought; the key trigger for fruiting is sufficient late-summer rainfall; the mycelium persists through dry periods but does not fruit; sites with consistent late-summer moisture are more reliable producers"
+    },
+    "other": "Highly adaptable to a wide range of conditions within its preferred open-edge habitat type; not demanding in terms of soil chemistry; the primary requirement is organic-rich, somewhat disturbed soil in an open or edge location"
+  },
+  "maintenance": {
+    "maintenanceLevel": "None — wild harvest only; no cultivation required or practical",
+    "pruningNotes": "Not applicable. To encourage future fruiting: allow overripe (yellow-green to brown) specimens to complete their spore dispersal in place, or crack them open and scatter the spore mass across suitable nearby habitat — open ground with organic-rich soil near woodland edges. Do not mow or disturb known fruiting areas during the late-summer and fall fruiting window. Maintain rough, somewhat disturbed areas with organic matter (woodchip mulch, compost incorporation, leaf litter) to support the mycelium.",
+    "propagationMethods": [
+      "Wild harvest and spore scattering only; mycelium is not available commercially and is not reliably established by inoculation; the most effective strategy is to identify reliable fruiting locations and visit them annually in late summer after significant rainfall; scatter spore mass from overripe specimens in suitable nearby habitat to expand the foraging area over time; the species often returns to the same location year after year once established"
+    ]
+  },
+  "cultivarNotes": "No cultivars exist — Calvatia gigantea is exclusively a wild-harvested species; cultivation has not been successfully developed for commercial or home production; wild harvest from known, reliable locations is the only production strategy; this applies equally to all climates and regions in the lower 48 states",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wild harvest; open edge habitat maintenance; opportunistic foraging from naturalized populations on or near the property"
+    ],
+    "designPlacement": "Encourage giant puffball across any property by maintaining open woodland edge habitat — unmowed or lightly mowed margins near tree lines, organically enriched disturbed ground, compost areas, and woodchip-mulched beds near woodland edges are all candidate zones; do not intensively manage or regularly till known fruiting areas; scatter spore mass from any overripe specimens found on or near the property to seed new areas; observe annually from mid-summer onward after substantial rainfall events; the species cannot be placed deliberately in the way a cultivated plant can, but habitat management significantly increases the likelihood of fruiting",
+    "acquisitionStatus": "Wild harvest — no acquisition needed; survey the property and surrounding area for existing populations; note GPS locations of any fruiting sites found\nPennsylvania — Hegins Site Observations:\nSurvey open areas, lawn edges near the woodland margin, old field areas, and any organically enriched disturbed ground on and adjacent to the property during August-October; check after significant late-summer rainfall events; the species is common throughout PA and finding it on or near the site is a realistic expectation with consistent observation over several seasons; active deer pressure at the Hegins site means fruiting bodies may be consumed by wildlife before discovery — check known and candidate fruiting areas frequently once the late-summer rain window opens; the red clay soil limits mycelial establishment without organic matter input, so compost zones and woodchip-mulched guild edges are the highest-priority survey and spore-seeding targets"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Calvatia_gigantea",
+    "inaturalist": "https://www.inaturalist.org/taxa/57692-Calvatia-gigantea",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — C. gigantea occurs naturally throughout Pennsylvania; commonly found across the state in late summer and fall in open woodland edges, old fields, meadow margins, and disturbed ground",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania",
+      "drainage": "Hegins-area red clay is marginally suitable; fruiting is more likely in organically amended areas, compost zones, and woodland edges where organic matter and some soil disturbance improve tilth; avoid low-lying areas with prolonged wet periods",
+      "soil": "Hegins red clay is workable habitat only in areas with significant organic matter incorporation or natural accumulation; most likely fruiting sites on a red-clay property are compost areas, woodchip-mulched edges, established garden beds amended over several years, and any rough edge zones where leaf litter accumulates; raw undisturbed clay is not favorable",
+      "cultivarNotes": null,
+      "designPlacement": "At the Hegins property, candidate habitat zones include the compost area, woodchip-mulched edges along the tree guilds (apple, paw paw, mulberry guilds), any rough unmowed margins at the back of the property, and the woodland edge interface if present; the red clay soil requires organic matter amendment before the mycelium is likely to establish; begin by scattering spore mass from any specimens found locally in nearby fields or roadsides during the August-October window; check candidate areas each year after significant late-summer rains; deer pressure at the site means wildlife competition for fruiting bodies is likely — harvest immediately upon discovery",
+      "siteObservations": null
+    }
+  }
+}

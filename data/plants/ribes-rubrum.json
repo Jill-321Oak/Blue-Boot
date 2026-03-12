@@ -1,0 +1,157 @@
+{
+  "id": "ribes-rubrum",
+  "name": {
+    "commonName": [
+      "Red Currant"
+    ],
+    "latinName": "Ribes rubrum",
+    "family": "Grossulariaceae"
+  },
+  "range": {
+    "nativeRange": "Western Europe — distributed across northern and central Europe from Scandinavia south to the Pyrenees and east to Russia; extensively naturalized in North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; naturalized in scattered locations across the northern states and southern Canada, primarily in New England, the upper Midwest, and the Pacific Northwest where cool, moist conditions favor establishment"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not considered invasive anywhere in the lower 48 US states; naturalized populations are generally sparse and non-aggressive; not listed on the USDA PLANTS noxious weed database or any state noxious weed list; does not spread by runners or aggressive seeding under typical garden conditions"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7"
+    }
+  },
+  "description": {
+    "height": "3-5 ft",
+    "spread": "3-5 ft",
+    "spacing": "4-5 ft",
+    "growthRate": "Moderate",
+    "timeToMaturity": "2-3 years to reliable fruit production",
+    "lifespan": "15-20 years productive life; plants decline in productivity after ~20 years",
+    "deciduousEvergreen": "Deciduous",
+    "winterInterest": "Low — bare stems; attractive branch structure but no berries persist into winter"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; notably shade-tolerant for a fruiting shrub — one of few that produces well with afternoon shade; in Zone 8+ or hot-summer climates, afternoon shade improves performance and prevents leaf scorch",
+    "water": "Medium; prefers consistent moisture; less drought tolerant than golden currant; in arid western climates, regular irrigation is essential",
+    "drainagePreference": {
+      "description": "Well-drained to average; does not tolerate wet feet or waterlogged conditions — crown rot and root rot develop quickly in saturated soil; raised planting or amended drainage is essential in any heavy soil that holds standing water",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — tolerates clay if drainage is adequate, but heavy unamended clay with poor internal drainage will cause root decline; amending with coarse compost and ensuring the planting site does not collect water after rain brings clay performance into the acceptable range; avoid low spots in clay landscapes"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Prefers rich loamy soil with good organic matter content; tolerates a range of textures from sandy loam to clay loam provided drainage is adequate; avoid pure sand (dries too fast) and pure clay (drains too slowly)",
+    "rootCharacter": "Fibrous, shallow; does not spread aggressively — well-behaved in formal beds"
+  },
+  "bloom": {
+    "bloomTime": "April",
+    "bloomDescription": "Small greenish-yellow flowers in pendant racemes — not ornamentally significant; the show is entirely in the fruit",
+    "fragrance": "None; leaves have a distinctive sharp currant scent when crushed",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; cross-pollination improves yield; bees are primary pollinators"
+  },
+  "yield": {
+    "edibleParts": "Berries (tart, excellent fresh, in juice, jelly, jam, wine, baking, and desserts); leaves (used in tea and as a wrap)",
+    "harvestSeason": "July — harvest entire clusters by stripping; fruit ripens uniformly along the raceme",
+    "medicinalUses": "Very high in Vitamin C (higher than orange by weight); high in antioxidants and flavonoids; traditional use for colds and fever; berries and leaves both used in European herbal medicine",
+    "craftOtherYield": "Wine and juice; natural red dye; cassis (black currant is more traditional but red currant works)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Not toxic; berries and leaves are edible",
+    "toxicityAnimals": "Generally considered safe",
+    "allelopathy": "None documented; avoid proximity to fennel (fennel is broadly allelopathic to many plants)",
+    "notes": "Ribes species are alternate hosts for white pine blister rust (Cronartium ribicola). Before planting, check whether white pines (Pinus strobus) are present on or adjacent to the property. Federal Ribes planting restrictions were lifted in the 1960s, but some states or counties may still have local regulations — verify current rules in your state. The risk is primarily to white pine forestry; home gardeners with no nearby white pines face negligible concern."
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (berries, leaves)",
+      "Insect Attractor (early spring bloom)",
+      "Beauty (ornamental fruit clusters July)"
+    ],
+    "companionPlants": [
+      "Comfrey (beneficial companion — bio-accumulator mulches the root zone)",
+      "garlic and chives (pest confusers)",
+      "nasturtium (ground cover and trap crop for aphids — draws aphids away from currants)"
+    ],
+    "antagonists": [
+      "Fennel (allelopathic); avoid near white pines (blister rust)"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Native bees and small butterflies (spring bloom), robins and thrushes (berries)",
+    "hostPlantFor": "Alternate host for white pine blister rust; some native moth larvae use Ribes as a host",
+    "nestingHabitat": "Moderate — provides some low cover but not a primary nesting shrub"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — not a preferred browse species but will be taken under heavy pressure; young plants are more vulnerable than established shrubs; fencing or temporary caging recommended for the first 2 years in areas with significant deer activity"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not appropriate for road-adjacent planting or coastal gardens with direct salt spray; may recover from light incidental exposure"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; prefers consistent moisture and will show leaf scorch and reduced fruiting in dry summers; mulch heavily and irrigate during extended dry spells in all regions"
+    },
+    "other": "Tolerates part shade well; tolerates cold exceptionally well (Zone 3); tolerates moderate humidity but benefits from good air circulation to prevent powdery mildew; not heat-tolerant above Zone 7 — struggles in the Deep South"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium",
+    "pruningNotes": "Fruit is produced primarily on 2-3 year old wood — renewal pruning is the key to sustained production. Each late winter, remove all canes older than 3 years at ground level. Maintain 8-12 canes of mixed ages (1-year, 2-year, and 3-year wood). After year 3, this becomes a simple annual routine. Without renewal pruning the plant becomes congested and production drops sharply.",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter — exceptionally easy; simply cut 8-10\" stems and push into soil; high success with no special treatment)",
+      "softwood cuttings (early summer)",
+      "division if plant has suckered"
+    ]
+  },
+  "cultivarNotes": "Red currants are widely adapted across Zones 3-7 and most named cultivars perform well throughout this range. Key selections by region:\n**Zones 3-5 (northern US, upper Midwest, mountain West):** 'Red Lake' is the classic cold-hardy standard — widely available, reliable, mid-season. 'Jonkheer van Tets' is very early, productive, and excellent flavor; extends the harvest window when paired with a later variety. Both handle extreme cold without issue.\n**Zones 6-7 (mid-Atlantic, lower Midwest, Pacific Northwest):** 'Rovada' is the standout — very late season, exceptionally long fruit clusters, large berries, easiest to harvest, and the best ornamental berry display of any red currant; considered the best all-around cultivar where the season is long enough for it to ripen fully. 'Jonkheer van Tets' pairs well with 'Rovada' to cover early and late season. 'Red Lake' remains a solid mid-season option.\n**Zone 8+ (marginal — not recommended):** Red currants struggle with summer heat above Zone 7; if attempting, choose early-ripening cultivars like 'Jonkheer van Tets' that fruit before peak heat.\nSpecify cultivar when purchasing — unnamed seedlings are significantly less productive than named varieties.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Border mid-zone or back zone",
+      "food forest shrub layer",
+      "kitchen garden",
+      "hedge"
+    ],
+    "designPlacement": "Place where it receives morning sun with optional afternoon shade — this is one of few fruiting shrubs that tolerates and even benefits from partial shade in warm-summer climates; keep away from white pines; pair with comfrey, garlic, or chives as guild companions; ornamental fruit clusters make it suitable for visible garden areas, not just production zones; works well as an informal hedge or mid-height layer in a mixed border",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ribes_rubrum",
+    "inaturalist": "https://www.inaturalist.org/taxa/54431-Ribes-rubrum",
+    "missouriBotanicalGarden": [
+      {
+        "label": "Rovada cultivar",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a274"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania; may be found as an occasional garden escape in cooler PA counties but not established in local woodlands or hedgerows around Hegins",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list",
+      "drainage": "Hegins red clay requires amendment before planting in-ground — work generous compost into a wide planting area and mound slightly to ensure water drains away from the crown; alternatively, plant in raised beds where drainage is not a concern; do not plant in unamended compacted clay at this site",
+      "soil": "At the Hegins site, amend red clay with compost to approximate a clay-loam texture; raised vegetable beds with imported soil mix are ideal if available; in-ground planting is workable with amendment but requires attention to drainage",
+      "cultivarNotes": "'Rovada' is the top recommendation — the long, heavy fruit clusters are both productive and ornamental; pair with 'Jonkheer van Tets' for early-to-late season coverage. 'Red Lake' is the safe fallback if sourcing is difficult.",
+      "designPlacement": "North-facing front bed stairway flanking candidate — ornamental berry clusters in July are genuinely beautiful; also strong candidate for the kitchen garden strip (Section B — shade tolerance is an asset there as the food forest canopy closes in) and apple guild shrub layer",
+      "siteObservations": "Deer pressure from the east corridor is a moderate concern — cage or fence young plants for the first 2 years until established; the red clay requires amendment or raised bed planting for reliable drainage; verify whether any white pines exist on or adjacent to the property before committing to Ribes plantings; historically some PA counties had Ribes planting restrictions for blister rust — these have largely been relaxed but are worth confirming with the county extension office"
+    }
+  }
+}

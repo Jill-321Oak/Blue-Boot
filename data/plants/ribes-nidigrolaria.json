@@ -1,0 +1,162 @@
+{
+  "id": "ribes-nidigrolaria",
+  "name": {
+    "commonName": [
+      "Jostaberry"
+    ],
+    "latinName": "Ribes × nidigrolaria",
+    "family": "Grossulariaceae"
+  },
+  "range": {
+    "nativeRange": "Not native — a bred hybrid developed in Germany in the 1970s by Dr. Rudolf Bauer at the Max Planck Institute; the result of a complex cross involving black currant (Ribes nigrum), European gooseberry (Ribes uva-crispa), and North American coastal black gooseberry (Ribes divaricatum)",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; one parent (Ribes divaricatum) is native to the Pacific Northwest, but the hybrid itself is entirely of cultivated origin and does not occur in the wild in North America"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; a sterile-ish hybrid that does not naturalize or spread aggressively; not listed on any US state noxious weed list or USDA invasive species database; produces viable seed only rarely and does not form self-sustaining populations"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "5-6'",
+    "spread": "5-6'",
+    "spacing": "5-6' from other plants; this is a larger shrub than either parent",
+    "growthRate": "Vigorous — faster-establishing and more vigorous than either black currant or gooseberry; reaches productive size quickly",
+    "timeToMaturity": "First light crop years 2-3; full production years 3-4; faster to productive maturity than gooseberry",
+    "lifespan": "Long-lived; 15-20+ years with proper renewal pruning",
+    "deciduousEvergreen": "Deciduous — leaves are intermediate between the two parents; slightly aromatic like black currant",
+    "winterInterest": "Low — bare in winter; multi-stemmed arching structure has some presence"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; full sun produces the best yields; tolerates part shade and will still fruit well — a genuine advantage in partially shaded food forest settings; in Zone 7+ or hot-summer areas, afternoon shade is beneficial",
+    "water": "Medium; consistent moisture during fruit development improves yield and berry size; similar to black currant in water needs; in arid western climates, regular irrigation is essential during fruiting",
+    "drainagePreference": {
+      "description": "Average to well-drained; avoid waterlogged conditions; mulching helps retain moisture and moderate soil temperature; tolerates heavier soils better than many fruit shrubs but standing water will cause root rot",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — tolerates clay-loam reasonably well, which is a meaningful advantage over many Ribes; heavy clay should be amended with compost to improve drainage and aeration; raised mounds or bermed planting can help in sites with persistent drainage issues; once established in amended clay, performs reliably"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; moist, well-drained loam preferred; tolerates clay-loam and sandy-loam; avoid pure sand or heavy unamended clay",
+    "rootCharacter": "Fibrous spreading root system inherited from both parents; can be propagated by layering (stems root where they touch soil)"
+  },
+  "bloom": {
+    "bloomTime": "April-May (early — one of the first fruit shrubs to flower)",
+    "bloomDescription": "Small bi-color flowers — maroon-pink and creamy white — borne in clusters of 3-5 along the canes; more ornamentally interesting than either parent; still not showy but attractive up close",
+    "fragrance": "Mild; foliage has a faint black currant aromatic quality when brushed, but less pronounced than pure black currant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; no cross-pollinator required; fruiting improves with multiple plants nearby but a single bush produces well"
+  },
+  "yield": {
+    "edibleParts": "Berries — larger than black currant, smaller than gooseberry; dark purple-black when fully ripe; flavor is the standout characteristic of this hybrid: less pungent and musky than black currant, more complex and rich than plain gooseberry; sweet-tart with a depth that works well both fresh and processed; a very appealing flavor for people who find pure black currant too intense",
+    "harvestSeason": "July (mid-summer); berries ripen earlier than gooseberry; harvest when fully black — they hold on the cane for a week or two after ripening, which gives some flexibility; a mature bush can yield 10-20 lbs per season",
+    "medicinalUses": "Inherits the anthocyanin and vitamin C content of its black currant parent, though somewhat diluted relative to pure black currant; still nutritionally significant; antioxidant and anti-inflammatory properties",
+    "craftOtherYield": "Jam (outstanding — the intermediate flavor makes an exceptionally well-balanced fruit jam), juice, wine, jelly, chutney, crumbles, cordial; the large berry size relative to black currant makes processing faster and more practical"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "Generally safe; berries eaten by birds and wildlife",
+    "allelopathy": "None documented; note the Ribes/white pine blister rust connection — see below under Antagonists — though the jostaberry has notably improved resistance compared to both parents",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (fruit — high-yield, excellent flavor, practical thornless harvest)",
+      "Medicinal (anthocyanins, vitamin C — less concentrated than black currant but still meaningful)",
+      "Wildlife Support (berries consumed by birds)",
+      "Insect Attractor (early spring bi-color flowers attractive to bees)",
+      "Living Mulch Suppression (large vigorous shrub shades out weeds beneath its canopy)"
+    ],
+    "companionPlants": [
+      "Comfrey (dynamic accumulator at the base — the classic Ribes companion)",
+      "garlic chives or chives (pest deterrent)",
+      "yarrow (insectary plant)",
+      "strawberries (ground cover beneath — mutual benefit)",
+      "mulberry or apple (guild canopy companions)"
+    ],
+    "antagonists": [
+      "WHITE PINE BLISTER RUST (Cronartium ribicola) — the jostaberry was specifically bred for improved resistance to this pathogen and is notably resistant; this is a key advantage over both parent species in landscapes with white pines (Pinus strobus); the jostaberry does not need to be avoided near white pines the way gooseberry and black currant do",
+      "though caution is still warranted; check for white pine presence on or adjacent to the property as a general Ribes precaution"
+    ],
+    "coppiceable": "Renewal pruning (same framework as gooseberry and black currant — remove oldest canes at the base, keep 1-2-3-year-old wood); can be cut hard for renovation; regrows vigorously"
+  },
+  "wildlife": {
+    "attracts": "Bees (early spring flowers — bi-color blooms are more attractive than either parent species alone), birds (berries consumed eagerly by catbirds, robins, thrushes, waxwings, and others — harvest promptly when ripe), small mammals",
+    "hostPlantFor": "Likely hosts some of the same Lepidoptera as other Ribes, including Currant Clearwing moth; no specific data for the hybrid",
+    "nestingHabitat": "Dense, broadly spreading multi-stemmed shrub provides good cover and some nesting structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — aromatic foliage (inherited from the black currant parent) deters browsing; similar to black currant in deer resistance; better than most fruiting shrubs; young plants should still be protected until established"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate; tolerates incidental road salt exposure but not sustained salt spray; recovers from light winter salt drift"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate; prefers consistent moisture during fruiting; established plants tolerate short dry periods better than black currant"
+    },
+    "other": "Highly vigorous and adaptable; more heat-tolerant than pure black currant; the wider Zone 3-8 rating reflects improved adaptability at both cold and warm extremes compared to black currant's Zone 3-7; handles humidity well and is less prone to mildew than either parent"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — easier than either parent in terms of disease management; the thornlessness makes all maintenance tasks significantly more practical",
+    "pruningNotes": "Follow the same renewal pruning framework used for gooseberry and black currant: maintain a balanced set of 1, 2, and 3-year-old canes (approximately 4-5 of each); remove all canes older than 3 years at the base; prune in late winter (February-March) while dormant; the vigorous growth habit means this shrub will produce plenty of new canes each year — do not let old wood accumulate; good airflow from open pruning reduces any residual mildew risk; the thornless canes make pruning far less unpleasant than gooseberry",
+    "propagationMethods": [
+      "Hardwood cuttings (fall/winter — extremely easy, as with all Ribes; 8-12\" sections stuck in moist soil root very reliably)",
+      "layering (peg a stem to the ground in summer; rooted by fall)"
+    ]
+  },
+  "cultivarNotes": "The jostaberry is sold primarily as the original base hybrid — the plant commonly labeled 'Jostaberry' in North American nurseries represents the original German breeding line from the 1970s and is effectively the standard. Some named German selections exist (including 'Josta', 'Jostaki', and 'Jostine') but these are rarely if ever available in North American commerce. For Zone 3-5 growers, any available jostaberry will perform well given its extreme cold hardiness. For Zone 6-7 growers, the standard hybrid is fully adapted and productive. For Zone 8+ growers, the jostaberry may struggle with insufficient winter chill — site in afternoon shade and ensure adequate winter cold exposure; performance at the warm edge of its range is better than black currant but still limited. There is no meaningful cultivar selection decision at this time; purchase any jostaberry offered by a reputable nursery.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer",
+      "kitchen garden",
+      "mulberry or apple guild understory",
+      "informal hedge",
+      "specimen fruiting shrub"
+    ],
+    "designPlacement": "Shrub understory of a canopy tree guild — the jostaberry's part-shade tolerance and large productive footprint make it an ideal understory companion in a developing food forest; the thornless harvest is especially valuable where reaching into the shrub layer beneath canopy trees is already awkward; the improved white pine blister rust resistance makes this the preferred Ribes choice where white pines are present; consider it a direct upgrade option over gooseberry (thornless, more disease-resistant, equally productive) and a practical complement to black currant (larger shrub, milder flavor, better heat tolerance); plant 5-6' from other shrubs at the drip line of canopy trees",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jostaberry",
+    "inaturalist": "https://www.inaturalist.org/taxa/1028040-Ribes---nidigrolaria",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=446178&isprofile=0&pt=7"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field — not a concern",
+      "drainage": "The red clay at the Hegins site is workable for jostaberry with amendment — incorporate generous compost into the planting hole and mulch heavily; in-ground planting is viable without raised beds, but ensure the planting site does not collect standing water after heavy rain; the clay-loam tolerance inherited from the gooseberry parentage is a practical advantage here",
+      "soil": "The Hegins red clay soil benefits from compost amendment at planting; jostaberry is one of the more clay-tolerant fruiting shrubs and should establish well in amended clay without raised beds",
+      "cultivarNotes": "The standard jostaberry hybrid is ideal for Zone 6a — well within the sweet spot of its hardiness range, with adequate winter chill and moderate summers; no cultivar selection concerns for Hegins.",
+      "designPlacement": "Shrub understory of the mulberry or apple guild; the blister rust resistance is especially relevant if white pines are present on or adjacent to the Hegins property; a strong candidate for the food forest shrub layer given the site's clay soil tolerance and part-shade conditions under developing canopy trees",
+      "siteObservations": "The Hegins site offers good conditions for jostaberry — Zone 6a is well within the ideal range, and the clay-loam tolerance means in-ground planting with compost amendment should succeed without raised beds; deer pressure from the east wildlife corridor is a consideration for young plants (protect until established), but the aromatic foliage provides good resistance once mature; the vigorous growth habit and thornless canes make this an especially practical shrub for a developing food forest where access and maintenance ease matter"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "hosta",
+  "name": {
+    "commonName": [
+      "Hosta",
+      "Plantain Lily"
+    ],
+    "latinName": "Hosta spp.",
+    "family": "Asparagaceae (subfamily Agavoideae)"
+  },
+  "range": {
+    "nativeRange": "East Asia — Japan, China, Korea, and the Russian Far East; found in moist woodland margins, forest floors, and glades; a genus of approximately 45 species",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from East Asia as an ornamental; widely cultivated across all lower 48 states but does not naturalize meaningfully in wild or semi-wild habitats"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — a well-behaved clump-forming perennial; spreads slowly by rhizome expansion but does not self-seed aggressively or naturalize beyond cultivation; not listed on any state noxious weed lists or the federal noxious weed list"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 (exceptionally cold-hardy for a foliage perennial; heat tolerance is the practical upper limit — performance declines in Zone 9 and above where nights stay warm)"
+    }
+  },
+  "description": {
+    "height": "Highly variable by cultivar — miniatures under 6\"; standard medium cultivars 12-24\"; giants ('Empress Wu', 'Sum and Substance') to 4-5' tall; foliage mounds are typically wider than tall",
+    "spread": "12\" (miniatures) to 5-6' (giants); clumps expand slowly over many years and reach their full stated size only at maturity (5-10 years)",
+    "spacing": "Variable — miniatures 12-18\"; medium cultivars 24-36\"; giants 4-5'; allow room for full mature spread; hostas are most impactful when given adequate space",
+    "growthRate": "Slow to moderate; the common saying is \"first year sleeps, second year creeps, third year leaps\"; mature specimens are significantly more impressive than young plants; patience is rewarded",
+    "timeToMaturity": "Edible shoots (urui) harvestable from year 1; ornamental maturity 3-7 years depending on cultivar size; giant hostas may take a decade to reach full expression",
+    "lifespan": "Essentially permanent; clumps are extremely long-lived, improving in size and presence for decades; hostas are among the most durable and reliable of all perennials",
+    "deciduousEvergreen": "Deciduous — foliage completely dies back to the ground in fall; crowns are dormant through winter; emergence in spring is dramatic and abrupt",
+    "winterInterest": "None from the foliage; the dried flower stalks may persist briefly; the dormant crowns are completely invisible; this makes hostas excellent companions for spring bulbs or early-emerging perennials that fill the gap"
+  },
+  "lightAndWater": {
+    "sun": "Shade to part shade; this is non-negotiable — hostas evolved as forest floor plants and require protection from direct afternoon sun; morning sun (2-4 hours) is beneficial and intensifies gold and chartreuse foliage colors; afternoon sun causes leaf scorch (brown, papery leaf margins) and is the most common cultural problem; blue-foliaged cultivars require more shade than golds; deep shade (under dense evergreens) is too dark for most cultivars; dappled light under a deciduous canopy is ideal; in the Deep South (Zone 8-9), even morning sun may need to be limited — full shade with bright ambient light is safer",
+    "water": "Medium; prefers consistent moisture; does not tolerate drought well, especially in full shade where competing tree roots may draw moisture; drought stress accelerates leaf scorch and causes premature dormancy; mulch heavily to conserve soil moisture; in arid western climates, supplemental irrigation is essential — hostas are not xeriscape-compatible",
+    "drainagePreference": {
+      "description": "Moist but well-drained; tolerates average moisture; will not thrive in standing water or constantly saturated soil; waterlogged conditions promote crown rot, the primary cause of hosta death; good drainage is more critical than abundant moisture — hostas recover from brief drought far better than from prolonged saturation",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — hostas tolerate heavy clay better than many perennials, provided drainage is adequate; their fleshy root systems handle dense soil textures well; the primary risk in clay is winter crown rot from water pooling around dormant crowns; amend clay planting holes generously with compost (50/50 mix) to improve drainage and aeration around the root zone; in poorly drained clay, plant crowns slightly elevated (1-2\" above grade) to prevent water from sitting on the crown; once established in amended clay, hostas perform well and the moisture-retentive nature of clay can actually benefit them during summer"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; broadly adaptable; not pH-sensitive in practice"
+    },
+    "texturePreference": "Rich, moist, well-drained loam with high organic matter is ideal; tolerates a wide range of soil textures from sandy to clay if adequately amended; excellent leaf mold (composted leaves) mimics the forest floor conditions hostas prefer; the key requirement is organic matter — hostas evolved in soils built from centuries of leaf litter decomposition",
+    "rootCharacter": "Shallow, dense, fleshy rhizome and root system; crown grows at or just below soil surface; the thick, fleshy roots store nutrients and water; plant with crown at soil level — do not bury deeply"
+  },
+  "bloom": {
+    "bloomTime": "July-August",
+    "bloomDescription": "Tall, upright scapes (flower stalks) rise 12-24\" above the foliage mound; flowers are tubular, lily-like, in shades of lavender, pale purple, or white depending on cultivar; borne in loose racemes; individually modest but collectively attractive; Hosta plantaginea and its hybrids produce large, white, notably fragrant flowers; most other cultivars have scentless or lightly scented blooms; some gardeners remove the scapes on heavily foliage-focused cultivars (especially variegated types) to keep attention on the leaves",
+    "fragrance": "Variable — most cultivars scentless; H. plantaginea hybrids (e.g., 'Royal Standard', 'Honeybells', 'Sugar and Cream') are notably fragrant, evening-scented, and worth selecting for this quality if fragrance is a design priority",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Insect-pollinated (bees, hummingbirds); self-fertile but cross-pollination produces the most seed"
+  },
+  "yield": {
+    "edibleParts": "Young shoots (urui) — the tightly coiled, emerging spring shoots, harvested when 3-6\" tall before or just as the leaves begin to unfurl; this is a genuine traditional Japanese vegetable with a long culinary history that is largely overlooked in Western gardening; the shoots have a mild, slightly grassy, pleasant flavor often compared to asparagus or a mild leek; excellent briefly sautéed in butter, blanched and dressed with sesame oil and soy sauce, added to stir-fries, or eaten raw in small quantities in salads; only the young shoots are palatable — mature leaves become tough, slightly bitter, and unpleasant; the harvest window is brief (1-2 weeks per plant in spring); harvest by snapping or cutting individual shoots at the base; do not harvest all shoots from a single plant — leave at least half to ensure the plant can photosynthesize and build energy for the season",
+    "harvestSeason": "Spring — timing varies by zone; Zone 3-5: mid-May to early June; Zone 6-7: late April to mid-May; Zone 8-9: late March to mid-April; coincides with or just before the shoots fully unfurl into leaves; timing varies year to year with spring temperatures",
+    "medicinalUses": "None significant in Western herbalism",
+    "craftOtherYield": "Large-leaved cultivars provide excellent cut foliage for floral arrangements; the broad, textured leaves (especially blue-green types like 'Halcyon' or 'Hadspen Blue') are prized by florists; dried flower scapes can be used in arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic to humans; the edible shoot tradition in Japan supports this; consume only young shoots (urui) in the traditional manner — there is no documented record of toxicity from cooked shoots",
+    "toxicityAnimals": "Toxic to dogs and cats — ASPCA lists Hosta as toxic to dogs, cats, and horses; ingestion causes vomiting, diarrhea, and depression; the toxic compound is not fully identified but saponins are suspected; in a garden with pets, plant hostas in areas inaccessible to dogs and cats, or select pet-safe alternatives; this is a meaningful concern in a home garden setting",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb / Ground Cover layer"
+    },
+    "roles": [
+      "Food (urui — edible spring shoots; a genuine food forest yield from the shade layer that most Western growers leave on the table)",
+      "Ground Cover & Weed Suppression (the dense, broad foliage canopy of mature hostas is among the best weed-suppressing ground covers in shade; virtually nothing grows through a mature hosta stand)",
+      "Beauty and Architectural Interest (no other plant offers as much foliage diversity — color, texture, size — in the shade layer)",
+      "Soil Cover & Moisture Retention (broad leaves reduce soil moisture evaporation)",
+      "Shade Utilization (converts deep shade — typically the most underproductive area of a food forest — into productive and beautiful space)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — hostas are ideal beneath the paw paw canopy; the paw paw provides the afternoon shade hostas require while hostas fill and suppress weeds in the understory)",
+      "Matteuccia struthiopteris (ostrich fern — superb textural contrast; the vertical vase of the fern against the horizontal mound of the hosta is a classic woodland combination)",
+      "Allium tricoccum (ramps — emerge and complete their cycle before hostas fully leaf out; compatible in timing)",
+      "Asarum canadense (wild ginger — lower ground cover that fills gaps between hosta clumps)",
+      "Lindera benzoin (spicebush — shrub layer above hostas in a woodland guild)",
+      "Epimedium spp. (barrenwort — extremely tough low ground cover for drier shade areas adjacent to hostas)",
+      "spring bulbs (tulips, daffodils, Allium — emerge through the dormant hosta crowns in spring and are hidden as the hostas leaf out; a classic companion planting technique)"
+    ],
+    "antagonists": [
+      "Full sun and dry conditions — the primary antagonists are environmental rather than plant-specific; avoid planting in competition with shallow-rooted trees (maples especially) in dry sites without supplemental irrigation"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (forage the tubular flowers in July-August); hummingbirds (attracted to the tall flower scapes, especially of lavender-flowered cultivars); beneficial insects shelter beneath the broad leaves",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera (non-native plant)",
+    "nestingHabitat": "Dense mature clumps provide ground-level cover for birds and small mammals; toads and beneficial beetles shelter beneath the foliage"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "POOR — hostas are among the most heavily browsed plants in deer-pressure gardens; deer actively seek them out and will consume entire clumps to the ground repeatedly; this is the single greatest management challenge for hostas across the eastern US, Midwest, and increasingly in suburban areas nationwide; practical management options: (1) physical fencing around planting areas — the most reliable solution; (2) repellent sprays (Liquid Fence, Plantskydd) applied consistently every 1-2 weeks or after rain — labor-intensive but effective if maintained; (3) dog presence in the garden — the most passive deterrent; (4) accept hostas as a \"deer sacrifice crop\" in exposed areas while protecting high-value specimens; (5) plant deer-resistant species in exposed perimeter areas and reserve hostas for the most protected zones near the house or within fenced areas; thick-leaved, corrugated blue cultivars are marginally less palatable than thin-leaved types, but cultivar selection does not solve the deer problem — only physical management does"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive to road salt spray and salt-laden runoff; do not plant near heavily salted roadways or in coastal areas with direct salt spray exposure; hostas can tolerate light incidental salt exposure at distance (40+ feet from road) but direct contact causes foliar burn"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — hostas tolerate brief dry spells once established but decline significantly in extended drought; the shade environment often helps conserve moisture but competing tree roots in a food forest setting can cause drought stress; consistent summer watering is recommended, especially for first- and second-year plants; in arid western climates (Zone 7b-9 in the interior West), regular irrigation is mandatory"
+    },
+    "other": "Exceptional cold hardiness (Zone 3); late spring frosts may damage emerging shoots but rarely kill the plant; slug and snail damage is the most common foliage problem in moist, shaded conditions — slugs rasp holes through leaves, particularly on soft-textured, thin-leaved cultivars; manage with iron phosphate pellets (Sluggo — safe around pets and wildlife) or diatomaceous earth applied around crowns; thick-leaved, corrugated cultivars (blue types especially) are more slug-resistant; in hot, humid climates (Zone 8-9), crown rot and foliar diseases increase — ensure excellent drainage and air circulation"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low once established in appropriate conditions; the primary ongoing tasks are deer management (HIGH effort in deer-pressure areas) and slug control in wet years",
+    "pruningNotes": "Cut or remove dead foliage in fall after frost, or leave until early spring and remove before new shoots emerge; removing fall foliage eliminates overwintering slug habitat; divide large clumps every 5-10 years when the center becomes crowded or congested (a hollow center is the sign); divide in early spring just as shoots emerge, or in early fall; replant divisions immediately and water well",
+    "propagationMethods": [
+      "Division (primary method — clean and reliable; divide in spring or fall; each division should have at least one \"eye\"/crown point); tissue culture (commercial production only); seed (species only — cultivars do not come true from seed; seeds germinate readily but resulting seedlings will be variable); most home gardeners propagate by spring division"
+    ]
+  },
+  "cultivarNotes": "The breadth of hosta cultivar selection is extraordinary — over 7,200 registered names — and cultivar choice meaningfully affects performance, aesthetic role, and pest resistance. Hostas perform well across an enormous range of climates (Zones 3-9), but regional considerations matter for cultivar selection.\nGiant Hostas (to 4-5' wide; statement plants):\n- 'Sum and Substance' — chartreuse to gold; to 30\" tall and 5' wide; the gold standard for giant hostas; thick, corrugated leaves resist slugs well; moderate sun tolerance; one of the most spectacular single perennial plants available; performs well Zones 3-9\n- 'Empress Wu' — green; reportedly the largest hosta in cultivation (to 4' tall and 6' wide at maturity); dramatic; needs significant space; slower to mature; performs best Zones 3-8 where adequate moisture is available\nBlue-Foliaged Hostas (blue-green to steel blue; most slug-resistant due to thick, waxy leaf surface; prefer deeper shade to hold color; the waxy bloom that creates the blue color melts faster in hot climates — Zone 8+ gardeners should site these in deep shade):\n- 'Halcyon' (Tardiana Group) — medium; reliable, elegant, soft blue; one of the best blues available; slug-resistant; excellent in any shade position\n- 'Hadspen Blue' — medium-small; deep blue; very clean\n- 'Blue Angel' — giant blue; deeply corrugated; very slug-resistant\nGold and Chartreuse Hostas (benefit from morning sun to intensify color; in Zone 8-9, even morning sun should be limited to 1-2 hours to avoid scorch):\n- 'Sum and Substance' (see Giant above)\n- 'Gold Standard' — medium; gold center, green margin; classic; vigorous\n- 'August Moon' — medium; pale gold; reliable; fragrant flowers\nVariegated Hostas (most popular category; dramatic contrast):\n- 'Frances Williams' — giant; blue-green with gold margin; classic combination of the two most popular hosta colors; slug damage more visible on lighter margins\n- 'Patriot' — medium; deep green with crisp white margin; one of the most vigorous and reliable variegated hostas; excellent massed planting\n- 'Francee' — medium; green with narrow white margin; very clean; widely available\n- 'Fire and Ice' — medium; white center, green margin (reverse of 'Patriot'); striking\nFragrant Hostas (Hosta plantaginea hybrids — evening-scented flowers; white; July-August; H. plantaginea is the most heat-tolerant species and its hybrids are the best choices for Zone 8-9 gardens):\n- 'Royal Standard' — medium-large; green; white fragrant flowers; tolerates more sun than most hostas; excellent near a patio or path where evening fragrance is noticed\n- 'Honeybells' — medium; lavender-white fragrant flowers; vigorous\n- 'Guacamole' — medium-large; gold center, green margin; fragrant flowers; AHS Hosta of the Year; excellent heat tolerance for southern gardens\nRegional guidance:\n- Zones 3-5 (northern US): All cultivars perform well; slug pressure highest in wet springs; cold hardiness is never a concern; the long, cold winter dormancy period produces vigorous spring emergence\n- Zones 6-7 (mid-Atlantic, Midwest, Pacific NW): The sweet spot for hostas; widest cultivar selection; all categories perform reliably\n- Zones 8-9 (Deep South, Gulf Coast, low-elevation Southwest): Select H. plantaginea hybrids and thick-leaved cultivars; site in deep shade; ensure excellent drainage to prevent crown rot in warm, wet winters; blue cultivars lose their waxy bloom quickly in heat",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest understory ground cover (edible shoot harvest)",
+      "woodland shade garden",
+      "north-facing foundation planting",
+      "beneath deciduous tree canopies",
+      "any deeply shaded area where most ornamentals fail"
+    ],
+    "designPlacement": "Hostas belong in the shade layer — beneath deciduous tree canopies, on north-facing exposures, or in any location receiving fewer than 4 hours of direct sun. They are the premier foliage plant for woodland gardens and food forest understory. Site near paths or kitchen access for spring urui harvest. Use giant cultivars as focal points, medium cultivars for massing, and miniatures for edging or container work. Pair with ferns (textural contrast), spring bulbs (sequential interest), and woodland ground covers (wild ginger, epimedium) for a complete shade planting. In deer-heavy areas, restrict hostas to protected zones near the house or within fenced areas rather than exposed perimeters.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hosta",
+    "inaturalist": "https://www.inaturalist.org/taxa/82095-Hosta",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderSearch.aspx?basic=hosta"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from East Asia; not native to Pennsylvania or North America",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture or DCNR invasive species lists",
+      "drainage": "The red clay at the Hegins site benefits from generous compost amendment at planting to improve both drainage and aeration; the compacted, construction-disturbed soil around foundation beds should be loosened to at least 12\" depth and amended with 3-4\" of compost worked in; plant crowns slightly above grade to prevent winter waterlogging; once established in amended clay, hostas perform reliably here — raised beds are not required but in-ground planting does need amendment",
+      "soil": "Amend Hegins red clay planting areas with compost and leaf mold; work amendments into the top 12\" at planting; annual topdressing with 1-2\" of shredded leaf mulch builds the organic-rich soil layer hostas thrive in and mimics their native woodland floor conditions",
+      "cultivarNotes": "All categories above are reliable in central PA; prioritize thick-leaved blues and giants for slug resistance in the humid climate; fragrant types ('Royal Standard', 'Honeybells') are excellent for Section C (back porch) evening enjoyment; medium and miniature cultivars stay well within the 5' height limit for Sections A and C.",
+      "designPlacement": "Paw paw guild — hostas are the natural ground-layer plant for the paw paw guild understory; the tall paw paw canopy creates the dappled afternoon shade hostas require; interplant hostas with ostrich fern, ramps, and wild ginger for a complete edible woodland floor. Section B (garage strip) — as the food forest develops and this section becomes increasingly shaded, hostas transition naturally into the understory as shade increases; plant alongside the kitchen-side path where urui (edible shoots) are accessible for early spring harvest. Section A (north-facing front strip) — hostas are well-suited to the cold, partial-shade microclimate of this section; medium and miniature cultivars fit within the 5' height limit easily; giant cultivars may approach or exceed 5' at full maturity and should be sited with awareness of this. Avoid exposed areas near the east wildlife corridor unless fencing is in place.",
+      "siteObservations": "Active deer pressure from the east wildlife corridor makes hostas high-risk in any unprotected planting at this site; deer will find hostas from a distance and consume entire clumps to the ground repeatedly. Practical site strategy: reserve hostas for the most protected zones (near the house in Sections A and B, within the back porch area of Section C) and maintain consistent repellent spray schedules (Liquid Fence or Plantskydd every 1-2 weeks or after rain) or install physical barriers. Late spring frosts in April may damage emerging shoots in the cold Section A microclimate but rarely kill the plant. Slug pressure is expected in the moist, shaded conditions of the food forest understory — use iron phosphate pellets (Sluggo) around crowns in spring as shoots emerge."
+    }
+  }
+}

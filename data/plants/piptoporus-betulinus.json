@@ -1,0 +1,159 @@
+{
+  "id": "piptoporus-betulinus",
+  "name": {
+    "commonName": [
+      "Birch Polypore",
+      "Razor Strop Fungus"
+    ],
+    "latinName": "Piptoporus betulinus (syn. Fomitopsis betulina — current accepted name; reclassified from Piptoporus to Fomitopsis based on molecular phylogenetics; both names are in common use; this profile uses the historically familiar name)",
+    "family": "Fomitopsidaceae"
+  },
+  "range": {
+    "nativeRange": "Widespread across the Northern Hemisphere — native to North America, Europe, and northern Asia; closely follows the range of birch trees (Betula species); one of the most frequently encountered bracket fungi of temperate and boreal birch forests",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native across much of the northern and eastern United States wherever birch trees (Betula species) occur naturally — found throughout New England, the mid-Atlantic states, the upper Midwest, the Great Lakes region, and portions of the Pacific Northwest and Rocky Mountain states where birch is present; absent from the Deep South, Gulf Coast, and arid Southwest where birch does not grow; naturalization is not applicable as this is an indigenous fungal species whose range is determined entirely by the distribution of its birch hosts"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive anywhere in the lower 48 states; a native fungal species with obligate host specificity to birch (Betula); cannot colonize non-birch substrates and poses no risk of spread to cultivated trees, crops, or native non-birch forests; not listed on any state noxious weed or invasive species registry"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — a fungal species that occurs across a wide climate range wherever birch trees are present; hardy from Zone 2 through Zone 7 and potentially beyond, limited only by the range of suitable birch hosts rather than by temperature"
+    }
+  },
+  "description": {
+    "height": "Fruiting body 2-12\" wide, 1-3\" thick; a kidney- to hoof-shaped bracket attached to the side of the host tree; occasionally multiple brackets on a single tree",
+    "spread": "Individual fruiting bodies are single brackets (not rosette clusters); mycelium pervades the wood of the host birch; a colonized tree may fruit multiple brackets along its length",
+    "spacing": "Not cultivated in the conventional sense; habitat creation through planting birch trees is the design approach; the fungus will establish naturally on any suitable birch on or adjacent to the property",
+    "growthRate": "Fruiting bodies develop slowly relative to other bracket fungi; a new specimen grows over weeks to months; old fruiting bodies are persistent and can remain attached to the tree for a year or more, hardening and discoloring with age",
+    "timeToMaturity": "Once birch trees are established and begin to age or decline, the fungus may appear within years; wild harvest is opportunistic — scout any birch trees in the area for existing specimens",
+    "lifespan": "Individual fruiting bodies are perennial in the sense that they persist on the tree long after forming — unlike ephemeral gilled mushrooms, a birch polypore bracket can remain attached for 1-2 years; fresh, white-to-tan specimens from summer-fall are the best quality for medicinal use; older specimens gray out, harden, and become less potent; the mycelium continues as long as birch wood remains available",
+    "deciduousEvergreen": "Not applicable; fruiting bodies are persistent year-round; new specimens emerge primarily in summer and fall",
+    "winterInterest": "Yes — old dried brackets remain attached to dead birch snags through winter; white or pale brown undersides are visible on birch snags; a common sight in winter woodland walks where birch is present"
+  },
+  "lightAndWater": {
+    "sun": "Not applicable; the fungus fruits regardless of light exposure on the host tree; commonly found on birch snags in both open and forested conditions",
+    "water": "Fruiting is associated with moisture but birch polypore is less moisture-dependent at fruiting time than many other species; fresh specimens are firm and white; the fungus draws on moisture reserves within the host wood",
+    "drainagePreference": {
+      "description": "Not applicable; the fungus lives within the wood of its host tree, not in soil; drainage conditions affect the birch host rather than the fungus directly — see the birch host species profile for soil drainage requirements",
+      "claySoilPerformance": {
+        "rating": "none",
+        "description": "Not directly applicable — P. betulinus grows in birch wood, not in soil; however, clay soil conditions affect the host birch tree; river birch (B. nigra) is the most clay-tolerant birch species and performs well in heavy clay soils across the eastern US, making it the best host tree choice for clay-soil sites; paper birch and yellow birch prefer well-drained loam and may struggle in heavy clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "Not applicable — grows in birch wood, not soil; birch host trees generally prefer slightly acidic to neutral soils (pH 5.0–7.0)"
+    },
+    "texturePreference": "Not applicable; exclusively associated with birch (Betula species); does not grow on other tree genera; this host specificity is one of the most distinctive features of P. betulinus and makes it easy to confirm identity (if it is on birch and looks like a birch polypore, it almost certainly is one); soil texture is relevant only to the birch host tree — see the host species profile",
+    "rootCharacter": "White to cream mycelium pervades the wood of the host birch; the fungus causes a brown rot of the birch heartwood, weakening the tree over time; it initially parasitizes weakened or stressed living birch, then continues as a saprotroph after the tree dies, completing the decomposition of the wood"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season: new specimens appear primarily summer through fall (July-November); old specimens persist year-round and can be found at any time on dead birch snags",
+    "bloomDescription": "Fruiting bodies are smooth, kidney- to hoof-shaped brackets with a rounded, cream-to-pale-brown upper surface and a smooth, pure white pore surface on the underside; the upper surface has a characteristic pale, waxy sheen when fresh; the flesh is white, firm, and homogeneous — more like dense foam or soft cork than the fibrous texture of chicken of the woods; the attachment to the tree is typically a short, thick lateral stem; fresh specimens are distinctively smooth and pallid compared to the rougher brackets of other polypores",
+    "fragrance": "Mild, pleasant, slightly mushroomy; not strongly scented",
+    "flowerSex": "Not applicable — sporing organism; white spores released from the minute pores on the underside",
+    "pollination": "Not applicable; spore dispersal by wind"
+  },
+  "yield": {
+    "edibleParts": "Technically edible when very young, but NOT primarily a culinary mushroom — the flesh is tough, bitter, and unpleasant; it is occasionally sliced thin and used in tea or dried for tincture preparation, but the bitterness and texture make it unsuitable as a food in the way that oyster mushrooms or maitake are; do not include in the culinary fungi category; its value is medicinal and craft, not culinary",
+    "harvestSeason": "Fresh specimens (summer-fall) are best for medicinal use; harvest white, firm brackets before they begin to gray and harden; old, discolored specimens are still usable for tincture but lower quality; year-round availability of some specimens (old or new) on any colonized birch snag",
+    "medicinalUses": "The primary yield and the reason this fungus has been valued for millennia. Key compounds and actions: **Agaric acid** (antibacterial, anti-tumor properties; inhibits perspiration — historically used as a fever treatment); **Piptamine** (an antibiotic compound effective against E. coli and other gram-negative bacteria, isolated from P. betulinus specifically); **Beta-glucans** (immune modulation — the same broad class of immune-supporting polysaccharides found in maitake, turkey tail, and other medicinal fungi); **Polyporic acid** and related triterpenoids (anti-inflammatory, anti-parasitic); traditionally used for: wound dressing (the smooth white underside applied directly to cuts and abrasions — a natural wound dressing that is antibacterial and absorbent), intestinal parasite treatment (antiparasitic activity is well-documented), general tonic and immune support, and as a styptic. Modern research has confirmed antimicrobial, anti-tumor, anti-inflammatory, and anti-parasitic properties. Primary preparation formats: dried and powdered (tea or capsule), hot water extract (decoction), or alcohol tincture; dual-extraction tinctures (hot water + alcohol) capture both water-soluble beta-glucans and alcohol-soluble triterpenoids for the broadest medicinal profile.",
+    "craftOtherYield": "**Razor Strop / Knife Strop** — the firm, smooth flesh of a dried birch polypore bracket is an excellent stropping surface for sharpening straight razors, knives, and other fine blades; cut the bracket into a flat slab, allow it to dry fully, and use the smooth underside (pore surface) as a leather strop substitute; this is the direct source of the \"Razor Strop Fungus\" common name and was a practical household tool in pre-industrial Europe; the material has the right hardness, slight compressibility, and fine texture to align and polish a blade edge without removing metal. A secondary craft use is as a natural substrate for pyrography (wood burning) — the smooth surface takes burn marks cleanly for decorative work."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Generally considered non-toxic; occasionally eaten in small quantities (very young specimens, tea preparations) without ill effect; the bitterness is the primary deterrent to culinary use, not toxicity; as with all fungi, those with sensitivities or immune conditions should introduce any new medicinal mushroom preparation gradually; positive identification is straightforward — birch polypore on birch is a safe and distinctive identification",
+    "toxicityAnimals": "No known significant toxicity; the bitter compounds may cause mild GI upset if consumed in quantity; not a practical concern as it is not palatable",
+    "allelopathy": "The brown rot caused by P. betulinus decomposes the wood of its host birch; this is a natural part of the birch life cycle and contributes to humus formation in the forest floor; not allelopathic in the soil sense; the mycelium does not compete with garden plants",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "fungal",
+      "description": "Fungal / Soil"
+    },
+    "roles": [
+      "Medicinal (primary value — one of the most historically documented medicinal fungi in the world; worth growing birch trees in part to create habitat for this species)",
+      "Craft Yield (razor strop / blade-sharpening tool)",
+      "Soil Builder (decomposition of birch wood contributes to humus formation)",
+      "Nutrient Cycling (birch wood breakdown releases nutrients locked in lignocellulose)",
+      "Indicator Species (presence on birch indicates mature or declining birch trees; a sign of active fungal decomposition in the ecosystem)",
+      "Historical-Cultural Significance (one of the oldest known medicinal fungi — carried by Ötzi the Iceman 5,300 years ago)"
+    ],
+    "companionPlants": [
+      "Betula nigra (river birch — the most widely adaptable birch for lower-48 gardeners, tolerating heat, clay, and wet soils better than other birch species; the primary design companion for creating P. betulinus habitat); Betula alleghaniensis (yellow birch — excellent host, best suited to cooler, moister sites in Zones 3–6); Betula papyrifera (paper birch — a classic host tree, performs best in Zones 2–5 with cool summers); any birch planted for aesthetic or habitat purposes can become a future host tree; no direct companion planting relationship with other garden plants"
+    ],
+    "antagonists": [
+      "None relevant to the garden; the fungus is host-specific to birch and does not spread to or affect other plants"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Insects (various beetles and flies are associated with bracket fungi and the decaying birch wood beneath; this is an important invertebrate habitat element); woodpeckers and other insectivorous birds investigate dead birch snags supporting polypore brackets for insect activity; small mammals",
+    "hostPlantFor": "Various wood-boring beetles and other invertebrates breed in birch snags colonized by P. betulinus; the decomposing wood creates a complex invertebrate community supporting the broader food web",
+    "nestingHabitat": "Dead birch snags with polypore brackets provide cavity nesting habitat for woodpeckers, chickadees, and other cavity nesters; leaving dead birch snags standing (rather than removing them) maximizes this habitat value"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "Not applicable; deer are not known to browse birch polypore fruiting bodies; the tough, corky texture and bitter compounds make them unattractive to deer; no protection measures needed for the fungus itself (deer protection for young birch host trees is a separate consideration — see the birch host species profile)"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable; the fungus grows within birch wood and is not exposed to soil salt or road salt spray; salt tolerance of the birch host tree is the relevant factor — river birch has moderate salt tolerance while paper birch and yellow birch are salt-sensitive"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "The fruiting bodies are more drought-tolerant than fleshy gilled mushrooms due to their corky, firm flesh; fresh fruiting in summer-fall depends on adequate moisture in the host wood; the fungus persists through drought within the wood"
+    },
+    "other": "Host-specific to birch (Betula species); cannot grow on non-birch substrates; this specificity makes identification straightforward but also means the fungus is only possible on a property if birch trees are present or planted"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Essentially none — wild harvest is opportunistic; no active management is required or possible once habitat (birch trees) is established",
+    "pruningNotes": "Harvest fresh fruiting bodies (white, firm flesh, smooth underside) when encountered on birch snags; cut cleanly with a knife; do not remove the entire bracket if part of it remains attached and viable — the mycelium will continue in the wood regardless; leave dead birch snags standing where safe to do so, as they are the primary fruiting substrate and provide significant wildlife habitat value; a birch snag is more ecologically valuable standing than cut and removed. Dry harvested brackets in a dehydrator or in a well-ventilated location; store dried material in an airtight container away from light for medicinal use.",
+    "propagationMethods": [
+      "P. betulinus cannot be conventionally cultivated on logs or straw like oyster mushrooms — it is host-specific to living or recently dead birch and requires the birch wood substrate. The practical approach for any gardener: (1) plant birch trees suited to your climate and soil — river birch (Betula nigra) for Zones 4–9 and heavy or wet soils",
+      "paper birch (B. papyrifera) for Zones 2–6 with cool summers",
+      "yellow birch (B. alleghaniensis) for Zones 3–7 in moist woodland settings; over years to decades",
+      "as the trees age or individual trees die",
+      "the fungus may establish naturally from airborne spores; (2) wild harvest from any birch snags found on adjacent land",
+      "roadsides",
+      "or woodland edges — survey the broader area for birch trees; (3) do not actively attempt to inoculate birch logs in the way that oyster mushroom logs are inoculated — the setup is impractical and unreliable compared to simply letting the species find its own hosts. The value is in habitat creation and opportunistic wild harvest",
+      "not active cultivation."
+    ]
+  },
+  "cultivarNotes": "No named cultivars. P. betulinus (= Fomitopsis betulina) is a single species with no significant regional varieties relevant to cultivation. The key taxonomic note: the species was long classified as Piptoporus betulinus (Fries, 1821); recent molecular work placed it in the genus Fomitopsis, and the current accepted name in most mycological databases (including iNaturalist) is Fomitopsis betulina. Both names are widely used in foraging, ethnomycology, and herbalism literature; searching either name will find the same organism. No other Piptoporus species occur in eastern North America — the host specificity to birch and the smooth, rounded bracket form are sufficient for confident identification by any forager familiar with birch trees. The primary \"cultivar decision\" for this species is the choice of birch host tree: gardeners in Zones 3–5 with cool summers and well-drained soil can rely on paper birch (B. papyrifera) or yellow birch (B. alleghaniensis) as natural hosts; gardeners in Zones 6–9 or those with heavy clay, wet soils, or heat stress should choose river birch (B. nigra), which is the most adaptable birch across the widest range of US conditions; in the arid West (Zones 7–9, low humidity), birch of any species may require supplemental irrigation and careful siting, and P. betulinus habitat creation is less practical.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Medicinal wild harvest",
+      "craft material (razor strop)",
+      "habitat creation through birch planting",
+      "fungal layer associated with birch snags"
+    ],
+    "designPlacement": "This species is not planted or cultivated directly — it is a wild-harvested fungal associate of birch trees. The design approach is to plant birch trees in appropriate locations and allow the fungus to establish naturally over time. Site birch host trees in moist, low areas where their water tolerance is an asset; river birch is especially effective as a wet-area planting that doubles as long-term P. betulinus habitat. In any permaculture or food forest design, including birch for future polypore habitat adds a medicinal and craft yield layer with zero ongoing management. Scout existing birch trees within walking distance of any garden site — roadsides, stream banks, woodland edges — for existing fruiting bodies, particularly summer through fall. A single large birch snag with active P. betulinus fruiting can yield multiple brackets per season for tincture-making and strop material.",
+    "acquisitionStatus": "Wild harvest — scout existing birch trees in the broader area (no acquisition needed); planting river birch creates long-term habitat; the fungus itself is not commercially available as spawn in any practical form"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fomitopsis_betulina",
+    "inaturalist": "https://www.inaturalist.org/taxa/775410-Fomitopsis-betulina",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — P. betulinus is native to Pennsylvania; found on dying and dead birch trees throughout the state wherever birch occurs; yellow birch (Betula alleghaniensis) and white birch (B. papyrifera) are the primary wild hosts in PA; river birch (B. nigra) is a suitable host and is plantable on the Hegins property",
+      "paInvasiveStatus": "Not invasive in Pennsylvania; not listed by PA Dept. of Agriculture or DCNR; same as general Invasive field — a native species with no regulatory concern",
+      "drainage": "At the Hegins site, the red clay and compacted soil favor river birch (B. nigra) as the host tree of choice; river birch tolerates the wet feet and heavy clay present in the lower areas of the property; no soil amendment is needed for the fungus itself — only for establishing birch trees successfully in the clay ground",
+      "soil": "At the Hegins site, the compacted red clay is suitable for river birch (B. nigra), the most clay-tolerant birch species; paper birch and yellow birch would require significant amendment or raised planting to establish in this soil",
+      "cultivarNotes": "River birch (B. nigra) is the recommended host tree — it tolerates the heavy clay, wet conditions, and summer heat typical of central Pennsylvania; paper birch and yellow birch may occur in nearby upland forests and stream corridors but are less reliable as planted hosts on disturbed or clay-heavy residential sites.",
+      "designPlacement": "This species does not fit into any existing bed section (A, B, or C) and is not assigned to a tree guild. The design action for the Hegins property is to plant river birch (Betula nigra) in the low, moist areas of the property where water management is a challenge — river birch tolerates wet feet and occasional flooding, well-suited to the site's drainage issues. Those trees become potential long-term hosts. In the meantime, survey birch trees within walking distance of the property — roadsides, stream banks, woodland edges in the Hegins Valley — for existing fruiting bodies.",
+      "siteObservations": "No birch trees currently noted on the property. Presence of river birch or any wild birch in the surrounding area should be scouted; the Hegins Valley area (Schuylkill County) has wooded hillsides and stream corridors where birch may be present. The active deer pressure from the east wildlife corridor is not a concern for the fungus itself but is relevant to establishing young birch host trees — river birch may need fencing or deer deterrent protection during its first few years until established above browse height. Road salt from the north border road is not a concern for the fungus and is unlikely to affect river birch planted in low areas away from the road frontage."
+    }
+  }
+}

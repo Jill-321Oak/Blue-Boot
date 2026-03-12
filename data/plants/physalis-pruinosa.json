@@ -1,0 +1,168 @@
+{
+  "id": "physalis-pruinosa",
+  "name": {
+    "commonName": [
+      "Ground Cherry",
+      "Strawberry Tomato",
+      "Dwarf Cape Gooseberry"
+    ],
+    "latinName": "Physalis pruinosa",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America, extending from Ontario south through the eastern United States into Mexico and Central America; widely naturalized and cultivated throughout the temperate world",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern United States — found wild or naturalized from New England south through the mid-Atlantic and Southeast, west through the Ohio Valley and into the Great Plains; less common in the western US, where it occurs primarily as a garden escape rather than a native population; generally considered native east of the Mississippi and naturalized or absent west of the Rockies"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not listed on any state noxious weed list in the lower 48; self-seeding is vigorous and is the primary mechanism by which the plant persists year to year, but seedlings are shallow-rooted, easily pulled, and confined to disturbed garden soil; the plant does not escape into wild areas aggressively or displace native vegetation; no USDA PLANTS database invasive flags; the self-seeding habit is a feature in food garden contexts, not an ecological concern"
+    },
+    "zone": {
+      "min": 4,
+      "max": 10,
+      "description": "Annual grown in Zones 4–10; seeds survive winter in the soil and self-seed reliably in Zones 5–8; in Zones 9–10, the plant may behave as a short-lived perennial but is typically managed as an annual; not a true perennial anywhere in temperate North America"
+    }
+  },
+  "description": {
+    "height": "18–24\" tall; sprawling habit means the plant occupies much more horizontal than vertical space; the canopy is loose, branching, and informal",
+    "spread": "3–4' — ground cherry sprawls aggressively outward in all directions; a single plant can easily cover a 4-square-foot area and will sprawl into neighboring plants if not given sufficient room",
+    "spacing": "3 feet minimum; 4 feet preferred for maximum airflow and fruit access; do not underestimate the spread",
+    "growthRate": "Fast once established and warm — slow out of transplant, then rapidly accelerating once nighttime temperatures are consistently above 55°F; full production occurs mid-to-late summer",
+    "timeToMaturity": "70–80 days from transplant; first ripe fruit typically drops in late July in Zone 6–7, earlier in warmer zones; peak production August through September in most of the lower 48",
+    "lifespan": "Annual — killed by frost; however, self-seeded volunteers emerge reliably the following spring from seeds that overwinter in the soil in Zones 5–8; once established in a bed, the plant effectively perpetuates itself indefinitely without replanting",
+    "deciduousEvergreen": "Annual — grows, fruits, and dies within a single season; no persistent structure",
+    "winterInterest": "None — killed outright by frost; dried husks may persist briefly but have no ornamental merit"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required — 6–8 hours minimum for productive fruiting; plants grown in part shade are noticeably less productive and more prone to disease; in Zones 8–10, light afternoon shade is tolerable and may reduce heat stress, but in Zones 4–7, maximum sun exposure produces the best results",
+    "water": "Medium — consistent moisture during establishment and fruiting improves yield, but ground cherry is considerably more drought-tolerant than tomatoes once established; in humid-summer regions (eastern US, Gulf Coast), natural rainfall supplemented with occasional deep watering is generally sufficient; in arid western climates, regular irrigation is necessary; avoid overwatering, which can cause fruit to split",
+    "drainagePreference": {
+      "description": "Well-drained preferred; tolerates average soils well; does not like waterlogged conditions — the same drainage concerns that apply to tomatoes apply here; standing water or prolonged soil saturation promotes root rot and Phytophthora; raised beds are ideal for ensuring the good drainage this plant prefers, particularly in regions with heavy or poorly drained soils",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — ground cherry tolerates clay better than most Solanaceae relatives but does not thrive in unimproved heavy clay; compaction limits root penetration and waterlogging promotes disease; in heavy clay, amend generously with compost and coarse organic matter to improve structure and drainage, or grow in raised beds filled with well-drained mix; plants in amended clay produce adequately but not as vigorously as those in loose loam or raised bed conditions"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0–6.8; slightly acidic to neutral; tolerates a wider range than most vegetables"
+    },
+    "texturePreference": "Loose, well-amended loam is ideal, but ground cherry performs well in a range of soil types including moderately heavy soils; it is considerably more forgiving of soil conditions than its Solanaceae relatives; beds with good organic matter content produce the best results; sandy soils are acceptable if fertility is maintained",
+    "rootCharacter": "Moderately deep fibrous root system; roots are not as deep or extensive as tomatoes; the plant does not need the deep soil preparation that asparagus or rhubarb demand; standard raised bed depth (8–12\") is more than sufficient"
+  },
+  "bloom": {
+    "bloomTime": "Continuously from June through frost — ground cherry blooms and fruits simultaneously throughout the season rather than in a single flush",
+    "bloomDescription": "Small, nodding, pale yellow flowers with dark purplish-brown center markings; similar in form to other Solanaceae flowers but smaller and more delicate than tomato flowers; individually insignificant but produced in great abundance; the papery lantern-like calyx (husk) begins forming around the developing fruit immediately after fertilization and is one of the most distinctive features of the plant — each husk starts green, matures to tan or pale brown, and the enclosed fruit ripens to golden yellow inside; the husk resembles a miniature tomatillo calyx, which makes sense given the close relationship",
+    "fragrance": "Negligible on the flowers; the ripe fruit itself has a remarkable tropical fragrance — sweet, vanilla-tinged, reminiscent of pineapple and cherry; the aroma when collecting fallen fruit in quantity is genuinely distinctive and pleasant",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts",
+    "pollination": "Self-fertile; no cross-pollination partner needed; bees and other pollinators visit regularly and improve set, but the plant will produce fruit in the absence of pollinators; overall pollination is much easier and more reliable than many other vegetables"
+  },
+  "yield": {
+    "edibleParts": "The ripe fruit — small golden-yellow berries (roughly the size of a large marble or small cherry tomato) enclosed in a papery, tan, lantern-like husk; the husk itself is inedible; the fruit is eaten fresh or cooked. The flavor is exceptional and unlike anything else in the temperate vegetable garden: intensely sweet with prominent vanilla, pineapple, and tropical fruit notes; a faint cherry undertone; a subtle caramel quality when fully ripe. Fresh eating is the greatest pleasure — pop the fruit from its husk and eat directly. Also outstanding in jams and preserves (particularly with vanilla), pies and crumbles, salsas (sweet salsa verde alongside tomatillos), baked goods, chutneys, and dehydrated as a snack. Flavor intensifies with cooking. The flavor is unusual enough that some people need a moment to identify what they're eating — it genuinely does not taste like a tomato.",
+    "harvestSeason": "Late July through killing frost in most of the lower 48 (Zones 5–8); peak production in August and September. In Zones 9–10, harvest may begin earlier and extend longer. Harvest method is unique and requires no active picking: fruit drops from the plant when fully ripe, still enclosed in its husk, and is collected from the ground. This is not a sign of failure or damage — it is how the plant signals ripeness. Collect fallen fruit every few days; the husk protects the fruit and allows it to be stored at room temperature for 3–4 weeks without refrigeration, or several months in a cool dry location. Do not harvest fruit still on the plant (usually underripe); fallen fruit = ripe fruit. In peak season, a single established plant can drop dozens of fruits per week.",
+    "medicinalUses": "Not a significant medicinal plant in modern or traditional use; contains withanolides (physalins) that have been studied for anti-inflammatory and antitumor properties, but this is academic — ground cherry is not used as a medicinal herb in practice",
+    "craftOtherYield": "The dried husks have mild ornamental value — they resemble miniature Chinese lanterns (Physalis alkekengi, a close ornamental relative) but are far less showy; not a meaningful craft material"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "IMPORTANT — unripe fruit contains solanine and other Solanaceae alkaloids and should not be eaten; the green, unripe fruit inside an immature husk is toxic and can cause gastric distress; only fully ripe (golden yellow) fruit that has fallen naturally from the plant is safe to eat. The papery husk is inedible but not toxic. All green parts of the plant (leaves, stems, immature fruit) contain solanine and should be treated accordingly — do not eat, and wash hands after handling. This is the same caution that applies to all Solanaceae. The ripe, fallen fruit is safe and widely consumed.",
+    "toxicityAnimals": "The solanine-containing green parts (leaves, stems, unripe fruit) pose the same risk to dogs, cats, and other animals as green tomato parts; keep pets from browsing the plant; ripe fallen fruit is not a significant concern in small quantities but should not be a dietary staple for animals",
+    "allelopathy": "None known",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous annual layer; sprawling ground-level habit; functions somewhat as a living mulch in dense plantings"
+    },
+    "roles": [
+      "Annual Food Crop (primary — highly productive edible fruit)",
+      "Self-Seeding Annual (once established, perpetuates without replanting)",
+      "Pollinator Attractor (continuous bloom from June through frost supports late-season pollinators)",
+      "Edible Groundcover (sprawling habit suppresses weeds in its footprint)",
+      "Soil Disturbance Indicator (thrives in disturbed, well-amended soil — a good indicator of fertile raised bed conditions)"
+    ],
+    "companionPlants": [
+      "Basil (classic Solanaceae companion; pest deterrence and culinary pairing)",
+      "Marigolds (Tagetes — nematode suppression and general pest deterrence; proven effective throughout the Solanaceae family)",
+      "Carrot (standard tomato-family companion; different root depth prevents competition; carrots may improve soil structure around ground cherry roots)",
+      "Nasturtium (aphid trap crop; sacrificial planting near ground cherry protects the main crop)",
+      "Borage (attracts pollinators; traditional tomato companion applicable here)",
+      "Comfrey (chop-and-drop mulch at the bed edge provides mineral-rich biomass without competing with shallow roots)"
+    ],
+    "antagonists": [
+      "Fennel (allelopathic to most vegetables including Solanaceae; keep well away); other Solanaceae in the same bed year after year (potato, tomato, pepper) — rotate to avoid shared soil-borne diseases",
+      "particularly Phytophthora and Fusarium; however",
+      "ground cherry's notably better disease resistance compared to tomatoes makes rotation less critical in practice"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (bumble bees and small native bees visit flowers actively throughout the season; the continuous bloom makes ground cherry a reliable late-season nectar source), beneficial wasps, and other pollinators; birds will occasionally take fallen fruit but this is not a primary wildlife food source",
+    "hostPlantFor": "Potentially hosts the same Solanaceae-associated pest insects as tomatoes, including tomato hornworm (Manduca quinquemaculata) — though in practice this is rarely observed on ground cherry; not a meaningful host plant for native Lepidoptera",
+    "nestingHabitat": "The dense sprawling foliage provides ground-level cover for beetles, spiders, and other beneficial invertebrates; not a significant nesting habitat for larger wildlife"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — ground cherry is a Solanaceae with the typical alkaloid chemistry of the family, and deer generally avoid it more consistently than they avoid many other vegetables; the hairy, sticky foliage (pruinosa means \"frosted\" or \"downy\" in Latin, referring to the pubescent stems) contributes to its unpalatability; not guaranteed deer-proof but significantly less vulnerable than tomatoes or brassicas; young transplants are the most vulnerable stage — once plants are established and sprawling, deer are far less likely to browse them; standard deer deterrence (fencing, repellent sprays) during the seedling-to-establishment period is the primary management approach"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside or salt-spray conditions; not a concern for interior garden beds"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good once established — more drought-tolerant than tomatoes; the sprawling habit and dense foliage shade the soil and reduce moisture loss; will continue producing through dry August stretches that stress tomatoes significantly; in arid western climates, supplemental irrigation is still necessary despite the good tolerance"
+    },
+    "other": "Not frost-tolerant — killed by the first hard frost; however, the seeds are genuinely hardy and survive light frosts in the soil, enabling reliable self-seeding in Zones 5–8; heat-tolerant and performs well through hot, humid summers without the blossom-drop problems that tomatoes sometimes experience in extreme heat; tolerates the humidity of the eastern US and Gulf Coast better than many western-adapted crops"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — ground cherry is among the most hands-off annual vegetables available; once established, the primary maintenance task is collecting fallen fruit regularly (every 2–3 days at peak season) and managing volunteer seedlings in subsequent years; no staking required unless desired; no significant pest or disease management needed in typical seasons",
+    "pruningNotes": "Pruning is optional and not generally practiced. The plant sprawls freely and can be left to do so — the spread covers the bed surface and suppresses weeds effectively. Staking or caging is possible and produces a tidier, more upright plant, but is rarely worth the effort given the plant's informal character and the fact that fruit is collected from the ground regardless. At season end, remove the entire plant after frost and compost it. Leave some fallen fruit on the soil surface (or in the bed nearby) to ensure volunteer seedlings the following spring — the plant's self-seeding is one of its great virtues and should be encouraged rather than suppressed. In subsequent years, thin volunteer seedlings to 3–4 feet apart; they will emerge in clusters and need editing.",
+    "propagationMethods": [
+      "Starting from seed indoors (recommended for first-year establishment): sow 6–8 weeks before last frost date; germination in 7–14 days at 70–75°F; grow on like tomato seedlings — warmth",
+      "full light",
+      "regular watering; harden off before transplanting; do not transplant until nights are reliably above 50°F. Self-seeding (subsequent years): in Zones 5–8",
+      "seeds from dropped fruit overwinter in the soil and germinate reliably in late spring when soil temperature warms; volunteers typically appear once soil has warmed consistently; thin to proper spacing; volunteers are often more vigorous than transplants because they germinate at the correct time without root disturbance; once established in a bed",
+      "you may never need to start from seed again. Direct sowing outdoors (alternative): sow after last frost when soil has warmed; results are reliable but plants will fruit somewhat later than transplants."
+    ]
+  },
+  "cultivarNotes": "Named cultivars are widely available and worth selecting over unlabeled seed for consistent flavor and performance. All of the following perform well across the lower 48 in their appropriate zone range:\n**'Aunt Molly's'** — The heirloom standard and most widely recommended variety; Polish heirloom with excellent sweet-tart flavor, good productivity, and reliable performance across Zones 4–9; widely available from seed companies; the benchmark against which other cultivars are measured; performs well in both humid eastern summers and drier western climates with irrigation; the safe, reliable choice for a first planting and a worthy standard for an established one.\n**'Goldie'** — Compact, early, and prolific; golden-orange fruit with excellent sweet flavor; vigorous self-seeder; a good choice for short-season northern gardens (Zones 4–5) where the earlier maturity provides a meaningful harvest advantage; equally productive in longer-season areas.\n**'Pineapple'** — Selected for particularly pronounced pineapple and tropical flavor notes; the most intensely flavored variety available; highly recommended for fresh eating; slightly lower overall yield than Aunt Molly's but superior flavor; worth growing alongside a more productive variety; performs consistently across Zones 5–9.\n**'Cossack Pineapple'** — Russian heirloom; large fruit for the species; strong pineapple flavor; excellent for jam and preserves where the larger fruit size is an advantage; less common in seed catalogs but available from specialty suppliers; cold-hardy seed stock makes it a solid choice for Zones 4–6.\nRegional considerations: In Zones 8–10 (Deep South, Gulf Coast, Desert Southwest), ground cherry handles heat well but benefits from afternoon shade and consistent irrigation; 'Aunt Molly's' and 'Pineapple' are the best-documented performers in hot climates. In Zones 4–5 (upper Midwest, northern New England, northern Rockies), 'Goldie' and 'Cossack Pineapple' offer earlier maturity that helps maximize the shorter growing season. In Zones 6–7 (the broad middle band from the mid-Atlantic through the Midwest and Pacific Northwest), all four cultivars perform well and the choice is primarily one of flavor preference.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual vegetable bed",
+      "raised bed kitchen garden",
+      "annual food forest understory (works well beneath open-canopied young trees in the establishment years before the canopy closes)",
+      "container growing (possible in large containers; at least 5-gallon preferred)"
+    ],
+    "designPlacement": "Ground cherry is best placed in raised vegetable beds or dedicated annual growing areas where it can sprawl freely without encroaching on permanent perennial plantings. Full sun exposure and warm, dry conditions produce the best results — south-facing or west-facing beds are ideal in Zones 4–7, while in Zones 8–10 some afternoon shade is acceptable. Allocate at least one full raised bed section (or a 4' x 4' minimum footprint) per plant, remembering the 3–4 foot spread. Ground cherry is not an ornamental plant — the sprawling, somewhat untidy habit and informal foliage are better suited to a working food garden than to a visible ornamental border; place it where productivity matters more than appearance. In subsequent years, manage volunteer seedlings and allow 1–3 plants to establish per season — more than that is rarely needed for a household supply, as a single productive plant yields an impressive quantity of fruit. Once self-seeding is established, no annual purchase or indoor starting is necessary.",
+    "acquisitionStatus": "Not yet acquired"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Physalis_pruinosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/290762-Physalis-pruinosa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287199 (Physalis ixocarpa page — MBG does not maintain a separate PlantFinder entry for P. pruinosa; see also the related tomatillo profile)"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Borderline — Physalis pruinosa has a native range that includes portions of eastern Pennsylvania, but it is primarily known in the state as a cultivated garden annual rather than a woodland or meadow native; it volunteers and self-seeds freely in garden beds but is not part of the native plant community at the Hegins site",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list; same as general Invasive field",
+      "drainage": "The red clay at the Hegins site is too compacted and poorly drained for in-ground ground cherry production; raised beds are the correct approach and remove the clay/drainage constraint entirely; no clay amendment strategy is necessary since the plant belongs in the existing raised vegetable beds, not in the foundation beds",
+      "soil": "At the Hegins site, the raised vegetable beds provide the loose, well-amended growing medium this plant prefers; the native red clay soil is not suitable for direct planting without significant amendment; no special soil preparation beyond standard raised bed management is needed",
+      "cultivarNotes": "**Aunt Molly's** is the default recommendation for reliability and availability; add a row of **Pineapple** or **Cossack Pineapple** for flavor diversity. Growing two varieties extends the harvest window slightly. All four cultivars are fully appropriate for the Hegins site. Start seed indoors mid-to-late March; target transplant date May 1 or later.\n**Nomenclature note:** Ground cherry is sometimes sold or described as \"Cape Gooseberry,\" which causes confusion. True Cape Gooseberry is *Physalis peruviana* — a different species from South America, with larger fruit, less cold-hardiness, and a distinct (though related) flavor profile; it is not reliably grown as an annual north of Zone 8. *Physalis pruinosa* is the species commonly grown in temperate North American gardens and is the subject of this profile. The two names are used interchangeably in commerce, so check the Latin name when ordering seed. A companion profile for *Physalis ixocarpa* (tomatillo) covers that related species separately.",
+      "designPlacement": "Section C (south-facing, warm, dry microclimate) is the ideal location — the full sun exposure and warm, dry conditions suit this plant perfectly. Section B (productive, kitchen-adjacent, less ornamentally important) is also appropriate. Do not place in Section A where beauty-first standards apply — ground cherry's untidy sprawl does not meet that standard. Allocate space in the raised vegetable beds rather than the foundation bed sections.",
+      "siteObservations": "Zone 6a Hegins is excellent ground cherry territory — the humid continental climate, warm summers, and reliable cold winters that stratify seeds in the soil all suit this plant well. Ground cherry is one of the more reliable and rewarding specialty crops for this zone, consistently outperforming tomatoes for ease of care, disease resistance, and predictability. The self-seeding characteristic is particularly valuable here: once established in the raised beds, the plant becomes a permanent fixture without any annual replanting effort. Deer pressure at this site is a consideration during the seedling stage — once plants are established and sprawling, the alkaloid chemistry and hairy foliage provide natural deterrence, but young transplants need the same protection afforded to tomato seedlings in the raised beds. The raised bed elevation itself offers some protection. No deer fencing specifically for ground cherry should be necessary beyond what is already in place for the tomato beds. Plan for the sprawl — 3–4 feet is not an exaggeration, and underestimating the spread leads to crowding issues with neighboring plants. Harvest collection from the ground is straightforward in a raised bed context and is one of the most enjoyable harvest experiences in the summer vegetable garden."
+    }
+  }
+}

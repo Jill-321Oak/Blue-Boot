@@ -1,0 +1,163 @@
+{
+  "id": "glycine-max",
+  "name": {
+    "commonName": [
+      "Edamame",
+      "Soybean",
+      "Soya Bean"
+    ],
+    "latinName": "Glycine max",
+    "family": "Fabaceae"
+  },
+  "range": {
+    "nativeRange": "East Asia — domesticated in northeastern China (Manchuria) approximately 3,000 years ago from the wild ancestor Glycine soja; now one of the most widely cultivated crops on earth; grown commercially across North and South America, Asia, and Europe",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced as an agricultural crop; widely cultivated across the Midwest, South, and Mid-Atlantic as a major commodity crop but does not naturalize or establish wild populations; strictly a cultivated annual throughout all US regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — does not naturalize anywhere in the lower 48; a strictly cultivated annual that does not persist without replanting; not listed on any state noxious weed list or federal invasive species list; no escape potential"
+    },
+    "zone": {
+      "min": 3,
+      "max": 10,
+      "description": "Annual grown in Zones 3-10; optimally performs in Zones 5-8 where warm summers and adequate season length support full development; in Zones 3-4, only the shortest-season varieties (65-70 days) are viable; in Zones 9-10, heat stress during flowering can reduce pod set"
+    }
+  },
+  "description": {
+    "height": "1.5-3' tall; compact, bushy annual; edamame varieties tend toward 2-2.5' with dense branching; field-type soybeans can reach 3-4'; plants are self-supporting and rarely need staking",
+    "spread": "12-18\" per plant",
+    "spacing": "4-6\" in rows, with rows 18-24\" apart; or broadcast at 6\" spacing in blocks; closer spacing in raised beds is acceptable; thinning is rarely necessary",
+    "growthRate": "Moderate to fast — germinates in 5-10 days in warm soil (60°F+); reaches full size by midsummer; begins podding in response to shortening days",
+    "timeToMaturity": "70-90 days from direct sow to edamame harvest depending on variety; short-season edamame varieties (Envy, ~70 days) are the most reliable in Zones 5-6; longer-season varieties (80-90 days) perform well in Zones 7-8 where the growing season is generous",
+    "lifespan": "Annual — completes its full life cycle (germination, growth, flower, pod, seed, death) in a single season; must be replanted each year; no overwintering occurs",
+    "deciduousEvergreen": "Annual — dies at first frost; no winter presence",
+    "winterInterest": "None; beds are cleared after frost; the dried pods are not ornamentally significant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun required — minimum 6-8 hours of direct sun per day; soybeans are warm-season legumes that perform poorly in shade; reduced sun noticeably delays pod set and reduces yield",
+    "water": "Moderate and consistent; keep soil evenly moist from germination through pod fill; most critical water period is during flowering and pod development; in the humid East, rainfall often covers base needs but supplemental irrigation during dry spells is essential during pod fill; in the arid West and Southwest, consistent irrigation is required throughout the growing season; avoid waterlogging, which inhibits root nodule function",
+    "drainagePreference": {
+      "description": "Well-drained to moderately well-drained; standing water is damaging because it directly suppresses the Bradyrhizobium root nodules responsible for nitrogen fixation; waterlogged conditions for even 48 hours during active growth can permanently reduce nodule function and nitrogen contribution; plants in poorly drained soil show yellowing, stunted growth, and significantly reduced pod set",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — soybeans tolerate moderately heavy clay soils better than many warm-season vegetables, but compacted or waterlogged clay suppresses root nodule performance and reduces nitrogen fixation efficiency; the key issue is oxygen availability to the Bradyrhizobium bacteria in the nodules, which require aerobic conditions; heavy clay that stays saturated after rain is problematic; amendment with compost (3-4\" incorporated into the top 8-10\") improves drainage and aeration enough for successful production in most clay soils; raised beds are the most reliable approach on heavy, poorly-drained clay"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0-7.0; slightly acidic to neutral; below 6.0, molybdenum availability decreases and nodule function suffers; lime acidic soils to 6.5 if needed; most eastern US clay soils and Midwest prairie soils fall within or near this range"
+    },
+    "texturePreference": "Loose, fertile, well-draining loam is ideal; tolerates clay if well-amended and not waterlogged; soybeans are more tolerant of moderately heavy soils than many warm-season vegetables, but compacted or wet clay suppresses root nodule performance; sandy soils are acceptable with adequate organic matter and consistent irrigation; the key requirement is good aeration in the root zone for healthy nodule development",
+    "rootCharacter": "Shallow to moderate taproot with extensive lateral roots; nitrogen-fixing root nodules (pink or reddish interior when healthy — confirm at planting if using inoculant for the first time) develop within 2-4 weeks of germination; root system does not persist after the plant dies; beds are clear for follow-on crops after harvest"
+  },
+  "bloom": {
+    "bloomTime": "July–August in Zones 5-7; June–July in Zones 8-9; flowers appear in response to photoperiod — soybeans are short-day (technically long-night) plants that begin flowering as days shorten past a variety-specific threshold in midsummer; this photoperiod sensitivity is a key agronomic trait; short-season edamame varieties bred for northern gardens are selected to flower earlier under longer days, making them far more appropriate for Zones 4-6 than field soybean varieties adapted to southern latitudes",
+    "bloomDescription": "Small, pea-like flowers borne in clusters in the leaf axils; white to pale pink-violet in color; individually inconspicuous but produced in quantity; each flower is self-fertile and pollinates before fully opening; not showy by ornamental standards",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite — each flower contains both stamens and pistil; self-fertile; no cross-pollination required",
+    "pollination": "Primarily self-pollinating (cleistogamous — the flower often pollinates before fully opening); some pollinator visitation occurs but is not necessary for yield; bees do visit the flowers and are not excluded"
+  },
+  "yield": {
+    "edibleParts": "Immature green seeds in the pod (edamame harvest — the classic use); mature dried beans (for miso, tofu, soy milk, tempeh, natto, cooking); cooking oil from pressed mature seeds; young leaves are edible but rarely used in Western kitchens. The distinction between edamame and soybean is one of harvest timing, not a different species: edamame is the Japanese term for soybeans picked while still green and plump, before the pods yellow and the beans harden. Varieties marketed as \"edamame\" have been selected for larger bean size, higher sugar content, and better flavor when harvested green — they are significantly superior to field soybean varieties used for the edamame harvest. Field-type soybeans harvested green are edible but starchier and less sweet.",
+    "harvestSeason": "Edamame: approximately 70-90 days from direct sow, timing varies by zone — in Zones 5-6, a late-May sowing yields in mid-August through September; in Zones 7-8, an April-May sowing yields in July-August; in Zones 3-4, sow as soon as soil reaches 60°F and use the shortest-season varieties. Harvest timing is critical and the window is narrow — roughly 5-7 days between peak quality and decline. Signs of correct harvest timing: pods are plump and bright green, visibly swollen with beans; when a pod is squeezed, the beans feel firm and fully formed; the pod color is an even, deep green without yellowing; beans inside are green, tender, and slightly sweet. Once the pods begin to yellow, the beans quickly lose sugar, become starchy, and toughen — analogous to sweet corn passing its prime. Harvest the entire plant at once (cut at the base) when most pods are ready, rather than picking individual pods over multiple days. Mature dry beans: harvest when pods have fully yellowed and dried on the plant, before they shatter; pull the whole plant and hang to finish drying indoors if fall rains threaten.",
+    "medicinalUses": "Mature soybeans are an exceptional source of complete plant protein (all essential amino acids), isoflavones (phytoestrogens with studied effects on bone density and hormonal balance), and soluble fiber. Edamame specifically is notably high in folate, vitamin K, and manganese. The isoflavone content (genistein, daidzein) has been the subject of extensive research on cardiovascular health, menopausal symptom reduction, and cancer prevention — results are mixed and context-dependent; soybeans are a functional food with meaningful nutritional value rather than a primary medicinal herb. Home fermentation (miso, tempeh, natto) significantly enhances bioavailability of nutrients and introduces beneficial bacteria.",
+    "craftOtherYield": "Mature dry soybeans can be processed at home for tofu (requires coagulant), soy milk (soaking and blending), miso (long fermentation with koji mold — a multi-month project but achievable), tempeh (short fermentation with Rhizopus mold — easier than miso, ready in 24-48 hours), and natto (fermentation with Bacillus subtilis var. natto — an acquired taste; the traditional Japanese breakfast food). The dried vines and pods can be composted; the root nodules and roots add fixed nitrogen to the bed."
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Raw mature soybeans contain trypsin inhibitors and lectins that interfere with protein digestion and can cause gastric distress if consumed raw in quantity; these are fully denatured by thorough cooking. Edamame (immature green beans) are safe to eat after brief boiling (5-7 minutes). Do not eat raw dried soybeans. Individuals with legume or soy allergies should exercise normal caution — soy is one of the major food allergens.",
+    "toxicityAnimals": "Raw soybeans fed in large quantities to dogs, cats, or horses can cause digestive upset; cooked soybeans and small amounts are generally tolerated by dogs; soy is a common ingredient in commercial pet food. Not acutely toxic in normal exposure. Cattle and other ruminants can develop bloat if fed large quantities of fresh green soybean foliage.",
+    "allelopathy": "None significant; soybeans are good companion plants that add fertility rather than inhibiting neighbors",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (low; annual ground-layer crop)"
+    },
+    "roles": [
+      "Annual Vegetable (primary — edamame is one of the most nutritionally complete vegetables in the home garden)",
+      "Nitrogen Fixer (meaningful — soybeans with Bradyrhizobium japonicum inoculant fix atmospheric nitrogen into the soil; the residual value after a soybean crop is documented and significant; follow soybeans with heavy-feeding crops to capture the nitrogen)",
+      "Soil Builder (residue incorporation improves organic matter)",
+      "Crop Rotation Legume (valuable in vegetable bed rotation to rest and enrich soil after heavy feeders)"
+    ],
+    "companionPlants": [
+      "Corn (traditional — corn is a heavy nitrogen consumer that benefits from following soybeans; can be grown together in a variation of Three Sisters)",
+      "Summer Savory (traditional companion said to improve flavor and deter bean beetles — worth planting at bed edges)",
+      "Squash (Three Sisters companion — provides ground cover)",
+      "Marigolds (Tagetes — nematode suppression and general pest deterrence at bed edges). Avoid planting where alliums have recently grown (garlic, onions) — Allium residues can suppress Rhizobium/Bradyrhizobium activity."
+    ],
+    "antagonists": [
+      "Alliums (Allium species) — inhibit nitrogen-fixing bacteria; do not follow garlic or onion with soybeans in the same season; Fennel (Foeniculum vulgare) — generally inhibitory to most vegetables including legumes; keep separate"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees (modest; flowers are largely self-pollinating but are visited by native bees and honeybees); beneficial insects (the dense foliage provides cover); birds will eat mature dry soybeans if pods split before harvest",
+    "hostPlantFor": "Japanese beetle (Popillia japonica) adults heavily defoliate soybeans throughout the eastern US and Midwest — this is the primary insect pest; hand-pick adults in early morning when sluggish; soapy water traps; monitor during the local beetle flight period (typically June-August depending on latitude). Mexican bean beetle (Epilachna varivestis) is a secondary pest common in the Mid-Atlantic and Southeast; eggs and larvae on leaf undersides; hand-remove. Soybean aphid (Aphis glycines) can appear in humid summers across the northern US; usually managed by beneficial insect populations if the garden is ecologically diverse.",
+    "nestingHabitat": "None significant; annual with no persistent structure"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — soybeans are among deer's most preferred crops and are heavily browsed from seedling emergence through pod fill; in any area with active deer populations, unprotected soybeans will be grazed to the ground; fencing is not optional — it is a prerequisite for any meaningful harvest; a simple wire cage or 4-5' temporary fence around the bed during the growing season is the minimum effective deterrent; row cover over young seedlings provides dual protection (from deer and late cold) until plants are established, but deer will push through row cover once they detect the plants; electric fencing with a bait attractant (peanut butter on the hot wire) is highly effective for a dedicated soybean bed; do not attempt to grow soybeans in deer country without physical exclusion"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate; not a salt-tolerant crop; avoid planting in areas that receive road salt spray or runoff"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate; soybeans are surprisingly drought-sensitive during flowering and pod fill; yield drops sharply without consistent moisture during the pod-fill period; raised beds with good water retention are helpful; plan to irrigate during dry spells once flowering begins"
+    },
+    "other": "Waterlogging intolerance (any heavy soil site); Japanese beetle pressure (significant throughout the eastern US during summer); cool soil sensitivity (do not direct sow until soil is at least 60°F, ideally 65°F — germination is erratic in cold soil and damping-off risk increases)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to medium — straightforward annual cultivation with specific critical timing requirements; the main management tasks are deer exclusion, inoculation at planting, and precise harvest timing",
+    "pruningNotes": "No pruning required or recommended. Pinching growing tips is sometimes suggested to encourage bushier growth but is generally unnecessary with modern edamame varieties which naturally branch well. After harvest, pull the entire plant and compost (or till roots in to return fixed nitrogen). Do not leave dried standing plants over winter — they provide no benefit and can harbor disease spores.",
+    "propagationMethods": [
+      "Direct sow exclusively — soybeans do not transplant well; the root system is sensitive to disturbance at the seedling stage",
+      "and transplanting disrupts early root nodule development. Sow 1-1.5\" deep directly into the bed after last frost when soil temperature reliably exceeds 60°F (Zone 4-5: late May to early June; Zone 6-7: mid-May to early June; Zone 8+: April to May). Inoculate seeds with Bradyrhizobium japonicum immediately before sowing — this is a specific soybean inoculant",
+      "distinct from the garden bean/pea inoculant (which uses different Rhizobium species and will not work on soybeans). Moisten seeds",
+      "apply inoculant powder",
+      "and sow within hours; inoculant bacteria are sensitive to UV and desiccation. Stagger plantings by 2-3 weeks for an extended harvest — a second planting extends the edamame season by several weeks. Save seed from mature dry pods for replanting the following year (open-pollinated varieties only; F1 hybrid varieties do not breed true)."
+    ]
+  },
+  "cultivarNotes": "Selecting the correct edamame variety is the single most important cultivation decision. Standard field soybean varieties are bred for maximum dry bean yield and are often photoperiod-adapted for specific latitudes — they may flower too late in northern zones or underperform as edamame in any zone. Edamame-specific varieties bred for flavor, bean size, and appropriate maturity are essential regardless of location.\n**Zones 3-5 (short season, cool summers):** Focus exclusively on the earliest-maturing edamame varieties. 'Envy' (70 days) is the benchmark — compact 20-24\" plants, reliable pod fill, 2-3 beans per pod. Widely available from Johnny's Selected Seeds, Territorial Seed, Burpee. 'Chiba Green' (70-75 days) is another reliable short-season choice. Do not attempt varieties over 75 days unless you have a warm, sheltered microclimate. Sow as soon as soil reaches 60°F to maximize season length.\n**Zones 6-7 (moderate season, warm summers):** The full range of edamame varieties is available. 'Envy' remains the safe first choice for reliability. 'Beer Friend' (also sold as 'Biere Freund') — 75 days, larger beans with excellent sweet, nutty flavor; the variety associated with the traditional Japanese izakaya edamame experience. 'Midori Giant' — 75-80 days, large plump beans with very good flavor; grown for quality rather than early maturity. 'Shirofumi' — 80 days, Japanese heirloom with outstanding sweet flavor, three beans per pod, popular with chefs. Staggered plantings are practical in this zone band and extend the harvest across 4-6 weeks.\n**Zones 8-10 (long season, hot summers):** Season length is not a constraint, but heat stress during flowering can reduce pod set in the hottest areas. Plant early (March-April) so that flowering occurs before peak summer heat. All edamame varieties listed above will mature; longer-season varieties like 'Shirofumi' and 'Midori Giant' are fully reliable. In Zone 9-10, consider a fall planting (August-September) as a second crop to avoid midsummer heat stress during pod fill.\n**Avoid across all zones:** Field soybean varieties sold for commodity production (Pioneer, Asgrow, etc.) — these are bred for dry bean yield and specific photoperiod adaptation; they produce negligible edamame harvest and inferior eating quality. The distinction between \"edamame\" and \"soybean\" at the seed catalog level matters and should not be ignored.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated annual vegetable bed",
+      "raised bed rotation crop",
+      "succession planting for extended harvest",
+      "kitchen garden for Japanese-inspired cooking; an excellent follow-on crop after cool-season brassicas or greens that finish by late spring"
+    ],
+    "designPlacement": "Soybeans are a practical raised-bed or in-ground annual crop — compact (2-2.5' tall), self-supporting, and nitrogen-building. They belong in productive vegetable beds rather than ornamental borders. Deer exclusion is non-negotiable and should dictate placement: grow inside an already-fenced bed enclosure, or plan a temporary fence specifically for this crop. A block planting of 20-30 plants (a 4'x8' raised bed planted at 6\" spacing holds approximately 32 plants) produces a meaningful single-harvest of edamame — enough for 4-6 servings. Two staggered beds or plantings extend the season. Follow soybeans with a heavy-feeding crop (squash, brassicas, corn) the next season to benefit from the nitrogen left in the root zone.",
+    "acquisitionStatus": "Not yet acquired — seed only; available from Johnny's Selected Seeds, Territorial Seed Co., Burpee, and many regional seed companies; 'Envy' is the most widely stocked variety"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Soybean",
+    "inaturalist": "https://www.inaturalist.org/taxa/122902-Glycine-max",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280548"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or any part of eastern North America; cultivated annual only",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture invasive species list or DCNR watch list; same as general Invasive field — no concerns",
+      "drainage": "The Hegins red clay is compacted and drainage-impaired — raised beds with amended loam-compost mix are strongly recommended over in-ground planting for soybeans; in-ground planting is possible if 4-6\" of compost is deeply incorporated, but raised beds offer meaningfully better results by warming faster in spring and draining freely during summer storms; the clay's slow drainage directly conflicts with the aerobic conditions that Bradyrhizobium nodules require",
+      "soil": "The Hegins red clay requires amendment before soybean planting — incorporate 3-4\" of compost into the top 10\" if planting in-ground; raised beds filled with a loam-compost mix bypass the clay issue entirely and are the preferred approach; the naturally slightly acidic pH of central PA clay soils (typically 5.5-6.5) may benefit from light liming to reach the 6.5 target",
+      "cultivarNotes": "'Envy' is the first-choice variety — 70 days, proven reliable in the central PA growing season with a late-May sow yielding in mid- to late-August. 'Beer Friend' at 75 days is an excellent second choice for slightly better flavor. Sow after May 15 when soil exceeds 60°F. Avoid varieties over 80 days unless planted in a warm raised bed with row cover extension.",
+      "designPlacement": "Place in the raised vegetable beds with deer fencing — not in Sections A, B, or C (ornamental beds with height, design, or fragrance constraints that soybeans do not serve). Section B (kitchen-adjacent) is theoretically appropriate if deer exclusion is in place, but soybean's modest visual interest does not prioritize it for the front kitchen strip. A dedicated raised vegetable bed or in-ground vegetable plot with perimeter fencing is the ideal placement at this site.",
+      "siteObservations": "The two primary challenges at this site are deer pressure and clay soil. Deer: absolute fencing required — the east wildlife corridor produces consistent browsing pressure; do not plant without physical exclusion. Clay: raised beds with amended loam-compost mix address the drainage and soil temperature issues that the Hegins red clay creates for warm-season legumes; in-ground planting in amended beds is possible but requires good incorporation of compost to improve drainage. Inoculant: always use Bradyrhizobium japonicum (soybean-specific); do not substitute generic legume inoculant; if soybeans have been grown in this bed before, inoculant is still beneficial as populations decline over winter. Japanese beetle pressure in July-August is significant throughout central PA — monitor and hand-pick; a diverse garden with flowering plants that support parasitoids and predators (Allium flowers, Achillea, Monarda) provides some biological buffering. Harvest timing discipline is the most commonly missed cultivation point: the edamame window is 5-7 days wide; check pods daily once they look near-ready, and harvest at peak rather than waiting. Optimal sow date for Hegins: after May 15, when soil temperature reliably exceeds 60°F; a second sowing in early June extends the season into late September."
+    }
+  }
+}

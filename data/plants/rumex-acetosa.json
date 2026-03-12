@@ -1,0 +1,162 @@
+{
+  "id": "rumex-acetosa",
+  "name": {
+    "commonName": [
+      "Garden Sorrel",
+      "Common Sorrel"
+    ],
+    "latinName": "Rumex acetosa",
+    "family": "Polygonaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and western Asia; widely cultivated for millennia and naturalized in parts of North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced from Europe and now naturalized across much of the northern and central US, particularly the Northeast, Great Lakes, and Pacific Northwest; less common in the Deep South and arid Southwest"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — naturalized in many US states but not listed as invasive or noxious in any; well-behaved in cultivation and does not aggressively colonize wild areas; spreads primarily by crown expansion rather than seed dispersal when flower stalks are removed"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7"
+    }
+  },
+  "description": {
+    "height": "12-24\" in leaf; flower stalks can reach 36\"+",
+    "spread": "12-18\" per clump",
+    "spacing": "12-18\"",
+    "growthRate": "Fast; establishes quickly and fills out its space by the second year; one of the earliest plants to emerge in spring",
+    "timeToMaturity": "Leaves harvestable from year 1; full productive crown by year 2",
+    "lifespan": "Long-lived perennial; essentially permanent once established — treat as a fixture in the herb bed",
+    "deciduousEvergreen": "Deciduous — dies back completely in hard frost; among the very first plants to emerge in late winter/early spring (February-March in Zone 6a, later in colder zones)",
+    "winterInterest": "None — dies back completely; mark position to avoid disturbing the crown"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; performs best in full sun but tolerates light shade; afternoon shade in Zone 7+ summers can help moderate leaf bitterness and prevent premature bolting",
+    "water": "Medium; drought tolerant once established; benefits from consistent moisture for best leaf quality and tenderness",
+    "drainagePreference": {
+      "description": "Average; adaptable to a range of soils including heavier clay — more forgiving than most culinary herbs; tolerates seasonally wet conditions better than Mediterranean herbs but will rot in standing water",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good — one of the more clay-tolerant culinary herbs; fibrous root system handles heavy soil without the rot risk that plagues taprooted herbs; performs adequately in unamended clay with reasonable drainage, though leaf quality and vigor improve with organic matter amendment; the main risk in heavy clay is waterlogging during winter dormancy, which can damage the crown"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0; tolerates slightly acid to neutral soils"
+    },
+    "texturePreference": "Rich, moist loam preferred for best leaf quality; performs adequately in clay soils with reasonable drainage; sandy soils are acceptable but require more frequent watering to maintain leaf tenderness",
+    "rootCharacter": "Fibrous root system with a thickening crown; not a deep taproot like lovage or comfrey; spreads slowly outward from the crown; divide occasionally to maintain vigor"
+  },
+  "bloom": {
+    "bloomTime": "May-July",
+    "bloomDescription": "Tall, erect flower spikes with small reddish-green flowers; dioecious — plants are either male or female; flowers are wind-pollinated and not ornamentally significant; flower stalks should be removed promptly to prolong leaf production",
+    "fragrance": "None",
+    "flowerSex": "Dioecious (individual plants either male or female)",
+    "pollination": "Wind-pollinated; cross-pollination required for seed set — but since flower stalks are routinely removed in culinary plantings, seed production is generally not the goal"
+  },
+  "yield": {
+    "edibleParts": "Leaves — the primary yield; intensely lemony, sharp, and acidic flavor from high oxalic acid content; one of the most distinctive and immediately recognizable flavors in the perennial herb garden. Young spring leaves are the most prized — tender, less intensely acidic, and ready weeks before most other fresh herbs or greens. Use in sorrel soup (the classic French potage à l'oseille — leaves dissolve into a silky, bright green purée with butter and cream), wilted into sauces for fish, salmon in particular, eggs, and cream-based dishes, stirred into scrambled eggs and omelettes, blended into salad dressings, or used raw in small quantities in salads where its sharp flavor cuts richness. Cooking significantly reduces the oxalic acid content and mellows the intensity.",
+    "harvestSeason": "March-April through June-July for the prime spring harvest; leaves persist through summer but become larger, tougher, and more intensely acidic in heat; many growers cut the entire plant to the ground in mid-summer and harvest the fresh, tender regrowth in fall; remove flower stalks as they appear throughout the season to redirect energy to leaf production",
+    "medicinalUses": "Traditionally used as a digestive tonic, mild laxative, and cooling herb; high in Vitamin C — historically used to prevent and treat scurvy; used in European folk medicine as a febrifuge and blood purifier; astringent properties",
+    "craftOtherYield": "Leaves yield a greenish dye; the acidic juice has been used traditionally as a cleaning agent for removing rust and stains from linen"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — oxalic acid: sorrel contains significant levels of oxalic acid — more than spinach or chard, which carry the same caution. In normal culinary quantities (a few leaves at a time in cooking or salad), this is not a concern for healthy adults. However, individuals with kidney stones (particularly calcium oxalate stones), gout, or rheumatoid arthritis should avoid or strictly limit consumption, as oxalic acid can exacerbate these conditions. Cooking reduces oxalic acid content considerably. Do not eat in large quantities raw. Use as a flavoring and accent, not a bulk green.",
+    "toxicityAnimals": "Oxalic acid is toxic to dogs and cats in significant quantities — sorrel should not be fed to pets. Keep in areas where foraging pets cannot access plants freely.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb layer"
+    },
+    "roles": [
+      "Food (primary culinary yield — distinctive lemony flavor unavailable from any other common perennial herb)",
+      "Early-Season Producer (one of the first harvestable culinary plants of the year — March-April emergence fills a genuine gap in the perennial harvest calendar)",
+      "Ground Cover (dense basal rosette suppresses weeds in its footprint)",
+      "Dynamic Accumulator (accumulates minerals in leaves; the high organic acid content suggests good mineral uptake from soil)"
+    ],
+    "companionPlants": [
+      "Lovage (complementary tall herb companion — lovage provides insectary value and vertical structure while sorrel fills the lower layer; similar early-season emergence)",
+      "comfrey (dynamic accumulator guild)",
+      "chives and other perennial alliums (early-season companions)",
+      "strawberries (sorrel's leaf canopy and strawberries' runners can share space productively)",
+      "fruit tree guilds as understory groundcover"
+    ],
+    "antagonists": [
+      "None documented for typical garden companions"
+    ],
+    "coppiceable": true
+  },
+  "wildlife": {
+    "attracts": "Limited direct wildlife value; small insects visit the wind-pollinated flowers",
+    "hostPlantFor": "Several Lepidoptera species use Rumex as a larval host plant, including the small copper butterfly (Lycaena phlaeas) — one of the most common copper butterflies in North America — whose caterpillars feed on sorrel and dock leaves; this is a genuine and underappreciated wildlife bonus",
+    "nestingHabitat": "Dense basal foliage provides low cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good — the intensely acidic, bitter-sour leaves are reliably avoided by deer; one of the most dependable deer-resistant culinary herbs; an asset in any deer-heavy landscape across the eastern US and beyond"
+    },
+    "salt": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — tolerates incidental road salt exposure but not sustained salt spray; not a good choice for immediate roadside plantings or coastal salt zones"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate once established — prefers consistent moisture but survives dry periods; quality and leaf tenderness decline in drought stress"
+    },
+    "other": "Excellent cold hardiness (Zone 3); one of the most cold-tolerant perennial culinary herbs; tolerates part shade; the very early spring emergence means it is productive before the last frost date in most zones"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the lowest-maintenance perennial culinary herbs; essentially carefree once established",
+    "pruningNotes": "Remove flower stalks promptly as they appear (May-July) to keep the plant in productive leaf mode — once a plant bolts fully and sets seed, leaf quality and quantity decline. In mid-summer, when leaves become large, tough, and very strongly acidic, cut the entire plant to the ground; it will resprout with a flush of fresh, tender growth for fall harvest. Divide crowns every 3-5 years in early spring if productivity declines or clumps become overcrowded.",
+    "propagationMethods": [
+      "Seed (direct sow in early spring or fall; germinates readily without cold stratification; easy from seed)",
+      "division of crowns in early spring (the preferred method for maintaining named cultivars or desirable plants)",
+      "root cuttings"
+    ]
+  },
+  "cultivarNotes": "Three selections cover most gardeners' needs across the lower 48. R. acetosa (garden sorrel, the straight species) is the classic — 18-24\", the most widely grown, boldly flavored, and fully reliable across Zones 3-7. R. scutatus (French sorrel, buckler-leaf sorrel) is a different but related species worth growing alongside — lower growing (8-12\"), with small shield-shaped leaves and a more refined, less aggressively acidic flavor that many chefs prefer for raw use in salads and delicate sauces; equally perennial and early-emerging; slightly more heat tolerant, making it a better choice in Zone 7-8 where garden sorrel's summer decline is more pronounced. 'Profusion' is a sterile cultivar of R. acetosa that does not bolt to seed — the most practical choice for a permanent herb bed where you want the longest possible harvest season without constant flower stalk removal; strongly preferred for low-maintenance plantings in any zone within its range. In the warmer South (Zone 8+), sorrel may behave as a cool-season perennial, going semi-dormant in peak summer heat; French sorrel handles this better than garden sorrel.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Permanent herb bed",
+      "food forest herb layer",
+      "kitchen garden",
+      "edging plant for productive beds",
+      "early-season harvest garden"
+    ],
+    "designPlacement": "Best sited in a permanent, accessible location near the kitchen or primary harvest path — its value is in frequent, small harvests of a few leaves at a time rather than bulk picking. The 12-24\" height makes it a natural front-to-mid border plant or herb layer component in a food forest. Pair with taller perennial herbs (lovage, fennel) behind it and low ground covers or alliums alongside. Its very early spring emergence — weeks ahead of most other herbs — makes it one of the highest-value early-season plants in any perennial food garden. Because it is permanent, site it where it will not need to be moved; give it a defined spot and let it establish. The acidic flavor fills a niche that no other common perennial herb covers.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rumex_acetosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/55821-Rumex-acetosa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=285455"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — not native to Pennsylvania or eastern North America; introduced from Europe and naturalized in the state",
+      "paInvasiveStatus": "Not regulated in Pennsylvania — not on the PA noxious weed list or DCNR invasive species list; same as general Invasive field",
+      "drainage": "The red clay at Hegins is manageable for sorrel without raised beds — amend the planting hole with compost to improve texture around the crown and ensure the site does not collect standing water in winter; in-ground planting in the Section B strip is practical with basic preparation",
+      "soil": "The Hegins red clay is workable — amend planting holes with compost; sorrel is forgiving enough to establish without raised beds, though raised bed culture would produce the best leaf quality",
+      "cultivarNotes": "all three perform well; 'Profusion' is the top recommendation for the Hegins herb bed — sterile, no bolting management, maximum leaf production with minimum effort.",
+      "designPlacement": "A strong candidate for the kitchen-adjacent herb strip (Section B) where its productivity and early-season value outweigh any ornamental shortcomings. Its 12-24\" height fits easily without concern. The very early March-April emergence makes it one of the highest-value plants for the Hegins garden's spring gap. Consider pairing with lovage and chives to create a fully productive early-spring perennial herb cluster in Section B.",
+      "siteObservations": "Clay soil at the site is manageable for sorrel with basic amendment. Deer pressure from the east corridor is not a concern — sorrel's acidic leaves are reliably deer-resistant. The early emergence (February-March in a mild year) will be a genuine asset given the long Hegins winter. No salt concern in Section B."
+    }
+  }
+}

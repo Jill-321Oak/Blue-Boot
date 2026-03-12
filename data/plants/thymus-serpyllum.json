@@ -1,0 +1,160 @@
+{
+  "id": "thymus-serpyllum",
+  "name": {
+    "commonName": [
+      "Creeping Thyme",
+      "Wild Thyme",
+      "Mother-of-Thyme"
+    ],
+    "latinName": "Thymus serpyllum",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Europe and northern Asia; extensively naturalized across temperate North America, particularly in disturbed, well-drained soils",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; naturalized in scattered locations across the Northeast, upper Midwest, and Pacific Northwest, typically in rocky or sandy soils, roadsides, and old fields"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; not listed as invasive in any US state or on any federal noxious weed list. Spreads vegetatively by rooting stems but stays low and does not displace native vegetation in wild settings. Not a seed dispersal concern."
+    },
+    "zone": {
+      "min": 4,
+      "max": 9,
+      "description": "4-9"
+    }
+  },
+  "description": {
+    "height": "1-3\" (mat-forming)",
+    "spread": "12-18\" per plant",
+    "spacing": "12-15\"",
+    "growthRate": "Moderate to fast once established",
+    "timeToMaturity": "Full coverage from second season",
+    "lifespan": "5-10 years before needing rejuvenation; self-repairs by rooting stems",
+    "deciduousEvergreen": "Semi-evergreen — foliage persists in mild winters; dies back in hard winters but reliably returns",
+    "winterInterest": "Moderate — semi-evergreen mat provides ground cover through winter in milder areas of its range; in Zones 4-5 expect full dieback with reliable spring return"
+  },
+  "lightAndWater": {
+    "sun": "Full sun strongly preferred; tolerates light shade but becomes sparse and less floriferous. In Zone 8+ regions with intense summer heat, light afternoon shade can be beneficial.",
+    "water": "Low to medium; drought tolerant once established. In the humid East, supplemental watering is rarely needed. In the arid West, occasional deep watering during summer dry spells improves appearance.",
+    "drainagePreference": {
+      "description": "Well-drained to dry — susceptible to crown rot in wet or waterlogged soils. Heavy clay without amendment is a significant risk factor. Performs best in sandy, gravelly, or loamy soils with rapid drainage. In any heavy-soil situation, raised planting, gravel mulch, or aggressive drainage amendment is strongly recommended.",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor. Heavy clay causes waterlogging around the shallow root crown, leading to rot, especially in winter and early spring. Thyme can survive in amended clay if drainage is radically improved (50/50 clay-to-gravel/sand amendment, raised crowns, gravel mulch instead of organic mulch). Without amendment, expect losses. This limitation applies equally to clay-heavy soils across the eastern US, Midwest, and Pacific NW."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 8,
+      "description": "6.0-8.0; tolerates slightly alkaline soil well, which suits limestone-derived soils common in many US regions"
+    },
+    "texturePreference": "Lean, well-drained soil — sandy, gravelly, or loamy. Thrives in poor, low-fertility soil and actually declines in rich, moist conditions. Clay is tolerable only if drainage is thoroughly amended.",
+    "rootCharacter": "Prostrate woody stems that root as they spread; shallow root system; non-invasive"
+  },
+  "bloom": {
+    "bloomTime": "June to July",
+    "bloomDescription": "Tiny pink-purple flowers covering the mat completely at peak bloom; one of the most floriferous ground covers available for its size",
+    "fragrance": "Strongly aromatic foliage (thymol); flowers faintly fragrant",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Major pollinator plant for its size — attracts bees, butterflies, and small beneficial insects in large numbers relative to plant size"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers (culinary herb — milder and slightly sweeter than garden thyme; use fresh or dried)",
+    "harvestSeason": "Leaves year-round; harvest before and during bloom for best flavor",
+    "medicinalUses": "Traditional antiseptic (thymol is a documented antimicrobial); used for respiratory support, coughs, and as a digestive herb; one of the oldest continuously-used medicinal herbs",
+    "craftOtherYield": "Essential oil (thymol); dried herb; natural disinfectant"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and medicinal",
+    "toxicityAnimals": "Generally considered safe; large quantities may cause mild GI upset",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression",
+      "Insect Attractor (disproportionately high pollinator value for its size)",
+      "Food (culinary)",
+      "Medicinal",
+      "Pest Confuser (aromatic foliage)"
+    ],
+    "companionPlants": [
+      "Creeping thyme works well planted between stepping stones or at bed edges; pairs well with spring bulbs (thyme fills in after bulb foliage dies back)"
+    ],
+    "antagonists": [
+      "Does not perform well in shade or wet clay — see Drainage note above"
+    ],
+    "coppiceable": "Shear lightly after bloom to keep compact and encourage fresh growth; do not cut into old wood"
+  },
+  "wildlife": {
+    "attracts": "Bees (major — honey bees and native bees both heavily work thyme flowers), butterflies, beneficial insects",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Low mat provides some ground-level cover for beetles and other beneficial insects"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — strongly aromatic foliage makes it among the most reliable deer-deterrent ground covers. Even in areas with heavy deer pressure, creeping thyme is rarely browsed. Young transplants may occasionally be disturbed by deer walking through beds but are not targeted for feeding."
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good — tolerates road salt spray and light saline conditions; recovers from incidental winter salt exposure"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established; Mediterranean origin gives it strong drought-hardiness across all US climate zones. May go semi-dormant in prolonged drought but recovers with rainfall."
+    },
+    "other": "Tolerates foot traffic (light to moderate stepping); good between stepping stones; tolerates lean poor soil; handles wind exposure well; tolerates heat and humidity in Zones 7-9 provided drainage is excellent"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Shear the mat lightly after flowering (July) to remove spent blooms and encourage dense fresh growth. Avoid cutting into old woody stems. Divide or replant sections that become woody and sparse in the center (every 4-5 years). Pull back from wall surface annually.",
+    "propagationMethods": [
+      "Division (easiest — pull apart rooted sections in spring or fall)",
+      "stem cuttings (spring/summer — root readily in moist sand)",
+      "seed (slow; self-sows lightly)"
+    ]
+  },
+  "cultivarNotes": "For most gardeners, the straight species provides excellent purple-pink flowers and reliable performance. Key cultivars by zone band: **Zones 3-5** — 'Elfin' (extremely compact, 1-2\", lavender flowers, excellent cold hardiness) is a top choice where winters are harsh. **Zones 6-7** — 'Pink Chintz' (soft pink, grey-green foliage, very compact), 'Magic Carpet' (lavender-pink, very low at 1-2\", excellent foot-traffic tolerance), and 'Coccineus' (magenta-red flowers, very showy — falls outside a strict purple/pink palette but is striking in mixed borders). **Zones 8-9** — all cultivars perform well provided drainage is sharp; 'Coccineus' and 'Pink Chintz' tolerate heat better than some. Thymus praecox is closely related and sometimes sold interchangeably — also appropriate across all zones.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Ground cover",
+      "path edging",
+      "between stepping stones",
+      "rock garden",
+      "front border zone"
+    ],
+    "designPlacement": "Place in full sun at the front edge of borders or between stepping stones where its low mat habit and foot-traffic tolerance are assets. Ideal for dry, well-drained positions — rock gardens, gravel gardens, raised bed edges, south- or west-facing slopes. Pairs well with spring bulbs (fills in after foliage dies back) and taller drought-tolerant perennials behind it. Avoid placing in shaded or poorly drained positions where it will thin out and rot.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thymus_serpyllum",
+    "inaturalist": "https://www.inaturalist.org/taxa/322051-Thymus-serpyllum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a294"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania. Occasionally naturalized in rocky, well-drained areas but not common in the wild flora.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania; not on the PA Dept. of Agriculture noxious weed list or DCNR invasive species list.",
+      "drainage": "At the Hegins site, the compacted red clay with poor drainage is a serious challenge for creeping thyme. In-ground planting requires aggressive amendment — incorporate coarse sand or fine gravel deeply into the planting zone and top-dress with gravel mulch rather than wood chips. Best placed at the front edge of beds where drainage is slightly better, or in raised planting pockets. Consider Ajuga reptans as a companion or substitute for wetter micro-sections of the same bed.",
+      "soil": "Hegins red clay requires amendment for thyme — work in coarse sand or pea gravel to a depth of 6-8\" and avoid organic mulch directly against the crown. Raised bed pockets or rock garden sections are the most reliable approach at this site.",
+      "cultivarNotes": "For a purple/pink/yellow palette, 'Pink Chintz' or the straight species are the best fits. 'Elfin' is excellent where ultra-low height is needed. 'Magic Carpet' offers the best foot-traffic tolerance for path-edge use.",
+      "designPlacement": "Section A front bed front zone — ground-closing edging plant. Note the drainage caution for Hegins clay; best at the very front edge where drainage is slightly better. Consider Ajuga reptans as a companion or substitute in shadier/wetter micro-sections. Section C (south-facing, warm, dry) is actually the more ideal site for thyme at this property if space allows.",
+      "siteObservations": "The north-facing partial shade and compacted red clay of Section A are both working against this plant's preferences. Thyme will perform adequately but not optimally there — expect thinner mats and less prolific bloom than in a sunny, well-drained position. Active deer pressure from the east corridor is not a concern for this species (excellent deer resistance). Road salt from the north border is not a concern at ~50 ft distance. If Section C planting proceeds, relocating thyme's primary mass there and using Ajuga as the Section A ground cover may produce better results for both sections."
+    }
+  }
+}

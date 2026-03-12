@@ -1,0 +1,168 @@
+{
+  "id": "agastache-foeniculum",
+  "name": {
+    "commonName": [
+      "Anise Hyssop",
+      "Blue Giant Hyssop",
+      "Fragrant Giant Hyssop"
+    ],
+    "latinName": "Agastache foeniculum",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "North-central and northern North America — primarily the upper Midwest and Great Plains (Wisconsin to Ontario, west to British Columbia, south to Colorado); naturalized broadly across eastern North America including Pennsylvania, but not strictly native to eastern PA",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the Great Plains and upper Midwest — Minnesota, Iowa, Kansas, Nebraska, the Dakotas, and adjacent areas; NOT native to the eastern US including Pennsylvania; widely cultivated and naturalized in gardens throughout the US but not native to Pennsylvania"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "US-wide — not invasive; self-seeds moderately but not aggressively; not on any state noxious weed lists; plants spread to form pleasant colonies that are easily managed by thinning seedlings"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5-9"
+    }
+  },
+  "description": {
+    "height": "2-4' (species typically 3-4'; compact cultivars 2-2.5')",
+    "spread": "18-24\" per clump; spreads slowly by self-seeding to form loose colonies over time; not rhizomatous",
+    "spacing": "18-24\"",
+    "growthRate": "Fast from transplant; moderate from seed",
+    "timeToMaturity": "Blooms in first year from transplant; second year from seed; colony self-sustains and fills in over 2-3 seasons",
+    "lifespan": "Short-lived perennial — individual plants 3-5 years; colony persists indefinitely through self-seeding; treat as a permanent perennial in practice",
+    "deciduousEvergreen": "Deciduous — dies back to the ground with hard frost; re-emerges reliably in mid-spring",
+    "winterInterest": "Dried flower spikes persist attractively through winter; good architectural presence in a dormant garden; seed heads provide winter food for songbirds (goldfinches, sparrows)"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates part shade with some reduction in bloom density; best flowering in full sun",
+    "water": "Low to medium; drought-tolerant once established — one of the more xeric native perennials; performs well in dry summers without supplemental irrigation after the first season",
+    "drainagePreference": {
+      "description": "Average to well-drained; tolerates poor and clay soils; does not require fertile or amended soil; excellent in lean soils once established",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor to moderate in heavy clay; anise hyssop strongly prefers well-drained, lean soil; clay's moisture retention — especially in winter — causes crown rot and greatly reduces plant longevity; in heavy clay, raised beds or mounded planting positions are strongly recommended; amendments with coarse grit, sand, or gravel improve drainage; a lean, open soil mix is better than a rich, moisture-retentive one"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable — performs in clay loam, sandy loam, and average garden soil; tolerates poor fertility; does not require rich or heavily amended soil",
+    "rootCharacter": "Fibrous, clumping root system; not rhizomatous; well-behaved; does not spread underground"
+  },
+  "bloom": {
+    "bloomTime": "July-September (one of the longer bloom windows of any native perennial herb; often extending into early October in Zone 6a)",
+    "bloomDescription": "Upright spikes of densely packed tubular flowers in lavender-purple (occasionally white); spikes 2-4\" long, arranged at the tips of branching stems; individual flowers small but massed in whorled clusters creating a rich, hazy violet effect; blooms continuously over a 10-12 week season; at peak, the entire plant is alive with insects; few perennials offer this combination of long bloom, density of flower, and pollinator activity simultaneously",
+    "fragrance": "Strongly aromatic foliage with a pleasant, sweet anise-licorice scent — one of the most distinctive and agreeable fragrances of any native herb; flowers are also fragrant; fragrance is released readily when foliage is brushed or handled; the entire plant smells pleasant in warm weather",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Outstanding across a wide range of pollinators — native bumblebees (the primary visitors; will cover the spikes continuously during bloom), honeybees, sphinx moths (hummingbird clearwing and others), swallowtail and fritillary butterflies, and numerous native bee species; ranked among the highest-value pollinator plants available for the eastern garden; the long bloom season and continuous high insect activity make this one of the most productive pollinator investments per square foot of any native herb"
+  },
+  "yield": {
+    "edibleParts": "Leaves and flowers — both edible raw or dried; the anise-licorice flavor is sweet and pleasant with none of the harshness of true anise; excellent fresh in salads, as a garnish, and in cold drinks; dried flowers and leaves make a superb herbal tea with a naturally sweet licorice flavor that requires no added sweetener; one of the most pleasant-tasting native herbs available",
+    "harvestSeason": "Leaves spring through fall; harvest flowers as spikes open throughout the long bloom season; dry easily at room temperature for winter tea; flowers can be harvested continuously without significantly reducing overall bloom",
+    "medicinalUses": "Ojibwe and other Great Plains nations used the leaves medicinally — as a treatment for fevers, coughs, and respiratory complaints; also used as a natural sweetener and food flavoring; modern herbalists use it as a mild digestive herb and calming tea; the essential oils are mildly antimicrobial",
+    "craftOtherYield": "Dried flower spikes for arrangements; potpourri; the fragrant dried herb is excellent in sachets; herbal tea blends well with other native herbs (lemon balm, mint, echinacea)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible and used medicinally; safe for all normal uses",
+    "toxicityAnimals": "No documented toxicity; not a known concern",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Insect Attractor (outstanding — among the highest-value pollinator plants for the eastern garden; the long bloom season and exceptional visitation rates make this a cornerstone pollinator herb)",
+      "Food (herbal tea; edible flowers and leaves)",
+      "Medicinal",
+      "Aromatic",
+      "Dynamic Accumulator (fibrous roots improve soil tilth)",
+      "Beauty"
+    ],
+    "companionPlants": [
+      "Echinacea purpurea (classic native pairing — both bloom July-September and peak simultaneously for a spectacular midsummer display)",
+      "Monarda fistulosa (wild bergamot — complementary fragrant native herb; similar habits; excellent combined for a fragrant pollinator herb bed)",
+      "Rudbeckia (black-eyed Susan — contrasting yellow blooms alongside lavender Agastache)",
+      "Pycnanthemum (mountain mint — another top-tier pollinator herb; plant together for a continuous native pollinator succession)",
+      "native grasses as structural companions"
+    ],
+    "antagonists": [
+      "None documented; no known significant antagonists; powdery mildew in humid",
+      "low-airflow conditions (see Maintenance); generally less disease-prone than Monarda"
+    ],
+    "coppiceable": "Cut back hard after bloom or in early spring; vigorous regrowth from the base each season; allow some flower spikes to set seed for colony self-renewal"
+  },
+  "wildlife": {
+    "attracts": "Native bumblebees (outstanding; among the best bumblebee plants available — multiple species will work the spikes continuously), honeybees, hummingbird clearwing sphinx moth (Hemaris thysbe), other sphinx moths, swallowtail butterflies (tiger, black, spicebush), fritillaries, skippers, painted lady, monarch; goldfinches and sparrows harvest seeds from dried heads in winter; a full-season wildlife plant",
+    "hostPlantFor": "No documented larval host relationships, but the dense colony provides excellent invertebrate habitat; the plant's continuous bloom acts as a nectar hub that supports the broader food web across the blooming season",
+    "nestingHabitat": "Dried hollow stems left standing through winter provide overwintering habitat for native cavity-nesting bees; ground-level leaf litter around the colony supports invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — the strongly aromatic, anise-scented foliage is reliably avoided by deer; one of the most deer-resistant native herbs available; not typically browsed even under significant deer pressure; the fragrant foliage is a genuine deterrent, not merely incidental resistance"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — drought-tolerant once established; one of the more xeric native perennials for the eastern garden; performs well through dry summers in Zone 6a without irrigation after year one"
+    },
+    "other": null
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — one of the lowest-maintenance native perennials; drought-tolerant, deer-resistant, disease-resistant, self-seeding; essentially self-managing once established",
+    "pruningNotes": "Cut back to the ground in fall after frost or in early spring before new growth. Allow some spent flower spikes to remain through winter for seed dispersal, songbird foraging, and native bee overwintering habitat — then cut in late winter/early spring. Thin self-sown seedlings in spring to prevent overcrowding; transplant extras to expand colonies elsewhere. Individual plants decline after 3-5 years but seedlings replace them automatically — the colony self-renews without intervention.",
+    "propagationMethods": [
+      "Seed (very easy — direct sow in fall for spring germination, or start indoors 6-8 weeks before last frost; cold stratification not required but improves germination rates; species comes true from seed)",
+      "division (spring; easy)",
+      "stem cuttings (summer; root readily); named cultivars should be propagated vegetatively to come true"
+    ]
+  },
+  "cultivarNotes": "The species A. foeniculum is excellent and widely available from native plant nurseries — it is the best choice when provenance and ecological authenticity matter. For garden use, several outstanding selections are worth knowing: 'Blue Fortune' (A. foeniculum × A. rugosa hybrid; sterile — does not self-seed; exceptionally long bloom season; vigorous; very widely available; the most common Agastache in commerce; excellent pollinator value; 2.5-3'); 'Black Adder' (dark stems and calyces; rich lavender-blue flowers; long bloom; outstanding ornamental and pollinator value; 2-3'); 'Golden Jubilee' (gold-chartreuse foliage; lavender flowers; strong ornamental contrast; useful where foliage color is needed; 2-2.5'); A. rugosa (Korean hyssop — closely related species; similar appearance and pollinator value; slightly different flavor profile — more minty-anise; very cold-hardy; Zone 4-9). For maximum ecological and edible value, plant the straight species A. foeniculum sourced from native plant nurseries. For the longest bloom and most reliable garden performance, 'Blue Fortune' or 'Black Adder' are top recommendations for Zone 5-9.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Native herb garden",
+      "pollinator garden",
+      "cottage garden",
+      "food forest herb layer",
+      "fragrance border",
+      "wildflower meadow edge",
+      "rain garden"
+    ],
+    "designPlacement": "A highly versatile native herb suited to full-sun, well-drained positions across a wide range of garden styles. Best in herb gardens, pollinator borders, cottage gardens, and naturalistic plantings. Plant in masses of 3-5 for maximum pollinator draw and visual impact; the lavender-purple spikes provide strong color over a 10-12 week bloom season July-September. Exceptional value in any space where fragrance, pollinator activity, edible harvest, and low maintenance are all priorities.",
+    "acquisitionStatus": null
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Agastache_foeniculum",
+    "inaturalist": "https://www.inaturalist.org/taxa/158076-Agastache-foeniculum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d554"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA — this is a Great Plains and upper Midwest native; naturalized and well-adapted in PA gardens but carries no Pennsylvania native provenance; treat as a beneficial, well-adapted introduced native herb",
+      "paInvasiveStatus": "Not invasive in PA — self-seeds freely but not aggressively; not listed as invasive or noxious in Pennsylvania",
+      "drainage": "Hegins red clay is a challenging site for this plant without amendment; raised bed or well-amended raised mound strongly recommended; winter drainage is the critical factor — waterlogged clay in winter is the primary cause of loss; amend with coarse grit and compost; avoid heavy mulching over the crown",
+      "soil": "Hegins red clay needs significant amendment for best performance; lean, well-drained, amended soil is strongly preferred over native clay; raised mound or raised bed with coarse grit, sand, and moderate compost; avoid overly rich mixes which promote lush, floppy growth and reduce drought tolerance",
+      "cultivarNotes": "Best overall recommendation is the straight species A. foeniculum sourced from a native plant nursery for ecological value, or 'Blue Fortune' / 'Black Adder' for maximum bloom season and ornamental reliability; both are fully hardy to Zone 5 and perform well in Zone 6a; plant in a well-drained, amended site — drainage is more important than cold hardiness at this zone",
+      "designPlacement": "Best placement is Section C (south-facing, warm, dry microclimate, fragrance focus) — the aromatic foliage, drought tolerance, and strong fragrance are ideally matched; 2-4' height fits within the 5' limit; the lavender-purple spikes are beautiful from the SE driveway approach. Also well-suited to Section B (herb/kitchen bed — edible leaves and flowers, herbal tea, easy harvest access). Avoid Section A (north-facing, cooler, more moisture-retentive — less ideal for this drought-tolerant, well-drained-preferring herb). Plant in amended, well-drained soil or a raised mound given the site's red clay. A mass of anise hyssop in full bloom July-September is among the most consistently insect-covered features in the garden and makes an immediate impression; among the highest-ROI plants available for the herb bed.\nPennsylvania — Hegins Site Observations:\nAgastache foeniculum is well-adapted to Zone 6a and should overwinter reliably. The primary site challenge is the red clay soil — winter drainage is the critical factor, not cold hardiness. Plant in Section C on a raised mound or in a raised bed with coarse grit and compost amendment. Allow the colony to self-seed over time; thin as needed. Deer resistance is a strong asset given active deer pressure from the eastern corridor. The fragrance, pollinator value, and edible/medicinal yield make this a high-priority herb for both Section B and Section C.",
+      "siteObservations": null
+    }
+  }
+}

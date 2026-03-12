@@ -1,0 +1,160 @@
+{
+  "id": "asarum-canadense",
+  "name": {
+    "commonName": [
+      "Wild Ginger",
+      "Canadian Wild Ginger"
+    ],
+    "latinName": "Asarum canadense",
+    "family": "Aristolochiaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern North America — New Brunswick to North Dakota, south to North Carolina and Kansas; native throughout Pennsylvania; one of the classic eastern deciduous forest ground cover plants",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native to the eastern US — from New Brunswick south to North Carolina and west to Kansas and Oklahoma; occurs naturally in rich, moist, deciduous forest understory throughout the eastern US; a true eastern native ground cover"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive; spreads slowly by rhizome to form colonies; manageable and ecologically appropriate in its native range"
+    },
+    "zone": {
+      "min": 3,
+      "max": 7,
+      "description": "3-7 (note: upper end of Zone 7; Zone 6a is well within range)"
+    }
+  },
+  "description": {
+    "height": "6-9\"",
+    "spread": "12-24\" per plant; spreads slowly by rhizomes to form colonies; can cover considerable ground over many years",
+    "spacing": "12-18\" for a ground cover effect; colonies fill in slowly over 5-10 years",
+    "growthRate": "Slow; patience required; once established it is essentially self-maintaining and permanent",
+    "timeToMaturity": "Ground cover effect in years 3-5; slowly expands indefinitely",
+    "lifespan": "Essentially permanent once established in suitable conditions",
+    "deciduousEvergreen": "Deciduous — emerges in early spring; dies back in summer drought or fall; the leaves are among the first to emerge in April",
+    "winterInterest": "None — dies back completely"
+  },
+  "lightAndWater": {
+    "sun": "Shade to part shade; requires at least 60% shade; does NOT tolerate full sun; one of the most shade-tolerant native ground covers available; the paw paw guild's dappled shade is ideal",
+    "water": "Medium; prefers consistent moisture; tolerates the moist conditions of its native woodland habitat; does not do well in dry or droughty conditions",
+    "drainagePreference": {
+      "description": "Moist, well-drained; performs in clay-loam with good organic matter content; tolerates some periodic wet conditions",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate; wild ginger prefers rich, moist, well-structured woodland soil with high organic matter; it tolerates moist clay better than many ground covers but heavy clay compaction and poor drainage are stressors; deep incorporation of leaf mold and compost significantly improves performance in clay soils; in-ground planting with substantial woodland amendment is the practical approach"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5,
+      "max": 7,
+      "description": "5.0-7.0; prefers slightly acid, organic-rich woodland soil"
+    },
+    "texturePreference": "Moist, humus-rich woodland soil; clay-loam with added organic matter (leaf litter, compost) is appropriate; improve planting areas with 3-4\" of composted leaves",
+    "rootCharacter": "Shallow, creeping rhizomes just beneath the soil surface; each segment of rhizome produces a pair of heart-shaped leaves; the rhizomes spread the colony slowly"
+  },
+  "bloom": {
+    "bloomTime": "April-May",
+    "bloomDescription": "Small, unusual, brownish-maroon to reddish-purple urn-shaped flowers at the base of the plant, hidden beneath the leaves; 1\" wide; each stem produces one flower at soil level; the flowers are pollinated by early spring insects (small flies, ground beetles) that crawl beneath the leaves to find them; not ornamentally visible — the flowers are entirely hidden",
+    "fragrance": "Root and rhizome strongly aromatic — warm, gingery, but distinctive (not true ginger; a different aromatic compound)",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Ground-crawling insects (fungus gnats, small flies, thrips); ants are important for seed dispersal (elaiosome-bearing seeds attract ants who carry them underground — myrmecochory)"
+  },
+  "yield": {
+    "edibleParts": "Rhizomes (traditionally used as a ginger substitute — the flavor is ginger-like but different; can be dried and used as a spice; NOT a true ginger (Zingiber officinale); flavor is interesting but should be used sparingly)",
+    "harvestSeason": "Rhizomes harvestable year-round; harvest a small portion only — do not overharvest the ground cover colony",
+    "medicinalUses": "Traditional Native American medicine — one of the most widely used medicinal plants of eastern woodland cultures; used for digestive complaints, contraception (abortifacient — see cautions), pain relief, and wound treatment; contains aristolochic acids (see Cautions below)",
+    "craftOtherYield": "Dried rhizome as an aromatic spice (use sparingly); natural fragrance"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "CAUTION — Asarum canadense contains aristolochic acids, which are documented nephrotoxins (kidney toxins) and carcinogens with long-term use; the plant was historically used medicinally but internal use is no longer recommended by herbalists; small quantities used as a culinary spice may be acceptable but regular or sustained consumption is not advisable; AVOID internal use during pregnancy (historically used as an abortifacient for a reason)",
+    "toxicityAnimals": "Same aristolochic acid concern; avoid feeding to pets",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground Cover"
+    },
+    "roles": [
+      "Ground Cover & Weed Suppression (dense leaf canopy suppresses weeds in the paw paw guild)",
+      "Shade Tolerance (fills the most difficult deep-shade spaces)",
+      "Native Plant Contribution",
+      "Soil Cover (protects soil moisture and temperature)",
+      "Minor Medicinal (traditional use — use with caution)"
+    ],
+    "companionPlants": [
+      "Asimina triloba (paw paw — the natural canopy companion)",
+      "Lindera benzoin (spicebush — same ecological community)",
+      "Matteuccia struthiopteris (ostrich fern — complementary heights in the woodland understory)",
+      "Allium tricoccum (ramps — classic companion in the same rich woodland floor habitat)"
+    ],
+    "antagonists": [
+      "None documented; requires shade and moisture — do not plant in sunny or dry conditions"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Specialized ground-crawling insect pollinators; ants (seed dispersal — one of the classic examples of myrmecochory); the dense leaf cover provides habitat for ground beetles and other invertebrates",
+    "hostPlantFor": "Pipevine swallowtail butterfly (Battus philenor) uses Aristolochiaceae family plants as larval hosts — Asarum canadense has been documented as a minor host; not the primary host (Aristolochia macrophylla is preferred) but provides some contribution",
+    "nestingHabitat": "Dense mat of leaves provides ground-level cover and microhabitat for ground-nesting invertebrates"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate-good",
+      "description": "Moderate to good — the aromatic foliage deters casual browsing; wild ginger is not typically a primary deer browse target; the plants recover from occasional browsing due to the persistent rhizome"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — sensitive; keep away from road salt"
+    },
+    "drought": {
+      "rating": "poor",
+      "description": "Poor — requires consistent moisture; struggles in dry conditions; cannot tolerate summer drought without supplemental irrigation"
+    },
+    "other": "Requires shade; cold-hardy to Zone 3; tolerates moist clay-loam conditions"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established in appropriate conditions",
+    "pruningNotes": "Remove dead winter leaves in early spring to allow new growth to emerge cleanly. No other pruning needed. Divide and replant outer rhizome sections every 5-7 years to expand the colony or propagate new plants.",
+    "propagationMethods": [
+      "Rhizome division (very easy — dig sections of the creeping rhizome in spring or fall and replant 6\" deep; keep moist after transplanting)",
+      "seed (requires double dormancy — ant dispersal is natural; direct sow fresh seed in fall for spring germination the following year)"
+    ]
+  },
+  "cultivarNotes": "No named cultivars; the straight species is always used. Related species: Asarum europaeum (European wild ginger) is similar but evergreen — a possible alternative for year-round ground cover effect; Zone 4-8; same shade requirements; not native to North America. When sourcing, ensure you are purchasing Asarum canadense (native) rather than Asarum europaeum (European), as both are commonly sold as \"wild ginger\" in the nursery trade.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Woodland garden ground cover",
+      "food forest understory",
+      "native plant garden",
+      "shade garden"
+    ],
+    "designPlacement": "Native woodland ground cover, shaded food forest floor, understory companion to native trees",
+    "acquisitionStatus": "To source (native plant nursery or from a natural source with permission)"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asarum_canadense",
+    "inaturalist": "https://www.inaturalist.org/taxa/56325-Asarum-canadense",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b460"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Asarum canadense is native to Pennsylvania; commonly found in moist, shaded woodland understory throughout the state; a native companion plant of the paw paw's natural habitat",
+      "paInvasiveStatus": "Not invasive in PA; a native ground cover",
+      "drainage": "Hegins red clay: incorporate deep layer of leaf mold and compost to create woodland texture; in-ground planting with amendment is workable; the paw paw guild area should receive this treatment anyway for paw paw establishment",
+      "soil": "Hegins: deep leaf mold + compost amendment required to create woodland soil texture; clay with amendment is workable",
+      "cultivarNotes": "Asarum canadense is native to Zone 6a PA; fully hardy; the correct native choice for the paw paw guild ground layer at Hegins",
+      "designPlacement": "Paw paw guild ground layer — listed as a companion plant in the paw paw guild design; shaded, moist area with woodland soil amendment; planted beneath the paw paw trees and spicebush where the deepest shade is created; combined with ostrich ferns (taller) and ramps (seasonal ephemeral), wild ginger creates the middle layer of the guild's ground-level ecology",
+      "siteObservations": null
+    }
+  }
+}

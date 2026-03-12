@@ -1,0 +1,164 @@
+{
+  "id": "rosa-rugosa",
+  "name": {
+    "commonName": [
+      "Rugosa Rose",
+      "Beach Rose",
+      "Japanese Rose",
+      "Saltspray Rose"
+    ],
+    "latinName": "Rosa rugosa",
+    "family": "Rosaceae"
+  },
+  "range": {
+    "nativeRange": "Eastern Asia — Japan, Korea, northeastern China, eastern Siberia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US. Widely naturalized along the Atlantic coast from New England south through the mid-Atlantic, and scattered inland across the northern US and Pacific Northwest. Established populations occur from Maine to Virginia and in the Great Lakes region."
+    },
+    "invasive": {
+      "invasive": true,
+      "description": "Listed as invasive in several northeastern and mid-Atlantic states, particularly in coastal dune and maritime habitats where it displaces native beach grasses, bayberry, and other dune-stabilizing species. Connecticut, Massachusetts, and New Hampshire list it as invasive. In inland garden settings away from sensitive coastal ecosystems, it is manageable — suckering is contained by mowing, edging, or root barriers. Gardeners in coastal areas of the northeastern US should exercise caution and check state noxious weed lists before planting."
+    },
+    "zone": {
+      "min": 2,
+      "max": 9,
+      "description": "2-9 — among the hardiest of all roses"
+    }
+  },
+  "description": {
+    "height": "4-6' (6-8' in ideal conditions)",
+    "spread": "4-6'; spreads by suckers to form a thicket over time",
+    "spacing": "4-5' for hedge; 5-6' for specimen",
+    "growthRate": "Moderate to fast",
+    "timeToMaturity": "Blooms and fruits from first or second season",
+    "lifespan": "Very long-lived; essentially permanent once established",
+    "deciduousEvergreen": "Deciduous — attractive golden-orange fall color",
+    "winterInterest": "Excellent — large orange-red hips persist through winter; architectural branching with prominent thorns"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade with reduced bloom and fruit",
+    "water": "Low to medium; very drought tolerant once established",
+    "drainagePreference": {
+      "description": "Adaptable — notable tolerance for poor, sandy, and even salty soil; performs better in well-drained conditions but handles heavier soils better than most roses. Avoid sites with standing water or chronically saturated conditions, which promote root rot.",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good. Tolerates clay better than most Rosa species — the vigorous root system pushes through compacted soil where hybrid teas and floribundas would struggle. In heavy unamended clay, growth may be slower the first year and bloom slightly reduced, but established plants perform well. Amending the planting hole with coarse organic matter (composted bark, leaf mold) and ensuring the crown sits at or slightly above grade improves first-year establishment. Root rot risk is low unless drainage is truly stagnant."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Highly adaptable; lean soils, sandy soils, clay — performs in all. Does not require rich soil and may actually bloom less if overfertilized. Thrives in poor sandy or gravelly soils where other roses fail.",
+    "rootCharacter": "Deep spreading root system with suckering habit; fibrous and tenacious"
+  },
+  "bloom": {
+    "bloomTime": "May-June (primary flush); reblooms through summer and fall — one of the most reliable repeat-blooming shrub roses",
+    "bloomDescription": "Single to semi-double, 5-petaled, 2.5-3.5\" wide flowers; deep magenta-pink (typical species), also white ('Alba', 'Blanc Double de Coubert'), pale pink ('Frau Dagmar Hartopp'), and rich crimson selections available; flowers have a soft silky texture",
+    "fragrance": "Extremely fragrant — one of the most intensely scented of all roses; classic old-rose/clove perfume; fragrance carries strongly on warm days",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; excellent bee plant — bees work the prominent stamens heavily"
+  },
+  "yield": {
+    "edibleParts": "Hips (extremely high vitamin C — among the highest of any plant; 20x the vitamin C of oranges by weight); petals (edible, fragrant — excellent for rose water, syrups, and jams); young petals used in salads",
+    "harvestSeason": "Petals May-October; hips August-November (best after first frost softens them)",
+    "medicinalUses": "Rose hips — one of the best natural sources of vitamin C; traditionally used for immune support, anti-inflammatory preparations, and joint health; petals used in skin preparations; one of the primary commercial rose hip sources in Europe",
+    "craftOtherYield": "Rose water from petals; rose hip jam, jelly, syrup; dried petals for potpourri; fragrant cut flowers"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Non-toxic; extensively used in food and medicine",
+    "toxicityAnimals": "Non-toxic; hips are safe for dogs (a few, not large quantities); note the thorns pose a physical injury risk to animals",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub"
+    },
+    "roles": [
+      "Food (hips and petals — primary yield plant among ornamental roses)",
+      "Medicinal",
+      "Beauty",
+      "Nurse/Defensive Plant (thorny barrier)",
+      "Windbreak",
+      "Insect Attractor",
+      "Wildlife Support"
+    ],
+    "companionPlants": [
+      "Geranium 'Rozanne' or Nepeta at base to suppress weeds; Allium schoenoprasum (chives) as pest deterrent; can be underplanted with shade-tolerant ground covers on the shaded interior side"
+    ],
+    "antagonists": [
+      "Cedar-apple rust (Gymnosporangium) — Eastern red cedar (Juniperus virginiana) is the alternate host; rugosa roses are generally more resistant than hybrid teas but can be affected in proximity. Do not plant near fennel."
+    ],
+    "coppiceable": "Can be cut hard (to 12-18\") every 3-5 years to rejuvenate; remove oldest canes; responds vigorously"
+  },
+  "wildlife": {
+    "attracts": "Bees (excellent — heavy pollen and nectar from open flowers), birds (hips are consumed by over 40 species of birds including cedar waxwings, mockingbirds, robins), small mammals (hips eaten by foxes and deer)",
+    "hostPlantFor": "Various Lepidoptera use Rosa species; not a specific host for notable species",
+    "nestingHabitat": "Dense thorny thicket provides excellent protective nesting habitat; small birds nest within the canes"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good-excellent",
+      "description": "Good to excellent — the dense thorny canes are a genuine deterrent. While deer will browse young soft growth if sufficiently hungry, rugosa is one of the most deer-resistant roses available and far more reliable than hybrid teas or floribundas. Established plants rarely need protection; new plantings benefit from temporary fencing or caging until canes harden and thicken (usually by second year)."
+    },
+    "salt": {
+      "rating": "excellent",
+      "description": "Excellent — among the most salt-tolerant shrubs available; native to maritime coasts; handles road salt spray and saline soils well"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established"
+    },
+    "other": "Wind tolerant (used as coastal windbreak); tolerates poor and sandy soil; extremely cold hardy to Zone 2; generally disease resistant (blackspot resistance far superior to hybrid teas; some susceptibility to powdery mildew in humid conditions in Zone 6-8 during warm wet summers)"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low — one of the lowest-maintenance roses available",
+    "pruningNotes": "Minimal pruning needed. In spring, remove any winter-killed canes and deadwood. Deadheading is optional — leaving spent flowers produces the ornamental hips, so deadhead selectively. Remove suckers from the base if spread needs to be contained. Every 4-5 years, remove the oldest canes at the base to encourage fresh vigorous growth. Do not prune into old wood in summer — roses bloom on new wood from mature canes.",
+    "propagationMethods": [
+      "Suckers (easiest — dig and transplant rooted suckers in spring or fall)",
+      "hardwood cuttings (fall/winter)",
+      "seed (viable but slow)"
+    ]
+  },
+  "cultivarNotes": "The species form (deep magenta-pink single flowers) is outstanding for utility and wildlife value — open single flowers provide superior pollinator access and produce the largest hips. For northern gardeners (Zone 3-5), the species and 'Hansa' are the top performers, with bomb-proof cold hardiness and reliable bloom. **'Hansa'** (Zone 2-9): double magenta-crimson, very fragrant, large hips, vigorous to 5-6'; one of the best all-around performers across all zones. **'Frau Dagmar Hartopp'** / 'Fru Dagmar Hastrup' (Zone 2-8): single pale pink, large hips, compact 3-4'; one of the best for hip production and small gardens; excellent in Zone 5-7 where compactness is valued. **'Blanc Double de Coubert'** (Zone 3-9): double white, very fragrant, elegant; fits color palettes where magenta-pink is unwanted; fewer hips than single-flowered types. **'Roseraie de l'Hay'** (Zone 3-9): deep crimson-purple double, intensely fragrant; fewer hips but the best flower color for purple-themed designs. In Zone 8-9 (southern US), rugosa roses can struggle with heat and humidity — select 'Frau Dagmar Hartopp' or the species form, which handle heat better than the doubles.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Hedge",
+      "barrier planting",
+      "specimen shrub",
+      "bank stabilization",
+      "wildlife garden",
+      "fragrance garden"
+    ],
+    "designPlacement": "Best in full sun positions where its spreading habit can be accommodated — allow 5-6' minimum from paths and foundations. Excellent as an outer boundary hedge, property-line barrier, or anchor shrub at the ends of long beds. Pairs well with climbing roses on adjacent structures, lilacs, and other large shrubs. The thorny mass creates effective deer-exclusion barriers when planted as a continuous hedge. HEIGHT NOTE: Typically stays at or under 5-6' — manageable under a 5' height limit with annual pruning of tallest canes.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_rugosa",
+    "inaturalist": "https://www.inaturalist.org/taxa/83653-Rosa-rugosa",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286364"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania. Some naturalized populations exist along the eastern PA coast (Delaware River estuary) and scattered inland plantings.",
+      "paInvasiveStatus": "Not currently on Pennsylvania's noxious weed list or DCNR invasive plant list. Considered a low concern inland. Coastal gardeners in eastern PA near tidal habitats should be more cautious.",
+      "drainage": "At the Hegins site, the red clay is workable for rugosa rose without raised beds. Amend the planting hole generously (50/50 native clay and coarse compost) and mound the planting slightly above grade to prevent crown sitting in pooled water after heavy rain. Once established, the deep spreading root system handles the compacted subsoil well.",
+      "soil": "The Hegins red clay is within the acceptable range. No pH amendment needed (native clay typically runs 6.0-6.8). Work in coarse organic matter at planting to improve texture in the root zone; the plant will adapt to surrounding clay as roots spread.",
+      "cultivarNotes": "For the Hegins site's purple/pink/yellow palette, the deep purple-crimson 'Roseraie de l'Hay' or the white 'Blanc Double de Coubert' are better color matches than the bright magenta species form. 'Hansa' is the most bulletproof all-around choice if color flexibility allows.",
+      "designPlacement": "North-facing front bed (Section A) — outer anchor positions flanking the ends of the bed, or the kitchen garden strip (Section B) where its spreading habit and utility (edible hips, fragrance, wildlife) can be fully expressed without tight space constraints. Excellent companion for the climbing rose and Miss Kim lilac.",
+      "siteObservations": "Cedar-apple rust is a real concern in PA where Eastern red cedar (Juniperus virginiana) is common — rugosa roses are generally more resistant than hybrid teas but monitor if J. virginiana is present nearby. The deer corridor from the east is less of a concern for this plant than for most — the thorny habit provides genuine deterrence, making it one of the safer shrub choices for exposed positions. Road salt from the north border is not a concern at 50' distance, and rugosa would handle it regardless given its maritime salt tolerance."
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "solanum-lycopersicum",
+  "name": {
+    "commonName": [
+      "Tomato",
+      "Garden Tomato"
+    ],
+    "latinName": "Solanum lycopersicum",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Western South America — the Andes of Peru, Bolivia, and Ecuador; wild ancestor (Solanum pimpinellifolium) native to coastal Peru and northern Chile; domesticated in Mesoamerica (Mexico) and introduced to Europe in the 16th century; now the most widely cultivated vegetable crop on earth",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America; not naturalized; grown exclusively as an annual food crop across all regions of the lower 48 states; commercially produced in warm climates (California, Florida, southeastern states) and grown as a seasonal garden annual in all other regions"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — requires cultivation to survive; cannot overwinter in temperate climates and does not self-establish outside of tropical/subtropical zones"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Tender annual — grown as an annual in all USDA zones; perennial only in Zone 10+; treat as an annual planted after last frost in all temperate growing regions"
+    }
+  },
+  "description": {
+    "height": "Highly variable by type — determinate (bush) varieties: 2-4'; indeterminate (vining) varieties: 5-10' or more when staked; most garden-staked indeterminates run 5-7' in a single season",
+    "spread": "Determinate: 2-3'; indeterminate: 2-3' width but sprawling to 6'+ if unsupported; caged plants maintain a tighter footprint",
+    "spacing": "24-36\" for determinates; 36-48\" for indeterminates; closer spacing increases disease pressure by reducing airflow",
+    "growthRate": "Fast once established and weather warms — very slow or stalled in cool soil below 60°F; explosive growth in summer heat; fruit sets from early summer through frost in a warm season",
+    "timeToMaturity": "Depends heavily on variety — cherry tomatoes: 55-65 days from transplant; mid-season slicers: 70-80 days; large beefsteaks and some heirlooms: 80-95 days; 100+ day varieties are tight in Zone 6 without season extension; the typical Zone 6 window (May 1 transplant to mid-October frost) is approximately 160 days — ample for most varieties but not all long-season heirlooms",
+    "lifespan": "Tender annual — one season only; does not overwinter in temperate climates under any conditions; killed by the first hard frost; no perennial character north of Zone 10",
+    "deciduousEvergreen": "Annual — plant grows, fruits, and dies within a single season",
+    "winterInterest": "None — killed by frost; pull spent plants in fall and remove all debris from the bed to break the disease cycle"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — minimum 6-8 hours of direct sun per day; 8-10 hours is ideal; inadequate sun reduces fruit set dramatically, promotes vegetative growth at the expense of fruit, and increases disease susceptibility; tomatoes are one of the most light-demanding vegetables; do not site in a location with any significant shade during the summer growing season",
+    "water": "Consistent, even moisture is the single most critical cultural requirement for tomatoes — irregular watering is the leading cause of blossom end rot (calcium uptake failure triggered by moisture fluctuation) and fruit cracking (rapid water uptake after drought stress causes the fruit skin to split); aim for 1-2 inches of water per week, delivered consistently; deep, infrequent watering via drip irrigation or soaker hose is strongly preferred over frequent shallow overhead watering; water at soil level — wet foliage is a primary disease vector",
+    "drainagePreference": {
+      "description": "Well-drained soil is essential — tomatoes do not tolerate standing water or waterlogged conditions; roots need consistent oxygen; poor drainage leads to root suffocation and elevated disease pressure",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — heavy clay restricts root penetration, impedes drainage, and creates conditions favorable for root diseases; yield and plant health are significantly reduced in unammended clay soils"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8; slightly acidic preferred; soil pH below 6.0 reduces calcium availability and contributes to blossom end rot; above 7.0, micronutrient availability drops"
+    },
+    "texturePreference": "Rich, loose, well-amended, well-drained loam is ideal; high organic matter content improves water retention, nutrient availability, and soil biology; tomatoes are heavy feeders — incorporate compost generously at planting; raised beds filled with quality loam-compost mix are the ideal growing format",
+    "rootCharacter": "Extensive, fibrous root system that spreads laterally and deeply given loose soil; tomatoes form adventitious roots along any buried stem — plant deeply, burying the stem to just below the lowest leaves; every buried stem node produces roots, substantially expanding the plant's root mass and improving drought tolerance and nutrient uptake; in loose raised bed soil, roots can penetrate 2-3' deep"
+  },
+  "bloom": {
+    "bloomTime": "Early summer through frost — continuous bloom on indeterminate varieties all season; determinate varieties bloom heavily over a 2-3 week window and then largely stop",
+    "bloomDescription": "Small, nodding, yellow, star-shaped flowers with fused yellow petals forming a reflexed cone; borne in clusters (cymes) of 3-12 flowers; self-pollinating; the yellow flower color is uniform across nearly all varieties — no ornamental interest beyond functional significance to the gardener tracking fruit set",
+    "fragrance": "The foliage and stems have a distinctive, strong, slightly acrid green scent from glandular trichomes — characteristic and unmistakable; the flowers themselves are not fragrant",
+    "flowerSex": "Hermaphrodite — each flower contains both male and female parts; tomatoes are self-fertile and do not require a second plant or cross-pollination; however, vibration (from wind or buzz pollinators) significantly improves fruit set by shaking pollen onto the stigma",
+    "pollination": "Self-fertile; pollinated primarily by vibration — bumble bees (Bombus spp.) are the most effective pollinators due to buzz pollination (sonication): they grip the flower and vibrate their flight muscles at a frequency that releases pollen; honeybees are less effective; wind also contributes; in calm, enclosed conditions (high tunnels), fruit set can be poor without mechanical vibration; in open garden conditions, pollination is generally reliable"
+  },
+  "yield": {
+    "edibleParts": "The ripe fruit — botanically a berry — is the primary edible harvest; consumed fresh, cooked, roasted, dried, preserved, canned, and fermented; the single most economically important vegetable crop worldwide; fruit ranges from 1 oz (cherry types) to 2+ lbs (large beefsteak heirlooms); color ranges from classic red to orange, yellow, purple, black, and striped depending on cultivar; flavor ranges from mild and sweet (yellow types) to intensely complex and tart (many heirlooms)",
+    "harvestSeason": "Mid-summer through fall frost — cherry tomatoes typically begin 55-65 days after transplanting; slicers follow; large beefsteaks and heirlooms last; indeterminate varieties produce continuously all season and can yield 10-20 lbs per plant in a productive season; determinate varieties set all their fruit over a compressed 2-3 week window, making them ideal for canning and preserving; harvest fruit fully ripe on the vine for best flavor; green tomatoes at season end can be ripened on a countertop (never refrigerate — cold destroys flavor and texture) or used for fried green tomatoes, green salsa, and pickles",
+    "medicinalUses": "Rich in lycopene (a carotenoid antioxidant), vitamin C, potassium, and folate; lycopene content increases significantly when tomatoes are cooked and consumed with fat (olive oil); associated in research with reduced cardiovascular disease risk and prostate cancer prevention; not a traditional medicinal plant but one of the most nutrient-dense common vegetables",
+    "craftOtherYield": "Green tomatoes make excellent pickles and relishes; tomato seeds are viable for saving (heirloom varieties only — hybrids do not breed true); fermentation of seeds is the traditional cleaning method for seed-saving; dried tomatoes (paste/plum types) are a valuable pantry ingredient; tomato canning (sauce, crushed, whole, paste) is a major home preservation activity for determinate varieties"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "The leaves, stems, and unripe (green) fruit of tomatoes contain solanine and tomatine — glycoalkaloids that are toxic in quantity; the ripe fruit is entirely safe and is consumed globally in enormous quantities; the toxicity of the foliage and unripe fruit is real but requires large quantities to cause serious harm in adults; do not eat leaves or stems; do not consume large amounts of fully green unripe fruit; keep this caution in context — ripe tomatoes are among the safest and most eaten foods on earth; the toxicity is relevant primarily for young children who might eat green fruit off the vine and for livestock",
+    "toxicityAnimals": "The foliage and stems are toxic to dogs, cats, and other pets — solanine and tomatine can cause gastrointestinal distress, lethargy, weakness, and in large doses, more serious effects; do not allow pets to graze on tomato plants; ripe fruit is generally considered safe for dogs in small amounts; the primary concern is foliage and green fruit access; horses and other livestock should not have access to tomato plants",
+    "allelopathy": "Some allelopathic chemistry reported — tomato roots produce compounds that inhibit some neighboring plants; fennel (Foeniculum vulgare) is particularly inhibited by tomatoes (and vice versa); brassicas (cabbage, broccoli, etc.) are generally considered poor neighbors; the allelopathic effects are modest under normal garden conditions",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Herbaceous layer (tall annual herbaceous — indeterminates reach the lower shrub layer when staked)"
+    },
+    "roles": [
+      "Annual Vegetable (primary — one of the most productive and calorie-dense annual food plants for temperate gardens)",
+      "Pioneer Plant (grows fast, high biomass, builds organic matter after fruiting season)",
+      "Beneficial Insect Attractor (flowers attract pollinators and some beneficial insects)",
+      "Trichome Trap Crop (the sticky trichome-covered leaves trap small insects including aphids and whiteflies, providing some passive pest reduction)"
+    ],
+    "companionPlants": [
+      "Basil (Ocimum basilicum) — the classic tomato companion; traditionally believed to improve tomato flavor and repel aphids",
+      "thrips",
+      "and whiteflies; a reliable pairing with genuine pest deterrence evidence; plant basil at the base of tomato cages; Marigold (Tagetes patula, French marigold specifically) — releases thiophenes from its roots that actively suppress root-knot nematodes; plant as a border around the tomato bed or interplanted throughout; also deters whiteflies above ground; one of the most evidence-supported companion planting combinations in vegetable gardening; Carrot — compatible neighbor; said to loosen soil around tomato roots; does not compete significantly; Parsley — traditional companion; attracts beneficial insects; Borage (Borago officinalis) — traditional companion; attracts pollinators and is said to deter tomato hornworm; Asparagus — the classic reciprocal companion; plant tomatoes at the ends of asparagus rows"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare) — avoid anywhere near tomatoes; mutual inhibition; fennel is allelopathic to most vegetables and should be isolated from the kitchen garden entirely; Brassicas (cabbage, broccoli, kale, etc.) — poor companions; reported to inhibit tomato growth; keep out of the same bed; Corn — competes for the same nutrients; attracts corn earworm (Helicoverpa zea) which also attacks tomatoes; avoid adjacent planting; Potatoes — must not be planted adjacent to or in rotation sequence with tomatoes; they share all the same diseases (early blight, late blight, fusarium, verticillium) and interplanting facilitates cross-infection; fennel and potatoes are the two most important antagonists to honor in practice"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bumble bees (primary pollinators via buzz pollination — extremely valuable; encourage bumble bee habitat near the vegetable garden), other native bees; beneficial predatory wasps (Trichogramma spp.) are attracted to the garden in the presence of caterpillar pests; hummingbirds will occasionally visit but are not primary visitors",
+    "hostPlantFor": "Tomato hornworm (Manduca quinquemaculata) — the spectacular large green caterpillar with white diagonal stripes and a red horn; can defoliate a plant rapidly; hand-pick when found; if white cocoon-like structures (parasitic wasp pupae — Cotesia congregatus) are visible on the hornworm's back, leave it in place — the parasitic wasps are emerging and will be far more valuable as pest control than the hornworm damage; Colorado potato beetle (Leptinotarsa decemlineata) — occasionally attacks tomatoes but primarily a potato pest; tobacco mosaic virus and other viruses use aphids as vectors; Solanaceae family is host to many shared pests across the family",
+    "nestingHabitat": "None significant; the annual nature of the plant means no long-term nesting value"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "very-poor",
+      "description": "Very poor — tomatoes are highly attractive to deer; the fruits are obvious targets and the foliage, while containing solanine, is not sufficient to deter deer browsing; expect complete destruction of an unprotected tomato planting in areas with active deer pressure; physical fencing (6' minimum) is the only reliable solution for vegetable beds; row cover and deterrent sprays do not reliably stop motivated deer from a productive crop"
+    },
+    "salt": {
+      "rating": "poor",
+      "description": "Poor — tomatoes are sensitive to sodium chloride; road salt or excessive soil salinity will damage roots and reduce yield; avoid siting near heavily salted surfaces; raised beds with controlled soil inputs provide some isolation from soil salt accumulation"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate — inconsistent moisture causes immediate problems (blossom end rot, cracking, blossom drop); deep watering and mulching mitigate drought stress; drip irrigation is the gold standard for tomato water management; do not allow to wilt repeatedly"
+    },
+    "other": "Cold-sensitive — tomatoes suffer chilling injury at temperatures below 50°F (growth halts, cold damage can cause poor fruit set); killed by any frost; do not transplant until soil temperature is consistently above 60°F and nights are reliably above 50°F; late planting into warm soil outperforms early planting into cold soil; black plastic mulch or row cover can extend the effective season by a few weeks at each end"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium to high — tomatoes are the most labor-intensive common garden vegetable; they reward attention with extraordinary yield but are not a low-input crop; key tasks include: transplanting, caging or staking, regular watering management, pruning (indeterminates), disease monitoring, pest scouting, and end-of-season cleanup; the labor investment is front-loaded in early summer and reduces somewhat as the season progresses",
+    "pruningNotes": "Pruning strategy depends entirely on plant type. INDETERMINATE VARIETIES: benefit significantly from training to 1 or 2 main leaders; suckers (vigorous lateral shoots that emerge from the V-shaped junction between the main stem and a leaf branch) grow rapidly and, if left unpruned, produce a sprawling, unmanageable plant with poor airflow and reduced yield from the primary leaders; remove suckers by pinching with fingers or cutting when small (under 2\"); allow 1-2 suckers low on the plant to become secondary leaders if growing a 2-leader system; leave all true leaves on the plant (leaves photosynthesize and feed the fruit); some gardeners remove lower leaves that touch the soil to reduce disease splash; do not remove all leaves — defoliated plants produce poor fruit; at season end, \"top\" the plant (cut the growing tip) 4-6 weeks before first frost to direct energy into ripening existing fruit rather than setting new flowers. DETERMINATE VARIETIES: minimal pruning needed or recommended; determinates set a fixed number of flower clusters and stop growing; excessive pruning directly reduces yield; remove only dead or diseased leaves and branches; do not remove suckers aggressively on determinates. MULCHING: apply 3-4\" of straw, wood chip, or shredded leaf mulch around plants after transplanting; mulch performs three critical functions — moisture retention (reduces watering frequency and smooths the moisture fluctuation that causes cracking and blossom end rot), soil temperature moderation, and prevention of soil splash onto lower leaves (soil splash is the primary transmission route for early blight, septoria leaf spot, and other soilborne fungal diseases); this is one of the highest-impact, lowest-effort practices in tomato cultivation.",
+    "propagationMethods": [
+      "Seed started indoors (primary method — start seeds 6-8 weeks before last frost date; sow in small cells or 3\" pots, 1/4\" deep, in a warm location [70-80°F soil temperature for germination]; use bottom heat if available; seedlings emerge in 5-10 days; transplant to larger pots when first true leaves appear; harden off outdoors for 1-2 weeks before transplanting after last frost); Purchased transplants (widely available at garden centers in spring — the practical choice for most home gardeners; transplanting deeply [burying to lowest leaves] is the key technique regardless of source); Cuttings (tomatoes root readily from stem cuttings — pruned suckers can be rooted in water or moist media in 1-2 weeks; useful for extending the season with rooted cuttings overwintered indoors or for propagating a valued plant)"
+    ]
+  },
+  "cultivarNotes": "The cultivar landscape for tomatoes is vast — thousands of named varieties exist. The following selection is organized by zone band and use case, emphasizing reliability, flavor, and fit for raised bed growing.\n**HEIRLOOM VARIETIES — Superior Flavor**\n**'Brandywine' (Pink)** — The benchmark heirloom beefsteak; large (1-2 lb) pink fruits with extraordinarily complex, rich, sweet-acid flavor that defines the heirloom tomato experience; indeterminate; 80-90 days; requires staking; somewhat disease-susceptible but worth the effort for fresh eating; the Amish landrace potato-leaf type is the original and most prized form; best in Zone 5-7 where long warm summers allow full development without the heat stress that Zone 8+ can bring; expect inconsistent production compared to hybrids — the flavor is the payoff.\n**'Cherokee Purple'** — Dusky rose-purple fruits with complex, smoky, sweet flavor; indeterminate; 80-90 days; one of the best-flavored heirlooms and more reliably productive than Brandywine; distinctive purple-green shoulders on the fruit; reliable across Zone 5-8; a strong recommendation wherever flavor is the primary goal.\n**'San Marzano'** — The classic Italian paste/Roma tomato; elongated, meaty, low-moisture, low-seed flesh ideal for sauce, canning, and drying; rich, sweet-savory flavor far superior to supermarket paste tomatoes; indeterminate (the true San Marzano is indeterminate — beware determinate imposters labeled \"San Marzano type\"); 80 days; thrives in Zone 5-8; the home garden standard for sauce production.\n**'Mortgage Lifter'** — Large pink beefsteak (up to 2+ lbs); developed in West Virginia in the 1930s; mild, sweet, exceptionally meaty flesh; indeterminate; 80 days; good production for an heirloom beefsteak; one of the most reliable large heirlooms across Zone 5-7.\n**HYBRID VARIETIES — Disease Resistance and Consistency**\n**'Celebrity'** (VFFNTASt) — The most widely recommended disease-resistant hybrid for home gardens; medium-large fruits (8-10 oz) with good flavor for a hybrid; determinate; 70-75 days; the disease resistance package (Verticillium, Fusarium races 1&2, Nematodes, Tobacco mosaic virus, Alternaria stem canker) is the most comprehensive available in a determinate; reliable across Zone 4-9; excellent for canning due to determinate set.\n**'Big Beef'** (VFFNTASt) — Indeterminate; large fruits (12-16 oz); 73 days; awarded All-America Selections; excellent disease resistance and significantly better flavor than most hybrids; a strong choice across Zone 5-8 if you want a large slicer with disease tolerance; available at most garden centers.\n**'Sungold'** — The gold standard cherry tomato; indeterminate; 57 days; intensely sweet, complex, tropical-fruity flavor in a small orange cherry; the first to ripen and produces prolifically until frost; crack-resistant; virtually no disease issues; performs exceptionally well in Zone 5-8; if only one tomato variety is grown, Sungold is the strongest all-around recommendation for pure enjoyment — reliable, early, prolific, and flavor that rivals any heirloom.\n**'Juliet'** — Indeterminate grape tomato (small plum-shaped); 60 days; crack-resistant; extremely prolific; rich flavor; excellent for fresh eating and roasting; AAS winner; a set-and-forget producer across Zone 5-9.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated raised vegetable bed (strongly preferred); the primary summer annual food crop for most home gardens; not suited to ornamental beds or food forest understory; requires full sun",
+      "consistent water access",
+      "and vertical support"
+    ],
+    "designPlacement": "Site in the raised vegetable beds — not a food forest plant, not a border plant, and not suited to ornamental sections; plan crop rotation carefully: do not plant tomatoes in the same bed more than once every 3-4 years; rotate with unrelated crops (legumes, root vegetables, brassicas are safe predecessors and successors); do not follow or precede with potatoes, peppers, or eggplant (all Solanaceae share diseases); the rotation interval is critical for preventing soilborne pathogen buildup; install staking or caging infrastructure at transplant time to avoid root damage later — tall indeterminates need 5-6' stakes or heavy-duty cages (the lightweight conical wire cages sold at most garden centers are insufficient for indeterminate varieties; use 5' welded wire cylinder cages or Florida weave stakes)",
+    "acquisitionStatus": "Annual — must be sourced each year from seed or purchased transplants; no permanent acquisition needed"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomato",
+    "inaturalist": "https://www.inaturalist.org/taxa/51737-Solanum-lycopersicum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a104"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or North America",
+      "paInvasiveStatus": "Not invasive; no naturalized populations in Pennsylvania",
+      "drainage": "At Hegins, raised vegetable beds eliminate the red clay drainage constraint entirely; growing tomatoes in the raised beds is the correct and practical solution; no clay management needed within the bed footprint",
+      "soil": "The Hegins red clay is not suitable for direct in-ground tomato growing; use the raised vegetable beds, filled with quality compost-loam mix; amend beds annually with 2-3\" of compost worked into the top layer before planting; test and lime if pH drops below 6.0 — adequate calcium in the soil is the first line of defense against blossom end rot",
+      "cultivarNotes": "For a typical 4-bed raised vegetable setup at this site, consider: 1-2 'Sungold' (cherry, reliable season-long harvest within the ~160-day frost-free window), 1 'Celebrity' (determinate slicer — plan for canning at the July-August peak), 1 'Cherokee Purple' or 'Brandywine' (heirloom flavor experience — both complete reliably within 90 days), and 1 'San Marzano' (sauce production). This covers all use cases — fresh eating, canning, and flavor exploration — while managing disease risk through variety diversity and crop rotation. Avoid varieties over 95 days unless using season extension.",
+      "designPlacement": "Raised vegetable beds are the correct home for tomatoes at this property — not Section A, B, or C. Deer fencing around the raised bed area must be installed before any significant investment in tomato plantings; no deterrent other than physical exclusion (6' minimum fence) is reliable against the active east-corridor deer pressure. Rotate tomatoes between raised beds on at minimum a 2-year cycle; with 2 beds, supplement with annual compost amendment and deep mulching to slow pathogen accumulation. A drip irrigation or soaker hose system is the highest-ROI infrastructure investment for tomatoes at this site — it solves watering consistency, reduces disease pressure from wet foliage, and saves labor simultaneously.",
+      "siteObservations": "Zone 6a Hegins is good tomato country — the long warm season (May 1 through ~Oct 10, approximately 160 frost-free days) supports full-season production of nearly all varieties under 90 days. The raised beds provide excellent drainage and controllable soil quality, removing the red clay constraint. Primary site challenges: (1) DEER — the single biggest threat; physical perimeter fencing around the vegetable beds is non-negotiable before committing significant effort to tomato growing; (2) DISEASE — the humid continental climate at Hegins creates conditions favorable for early blight, late blight, and septoria leaf spot; mitigate with mulching (prevents soil splash — the primary transmission route for soilborne fungal pathogens), good plant spacing for airflow, watering at soil level only, and selecting disease-resistant varieties or resilient heirlooms; remove and dispose of (do not compost) any diseased leaves promptly; (3) BLOSSOM END ROT — common in raised beds where watering can be inconsistent early in the season; prevent with consistent watering, adequate calcium in the bed soil (lime if pH below 6.2), and mulching; calcium foliar sprays treat the symptom — fix watering consistency first."
+    }
+  }
+}

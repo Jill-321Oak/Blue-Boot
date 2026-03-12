@@ -1,0 +1,167 @@
+{
+  "id": "capsicum-annuum",
+  "name": {
+    "commonName": [
+      "Pepper",
+      "Chili Pepper",
+      "Sweet Pepper",
+      "Hot Pepper",
+      "Bell Pepper"
+    ],
+    "latinName": "Capsicum annuum",
+    "family": "Solanaceae"
+  },
+  "range": {
+    "nativeRange": "Southern North America and northern South America — native from Guatemala and Mexico southward; the most widely cultivated of the five domesticated Capsicum species, with centuries of selection producing an extraordinary diversity of fruit shapes, sizes, colors, and heat levels",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from Mesoamerica and widely cultivated; fully naturalized in cultivation across all 50 states but does not self-sustain in temperate climates"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — a tender annual that does not naturalize in temperate climates; sets no persistent seed bank in frost-affected regions; no invasive concern anywhere in the lower 48 states"
+    },
+    "zone": {
+      "min": 9,
+      "max": 11,
+      "description": "Perennial in Zones 9-11; grown as a tender annual throughout Zones 3-8; peppers are genuinely tropical plants and all temperate cultivation treats them as annuals (or overwintered houseplants — see Maintenance)"
+    }
+  },
+  "description": {
+    "height": "1-4' depending on type; compact sweet bell types typically 18-24\"; hot pepper types (jalapeño, cayenne) often reach 2-3'; large-fruited specialty types can approach 4'; ornamental types often under 18\"",
+    "spread": "1-2' at maturity; compact, upright to slightly bushy habit; well-branched when young plants are pinched",
+    "spacing": "18\" between plants; rows 18-24\" apart; in raised beds, 18\" spacing in all directions works well",
+    "growthRate": "Moderate once established and warm — slow to establish in cool soil, then accelerates rapidly once night temperatures are consistently above 55°F and soil temperatures are above 60°F; cold soil stunts pepper development in ways that are not recoverable mid-season, making warm-soil transplanting more critical for peppers than for tomatoes",
+    "timeToMaturity": "Days-to-maturity figures are measured from transplant: sweet bell peppers 70-90 days to green (immature) harvest, 90-120 days to fully ripe colored fruit; jalapeños 70-85 days; cayenne and serrano 70-85 days; habanero-type and extra-hot varieties 100-120+ days to ripe color, which makes them marginal in shorter-season zones; first ripe peppers in Zone 6a typically appear in August for reliable varieties, September for long-season types",
+    "lifespan": "Annual in Zones 3-8 (killed by first hard frost); perennial in tropical climates (Zones 9-11); can be overwintered indoors as a houseplant and returned to the garden the following year — overwintered plants break dormancy earlier and produce fruit significantly ahead of seed-started transplants (see Maintenance)",
+    "deciduousEvergreen": "Not applicable — grown as an annual in the lower 48 (except Zones 9-11); the plant is frost-tender and killed to the ground by temperatures below 32°F; light frosts damage but do not always kill the plant immediately; a hard freeze (28°F or below) ends the season",
+    "winterInterest": "None in outdoor cultivation in temperate zones; overwintered plants kept indoors are evergreen houseplants in winter; in Zones 9-11 the plant persists and fruits year-round"
+  },
+  "lightAndWater": {
+    "sun": "Full sun essential — 6-8 hours minimum; peppers are among the most heat-demanding of common vegetables and perform best in the hottest, sunniest position available; insufficient sun reduces both fruit set and fruit ripening speed, which is particularly consequential in shorter-season zones; south-facing raised beds are ideal in all regions",
+    "water": "Medium; consistent, even moisture is critical throughout the season — irregular watering (wet/dry cycles) is a primary cause of blossom drop and reduced fruit set; do not let peppers wilt between waterings; keep soil evenly moist but not waterlogged; drip irrigation or consistent hand-watering is preferable to infrequent deep soaks; water stress during flowering is particularly damaging; mature plants can tolerate brief dry spells better than young transplants",
+    "drainagePreference": {
+      "description": "Well-drained — peppers are intolerant of waterlogged soil; standing water causes root rot and stem rot rapidly; raised beds are strongly preferred on clay or poorly drained sites throughout the lower 48",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — clay soils stay cold longer in spring (delaying the effective season), compact around the shallow root system, and drain poorly after rain; raised beds filled with a quality loam-compost mix are the standard solution on clay; in-ground planting on clay requires substantial amendment and is still second-best; peppers are less forgiving of clay than tomatoes"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 6.8,
+      "description": "6.0-6.8; slightly acidic preferred; avoid highly alkaline soils"
+    },
+    "texturePreference": "Moist, organically rich, fertile, well-drained loam is ideal; peppers are not as forgiving of poor soil as tomatoes and perform best in deeply amended, high-organic-matter beds",
+    "rootCharacter": "Relatively shallow, fibrous root system; roots do not penetrate deeply or as aggressively as tomato roots; this makes peppers more dependent on consistent surface-zone moisture and more sensitive to surface soil conditions; do not cultivate deeply around established plants — shallow, careful cultivation only"
+  },
+  "bloom": {
+    "bloomTime": "Continuous from establishment through frost; flowers set fruit sequentially throughout the season; the first flush of bloom typically occurs 4-6 weeks after transplant",
+    "bloomDescription": "Small, nodding, 5-petaled flowers; white to pale yellow, sometimes with purple tinting; individually modest and not ornamental by typical garden standards; flowers appear at each stem fork as the plant branches; under good conditions, a mature plant carries dozens of flowers and fruits at various stages simultaneously; the ornamental pepper varieties (Black Pearl, Purple Flash) have been selected for striking dark foliage and decorative small fruits rather than culinary use",
+    "fragrance": "None significant",
+    "flowerSex": "Hermaphrodite — each flower contains both stamens and pistil; plants are self-fertile",
+    "pollination": "Self-fertile; each flower can set fruit without cross-pollination; bees and other pollinators improve fruit set by vibrating the anthers (buzz pollination), which releases pollen more effectively; in low-pollinator conditions, gently shaking the plant or tapping individual flowers can improve fruit set; peppers readily cross-pollinate with other Capsicum plants nearby, which matters only if saving seed"
+  },
+  "yield": {
+    "edibleParts": "FRUIT — the pepper fruit in all its forms is the primary edible crop; fruit may be harvested green (immature) or allowed to ripen to full color (red, orange, yellow, chocolate, or purple depending on cultivar); green peppers are crisp and somewhat bitter; fully ripe colored peppers are sweeter, more nutritious (higher vitamin C and capsaicin), and better flavored but require additional weeks on the plant; harvesting frequently encourages the plant to set more fruit — a plant loaded with mature fruit stops producing new flowers; keeping the plant harvested is the key to maximizing total yield. Young leaves are edible and used in some Asian cuisines, though leaf harvesting weakens the plant.",
+    "harvestSeason": "Varies by zone and variety; green harvest begins 70-85 days after transplant for most varieties; ripe colored harvest requires an additional 2-4 weeks beyond that; season ends with the first hard frost; pick sweet peppers green throughout summer for fresh eating and leave some to ripen for sweeter flavor; harvest hot peppers at whatever stage and color you prefer; harvest with scissors or a sharp knife rather than pulling to avoid damaging the brittle stems",
+    "medicinalUses": "Capsaicin (the heat compound in hot peppers) has well-documented topical analgesic properties — capsaicin creams and patches are widely used for joint pain, neuropathy, and post-herpetic neuralgia; internally, capsaicin stimulates circulation and has antioxidant properties; sweet peppers are one of the highest dietary sources of Vitamin C (a large red bell pepper contains more Vitamin C than an orange); peppers also provide Vitamins A, B6, K1, and folate; traditional herbalism uses cayenne as a circulatory stimulant and digestive aid",
+    "craftOtherYield": "Dried hot peppers (cayenne, pequin, ancho) make excellent homemade spice; peppers dry well on a string hung in a warm, ventilated space; paprika is made from dried and ground red Capsicum annuum; ristras (decorative pepper strings) are a traditional craft; ornamental pepper varieties have legitimate landscape value as container and bedding plants"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "HANDLE HOT PEPPERS WITH CARE — capsaicin (the heat compound concentrated in the placenta, the white internal membrane, and to a lesser extent the seeds) is a potent irritant; when cutting hot peppers, wear disposable gloves or wash hands thoroughly with soap immediately after handling and before touching your face or eyes; capsaicin is oil-soluble and is not removed by plain water alone — use soap; capsaicin in the eyes causes intense pain and temporary vision disturbance; this is a practical and recurring hazard, not a theoretical one. SOLANINE — the leaves and stems of pepper plants (like all Solanaceae) contain solanine and other alkaloids and are not edible; do not consume any part of the plant other than the fruit; green (unripe) peppers contain trace solanine but at levels considered safe in normal culinary use",
+    "toxicityAnimals": "Pepper leaves and stems are toxic to dogs and cats (solanine); the fruits themselves are intensely irritating to pets due to capsaicin, though capsaicin is not acutely poisonous; dogs and cats generally avoid hot peppers by smell; keep pets away from pepper plants; capsaicin-containing products are actually used as deer and rodent repellents in some contexts, which reflects that most mammals (other than birds, which lack capsaicin receptors) find the chemical aversive",
+    "allelopathy": "None significant",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual vegetable layer); suitable for the annual bed or interplanted into the vegetable zone of a food forest edge"
+    },
+    "roles": [
+      "Annual Food Crop (primary)",
+      "Beneficial Insect Attractor (flowers support small bees and predatory insects)",
+      "Medicinal Crop (capsaicin)",
+      "Warm-Season Bed Anchor (peppers are among the highest-value annual vegetables per square foot in a productive kitchen garden)"
+    ],
+    "companionPlants": [
+      "Basil (classic and productive companion — basil thrives in the same hot, sunny, well-drained conditions; may deter aphids; the flavors pair in the kitchen as naturally as they grow together)",
+      "Carrots (complement without competing, improve soil texture)",
+      "Tomatoes (share the same cultural requirements — full sun, warm soil, consistent moisture, similar spacing; good bed companions; note that they are in the same family so rotate together)",
+      "Marigolds (Tagetes — strong companion for pest deterrence; nematode suppression in the root zone; plant at bed edges)",
+      "Parsley",
+      "Eggplant (same family, same culture; plant together and rotate together)"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare) — allelopathic to most vegetables including peppers; never plant fennel near peppers; Brassicas (cabbage, broccoli, kale) — compete and interfere; Alliums can be grown nearby without harm but are not a strong positive pairing; avoid planting peppers where peppers",
+      "tomatoes",
+      "eggplants",
+      "or potatoes grew the previous season — all are Solanaceae and share soil-borne diseases (bacterial spot, fusarium, verticillium wilt) that persist in the soil"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and small beneficial insects visit the flowers; birds eat ripe pepper fruits (birds lack capsaicin receptors and are the primary natural seed-dispersers for wild Capsicum; the fruits' bright red color at maturity is an evolutionary signal to birds specifically); mockingbirds, robins, and other fruit-eating birds may harvest ripe peppers in late summer",
+    "hostPlantFor": "Not a significant host plant for native Lepidoptera (South American origin; not integrated into eastern North American insect food webs); aphids use peppers as a host and are the primary vector for pepper mosaic virus — monitor carefully",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Poor — pepper plants are browsed by deer, particularly the succulent young transplants; deer pressure is a real risk during the establishment phase when transplants are small and tender; mature plants with heavy fruit set are more likely to be left alone but are not reliably deer-resistant; protect transplants with row cover or temporary fencing in the first weeks after planting; the capsaicin content of hot pepper varieties does not reliably deter deer"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not suited to roadside or salt-contaminated conditions"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — peppers require consistent moisture for best performance; drought causes blossom drop, fruit deformation, and bitter off-flavors; more drought-sensitive than tomatoes; do not allow plants to wilt; mulching with black plastic or organic mulch retains soil moisture and is strongly recommended across all growing zones"
+    },
+    "other": "COLD INTOLERANCE IS THE PRIMARY LIMITING FACTOR IN ZONES 3-8 — peppers are highly sensitive to both cold air and cold soil temperatures; transplanting into cold soil (below 60°F) causes a check in growth that stunts the plant for the entire season; even if plants survive, cold-stunted peppers never fully recover their vigor; this is not recoverable by subsequent warm weather; a 10-day delay in transplanting to ensure warm soil is worth more than a 10-day head start in cold soil; night temperatures consistently below 55°F cause blossom drop; neither fruit set nor fruit ripening occurs below 55°F nights; the minimum soil temperature for active root growth is 60°F"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Medium — more demanding than tomatoes in terms of timing sensitivity (especially around transplanting into warm soil) but not inherently labor-intensive once established; consistent watering is the main ongoing task; plants benefit from side-dressing with a balanced fertilizer at mid-season; pinching young transplants once to encourage branching pays dividends in total fruit production",
+    "pruningNotes": "Pinch the growing tip once after transplant (when the plant has 4-6 sets of true leaves) to encourage branching and a bushier, more productive habit — this is optional but worthwhile. Remove the first flower bud that appears (the \"crown set\") before the plant is fully established — this directs energy into vegetative growth and results in heavier fruit set later. Remove any pepper fruits that form in cool late spring before the plant is established; early fruit set on cold or stressed plants reduces overall yield. At season's end, before the first frost, strip all remaining green peppers from the plant — they will ripen indoors at room temperature for several weeks. OVERWINTERING: Peppers are perennial in the tropics and can be overwintered indoors in Zones 3-8 as a houseplant. Before first frost, dig the entire plant with as much root ball as possible; cut the plant back by 50-60%, removing most of the top growth and all remaining fruit; pot it in a well-draining mix; bring it inside to a sunny south-facing window or under grow lights; water sparingly through winter (the plant is semi-dormant); resume regular watering in late winter as days lengthen; move back outside after all frost risk has passed. Overwintered plants have an established root system and begin producing fruit 4-6 weeks earlier than seed-started transplants — a meaningful advantage in shorter-season zones, particularly for long-season hot pepper varieties. A single overwintered jalapeño, cayenne, or habanero plant is worth maintaining.",
+    "propagationMethods": [
+      "Seed started indoors (standard and strongly recommended for Zones 3-7): start 8-10 weeks before last frost date for your location; peppers are slower to germinate and develop than tomatoes and require the longer indoor lead time; sow seeds 1/4\" deep in seed-starting mix; germination requires soil temperature of 75-85°F — use a heat mat; germination takes 10-21 days (faster with consistent heat); grow under bright light (grow lights are ideal; a south window is marginal); harden off thoroughly over 7-10 days before transplanting; do NOT transplant until soil temperature is consistently 65°F+. Purchased transplants from a garden center are a valid alternative",
+      "though variety selection will be limited compared to seed-grown. Division is not applicable. Overwintering (see Pruning Notes) is an excellent alternative to seed-starting for established favorite varieties."
+    ]
+  },
+  "cultivarNotes": "Capsicum annuum is by far the most diverse and widely cultivated of the five domesticated pepper species, encompassing both sweet and hot types across an enormous range of fruit sizes, shapes, colors, and Scoville heat levels. The related species **C. chinense** (habanero, ghost pepper, scorpion pepper) and **C. frutescens** (tabasco pepper) are separate species with the same basic cultural requirements but are noted for extreme heat levels; they also require even longer seasons and are marginal to risky in Zones 5-6a.\n**ZONE BAND GUIDANCE — selecting cultivars by season length:**\n- **Zones 8-11 (long season, 200+ frost-free days):** All Capsicum annuum types thrive; C. chinense and C. frutescens types are fully reliable; superhot varieties including ghost pepper, scorpion pepper, and Carolina Reaper are viable; multi-year perennial growth possible in Zone 9+.\n- **Zones 7-8 (medium-long season, 170-200 frost-free days):** Full range of C. annuum reliable; habanero and most C. chinense types are productive; long-season sweet bells ripen reliably to full color; excellent pepper-growing territory.\n- **Zones 6-6b (medium season, 140-170 frost-free days):** Jalapeños, banana peppers, cubanelles, serranos, and cayenne are safe high-confidence choices; short-season sweet bell varieties ('King of the North', 'Ace', 'Carmen') ripen reliably; standard bell peppers and long-season types are possible but not guaranteed; habanero (C. chinense) is marginal and best attempted only with an overwintered plant or very early transplant date with black plastic mulch.\n- **Zones 4-5 (short season, 100-140 frost-free days):** Stick to the fastest-maturing varieties (65-75 days); banana pepper, jalapeño, cubanelle, and Hungarian wax are the reliable choices; bell peppers are difficult to ripen to full color — harvest green; superhots are not viable without extraordinary measures; every week of indoor seed-starting lead time matters.\n-",
+  "gardenUse": {
+    "suggestedUse": [
+      "Annual vegetable bed (primary)",
+      "raised bed kitchen garden",
+      "container growing (compact varieties work well in large pots)",
+      "food forest annual understory layer during the establishment years before canopy closes"
+    ],
+    "designPlacement": "Peppers belong in the annual vegetable raised beds — they are not permanent plantings and should be incorporated into the vegetable crop rotation. Raised beds are strongly preferred across most of the lower 48: they solve drainage problems on clay or compacted soils, warm faster in spring (critical for cool-zone gardeners), and allow for the rich, well-amended soil peppers need. Rotate peppers out of any bed where peppers, tomatoes, eggplant, or potatoes grew the previous season — all share Solanaceous diseases. In all regions, the sunniest, most heat-retentive south-facing location available is the correct placement. Use black plastic mulch across the entire bed in Zones 5-6b. Install drip irrigation under the plastic before planting.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations:\nZone 6a Hegins is workable for peppers with correct technique — the season is tight but adequate for jalapeños, banana peppers, cubanelles, serranos, and cayenne; bell peppers and Carmen are doable with short-season varieties; habanero is marginal and best attempted only with an overwintered plant. The red clay soil is the primary challenge and is completely solved by raised beds — do not attempt in-ground pepper growing on this site. Start seeds indoors in late February — do not miss this window; late-started pepper transplants do not catch up in a Zone 6a season. Do not transplant until soil temperature hits 65°F — in practice, mid-to-late May at this location. The east corridor deer pressure means protecting transplants immediately after planting is essential; small wire cages or temporary row cover over transplants for the first few weeks is sufficient. Black plastic mulch is strongly recommended — it is transformative for pepper production in this zone. Consider overwintering one or two favorite hot pepper plants indoors each winter for earlier production the following season; a mature overwintered jalapeño or cayenne plant is one of the most satisfying things a Zone 6a vegetable gardener can pull off."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Capsicum_annuum",
+    "inaturalist": "https://www.inaturalist.org/taxa/48514-Capsicum-annuum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287148&isprofile=1&basic=Capsicum+annuum"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to Pennsylvania or eastern North America; grown as a warm-season annual",
+      "paInvasiveStatus": "Not listed as invasive by the Pennsylvania Department of Agriculture or the PA Invasive Species Council",
+      "drainage": "Red clay soil at Hegins drains poorly and warms slowly in spring — both conditions are directly harmful to peppers; raised beds are not optional on this site, they are the correct solution; the clay problem is completely solved by raised beds and should not be a limiting factor if beds are available",
+      "soil": "Red clay at Hegins is the antithesis of ideal pepper soil — cold, compacted, and poorly draining; raised beds filled with quality loam-compost mix are the required solution; do not attempt in-ground pepper growing on this site without major amendment and bed raising",
+      "cultivarNotes": "Jalapeños, banana peppers, cubanelles, serranos, and cayenne are fully reliable; 'King of the North', 'Ace', and 'Carmen' are the correct bell pepper choices; habanero is marginal and best done only with an overwintered plant; start seeds indoors in LATE FEBRUARY (8-10 weeks before ~May 1 last frost); do not transplant until mid-to-late May when soil hits 65°F; black plastic mulch is transformative and strongly recommended (see below).\n**THE SCOVILLE SCALE** measures capsaicin concentration and heat in Scoville Heat Units (SHU): Bell peppers = 0 SHU; Banana pepper = 100-500 SHU; Jalapeño = 2,500-8,000 SHU; Serrano = 10,000-25,000 SHU; Cayenne = 30,000-50,000 SHU; Hungarian wax = 5,000-10,000 SHU; Habanero (C. chinense) = 100,000-350,000 SHU; Ghost pepper (C. chinense) = 800,000-1,000,000+ SHU. Capsaicin is concentrated in the placenta (white internal membrane); removing the membrane significantly reduces heat. The seeds carry heat only because of contact with the membrane.\n**SWEET TYPES — reliable and productive in Zones 6a and warmer:**\n**Bell peppers** — The workhorse sweet pepper; large blocky fruits; harvest green at 70-75 days or allow to ripen to red/orange/yellow (additional 2-3 weeks); 'California Wonder' is the classic open-pollinated standard; 'King of the North' and 'Ace' are specifically bred for short-season gardens and are the best bell pepper choices for Zones 5-6a (earlier than standard bells, more reliable color-ripening before frost); 'Chocolate Beauty' ripens to rich brown and is excellent fresh.\n**Banana pepper** — Long, tapered, mild fruits; harvest yellow-green for sweet fresh eating or pickling; 'Sweet Banana' is widely available and dependable; 65-70 days; highly productive; one of the most reliable sweet peppers for short-season zones.\n**Cubanelle (Italian frying pepper)** — Long, tapered, thin-walled; 65-70 days; sweet and mild; excellent for sautéing and frying; 'Cubanelle' or 'Italian Frying' types are widely available; reliable in Zones 5 and warmer.\n**Carmen** — An All-America Selections winner; tapered Italian-style sweet pepper; ripens to deep red; excellent flavor fresh and roasted; 70 days to ripe color — one of the fastest-ripening red sweet peppers; strongly recommended for Zones 5-6a.\n**HOT TYPES — reliable and productive in Zones 6a and warmer:**\n**Jalapeño** — The standard reliable hot pepper across most of the lower 48; 70-80 days; 2,500-8,000 SHU; harvest green (crisp, classic) or leave to ripen red (sweeter, hotter, and what smoked chipotles are made from); enormously productive; 'Ixtapa' and 'Early Jalapeño' are short-season selections; 'Jalafuego' is vigorous and highly productive; any jalapeño variety will perform reliably in Zone 6a and warmer; the single best all-around hot pepper for short-season gardens.\n**Hungarian wax** — Long, yellow, medium-hot (5,000-10,000 SHU); 65-70 days; excellent for pickling and fresh eating; often confused with banana pepper at the store — wax peppers are hotter; very productive and reliable in Zone 5 and warmer; 'Hungarian Yellow Wax Hot' widely available.\n**Serrano** — Smaller and hotter than jalapeño (10,000-25,000 SHU); 70-80 days; a reliable hot pepper in Zone 6a and warmer; used fresh and in salsa; more heat per pepper than jalapeño with less work; 'Serrano Tampiqueno' is widely available.\n**Cayenne** — 70-80 days; 30,000-50,000 SHU; harvest red; excellent for drying and making cayenne powder or hot sauce; 'Long Slim Cayenne' is the standard; highly productive; dries easily on a string; reliable in Zone 6a and warmer.\n**ZONE 6A CAUTION — LONG-SEASON VARIETIES:** Habanero (C. chinense, 100+ days to ripe color) is marginal in Zone 6a — it can be done with a very early transplant date and black plastic mulch to warm soil, but ripe fruit may not materialize before frost in a cool summer; overwintering an established habanero plant dramatically improves the odds. Ghost pepper and other superhot C. chinense types are not reliably productive in Zone 6a without extraordinary measures. Jalapeños, serranos, banana peppers, and cubanelles are the safe, high-confidence choices.\n**USE BLACK PLASTIC MULCH:** This is the single most impactful cultural practice for peppers in Zones 5-6b beyond proper transplant timing. Black plastic laid over the raised bed before transplanting warms soil temperature 8-10°F above ambient, extends the effective season, suppresses weeds completely, and conserves moisture. Set up drip irrigation under the plastic before laying it. The combination of black plastic mulch + drip irrigation + proper warm-soil transplant timing represents best practice for short-season pepper growing.",
+      "designPlacement": "Section C (south-facing, warm microclimate, full sun) is an excellent location for a dedicated pepper bed if it is or can be converted to a raised bed format; the warm microclimate is a genuine advantage for heat-loving peppers; raised beds on this site solve both the clay soil problem and the slow spring warm-up simultaneously; set a temporary row cover or wire cage around transplants for the first 2-3 weeks to protect from deer browsing given the active east corridor deer pressure at this site",
+      "siteObservations": null
+    }
+  }
+}

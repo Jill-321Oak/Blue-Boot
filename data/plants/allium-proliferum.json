@@ -1,0 +1,161 @@
+{
+  "id": "allium-proliferum",
+  "name": {
+    "commonName": [
+      "Egyptian Walking Onion",
+      "Tree Onion",
+      "Perennial Onion",
+      "Topsetting Onion"
+    ],
+    "latinName": "Allium × proliferum (hybrid of Allium cepa × Allium fistulosum)",
+    "family": "Amaryllidaceae"
+  },
+  "range": {
+    "nativeRange": "Not applicable — cultivated hybrid; unknown in the wild; long cultivated across Europe and Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US; an ancient cultivated hybrid; grown throughout the US; not naturalized aggressively in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not invasive in the US; spreads by topsets and division but is cultivated and not a documented invasive"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9 — among the hardiest of all onion types"
+    }
+  },
+  "description": {
+    "height": "18-30\" (leaves and scape with bulbil cluster)",
+    "spread": "6-8\" per clump; slowly expands and \"walks\" as topset bulbils weigh down the stalk and root where they touch the ground",
+    "spacing": "6-8\" for ground cover; 12\" for individual clumps",
+    "growthRate": "Moderate; established plants are essentially permanent",
+    "timeToMaturity": "Productive from first year; bulbils form in first season",
+    "lifespan": "Essentially permanent — a truly perennial onion that requires no replanting; continues indefinitely once established",
+    "deciduousEvergreen": "Semi-evergreen — green foliage often persists into winter in Zone 6a; dies back in the coldest periods; one of the first plants to produce harvestable green growth in late winter/early spring",
+    "winterInterest": "Moderate — hollow green leaves often visible through winter; early green growth is a welcome sight in February-March"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; more shade-tolerant than annual onions",
+    "water": "Low to medium; drought tolerant once established",
+    "drainagePreference": {
+      "description": "Average to well-drained; avoids waterlogged conditions",
+      "claySoilPerformance": {
+        "rating": "good",
+        "description": "Good; more tolerant of clay and wet conditions than most Allium species; the robust bulblets and fibrous root system handle clay better than true bulb onions; still benefits from drainage improvement but in-ground planting in clay is generally successful"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5"
+    },
+    "texturePreference": "Adaptable; performs in average garden soil including clay-loam",
+    "rootCharacter": "True bulb at the base; produces hollow tubular leaves from the base; \"topsetting\" bulbils (clusters of small onion bulbs) form at the top of the flowering scape"
+  },
+  "bloom": {
+    "bloomTime": "June-July (scape formation); topset bulbils mature August-September",
+    "bloomDescription": "Hollow green scapes (stems) topped with a cluster of small red-purple bulbils rather than flowers; the weight of the bulbil cluster causes the scape to arch and touch the ground, where bulbils root — this is the \"walking\" mechanism",
+    "fragrance": "Strong onion scent from foliage and bulbils",
+    "flowerSex": "Vegetatively reproducing — does not typically produce viable flowers; reproduces by topset bulbils",
+    "pollination": "Not applicable — vegetative reproduction"
+  },
+  "yield": {
+    "edibleParts": "Leaves (hollow green tops — mild onion flavor; use like chives or green onions throughout the growing season); underground bulbs (harvest in fall; small onion-flavored bulbs; use like shallots or pickling onions); topset bulbils (harvest when mature in late summer; strong flavor; excellent pickled or used fresh); scapes (tender young scapes edible)",
+    "harvestSeason": "Green tops year-round except deep winter; underground bulbs fall; bulbils late summer-fall",
+    "medicinalUses": "Same general antimicrobial and cardiovascular properties as other Allium species; primarily a culinary and productive garden plant",
+    "craftOtherYield": "Pickled topset bulbils (a traditional specialty — the small bulbils are excellent pickled in brine or vinegar)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Non-toxic; edible",
+    "toxicityAnimals": "TOXIC to dogs and cats — all Allium species cause hemolytic anemia; never feed to dogs, cats, or horses; this is the standard Allium caution",
+    "allelopathy": "Allium exudates deter pest insects and some soil pathogens — a positive companion planting effect",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Root / Rhizosphere; Herb"
+    },
+    "roles": [
+      "Food (all parts edible throughout the year — exceptional year-round harvest potential)",
+      "Pest Confuser (allium exudates deter pests and pathogens)",
+      "Dynamic Accumulator (sulfur compounds)",
+      "Permanent Productive Ground Cover"
+    ],
+    "companionPlants": [
+      "Most vegetables and herbs; excellent throughout the food forest understory; plant around fruit trees",
+      "elderberry",
+      "and other shrubs as a permanent understory element; pairs with garlic chives and chives for a multi-species allium guild planting"
+    ],
+    "antagonists": [
+      "Peas and beans — as with all alliums",
+      "avoid planting adjacent to legumes; does not pair well with Trifolium (clover) ground cover directly"
+    ],
+    "coppiceable": "Cut green tops as needed throughout the season; the plant regrows from the base; clipping tops regularly keeps the plant tidy and productive"
+  },
+  "wildlife": {
+    "attracts": "Minimal direct wildlife value (the pungent scent deters most animals); when bulbils fall and the plant \"walks,\" it can provide cover for ground-dwelling insects",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "None"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — all Allium species are strongly avoided by deer; one of the most reliable deer deterrents in the garden; planting as a border or interspersed through beds provides protective function for neighboring plants"
+    },
+    "salt": {
+      "rating": "good",
+      "description": "Good"
+    },
+    "drought": {
+      "rating": "excellent",
+      "description": "Excellent once established — one of the most drought-tolerant edible plants"
+    },
+    "other": "Extremely cold-hardy to Zone 3; overwinters without any protection in Zone 6a; one of the most low-maintenance productive plants available"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low — essentially self-maintaining",
+    "pruningNotes": "Harvest green tops as needed throughout the season; collect topset bulbils in late summer for eating and replanting; if spread is not desired, collect all bulbils before they \"walk\" and root; divide underground clumps every 3-5 years to rejuvenate production",
+    "propagationMethods": [
+      "Topset bulbils (the primary propagation method — plant bulbils 1-2\" deep in fall or spring; they establish quickly); division of underground clumps in spring or fall"
+    ]
+  },
+  "cultivarNotes": "No widely marketed named cultivars; the species is typically sold as \"Egyptian walking onion\" or \"tree onion.\" Various strains exist with different bulbil sizes and leaf widths — seek out strains with large, productive underground bulbs if that is the primary yield goal. Some strains have red-purple bulbils (more ornamental) vs. pale green-brown.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Herb garden",
+      "food forest understory",
+      "permanent edible ground cover",
+      "kitchen garden",
+      "deer deterrent interplanting"
+    ],
+    "designPlacement": "Perennial vegetable garden, food forest understory, herb garden edge",
+    "acquisitionStatus": "Already on site"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tree_onion",
+    "inaturalist": "https://www.inaturalist.org/taxa/745679-Allium-proliferum",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=298979"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to PA; cultivated hybrid",
+      "paInvasiveStatus": "Not invasive in PA",
+      "drainage": "Hegins red clay: in-ground planting generally acceptable; no raised bed required; avoid the most waterlogged spots",
+      "soil": "Hegins red clay is tolerable for walking onions; in-ground planting works well",
+      "cultivarNotes": "Walking onions are highly cold-hardy and perform excellently in Zone 6a; already established at Hegins",
+      "designPlacement": "Already established at Hegins; Section B or food forest edge; low-maintenance perennial vegetable",
+      "siteObservations": "Confirmed established on site. Note the walking habit — topset bulbils will root where the scape falls; allow or collect as management preference dictates."
+    }
+  }
+}

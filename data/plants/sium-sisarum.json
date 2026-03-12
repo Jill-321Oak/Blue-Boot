@@ -1,0 +1,147 @@
+{
+  "id": "sium-sisarum",
+  "name": {
+    "commonName": [
+      "Skirret"
+    ],
+    "latinName": "Sium sisarum",
+    "family": "Apiaceae"
+  },
+  "range": {
+    "nativeRange": "Central Asia and China; the species is believed to have originated in the region spanning from the Caucasus through central Asia eastward into China, where it grows wild along stream banks, wet meadows, and moist lowland habitats. It was introduced to Europe early in the medieval period and became a significant cultivated root vegetable throughout the British Isles, the Netherlands, Germany, and France from the 13th century onward. It was a common market vegetable in Tudor and Stuart England before the widespread adoption of the potato in the 17th-18th centuries and has since faded from commercial cultivation almost entirely, surviving mainly in heritage seed collections and permaculture gardens.",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to North America. Skirret is an Old World species that has never naturalized in the US — it persists only under deliberate cultivation and does not escape into wild or disturbed habitats. It is absent from the USDA PLANTS database as a naturalized species."
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No. Skirret is a clump-forming perennial that spreads slowly by crown expansion only. It does not self-seed aggressively, does not produce runners or rhizomes, and poses no naturalization or escape risk anywhere in the lower 48. Not listed on any state noxious weed list or invasive species registry."
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "3-9; extremely cold-hardy at the low end and tolerant of warm summers at the high end; no heat zone limitation is documented, though root quality may decline in Zone 9+ where winters are too mild to trigger full starch-to-sugar conversion"
+    }
+  },
+  "description": {
+    "height": "3-4 feet in flower; leafy vegetative growth reaches 18-24\" before the plant sends up flowering stalks in its second year and beyond; in the first year from seed, growth stays compact (12-18\"); the plant is herbaceous and dies back completely to the crown each winter",
+    "spread": "12-18\" per established clump; skirret expands slowly outward as the crown enlarges over years, but it is not a spreading or running plant; individual clumps remain discrete and manageable indefinitely",
+    "spacing": "12-18\" between plants; 18\" is comfortable for established crowns with room for future division; 12\" works for initial plantings that will be divided regularly",
+    "growthRate": "Moderate; emerges reliably in early spring and builds good vegetative mass through the season; root development is the plant's primary energy investment and accelerates in the second and subsequent years as the crown matures",
+    "timeToMaturity": "A useful first harvest is possible in fall of the first year from divisions or established plants; seed-started plants may yield lightly in their first fall but reach full productivity in year 2+; established clumps (3+ years) produce the most generous root clusters",
+    "lifespan": "Long-lived perennial; an undisturbed clump will persist and produce for many years; the plant is self-renewing as long as the crown is not fully harvested; always replant a portion of the crown after harvest to maintain the planting",
+    "deciduousEvergreen": "Deciduous — foliage dies back completely after hard frost; the crown overwinters underground and re-emerges reliably in spring",
+    "winterInterest": "None above ground; the plant vanishes completely after frost and returns each spring from the crown; the dormant period makes it easy to harvest without disturbing an otherwise active bed"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to part shade; skirret is tolerant of reduced light in a way that few root vegetables are; it produces its best root yields in full sun (6+ hours), but performs respectably in part shade (4-5 hours), making it unusually versatile in garden placement; avoid deep shade where root development will be severely reduced",
+    "water": "Medium to high; skirret naturally grows along stream banks and moist lowland habitats and appreciates consistent moisture; it tolerates wet periods well and benefits from the moisture-retentive character of clay soils; do not allow the soil to dry out completely during the growing season, as drought stress reduces root size and quality; in drier climates or during dry spells, mulch heavily to retain moisture; in the humid eastern US, natural rainfall often suffices except during summer dry periods; in arid western regions, regular irrigation is essential",
+    "drainagePreference": {
+      "description": "Moist to average; one of the few root vegetables that actively benefits from heavier, moisture-retentive soils. Skirret tolerates periodic wet conditions and even brief flooding far better than carrots, parsnips, or celeriac. The main drainage requirement is that the soil not be stagnant or anaerobic for extended periods. Well-structured clay with seasonal moisture fluctuation is close to ideal. Gardeners with heavy soil should view this as one of the best root crop choices specifically for their conditions.",
+      "claySoilPerformance": {
+        "rating": "excellent",
+        "description": "Excellent. Skirret is one of the very few root vegetables that genuinely performs well in clay soil rather than merely tolerating it. The clustered root form (multiple slender roots radiating from a crown, rather than a single deep taproot) means it does not need deeply tilled or stone-free soil to develop. Heavy, moisture-retentive clay provides the consistent moisture skirret naturally prefers. Amend the top 8-10\" with compost at planting to improve structure, and the plant will thrive. No raised bed is required for clay-soil gardeners — in-ground planting in amended clay is fully appropriate and arguably preferable to well-drained sandy soil."
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7.5,
+      "description": "6.0-7.5; adaptable across a moderately wide pH range; does not require highly amended or loose soil the way carrots and parsnips do"
+    },
+    "texturePreference": "Notably tolerant of clay and heavier soils — this sets skirret apart from nearly all other root vegetables. The roots grow in clusters downward from the crown rather than as a single deep taproot, so they do not require deeply tilled or stone-free soil to develop well. Rich, moisture-retentive loam is ideal, but any reasonably fertile clay or clay-loam soil with surface organic matter worked in is fully adequate. Incorporate compost into the top 8-10\" at planting. Skirret is one of the best root crop choices specifically for heavy-soil sites across the eastern US, Midwest, and Pacific Northwest.",
+    "rootCharacter": "Skirret produces clusters of 5-12 (or more) slender, cylindrical white roots radiating downward from a central crown; individual roots are typically finger-sized — roughly 6-8\" long and 3/4-1\" in diameter — with smooth, white skin and dense, starchy flesh; the root cluster sits just below the surface, anchored by the crown, which simplifies harvest; no specialized soil preparation is required as there is no single deep taproot to develop in hard ground"
+  },
+  "bloom": {
+    "bloomTime": "June-August in flowering-age plants (typically second year onward); skirret often does not flower heavily in its first year; once the crown is established, flowering is regular but the plant can be managed primarily as a root crop with flowers as a secondary feature",
+    "bloomDescription": "Flat compound umbels (classic Apiaceae form) of tiny white flowers, 2-3\" across, borne on branching stalks at 3-4' height; the flowers are visually similar to Queen Anne's lace and other wild Apiaceae; they are delicate and attractive in an informal or naturalistic setting; each plant produces multiple flowering stems when mature",
+    "fragrance": "Mild, faintly herbal-sweet; not strongly scented but pleasant at close range",
+    "flowerSex": "Hermaphrodite (bisexual flowers in the umbels)",
+    "pollination": "Insect-pollinated; the Apiaceae umbel form is highly attractive to beneficial insects — particularly parasitic wasps, hoverflies, and small native bees; skirret is self-fertile and does not require a partner plant to set seed"
+  },
+  "yield": {
+    "edibleParts": "The roots are the primary harvest and the reason skirret was grown as a staple vegetable across northern Europe for several centuries. The roots are white, dense, and starchy with a flavor that is distinctly sweet — often described as a blend of parsnip and carrot with a hint of coconut sweetness that is uniquely its own. The sweetness is natural and intensifies dramatically after frost, as cold temperatures convert starches to sugars. A thin, fibrous central core runs through each root (more prominent in older or dry-grown roots); this core can be tough and is typically removed during preparation (simply pull it out after cooking). Young leaves and shoots are edible as a mild herb or salad addition, though the root is the primary edible. Preparation: roast whole or halved (the cut surface caramelizes beautifully and is one of skirret's finest culinary expressions), boil (tender in 10-15 minutes), steam, or add to soups and stews; mash with butter as an alternative to mashed parsnip or potato; the sweetness pairs naturally with butter, cream, nutmeg, and cured pork products. Historically, skirret was a Tudor and Stuart-era delicacy — records place it at the tables of Henry VIII and on the menus of great country houses; it was considered superior to parsnip in flavor before the potato displaced root vegetables from the center of European cuisine.",
+    "harvestSeason": "Fall (primary harvest) — October onward after the first frosts; frost dramatically improves flavor by sweetening the roots; dig the entire clump with a fork after frost, snap or cut the roots from the crown, select a few healthy side crowns or root pieces to replant, and return the rest of the crown to the ground; alternatively, harvest in early spring before leaf emergence, when the roots are still dense and the stored sugars have not yet been redirected into new growth; spring-harvested roots are nearly as good as fall-harvested ones. Individual roots can also be selectively dug through mild-weather winter periods without disturbing the full clump.",
+    "medicinalUses": "Mild traditional European medicinal uses — the roots have been used in herbalism as a digestive tonic and mild diuretic; contains flavonoids and phthalides common to the Apiaceae family, which have mild anti-inflammatory and antispasmodic properties; not a primary medicinal plant but a nutritionally useful vegetable with historical application in European folk medicine for digestive complaints; the Apiaceae family generally supports liver and kidney function in traditional systems",
+    "craftOtherYield": "None significant; the tall flowering stems can be cut and dried as delicate floral material; plant material can be composted"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Skirret itself is safe and edible. IMPORTANT FAMILY CAUTION: Skirret belongs to the Apiaceae family, which includes some of the most toxic plants in the temperate world — poison hemlock (Conium maculatum) and water hemlock (Cicuta species), both of which have caused fatal poisonings, can resemble Apiaceae food plants in vegetative form. Only harvest and consume skirret from clearly identified, deliberately cultivated plants. Never harvest any Apiaceae root from the wild unless you are an expert in identification. The cultivated skirret crown and root cluster is distinctive once you know the plant, but the general principle of caution with this family cannot be overstated — particularly given that water hemlock (Cicuta maculata) is native throughout the eastern US and found near wet habitats. Grow skirret in a named, labeled garden bed and there is no ambiguity. Contains furanocoumarins (psoralens) in the foliage, as do most Apiaceae family members; handling large quantities of fresh skirret foliage in bright sunlight may cause mild phototoxic skin reactions in sensitive individuals — a minor concern in normal garden use.",
+    "toxicityAnimals": "Not a known toxicity concern in cultivated use; the furanocoumarin content in foliage may cause mild phototoxicity in animals that consume large amounts in sunlight; not a significant risk in typical garden settings; dogs and cats are unlikely to eat it",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (root/crown layer for primary harvest)"
+    },
+    "roles": [
+      "Perennial Food Crop (primary — one of the most productive and low-maintenance perennial root vegetables for temperate permaculture)",
+      "Dynamic Accumulator (Apiaceae roots draw minerals from deeper soil layers and return them through leaf litter and root turnover)",
+      "Insectary Plant (flowering umbels attract beneficial wasps and hoverflies)",
+      "Heritage Food Preservation (growing skirret preserves a largely forgotten food crop with significant cultural and culinary history)"
+    ],
+    "companionPlants": [
+      "Comfrey (excellent — comfrey's mineral-cycling chop-and-drop habit benefits skirret directly; keep comfrey at the crown edge rather than planted directly against it); garlic and other Alliums (classic Apiaceae companions — the Allium scent deters some root pests and carrot fly); marigolds (Tagetes — general pest deterrent at bed edge); nitrogen fixers at the planting edge (clover, beans); other perennial vegetables in a dedicated perennial food bed (lovage, Egyptian walking onion, horseradish)"
+    ],
+    "antagonists": [
+      "Fennel (Foeniculum vulgare — allelopathic to most vegetables; keep well away); large",
+      "vigorous neighbors that will compete for moisture in the root zone"
+    ],
+    "coppiceable": "No; cut back dead foliage after frost; the crown is the productive unit and is managed by division, not cutting"
+  },
+  "wildlife": {
+    "attracts": "Parasitic wasps, hoverflies, small native bees, and beneficial insects of all kinds on the Apiaceae umbels; the flowers are ecologically important as a mid-season beneficial insect resource; black swallowtail butterfly (Papilio polyxenes) may use the foliage as a larval host plant, as it does with other Apiaceae family members",
+    "hostPlantFor": "Potentially black swallowtail butterfly (Papilio polyxenes) — the same species that uses dill, parsley, carrot, and celeriac; Apiaceae foliage in general is acceptable host material for this species; finding a swallowtail caterpillar on skirret would not be surprising and is not a pest concern on a mature plant",
+    "nestingHabitat": "None significant"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "good",
+      "description": "Good; skirret is not a known preferred deer browse target, and the aromatic Apiaceae foliage (containing phthalides and furanocoumarins) deters most deer in the same way it does with celeriac and other carrot-family plants. Deer will prioritize more palatable plants before touching skirret. Not completely deer-proof under severe pressure, but considerably more resistant than most vegetables. Young plants should be protected with caging or netting until established in areas with active deer populations."
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not salt-tolerant; not appropriate for road-adjacent or coastal planting"
+    },
+    "drought": {
+      "rating": "poor-moderate",
+      "description": "Poor to moderate; skirret is a moist-habitat plant by nature and performs best with consistent moisture; established clumps have some drought tolerance through the dense root mass, but prolonged dry conditions reduce root size and quality significantly; mulch and consistent watering during dry spells are important; do not treat it as a drought-tolerant plant"
+    },
+    "other": "Excellent cold hardiness — reliably hardy to Zone 3; the crown overwinters without protection across the entire northern US and needs no mulching or winter cover in any zone where it is grown. Tolerates clay, periodic flooding, and heavier soils better than virtually any other cultivated root vegetable. Handles humid eastern summers without disease pressure. This combination of cold hardiness and clay/moisture tolerance makes skirret particularly well-suited to heavy-soil gardens across the eastern US, Midwest, and Pacific Northwest."
+  },
+  "maintenance": {
+    "maintenanceLevel": "Very low once established; skirret is one of the most self-sufficient perennial food plants available to a temperate garden; it requires no staking, no special soil preparation after initial planting, and no winter protection in any zone within its range; the primary maintenance tasks are mulching to retain moisture, dividing the crown every 2-3 years to maintain vigor, and replanting crown sections after harvest; essentially a plant-and-harvest perennial food crop",
+    "pruningNotes": "Cut dead stems to the ground after hard frost in fall or leave until spring — both are acceptable; there is no pruning in the horticultural sense; if the clump becomes crowded after several years (5+), divide and replant in early spring as growth resumes; remove dead foliage in spring before new growth emerges to keep the bed tidy; no deadheading is necessary unless seed set is unwanted, and skirret does not self-seed invasively in any case",
+    "propagationMethods": [
+      "Division (fastest and most reliable method — divide established crowns in early spring as growth begins or in fall after harvest; each crown section with at least one growing point will establish readily; plant divisions 12-18\" apart, 3-4\" deep); seed (skirret seed has notoriously poor and erratic germination from stored seed — seed viability drops rapidly and germination from year-old seed may be as low as 20-30%; for best results, sow seed fresh in fall directly where it will grow and allow natural cold stratification over winter for spring germination, OR cold-stratify stored seed in moist vermiculite at 35-40°F for 60-90 days before sowing indoors; even with stratification, germination is uneven and slow — expect 3-6 weeks and inconsistent emergence; division is strongly preferred for reliable establishment); root cuttings (small pieces of root with a portion of crown attached can be replanted and will establish; this is essentially a form of division)"
+    ]
+  },
+  "cultivarNotes": "Skirret is grown almost exclusively as the straight species rather than named cultivars — the heritage vegetable revival has brought it back into specialty seed catalogs but not yet into cultivar development to any significant degree. Most available seed is simply sold as \"Skirret\" or \"Sium sisarum\" without further distinction. There is occasional mention of a white-rooted selection versus older strains with slightly more fibrous roots, but these are not commercially standardized. The key practical guidance across all zones is seed source quality: because germination depends heavily on seed freshness, source from suppliers who specialize in heritage vegetables and turn over their seed stock regularly. In Zones 3-5 (northern US, upper Midwest, mountain West): skirret is fully hardy and performs without any special consideration; the extended cold winters produce excellent starch-to-sugar conversion and superb fall/spring harvest flavor. In Zones 6-7 (mid-Atlantic, lower Midwest, Pacific Northwest): the sweet spot for skirret cultivation — reliable cold for flavor development, long enough growing season for generous root production; this is where skirret historically thrived in European cultivation at comparable latitudes. In Zones 8-9 (Deep South, Gulf Coast, Desert Southwest): skirret will grow but may underperform — mild winters reduce the frost-driven sweetening that is central to the plant's culinary appeal; ensure consistent moisture in hot climates and harvest after whatever cold the region provides. Reliable sources include Baker Creek Heirloom Seeds, Strictly Medicinal Seeds, and select European heritage seed suppliers (Chiltern Seeds in the UK offers skirret seed with reliable freshness). If acquiring as a plant rather than seed, any source offering living crowns or root divisions will produce the same productive result regardless of informal strain. Strongly consider acquiring a living division rather than gambling on aged seed if this is a first planting.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated perennial vegetable bed; food forest herbaceous layer; heritage/heirloom food garden; kitchen garden perennial; excellent candidate for in-ground growing in any garden with at least partial sun and reasonable moisture — heavy clay soil is a genuine advantage for this plant rather than a constraint"
+    ],
+    "designPlacement": "Skirret belongs in a dedicated perennial food bed or in-ground planting — it is a long-term resident that should not be rotated annually like other vegetables. The ideal placement is a semi-permanent bed or a section of the food forest herbaceous layer where it can remain undisturbed between harvests. It is a strong candidate for in-ground growing directly in clay soil (amended with compost in the top 8-10\") rather than raised beds, since clay moisture retention is actually beneficial. A grouping of 3-6 crowns in a 4-6 sq ft area will produce a meaningful annual harvest. Skirret tolerates part shade better than most root vegetables, so it can be placed in areas that receive only 4-5 hours of direct sun — under the edge of a food forest canopy, beside a shed, or in a north-facing bed. Position away from vigorous spreading neighbors that will compete for root-zone moisture.",
+    "acquisitionStatus": "Not yet acquired; seed is available from Baker Creek Heirloom Seeds, Strictly Medicinal Seeds, and European heritage suppliers; living divisions or potted plants may be available from specialty herb/perennial nurseries; division is the recommended acquisition method if available, seed otherwise — purchase the freshest seed you can find and prioritize fall sowing or cold stratification"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Skirret",
+    "inaturalist": "https://www.inaturalist.org/taxa/360193-Sium-sisarum",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Not native to Pennsylvania. Not native to North America at all. Not naturalized in PA or anywhere in the US — persists only under cultivation.",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — no concerns.",
+      "drainage": "The red clay at Hegins is genuinely well-suited to skirret — the moist, heavy conditions that challenge most root vegetables are close to this plant's natural habitat preferences. In-ground planting directly in the clay soil is recommended over raised beds, with compost worked into the top 8-10\" at planting. No raised bed required. The seasonal moisture fluctuation at the site (wet after rain, drier in summer) is well within skirret's tolerance range.",
+      "soil": "The Hegins red clay with compost amendment in the top 8-10\" is genuinely appropriate for skirret — no special soil preparation beyond initial compost incorporation is needed. The clay moisture retention is an asset, not a liability, for this species.",
+      "cultivarNotes": "Ideal zone for skirret. No special cultivar selection needed — straight species performs excellently. Prioritize seed freshness or, better yet, acquire a living division for reliable first-year establishment.",
+      "designPlacement": "Section B (garage strip) is a reasonable fit if kitchen herb adjacency is valued and the partial shade from the developing food forest is acceptable. An in-ground perennial bed in a sunnier area of the property would be the highest-productivity choice. Do not place in Sections A or C, which are ornamental-priority beds. Plant directly in the clay soil with compost amendment — raised beds are not needed or preferred for this species at this site.",
+      "siteObservations": "The Hegins site conditions are unusually favorable for skirret by vegetable-gardening standards. The red clay soil that is a liability for most root vegetables (carrots split, parsnips fork, celeriac struggles with drainage) is a genuine asset for skirret, which is naturally a moist-habitat, heavier-soil plant. The Zone 6a hardiness zone presents zero challenge — skirret is hardy to Zone 3 and will overwinter without any intervention. Deer pressure from the east corridor is a moderate concern, but skirret's Apiaceae family scent makes it a lower-priority browse target than most vegetables — cage young plants until established as a precaution. The main cultural requirement to honor is consistent moisture through the growing season, particularly in dry summer spells — mulching the crown area with straw or shredded leaves at 3-4\" depth will manage this effectively. No winter protection or mulching needed for overwintering. This is one of the best possible crops for the specific site conditions at Hegins: perennial, low-maintenance, clay-tolerant, cold-hardy, deer-resistant by comparison, and producing a genuinely excellent food product that almost no one is growing. On flavor: roasted skirret with butter and a little salt is one of the great forgotten vegetables of the English-speaking world; anyone who has grown it does not forget the flavor."
+    }
+  }
+}

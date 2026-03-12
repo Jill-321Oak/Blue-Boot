@@ -1,0 +1,167 @@
+{
+  "id": "elaeagnus-multiflora",
+  "name": {
+    "commonName": [
+      "Goumi Berry",
+      "Cherry Elaeagnus",
+      "Cherry Silverberry"
+    ],
+    "latinName": "Elaeagnus multiflora",
+    "family": "Elaeagnaceae"
+  },
+  "range": {
+    "nativeRange": "China, Japan, and Korea; widely cultivated in temperate regions as an ornamental and edible fruiting shrub",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; introduced from East Asia; not naturalized aggressively and not documented as a widespread escapee from cultivation"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "E. multiflora (goumi) is NOT invasive and is not listed as a federal noxious weed or on USDA invasive species lists. However, this distinction is critical for any US gardener: the Elaeagnus genus contains two species that ARE regulated as invasive weeds, and nursery trade confusion between them is a genuine risk.\nE. umbellata (Autumn Olive) is invasive across 30+ eastern and midwestern states — including Pennsylvania, Maryland, Virginia, Ohio, Missouri, Tennessee, and many others — and is federally listed as a noxious weed by the USDA. It spreads aggressively by bird-dispersed seed and is a regulated species in many states.\nE. angustifolia (Russian Olive) is invasive in western US states — including Colorado, Wyoming, New Mexico, Utah, and others — where it colonizes riparian corridors and is also federally listed as a noxious weed.\nE. multiflora (goumi) does not share this invasive character. It does not naturalize aggressively, is not bird-dispersed at scale, and is not on state invasive lists. The risk is in the label: any gardener purchasing a plant labeled simply \"Elaeagnus\" must verify the Latin name at point of sale. A reputable nursery will label goumi correctly as E. multiflora. If a nursery is selling a shrubby Elaeagnus as a \"nitrogen fixer\" or \"wildlife plant\" without a clear Latin name, confirm it is not E. umbellata before purchasing."
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5–9"
+    }
+  },
+  "description": {
+    "height": "6–10' as a mature shrub; occasionally to 12' in ideal conditions",
+    "spread": "6–10'; arching, somewhat fountaining habit",
+    "spacing": "8–10' for specimen; 6–8' when used as a hedgerow component",
+    "growthRate": "Moderate — faster on poor soils where nitrogen fixation provides an early advantage over non-fixing competitors; typically 1–2' per year",
+    "timeToMaturity": "Begins fixing nitrogen from year 1; fruit production from year 2–3; full productive maturity by year 4–5",
+    "lifespan": "Long-lived; 20–40+ years under good management",
+    "deciduousEvergreen": "Deciduous — silvery-scaled leaves (a characteristic of the Elaeagnaceae family) give the plant a distinctive silver-green appearance through the growing season; the undersides of leaves are covered in tiny silver scales that reflect light",
+    "winterInterest": "Low — bare in winter; branching structure is somewhat twiggy and attractive in dormancy but not a primary reason to plant"
+  },
+  "lightAndWater": {
+    "sun": "Full sun preferred; tolerates light shade; fruit production and vigor diminish significantly in more than half-day shade",
+    "water": "Low to moderate; drought-tolerant once established; does not need supplemental irrigation after the first season in most US climate zones; the nitrogen-fixing root system aids establishment in dry or poor conditions",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates lean, rocky, and poor soils extremely well; does not tolerate waterlogged or persistently wet conditions",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Moderate — clay soils are tolerable provided drainage is adequate; standing water or saturated root zones will cause decline; in any heavy-clay garden, amend with coarse grit, plant on a raised mound or berm, or select a naturally higher spot on the site; the plant's strong tolerance for poor soil means it does not require rich amendment — drainage is the only critical requirement"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7.5,
+      "description": "5.5–7.5; broadly adaptable; the nitrogen-fixing symbiosis (Frankia bacteria) functions across this entire range"
+    },
+    "texturePreference": "Highly adaptable — performs well in sandy, rocky, lean, and otherwise low-fertility soils where other fruiting shrubs cannot thrive; this is goumi's greatest competitive advantage as a food-producing plant; poor soil is not a handicap but a competitive advantage for a plant that makes its own nitrogen",
+    "rootCharacter": "Moderately deep, spreading roots with actinorrhizal root nodules (Frankia sp. bacteria — not Rhizobium; goumi is an actinorrhizal nitrogen fixer, not a legume); the nodules are visible as small, irregular growths on the roots and are the biological engine of the plant's soil-building function; do not disturb nodules during transplanting"
+  },
+  "bloom": {
+    "bloomTime": "April–May; among the earliest fragrant shrubs to bloom in the spring garden across most of its hardiness range",
+    "bloomDescription": "Small, tubular, creamy-white to pale yellow flowers; individually modest but produced in great numbers along the branches; the floral display is understated visually but extraordinary in fragrance — one of the most powerfully sweet-scented shrubs available to Zone 5–9 gardeners; the fragrance carries well on warm spring evenings",
+    "fragrance": "Intensely fragrant — sweet, honey-like, and pervasive; a significant ornamental asset and pollinator magnet; comparable in intensity to Osmanthus or Daphne",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile — a single plant will set fruit; cross-pollination between two plants or two different cultivars improves yield and fruit size meaningfully; bees are the primary pollinators, particularly early bumblebees and native solitary bees that are active during the April–May bloom window"
+  },
+  "yield": {
+    "edibleParts": "Fruit (primary yield) — small (approximately 0.5\"), cherry-like, bright red with distinctive silver speckles when ripe; the silver spotting is the most reliable visual identification feature; the fruit is juicy, tart-sweet, and slightly astringent when not fully ripe — wait until deeply red and slightly soft for best fresh eating; ripens in June, making it one of the earliest fruiting shrubs of the season",
+    "harvestSeason": "Late May to mid-June — one of the earliest fresh fruits in the food forest; ripens before most other fruiting shrubs or trees",
+    "medicinalUses": "Fruit is very high in lycopene — among the highest lycopene content of any known fruit, exceeding tomatoes; also high in flavonoids and other antioxidants; the nutritional profile is notable for a fresh fruit; leaves used in traditional East Asian medicine but not a primary medicinal plant in Western herbalism",
+    "craftOtherYield": "Nitrogen-rich chop-and-drop material from pruning; young branches as biomass for guild mulching; the Frankia-inoculated root zone improves soil fertility for surrounding plants passively without any active management required"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": true,
+    "toxicityPeople": "Fruit is edible; seeds inside the fruit are not typically eaten; no significant toxicity documented for the fruit; unripe fruit is astringent and unpleasant but not dangerous",
+    "toxicityAnimals": "No significant toxicity documented; birds consume the fruit freely; not a known concern for dogs or cats",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "shrub",
+      "description": "Shrub layer"
+    },
+    "roles": [
+      "Nitrogen Fixer (primary permaculture role — actinorrhizal fixation via Frankia bacteria builds soil fertility for the surrounding guild continuously throughout the growing season)",
+      "Food Producer (edible fruit; early-season yield)",
+      "Pollinator Attractor (exceptional early spring fragrance and nectar source)",
+      "Pioneer Plant (establishes in poor soils where other fruiting shrubs cannot)",
+      "Nurse Plant (improves conditions for slower-establishing guild members through nitrogen accumulation)",
+      "Wildlife Habitat (fruit and structure)"
+    ],
+    "companionPlants": [
+      "Apple trees (classic pairing — goumi planted at or inside the drip line provides nitrogen to the apple's root zone while producing its own food crop)",
+      "paw paw (nitrogen-fixing support plant in the paw paw guild)",
+      "mulberry",
+      "comfrey (complementary mineral accumulator — the two together create a highly functional fertility system)",
+      "fruit trees generally; any fruit tree guild benefits from a goumi planted nearby"
+    ],
+    "antagonists": [
+      "None documented for standard food forest companions"
+    ],
+    "coppiceable": "Tolerates hard pruning and recovers well; not traditionally coppiced as aggressively as Caragana, but can be cut back significantly in late winter to renew shape and manage size; the nitrogen-fixing nodule system regenerates with the root system"
+  },
+  "wildlife": {
+    "attracts": "Bees (outstanding early-season nectar source; the intense fragrance is highly attractive to bumblebees and native solitary bees in April–May), butterflies and other pollinators during bloom; birds (fruit consumed by American Robin, Cedar Waxwing, and other fruit-eating species in June)",
+    "hostPlantFor": "Not a known significant host for native Lepidoptera; Elaeagnaceae are not primary hosts for notable species in the eastern US",
+    "nestingHabitat": "Moderate — the dense, arching branching structure provides some cover and nesting opportunity for small birds; not as structurally complex as a thorned shrub but useful in a hedgerow context"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate resistance — the silvery, aromatic foliage is somewhat less palatable than many shrubs; deer do browse goumi, particularly on young plants; not a primary target but protection in the first 1–2 seasons is advisable; established plants generally recover from browsing"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate — tolerates road salt spray and moderate salt conditions; not as salt-tolerant as Caragana but better than most fruiting shrubs"
+    },
+    "drought": {
+      "rating": "good",
+      "description": "Good — establishes well in dry conditions; the nitrogen-fixing symbiosis supports root development in lean soil; does not require irrigation once established"
+    },
+    "other": "Tolerates poor, compacted, and disturbed soils; a genuine pioneer species capable of improving degraded ground; not for wet feet"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Prune in late winter or immediately after fruiting. The plant can be left largely unpruned as a large arching shrub. Annual light pruning removes crossing branches, opens the center for airflow, and rejuvenates fruiting wood — goumi fruits on one- and two-year wood, so some renewal of older stems every few years improves production. For food forest guild use where space is managed, a light annual shaping after harvest keeps the plant within bounds without sacrificing the following year's fruit. Hard renovation pruning is tolerated if the plant outgrows its space. Do not prune in early spring before bloom — the fragrant flowers are too valuable to sacrifice.",
+    "propagationMethods": [
+      "Hardwood cuttings (most reliable; take in late fall or early winter; treat with rooting hormone; high success rate)",
+      "semi-hardwood cuttings in late summer",
+      "seed (requires cold stratification; slower and variable; not recommended for replicating named cultivars)",
+      "layering (peg a low branch to the ground in spring; roots by fall)"
+    ]
+  },
+  "cultivarNotes": "Two cultivars are consistently recommended for reliable production and fresh eating quality across Zones 5–9:\n'Sweet Scarlet' — the benchmark cultivar for fresh eating; largest fruit of the available selections; sweetest flavor with the least astringency when fully ripe; widely available from permaculture nurseries across the US; the first choice for a primary planting. If only one goumi is being planted, this is it.\n'Tillamook' — reliable producer; slightly smaller fruit than Sweet Scarlet; good overall yield; useful as a cross-pollinating companion to Sweet Scarlet; widely adapted across the US range. Planting both cultivars together improves fruit set and size on both plants.\nThe straight species (Elaeagnus multiflora) is available from permaculture and native plant nurseries and is a valid choice where cultivar availability is limited — fruit quality is somewhat more variable but the nitrogen-fixing function is identical.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Food forest shrub layer nitrogen fixer",
+      "fruit tree guild support plant",
+      "edible fruiting shrub",
+      "fragrant spring-flowering specimen",
+      "pioneer planting for poor-soil areas",
+      "hedgerow component"
+    ],
+    "designPlacement": "Primary placement is within or at the drip line of an established fruit tree guild — one goumi planted per fruit tree guild provides meaningful nitrogen input to the guild's root zone while producing its own early-season fruit crop. This double role (nitrogen fixer + food producer) makes it one of the most efficient plants per square foot in a food forest design. A secondary placement option is poor-soil or disturbed areas of a property where the nitrogen-fixing pioneer function can improve ground that would not otherwise support productive planting. At 6–10' height, goumi exceeds typical front-bed height limits; best placed in food forest or back-of-property guild areas without height restrictions.",
+    "acquisitionStatus": "To source"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elaeagnus_multiflora",
+    "inaturalist": "https://www.inaturalist.org/taxa/162213-Elaeagnus-multiflora",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f353"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from Asia; not a Pennsylvania or eastern US native species",
+      "paInvasiveStatus": "E. multiflora is not on Pennsylvania invasive species lists. E. umbellata (Autumn Olive) IS listed as invasive in PA and is a regulated noxious weed in the state. Confirm species identity at purchase — do not accept a plant without a confirmed Latin name.",
+      "drainage": "Hegins red clay is tolerable with drainage management; raised mound or berm placement is recommended; this is a lower priority concern than for many shrubs because goumi thrives in lean, poor soil — the clay's fertility limitation is actually an asset for this species; the drainage concern is the only real site challenge",
+      "soil": "Hegins red clay is tolerable with drainage; lean fertility is not a problem; practical placement on a slight mound or where surface runoff is not impeded",
+      "cultivarNotes": "Both 'Sweet Scarlet' and 'Tillamook' are well-proven in Zone 6a conditions; either or both are appropriate for Hegins.",
+      "designPlacement": "Best placed within the apple or paw paw guild, planted at or just inside the drip line; one plant per guild is sufficient for meaningful nitrogen input. Section C (south-facing, warm, well-drained) is a compatible microclimate if height can be managed with annual pruning, though guild placement is the higher priority use for this plant.",
+      "siteObservations": null
+    }
+  }
+}

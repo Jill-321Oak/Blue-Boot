@@ -1,0 +1,158 @@
+{
+  "id": "brassica-oleracea-botrytis",
+  "name": {
+    "commonName": [
+      "Cauliflower"
+    ],
+    "latinName": "Brassica oleracea var. botrytis",
+    "family": "Brassicaceae"
+  },
+  "range": {
+    "nativeRange": "Cultivated selection derived from wild cabbage (Brassica oleracea) native to coastal Mediterranean Europe; first developed as a distinct crop in the Levant and Cyprus, refined in Italy and France during the 16th century; now grown worldwide in temperate regions",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the United States; a fully domesticated annual vegetable crop with no wild population anywhere in North America"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No; does not naturalize in the US; a non-reproducing annual crop that requires human cultivation to persist — it bolts, sets seed, and dies without producing any persistent population"
+    },
+    "zone": {
+      "min": 3,
+      "max": 9,
+      "description": "Annual cool-season crop grown in Zones 3-9 across the lower 48; the plant does not have a zone preference so much as a temperature preference — it requires a sustained window of 60-70°F for curd development, which dictates the entire cultivation strategy regardless of USDA zone"
+    }
+  },
+  "description": {
+    "height": "18-30\" at maturity; compact rosette of large, waxy, blue-green leaves surrounding a central curd; leaf canopy is broad and spreading",
+    "spread": "18-24\"",
+    "spacing": "18-24\" between plants; rows 2-3' apart; cauliflower needs full personal space — crowding restricts head size and air circulation",
+    "growthRate": "Moderate; transplants establish over 1-2 weeks, then grow steadily over 55-100 days (depending on variety) before producing a curd",
+    "timeToMaturity": "55-100 days from transplant depending on cultivar; the harvest window per head is narrow — once the curd reaches maturity it must be cut promptly, as quality deteriorates rapidly",
+    "lifespan": "Annual (cool-season); the plant bolts and goes to seed when temperatures rise or when stressed; it does not overwinter in temperate regions of the lower 48 and is not a perennial in any climate",
+    "deciduousEvergreen": "Annual — pull plants after harvest",
+    "winterInterest": "None; a spent cauliflower plant has no ornamental value"
+  },
+  "lightAndWater": {
+    "sun": "Full sun — 6 hours minimum; reduced light slows growth and delays heading; do not shade",
+    "water": "Consistent and steady moisture is one of the most critical success factors for cauliflower; the plant has shallow, dense roots and does not tolerate drought at any growth stage; inconsistent watering is a direct cause of buttoning (see Cultivar Notes); aim for 1-1.5\" of water per week through rain or irrigation; mulch heavily to retain soil moisture and moderate soil temperature; raised beds with consistent irrigation are ideal",
+    "drainagePreference": {
+      "description": "Well-drained; cauliflower will not tolerate waterlogged roots; good drainage and consistent moisture must coexist — the goal is evenly moist, never wet; raised beds solve this on clay-heavy sites",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor in unimproved heavy clay; clay restricts root development, drains poorly after rain, and creates the boom-bust moisture cycle that causes buttoning and loose curds; cauliflower can be grown successfully on clay sites only when raised or amended beds provide the drainage and moisture consistency the plant requires; native clay should be regarded as a reason to build raised beds, not a soil to attempt to work around"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6.5,
+      "max": 7,
+      "description": "6.5-7.0; cauliflower is sensitive to acidic soil; low pH reduces nutrient availability, particularly boron — boron deficiency causes hollow, brown-centered curds; lime if needed before planting"
+    },
+    "texturePreference": "Rich, fertile, well-composted loam is ideal; cauliflower is the most nutrient-demanding of all the common brassicas, with high nitrogen requirements throughout its growth cycle; amend beds generously with compost before transplanting; raised beds with amended, free-draining growing medium are strongly preferred over native clay; heavy clay restricts root development and holds moisture unevenly — both detrimental",
+    "rootCharacter": "Fibrous, relatively shallow root system; roots do not penetrate deeply; this shallow habit makes the plant sensitive to soil compaction, moisture fluctuations, and surface disturbance; cultivate carefully around established plants"
+  },
+  "bloom": {
+    "bloomTime": "If not harvested, or if the plant bolts: late spring (spring plantings) or late fall (fall plantings, rarely reaches this point before frost)",
+    "bloomDescription": "The edible curd IS the immature inflorescence — tightly packed, aborted flower buds that have not yet opened; if harvest is missed or the plant is stressed, the curd \"riceys\" (individual buds separate and open), then proceeds to produce tall branching stems with small yellow four-petaled flowers typical of the Brassicaceae family; attractive to pollinators but not the goal of cultivation",
+    "fragrance": "The flowers have a faint honey scent; the foliage and curd have the characteristic sulfurous brassica aroma when cut or cooked",
+    "flowerSex": "Hermaphrodite (each flower has both male and female parts)",
+    "pollination": "Insect-pollinated (bees primarily); cross-pollinates freely with other Brassica oleracea varieties — maintain distance if saving seed; irrelevant to edible harvest, as the curd is cut long before the plant flowers"
+  },
+  "yield": {
+    "edibleParts": "The curd — the dense, tightly packed mass of undeveloped flower buds at the center of the plant; the entire curd is edible raw or cooked; outer leaves are technically edible but are coarse and bitter, typically composted; the thick main stem is edible when peeled and is similar in texture and flavor to broccoli stem. Cauliflower is extraordinarily versatile in the kitchen: raw in crudités, roasted whole or floret by floret, steamed, stir-fried, pureed into soups, used as a low-carb substitute for rice or mashed potato, pickled (particularly the colored varieties), and prepared as cauliflower steak. The colored varieties (orange, purple, green/Romanesco) have distinct flavors and visual appeal beyond the standard white.",
+    "harvestSeason": "Fall crop timing varies by zone: in Zone 6 (PA, OH, NJ, and similar), harvest typically falls in October as temperatures cool into the 40s-60s°F; in Zone 7 (mid-Atlantic, lower South), fall harvest extends into November; in Zone 8-9 (Pacific coast, Gulf South), fall/winter crops can be harvested December-February; harvest the curd while it is firm, compact, and tight — individual florets should be pressed together with no separation visible; once florets begin to loosen, separate, or show any yellowing (in white varieties) or fading, flavor and texture decline rapidly; cut the stem 2-3\" below the curd with a sharp knife; a single plant produces a single harvest (unlike broccoli, which produces side shoots)",
+    "medicinalUses": "High in vitamin C, vitamin K, folate, and choline; colored varieties add additional phytonutrients — orange Cheddar is notably high in beta-carotene (25x more than white cauliflower); purple Graffiti contains anthocyanins (the same antioxidant pigments found in blueberries and red cabbage); Romanesco and green types share the general brassica glucosinolate profile linked to cancer risk reduction in epidemiological studies; not used medicinally in a traditional herbalism context but nutritionally significant as a food",
+    "craftOtherYield": "None significant; the large outer leaves can be composted or fed to chickens"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; safe for all ages; individuals with thyroid conditions are sometimes advised to moderate intake of raw brassicas (goitrogenic compounds), but this is a dietary consideration, not a garden hazard; cooking neutralizes goitrogens",
+    "toxicityAnimals": "Brassicas in large quantity can cause gas and digestive upset in dogs and other animals; not acutely toxic; not a significant garden hazard",
+    "allelopathy": "None known; brassicas are not allelopathic to other vegetables in normal garden conditions",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herbaceous layer (annual vegetable layer)"
+    },
+    "roles": [
+      "Annual Food Crop (primary)",
+      "Nitrogen Consumer (cauliflower's heavy nitrogen demand means it benefits from following a nitrogen-fixing cover crop or heavy compost application; it does not fix nitrogen itself)",
+      "Seasonal Bed Occupant (fall crop occupies bed August-October; timing integrates well with spring crops finishing in summer)"
+    ],
+    "companionPlants": [
+      "Celery (said to repel cabbage white butterfly; traditional pairing)",
+      "Dill (attracts parasitic wasps that prey on cabbage worm and aphids; plant at bed edge, not directly adjacent as mature dill can inhibit brassica growth)",
+      "Nasturtiums (trap crop for aphids — plant at bed edges to draw aphids away from cauliflower)",
+      "Onions and garlic (deter cabbage looper and aphids; interplant in rows)",
+      "Thyme (ground cover companion; traditional brassica pest deterrent)",
+      "Chamomile (traditional companion said to improve flavor of neighboring brassicas)"
+    ],
+    "antagonists": [
+      "Strawberries (poor companion; inhibit each other)",
+      "Tomatoes (allelopathic to brassicas in some studies; avoid interplanting)",
+      "other brassicas (within same bed rotation — avoid planting in soil where any Brassica crop grew in the past 3 years due to clubroot and other soil-borne disease buildup)",
+      "Pole beans and fennel (generally poor neighbors)"
+    ],
+    "coppiceable": "No; cauliflower is a single-harvest annual; spent plants are pulled after the curd is cut"
+  },
+  "wildlife": {
+    "attracts": "Pollinators if the plant flowers (bees are strongly attracted to brassica flowers); beneficial insects (parasitic wasps, lacewings) are attracted to dill and other companion plants in the brassica bed",
+    "hostPlantFor": "Cabbage white butterfly (Pieris rapae) — the primary pest of all brassicas across the US; the adult lays eggs on the undersides of leaves, and the green caterpillars (imported cabbageworm) feed voraciously on foliage and can tunnel into the developing curd; also hosts cabbage looper (Trichoplusia ni) and diamondback moth (Plutella xylostella); see Maintenance for management; Aphids (multiple species) colonize brassica leaves and growing tips in spring and fall; Harlequin bug in mid-Atlantic and southern regions",
+    "nestingHabitat": "None of significance; the broad leaves may shelter ground beetles"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "none",
+      "description": "None — cauliflower is heavily browsed by deer throughout the US; the large, tender, high-water-content leaves are highly palatable and will be stripped to the stem; fencing is required on any site with deer pressure; a simple wire cage or hardware cloth enclosure around the bed is sufficient; do not plant without a physical barrier in place before transplanting"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low; not a roadside or salt-spray plant"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Very low — among the least drought-tolerant of common vegetables; any moisture stress during heading causes buttoning, loose curds, or bitterness; consistent irrigation is essential"
+    },
+    "other": "Heat intolerance: the defining limitation of cauliflower; temperatures above 75-80°F during curd development cause browning, riciness, and off-flavors; temperatures above 85°F can prevent curd formation entirely; this is why spring crops in Zones 5-6 are unreliable — the warming trend after the last frost date is often too rapid; Cold intolerance (secondary): cauliflower is also more sensitive to cold than other brassicas; hard frost below 25°F damages curds; light frost (28-32°F) actually improves flavor slightly and is tolerated well, but sustained freezes below 25°F will cause freeze damage; the ideal curd-development temperature range is a genuinely narrow 60-70°F window"
+  },
+  "maintenance": {
+    "maintenanceLevel": "High — cauliflower is the most demanding and least forgiving of all common brassicas; it requires correct timing, consistent moisture, good soil fertility, pest vigilance, and blanching management (for white varieties); it is not recommended as a first vegetable for new gardeners unless starting with colored or self-blanching varieties, which are meaningfully more forgiving; experienced gardeners in cooler zones (5-7) should focus on fall planting as the primary cultivation window; in warmer zones (8-9), a winter or early spring crop is the equivalent strategy",
+    "pruningNotes": "BLANCHING (white varieties only): Traditional white cauliflower develops yellow, coarse, bitter curds when exposed to sunlight during heading; curds must be blanched by excluding light. Two approaches: (1) Traditional tying — when the curd is 2-3\" across, gather the outer leaves up over the curd and tie them loosely at the top with a rubber band or soft twine; check every few days and harvest when the curd is 6-8\" and still tight; (2) Self-blanching varieties — cultivars like 'Snowball' and 'Amazing' have leaves that naturally curl inward over the developing curd; no tying required, though in periods of intense sunlight some manual tucking helps. Colored varieties (orange, purple, green, Romanesco) do NOT require blanching — their pigments are stable and their flavor is not affected by light exposure; this is a significant advantage for low-effort growing. PEST INSPECTION: At every garden visit during the growing season, check the undersides of all leaves for the pale yellow, bullet-shaped eggs of the cabbage white butterfly, laid singly on leaf undersides; crush on sight; check again for small green caterpillars (imported cabbageworms), which are cryptically colored and easily overlooked against green leaf tissue; hand-pick and destroy; this inspection is the single most important pest management task for cauliflower and all brassicas; row cover (floating fabric) applied immediately after transplanting and left in place until harvest is the most effective passive prevention — it physically excludes the butterfly. Inspect regularly for aphid colonies on growing tips and leaf undersides; blast with water or apply insecticidal soap if colonies establish.",
+    "propagationMethods": [
+      "Seed started indoors (standard method for cool-zone fall crop — start seeds indoors 6-8 weeks before the desired outdoor transplant date; sow 1/4\" deep in cell trays or small pots; germination in 4-7 days; grow under lights or in a bright window for 4-5 weeks; transplant to the garden when seedlings are 4-6\" tall with 4-5 true leaves; harden off over 5-7 days before transplanting); Direct seeding (not recommended in zones with tight timing windows — transplants are more reliable); Transplants from nursery (a practical alternative to indoor seed starting if available at the right time — fall transplants are less commonly stocked than spring, so plan to start your own if a fall crop is the goal)"
+    ]
+  },
+  "cultivarNotes": "Variety selection is the most important decision a cauliflower grower makes. White, orange, purple, and green types differ significantly in their cultivation demands, timing, and forgiveness. Zones 5-7 (upper Midwest, Northeast, mid-Atlantic) should treat fall planting as the primary reliable window. Zones 8-9 (Pacific coast, Gulf South, Southwest) can grow cauliflower as a winter or early spring crop. Zones 3-4 may find spring planting more practical given the short growing season.\n**White varieties — traditional, require blanching (unless self-blanching):**\n**'Snowball Y Improved'** — the classic self-blanching white; compact, dense heads; 65-70 days; leaves naturally curl over the curd reducing blanching labor; widely available; reliable fall performer; a good entry point for white cauliflower in cooler zones.\n**'Amazing'** — self-blanching; 68 days; uniform heads to 8-9\"; holds well in the garden without riceing for longer than most whites; highly rated for home garden use; strong recommendation for fall crops in Zones 5-7.\n**'Snow Crown'** — AAS winner (All-America Selections); excellent vigor and cold tolerance; 50 days (one of the fastest); the speed advantage is meaningful for fall crop timing in zones where frost arrives early; requires manual blanching; reliable and widely available.\n**'Attribute'** — noted for downy mildew resistance; good choice if disease pressure has been a problem in the bed.\n**Orange varieties — no blanching required:**\n**'Cheddar'** — the benchmark orange cauliflower; striking deep orange curd from high beta-carotene content; 68 days; flavor is sweet and mild; nutritional value significantly higher than white types (25x the beta-carotene); orange color intensifies when roasted; more forgiving than white types in terms of heat tolerance; strongly recommended as a first cauliflower for growers in Zones 5-7 who want something distinctive and easier to manage.\n**Purple varieties — no blanching required:**\n**'Graffiti'** — vivid purple curd from high anthocyanin content; 80 days; visually dramatic; flavor is mild and slightly sweet; important caveat: the purple color turns gray-green when cooked in water (the anthocyanins are pH-sensitive and react to heat); to preserve color, roast rather than boil, or eat raw; nutritional antioxidant value is significant regardless of color change; one of the most visually distinctive vegetables available for a kitchen garden.\n**'Di Sicilia Violetto'** — Italian heirloom purple variety; slightly more cold-tolerant than Graffiti; less uniformly colored but considered to have excellent flavor; good for seed-savers as it will come relatively true.\n**Green / Romanesco types — no blanching required:**\n**'Romanesco'** — technically Roman cauliflower (Brassica oleracea var. botrytis group romanesco, sometimes listed simply as var. botrytis); the curd forms in a breathtaking logarithmic spiral of pointed lime-green pinnacles — a naturally occurring fractal pattern that is among the most geometrically striking structures in the plant kingdom; flavor is nuttier, sweeter, and more complex than standard cauliflower, with a texture closer to broccoli; 75-80 days; generally considered more forgiving of temperature fluctuation than white types; roasts exceptionally well; a strong recommendation for fall planting in Zones 5-7 both for flavor and visual interest. Note on taxonomy: Romanesco is variously classified as B. oleracea var. botrytis, var. botrytis group romanesco, or sometimes as a distinct cultivar group; it belongs in this profile regardless of classification, as it is grown identically to cauliflower and shares all the same brassica pest and timing considerations.\n**'Veronica'** — a hybrid Romanesco type; more uniform and consistent than open-pollinated Romanesco selections; excellent flavor; 78 days; recommended if consistency matters over heirloom character.\n**Buttoning prevention — critical for all types:** Buttoning is the formation of a small, premature, unusable curd on a plant that has not yet reached mature size. It is caused by stress during early growth — most commonly transplant shock, drought stress, cold snaps below 50°F in early establishment, or rootbound transplants. Prevent it by: hardening transplants off thoroughly before planting, transplanting on an overcast day or in evening, watering immediately and consistently after transplanting, maintaining soil temperatures above 50°F at planting time, and never allowing the rootball to dry out. Once a plant has buttoned, the head will not develop further — pull and replant if you have backup transplants available, or simply compost it.\n**Zone 5-7 seasonal strategy:** The fall crop is the primary and most reliable cultivation window. Start seeds indoors 6-8 weeks before the target outdoor transplant date (typically mid to late summer); transplant to the garden in late July to mid-August for Zone 6; expect harvest in October as temperatures cool into the ideal range. The spring crop is possible but high-risk — the warming trend after the last frost date is often too rapid for reliable curd development before heat stress sets in; spring crops frequently button or fail to head properly. If attempting spring crop, choose the fastest available variety (Snow Crown at 50 days) and accept a meaningful failure rate as normal. Colored varieties, and Romanesco in particular, are the best choice for gardeners who want reliable results.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Dedicated raised vegetable bed (fall season); does not belong in a perennial guild or mixed border; requires its own space in a managed annual vegetable rotation; plan the rotation to avoid any site where brassicas grew in the prior 3 years due to clubroot and other soil-borne disease buildup"
+    ],
+    "designPlacement": "Raised vegetable beds are strongly preferred on heavy clay sites; cauliflower needs consistent moisture and good drainage simultaneously, which is difficult to achieve in unimproved clay without raised beds. Site in full sun with no shade from adjacent structures or tall plantings. In cooler zones (5-7), the fall timing (bed occupancy August-October) integrates well with a rotation where spring crops (peas, spinach, early greens) vacate the bed by late July. Deer fencing is required on any site with active deer pressure — a perimeter fence or dedicated enclosed bed is necessary. Given the demanding nature of white cauliflower, the strongest general recommendation is to start with 'Cheddar' (orange) or Romanesco for the first year — both are more forgiving, visually spectacular, and do not require blanching; add white varieties once timing and growing conditions are dialed in.",
+    "acquisitionStatus": "Not yet acquired\nPennsylvania — Hegins Site Observations: Zone 6a Hegins is workable for cauliflower but demands respect for the timing window. The fall crop starting in late June (seed) to mid-August (transplant) is the correct approach — do not attempt a spring crop in the first year; the failure rate is discouraging and gives a false impression of cauliflower's potential. The Hegins humid continental climate provides the cool, moist fall conditions that cauliflower genuinely thrives in — October in PA is ideal cauliflower weather. Key site-specific challenges: (1) Deer — fencing is required before the first transplant goes in the ground; (2) Clay soil — raised beds with amended, well-draining growing medium are non-negotiable for reliable results; (3) Moisture consistency — the humid continental climate helps, but irrigation capability is important during late summer transplant establishment when natural rainfall can be irregular; (4) Pest pressure — cabbage white butterfly is abundant throughout Pennsylvania from May through frost; row cover applied at transplanting is the most effective prevention and is especially important for the August transplanting window when butterfly populations are at peak summer density; inspect leaf undersides at every garden visit. With these factors addressed, cauliflower is a genuinely rewarding fall crop in this climate."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cauliflower",
+    "inaturalist": "https://www.inaturalist.org/taxa/63194-Brassica-oleracea-botrytis",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261913"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No; not native to North America; a fully domesticated annual vegetable with no wild population",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; poses no naturalization risk",
+      "drainage": "Hegins red clay is compacted and construction-disturbed, with drainage issues after rain — exactly the soil conditions that produce failure in cauliflower; raised vegetable beds with amended growing medium (compost-rich, free-draining) are non-negotiable for reliable results at this site; do not attempt to grow cauliflower directly in the native clay",
+      "soil": "Hegins native red clay is compacted and construction-disturbed; raised vegetable beds with compost-amended, free-draining growing medium are the correct growing context for cauliflower at this site; native clay beds should not be used for this crop",
+      "cultivarNotes": "The fall crop is the correct and primary cultivation strategy. Start seeds indoors in late June to early July; transplant to the garden in late July to mid-August; expect harvest in October as temperatures cool into the ideal curd-development range. Spring crops in Zone 6a are high-risk — the post-frost warming trend is too rapid; avoid in the first year. Cheddar and Romanesco are the strongest first-year recommendations for this site: more forgiving, no blanching required, and both perform reliably in the PA fall window.",
+      "designPlacement": "Raised vegetable beds are non-negotiable given the Hegins red clay subsoil — do not attempt cauliflower in the native clay. Site beds in full sun; the fall timing (occupancy August-October) pairs well with spring crops vacating the bed in July. Deer fencing is non-negotiable — the east corridor deer pressure at this site means unprotected cauliflower will be browsed to the stems before it heads; a perimeter fence or enclosed bed must be in place before the first transplant goes in. Start with Cheddar or Romanesco for the first season.",
+      "siteObservations": null
+    }
+  }
+}

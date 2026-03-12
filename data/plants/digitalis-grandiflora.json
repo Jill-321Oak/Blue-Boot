@@ -1,0 +1,156 @@
+{
+  "id": "digitalis-grandiflora",
+  "name": {
+    "commonName": [
+      "Yellow Foxglove",
+      "Large Yellow Foxglove"
+    ],
+    "latinName": "Digitalis grandiflora",
+    "family": "Plantaginaceae"
+  },
+  "range": {
+    "nativeRange": "Central and southern Europe, western Asia",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced ornamental"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive in any US state; self-seeds moderately but does not spread aggressively or displace native vegetation; safe for cultivation across the lower 48"
+    },
+    "zone": {
+      "min": 3,
+      "max": 8,
+      "description": "3-8"
+    }
+  },
+  "description": {
+    "height": "24-36\" in bloom",
+    "spread": "12-18\"",
+    "spacing": "15-18\"",
+    "growthRate": "Moderate",
+    "timeToMaturity": "Blooms from first or second season",
+    "lifespan": "Perennial (unlike D. purpurea which is biennial); 5-10 years; self-sows to maintain colony",
+    "deciduousEvergreen": "Semi-evergreen — basal rosette of leaves often persists through mild winters; dies back in hard winters",
+    "winterInterest": "Low to moderate — basal rosette present in mild winters; clean and tidy"
+  },
+  "lightAndWater": {
+    "sun": "Part shade to full shade — one of the very few yellow-flowering plants that performs well in shade; this is its primary design value",
+    "water": "Medium; drought tolerant in shade once established",
+    "drainagePreference": {
+      "description": "Well-drained to average; tolerates clay",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Tolerates clay well; may perform better with organic matter incorporated at planting to improve structure and drainage; avoid waterlogged conditions which can cause crown rot"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 5.5,
+      "max": 7,
+      "description": "5.5-7.0"
+    },
+    "texturePreference": "Adaptable; tolerates clay and poor soils",
+    "rootCharacter": "Fibrous taproot; does not spread vegetatively; colony maintained by self-seeding"
+  },
+  "bloom": {
+    "bloomTime": "June to July; may rebloom if cut back after first flush",
+    "bloomDescription": "Tubular, pendulous, creamy-yellow flowers to 2\" long with brown interior markings, borne in terminal racemes to 12\" long atop upright leafy stems",
+    "fragrance": "None",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Primarily bumblebees (the tubular flowers are sized for large bees); also attracts hummingbirds"
+  },
+  "yield": {
+    "edibleParts": "None — do not consume",
+    "harvestSeason": "N/A",
+    "medicinalUses": "ALL Digitalis species are the botanical source of digoxin and related cardiac glycosides; these compounds are used in pharmaceutical medicine for heart conditions but are ONLY safe under strict medical supervision; do not attempt any home medicinal use",
+    "craftOtherYield": "Cut flower — elegant in arrangements"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "HIGHLY TOXIC — all parts, but especially leaves; contains digitoxin, digoxin, and related cardiac glycosides; ingestion causes nausea, vomiting, irregular heartbeat, and can be fatal; even skin contact with sap can cause rash in sensitive individuals. Assess child and public access to any planting site before installing.",
+    "toxicityAnimals": "HIGHLY TOXIC to dogs, cats, and horses — cardiac glycoside effects; potentially fatal; fallen leaves and seeds are a risk as animals may investigate novel plants. Consider placement carefully relative to pet access.",
+    "allelopathy": "None documented",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "herbaceous",
+      "description": "Herb"
+    },
+    "roles": [
+      "Beauty (primary — rare shade-tolerant yellow flower)",
+      "Insect Attractor (bumblebees, hummingbirds)"
+    ],
+    "companionPlants": [
+      "Astilbe",
+      "hellebore",
+      "geranium 'Rozanne'",
+      "ferns (all share shade preference)"
+    ],
+    "antagonists": [
+      "None documented"
+    ],
+    "coppiceable": "Cut flowering stems to the base after bloom; this often prompts a second flush of flowers later in summer"
+  },
+  "wildlife": {
+    "attracts": "Bumblebees (the primary and most enthusiastic visitors — the tubular flower is a near-perfect fit), hummingbirds; minimal other wildlife value",
+    "hostPlantFor": "Not a significant host plant",
+    "nestingHabitat": "Minimal"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "excellent",
+      "description": "Excellent — among the most reliably deer-resistant plants available; extremely toxic and strongly avoided by deer across all US regions"
+    },
+    "salt": {
+      "rating": "moderate",
+      "description": "Moderate"
+    },
+    "drought": {
+      "rating": "moderate",
+      "description": "Moderate in shade; will struggle in hot, dry, sunny conditions"
+    },
+    "other": "Tolerates shade, clay, and poor soil well; cold-hardy to Zone 3; heat performance declines in Zone 8 and above without consistent shade and moisture"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low",
+    "pruningNotes": "Cut flowering stems to the basal rosette immediately after bloom to encourage rebloom and prevent excessive self-seeding. Basal rosette overwinters; remove winter-damaged leaves in early spring. Allow some seedheads to mature to maintain the self-seeding colony — mark parent plants so you don't accidentally weed out seedlings.",
+    "propagationMethods": [
+      "Seed (self-sows moderately; direct sow in fall or cold-stratify for spring; germinates readily)",
+      "division (possible in spring but not typically necessary)"
+    ]
+  },
+  "cultivarNotes": "The straight species is the most widely available and most ornamental in this group, performing reliably across Zones 3-8. 'Carillon' is a compact selection at 18-24\" — suited to beds with height restrictions. No other cultivars are widely grown across the US market. Note: do not confuse with Digitalis lutea (small yellow foxglove), which is similar but smaller (18-24\") and also a strong choice where reduced height is desirable.\nIn the warmer end of the range (Zones 7-8), plant in deeper shade and ensure consistent moisture through summer; the species struggles with heat stress in full sun. In Zones 3-5, the basal rosette may not overwinter above ground but the plant re-emerges reliably from roots; mulch after hard frost to protect crown.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Shade border",
+      "woodland garden",
+      "cottage garden"
+    ],
+    "designPlacement": "Mid-zone position in a shade or part-shade border where yellow is needed in the palette — a role very few shade-tolerant plants can fill. Excellent with blue and purple companions (Geranium, Ajuga, Astilbe) to create contrast. Always assess child and pet access given high toxicity before finalizing placement.",
+    "acquisitionStatus": "To source\nPennsylvania — Hegins Site Observations:"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Digitalis_grandiflora",
+    "inaturalist": "https://www.inaturalist.org/taxa/123625-Digitalis-grandiflora",
+    "missouriBotanicalGarden": [
+      {
+        "label": null,
+        "url": "https://www.missouribotanicalgarden.org/plantfinder/plantfinderdetails.aspx?kempercode=c628"
+      }
+    ]
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No",
+      "paInvasiveStatus": "Not listed by the PA Department of Agriculture or PINVASIVES",
+      "drainage": "Red clay in Hegins is compacted and slow-draining after rain; amend planting hole with compost and ensure site does not pond; north-facing placement in Section A provides adequate moisture retention without waterlogging in typical conditions",
+      "soil": "Red clay at Hegins site; tolerates without amendment but will establish faster with compost worked in; avoid heavy clay that stays saturated",
+      "cultivarNotes": "The straight species and 'Carillon' are both well-matched to Zone 6a conditions. At Hegins, the north-facing exposure of Section A keeps temperatures moderate and prevents summer heat stress — ideal conditions for this species. 'Carillon' is preferred for Section A given the 5' height limit.",
+      "designPlacement": "Section A north-facing front bed, mid-zone — provides the yellow note in the purple/pink/yellow palette from a shade-tolerant species; no other candidate in the Section A plant list offers this combination. Toxicity warrants confirmation that child and pet access to the front bed is limited or supervised; if access is regular and unsupervised, consider relocating to Section B where access is more controlled.",
+      "siteObservations": null
+    }
+  }
+}

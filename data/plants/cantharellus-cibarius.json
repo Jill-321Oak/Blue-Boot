@@ -1,0 +1,151 @@
+{
+  "id": "cantharellus-cibarius",
+  "name": {
+    "commonName": [
+      "Golden Chanterelle",
+      "Egg Yolk Mushroom",
+      "Girolle"
+    ],
+    "latinName": "Cantharellus cibarius",
+    "family": "Cantharellaceae"
+  },
+  "range": {
+    "nativeRange": "North America, Europe, and Asia; one of the most widely distributed edible fungi in the temperate world; found from the eastern US to the Pacific Coast, across northern Europe, and into Asia",
+    "usNativeStatus": {
+      "native": true,
+      "description": "Native throughout the lower 48 states wherever mature deciduous or mixed woodland with appropriate host trees (oaks, beech, pine) exists; most abundant in the eastern US, Pacific Northwest, and Great Lakes regions; present in every state with significant forest cover"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "No — not invasive anywhere in the US; a native component of temperate woodland ecosystems"
+    },
+    "zone": {
+      "min": null,
+      "max": null,
+      "description": "Not applicable — wide climate range; found across much of the temperate northern hemisphere"
+    }
+  },
+  "description": {
+    "height": "Fruiting bodies 1-4\" tall; cap 1-4\" across; funnel-shaped to broadly convex with edges that become wavy and irregular with age",
+    "spread": "Individual fruiting bodies scattered singly or in loose groups; mycelium is subterranean and may extend over large areas of woodland floor around host trees; not a clustered species",
+    "spacing": "Not applicable — wild harvest only; cannot be cultivated or deliberately planted; establishment depends on native woodland conditions and the presence of appropriate host trees",
+    "growthRate": "Individual fruiting bodies develop over several days following triggering rain events; mycelial networks in established woodland are long-lived and persistent",
+    "timeToMaturity": "Chanterelles fruit in established woodland wherever the conditions (mature oak or beech canopy, undisturbed leaf litter, adequate summer moisture) are suitable; sites fruiting once will typically continue fruiting in the same locations year after year",
+    "lifespan": "Individual fruiting bodies last 5-14 days in the field; mycelial networks are perennial and very long-lived; established chanterelle sites can fruit reliably for decades",
+    "deciduousEvergreen": "Not applicable; fruiting is seasonal (summer and fall)",
+    "winterInterest": "None — fruiting bodies do not persist into winter; mycelium is dormant beneath the forest floor"
+  },
+  "lightAndWater": {
+    "sun": "Shade — grows on the woodland floor beneath closed or semi-closed deciduous canopy; direct sun dessicates the fruiting bodies; mature oak and beech canopy is the defining habitat indicator",
+    "water": "Consistent summer moisture is the primary fruiting trigger; chanterelles fruit most abundantly in the weeks following warm summer rains; drought suppresses fruiting entirely; the moist, spongy, undisturbed woodland floor with intact leaf litter is the natural water-retention mechanism",
+    "drainagePreference": {
+      "description": "Moist but not waterlogged; well-structured woodland soil with good organic matter and intact duff layer; compacted or disturbed soils do not support chanterelle fruiting",
+      "claySoilPerformance": {
+        "rating": "moderate",
+        "description": "Clay soils can support chanterelles if they are not compacted and maintain an intact duff and leaf litter layer; chanterelles are less sensitive to clay texture than to soil disturbance and compaction; heavy clay that becomes waterlogged after rain is unfavorable; woodland soils with clay subsoil but an organic surface horizon are suitable if canopy conditions are right"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 4.5,
+      "max": 6.5,
+      "description": "Slightly acidic — pH 4.5-6.5; typical woodland soil under oaks and beeches; chanterelles favor the naturally acidic conditions that develop under these canopy species"
+    },
+    "texturePreference": "Loose, organic, undisturbed woodland soil; intact leaf litter and duff layer is essential; the undisturbed forest floor horizon supports the shallow mycorrhizal root network; avoid tilling, compaction, or mulching with wood chips in chanterelle habitat",
+    "rootCharacter": "Not applicable in the conventional sense — chanterelle mycelium forms obligate mycorrhizal associations with tree roots, primarily oak (Quercus) and beech (Fagus); the mycelium is entirely subterranean and intimately integrated with fine feeder roots of host trees; this is not a free-living organism and cannot be separated from its host"
+  },
+  "bloom": {
+    "bloomTime": "Not applicable — fruiting season varies by region: late spring through fall depending on latitude and elevation; in the eastern US, peak fruiting is generally July through September, typically 1-2 weeks after sufficient warm summer rain (>1\" over a few days); in the Pacific Northwest, fruiting may extend into late fall; a second flush often occurs in September-October across much of the eastern range",
+    "bloomDescription": "Fruiting bodies are golden-yellow to egg-yolk orange; cap shape begins convex, becomes broadly funnel-shaped or vase-like with age; cap margin is distinctly wavy and irregular in mature specimens; the most diagnostic feature is the underside — instead of true gills, chanterelles bear forked, blunt-edged ridges (false gills) that fork repeatedly and run partway down the stem (decurrent); ridges are the same color as the cap; flesh is white to pale yellow, firm, and does not change color when cut; stem is solid, stout, and the same golden color as the cap; overall appearance is distinctly \"golden\" and somewhat luminous in dim forest light",
+    "fragrance": "Distinctively fruity and apricot-like; the aroma is one of the most reliable identification characteristics; a fresh chanterelle smells faintly but unmistakably of apricots or stone fruit; no earthy or sour notes; the fruity aroma is absent in the toxic lookalike Jack O'Lantern mushroom",
+    "flowerSex": "Not applicable; spore-dispersing organism; spores produced on the surface of the forked ridges",
+    "pollination": "Not applicable; spores dispersed by air currents; spore print is white to pale yellow"
+  },
+  "yield": {
+    "edibleParts": "Fruiting bodies (cap and stem together) — among the finest and most prized edible mushrooms in the world; widely ranked in the top 3-5 edible fungi globally alongside porcini (Boletus edulis) and morels (Morchella spp.); flavor is complex, fruity, nutty, and distinctly apricot-like when raw, deepening into a rich, savory-sweet flavor when cooked; texture is firm and meaty; holds up well to heat without becoming rubbery; best sautéed in butter over high heat for a short time (3-5 minutes); pairs exceptionally well with thyme, cream, shallots, eggs, and good butter; excellent in cream sauces, pasta, risotto, omelettes, and soups; do not overcook — extended heat diminishes both texture and flavor; dries reasonably well but flavor is best fresh; can be lightly sautéed and frozen",
+    "harvestSeason": "Varies by region — generally June through October in the eastern US; harvest when caps are fully developed but before edges become very wavy and the flesh softens; cut or twist cleanly at the base; brush off debris rather than washing; leave small buttons in the ground to continue developing; do not over-harvest from any single patch — sustainable harvest supports long-term site productivity",
+    "medicinalUses": "Good nutritional profile — high in vitamins C and D precursors, B vitamins, potassium, and copper; contains beta-glucans with immune-modulating properties; not as extensively studied as reishi (Ganoderma) or turkey tail (Trametes versicolor) for specific therapeutic compounds; the primary value is as an exceptional dietary food; regular inclusion of edible mushrooms in diet is broadly supported as beneficial for immune and metabolic health",
+    "craftOtherYield": "Dried chanterelles (retain good flavor; store for up to a year); chanterelle powder (excellent finishing flavor for sauces and seasoning blends); chanterelle-infused oil or butter (preservation method that captures the fruity aroma)"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "Chanterelles themselves are non-toxic and among the safest edible wild mushrooms for positive-ID foragers; however, positive identification is essential — two lookalikes exist and must be ruled out before consuming any golden-colored mushroom from the forest floor: (1) Jack O'Lantern mushroom (Omphalotus olearius / O. illudens) — TOXIC; causes severe GI distress; grows in clusters at the base of trees or from buried roots (chanterelles grow singly or scattered, never in tight clusters); has true gills (thin, blade-like, sharp-edged) rather than forked ridges; no fruity aroma; may glow faintly bioluminescent at night; (2) False chanterelle (Hygrophoropsis aurantiaca) — not deadly but causes GI upset; bright orange color (often more orange than golden chanterelle); has true gills; thinner flesh; rule out both lookalikes by checking: (a) forked ridges (not gills), (b) fruity apricot aroma, (c) white flesh that does not change color when cut, (d) solitary or scattered growth (not clustered at wood)",
+    "toxicityAnimals": "Chanterelles are not known to be toxic to dogs or cats; same precaution as all wild mushrooms — positive identification required; do not allow pets to freely consume unknown foraged fungi",
+    "allelopathy": "Not applicable in the conventional sense; chanterelle mycelium is part of the woodland mycorrhizal network and supports host tree health rather than competing with it; maintaining chanterelle habitat is beneficial to the overall woodland ecosystem",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "canopy",
+      "description": "Fungal / Soil — occupies the woodland floor fungal layer; integrated into the mycorrhizal network of the canopy layer trees"
+    },
+    "roles": [
+      "Food (exceptional wild harvest — among the highest-value edible fungi available to a forager across the eastern US and Pacific Northwest)",
+      "Ecosystem Indicator (chanterelle presence indicates healthy, undisturbed, mature woodland with intact mycorrhizal networks — a site that fruits chanterelles is functioning well ecologically)",
+      "Mycorrhizal Partner (the chanterelle mycelium supports the nutrient and water uptake of its host oaks and beeches — the relationship is mutualistic, not extractive)",
+      "Soil Health (mycorrhizal networks contribute to soil aggregation, water retention, and phosphorus cycling in woodland soils)"
+    ],
+    "companionPlants": [
+      "Quercus spp. (oaks — primary host trees; red oak, white oak, chestnut oak, and post oak support chanterelles across the eastern US; Oregon white oak in the Pacific Northwest); Fagus grandifolia (American beech — important secondary host in the eastern US); Pinus strobus and other native pines (occasional host, more common in the Southeast and mid-Atlantic); Acer spp. (maple — sometimes associated); the presence of any mature broadleaf woodland with oak or beech dominance is the key companion relationship; note that chanterelles coexist with but are ecologically distinct from saprotrophic cultivated species like wine cap (Stropharia rugosoannulata) and oyster (Pleurotus ostreatus) — all three can be present simultaneously in a food forest system occupying entirely different ecological niches"
+    ],
+    "antagonists": [
+      "Synthetic fertilizers (nitrogen fertilization disrupts mycorrhizal relationships — fertilized woodland soils do not support chanterelles); soil disturbance and tilling (destroys the shallow mycorrhizal root network); compaction (foot traffic, vehicle access); removal of leaf litter (the duff layer is essential for moisture retention and mycelial habitat); logging or canopy removal (eliminates the host tree relationship)"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Various insects (beetles, flies, and springtails are associated with chanterelle fruiting bodies); small mammals (squirrels and deer will eat chanterelles — compete with the forager at peak season); slugs (a common pest of chanterelles in the field; slugs damage fruiting bodies rapidly in wet conditions — harvest promptly)",
+    "hostPlantFor": "Various invertebrates are associated with fruiting bodies",
+    "nestingHabitat": "Not applicable; the mycelial network beneath the forest floor contributes to soil structure that supports diverse invertebrate life"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "poor",
+      "description": "Deer will eat chanterelles in the field — this is a harvest-timing consideration, not a deer-resistance question; harvest promptly after fruiting bodies appear and check patches frequently during peak season; high deer pressure (as in much of the eastern US) means competition is real"
+    },
+    "salt": {
+      "rating": "none",
+      "description": "Not applicable"
+    },
+    "drought": {
+      "rating": null,
+      "description": "Fruiting completely suppressed by drought; the mycelium survives dry periods but will not fruit without adequate summer rain; maintaining ground moisture through intact leaf litter is the best passive drought mitigation; irrigation of woodland floor during drought may support some fruiting but is impractical at scale"
+    },
+    "other": "Chanterelles are fundamentally different from cultivated saprotrophic mushrooms (oyster, shiitake, wine cap) in one critical respect — they CANNOT be cultivated; they form obligate mycorrhizal relationships with living tree roots and cannot complete their lifecycle without a living host; no commercial cultivation of chanterelles has succeeded; inoculation attempts (spore slurries, transplanting soil, etc.) have not produced reliable results; the only production pathway is wild harvest from established woodland; the practical implication for permaculture design is that chanterelle habitat must be built over decades by establishing mature oaks and beeches and maintaining undisturbed woodland conditions beneath them"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Zero active maintenance possible or required; chanterelles are entirely self-managed once appropriate woodland conditions exist; the forager's role is observation and harvest, not cultivation",
+    "pruningNotes": "Not applicable; harvest fruiting bodies by cutting or twisting cleanly at the base; brush clean rather than washing; proper harvest does not damage the mycelium or reduce future productivity; consistent sustainable harvesting of a productive site is compatible with long-term site health; overharvesting does not appear to reduce fruiting in subsequent years based on available research, but leaving some fruiting bodies to sporulate is a reasonable conservation practice",
+    "propagationMethods": [
+      "Cannot be propagated or cultivated in any reliable sense; to encourage chanterelle establishment in woodland: (1) plant native oaks (Quercus rubra, Q. alba, Q. montana in the East; Q. garryana in the Pacific Northwest) and American beech (Fagus grandifolia) as the canopy foundation and allow them to mature over decades; (2) maintain undisturbed leaf litter and duff beneath these trees — never till",
+      "mulch with wood chips",
+      "or apply fertilizer in chanterelle habitat zones; (3) avoid soil compaction from foot traffic or equipment; (4) if chanterelles are present in nearby woodland",
+      "some natural expansion may occur into adjacent suitable habitat over time; spore slurry inoculation (blending fresh chanterelles in water and pouring under host trees) has been attempted but results are unreliable and not commercially validated — it may be worth trying experimentally but should not be counted on"
+    ]
+  },
+  "cultivarNotes": "No cultivars exist — chanterelles cannot be cultivated and therefore no strain selection or breeding has occurred; Cantharellus cibarius as described in North America may represent a species complex; some North American populations are now distinguished as C. lateritius (smooth chanterelle, no ridges) and C. phasmatis; regional variation across the lower 48 states is significant — the Pacific Northwest, Southeast, and Northeast each harbor distinct Cantharellus populations that may differ in seasonality, size, and associated host trees; the classic golden ridged chanterelle most commonly encountered in eastern deciduous woodland is C. cibarius sensu lato; for foraging purposes, the identification characteristics described above apply to the entire group; use a regional field guide appropriate to your state for local variant details (Peterson Field Guide to Mushrooms of Eastern North America; Mushrooms of the Northeast by Baroni; All the Rain Promises and More by David Arora for the West Coast)",
+  "gardenUse": {
+    "suggestedUse": [
+      "Wild harvest from established woodland; long-term food forest design goal — develop mature oak and beech canopy (or regionally appropriate host species) specifically to create chanterelle habitat over a multi-decade horizon; scout existing nearby woodland during peak season while long-term canopy establishes"
+    ],
+    "designPlacement": "Chanterelles cannot be placed in a garden bed or guild in the conventional sense — they are a wild harvest species tied to mature woodland. The design implication is long-term: any oaks or beeches planted on the property (in tree guilds or as woodland edge plantings) represent future chanterelle habitat. Zones where canopy trees are planned should include native oaks or beech as canopy anchors — these trees will, over 20-30 years, create the conditions under which wild chanterelles may naturally establish. In the interim, existing off-site woodland should be scouted during peak summer fruiting season (warm days, 1-2 weeks after >1\" rainfall) for natural patches. Once a productive patch is located, note the GPS coordinates and associated tree species and return to the same spot annually — chanterelle sites are consistent year after year.",
+    "acquisitionStatus": "Wild harvest — no purchase or acquisition required; locate productive patches in local woodland through seasonal scouting; consult regional foraging communities, state mycological societies, and iNaturalist observation maps for known occurrence areas near your property\nPennsylvania — Hegins Site Observations:\nSurvey deciduous woodland on and adjacent to the property in July and August following rain events; look specifically under mature red oaks, white oaks, and beech trees; note any golden funnel-shaped fruiting bodies on the forest floor; confirm identification (forked ridges, fruity aroma, solitary growth, white flesh) before harvest; deer pressure is active in the Hegins corridor — patches found in July may be browsed by August; check frequently during fruiting season; the red clay soils of the immediate site are not currently suitable for chanterelle fruiting; the near-term foraging opportunity is in existing undisturbed woodland off the property; the long-term on-site opportunity develops as the food forest canopy matures over decades"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cantharellus_cibarius",
+    "inaturalist": "https://www.inaturalist.org/taxa/47347-Cantharellus-cibarius",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "Yes — Cantharellus species are native to Pennsylvania and found throughout the state in appropriate deciduous and mixed woodland habitat; one of the most reliably encountered edible wild mushrooms in the region",
+      "paInvasiveStatus": "Not listed as invasive in Pennsylvania; native species",
+      "drainage": "Hegins red clay soils are generally unsuitable in disturbed or open conditions but can develop compatible surface horizons once a mature canopy establishes and leaf litter accumulates over many years; existing undisturbed woodland edges and established oak or beech stands on the property or nearby are the best near-term habitat; clay-heavy disturbed soils will not produce chanterelles until the organic surface layer is restored over time",
+      "soil": "Red clay subsoil is common throughout central PA; chanterelle-supporting surface texture develops only where deciduous canopy has been undisturbed long enough to build a deep organic duff layer over the clay; any tillage, grading, or compaction resets this accumulation; scout existing undisturbed woodland rather than expecting recently established tree plantings to produce chanterelles for 15-30 years",
+      "cultivarNotes": null,
+      "designPlacement": "The oak and beech associations most likely to produce chanterelles in the Hegins area are Quercus rubra (red oak) and Fagus grandifolia (American beech); the existing food forest tree guild plantings (Malus, Asimina, Morus) are not chanterelle hosts; the paw paw guild's Lindera benzoin and understory species are not hosts; the long-term chanterelle opportunity lies in any Quercus rubra or Fagus grandifolia planted as canopy anchors at the woodland edge or in dedicated zones — these will not produce chanterelle conditions for 20-30 years minimum; near-term, scout the Hegins valley woodlands and nearby Bald Mountain / Weiser State Forest tracts during July-August following rain events",
+      "siteObservations": null
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "stachys-affinis",
+  "name": {
+    "commonName": [
+      "Chinese Artichoke",
+      "Crosne"
+    ],
+    "latinName": "Stachys affinis",
+    "family": "Lamiaceae"
+  },
+  "range": {
+    "nativeRange": "Northern China and Japan; naturalized in parts of Europe and North America",
+    "usNativeStatus": {
+      "native": false,
+      "description": "Not native to the US — introduced from East Asia. Occasionally naturalized in scattered locations but not widespread in the wild"
+    },
+    "invasive": {
+      "invasive": false,
+      "description": "Not listed as invasive or noxious in any US state. Spreads vigorously by tubers in cultivated settings and can be difficult to eradicate once established, but does not naturalize aggressively into wild habitats. Not on any federal or state noxious weed list. The spreading concern is garden-scale persistence rather than ecological invasion"
+    },
+    "zone": {
+      "min": 5,
+      "max": 9,
+      "description": "5–9"
+    }
+  },
+  "description": {
+    "height": "12–18 inches",
+    "spread": "12–18 inches per plant; spreads indefinitely by tubers if not contained",
+    "spacing": "12 inches",
+    "growthRate": "Moderate; spreads more aggressively after first establishment year",
+    "timeToMaturity": "First tuber harvest in fall of planting year",
+    "lifespan": "Perennial; effectively permanent once established due to persistent tubers",
+    "deciduousEvergreen": "Deciduous — tops die back after frost",
+    "winterInterest": "None; dies fully to ground"
+  },
+  "lightAndWater": {
+    "sun": "Full sun to partial shade; shade-tolerant enough for food forest understory",
+    "water": "Moderate; consistent moisture preferred, especially while tubers are sizing up in late summer. Tolerates brief dry spells once established",
+    "drainagePreference": {
+      "description": "Moist but well-drained; does not tolerate waterlogged soil. Standing water or saturated conditions cause tuber rot. Needs soil that drains freely after rain — raised beds or mounded rows are strongly preferred in any heavy-soil site",
+      "claySoilPerformance": {
+        "rating": "poor",
+        "description": "Poor — heavy clay causes two problems: waterlogging leads to tuber rot, and compaction makes tubers difficult to develop properly and nearly impossible to harvest cleanly. In clay soils, deep amendment with compost and coarse organic matter is essential, or grow in raised beds filled with loose, well-drained mix. Unamended clay is not viable for this crop"
+      }
+    }
+  },
+  "soil": {
+    "phRange": {
+      "min": 6,
+      "max": 7,
+      "description": "6.0–7.0"
+    },
+    "texturePreference": "Loose, friable, well-amended loam; loose soil is critical for tuber development and clean harvest. Sandy loam is ideal. Heavy clay or compacted soil must be amended before planting — tubers form in the top 6 inches and need soil they can push through",
+    "rootCharacter": "Shallow fibrous roots with stolons terminating in small spiral tubers; tubers typically 1–2 inches long and form in the top 6 inches of soil"
+  },
+  "bloom": {
+    "bloomTime": "Late summer (August–September)",
+    "bloomDescription": "Small, tubular two-lipped flowers in whorls up the stem; pale pink to lavender; typical mint family appearance; not showy",
+    "fragrance": "Mild; foliage has faint minty-herbaceous scent when bruised",
+    "flowerSex": "Hermaphrodite",
+    "pollination": "Self-fertile; also visited by bees and small pollinators"
+  },
+  "yield": {
+    "edibleParts": "Tubers (the primary crop); small, segmented, spiral-shaped; eaten raw, steamed, roasted, sautéed, pickled, or added to stir-fries; flavor is nutty, mildly sweet, similar to water chestnut or sunchoke but milder; texture remains crisp even when cooked",
+    "harvestSeason": "Fall — after first frost kills back the tops; tubers are at full size and sweetest after a frost. Harvest by digging carefully; almost impossible to get every tuber, so plant will persist",
+    "medicinalUses": "Minor traditional uses in Chinese medicine; tubers are high in stachyose (a prebiotic oligosaccharide); not a primary medicinal plant",
+    "craftOtherYield": "None notable"
+  },
+  "cautionsAndHazards": {
+    "thornsSpines": false,
+    "toxicityPeople": "None; fully edible. Note: stachyose content may cause gas in some individuals (similar to sunchoke effect), though typically milder",
+    "toxicityAnimals": "None known; tubers are generally considered safe",
+    "allelopathy": "None documented; typical mint family spreading behavior is mechanical (tubers), not chemical",
+    "notes": null
+  },
+  "permaculture": {
+    "layer": {
+      "primary": "groundCover",
+      "description": "Ground layer / rhizosphere"
+    },
+    "roles": [
+      "Edible ground cover; living mulch; rhizosphere crop; food forest understory plant; tuber yield; minor pollinator support (late-season bloom)"
+    ],
+    "companionPlants": [
+      "Apple",
+      "paw paw",
+      "mulberry (works as edible ground layer under all three guilds); comfrey (tolerate each other well; comfrey's deep roots won't compete with shallow tubers); garlic; other shade-tolerant herbs. Partners well with taller guild plants that leave ground-level light available"
+    ],
+    "antagonists": [
+      "No well-documented antagonists; avoid planting where soil is too wet or compacted for tuber development"
+    ],
+    "coppiceable": false
+  },
+  "wildlife": {
+    "attracts": "Bees and small pollinators visiting late-season flowers; minimal wildlife value compared to fruiting plants",
+    "hostPlantFor": "Not documented as a significant host",
+    "nestingHabitat": "Dense low foliage may provide minor ground-level cover"
+  },
+  "tolerances": {
+    "deer": {
+      "rating": "moderate",
+      "description": "Moderate — deer may browse foliage; mint family plants are sometimes avoided but not reliably so. Tubers underground are protected from browsing. Young spring growth is most vulnerable. In high-pressure areas, temporary fencing or repellent sprays may be needed until plants establish a dense patch"
+    },
+    "salt": {
+      "rating": "low",
+      "description": "Low — not salt-tolerant; avoid planting near salted roads or walkways"
+    },
+    "drought": {
+      "rating": "low-moderate",
+      "description": "Low to moderate — needs consistent moisture for good tuber yield; not a drought plant. In arid or hot-summer regions, mulch heavily and irrigate regularly during the tuber-sizing period (late summer)"
+    },
+    "other": "Shade-tolerant (a key asset for food forest understory use); frost-tolerant as a perennial root crop (tops die, tubers survive underground through winter); does not tolerate waterlogged soil or heavy compaction"
+  },
+  "maintenance": {
+    "maintenanceLevel": "Low to moderate — easy to grow, but spreading must be managed; can be contained with root barriers (similar to mint) or by thorough annual harvest",
+    "pruningNotes": "Cut back dead tops after frost; no other pruning required",
+    "propagationMethods": [
+      "Tubers — save a portion of the harvest and replant in spring",
+      "2–4 inches deep; can also be ordered from specialty seed and root suppliers. Division is simple and reliable"
+    ]
+  },
+  "cultivarNotes": "Very few named cultivars exist; typically sold as the straight species (Stachys affinis). Some sources list a 'White' tuber form, referring to the creamy-white tuber color, but this is not a meaningfully distinct cultivar — all commercially available stock is essentially the species. Performance is consistent across Zones 5–9 with no regional cultivar selection needed. Source from reputable specialty food plant suppliers (Strictly Medicinal Seeds, Horizon Herbs, or similar) rather than general nurseries, which rarely carry this plant.",
+  "gardenUse": {
+    "suggestedUse": [
+      "Edible ground layer in food forest guilds; specialty root vegetable in vegetable or kitchen garden; novelty crop with high culinary interest for adventurous gardeners"
+    ],
+    "designPlacement": "Best grown as a food forest ground layer under deciduous fruit or nut trees, or in dedicated raised beds for vegetable production. Shade-tolerant — suitable for understory placement where other root crops would fail. Small tubers are harvested in fall after frost. Spreads by tubers and can become difficult to remove; contain with buried root barriers or harvest thoroughly each fall. Keep away from beds where spreading would be problematic. In loose, well-drained soil with consistent moisture, it is a low-maintenance edible ground cover",
+    "acquisitionStatus": "Not yet acquired — specialty sourcing required; not typically available at local nurseries"
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stachys_affinis",
+    "inaturalist": "https://www.inaturalist.org/taxa/57574",
+    "missouriBotanicalGarden": null
+  },
+  "siteNotes": {
+    "pennsylvaniaHegins": {
+      "nativeToSite": "No — introduced from East Asia; not native to Pennsylvania or any part of the eastern US",
+      "paInvasiveStatus": "Not regulated in Pennsylvania. Not on the PA Dept. of Agriculture invasive species list or DCNR watch list. Same as general Invasive field — not a regulatory concern",
+      "drainage": "The red clay at Hegins is a poor match for in-ground planting without significant preparation. Raised beds or heavily amended planting pockets are required — loose soil to at least 8 inches depth. Compost and leaf mold worked into the clay will improve both drainage and harvestability. The vegetable garden raised beds remove this constraint entirely",
+      "soil": "Hegins red clay requires deep amendment with compost before in-ground planting. Raised vegetable beds with imported soil mix are the simplest path. If planting under tree guilds, prepare individual planting pockets with loosened, amended soil rather than attempting to grow directly in unamended clay",
+      "cultivarNotes": "the straight species is the only option and performs well in this zone; source from specialty suppliers and plan for spring planting after last frost.",
+      "designPlacement": "Good candidate for the understory of the apple or paw paw guilds, functioning as an edible ground layer under the canopy. Also suitable for raised vegetable beds where soil conditions are already ideal. If planting under tree guilds in ground, prepare amended planting pockets in the clay",
+      "siteObservations": "Amend planting area with compost to loosen the red clay before any in-ground planting — loose soil is essential for both tuber development and clean harvest. Consider planting within a buried root barrier (like mint) or in a dedicated raised section to prevent spreading into adjacent plantings. Deer pressure from the east corridor is a moderate concern for foliage browsing but tubers are protected underground. The clay drainage issues at this site make raised beds or heavily amended soil a near-requirement for reliable tuber production"
+    }
+  }
+}
